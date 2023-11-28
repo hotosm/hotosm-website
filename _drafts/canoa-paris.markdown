@@ -9,7 +9,9 @@ El pasado mes de marzo, el Hub y Canoa de Tolda -una de nuestras organizaciones 
 
 Luego que la participación de Canoa de Tolda al PPF fuera aprobada, el equipo expositor quedó conformado por Carlos Eduardo Ribeiro -coordinador del proyecto-, Igor da Mata -Profesor de la UFAL y asociado al proyecto- y Marina Aragão -project manager del Hub-, concretándose la participación de Canoa de Tolda en la presencia de un stand en el evento y su intervención en una mesa redonda.
 
-El stand de Canoa de Tolda quedo bastante bien ubicado y fue muy visto y visitado, contándose entre los visitantes al 
+El stand de Canoa de Tolda quedo bastante bien ubicado y fue muy visto y visitado, contándose entre los visitantes al director/fundador de la FPP, Justin Vaisse, y el equipo del Ministére des Affaires Etrangéres de Francia. El ministro Celso Amorim, asesor especial para asuntos internacionales de la Presidencia de la República de Brasil, también estuvo presente en el stand.
+
+La participación en la Mesa Redonda - Salvaguardando los Árboles de la Vida: Uniendo el Clima y Agendas de Biodiversidad, mediada por Celina Chien, donde Carlos Eduardo Ribeiro compartió mesa con representantes de otros proyectos de México, China, Perú y Francia fue muy positiva, ya que se pudo dejar claro que la biodiversidad y las acciones de conservación son necesarias en todos los biomas y ecosistemas y no sólo en la Amazonia.
 
 Igor
 
