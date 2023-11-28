@@ -12,7 +12,11 @@ El equipo expositor quedó conformado por Carlos Eduardo Ribeiro -coordinador de
 
 El stand de Canoa de Tolda quedó bastante bien ubicado y fue muy visto y visitado, contándose entre los visitantes al director/fundador de la FPP, [Justin Vaisse](https://en.wikipedia.org/wiki/Justin_Va%C3%AFsse), y el equipo del Ministére des Affaires Etrangéres de Francia. El ex ministro [Celso Amorim](https://es.wikipedia.org/wiki/Celso_Amorim), actual asesor especial para asuntos internacionales de la Presidencia de la República de Brasil, también visitó el stand.
 
+![canoa paris 2.jpg](/uploads/canoa%20paris%202.jpg)
+
 La participación en la [Mesa Redonda - Salvaguardando los Árboles de la Vida: Uniendo el Clima y Agendas de Biodiversidad](https://www.youtube.com/watch?v=kv0JDu8HNzA), mediada por [Celina Chien](https://www.celinachien.com/), donde Carlos Eduardo Ribeiro compartió mesa con representantes de otros proyectos de México, China, Perú y Francia fue muy positiva, ya que se pudo dejar claro que las acciones de conservación de la biodiversidad son necesarias en todos los biomas y ecosistemas y no sólo en la Amazonia.
+
+![canoa paris 1.jpg](/uploads/canoa%20paris%201.jpg)
 
 El profesor Igor da Mata nos cuenta su perspectiva del evento:
 
