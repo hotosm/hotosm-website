@@ -1,6 +1,7 @@
 ---
 title: Canoa París
 date: 2023-11-24 15:13:00 Z
+Person: Juan Arellano Valdivia
 ---
 
 Del 10 al 11 de noviembre se realizó la sexta edición del [Paris Peace Forum](https://parispeaceforum.org/) (PPF), una iniciativa cuyo objetivo de este año era “buscar puntos comunes en un mundo de rivalidad”, en un contexto de polarización global  que pone en peligro la cooperación internacional en cuestiones vitales para la humanidad.
