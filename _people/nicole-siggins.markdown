@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/IMG_1718(1).jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Corporate Virtual Volunteering Sr. Associate
+Job Title: Corporate Partnerships Lead
 Country: Germany, Hamburg
 Team: Global
 Social Media (Full URL):
