@@ -1,10 +1,10 @@
 ---
-title: Canoa París
+title: Canoa de Tolda en el Foro de París sobre la Paz 2023
 date: 2023-11-24 15:13:00 Z
 Person: Juan Arellano Valdivia
 ---
 
-Del 10 al 11 de noviembre se realizó la sexta edición del [Paris Peace Forum](https://parispeaceforum.org/) (PPF), una iniciativa cuyo objetivo de este año era “buscar puntos comunes en un mundo de rivalidad”, en un contexto de polarización global  que pone en peligro la cooperación internacional en cuestiones vitales para la humanidad.
+Del 10 al 11 de noviembre se realizó la sexta edición del [Paris Peace Forum](https://parispeaceforum.org/) (PPF), una iniciativa cuyo objetivo de este año era “buscar puntos comunes en un mundo de rivalidades”, en un contexto de polarización global que pone en peligro la cooperación internacional en cuestiones vitales para la humanidad.
 
 El pasado mes de marzo, el Hub y [Canoa de Tolda](https://canoadetolda.org.br/) -una de nuestras organizaciones aliadas- postularon el proyecto que realizamos en colaboración en Brasil al PPF, pues visibilizaría los problemas socioambientales en América Latina.y, en particular de la región noreste brasileña con el caso del río Sáo Francisco y también a la organización.
 
