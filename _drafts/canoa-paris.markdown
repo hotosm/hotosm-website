@@ -5,11 +5,11 @@ date: 2023-11-24 15:13:00 Z
 
 Del 10 al 11 de noviembre se realizó la sexta edición del [Paris Peace Forum](https://parispeaceforum.org/) (PPF), una iniciativa cuyo objetivo de este año era “buscar puntos comunes en un mundo de rivalidad”, en un contexto de polarización global  que pone en peligro la cooperación internacional en cuestiones vitales para la humanidad.
 
-El pasado mes de marzo, el Hub y [Canoa de Tolda](https://canoadetolda.org.br/) -una de nuestras organizaciones aliadas- vieron la conveniencia de postular a esta ultima al PPF, pues visibilizaría los problemas socioambientales en América Latina.y, en particular de la región noreste brasileña con el caso del río Sáo Francisco y también, naturalmente a la organización.
+El pasado mes de marzo, el Hub y [Canoa de Tolda](https://canoadetolda.org.br/) -una de nuestras organizaciones aliadas- postularon el proyecto que realizamos en colaboración en Brasil al PPF, pues visibilizaría los problemas socioambientales en América Latina.y, en particular de la región noreste brasileña con el caso del río Sáo Francisco y también a la organización.
 
-Luego que la participación de Canoa de Tolda al PPF fuera aprobada, el equipo expositor quedó conformado por Carlos Eduardo Ribeiro -coordinador del proyecto-, Igor da Mata -Profesor de la UFAL y asociado al proyecto- y Marina Aragão -project manager del Hub-, concretándose la participación de Canoa de Tolda en la presencia de un stand en el evento y su intervención en una mesa redonda. Y el PPF construyo una pequeña pagina web para [presentación del proyecto](https://parispeaceforum.org/projects/reserva-mato-da-onca-forets-pour-lavenir/).
+El equipo expositor quedó conformado por Carlos Eduardo Ribeiro -coordinador del proyecto-, Igor da Mata -Profesor de la UFAL y asociado al proyecto- y Marina Aragão -project manager del Hub-, concretándose la participación de Canoa de Tolda en la presencia de un stand en el evento y su intervención en una mesa redonda. El PPF por su parte construyó una pequeña pagina web de [presentación del proyecto](https://parispeaceforum.org/projects/reserva-mato-da-onca-forets-pour-lavenir/).
 
-El stand de Canoa de Tolda quedo bastante bien ubicado y fue muy visto y visitado, contándose entre los visitantes al director/fundador de la FPP, [Justin Vaisse](https://en.wikipedia.org/wiki/Justin_Va%C3%AFsse), y el equipo del Ministére des Affaires Etrangéres de Francia. El ex ministro [Celso Amorim](https://es.wikipedia.org/wiki/Celso_Amorim), actual asesor especial para asuntos internacionales de la Presidencia de la República de Brasil, también estuvo presente en el stand.
+El stand de Canoa de Tolda quedó bastante bien ubicado y fue muy visto y visitado, contándose entre los visitantes al director/fundador de la FPP, [Justin Vaisse](https://en.wikipedia.org/wiki/Justin_Va%C3%AFsse), y el equipo del Ministére des Affaires Etrangéres de Francia. El ex ministro [Celso Amorim](https://es.wikipedia.org/wiki/Celso_Amorim), actual asesor especial para asuntos internacionales de la Presidencia de la República de Brasil, también visitó el stand.
 
 La participación en la [Mesa Redonda - Salvaguardando los Árboles de la Vida: Uniendo el Clima y Agendas de Biodiversidad](https://www.youtube.com/watch?v=kv0JDu8HNzA), mediada por [Celina Chien](https://www.celinachien.com/), donde Carlos Eduardo Ribeiro compartió mesa con representantes de otros proyectos de México, China, Perú y Francia fue muy positiva, ya que se pudo dejar claro que las acciones de conservación de la biodiversidad son necesarias en todos los biomas y ecosistemas y no sólo en la Amazonia.
 
@@ -23,7 +23,9 @@ Por su parte Marina Aragão reflexiona acerca de la importancia de la Reserva Ma
 >
 > La participación de Reserva Mato da Onça en el Foro de Paz de París 2023 fue una importante oportunidad para destacar sus esfuerzos en un escenario global. Más allá del mero reconocimiento, el foro sirvió como plataforma para mostrar los impactos tangibles de la iniciativa a partes interesadas influyentes y futuros socios potenciales. Este encuentro internacional no sólo elevó el perfil de la Reserva Mato da Onça sino que también fomentó conexiones que son integrales para su éxito en la conservación socioambiental en la región del Bajo São Francisco. El evento subrayó el compromiso de la iniciativa con la preservación de la biodiversidad en el bioma Caatinga, enfatizando el papel crucial de las asociaciones estratégicas para abordar los desafíos ambientales.​
 
-Otras publicaciones relacionadas:
+Gracias a esta exposición del proyecto realizado en conjunto, Canoa de Tolda ha ganado visibilidad y oportunidades tanto de colaboración como de financiación. Esto coincide con unos de nuestros objetivos de trabajo, que es que nuestras organizaciones aliadas puedan tener crecimiento y escalar su impacto.
+
+**Otras publicaciones relacionadas:**
 
 [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda-0a2b5e/)
 
