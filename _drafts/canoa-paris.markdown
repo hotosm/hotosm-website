@@ -11,7 +11,7 @@ Luego que la participación de Canoa de Tolda al PPF fuera aprobada, el equipo e
 
 El stand de Canoa de Tolda quedo bastante bien ubicado y fue muy visto y visitado, contándose entre los visitantes al director/fundador de la FPP, Justin Vaisse, y el equipo del Ministére des Affaires Etrangéres de Francia. El ministro Celso Amorim, asesor especial para asuntos internacionales de la Presidencia de la República de Brasil, también estuvo presente en el stand.
 
-La participación en la Mesa Redonda - Salvaguardando los Árboles de la Vida: Uniendo el Clima y Agendas de Biodiversidad, mediada por Celina Chien, donde Carlos Eduardo Ribeiro compartió mesa con representantes de otros proyectos de México, China, Perú y Francia fue muy positiva, ya que se pudo dejar claro que la biodiversidad y las acciones de conservación son necesarias en todos los biomas y ecosistemas y no sólo en la Amazonia.
+La participación en la Mesa Redonda - Salvaguardando los Árboles de la Vida: Uniendo el Clima y Agendas de Biodiversidad, mediada por Celina Chien, donde Carlos Eduardo Ribeiro compartió mesa con representantes de otros proyectos de México, China, Perú y Francia fue muy positiva, ya que se pudo dejar claro que  las acciones de conservación de la biodiversidad son necesarias en todos los biomas y ecosistemas y no sólo en la Amazonia.
 
 Igor
 
