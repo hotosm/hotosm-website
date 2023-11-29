@@ -21,11 +21,12 @@ Notre cadre de protection des données définit la manière dont les intervenant
 * et les communautés (OSM) qui participent aux activités de collecte de données financées par HOT ou d'autres donateurs.
 
 L'approche de HOT en matière de données respectueuses de l'éthique s'appuie sur les principes de données "ouvertes et accessibles", "données utiles et utilisables", "inclusives et représentatives" et "données respectueuses de l'éthique et protection".
-Le mot "protection" est utilisé ici d'une manière similaire à son usage courant dans le domaine humanitaire, qui englobe deux définitions de base :
+
+Le mot "protection" est utilisé ici d'une manière similaire à son usage [courant dans le domaine humanitaire](https://www.unocha.org/es/themes/protection), qui englobe deux définitions de base :
 1. Protéger la vie, les moyens de subsistance, la sécurité, la santé et la dignité des personnes affectées, et
 2. Veiller à ce que nos propres actions n'entraînent pas ou ne perpétuent pas la discrimination, les abus, la négligence ou la violence.
 
-Le cadre de protection comporte deux volets :
+[Le cadre de protection comporte deux volets](https://github.com/hotosm/data_protection_project/):
 1. La politique de protection qui détaille l'approche de HOT en matière de données éthiques.
 2. L'outil d'éthique et de protection des données, qui permet d'effectuer un exercice sur les données éthiques afin d'identifier les risques et les mesures d'atténuation pour chaque projet de production de données.
 
