@@ -7,6 +7,7 @@ Summary Text: Each quarter, we’re featuring one of our all-star staff members 
   their superb performance and values-driven work. This quarter, we’re spotlighting
   Nicole Siggins, Corporate Partnerships Lead on the Fundraising team.
 Feature Image: "/uploads/nicole-altona-map.jpeg"
+Is image top aligned: true
 ---
 
 ## What first attracted you to work at HOT?
@@ -15,7 +16,7 @@ My interests in mapping, Missing Maps, and community projects led me to voluntee
 
 ## What's the best thing about your colleagues?
 
-Their passion! I feel endlessly grateful to be able to work alongside such passionate and excited colleagues. We’re also a worldwide team, and it’s great to be able to work with folks from so many difficult cultures and backgrounds.
+Their passion! I feel endlessly grateful to be able to work alongside such passionate and excited colleagues. We’re also a worldwide team, and it’s great to be able to work with folks from so many different cultures and backgrounds.
 
 ## Tell us a bit about how your career/personal journey led you to HOT. 
 
