@@ -1,6 +1,8 @@
 ---
 title: Canoa de Tolda en el Foro de París sobre la Paz 2023
 date: 2023-11-24 15:13:00 Z
+categories:
+- news
 tags:
 - "#ParisPeaceForum2023"
 - Brasil
