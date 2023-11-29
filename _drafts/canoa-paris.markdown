@@ -5,6 +5,8 @@ tags:
 - "#ParisPeaceForum2023"
 - Brasil
 - Canoa de Tolda
+Summary Text: Canoa de Tolda y el Hub de Mapeo Abierto LAC estuvieron en el Foro de
+  París sobre la Paz 2023. Entérate de como fue nuestra participación.
 Person: Juan Arellano Valdivia
 ---
 
