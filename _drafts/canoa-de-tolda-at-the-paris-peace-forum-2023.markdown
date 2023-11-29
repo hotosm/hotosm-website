@@ -42,8 +42,8 @@ Gracias a esta exposición del proyecto realizado en conjunto, Canoa de Tolda ha
 [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda-0a2b5e/)
 [Canoa de Tolda: Mapeo para visibilizar la dinámica social del Río São Francisco](https://www.hotosm.org/updates/canoa-de-tolda-mapeo-para-visibilizar-la-dinamica-social-del-rio-sao-francisco/)
 
-*Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
+*If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: Volunteer mapper**.*
 
-*Si eres parte de alguna organización que desea explorar cómo colaborar en un proyecto de cartografía digital, escribe un correo a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
+*If you are part of an organization that wants to explore how to collaborate on a project, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: LAC Projects**.*
 
-**Síguenos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
+***Follow us on networks: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).***
