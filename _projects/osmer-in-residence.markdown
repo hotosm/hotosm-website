@@ -4,7 +4,6 @@ title: Strengthening Collaboration Between Organizations and Local Communities i
 date: 2023-11-29 14:47:00 Z
 tags:
 - OSMER
-Feature Image: "/uploads/OSMer_Header.png"
 ---
 
 The shared vision of creating a detailed, accessible, and community-driven map of the world continues to drive the open mapping movement. Increasingly, organizations across diverse sectors are recognizing the value of open data and its potential impact on societal development. 
