@@ -37,10 +37,10 @@ Por su parte Marina Aragão reflexiona acerca de la importancia de la Reserva Ma
 
 Gracias a esta exposición del proyecto realizado en conjunto, Canoa de Tolda ha ganado visibilidad y oportunidades tanto de colaboración como de financiación. Esto coincide con unos de nuestros objetivos de trabajo, que es que nuestras organizaciones aliadas puedan tener crecimiento y escalar su impacto.
 
-**Otras publicaciones relacionadas:**
+**Other related posts:**
 
-[Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda-0a2b5e/)
-[Canoa de Tolda: Mapeo para visibilizar la dinámica social del Río São Francisco](https://www.hotosm.org/updates/canoa-de-tolda-mapeo-para-visibilizar-la-dinamica-social-del-rio-sao-francisco/)
+[Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda/)
+[Canoa de Tolda: Representing the social dynamics of the São Francisco River through mapping](https://www.hotosm.org/updates/canoa-de-tolda-mapping-to-make-visible-the-social-dynamics-of-the-sao-francisco-river/)
 
 *If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: Volunteer mapper**.*
 
