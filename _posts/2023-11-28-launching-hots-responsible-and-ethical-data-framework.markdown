@@ -34,4 +34,6 @@ Our [Protection Framework](https://github.com/hotosm/data_protection_project/) h
 1. Protection Policy to detail HOT’s approach to ethical data.
 2. Data Ethics and Protection Tool to complete ethical data exercise to identify risks and mitigations per data creation project. 
 
+![HOT Ethical Data & Protection Decision Chart](https://github.com/hotosm/data_protection_project/raw/main/images/Ethical_Data_and_Protection_Decision_Flowchart.jpg "HOT Ethical Data & Protection Decision Chart")
+
 As we move forward with our goal of mapping an area that is home to one billion people, we will do so responsibly using this framework. Any questions or comments can be sent to [data@hotosm.org](data@hotosm.org). 
