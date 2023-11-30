@@ -5,7 +5,7 @@ published: false
 Summary Text: 'At the Humanitarian OpenStreetMap Team, we promote open and accessible
   data. What happens, though, when open data inadvertently brings attention to the
   location of something that could cause harm to the people in that area? '
-Feature Image: https://github.com/hotosm/data_protection_project/raw/main/images/Ethical_Data_and_Protection_Decision_Flowchart.jpg
+Feature Image: "/uploads/DataCollection.jpeg"
 Person:
 - Jessica Pechmann
 - Paul Uithol
