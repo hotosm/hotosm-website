@@ -37,3 +37,6 @@ Our [Protection Framework](https://github.com/hotosm/data_protection_project/) h
 ![HOT Ethical Data & Protection Decision Chart](https://github.com/hotosm/data_protection_project/raw/main/images/Ethical_Data_and_Protection_Decision_Flowchart.jpg "HOT Ethical Data & Protection Decision Chart")
 
 As we move forward with our goal of mapping an area that is home to one billion people, we will do so responsibly using this framework. Any questions or comments can be sent to [data@hotosm.org](data@hotosm.org). 
+
+> Français: [Lancement du programme de données responsables et éthiques de HOT ](hotosm.org/updates/lancement-du-programme-de-donnees-responsables-et-ethiques-de-hot/)
+> Español: [Lanzamiento del marco para datos éticos y responsables de HOT](hotosm.org/updates/lanzamiento-del-marco-para-datos-eticos-y-responsables-de-hot/)
