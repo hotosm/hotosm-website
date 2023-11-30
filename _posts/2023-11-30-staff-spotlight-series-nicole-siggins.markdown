@@ -1,7 +1,6 @@
 ---
 title: 'Staff Spotlight Series: Nicole Siggins'
 date: 2023-11-30 19:32:00 Z
-published: false
 Summary Text: Each quarter, we’re featuring one of our all-star staff members in a
   Staff Spotlight Series. Staff featured in this Series have been peer-nominated for
   their superb performance and values-driven work. This quarter, we’re spotlighting
