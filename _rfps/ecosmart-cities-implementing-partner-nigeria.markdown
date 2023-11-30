@@ -1,7 +1,7 @@
 ---
 title: EcoSmart Cities - Implementing Partner (Nigeria)
 date: 2023-11-16 19:27:00 Z
-Deadline Date: 2023-12-01 00:00:00 Z
+Deadline Date: 2023-12-10 00:00:00 Z
 Apply Form Link: https://drive.google.com/file/d/1r3bGi0cD-vlLHKgUKoRDRFlrI-36jiao/view?usp=drive_link
 ---
 
@@ -46,4 +46,4 @@ The principal aspirations of the project encompass the following:
 
 * Conduct a knowledge-sharing webinar with all participating city representatives to discuss project outcomes sustainability.
 
-  The complete RFP is available [here](https://drive.google.com/file/d/1r3bGi0cD-vlLHKgUKoRDRFlrI-36jiao/view?usp=drive_link). Apply by sending your proposal to [programs.wna@hotosm.org](mailto:programs.wna@hotosm.org) before **December 1st.**
+  The complete RFP is available [here](https://drive.google.com/file/d/1r3bGi0cD-vlLHKgUKoRDRFlrI-36jiao/view?usp=drive_link). Apply by sending your proposal to [programs.wna@hotosm.org](mailto:programs.wna@hotosm.org) before **December 10th.**
