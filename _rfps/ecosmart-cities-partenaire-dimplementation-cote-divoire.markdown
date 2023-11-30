@@ -1,7 +1,7 @@
 ---
 title: EcoSmart Cities - Partenaire d’implémentation (Côte d'Ivoire)
 date: 2023-11-17 14:01:00 Z
-Deadline Date: 2023-12-01 00:00:00 Z
+Deadline Date: 2023-12-10 00:00:00 Z
 Apply Form Link: https://drive.google.com/file/d/17pGP3V2Q3TOhHqIftqb5OoUbUuanf0-5/view?usp=drive_link
 ---
 
@@ -42,4 +42,4 @@ Les principales aspirations du projet sont les suivantes:
 
 * Organiser un webinaire de partage de connaissances avec tous les représentants des villes participantes pour discuter de la durabilité des résultats du projet.
 
-L'appel d'offres complet est disponible [ici](https://drive.google.com/file/d/17pGP3V2Q3TOhHqIftqb5OoUbUuanf0-5/view?usp=drive_link). Envoyez votre proposition à [programs.wna@hotosm.org](mailto:programs.wna@hotosm.org) avant le 1er décembre.
+L'appel d'offres complet est disponible [ici](https://drive.google.com/file/d/17pGP3V2Q3TOhHqIftqb5OoUbUuanf0-5/view?usp=drive_link). Envoyez votre proposition à [programs.wna@hotosm.org](mailto:programs.wna@hotosm.org) avant le 10 décembre.
