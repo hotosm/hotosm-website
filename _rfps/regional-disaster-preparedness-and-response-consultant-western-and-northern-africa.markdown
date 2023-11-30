@@ -2,7 +2,7 @@
 title: Regional Disaster Preparedness and Response Consultant (Western and Northern
   Africa)
 date: 2023-11-20 22:30:00 Z
-Deadline Date: 2023-11-30 00:00:00 Z
+Deadline Date: 2023-12-10 00:00:00 Z
 Page Contact:
   Contact Email: programs.wna@hotosm.org
   Label: Submissions and questions
@@ -14,7 +14,7 @@ Page Contact:
 
 **Location/Duty Station:** Remote (to cover 24 countries in WNA)
 
-**Application Closes**: November 30, 2023
+**Application Closes**: December 10, 2023
 
 **Projected start date:**  December 15, 2023
 
@@ -130,7 +130,7 @@ Proposals will be evaluated based on the following criteria:
 
 **Lieu de travail:** À distance (pour couvrir les 24 pays du Hub WNA)
 
-**Clôture de la candidature:** 30 novembre 2023
+**Clôture de la candidature:** 10 décembre 2023
 
 **Date probable de début:** 15 décembre 2023
 
