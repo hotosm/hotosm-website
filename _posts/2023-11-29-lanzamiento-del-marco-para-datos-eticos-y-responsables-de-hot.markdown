@@ -2,6 +2,7 @@
 title: Lanzamiento del marco para datos éticos y responsables de HOT
 date: 2023-11-29 23:20:00 Z
 published: false
+Feature Image: "/uploads/DataCollection.jpeg"
 ---
 
 En el Equipo Humanitario de OpenStreetMap (HOT), promovemos datos abiertos y accesibles. ¿Qué ocurre cuando los datos abiertos llaman inadvertidamente la atención sobre la ubicación geográfica de algo que podría causar daño a la población de esta zona? Los hospitales en zonas de guerra, los lugares de culto de minorías, los servicios médicos ilegales pero vitales, son algunos de los tipos de datos sensibles que, dependiendo del contexto, podrían tener consecuencias significativas para las personas en el terreno. 
@@ -24,4 +25,4 @@ Nuestro [Marco de Protección tiene dos componentes](https://github.com/hotosm/d
 1. La Política de Protección, la cual detalla el enfoque de HOT sobre la ética de los datos.
 2. La Herramienta de Ética y Protección de datos para completar el ejercicio de datos éticos, con el fin de identificar los riesgos y mitigaciones por cada proyecto que produzca datos. 
 
-A medida que avancemos en nuestro objetivo de mapear un área en la que viven mil millones de personas, lo haremos de forma responsable utilizando este marco. Cualquier pregunta o comentario, puede hacerla a la dirección: data@hotosm.org.
+A medida que avancemos en nuestro objetivo de mapear un área en la que viven mil millones de personas, lo haremos de forma responsable utilizando este marco. Cualquier pregunta o comentario, puede hacerla a la dirección: [data@hotosm.org](data@hotosm.org). 
