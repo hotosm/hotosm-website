@@ -2,6 +2,7 @@
 title: Lancement du programme de données responsables et éthiques de HOT
 date: 2023-11-29 22:58:00 Z
 published: false
+Feature Image: "/uploads/DataCollection.jpeg"
 Person:
 - Jessica Pechmann
 - Paul Uithol
@@ -30,4 +31,4 @@ Le mot "protection" est utilisé ici d'une manière similaire à son usage [cour
 1. La politique de protection qui détaille l'approche de HOT en matière de données éthiques.
 2. L'outil d'éthique et de protection des données, qui permet d'effectuer un exercice sur les données éthiques afin d'identifier les risques et les mesures d'atténuation pour chaque projet de production de données.
 
-Alors que nous poursuivons notre objectif de cartographier une région qui abrite un milliard de personnes, nous le ferons de manière responsable en utilisant ce cadre. Toute question ou commentaire peut être envoyé à data@hotosm.org.
+Alors que nous poursuivons notre objectif de cartographier une région qui abrite un milliard de personnes, nous le ferons de manière responsable en utilisant ce cadre. Toute question ou commentaire peut être envoyé à [data@hotosm.org](data@hotosm.org). 
