@@ -2,7 +2,7 @@
 title: Strengthening Gender Resilience Against Disaster Project - National Coordinator
   (Sierra Leone, Cameroon)
 date: 2023-11-21 13:29:00 Z
-Deadline Date: 2023-11-30 00:00:00 Z
+Deadline Date: 2023-12-10 00:00:00 Z
 Page Contact:
   Contact Email: programs.wna@hotosm.org
   Label: Submissions and questions
@@ -18,7 +18,7 @@ Page Contact:
 	</tr>
 	<tr>
 		<td>Application close date:</td>
-		<td style="border-left: 1px solid black">November 30, 2023</td>
+		<td style="border-left: 1px solid black">December 10th, 2023</td>
 	</tr>
 <tr>
 		<td>Project start date:</td>
@@ -109,7 +109,7 @@ Full Request for Proposal is available [here.](https://docs.google.com/document/
 	</tr>
 	<tr>
 		<td>ADate de clôture de la candidature:</td>
-		<td style="border-left: 1px solid black">30 novembre 2023</td>
+		<td style="border-left: 1px solid black">10 decembre 2023</td>
 	</tr>
 <tr>
 		<td>Date de début du projet:</td>
