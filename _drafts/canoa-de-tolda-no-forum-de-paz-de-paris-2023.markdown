@@ -1,6 +1,8 @@
 ---
 title: Canoa de Tolda no Fórum de Paz de Paris 2023
 date: 2023-12-01 21:13:00 Z
+Summary Text: Canoa de Tolda e o LAC Open Mapping Hub estiveram no Fórum de Paz de
+  Paris 2023. Saiba como foi nossa participação.
 ---
 
 Entre os dias 10 e 11 de novembro, foi realizada a sexta edição do Fórum de Paz de Paris (PPF), uma iniciativa cujo objetivo deste ano foi "buscar um terreno comum em um mundo de rivalidade", em um contexto de polarização global que compromete a cooperação internacional em questões vitais para a humanidade.\
