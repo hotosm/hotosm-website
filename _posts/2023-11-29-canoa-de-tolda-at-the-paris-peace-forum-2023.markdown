@@ -42,6 +42,7 @@ Thanks to this exhibition of the project carried out together, Canoa de Tolda ha
 **Other related posts:**
 
 [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda/)
+
 [Canoa de Tolda: Representing the social dynamics of the São Francisco River through mapping](https://www.hotosm.org/updates/canoa-de-tolda-mapping-to-make-visible-the-social-dynamics-of-the-sao-francisco-river/)
 
 *If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: Volunteer mapper**.*

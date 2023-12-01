@@ -1,8 +1,15 @@
 ---
 title: Canoa de Tolda no Fórum de Paz de Paris 2023
 date: 2023-11-29 00:30:00 Z
+categories:
+- news
+tags:
+- "#ParisPeaceForum2023"
+- Brasil
+- Canoa de Tolda
 Summary Text: Canoa de Tolda e o LAC Open Mapping Hub estiveram no Fórum de Paz de
   Paris 2023. Saiba como foi nossa participação.
+Feature Image: "/uploads/photo_5131917909751344251_y.jpg"
 Person:
 - Juan Arellano Valdivia
 - Everton Bortolini
@@ -37,6 +44,7 @@ Graças a essa exposição do projeto realizado em conjunto, a Canoa de Tolda ga
 **Outros posts relacionados:**
 
 [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda-0a2b5e/)
+
 [Canoa de Tolda: Representando a dinâmica social do Rio São Francisco por meio de mapeamento](https://www.hotosm.org/updates/canoa-de-tolda-mapeamento-para-visualizar-a-dinamica-social-do-rio-sao-francisco/)
 
 Se você quiser fazer parte da comunidade de mapeadores voluntários do LAC Open Mapping Hub, escreva um e-mail para [hublatam@hotosm.org](mailto:hublatam@hotosm.org) com o assunto: Mapeador voluntário.
