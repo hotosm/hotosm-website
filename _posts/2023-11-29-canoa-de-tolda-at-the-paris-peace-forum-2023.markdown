@@ -1,5 +1,5 @@
 ---
-title: Canoa de tolda at the Paris Peace Forum 2023
+title: Canoa de Tolda at the Paris Peace Forum 2023
 date: 2023-11-29 00:31:00 Z
 categories:
 - news
