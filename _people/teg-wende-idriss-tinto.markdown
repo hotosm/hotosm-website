@@ -1,9 +1,10 @@
 ---
 title: Teg-wende Idriss TINTO
 date: 2022-02-08 09:11:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/VISA+photo+Tinto+Idriss+(1).jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Community Manager - West and Northern Africa
 Team: West and Northern Africa Hub
 Social Media (Full URL):
