@@ -3,6 +3,8 @@ title: AbreLatam 2023
 date: 2023-11-29 14:42:00 Z
 ---
 
+Hace poco mas de un ano, a propósito del evento América Abierto, que fue como se llamó el AbreLatam/Condatos en el 2022, 
+
 Daniel Carranza, co-fundador de [DATA Uruguay](https://data.org.uy/) -una de las organizadoras del AbraLatam- cree que fue un momento trascendental en el crecimiento del movimiento datero regional:
 
 > La comunidad de datos abiertos en América Latina tuvo durante 10 años una injustificable desconexión con otros movimientos muy vinculados a datos como wikimedistas o mapeadores/as. La presencia -muy significativa además- del Hub de Mapeo Abierto y su comunidad en ABRELATAM/CONDATOS 2023 fue el mejor primer paso posible para cerrar esa brecha, porque fue mucho más allá de la participación en el evento. El Hub formó parte del equipo de co-organización, sus actividades se integraron completamente en las de ABRELATAM/CONDATOS (y otros eventos de la Maratón de Datos como el Festival de Datos), pero sobretodo se sintió una clara integración a nivel de comunidad. Quienes trabajamos en datos abiertos tenemos mucho que aprender y para compartir con la comunidad de mapeadores y mi sensación luego de los eventos es que hemos -por fin- dado un paso muy importante para construir colaboración, proyectos y la amistad que forja una comunidad.
