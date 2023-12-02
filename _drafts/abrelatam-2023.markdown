@@ -3,7 +3,7 @@ title: AbreLatam 2023
 date: 2023-11-29 14:42:00 Z
 ---
 
-Hace poco mas de un ano, a propósito del evento América Abierto, que fue como se llamó el AbreLatam/Condatos en el 2022, 
+Hace poco mas de un año, a propósito del evento América Abierta, que fue como se llamó el AbreLatam/Condatos en el 2022, [escribíamos](https://www.hotosm.org/updates/america-abierta-2022/) que "si bien el mapeo no tuvo un lugar destacado en el evento, sí se pudo constatar el interés de organizaciones y personas en utilizarlo" y que "la comunidad de datos abiertos regional es como la comunidad natural de los mapeadores y gente interesada en el mapeo abierto".
 
 Daniel Carranza, co-fundador de [DATA Uruguay](https://data.org.uy/) -una de las organizadoras del AbraLatam- cree que fue un momento trascendental en el crecimiento del movimiento datero regional:
 
