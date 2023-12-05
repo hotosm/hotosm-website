@@ -56,7 +56,12 @@ We then looked at the users (usernames) who made these changes to try and unders
 
 Here you can see a table with the full data for some countries we analyzed, note how just a few contributors are responsible for most of the changes:
 
-![](/uploads/local-knowledge-table.png)
+| Country | Total changes to elements (2022) | \# contributors who made these changes | % (#) of contributors responsible for 50% of the changes | % (#) of contributors responsible for 75% of the changes | % (#) of contributors responsible for 95% of the changes |
+| ------- | -------------------------------- | -------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| Nepal   | 50239                            | 713                                    | 0,4% (3)                                                 | 1,8% (13)                                                | 12% (86)                                                 |
+| Senegal | 2338                             | 172                                    | 1,7% (3)                                                 | 7% (12)                                                  | 43,6% (75)                                               |
+| Kenya   | 7415                             | 313                                    | 1% (3)                                                   | 2,6% (8)                                                 | 28% (87)                                                 |
+| Mexico  | 38556                            | 1078                                   | 0,5% (5)                                                 | 2,6% (28)                                                | 21,1% (227)                                              |
 
 Some of the numbers here were very surprising. For example, three people in Kenya, Senegal and Nepal were responsible for 50% of all the local knowledge changes to OSM in those countries in 2022\.
 
