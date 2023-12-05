@@ -1,6 +1,10 @@
 ---
 title: A Local Knowledge Dilemma? - A Data-Driven Alert for OSM
 date: 2023-12-05 12:02:00 Z
+tags:
+- research
+- data
+- osm
 Summary Text: 'Our study reveals a trend in local knowledge contributions in OpenStreetMap:
   a small but dedicated number of local mappers, making up just about 3% of contributors
   who are in the area mapping, is responsible for approximately 75% of the detailed
