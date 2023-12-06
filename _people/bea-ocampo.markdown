@@ -4,7 +4,7 @@ date: 2020-12-28 06:16:00 Z
 Photo: https://cdn.hotosm.org/website/Bea_photo-c92c80.png
 Member Type:
   Is Staff: true
-Job Title: Operations & HR Associate - Asia Pacific
+Job Title: Operations & HR Associate - Asia Pacific Hub
 Country: Philippines
 Team: Asia Pacific Hub
 Social Media (Full URL):
