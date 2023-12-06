@@ -1,13 +1,17 @@
 ---
 title: Building Community to Build Resilience - OpenCities Saint Lucia Impact
 date: 2023-12-06 15:46:00 Z
+Summary Text: Saint Lucia island faces some challenges due to climate change and community
+  and resilience are two things we and our local partners have been building on. Get
+  more details in this post!
+Feature Image: "/uploads/IMG_20220711_112005.jpg"
 ---
 
 The focus of the [OpenCities Project Saint Lucia](https://www.hotosm.org/open-cities-saint-lucia.html) was mapping areas most vulnerable to floods and landslides and [building resilience](https://thevoiceslu.com/2022/01/digital-crowd-sourced-mapping-to-kick-off-in-saint-lucia/) in communities such as unplanned settlements in high flood zones. However, when taking a closer look at the project, one would see its impact beyond “just mapping”, specifically with regards to the strengthening of the mapping community on the island. This blogpost provides highlights of how this project impacted the open mapping landscape and shares for further details in the [Impact Report](https://www.hotosm.org/uploads/Open%20Cities_Impact%20Report_SaintLucia.pdf).
 
 ***Mapping for Resilience***
 
-The Caribbean island of [Saint Lucia](https://www.hotosm.org/where-we-work/saint-lucia/) is generally known for its natural beauty and vibrant culture. However, in the backdrop of climate change and the island's inherent susceptibility to natural disasters, the livelihoods and environment is at increasing risk. Saint Lucia's vulnerability to these environmental threats has raised critical concerns regarding the resilience of its communities.
+The Caribbean island of [Saint Lucia](https://www.hotosm.org/where-we-work/saint-lucia/) is generally known for its natural beauty and vibrant culture. However, in the backdrop of climate change and the island's inherent susceptibility to disasters, the livelihoods and environment is at increasing risk. Saint Lucia's vulnerability to these environmental threats has raised critical concerns regarding the resilience of its communities.
 
 In response to these challenges, the project focused on supporting communities in mitigating the impacts of these hazards through the enhancement of the use of geospatial data. Working closely with local partners; the focus communities of [Bexon, Castries](https://www.openstreetmap.org/node/6335688485) and La Ressource, Vieux-Fort were mapped both remotely and through field mapping exercises. There was an intense focus on [training sessions](https://www.govt.lc/news/disaster-resilience-partners-participate-in-field-mapping-training) towards ensuring that the cadre of volunteers and partners did not only have the capacity to map; but to also utilize that knowledge in planning and executing as it related to disaster response.
 
