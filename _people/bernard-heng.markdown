@@ -5,6 +5,7 @@ Photo: "/uploads/2023_Heng_Bernard_Picture.jpg"
 Member Type:
   Is Staff: true
 Job Title: Program Associate - Asia Pacific Hub
+Team: Asia Pacific Hub
 ---
 
 Bernard works as the Program Associate for the Asia Pacific Hub at HOT. He has a wealth of experience in sustainable development, having worked with UN-Habitat to bring sustainable planning to humanitarian contexts, and the Foreign Service in developing stronger bilateral relations. 
