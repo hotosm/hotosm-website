@@ -59,3 +59,13 @@ The project involved 135 new participants (44% of whom were women), engaged with
 More details provided in the [Impact Report](https://www.hotosm.org/uploads/Open%20Cities_Impact%20Report_SaintLucia.pdf).
 
 This wouldn't had been possible without our partners: [Swiss Re Foundation](https://www.swissrefoundation.org/), [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/en), [Caritas Antilles](https://www.caritas.org/where-caritas-work/latin-america/antilles/), [Saint Lucia Red Cross](https://www.saintluciaredcross.org/), [Youth Emergency Action Committees of Saint Lucia (YEAC)](https://www.facebook.com/YEACSLU), [OSM Saint Lucia](https://wiki.openstreetmap.org/wiki/WikiProject_Saint_Lucia).
+
+**Other related posts:**
+
+### [Is the Caribbean Open Mapping Community Poised to Map its Way to Greater Disaster Resilience?](https://www.hotosm.org/updates/is-the-caribbean-open-mapping-community-poised-to-map-its-way-to-greater-disaster-resilience/)
+
+*If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublac@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: Volunteer mapper**.*
+
+*If you are part of an organization that wants to explore how to collaborate on a project, write an email to [hublac@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: LAC Projects**.*
+
+***Follow us on networks: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).***
