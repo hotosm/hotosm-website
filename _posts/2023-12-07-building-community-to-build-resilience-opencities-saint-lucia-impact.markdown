@@ -10,14 +10,14 @@ tags:
 - community
 - resilience
 - climate change
-Summary Text: Saint Lucia island faces some challenges due to climate change and community
-  and resilience are two things we and our local partners have been building on. Get
-  more details in this post!
+Summary Text: The island of Saint Lucia faces growing challenges due to climate change
+  and, working with our local partners, we experienced first-hand how strengthening
+  the community builds greater resilience. Get more details in this post!
 Feature Image: "/uploads/IMG_20220711_112005.jpg"
 Person: Louise Mathurin Serieux
 ---
 
-The focus of the [OpenCities Project Saint Lucia](https://www.hotosm.org/open-cities-saint-lucia.html) was mapping areas most vulnerable to floods and landslides and [building resilience](https://thevoiceslu.com/2022/01/digital-crowd-sourced-mapping-to-kick-off-in-saint-lucia/) in communities such as unplanned settlements in high flood zones. However, when taking a closer look at the project, one would see its impact beyond “just mapping”, specifically with regards to the strengthening of the mapping community on the island. This blogpost provides highlights of how this project impacted the open mapping landscape, for further details please go to the [Impact Report](https://www.hotosm.org/uploads/Open%20Cities_Impact%20Report_SaintLucia.pdf).
+The focus of the [OpenCities Project Saint Lucia](https://www.hotosm.org/open-cities-saint-lucia.html) was mapping areas most vulnerable to floods and landslides and [building resilience](https://thevoiceslu.com/2022/01/digital-crowd-sourced-mapping-to-kick-off-in-saint-lucia/) in communities such as unplanned settlements in high flood zones. However, when taking a closer look at the project, one would see its impact beyond “just mapping”, and specifically with regards to the strengthening of the mapping community on the island. This blogpost provides highlights of how this project impacted the open mapping landscape, for further details please go to the [Impact Report](https://www.hotosm.org/uploads/Open%20Cities_Impact%20Report_SaintLucia.pdf).
 
 ***Mapping for Resilience***
 
