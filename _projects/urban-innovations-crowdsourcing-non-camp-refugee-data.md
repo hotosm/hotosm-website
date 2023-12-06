@@ -28,7 +28,7 @@ Duration:
   End Date: 2018-07-31 00:00:00 Z
 tm_campaigns:
 - Crowdsourcing Non-Camp Refugee Data
-project_extent: 1VuEc-Uji6DUm9TTnnXSpCRUt5ZLxVOOK
+project_extent: APH-201612-MG-RRS.geojson
 Data:
 - title: Humanitarian Data Exchange
   link: https://data.humdata.org/organization/hot

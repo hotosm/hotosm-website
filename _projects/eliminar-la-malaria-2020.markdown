@@ -22,7 +22,7 @@ Duration:
 tm_campaigns:
 - Malaria Elimination
 Google Drive: https://drive.google.com/drive/u/1/folders/1M0CcXwFs8YZqGPpsHh1qLP7K_kmBkLzn
-project_extent: 1okb4nsmtMaZ3d-cjg0XrwHB3RBQgrIoI
+project_extent: LAC-201810-PH-ELM.geojson
 Data:
 - title: Humanitarian Data Exchange
   link: https://data.humdata.org/organization/hot
