@@ -3,9 +3,9 @@ title: AbreLatam 2023
 date: 2023-11-29 14:42:00 Z
 ---
 
-Hace un año, con ocasión del evento América Abierta -que fue como se llamo el AbreLatam en 2022- [reflexionábamos](https://www.hotosm.org/updates/america-abierta-2022/) en el Hub que debíamos enfocarnos en el impulso, difusión y apoyo en la creación de sinergias "pues la comunidad de datos abiertos regional es como la comunidad natural de los mapeadores y gente interesada en el mapeo abierto".
+Hace un año, con ocasión del evento América Abierta -que fue como se llamó el AbreLatam en 2022- [reflexionábamos](https://www.hotosm.org/updates/america-abierta-2022/) en el Hub que debíamos enfocarnos en el impulso, difusión y apoyo en la creación de sinergias "pues la comunidad de datos abiertos regional es como la comunidad natural de los mapeadores y gente interesada en el mapeo abierto".
 
-Este 2023
+En consecuencia para la edición del [AbreLatam / ConDatos 2023](https://2023.abrelatam.org/) -realizada en Montevideo, Uruguay del 31 de octubre al 3 de noviembre- nos preparamos con anticipación, proponiendo a la organización del evento [varias mesas y presentaciones](https://www.hotosm.org/updates/el-mapeo-abierto-se-hara-presente-en-el-abrelatam-2023/), las cuales
 
 Daniel Carranza, co-fundador de [DATA Uruguay](https://data.org.uy/) -una de las organizadoras del AbraLatam- cree que fue un momento trascendental en el crecimiento del movimiento datero regional:
 
