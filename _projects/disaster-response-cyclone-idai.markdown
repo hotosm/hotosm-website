@@ -20,9 +20,9 @@ Person:
 Duration:
   Start Date: 2019-03-09 00:00:00 Z
   End Date: 2020-03-09 00:00:00 Z
-tm_campaigns:
-- Cyclone Idai
-project_extent: 1vdQAORtvOjvRTkWJp3BngrpSMn_TgJzF
+# tm_campaigns:
+# - Cyclone Idai
+project_extent: ESA-201903-DC-DRC.geojson
 Tools:
 - title: Tasking Manager
 - link: https://tasks.hotosm.org/
