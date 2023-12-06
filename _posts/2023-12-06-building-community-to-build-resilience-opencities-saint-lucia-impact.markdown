@@ -38,4 +38,4 @@ The project involved 135 new participants (44% of whom were women), engaged with
 
 More details provided in the [Impact Report](https://www.hotosm.org/uploads/Open%20Cities_Impact%20Report_SaintLucia.pdf).
 
-This wouldn't had been possible without our partners: Swiss Re Foundation, Global Facility for Disaster Reduction and Recovery (GFDRR), Caritas Antilles, Saint Lucia Red Cross, Youth Emergency Action Committees of Saint Lucia (YEAC), OSM Saint Lucia.
+This wouldn't had been possible without our partners: [Swiss Re Foundation](https://www.swissrefoundation.org/), [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/en), [Caritas Antilles](https://www.caritas.org/where-caritas-work/latin-america/antilles/), [Saint Lucia Red Cross](https://www.saintluciaredcross.org/), [Youth Emergency Action Committees of Saint Lucia (YEAC)](https://www.facebook.com/YEACSLU), [OSM Saint Lucia](https://wiki.openstreetmap.org/wiki/WikiProject_Saint_Lucia).
