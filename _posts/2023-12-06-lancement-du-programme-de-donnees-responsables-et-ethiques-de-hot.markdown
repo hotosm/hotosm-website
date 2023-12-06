@@ -1,7 +1,6 @@
 ---
 title: Lancement du programme de données responsables et éthiques de HOT
-date: 2023-11-29 22:58:00 Z
-published: false
+date: 2023-12-06 22:58:00 Z
 Feature Image: "/uploads/DataCollection.jpeg"
 Person:
 - Jessica Pechmann
