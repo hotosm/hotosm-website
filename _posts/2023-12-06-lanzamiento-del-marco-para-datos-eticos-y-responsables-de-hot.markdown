@@ -1,7 +1,6 @@
 ---
 title: Lanzamiento del marco para datos éticos y responsables de HOT
-date: 2023-11-29 23:20:00 Z
-published: false
+date: 2023-12-06 23:20:00 Z
 Feature Image: "/uploads/DataCollection.jpeg"
 ---
 
