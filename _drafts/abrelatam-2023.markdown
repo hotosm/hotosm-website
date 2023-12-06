@@ -26,12 +26,12 @@ Virgilio Benavides, Sub Secretario de la [Secretaría de Gestión de Riesgos](ht
 > Cuando hablamos de datos abiertos, inevitablemente hablamos en gran medida de datos geográficos a través de acciones cartográficas. El formato del evento prioriza el intercambio de información y sobre todo las construcciones colectivas, a través de la integración de profesionales y proyectos multidisciplinarios, con miras a la aplicación de recursos y la optimización de la financiación.\
 > Por sus características históricas y geopolíticas, América Latina es estratégica para el tema, impulsando una integración necesaria para que el continente y sus pueblos puedan volverse más fuertes, más resilientes y, sobre todo, libres de intereses externos que entren en conflicto con el colectivo real y legítimo. intereses de desarrollo, sociales y económicos.
 
-Cuauthemoc reflexiona sobre 'la importancia de la colaboración internacional en el tema de la gestión de datos abiertos:
+Cuauthemoc Gutierrez de [Comapper](https://comapper.org/), Mexico, reflexiona sobre 'la importancia de la colaboración internacional en el tema de la gestión de datos abiertos":
 
 > Al interactuar con profesionales de diferentes países, me di cuenta de la riqueza que surge de la diversidad de enfoques. Esta experiencia también resaltó la necesidad de adaptar las mejores prácticas globales a las realidades locales. Un aspecto que me llamó especialmente la atención fue la convergencia de la tecnología y la participación ciudadana en el Hub "Mapeo Abierto". La cartografía colaborativa no solo es una herramienta poderosa para la visualización de datos, sino también un medio para empoderar a las comunidades locales. Este enfoque descentralizado hacia la recopilación de información geoespacial podría tener aplicaciones significativas en mi país, donde la participación ciudadana es clave para abordar diversos desafíos como el ordenamiento territorial, cambio climático, desastres naturales, medio ambiente entre otros.
 
-Leonardo
+[Leonardo Jimenez](https://wwwunaula.academia.edu/LeonardoJimenezGarc%C3%ADa), del Centro de Estudios con Poblaciones, Movimientos y Territorios [POMOTE](https://pomotecestudios.unaula.edu.co/sobre-pomote-centro-estudios-poblaciones-movilizaciones-territorios/) de la Universidad Autonoma Latinoamericana de Colombia, cree que el espacio le fue útil "para identificar y reconocer experiencias y procesos desde los ámbitos público-institucional, academia, ong y sector privado".
 
-Johnattan
+Johnattan Rupire, de la Universidad 
 
 Este primer AbreLatam/ConDatos ha sido para mí un espacio muy especial de articulación con compañeros de otros países con los que compartimos intereses y tópicos de investigación muy similares y geográficamente convivientes. Hacia el futuro, espero que estas nuevas redes sirvan y brinden soporte para el crecimiento de las comunidades de OpenStreetMap en la región.
