@@ -22,4 +22,10 @@ Igor da Mata reflexiona sobre la importancia que el AbreLatam llegue a su décim
 
 Cuauthemoc reflexiona sobre 'la importancia de la colaboración internacional en el tema de la gestión de datos abiertos:
 
-Al interactuar con profesionales de diferentes países, me di cuenta de la riqueza que surge de la diversidad de enfoques. Esta experiencia también resaltó la necesidad de adaptar las mejores prácticas globales a las realidades locales. Un aspecto que me llamó especialmente la atención fue la convergencia de la tecnología y la participación ciudadana en el Hub "Mapeo Abierto". La cartografía colaborativa no solo es una herramienta poderosa para la visualización de datos, sino también un medio para empoderar a las comunidades locales. Este enfoque descentralizado hacia la recopilación de información geoespacial podría tener aplicaciones significativas en mi país, donde la participación ciudadana es clave para abordar diversos desafíos como el ordenamiento territorial, cambio climático, desastres naturales, medio ambiente entre otros.
+> Al interactuar con profesionales de diferentes países, me di cuenta de la riqueza que surge de la diversidad de enfoques. Esta experiencia también resaltó la necesidad de adaptar las mejores prácticas globales a las realidades locales. Un aspecto que me llamó especialmente la atención fue la convergencia de la tecnología y la participación ciudadana en el Hub "Mapeo Abierto". La cartografía colaborativa no solo es una herramienta poderosa para la visualización de datos, sino también un medio para empoderar a las comunidades locales. Este enfoque descentralizado hacia la recopilación de información geoespacial podría tener aplicaciones significativas en mi país, donde la participación ciudadana es clave para abordar diversos desafíos como el ordenamiento territorial, cambio climático, desastres naturales, medio ambiente entre otros.
+
+Leonardo
+
+Johnattan
+
+Este primer AbreLatam/ConDatos ha sido para mí un espacio muy especial de articulación con compañeros de otros países con los que compartimos intereses y tópicos de investigación muy similares y geográficamente convivientes. Hacia el futuro, espero que estas nuevas redes sirvan y brinden soporte para el crecimiento de las comunidades de OpenStreetMap en la región.
