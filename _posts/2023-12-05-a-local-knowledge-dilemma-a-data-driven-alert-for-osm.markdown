@@ -7,7 +7,7 @@ tags:
 - osm
 Summary Text: 'Our study reveals a trend in local knowledge contributions in OpenStreetMap:
   a small but dedicated number of local mappers, making up just about 3% of contributors
-  who are in the area mapping, is responsible for approximately 75% of the detailed
+  who are in the area mapping, are responsible for approximately 75% of the detailed
   mapping contributions. '
 Feature Image: "/uploads/3-percent-77e7af.jpg"
 Person: Rubén Martín
@@ -17,7 +17,7 @@ Hello, I'm Rubén Martín, Community Strategist and Research Lead at HOT. In thi
 
 ### Summary
 
-Our study reveals a trend in local knowledge contributions in OpenStreetMap: a small but dedicated number of local mappers, making up just about **3% of contributors who are in the area mapping, is responsible for approximately 75% of the detailed mapping contributions**.   
+Our study reveals a trend in local knowledge contributions in OpenStreetMap: a small but dedicated number of local mappers, making up just about **3% of contributors who are in the area mapping, are responsible for approximately 75% of the detailed mapping contributions**.   
 
 This significant finding underscores the vital role of local knowledge and expertise in creating comprehensive and accurate maps, especially in humanitarian and unmapped/under-mapped regions. Despite a general decline in new OSM contributors, the impact of this core group of local mappers remains profound and indispensable for the future of the project.  
 
