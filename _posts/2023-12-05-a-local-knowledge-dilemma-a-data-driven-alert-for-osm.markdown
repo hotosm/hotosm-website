@@ -89,7 +89,7 @@ Also note that the analysis includes people who are mapping on their employee ca
 
 ### Open questions from SoTM EU presentation
 
-This analysis was presented by Pete Masters during the recent State of the Map Europe 2023 and some interesting discussion followed.  
+This analysis was [presented by Pete Masters during the recent State of the Map Europe 2023](https://www.youtube.com/watch?v=a9X7hkHTGDw) and some interesting discussion followed.  
 
 * The situation was familiar for members of more mature OSM communities. Those with now very active local knowledge contributors recognised that, in the past, a small number of very committed mappers did the majority of the field mapping and surveying.
 * Could these 'core mappers' end up being gatekeepers and discourage newer mappers from developing their OSM contribution?

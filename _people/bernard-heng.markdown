@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Program Associate - Asia Pacific Hub
 Team: Asia Pacific Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Bernard948
 ---
 
 Bernard works as the Program Associate for the Asia Pacific Hub at HOT. He has a wealth of experience in sustainable development, having worked with UN-Habitat to bring sustainable planning to humanitarian contexts, and the Foreign Service in developing stronger bilateral relations. 
