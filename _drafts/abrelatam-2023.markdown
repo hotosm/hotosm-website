@@ -5,7 +5,7 @@ date: 2023-11-29 14:42:00 Z
 
 Hace un año, con ocasión del evento América Abierta -que fue como se llamó el AbreLatam en 2022- [reflexionábamos](https://www.hotosm.org/updates/america-abierta-2022/) en el Hub que debíamos enfocarnos en el impulso, difusión y apoyo en la creación de sinergias "pues la comunidad de datos abiertos regional es como la comunidad natural de los mapeadores y gente interesada en el mapeo abierto".
 
-En consecuencia para la edición del [AbreLatam / ConDatos 2023](https://2023.abrelatam.org/) -realizada en Montevideo, Uruguay del 31 de octubre al 3 de noviembre- nos preparamos con anticipación, proponiendo a la organización del evento [varias mesas y presentaciones](https://www.hotosm.org/updates/el-mapeo-abierto-se-hara-presente-en-el-abrelatam-2023/), las cuales realizamos con éxito y de las que hablaremos luego. 
+En consecuencia para la edición del [AbreLatam / ConDatos 2023](https://2023.abrelatam.org/) -realizada en Montevideo, Uruguay del 31 de octubre al 3 de noviembre- nos preparamos con anticipación, siendo parte activa del comité organizador y del programa del evento, y por ende proponiendo la organización de [varias mesas y presentaciones](https://www.hotosm.org/updates/el-mapeo-abierto-se-hara-presente-en-el-abrelatam-2023/) alrededor de temas de mapeo, las cuales realizamos con éxito y de las que hablaremos luego.
 
 Lo que queremos compartir en esta ocasión son distintos testimonios de gente involucrada en la organización del AbreLatam y de quienes participaron de nuestras mesas, representantes de organizaciones con las que trabajamos diversos proyectos.
 
@@ -34,7 +34,7 @@ Cuauthemoc Gutierrez de [Comapper](https://comapper.org/), Mexico, reflexiona so
 
 > también fue un espacio interesante de diálogo y reconocimiento de experiencias y procesos de democratización de los datos en América Latina, mucho más amplio en su agenda temática, ya que se generaron diálogos muy potentes vinculados a temas relacionados con los derechos humanos, los movimientos sociales, las nuevas tecnologías, las reivindicaciones de género, la educación, las pedagogías y las gobernanzas locales. Los formatos y metodologías propuestas permitían diálogos más fluidos, y se fomentó la generación de vínculos entre los procesos y personas participantes.
 
-Johnattan Rupire, de la Universidad Nacional Mayor de San Marcos, y líder de [OpenStreetMap Perú](https://osm.org.pe/) menciona que: 
+Johnattan Rupire, de la Universidad Nacional Mayor de San Marcos, y líder de [OpenStreetMap Perú](https://osm.org.pe/) menciona que:
 
 > Este primer AbreLatam/ConDatos ha sido para mí un espacio muy especial de articulación con compañeros de otros países con los que compartimos intereses y tópicos de investigación muy similares y geográficamente convivientes. Hacia el futuro, espero que estas nuevas redes sirvan y brinden soporte para el crecimiento de las comunidades de OpenStreetMap en la región.
 
