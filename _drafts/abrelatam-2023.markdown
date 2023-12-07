@@ -36,7 +36,7 @@ Cuauthemoc Gutierrez de [Comapper](https://comapper.org/), Mexico, reflexiona so
 
 Johnattan Rupire, de la Universidad Nacional Mayor de San Marcos, y líder de [OpenStreetMap Perú](https://osm.org.pe/) menciona que:
 
-> Este primer AbreLatam/ConDatos ha sido para mí un espacio muy especial de articulación con compañeros de otros países con los que compartimos intereses y tópicos de investigación muy similares y geográficamente convivientes. Hacia el futuro, espero que estas nuevas redes sirvan y brinden soporte para el crecimiento de las comunidades de OpenStreetMap en la región.
+> Este primer AbreLatam/ConDatos ha sido para mí un espacio muy especial de articulación con compañeros de otros países con los que compartimos intereses y tópicos de investigación muy similares y geográficamente convivientes. Hacia el futuro, **espero que estas nuevas redes sirvan y brinden soporte para el crecimiento de las comunidades de OpenStreetMap en la región**.
 
 Como se puede apreciar, el AbreLatam ha servido no solo para poner al Hub en contacto con la comunidad datera de la región, si no para que nuestras organizaciones aliadas amplíen su propia red de alianzas con vistas a nuevos proyectos de mapeo y datos abiertos, fortaleciendo una comunidad de práctica regional.
 
