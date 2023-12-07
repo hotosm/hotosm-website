@@ -9,7 +9,7 @@ En consecuencia para la edición del [AbreLatam / ConDatos 2023](https://2023.ab
 
 Lo que queremos compartir en esta ocasión son distintos testimonios de gente involucrada en la organización del AbreLatam y de quienes participaron de nuestras mesas, representantes de organizaciones con las que trabajamos diversos proyectos.
 
-Daniel Carranza, co-fundador de [DATA Uruguay](https://data.org.uy/) -una de las organizadoras del AbraLatam- cree que fue un momento trascendental en el crecimiento del movimiento datero regional:
+Daniel Carranza, co-fundador de [DATA Uruguay](https://data.org.uy/) -una de las entidades organizadoras del AbraLatam- cree que fue un momento trascendental en el crecimiento del movimiento datero regional:
 
 > La comunidad de datos abiertos en América Latina tuvo durante 10 años una injustificable desconexión con otros movimientos muy vinculados a datos como wikimedistas o mapeadores/as. La presencia -muy significativa además- del Hub de Mapeo Abierto y su comunidad en ABRELATAM/CONDATOS 2023 fue el mejor primer paso posible para cerrar esa brecha, porque fue mucho más allá de la participación en el evento. El Hub formó parte del equipo de co-organización, sus actividades se integraron completamente en las de ABRELATAM/CONDATOS (y otros eventos de la Maratón de Datos como el Festival de Datos), pero sobretodo se sintió una clara integración a nivel de comunidad. Quienes trabajamos en datos abiertos tenemos mucho que aprender y para compartir con la comunidad de mapeadores y mi sensación luego de los eventos es que hemos -por fin- dado un paso muy importante para construir colaboración, proyectos y la amistad que forja una comunidad.
 
