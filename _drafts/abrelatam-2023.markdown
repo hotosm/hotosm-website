@@ -1,6 +1,7 @@
 ---
 title: AbreLatam 2023
 date: 2023-11-29 14:42:00 Z
+Person: Juan Arellano Valdivia
 ---
 
 Hace un año, con ocasión del evento América Abierta -que fue como se llamó el AbreLatam en 2022- [reflexionábamos](https://www.hotosm.org/updates/america-abierta-2022/) en el Hub que debíamos enfocarnos en el impulso, difusión y apoyo en la creación de sinergias "pues la comunidad de datos abiertos regional es como la comunidad natural de los mapeadores y gente interesada en el mapeo abierto".
