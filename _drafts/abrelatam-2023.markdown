@@ -1,6 +1,7 @@
 ---
 title: AbreLatam 2023
 date: 2023-11-29 14:42:00 Z
+Feature Image: "/uploads/photo_5159018500554075117_y.jpg"
 Person: Juan Arellano Valdivia
 ---
 
@@ -9,6 +10,8 @@ Hace un año, con ocasión del evento América Abierta -que fue como se llamó e
 En consecuencia para la edición del [AbreLatam / ConDatos 2023](https://2023.abrelatam.org/) -realizada en Montevideo, Uruguay del 31 de octubre al 3 de noviembre- nos preparamos con anticipación, siendo parte activa del comité organizador y del programa del evento, y por ende proponiendo la organización de [varias mesas y presentaciones](https://www.hotosm.org/updates/el-mapeo-abierto-se-hara-presente-en-el-abrelatam-2023/) alrededor de temas de mapeo, las cuales realizamos con éxito y de las que hablaremos luego.
 
 Lo que queremos compartir en esta ocasión son distintos testimonios de gente involucrada en la organización del AbreLatam y de quienes participaron de nuestras mesas, representantes de organizaciones con las que trabajamos diversos proyectos.
+
+![photo_5159018500554075121_y.jpg](/uploads/photo_5159018500554075121_y.jpg)
 
 Daniel Carranza, co-fundador de [DATA Uruguay](https://data.org.uy/) -una de las entidades organizadoras del AbraLatam- cree que fue un momento trascendental en el crecimiento del movimiento datero regional:
 
