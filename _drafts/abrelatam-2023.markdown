@@ -1,6 +1,6 @@
 ---
 title: AbreLatam 2023
-date: 2023-11-29 14:42:00 Z
+date: 2023-12-08 02:42:00 Z
 categories:
 - news
 - latam
@@ -12,6 +12,9 @@ tags:
 - comunidad
 - eventos
 - OpenStreetMap
+Summary Text: La participación del Hub de América Latina y el Caribe en el AbreLatam
+  / ConDatos 2023 incluyo diversas ponencias y mesas de trabajo. Acá los testimonios
+  de la participación de representantes de organizaciones aliadas.
 Feature Image: "/uploads/photo_5159018500554075117_y.jpg"
 Person: Juan Arellano Valdivia
 ---
