@@ -48,6 +48,8 @@ Cuauthemoc Gutierrez de [Comapper](https://comapper.org/), Mexico, reflexiona so
 
 > también fue un espacio interesante de diálogo y reconocimiento de experiencias y procesos de democratización de los datos en América Latina, mucho más amplio en su agenda temática, ya que **se generaron diálogos muy potentes vinculados a temas relacionados con los derechos humanos, los movimientos sociales, las nuevas tecnologías, las reivindicaciones de género, la educación, las pedagogías y las gobernanzas locales**. Los formatos y metodologías propuestas permitían diálogos más fluidos, y se fomentó la generación de vínculos entre los procesos y personas participantes.
 
+![photo_5159018500554075119_y.jpg](/uploads/photo_5159018500554075119_y.jpg)
+
 Johnattan Rupire, de la Universidad Nacional Mayor de San Marcos, y líder de [OpenStreetMap Perú](https://osm.org.pe/) menciona que:
 
 > Este primer AbreLatam/ConDatos ha sido para mí un espacio muy especial de articulación con compañeros de otros países con los que compartimos intereses y tópicos de investigación muy similares y geográficamente convivientes. Hacia el futuro, **espero que estas nuevas redes sirvan y brinden soporte para el crecimiento de las comunidades de OpenStreetMap en la región**.
