@@ -59,13 +59,13 @@ Carlos Duarte, de Geotecnológica de Guatemala, y asociado en el proyecto OpenCi
 
 ![IMG_20231101_110032703.jpg](/uploads/IMG_20231101_110032703.jpg)
 
-Cuauthemoc Gutierrez de [Comapper](https://comapper.org/), Mexico, reflexiona sobre 'la importancia de la colaboración internacional en el tema de la gestión de datos abiertos":
+Cuauthemoc Gutierrez de [Comapper](https://comapper.org/), México, reflexiona sobre 'la importancia de la colaboración internacional en el tema de la gestión de datos abiertos":
 
 > Al interactuar con profesionales de diferentes países, me di cuenta de la riqueza que surge de la diversidad de enfoques. Esta experiencia también resaltó la necesidad de adaptar las mejores prácticas globales a las realidades locales. Un aspecto que me llamó especialmente la atención fue la convergencia de la tecnología y la participación ciudadana en el Hub "Mapeo Abierto". **La cartografía colaborativa no solo es una herramienta poderosa para la visualización de datos, sino también un medio para empoderar a las comunidades locales**. Este enfoque descentralizado hacia la recopilación de información geoespacial podría tener aplicaciones significativas en mi país, donde la participación ciudadana es clave para abordar diversos desafíos como el ordenamiento territorial, cambio climático, desastres naturales, medio ambiente entre otros.
 
 ![IMG_20231102_112423699.jpg](/uploads/IMG_20231102_112423699.jpg)
 
-[Leonardo Jimenez](https://wwwunaula.academia.edu/LeonardoJimenezGarc%C3%ADa), del Centro de Estudios con Poblaciones, Movimientos y Territorios [POMOTE](https://pomotecestudios.unaula.edu.co/sobre-pomote-centro-estudios-poblaciones-movilizaciones-territorios/) de la Universidad Autónoma Latinoamericana de Colombia, cree que el espacio le fue útil "para identificar y reconocer experiencias y procesos desde los ámbitos público-institucional, academia, ong y sector privado".
+[Leonardo Jiménez](https://wwwunaula.academia.edu/LeonardoJimenezGarc%C3%ADa), del Centro de Estudios con Poblaciones, Movimientos y Territorios [POMOTE](https://pomotecestudios.unaula.edu.co/sobre-pomote-centro-estudios-poblaciones-movilizaciones-territorios/) de la Universidad Autónoma Latinoamericana de Colombia, cree que el espacio le fue útil "para identificar y reconocer experiencias y procesos desde los ámbitos público-institucional, academia, ONG y sector privado".
 
 > también fue un espacio interesante de diálogo y reconocimiento de experiencias y procesos de democratización de los datos en América Latina, mucho más amplio en su agenda temática, ya que **se generaron diálogos muy potentes vinculados a temas relacionados con los derechos humanos, los movimientos sociales, las nuevas tecnologías, las reivindicaciones de género, la educación, las pedagogías y las gobernanzas locales**. Los formatos y metodologías propuestas permitían diálogos más fluidos, y se fomentó la generación de vínculos entre los procesos y personas participantes.
 
@@ -78,3 +78,11 @@ Johnattan Rupire, de la Universidad Nacional Mayor de San Marcos, y líder de [O
 Como se puede apreciar, el AbreLatam ha servido no solo para poner al Hub en contacto con la comunidad datera de la región, si no para que nuestras organizaciones aliadas amplíen su propia red de alianzas con vistas a nuevos proyectos de mapeo y datos abiertos, fortaleciendo una comunidad de práctica regional.
 
 Nos vemos en Brasil para el AbreLatam 2024!
+
+----
+
+*Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
+
+*Si eres parte de alguna organización que desea explorar cómo colaborar en un proyecto de cartografía digital, escribe un correo a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
+
+**Síguenos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
