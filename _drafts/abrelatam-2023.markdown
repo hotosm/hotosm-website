@@ -29,10 +29,14 @@ Virgilio Benavides, Sub Secretario de la [Secretaría de Gestión de Riesgos](ht
 
 > Aunque ya estaba familiarizado con muchos aspectos de los datos abiertos en mi sector, este evento me permitió descubrir dimensiones que no había considerado previamente. Sin duda, **la integración de la cartografía abierta y sus implicaciones en el contexto de los datos abiertos se revelaron como aspectos fundamentales**. Al observar la madurez de las experiencias a nivel regional, visualizo el potencial para lograr avances significativos y compartir aprendizajes valiosos. Mi participación en este evento dual ha despertado en mí un renovado interés en explorar y desarrollar este concepto más profundamente en los procesos de mi especialización. Aspiro a integrar estas perspectivas para mejorar los resultados en el servicio público de mi institución y, gradualmente, contribuir al progreso del Ecuador y eventualmente, la región latinoamericana.
 
+![IMG_20231031_172849639.jpg](/uploads/IMG_20231031_172849639.jpg)
+
 [Igor da Mata](https://www.linkedin.com/in/igor-da-mata-oliveira-9197b038/?originalSubdomain=br), de la Universidade Federal de Alagoas [UFAL](https://ufal.br/) en Brasil, y asociado al proyecto [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda-0a2b5e/), reflexiona sobre la importancia que el AbreLatam llegue a su décima edición por "las acciones de generación de datos abiertos orientados al empoderamiento, la visibilización de grupos sociales y el acceso a políticas públicas":
 
 > Cuando hablamos de datos abiertos, inevitablemente hablamos en gran medida de datos geográficos a través de acciones cartográficas. El formato del evento prioriza el intercambio de información y sobre todo las construcciones colectivas, a través de la integración de profesionales y proyectos multidisciplinarios, con miras a la aplicación de recursos y la optimización de la financiación.\
 > **Por sus características históricas y geopolíticas, América Latina es estratégica para el tema, impulsando una integración necesaria para que el continente y sus pueblos puedan volverse más fuertes, más resilientes** y, sobre todo, libres de intereses externos que entren en conflicto con el colectivo real y legítimo, intereses de desarrollo, sociales y económicos.
+
+![IMG_20231101_110032703.jpg](/uploads/IMG_20231101_110032703.jpg)
 
 Cuauthemoc Gutierrez de [Comapper](https://comapper.org/), Mexico, reflexiona sobre 'la importancia de la colaboración internacional en el tema de la gestión de datos abiertos":
 
