@@ -1,6 +1,17 @@
 ---
 title: AbreLatam 2023
 date: 2023-11-29 14:42:00 Z
+categories:
+- news
+- latam
+- hub
+tags:
+- abrelatam
+- Datos Abiertos
+- proyectos
+- comunidad
+- eventos
+- OpenStreetMap
 Feature Image: "/uploads/photo_5159018500554075117_y.jpg"
 Person: Juan Arellano Valdivia
 ---
