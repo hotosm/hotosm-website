@@ -1,5 +1,6 @@
 ---
-title: AbreLatam 2023
+title: 'AbreLatam 2023: Integrando la cartografía abierta en la comunidad de datos
+  abiertos'
 date: 2023-12-08 02:42:00 Z
 categories:
 - news
