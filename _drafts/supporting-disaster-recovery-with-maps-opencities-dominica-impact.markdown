@@ -28,6 +28,10 @@ The CREAD Project (Climate Resilience Execution Agency for Dominica) has agreed 
 
 [University of the West indies](https://www.uwi.edu/), [Dominica State College](https://www.facebook.com/thedominicastatecollege/), [Climate Resilience Execution Agency for Dominica (CREAD)](https://www.creadominica.org/), [Youth Emergency Action Committees - Dominica](https://yeacdominica.org/).
 
+**Other publications:**
+
+[Previous HOT projects in Dominica](https://www.hotosm.org/where-we-work/dominica/).
+
 ---
 
 *If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublac@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: Volunteer mapper**.*
