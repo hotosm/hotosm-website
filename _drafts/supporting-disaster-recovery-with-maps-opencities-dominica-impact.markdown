@@ -1,6 +1,7 @@
 ---
 title: Supporting Disaster Recovery With Maps - OpenCities Dominica Impact
 date: 2023-12-09 03:11:00 Z
+Person: Louise Mathurin Serieux
 ---
 
 **The** **OpenCities Dominica project focused on increasing map data** to support Dominica’s communities and government in accessing more accurate, up-to-date data, information and mapping insight about hazards and their exposure on the people and infrastructure.
@@ -26,3 +27,11 @@ The CREAD Project (Climate Resilience Execution Agency for Dominica) has agreed 
 **Collaborators:**
 
 [University of the West indies](https://www.uwi.edu/), [Dominica State College](https://www.facebook.com/thedominicastatecollege/), [Climate Resilience Execution Agency for Dominica (CREAD)](https://www.creadominica.org/), [Youth Emergency Action Committees - Dominica](https://yeacdominica.org/).
+
+---
+
+*If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublac@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: Volunteer mapper**.*
+
+*If you are part of an organization that wants to explore how to collaborate on a project, write an email to [hublac@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: LAC Projects**.*
+
+***Follow us on social media: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).***
