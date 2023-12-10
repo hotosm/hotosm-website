@@ -9,6 +9,10 @@ tags:
 - resilience
 - mapping
 - opencities
+- caribbean
+Summary Text: Recent extreme storm events in Dominica has led humanitarian agencies
+  to identify needs and shortfalls in information. The utility of OSM data as a tool
+  in disaster preparedness has proven to be crucial.
 Feature Image: "/uploads/IMG-20230121-WA0023.jpg"
 Person: Louise Mathurin Serieux
 ---
