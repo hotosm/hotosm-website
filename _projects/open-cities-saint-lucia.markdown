@@ -2,6 +2,17 @@
 title: 'Open Cities: Saint Lucia'
 date: 2023-06-06 14:40:00 Z
 published: false
+Project Summary Text: The island of Saint Lucia faces growing challenges due to climate
+  change and, working with our local partners, we experienced first-hand how strengthening
+  the community builds greater resilience.
+Feature Image: "/uploads/IMG_20220711_112005.jpg"
+Country:
+- Saint Lucia
+Impact Area:
+- Disasters & Climate Resilience
+Person:
+- Louise Mathurin Serieux
+- Shazmane Mandjee Rehamtula
 Project: 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin
   America and Caribbean'
 ---
