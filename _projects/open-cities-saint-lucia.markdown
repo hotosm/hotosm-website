@@ -2,6 +2,14 @@
 title: 'Open Cities: Saint Lucia'
 date: 2023-06-06 14:40:00 Z
 published: false
+categories:
+- Projects
+tags:
+- saint lucia
+- opencities
+- community
+- resilience
+- climate change
 Project Summary Text: The island of Saint Lucia faces growing challenges due to climate
   change and, working with our local partners, we experienced first-hand how strengthening
   the community builds greater resilience.
