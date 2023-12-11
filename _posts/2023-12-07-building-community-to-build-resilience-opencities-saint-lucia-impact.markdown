@@ -64,6 +64,8 @@ This would not had been possible without our partners: [Swiss Re Foundation](htt
 
 ### [Is the Caribbean Open Mapping Community Poised to Map its Way to Greater Disaster Resilience?](https://www.hotosm.org/updates/is-the-caribbean-open-mapping-community-poised-to-map-its-way-to-greater-disaster-resilience/)
 
+---
+
 *If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublac@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: Volunteer mapper**.*
 
 *If you are part of an organization that wants to explore how to collaborate on a project, write an email to [hublac@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: LAC Projects**.*
