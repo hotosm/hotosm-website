@@ -1,7 +1,6 @@
 ---
 title: 'Open Cities: Saint Lucia'
 date: 2023-06-06 14:40:00 Z
-published: false
 categories:
 - Projects
 tags:
@@ -21,6 +20,9 @@ Impact Area:
 Person:
 - Louise Mathurin Serieux
 - Shazmane Mandjee Rehamtula
+Duration:
+  Start Date: 2021-01-01 00:00:00 Z
+  End Date: 2023-05-31 00:00:00 Z
 Project: 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin
   America and Caribbean'
 ---
