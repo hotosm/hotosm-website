@@ -36,10 +36,12 @@ Data:
 - title: HDX
 - link: https://data.humdata.org/dataset/hotosm_dma_buildings
 Tools:
-- title: Field Mapping Tasking Manager
+- tool: Field Mapping Tasking Manager
+  link: https://fmtm.hotosm.org/
 - link: https://fmtm.hotosm.org/
 - title: Vespucci
 - link: https://vespucci.io/
+- link: OS
 ---
 
 The Commonwealth of Dominica is also known as “the Nature Isle” due to its lush forest nestled in rugged terrain. Recent extreme storm events have severely impacted and threatened the inhabitants’ way of life as well as the environment. The scars and impacts of legacy storms, including Hurricane Maria (2017) also still present.
