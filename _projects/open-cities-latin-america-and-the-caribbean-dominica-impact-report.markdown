@@ -40,7 +40,7 @@ Tools:
   link: https://fmtm.hotosm.org/
 - link: https://vespucci.io/
   too: Vespucci
-- link: https://vespucci.io/
+- link: https://osm-analytics.org/#/show/hot:4317/buildings/recency
   tool: OSM Analytics
 - link: https://vespucci.io/
 - link: OS
