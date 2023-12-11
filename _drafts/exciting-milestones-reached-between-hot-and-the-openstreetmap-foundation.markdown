@@ -1,7 +1,6 @@
 ---
 title: Exciting Milestones Reached Between HOT and the OpenStreetMap Foundation
 date: 2023-12-11 18:38:00 Z
-published: false
 Summary Text: The Humanitarian OpenStreetMap Team (HOT) is delighted to announce a
   new chapter of its ongoing, collaborative relationship with the OpenStreetMap Foundation
   (OSMF)!
