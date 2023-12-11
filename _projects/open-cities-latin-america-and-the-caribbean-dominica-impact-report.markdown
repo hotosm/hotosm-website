@@ -38,8 +38,10 @@ Data:
 Tools:
 - tool: Field Mapping Tasking Manager
   link: https://fmtm.hotosm.org/
-- link: https://fmtm.hotosm.org/
-- title: Vespucci
+- link: https://vespucci.io/
+  too: Vespucci
+- link: https://vespucci.io/
+  tool: OSM Analytics
 - link: https://vespucci.io/
 - link: OS
 ---
