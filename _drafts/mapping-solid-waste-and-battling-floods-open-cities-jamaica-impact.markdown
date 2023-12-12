@@ -3,7 +3,7 @@ title: Mapping Solid Waste and Battling Floods - Open Cities Jamaica Impact
 date: 2023-12-11 14:16:00 Z
 ---
 
-**The OpenCities Jamaica project focused on the use of geospatial data  and analysis** to investigate impact of solid waste accumulation in Kingston’s gullies and surrounding communities, particularly in relation to existing drainage infrastructure and urban flooding issues.
+**The [OpenCities Jamaica](https://wiki.openstreetmap.org/wiki/OpenCities_Jamaica) project focused on the use of geospatial data  and analysis** to investigate impact of solid waste accumulation in Kingston’s gullies and surrounding communities, particularly in relation to existing drainage infrastructure and urban flooding issues.
 
 This post provides an overview of this initiative’s impact as extracted from the Impact Report. To learn more, please see the project [Impact Report](https://www.hotosm.org/uploads/Open%20Cities_Impact%20Report_Jamaica.pdf).
 
@@ -27,4 +27,4 @@ Another highlight of the project was the field mapping and hackathon exercise, w
 
 The data collection activities covered 24 known flood points over a 3.4 ha area in the city impacting a 6,886 person. Additionally, 58 illegal solid waste collections identified over a 14.8 ha coverage, with 142 drainage features of interest over 1.4 km of linear drainage. 351 new features added on the map. 76 participants were trained, 67 % of them were women.
 
-**Partners: **St Patrick Rangers, Mona school of Business & Management, Caribbean School of Data (CSOD)
+**Partners: **[St Patrick Rangers](https://www.facebook.com/stpatricksrangersltd/), [Mona school of Business & Management](https://www.mona.uwi.edu/msbm/), [Caribbean School of Data (CSOD)](https://coi-csod.org/)
