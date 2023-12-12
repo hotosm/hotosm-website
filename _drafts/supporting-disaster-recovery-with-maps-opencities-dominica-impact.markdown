@@ -21,9 +21,11 @@ Person: Louise Mathurin Serieux
 
 The new datasets produced proved to be valuable for hazard analysis, particularly given the island’s recent history with [highly destructive storms](https://www.gfdrr.org/en/dominica-hurricane-maria-post-disaster-assessment-and-support-recovery-planning) and Dominica’s own commitment to becoming a more resilient nation.
 
-This blogpost provides an overview of the impact of the OpenCities Dominica project. Please see the project IMPACT REPORT for more details.
+This blogpost provides an overview of the impact of the OpenCities Dominica project. Please see the project [IMPACT REPORT](https://www.hotosm.org/uploads/Open%20Cities_Impact%20Report_Dominica.pdf) for more details.
 
 ![IMG-20230114-WA0005.jpg](/uploads/IMG-20230114-WA0005.jpg)
+
+***Project Background: The Battle Against Crippling Disasters***
 
 The Commonwealth of Dominica is also known as “the Nature Isle” due to its lush forest nestled in rugged terrain. However, recent extreme storm events have severely impacted and threatened the inhabitants’ way of life as well as the environment. The ravages of Hurricane Maria (September 2017) are still evident around Dominica’s landscape and communities today. The scars and impacts of legacy storms are also still present as they notably increase the vulnerability of communities and property owners.
 
