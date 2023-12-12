@@ -1,6 +1,6 @@
 ---
 title: HOT y la Fundación OpenStreetMap llegan a un importante acuerdo
-date: 2023-12-11 22:25:00 Z
+date: 2023-12-11 18:25:00 Z
 categories:
 - news
 tags:
