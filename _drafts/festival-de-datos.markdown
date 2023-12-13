@@ -1,5 +1,5 @@
 ---
-title: Festival de Datos - Datos para el desarrollo sostenible
+title: 'Datos para el desarrollo sostenible: El Festival de Datos 2023'
 date: 2023-12-11 14:23:00 Z
 ---
 
