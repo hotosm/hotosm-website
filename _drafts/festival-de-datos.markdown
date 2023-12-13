@@ -23,4 +23,4 @@ También contamos con una caseta en el hall principal que se transformó en nues
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/PAyRlnGm1hY?si=JeR5mJnnw9OEP7h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-s
+Rebecca posteriormente reflexionó sobre el -positivo- cambio de actitud en los funcionarios gubernamentales asistentes, que a diferencia de en la [primera edición](https://www.data4sdgs.org/blog/recap-un-world-data-forum-using-openstreetmap-sustainable-development-goals) del Festival donde los datos ciudadanos no fueron tan bien vistos por los representantes de gobiernos, ahora si había un genuino interés por involucrase en los procesos de generación de datos.
