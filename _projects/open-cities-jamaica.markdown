@@ -15,7 +15,7 @@ Project Summary Text: Solid waste accumulation in Kingston’s gullies has been 
   project focused on using mapping to analyze the impacts and help with the solutions.
 Feature Image: "/uploads/20220921_085956.heif.jpg"
 Person:
-- Louise Mathurin Serieux
+- 
 - Shazmane Mandjee Rehamtula
 Duration:
   Start Date: 2021-01-01 00:00:00 Z
