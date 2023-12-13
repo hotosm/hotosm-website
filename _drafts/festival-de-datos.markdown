@@ -19,4 +19,8 @@ Para esta edición si bien estos objetivos subsistían, se hizo énfasis en otro
 
 El [programa](https://www.data4sdgs.org/es/festivaldedatos/programa) del Festival de datos consistió en una apropiada mezcla de mesas redondas, presentaciones, charlas relámpago, talleres y espacios para el networking. El Hub de mapeo abierto participó con varias sesiones enfocadas en la interactividad con los asistentes para demostrar los usos y aplicaciones de la cartografía abierta y sus herramientas.
 
-También contamos con una caseta en el hall principal que se transformó en nuestro centro de operaciones y a donde acudían los interesados en la cartografía abierta y nuestros proyectos. Todo esto estuvo realzado con la presencia y activa participación de nuestra Directora Ejecutiva Rebecca Firth, 
+También contamos con una caseta en el hall principal que se transformó en nuestro centro de operaciones y a donde acudían los interesados en la cartografía abierta y nuestros proyectos. Todo esto estuvo realzado con la presencia y activa participación de nuestra Directora Ejecutiva Rebecca Firth.
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/PAyRlnGm1hY?si=JeR5mJnnw9OEP7h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+s
