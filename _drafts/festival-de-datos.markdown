@@ -18,3 +18,5 @@ Para esta edición si bien estos objetivos subsistían, se hizo énfasis en otro
 > Para alcanzar los Objetivos de Desarrollo Sostenible se necesitan rápidas innovaciones tecnológicas y una oportuna recopilación, acceso y uso de los datos. Sin embargo, la revolución de los datos también plantea tensiones fundamentales en torno al poder, la privacidad y la participación. El Festival de Datos tiene como objetivo fortalecer las comunidades de datos y nuestra capacidad colectiva para desbloquear el valor de los datos para todos mientras nos esforzamos por lograr la Agenda 2030.
 
 El [programa](https://www.data4sdgs.org/es/festivaldedatos/programa) del Festival de datos consistió en una apropiada mezcla de mesas redondas, presentaciones, charlas relámpago, talleres y espacios para el networking. El Hub de mapeo abierto participó con varias sesiones enfocadas en la interactividad con los asistentes para demostrar los usos y aplicaciones de la cartografía abierta y sus herramientas.
+
+También contamos con una caseta en el hall principal que se transformó en nuestro centro de operaciones y a donde acudían los interesados en la cartografía abierta y nuestros proyectos.
