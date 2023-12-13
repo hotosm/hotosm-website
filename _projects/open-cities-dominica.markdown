@@ -36,3 +36,7 @@ The methodology developed can be duplicated through agencies mandated and intere
 The CREAD Project (Climate Resilience Execution Agency for Dominica) has agreed to work with its partners in formatting the workflows into their tasks for attending to their list of Most Vulnerable Communities affected by Hurricane Maria. Other foreign agencies operating in Dominica, such as IsraAid have shown interest in utilizing the data and methodology in performing assessments for asset mapping of critical infrastructures on the island.
 
 **Partners: **[University of the West indies](https://www.uwi.edu/), [Dominica State College](https://www.facebook.com/thedominicastatecollege/), [Climate Resilience Execution Agency for Dominica (CREAD)](https://www.creadominica.org/), [Youth Emergency Action Committees - Dominica](https://yeacdominica.org/).
+
+**Other publications:**
+
+[Previous HOT projects in Dominica](https://www.hotosm.org/where-we-work/dominica/).
