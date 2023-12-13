@@ -1,6 +1,8 @@
 ---
 title: 'Open Cities: Jamaica'
 date: 2023-06-06 14:50:00 Z
+categories:
+- Projects
 tags:
 - jamaica
 - pollution
@@ -8,9 +10,9 @@ tags:
 - mapping
 - caribbean
 - opencities
-Project Summary Text: Pollution is a problem in Jamaica,  mainly solid waste accumulation
-  in Kingston’s gullies and surrounding communities. This OC project focused on using
-  mapping to analyze the impacts and help with the solutions.
+Project Summary Text: Solid waste accumulation in Kingston’s gullies has been linked
+  to flooding in the surrounding communities and pollution of the harbor. This OC
+  project focused on using mapping to analyze the impacts and help with the solutions.
 Feature Image: "/uploads/20220921_085956.heif.jpg"
 Person:
 - Louise Mathurin Serieux
