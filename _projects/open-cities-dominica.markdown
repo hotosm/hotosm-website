@@ -15,7 +15,7 @@ Project Summary Text: Recent extreme storm events in Dominica has led humanitari
   as a tool in disaster preparedness has proven to be crucial.
 Feature Image: "/uploads/IMG-20230121-WA0023.jpg"
 Person:
-- Louise Mathurin Serieux
+- 
 - Shazmane Mandjee Rehamtula
 Duration:
   Start Date: 2021-01-01 00:00:00 Z
