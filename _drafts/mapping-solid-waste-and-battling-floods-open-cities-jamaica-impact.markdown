@@ -27,4 +27,4 @@ Another highlight of the project was the field mapping and hackathon exercise, w
 
 The data collection activities covered 24 known flood points over a 3.4 ha area in the city impacting a 6,886 person. Additionally, 58 illegal solid waste collections identified over a 14.8 ha coverage, with 142 drainage features of interest over 1.4 km of linear drainage. 351 new features added on the map. 76 participants were trained, 67 % of them were women.
 
-**Partners: **[St Patrick Rangers](https://www.facebook.com/stpatricksrangersltd/), [Mona school of Business & Management](https://www.mona.uwi.edu/msbm/), [Caribbean School of Data (CSOD)](https://coi-csod.org/)
+**Partners:** [St Patrick Rangers](https://www.facebook.com/stpatricksrangersltd/), [Mona school of Business & Management](https://www.mona.uwi.edu/msbm/), [Caribbean School of Data (CSOD)](https://coi-csod.org/)
