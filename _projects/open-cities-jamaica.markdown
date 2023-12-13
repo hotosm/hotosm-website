@@ -1,6 +1,20 @@
 ---
 title: 'Open Cities: Jamaica'
 date: 2023-06-06 14:50:00 Z
+tags:
+- jamaica
+- pollution
+- solid waste
+- mapping
+- caribbean
+- opencities
+Project Summary Text: Pollution is a problem in Jamaica,  mainly solid waste accumulation
+  in Kingston’s gullies and surrounding communities. This OC project focused on using
+  mapping to analyze the impacts and help with the solutions.
+Feature Image: "/uploads/20220921_085956.heif.jpg"
+Person:
+- Louise Mathurin Serieux
+- Shazmane Mandjee Rehamtula
 Project: 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin
   America and Caribbean'
 ---
@@ -12,6 +26,8 @@ Much of the pollution is visible in the concrete waterways throughout Kingston, 
 The Humanitarian OpenStreetMap Team (HOT) provided support to local partners through a local implementing team, to create an analysis of the solid waste accumulation and its effect on urban flooding and harbor pollution. The aim was to develop open-mapping methodologies to capture data, from both ground and aerial mapping. Partnerships with local and international actors in emergency management and marine protection was integral to the development and sustainability of this initiative.
 
 An additional aim of the project was to expand the use of open-mapping (ground and aerial) and open data technologies, especially among youth and academia, to establish and grow alternative avenues of geodata capture and mapping.
+
+![DSC09220.jpg](/uploads/DSC09220.jpg)
 
 **Mapping Solid Waste and Battling Floods**
 
@@ -27,6 +43,8 @@ The issue of flooding in these communities near the gullies was one of the issue
 
 The work in Barnes gully will serve as a baseline and an opportunity for learning for future engagement in similar projects. The mapping data to be collected evolved over an iterative process by first identifying routes from waste heaps to collection, the location of traditional points of flooding and the distance between these points in relation to gully banks.
 
+![DSC09295.jpg](/uploads/DSC09295.jpg)
+
 These inputs provided the necessary values for several map outputs from the analysis in the form of shapefiles. The data collected under the project provided a richer information set to the decision makers and authorities of sanitation of drainage.
 
 The project team is planning to re-engage stakeholders with project findings and gauge appetite for collaboration in future projects, namely National Solid Waste Management Agency (NSWMA), National Works Agency (NWA), and the Office of Disaster Preparedness and Emergency Management (ODPEM) among others.
@@ -36,6 +54,8 @@ The training programme executed under the project was linked to the project goal
 The enrolled program participants were drawn from residents in communities proximate, existing social programs, while also working closely with the YouthMappers Chapter at the University of the West Indies, Mona.
 
 Another highlight of the project was the field mapping and hackathon exercise, where participants were providing a voice, not only in the data collection but on how the data could be used and have an impact on their own life. Under the hackathon, a team was awarded a grant to develop their app. Data on drainage networks and the surrounding communities in Kingston is now more widely available.
+
+![3JAmaica.jpg](/uploads/3JAmaica.jpg)
 
 The data collection activities covered 24 known flood points over a 3.4 ha area in the city impacting a 6,886 person. Additionally, 58 illegal solid waste collections identified over a 14.8 ha coverage, with 142 drainage features of interest over 1.4 km of linear drainage. 351 new features added on the map. 76 participants were trained, 67 % of them were women.
 
