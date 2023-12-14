@@ -8,6 +8,7 @@ Summary Text: 'We are happy to welcome 38 new members, three returning board mem
 
 # Board Election Results from the 2023 Annual Meeting
 ![board2023.png](/uploads/board2023.png)
+
 We are happy to welcome again three (3) returning board members:
 * [Kuo-Yu slayer Chuang](https://www.hotosm.org/people/kuo-yu-slayer-chuang/)
 * [Shoaib Burq](https://www.hotosm.org/people/shoaib-burq/)
@@ -24,9 +25,10 @@ Vacant seats for HOT’s Board of Directors are elected by the Voting Membership
 
 # HOT Voting Membership Welcome 38 New Members
 ![2023(1).png](/uploads/2023(1).png)
+
 We are happy to announce that **38  new members** have been elected to HOT’s Voting Membership (VM)! HOT’s Voting Membership has grown to 299 members from all across the globe. Our Female:Male ratio was previously 28.6% female and is now at 32.8%
 
-** Congratulations to the 38 new members **
+**Congratulations to the 38 new members**
 
 Adele Birkenes
 Jikka Defiño
