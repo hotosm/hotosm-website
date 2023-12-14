@@ -3,7 +3,10 @@ title: 2023 HOT Election Results - New Members, Board and Chairperson
 date: 2023-12-14 05:27:00 Z
 Summary Text: 'We are happy to welcome 38 new members, three returning board members
   and one new Voting Membership Chairperson who have been elected to HOT’s Voting
-  Membership (VM)! '
+  Membership! '
+Person: Tsongo Muluba Bienvenue
+Working Group:
+- Governance
 ---
 
 # Board Election Results from the 2023 Annual Meeting
