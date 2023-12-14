@@ -27,8 +27,6 @@ Partner:
 Duration:
   Start Date: 2018-05-01 00:00:00 Z
   End Date: 2021-04-01 00:00:00 Z
-# tm_campaigns:
-# - "#meteor"
 project_extent: GLB-201805-DC-MET.geojson
 Google Drive: https://drive.google.com/drive/u/1/folders/1l6nMr0axyBoo9rWWdI_E4CqLLjwmWAoD
 Map Products:

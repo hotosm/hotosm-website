@@ -23,10 +23,6 @@ Partner:
 - U.K. Department for International Development (DfID)
 Duration:
   Start Date: 2015-04-01 00:00:00 Z
-# tm_campaigns:
-# - "#ramanihuria"
-# - "#Trash mapping"
-# - "#METEOR"
 project_extent: ESA-201504-DC-UFR.geojson
 Google Drive: https://drive.google.com/drive/u/1/folders/1pSiIHo8G4f9RkRbOVfG-yR6BvbkIpg6-
 Data:
