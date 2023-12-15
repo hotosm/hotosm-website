@@ -17,9 +17,9 @@ Para esta edición si bien estos objetivos subsistían, se hizo énfasis en otro
 
 > Para alcanzar los Objetivos de Desarrollo Sostenible se necesitan rápidas innovaciones tecnológicas y una oportuna recopilación, acceso y uso de los datos. Sin embargo, la revolución de los datos también plantea tensiones fundamentales en torno al poder, la privacidad y la participación. El Festival de Datos tiene como objetivo fortalecer las comunidades de datos y nuestra capacidad colectiva para desbloquear el valor de los datos para todos mientras nos esforzamos por lograr la Agenda 2030.
 
-El [programa](https://www.data4sdgs.org/es/festivaldedatos/programa) del Festival de datos consistió en una mezcla diversa de mesas redondas, presentaciones, charlas relámpago, talleres y espacios para el networking. Desde el Hub de mapeo abierto, quisimos responder a esta diversidad de actividades maximizando la interacción con actores regionales. Presentamos varias sesiones enfocadas en el diálogo, intercambio de experiencia, brainstorming, y la interactividad con los asistentes para demostrar los usos y aplicaciones de la cartografía abierta y sus herramientas.
+El [programa](https://www.data4sdgs.org/es/festivaldedatos/programa) del Festival de datos consistió en una mezcla diversa de mesas redondas, presentaciones, charlas relámpago, talleres y espacios para el networking. Desde el Hub de mapeo abierto, quisimos responder a esta diversidad de actividades maximizando la interacción con actores regionales. Presentamos sesiones enfocadas en el diálogo, intercambio de experiencia, brainstorming, y la interactividad con los asistentes para demostrar los usos y aplicaciones de la cartografía abierta y sus herramientas.
 
-Tuvimos 
+Tuvimos por ejemplo, una sesión "simulacro" de Mapeo Humanitario en reacción a desastres.
 
 También contamos con una caseta en el hall principal que se transformó en nuestro centro de operaciones y a donde acudían los interesados en la cartografía abierta y nuestros proyectos, lo que nos permitió (re)conectar con muchos colegas. Todo esto estuvo realzado con la presencia y activa participación de nuestro director regional Fabrizio Scrollini y nuestra Directora Ejecutiva Rebecca Firth.
 
