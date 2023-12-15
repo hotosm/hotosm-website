@@ -19,7 +19,9 @@ Para esta edición si bien estos objetivos subsistían, se hizo énfasis en otro
 
 El [programa](https://www.data4sdgs.org/es/festivaldedatos/programa) del Festival de datos consistió en una mezcla diversa de mesas redondas, presentaciones, charlas relámpago, talleres y espacios para el networking. Desde el Hub de mapeo abierto, quisimos responder a esta diversidad de actividades maximizando la interacción con actores regionales. Presentamos sesiones enfocadas en el diálogo, intercambio de experiencia, brainstorming, y la interactividad con los asistentes para demostrar los usos y aplicaciones de la cartografía abierta y sus herramientas.
 
-Tuvimos por ejemplo, una sesión "simulacro" de Mapeo Humanitario en reacción a desastres.
+Tuvimos por ejemplo, una sesión "simulacro" de **Mapeo Humanitario en reacción a desastres**, con una breve introducción al mapeo en caso de desastres para luego pasar al simulacro de emergencia en el cual los asistentes asumieron los roles de las diversas entidades involucradas en el apoyo humanitario post desastre y actuar en consecuencia.
+
+Otra de nuestras sesiones fue una **inducción al mapeo abierto con aplicaciones móviles** open source para mapear elementos al exterior de la sala de conferencias, a modo de una actividad de concientización del acto cartográfico. Los asistentes se familiarizaron con las aplicaciones y regresaron a compartir impresiones y dudas, y sobre posibles usos en su campo profesional ligado a la política pública o a la investigación.
 
 También contamos con una caseta en el hall principal que se transformó en nuestro centro de operaciones y a donde acudían los interesados en la cartografía abierta y nuestros proyectos, lo que nos permitió (re)conectar con muchos colegas. Todo esto estuvo realzado con la presencia y activa participación de nuestro director regional Fabrizio Scrollini y nuestra Directora Ejecutiva Rebecca Firth.
 
