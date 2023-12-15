@@ -1,6 +1,7 @@
 ---
 title: 'Datos para el desarrollo sostenible: El Festival de Datos 2023'
 date: 2023-12-11 14:23:00 Z
+Feature Image: "/uploads/202311_Festival%20Datos%20Uruguay_closing%20Session%20Rebecca%20Firth%2003.jpg"
 ---
 
 Luego de [participar en el AbreLatam 2023](https://www.hotosm.org/updates/abrelatam-2023/) en Montevideo, Uruguay, el equipo del Hub de mapeo abierto se trasladó a Punta del Este, donde del 7 al 9 de noviembre se realizaría el [Festival de Datos](https://www.data4sdgs.org/es/festivaldedatos), organizado por [The Global Partnership for Sustainable Development Data](https://www.data4sdgs.org/): con el auspicio del Instituto Nacional de Estadística (INE), el Ministerio de Turismo y la Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento (AGESIC), de Uruguay.
