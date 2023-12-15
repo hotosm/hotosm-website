@@ -1,6 +1,15 @@
 ---
 title: 'Datos para el desarrollo sostenible: El Festival de Datos 2023'
-date: 2023-12-11 14:23:00 Z
+date: 2023-12-15 02:23:00 Z
+categories:
+- news
+tags:
+- Festival de datos
+- talleres
+- mapeo abierto
+Summary Text: El Festival de Datos realizado recientemente en Uruguay fue la oportunidad
+  para que el Hub de Mapeo Abierto presentara ante organizaciones e instituciones
+  las aplicaciones de la cartografía abierta y su enfoque humanitario.
 Feature Image: "/uploads/202311_Festival%20Datos%20Uruguay_closing%20Session%20Rebecca%20Firth%2003.jpg"
 ---
 
