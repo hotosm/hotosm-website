@@ -52,8 +52,16 @@ Rebecca -con posterioridad al evento- reflexionó sobre el positivo cambio de ac
 
 Finalmente, hablando de la IA, mencionó a [fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/), nuestra herramienta de mapeo asistida por IA, libre y de código abierto, cuyo objetivo es revolucionar el mapeo humanitario de OSM. fAIr aprovecha la IA para detectar objetos como edificios, carreteras y vías fluviales a partir de imágenes aéreas, que esperamos se vuelva una herramienta en apoyo al desarrollo.
 
-> Como era de esperar, la IA apareció mucho en casi todas las sesiones. Como parte de la sesión plenaria de clausura tuvimos la oportunidad de compartir nuestro enfoque al respecto con fAIr, que fue recibido positivamente. La pregunta principal que me quedó fue: ¿cómo podemos ser más humanos en la era de la IA? ¿Cómo podemos asegurarnos de que nuestros datos aporten humanidad? A menudo se piensa que los datos son algo bastante frío, duro y lógico, y necesitamos cruzarlos con la humanidad y la cultura para llevar la experiencia humana a la IA.
+> Como era de esperar, la IA apareció mucho en casi todas las sesiones. Como parte de la sesión plenaria de clausura tuvimos la oportunidad de compartir nuestro enfoque al respecto con fAIr, que fue recibido positivamente. La pregunta principal que me quedó fue: **¿cómo podemos ser más humanos en la era de la IA? ¿Cómo podemos asegurarnos de que nuestros datos aporten humanidad?** A menudo se piensa que los datos son algo bastante frío, duro y lógico, y necesitamos cruzarlos con la humanidad y la cultura para llevar la experiencia humana a la IA.
 
 En resumen, quedamos muy contentos por nuestra participación en el Festival de datos. Nos quedan muchas conversaciones por reanudar, y esperamos que quienes nos vieron y pensaron en ideas nuevas pero no conversaron con nosotros, nos puedan contactar también... Siempre apoyamos un acceso a más y mejores datos espaciales para los actores locales y el bienestar de las personas. Nos vemos en el próximo Festival de Datos!
 
-![FdDgrupal.jpg](/uploads/FdDgrupal.jpg)
+## ![FdDgrupal.jpg](/uploads/FdDgrupal.jpg)
+
+---
+
+*Si quieres ser parte de la comunidad de mapeadores voluntarios del Hub de Mapeo Abierto LAC escribe un correo electrónico a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Mapeador voluntario**.*
+
+*Si eres parte de alguna organización que desea explorar cómo colaborar en un proyecto de cartografía digital, escribe un correo a **[hublatam@hotosm.org](mailto:hublatam@hotosm.org)** con **Asunto: Proyectos LAC**.*
+
+**Síguenos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).**
