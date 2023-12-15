@@ -18,13 +18,19 @@ Para esta edición si bien estos objetivos subsistían, se hizo énfasis en otro
 
 > Para alcanzar los Objetivos de Desarrollo Sostenible se necesitan rápidas innovaciones tecnológicas y una oportuna recopilación, acceso y uso de los datos. Sin embargo, la revolución de los datos también plantea tensiones fundamentales en torno al poder, la privacidad y la participación. El Festival de Datos tiene como objetivo fortalecer las comunidades de datos y nuestra capacidad colectiva para desbloquear el valor de los datos para todos mientras nos esforzamos por lograr la Agenda 2030.
 
+![Eventos.jpg](/uploads/Eventos.jpg)
+
 El [programa](https://www.data4sdgs.org/es/festivaldedatos/programa) del Festival de datos consistió en una mezcla diversa de mesas redondas, presentaciones, charlas relámpago, talleres y espacios para el networking. Desde el Hub de mapeo abierto, quisimos responder a esta diversidad de actividades maximizando la interacción con actores regionales. Presentamos sesiones enfocadas en el diálogo, intercambio de experiencia, brainstorming, y la interactividad con los asistentes para demostrar los usos y aplicaciones de la cartografía abierta y sus herramientas.
 
 Tuvimos por ejemplo, una sesión "simulacro" de **Mapeo Humanitario en reacción a desastres**, con una breve introducción al mapeo en caso de desastres para luego pasar al simulacro de emergencia en el cual los asistentes asumieron los roles de las diversas entidades involucradas en el apoyo humanitario post desastre y actuar en consecuencia.
 
 Otra de nuestras sesiones fue una **inducción al mapeo abierto con aplicaciones móviles** open source para mapear elementos al exterior de la sala de conferencias, a modo de una actividad de concientización del acto cartográfico. Los asistentes se familiarizaron con las aplicaciones y regresaron a compartir impresiones y dudas, y sobre posibles usos en su campo profesional ligado a la política pública o a la investigación.
 
+![ninos.jpg](/uploads/ninos.jpg)
+
 Realizamos ademas un par de actividades orientadas a niños, una con mapeo básico y otra con manejo y vuelo de drones. como pueden apreciar en las fotos, los chicos no solo aprendieron sino que se divirtieron en el proceso.
+
+![Booth.jpg](/uploads/Booth.jpg)
 
 También contamos con una caseta en el hall principal que se transformó en nuestro centro de operaciones y a donde acudían los interesados en la cartografía abierta y nuestros proyectos, lo que nos permitió (re)conectar con muchos colegas. Todo esto estuvo realzado con la presencia y activa participación de nuestro director regional Fabrizio Scrollini y nuestra Directora Ejecutiva Rebecca Firth, quien fue entrevistada para varias organizaciones:
 
@@ -39,3 +45,5 @@ Finalmente, hablando de la IA, mencionó a [fAIr](https://www.hotosm.org/tech-bl
 > Como era de esperar, la IA apareció mucho en casi todas las sesiones. Como parte de la sesión plenaria de clausura tuvimos la oportunidad de compartir nuestro enfoque al respecto con fAIr, que fue recibido positivamente. La pregunta principal que me quedó fue: ¿cómo podemos ser más humanos en la era de la IA? ¿Cómo podemos asegurarnos de que nuestros datos aporten humanidad? A menudo se piensa que los datos son algo bastante frío, duro y lógico, y necesitamos cruzarlos con la humanidad y la cultura para llevar la experiencia humana a la IA.
 
 En resumen, quedamos muy contentos por nuestra participación en el Festival de datos. Nos quedan muchas conversaciones por reanudar, y esperamos que quienes nos vieron y pensaron en ideas nuevas pero no conversaron con nosotros, nos puedan contactar también... Siempre apoyamos un acceso a más y mejores datos espaciales para los actores locales y el bienestar de las personas. Nos vemos en el próximo Festival de Datos!
+
+![FdDgrupal.jpg](/uploads/FdDgrupal.jpg)
