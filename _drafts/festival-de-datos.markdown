@@ -23,7 +23,9 @@ Tuvimos por ejemplo, una sesión "simulacro" de **Mapeo Humanitario en reacción
 
 Otra de nuestras sesiones fue una **inducción al mapeo abierto con aplicaciones móviles** open source para mapear elementos al exterior de la sala de conferencias, a modo de una actividad de concientización del acto cartográfico. Los asistentes se familiarizaron con las aplicaciones y regresaron a compartir impresiones y dudas, y sobre posibles usos en su campo profesional ligado a la política pública o a la investigación.
 
-También contamos con una caseta en el hall principal que se transformó en nuestro centro de operaciones y a donde acudían los interesados en la cartografía abierta y nuestros proyectos, lo que nos permitió (re)conectar con muchos colegas. Todo esto estuvo realzado con la presencia y activa participación de nuestro director regional Fabrizio Scrollini y nuestra Directora Ejecutiva Rebecca Firth.
+Realizamos ademas un par de actividades orientadas a niños, una con mapeo básico y otra con manejo y vuelo de drones. como pueden apreciar en las fotos, los chicos no solo aprendieron sino que se divirtieron en el proceso.
+
+También contamos con una caseta en el hall principal que se transformó en nuestro centro de operaciones y a donde acudían los interesados en la cartografía abierta y nuestros proyectos, lo que nos permitió (re)conectar con muchos colegas. Todo esto estuvo realzado con la presencia y activa participación de nuestro director regional Fabrizio Scrollini y nuestra Directora Ejecutiva Rebecca Firth, quien fue entrevistada para varias organizaciones:
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/PAyRlnGm1hY?si=JeR5mJnnw9OEP7h8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
