@@ -40,6 +40,8 @@ Otra de nuestras sesiones fue una **inducción al mapeo abierto con aplicaciones
 
 Realizamos ademas un par de actividades orientadas a niños, una con mapeo básico y otra con manejo y vuelo de drones. como pueden apreciar en las fotos, los chicos no solo aprendieron sino que se divirtieron en el proceso.
 
+Adicionalmente organizamos dentro del evento un conversatorio desayuno con representantes de institutos nacionales de estadísticas de Paraguay, Colombia, Chile, Uruguay, Costa Rica, Rep. Dominicana, Surinam y Jamaica. El objetivo era discutir los retos en términos de acceso a cartografías básicas para sus ejercicios censales y de monitoreo de dinámicas poblacionales. Discutimos también de los posibles aportes de OpenStreetMap a nivel general.
+
 ![Booth.jpg](/uploads/Booth.jpg)
 
 También contamos con una caseta en el hall principal que se transformó en nuestro centro de operaciones y a donde acudían los interesados en la cartografía abierta y nuestros proyectos, lo que nos permitió (re)conectar con muchos colegas. Todo esto estuvo realzado con la presencia y activa participación de nuestro director regional Fabrizio Scrollini y nuestra Directora Ejecutiva Rebecca Firth, quien fue entrevistada para varias organizaciones:
