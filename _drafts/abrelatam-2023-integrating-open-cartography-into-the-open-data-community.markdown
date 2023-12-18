@@ -41,7 +41,7 @@ Carlos Duarte, from Geotecnológica de Guatemala, and associate in the OpenCitie
 
 ![IMG_20231101_110032703.jpg](/uploads/IMG_20231101_110032703.jpg)
 
-Cuauthemoc Gutierrez de [Comapper](https://comapper.org/), México, reflexiona sobre 'la importancia de la colaboración internacional en el tema de la gestión de datos abiertos":
+Cuauhtémoc Gutierrez from [Comapper](https://comapper.org/), Mexico, reflects on 'the importance of international collaboration on the issue of open data management':
 
 > Al interactuar con profesionales de diferentes países, me di cuenta de la riqueza que surge de la diversidad de enfoques. Esta experiencia también resaltó la necesidad de adaptar las mejores prácticas globales a las realidades locales. Un aspecto que me llamó especialmente la atención fue la convergencia de la tecnología y la participación ciudadana en el Hub "Mapeo Abierto". **La cartografía colaborativa no solo es una herramienta poderosa para la visualización de datos, sino también un medio para empoderar a las comunidades locales**. Este enfoque descentralizado hacia la recopilación de información geoespacial podría tener aplicaciones significativas en mi país, donde la participación ciudadana es clave para abordar diversos desafíos como el ordenamiento territorial, cambio climático, desastres naturales, medio ambiente entre otros.
 
