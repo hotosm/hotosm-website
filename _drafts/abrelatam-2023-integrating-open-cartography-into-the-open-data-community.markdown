@@ -35,9 +35,9 @@ Virgilio Benavides, Deputy Secretary of the [Risk Management Secretariat](https:
 
 ![IMG_20231102_112314841.jpg](/uploads/IMG_20231102_112314841.jpg)
 
-Carlos Duarte, de Geotecnológica de Guatemala, y asociado en el proyecto OpenCities Guatemala, cree que fue una gran experiencia, gratificante profesional y personalmente:
+Carlos Duarte, from Geotecnológica de Guatemala, and associate in the OpenCities Guatemala project, believes that it was a great experience, professionally and personally rewarding:
 
-> me permitió ampliar y actualizar mi perspectiva sobre la importancia de los datos abiertos, en particular los geográficos, en prácticamente todos los ámbitos; me brindó la oportunidad de compartir mis experiencias en un proyecto tan inspirador como OpenCities Guatemala, en el que trabajamos con pueblos indígenas que luchan por proteger su patrimonio natural; conocí increíbles experiencias de trabajo de otros participantes y **formamos una entrañable comunidad de aliados del Hub de Latinoamérica y el Caribe de HOT que nos abre una amplia gama de posibilidades y oportunidades de colaboración y proyección conjunta**. Mis nuevos amigos del Hub de LAC de HOT y de la red de aliados son el beneficio adicional inesperado de esta participación.
+> It allowed me to expand and update my perspective on the importance of open data, particularly geographic data, in practically all areas; It gave me the opportunity to share my experiences in a project as inspiring as OpenCities Guatemala, in which we work with indigenous peoples who fight to protect their natural heritage; I learned incredible work experiences from other participants and **we formed an endearing community of allies from the HOT Latin America and Caribbean Hub that opens up a wide range of possibilities and opportunities for collaboration and joint projection**. My new friends from the HOT LAC Hub and ally network are the unexpected added benefit of this participation.
 
 ![IMG_20231101_110032703.jpg](/uploads/IMG_20231101_110032703.jpg)
 
