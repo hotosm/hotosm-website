@@ -14,7 +14,7 @@ Feature Image: "/uploads/202311_Festival%20Datos%20Uruguay_closing%20Session%20R
 Person: Juan Arellano Valdivia
 ---
 
-Luego de [participar en el AbreLatam 2023](https://www.hotosm.org/updates/abrelatam-2023/) en Montevideo, Uruguay, el equipo del Hub de mapeo abierto se trasladó a Punta del Este, donde del 7 al 9 de noviembre se realizaría el [Festival de Datos](https://www.data4sdgs.org/es/festivaldedatos), organizado por [The Global Partnership for Sustainable Development Data](https://www.data4sdgs.org/): con el auspicio del Instituto Nacional de Estadística (INE), el Ministerio de Turismo y la Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento (AGESIC), de Uruguay.
+Luego de [participar en el AbreLatam 2023](https://www.hotosm.org/updates/abrelatam-2023/) en Montevideo, Uruguay, el equipo del Hub de mapeo abierto se trasladó a Punta del Este, donde del 7 al 9 de noviembre se realizaría el [Festival de Datos](https://www.data4sdgs.org/es/festivaldedatos), organizado por [The Global Partnership for Sustainable Development Data](https://www.data4sdgs.org/), con el auspicio del Instituto Nacional de Estadística (INE), el Ministerio de Turismo y la Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento (AGESIC), de Uruguay.
 
 Esta fue la segunda edición del Festival, pues [la primera](https://www.data4sdgs.org/sites/default/files/2018-06/Data%20Fest%20Report_Final_11June_compressed.pdf) se realizó en Bristol, UK, del 21 al 23 de marzo del 2018. En aquella ocasión los objetivos fueron:
 
