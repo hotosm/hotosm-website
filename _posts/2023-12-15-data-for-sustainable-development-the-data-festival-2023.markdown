@@ -1,6 +1,6 @@
 ---
 title: 'Data for sustainable development: The Data Festival 2023'
-date: 2023-12-15 02:09:00 Z
+date: 2023-12-15 02:30:00 Z
 categories:
 - news
 tags:
@@ -32,15 +32,21 @@ For this edition, although these objectives remained, emphasis was placed [on ot
 
 > Rapid innovations in technology and timely data collection, access, and use are needed to meet the Sustainable Development Goals. Yet the data revolution also raises fundamental tensions around power, privacy, and participation. The Festival aims to strengthen data communities and our collective ability to unlock the value of data for all as we strive to achieve the Agenda 2030.
 
+![Eventos.jpg](/uploads/Eventos.jpg)
+
 The Data Festival [program](https://www.data4sdgs.org/festivaldedatos/program) consisted of a diverse mix of roundtables, presentations, lightning talks, workshops and networking spaces. From the Open Mapping Hub side, we wanted to respond to this diversity of activities by maximizing interaction with regional actors. We presented sessions focused on dialogue, experience exchange, brainstorming, and interactivity with attendees to demonstrate the uses and applications of open cartography and its tools.
 
 For example, we had a "drill" session on **Humanitarian Mapping in reaction to disasters**, with a brief introduction to disaster mapping and then moving on to the emergency drill in which attendees assumed the roles of the various entities involved in the support. post-disaster humanitarian aid and act accordingly.
 
 Another of our sessions was an **induction to open mapping with open source mobile applications** to then map elements outside the conference room, as an activity to raise awareness of the cartographic act. Attendees became familiar with the applications and returned to share impressions and doubts, and possible uses of mapping in their professional field linked to public policy or research.
 
+![ninos.jpg](/uploads/ninos.jpg)
+
 We also carry out a couple of activities aimed at children, one with basic mapping and another with drone management and flying. As you can see in the photos, the kids not only learned but had fun in the process.
 
 Additionally, we organized a conversational breakfast with representatives of national statistics institutes from Paraguay, Colombia, Chile, Uruguay, Costa Rica, Dominican Republic, Suriname and Jamaica. The objective was to discuss the challenges in terms of access to basic cartography for their census exercises and monitoring of population dynamics. We also discussed the possible contributions of OpenStreetMap at a general level.
+
+![Booth.jpg](/uploads/Booth.jpg)
 
 We also had a booth in the main hall that became our operations center and where those interested in open cartography and our projects came, which allowed us to (re)connect with many colleagues. All of this was enhanced by the presence and active participation of our regional director Fabrizio Scrollini and our Executive Director Rebecca Firth, who was interviewed for several organizations:
 
@@ -55,3 +61,13 @@ Finally, talking about AI, she mentioned [fAIr](https://www.hotosm.org/tech-blog
 > AI, unsurprisingly, came up a lot in almost every session. We had the chance to share our approach to this with fAIr as part of the Closing Plenary, which was positively received. The main question I was left with was: **how can we be more human in the age of AI? How can we make sure our data brings humanity? **Data is often thought of as something that’s pretty cold, hard \+ logical, and we need to intersect it with humanity and culture to bring the human experience into AI.
 
 In summary, we were very happy with our participation in the Data Festival. We have many conversations left to resume, and we hope that those who saw us and thought of new ideas but did not talk to us can contact us anytime soon... We always support access to more and better spatial data for local actors and people's well-being. See you at the next Data Festival!
+
+## ![FdDgrupal.jpg](/uploads/FdDgrupal.jpg)
+
+---
+
+*If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: Volunteer mapper**.*
+
+*If you are part of an organization that wants to explore how to collaborate on a project, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: LAC Projects**.*
+
+***Follow us on networks: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).***
