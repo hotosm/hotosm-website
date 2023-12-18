@@ -2,6 +2,8 @@
 title: Open Mapping  Hub Asia-Pacific - Project Portfolio
 date: 2023-12-18 11:17:00 Z
 Feature Image: "/uploads/Screenshot%202023-12-18%20at%205.41.26%20PM.png"
+Country:
+- Asia-Pacifc
 ---
 
 The Open Mapping Hub Asia-Pacific is thrilled to present our Project Portfolio, a testament to our commitment to **fostering a sustainable OSM ecosystem in the region.**
