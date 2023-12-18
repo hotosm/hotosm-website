@@ -36,13 +36,13 @@ Daniel Carranza, co-founder of [DATA Uruguay](https://data.org.uy/) - one of the
 
 [Patricia Llanos](https://www.linkedin.com/in/dr-patricia-llanos-5b891247/?originalSubdomain=bo), from the San Andrés University [UMSA](https://www.umsa.bo/), Bolivia, thinks that AbreLatam was simply "great", and "a space to learn and share experiences":
 
-> I received many new ideas (for me) that I would like to realize at Bolivia scale. If I had to go back, I'd leave with more things to share and already with some results. Regarding the collaboration with the HUB, I saw what they are doing and I like this bond, since** forming projects with the support of experts or with visions on a specific topic helps us generate networks that can benefit disadvantaged populations or groups and society in general**. This also allows me to involve other actors in this initiative: other municipalities, other cities, other universities in Bolivia.
+> I received many new ideas (for me) that I would like to realize at Bolivia scale. If I had to go back, I'd leave with more things to share and already with some results. Regarding the collaboration with the HUB, I saw what they are doing and I like this bond, since\*\* forming projects with the support of experts or with visions on a specific topic helps us generate networks that can benefit disadvantaged populations or groups and society in general\*\*. This also allows me to involve other actors in this initiative: other municipalities, other cities, other universities in Bolivia.
 
 ![photo_5159018500554075127_y.jpg](/uploads/photo_5159018500554075127_y.jpg)
 
 Virgilio Benavides, Deputy Secretary of the [Risk Management Secretariat](https://www.gestionderiesgos.gob.ec/) of Ecuador, considers himself a novice on the subject of open data but says that he found the experience "particularly enriching and revealing":
 
-> Although I was already familiar with many aspects of open data in my sector, this event allowed me to discover dimensions that I had not previously considered. Without a doubt,** the integration of open cartography and its implications in the context of open data were revealed as fundamental aspects**. By observing the maturity of experiences at the regional level, I envision the potential to achieve significant progress and share valuable learnings. My participation in this dual event has awakened in me a renewed interest in exploring and developing this concept more deeply in the processes of my specialization. I aspire to integrate these perspectives to improve the results in the public service of my institution and, gradually, contribute to the progress of Ecuador and eventually, the Latin American region.
+> Although I was already familiar with many aspects of open data in my sector, this event allowed me to discover dimensions that I had not previously considered. Without a doubt,\*\* the integration of open cartography and its implications in the context of open data were revealed as fundamental aspects\*\*. By observing the maturity of experiences at the regional level, I envision the potential to achieve significant progress and share valuable learnings. My participation in this dual event has awakened in me a renewed interest in exploring and developing this concept more deeply in the processes of my specialization. I aspire to integrate these perspectives to improve the results in the public service of my institution and, gradually, contribute to the progress of Ecuador and eventually, the Latin American region.
 
 ![IMG_20231031_172849639.jpg](/uploads/IMG_20231031_172849639.jpg)
 
@@ -79,3 +79,9 @@ As can be seen, AbreLatam has served not only to put the Hub in contact with the
 See you in Brazil for AbreLatam 2024!
 
 ---
+
+*If you want to be part of the community of volunteer mappers of the LAC Open Mapping Hub, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: Volunteer mapper**.*
+
+*If you are part of an organization that wants to explore how to collaborate on a project, write an email to [hublatam@hotosm.org](https://www.hotosm.org/updates/mapping-as-a-response-to-the-disaster-in-esmeraldas-ecuador/hublatam@hotosm.org) with **Subject: LAC Projects**.*
+
+***Follow us on networks: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/), [Linkedin](https://www.linkedin.com/showcase/91453300/admin/feed/posts/).***
