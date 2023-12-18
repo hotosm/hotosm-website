@@ -5,13 +5,15 @@ date: 2023-12-18 14:09:00 Z
 
 After participating in [AbreLatam 2023](https://www.hotosm.org/updates/abrelatam-2023/) in Montevideo, Uruguay, the Open Mapping Hub team moved to Punta del Este, where the **[Data Festival](https://www.data4sdgs.org/festivaldedatos)** would be held from November 7 to 9, organized by [The Global Partnership for Sustainable Development Data](https://www.data4sdgs.org/), under the auspices of the National Institute of Statistics (INE), the Ministry of Tourism and the Agency for Electronic Government and Information and Knowledge Society (AGESIC), of Uruguay.
 
-This was the second edition of the Festival, since the first was held in Bristol, UK, from March 21 to 23, 2018. On that occasion the objectives were:
+This was the second edition of the Festival, since [the first](https://www.data4sdgs.org/sites/default/files/2018-06/Data%20Fest%20Report_Final_11June_compressed.pdf) was held in Bristol, UK, from March 21 to 23, 2018. On that occasion the objectives were:
 
-Convene members, funders and stakeholders to inspire and innovate
+* Convene Global Partnership members, funders, and stakeholders to inspire and innovate
 
-Connect communities of experts to share progress and discuss challenges and solutions to achieve the Sustainable Development Goals
+* Connect expert communities to share progress, and discuss challenges and solutions for achieving the\
+  Sustainable Development Goals
 
-Catalyze action, bring together initiatives and forge progress ahead of the World Data Forum and the 73rd UN General Assembly in the short term, and in the long term until 2030.
+* Catalyze action, match-up initiatives, and forge progress ahead of the World Data Forum and 73rd\
+  UN General Assembly in the short term, and looking ahead to 2030 in the longer term.
 
 For this edition, although these objectives remained, emphasis was placed on others such as:
 
