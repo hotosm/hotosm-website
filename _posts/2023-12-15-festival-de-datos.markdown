@@ -40,7 +40,7 @@ Otra de nuestras sesiones fue una **inducción al mapeo abierto con aplicaciones
 
 Realizamos ademas un par de actividades orientadas a niños, una con mapeo básico y otra con manejo y vuelo de drones. como pueden apreciar en las fotos, los chicos no solo aprendieron sino que se divirtieron en el proceso.
 
-Adicionalmente organizamos dentro del evento un conversatorio desayuno con representantes de institutos nacionales de estadísticas de Paraguay, Colombia, Chile, Uruguay, Costa Rica, Rep. Dominicana, Surinam y Jamaica. El objetivo era discutir los retos en términos de acceso a cartografías básicas para sus ejercicios censales y de monitoreo de dinámicas poblacionales. Discutimos también de los posibles aportes de OpenStreetMap a nivel general.
+Adicionalmente organizamos un desayuno conversatorio con representantes de institutos nacionales de estadísticas de Paraguay, Colombia, Chile, Uruguay, Costa Rica, Rep. Dominicana, Surinam y Jamaica. El objetivo era discutir los retos en términos de acceso a cartografías básicas para sus ejercicios censales y de monitoreo de dinámicas poblacionales. Discutimos también de los posibles aportes de OpenStreetMap a nivel general.
 
 ![Booth.jpg](/uploads/Booth.jpg)
 
