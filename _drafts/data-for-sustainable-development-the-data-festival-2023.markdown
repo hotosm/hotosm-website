@@ -3,7 +3,7 @@ title: 'Data for sustainable development: The Data Festival 2023'
 date: 2023-12-18 14:09:00 Z
 ---
 
-After participating in AbreLatam 2023 in Montevideo, Uruguay, the Open Mapping Hub team moved to Punta del Este, where the Data Festival would be held from November 7 to 9, organized by The Global Partnership for Sustainable Development Data: under the auspices of the National Institute of Statistics (INE), the Ministry of Tourism and the Agency for Electronic Government and Information and Knowledge Society (AGESIC), of Uruguay.
+After participating in [AbreLatam 2023](https://www.hotosm.org/updates/abrelatam-2023/) in Montevideo, Uruguay, the Open Mapping Hub team moved to Punta del Este, where the **[Data Festival](https://www.data4sdgs.org/festivaldedatos)** would be held from November 7 to 9, organized by [The Global Partnership for Sustainable Development Data](https://www.data4sdgs.org/), under the auspices of the National Institute of Statistics (INE), the Ministry of Tourism and the Agency for Electronic Government and Information and Knowledge Society (AGESIC), of Uruguay.
 
 This was the second edition of the Festival, since the first was held in Bristol, UK, from March 21 to 23, 2018. On that occasion the objectives were:
 
@@ -15,9 +15,9 @@ Catalyze action, bring together initiatives and forge progress ahead of the Worl
 
 For this edition, although these objectives remained, emphasis was placed on others such as:
 
-Rapid technological innovations and timely collection, access and use of data are needed to achieve the Sustainable Development Goals. However, the data revolution also raises fundamental tensions around power, privacy and participation. The Data Festival aims to strengthen data communities and our collective ability to unlock the value of data for all as we strive to achieve the 2030 Agenda.
+> Rapid innovations in technology and timely data collection, access, and use are needed to meet the Sustainable Development Goals. Yet the data revolution also raises fundamental tensions around power, privacy, and participation. The Festival aims to strengthen data communities and our collective ability to unlock the value of data for all as we strive to achieve the Agenda 2030.
 
-The Data Festival program consisted of a diverse mix of roundtables, presentations, lightning talks, workshops and networking spaces. From the open mapping Hub, we wanted to respond to this diversity of activities by maximizing interaction with regional actors. We present sessions focused on dialogue, experience exchange, brainstorming, and interactivity with attendees to demonstrate the uses and applications of open cartography and its tools.
+The Data Festival [program](https://www.data4sdgs.org/festivaldedatos/program) consisted of a diverse mix of roundtables, presentations, lightning talks, workshops and networking spaces. From the open mapping Hub, we wanted to respond to this diversity of activities by maximizing interaction with regional actors. We present sessions focused on dialogue, experience exchange, brainstorming, and interactivity with attendees to demonstrate the uses and applications of open cartography and its tools.
 
 For example, we had a "drill" session on Humanitarian Mapping in reaction to disasters, with a brief introduction to disaster mapping and then moving on to the emergency drill in which attendees assumed the roles of the various entities involved in the support. post-disaster humanitarian aid and act accordingly.
 
