@@ -1,6 +1,23 @@
 ---
 title: 'AbreLatam 2023: Integrating open cartography into the open data community'
-date: 2023-12-18 18:34:00 Z
+date: 2023-12-08 02:45:00 Z
+categories:
+- news
+- hub
+tags:
+- opendata
+- open data
+- abrelatam
+- projects
+- community
+- conference
+- latam
+- OpenStreetMap
+Summary Text: The participation of the Latin American and Caribbean Hub in AbreLatam
+  / ConDatos 2023 included various presentations and working tables. Here are the
+  testimonies of the participation of representatives of allied organizations.
+Feature Image: "/uploads/photo_5159018500554075117_y.jpg"
+Person: Juan Arellano Valdivia
 ---
 
 A year ago, on the occasion of the América Abierta event - which was what AbreLatam was called in 2022 - we at the Hub [reflected](https://www.hotosm.org/updates/america-abierta-2022-the-challenge-of-open-data/) that we should focus on the promotion, dissemination and support in the creation of synergies "since the regional open data community is like a natural community for mappers and people interested in open mapping."
