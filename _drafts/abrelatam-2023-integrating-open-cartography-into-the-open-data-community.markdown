@@ -43,22 +43,22 @@ Carlos Duarte, from Geotecnológica de Guatemala, and associate in the OpenCitie
 
 Cuauhtémoc Gutierrez from [Comapper](https://comapper.org/), Mexico, reflects on 'the importance of international collaboration on the issue of open data management':
 
-> Al interactuar con profesionales de diferentes países, me di cuenta de la riqueza que surge de la diversidad de enfoques. Esta experiencia también resaltó la necesidad de adaptar las mejores prácticas globales a las realidades locales. Un aspecto que me llamó especialmente la atención fue la convergencia de la tecnología y la participación ciudadana en el Hub "Mapeo Abierto". **La cartografía colaborativa no solo es una herramienta poderosa para la visualización de datos, sino también un medio para empoderar a las comunidades locales**. Este enfoque descentralizado hacia la recopilación de información geoespacial podría tener aplicaciones significativas en mi país, donde la participación ciudadana es clave para abordar diversos desafíos como el ordenamiento territorial, cambio climático, desastres naturales, medio ambiente entre otros.
+> By interacting with professionals from different countries, I realized the richness that arises from the diversity of approaches. This experience also highlighted the need to adapt global best practices to local realities. One aspect that especially caught my attention was the convergence of technology and citizen participation in the "Open Mapping" Hub. **Collaborative mapping is not only a powerful tool for data visualization, but also a means to empower local communities**. This decentralized approach to the collection of geospatial information could have significant applications in my country, where citizen participation is key to addressing various challenges such as territorial planning, climate change, natural disasters, the environment, among others.
 
 ![IMG_20231102_112423699.jpg](/uploads/IMG_20231102_112423699.jpg)
 
-[Leonardo Jiménez](https://wwwunaula.academia.edu/LeonardoJimenezGarc%C3%ADa), del Centro de Estudios con Poblaciones, Movimientos y Territorios [POMOTE](https://pomotecestudios.unaula.edu.co/sobre-pomote-centro-estudios-poblaciones-movilizaciones-territorios/) de la Universidad Autónoma Latinoamericana de Colombia, cree que el espacio le fue útil "para identificar y reconocer experiencias y procesos desde los ámbitos público-institucional, academia, ONG y sector privado".
+[Leonardo Jiménez](https://wwwunaula.academia.edu/LeonardoJimenezGarc%C3%ADa), from the [POMOTE](https://pomotecestudios.unaula.edu.co/sobre-pomote-centro-estudios-poblaciones-movilizaciones-territorios/) Center for Studies with Populations, Movements and Territories of the Latin American Autonomous University of Colombia, believes that the space was useful "to identify and recognize experiences and processes from the public-institutional spheres, academia, NGOs and the private sector".
 
-> también fue un espacio interesante de diálogo y reconocimiento de experiencias y procesos de democratización de los datos en América Latina, mucho más amplio en su agenda temática, ya que **se generaron diálogos muy potentes vinculados a temas relacionados con los derechos humanos, los movimientos sociales, las nuevas tecnologías, las reivindicaciones de género, la educación, las pedagogías y las gobernanzas locales**. Los formatos y metodologías propuestas permitían diálogos más fluidos, y se fomentó la generación de vínculos entre los procesos y personas participantes.
+> It was also an interesting space for dialogue and recognition of experiences and processes of data democratization in Latin America, much broader in its thematic agenda, since **very powerful dialogues were generated linked to issues related to human rights, social movements, new technologies, gender demands, education, pedagogies and local governance**. The proposed formats and methodologies allowed for more fluid dialogues, and the generation of links between the processes and participating people was encouraged.
 
 ![photo_5159018500554075119_y.jpg](/uploads/photo_5159018500554075119_y.jpg)
 
-Johnattan Rupire, de la Universidad Nacional Mayor de San Marcos, y líder de [OpenStreetMap Perú](https://osm.org.pe/) menciona que:
+Johnattan Rupire, from the San Marcos National University, and leader of [OpenStreetMap Perú](https://osm.org.pe/) mentions that:
 
-> Este primer AbreLatam/ConDatos ha sido para mí un espacio muy especial de articulación con compañeros de otros países con los que compartimos intereses y tópicos de investigación muy similares y geográficamente convivientes. Hacia el futuro, **espero que estas nuevas redes sirvan y brinden soporte para el crecimiento de las comunidades de OpenStreetMap en la región**.
+> This first AbreLatam/ConDatos has been for me a very special space for articulation with colleagues from other countries with whom we share very similar and geographically coexisting interests and research topics. Going forward, **I hope these new networks will serve and support the growth of OpenStreetMap communities in the region**.
 
-Como se puede apreciar, el AbreLatam ha servido no solo para poner al Hub en contacto con la comunidad datera de la región, si no para que nuestras organizaciones aliadas amplíen su propia red de alianzas con vistas a nuevos proyectos de mapeo y datos abiertos, fortaleciendo una comunidad de práctica regional.
+As can be seen, AbreLatam has served not only to put the Hub in contact with the data community in the region, but also for our allied organizations to expand their own network of alliances with a view to new mapping and open data projects, strengthening a regional community of practice.
 
-Nos vemos en Brasil para el AbreLatam 2024!
+See you in Brazil for AbreLatam 2024!
 
 ---
