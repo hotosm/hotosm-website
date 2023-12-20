@@ -45,6 +45,8 @@ Tools:
   too: FMTM
 ---
 
+### Background
+
 The Commonwealth of Dominica is also known as “the Nature Isle” due to its lush forest nestled in rugged terrain. Recent extreme storm events have severely impacted and threatened the inhabitants’ way of life as well as the environment. The scars and impacts of legacy storms, including Hurricane Maria (2017) also still present.
 
 The increase in storms has resulted in a search for more sustainable methods of living and development over the long term. Research activity has often concentrated around high impact, high visibility events, therefore there is a lack of comprehensive observed flood hazards for household and community resilience planning. 
