@@ -17,6 +17,8 @@ intro-text: |-
   <h4><a href="https://2023.stateofthemap.africa/">State of the Map Africa</a>, Yaounde, Cameroon: November 31 - December 02, 2023</h4><br>
   <br>
   <br>
+
+  If you are interested on becoming a sponsor to the HOT OpenSummit, [click here for more information.](http://www.hotosm.org/uploads/OpenSummit%20Sponsorship.pdf)
 block-0:
   Title: About HOT OpenSummit '23-24
   Text: "HOT's OpenSummit ‘23-24 is ON! \n\nGet ready for a year of global events
