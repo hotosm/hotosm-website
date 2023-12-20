@@ -3,18 +3,17 @@ title: |-
   OPEN CITIES
   Latin America and the Caribbean,
   Dominica
-  IMPACT REPORT
 date: 2023-12-07 12:27:00 Z
 published: false
-Project Summary Text: '"The Nature Isle," Dominica, faces the ongoing threat of extreme
-  storms, impacting lives and the environment. This prompts a collaborative effort
-  to address the lack of comprehensive flood data for resilience planning. Through
-  community-based mapping using mobile phones, the project updates building footprints
-  in OpenStreetMap, providing crucial flood information. The outcome includes 24 maps,
-  260 added building footprints, and a cultural shift towards open data use. Lessons
-  learned emphasize mobile-friendly mapping and overcoming challenges for future climate
-  resilience projects. Dominica emerges as a pioneer, showcasing adaptability in the
-  face of climate hazards.'
+Project Summary Text: "\"The Nature Isle,\" Dominica, faces the ongoing threat of
+  extreme storms, impacting lives and the environment. This prompted a collaborative
+  effort to address the lack of comprehensive flood data for resilience planning.
+  Through community-based mapping using mobile phones, the project updated building
+  footprints in OpenStreetMap, providing crucial flood information. \n\nThe outcome
+  includes 24 maps, 260 added building footprints, and a cultural shift towards open
+  data use. Lessons learned emphasize mobile-friendly mapping and overcoming challenges
+  for future climate resilience projects. Dominica emerges as a pioneer, showcasing
+  adaptability in the face of climate hazards."
 Feature Image: "/uploads/LAC-202301-DC-OCD-MD-001.png"
 Country:
 - Dominica
@@ -22,6 +21,7 @@ Impact Area:
 - Disasters & Climate Resilience
 Person:
 - Philip Hippolyte
+- Shazmane Mandjee Rehamtula
 Partner:
 - Global Facility for Disaster Reduction and Recovery (GFDRR)
 - Climate Resilience Execution Agency
@@ -50,7 +50,7 @@ The Commonwealth of Dominica is also known as “the Nature Isle” due to its l
 The increase in storms has resulted in a search for more sustainable methods of living and development over the long term. Research activity has often concentrated around high impact, high visibility events, therefore there is a lack of comprehensive observed flood hazards for household and community resilience planning. 
 
 
-Approach
+### Approach
 
 To fill data gaps on flood risk to buildings, HOT and implementing partner Open Solutions for Business worked with mappers from Youth Emergency Action to update building footprints in OpenStreetMap and collected observed historical flood data per building. Following HOT training, communities surveyed reported per historic flood the damage level and other information per incident per building. Using a combination of Vespucci and Field Mapping Tasking Manager, all mapping was community based and accessible via mobile phones. Buildings and flood extents were compared to CEDEMA’s regional flood modeling risks. 
 
