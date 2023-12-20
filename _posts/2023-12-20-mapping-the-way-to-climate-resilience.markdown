@@ -6,6 +6,9 @@ tags:
 - climate resilience
 - red cross climate centre
 - disaster response
+Person:
+- Cornelia Scholz
+- Jessica Pechmann
 ---
 
 ## The Partnership of the Climate Centre and HOT
