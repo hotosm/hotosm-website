@@ -18,7 +18,7 @@ intro-text: |-
   <br>
   <br>
 
-  If you are interested on becoming a sponsor to the HOT OpenSummit, [click here for more information.](http://www.hotosm.org/uploads/OpenSummit%20Sponsorship.pdf)
+  <h3>If you are interested in becoming a sponsor of the HOT OpenSummit,<a href="http://www.hotosm.org/uploads/OpenSummit%20Sponsorship.pdf">click here for more information.</h4>
 block-0:
   Title: About HOT OpenSummit '23-24
   Text: "HOT's OpenSummit ‘23-24 is ON! \n\nGet ready for a year of global events
