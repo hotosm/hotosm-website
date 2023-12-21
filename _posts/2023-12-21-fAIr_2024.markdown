@@ -4,7 +4,7 @@ date: 2023-12-21 17:01:00 Z
 published: false
 Summary Text: Learn about the most recent updates on HOT’s AI-assisted mapping service
   (fAIr) and what to expect in 2024!
-Feature Image: "/uploads/Screenshot%202023-12-21%20at%2010.01.26%E2%80%AFAM.png"
+Feature Image: "/uploads/Screenshot%202023-12-21%20at%2010.01.26%E2%80%AFAM-b628cd.png"
 Person:
 - Omran Najjar
 - Petya Kangalova
@@ -24,8 +24,8 @@ Previously, we explained [how fAIr works](https://www.hotosm.org/tech-blog/hot-t
 1. fAIr Home
 2. Trying a demo
 3. Creating a training dataset for Kakuma camp, Kenya region, using:
-* OpenAerialMap open source imagery provider 
-* OpenStreetMap data
+a. OpenAerialMap open source imagery provider 
+b. OpenStreetMap data
 4. Creating an AI model to detect buildings
 5. Use the AI model to predict buildings
 6. Decision-making on the predictions
