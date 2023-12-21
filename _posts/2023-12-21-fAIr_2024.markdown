@@ -46,5 +46,5 @@ To keep up to date with fAIr's roadmap and deliverables in 2024, join us on Gith
 
 ## How can YOU get involved?
 
-* We encourage you to watch the demos. If you have any questions or feedback, please add an issue to our fAIr Github repo or join the HOTOSM slack channel #fair-internal-testing! 
-* We welcome open-source contributors at any time, so if you are interested in supporting the development of fAIr, we can collaborate on Github!
+* We encourage you to watch the demos. If you have any questions or feedback, please add an issue to our [fAIr Github repository](https://github.com/hotosm/fAIr) or join the [HOTOSM slack channel](https://slack.hotosm.org/) #fair-internal-testing! 
+* We welcome open-source contributors at any time, so if you are interested in supporting the development of fAIr, we can collaborate on [Github](https://github.com/hotosm/fAIr)!
