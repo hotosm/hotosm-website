@@ -1,7 +1,6 @@
 ---
 title: Mapping the Way to Climate Resilience
 date: 2023-12-20 20:48:00 Z
-published: false
 tags:
 - climate resilience
 - red cross climate centre
