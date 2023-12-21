@@ -1,6 +1,14 @@
 ---
 title: El Hub LAC convoca a ser parte de la Brigada de Mapeo Humanitario
 date: 2023-12-21 02:02:00 Z
+categories:
+- news
+- hub
+tags:
+- convocatoria
+- mapeo
+- mapeo humanitario
+- brigada
 Feature Image: "/uploads/WhatsApp%20Image%202023-12-20%20at%209.12.24%20PM.jpeg"
 ---
 
