@@ -9,6 +9,9 @@ tags:
 - mapeo
 - mapeo humanitario
 - brigada
+Summary Text: Únete a la Brigada de Mapeo Humanitario del HUB LAC y fortalece capacidades
+  locales en Latinoamérica y el Caribe. Participa en respuestas efectivas a emergencias
+  y promueve una cultura activa de mapeo humanitario.
 Feature Image: "/uploads/WhatsApp%20Image%202023-12-20%20at%209.12.24%20PM.jpeg"
 ---
 
