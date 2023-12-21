@@ -1,0 +1,50 @@
+---
+title: fAIr - what to expect in 2024!
+date: 2023-12-21 17:01:00 Z
+published: false
+Summary Text: Learn about the most recent updates on HOT’s AI-assisted mapping service
+  (fAIr) and what to expect in 2024!
+Feature Image: "/uploads/Screenshot%202023-12-21%20at%2010.01.26%E2%80%AFAM.png"
+Person:
+- Omran Najjar
+- Petya Kangalova
+---
+
+Hi everyone! We are excited to share some updates about HOT’s AI-assisted mapping service (fAIr) and what to look forward to in 2024! If you have not heard of fAIr, please read [our previous blog about fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/) that will give you some context and progress till October of 2023, then continue here. 
+
+## Status Update
+
+We are happy to announce the completion of the previous roadmap with successful targets. As of October 2023, OpenStreetMap (OSM) mappers can create their own local training dataset, train/fine-tune an AI (computer vision) model, and map into OSM with the assistance of their own local model. In the next sections, we will take you through a tour of how it works in practice, the next steps, and how you can get involved.
+
+## How does fAIr work in practice?
+
+On a high-level approach, fAIr is fine-tuning computer vision segmentation models to learn the local mapping context. If it is your first time hearing about fAIr, start with this [5-minute intro demo](https://www.youtube.com/watch?v=6Bbgo_XwXxM). Neither code NOR engineering skills are required to create an AI model that can be used to detect features from satellite and/or drone imagery.
+
+Previously, we explained [how fAIr works](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/#how-does-fair-work) in theory. Now, we are excited to show you how that works in practice. In the following video recording, you can see a full AI-assisted mapping scenario, including the following steps:
+1. fAIr Home
+2. Trying a demo
+3. Creating a training dataset for Kakuma camp, Kenya region, using:
+* OpenAerialMap open source imagery provider 
+* OpenStreetMap data
+4. Creating an AI model to detect buildings
+5. Use the AI model to predict buildings
+6. Decision-making on the predictions
+7. Feedback to increase the model accuracy
+8. Map predicted features into OSM using JOSM
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N2_9Bvm05_0?si=VkpLoVNAVZLnPPs_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Demo of fAIr, responsible AI-assisted mapping - October 2023
+
+
+## What is next?
+
+In 2024, our main focus for fAIr will be on reaching a production release and scaling to wider OSM communities. The engagement would start with the [Open Mapping Hubs](https://www.hotosm.org/hubs/) in the 4 regions by conducting a series of introductory workshops and gathering feedback as a first wave of user acceptance testing (UAT).
+
+Fair is already deployed on a [staging environment](https://fair-dev.hotosm.org/) on the link; however, a production release is under implementation, targeting the middle of 2024 for completion. In parallel, fAIr will seek community support to explore AI models for feature extraction from aerial imagery (we will share more details next year).
+
+To keep up to date with fAIr's roadmap and deliverables in 2024, join us on Github: [fAIr roadmap.](https://github.com/orgs/hotosm/projects/30/views/1)
+
+## How can YOU get involved?
+
+* We encourage you to watch the demos. If you have any questions or feedback, please add an issue to our fAIr Github repo or join the HOTOSM slack channel #fair-internal-testing! 
+* We welcome open-source contributors at any time, so if you are interested in supporting the development of fAIr, we can collaborate on Github!
