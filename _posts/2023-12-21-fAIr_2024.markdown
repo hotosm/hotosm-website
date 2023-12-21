@@ -23,12 +23,7 @@ On a high-level approach, fAIr is fine-tuning computer vision segmentation model
 Previously, we explained [how fAIr works](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/#how-does-fair-work) in theory. Now, we are excited to show you how that works in practice. In the following video recording, you can see a full AI-assisted mapping scenario, including the following steps:
 1. fAIr Home
 2. Trying a demo
-3. Creating a training dataset for Kakuma camp, Kenya region, using:
-
-a. OpenAerialMap open source imagery provider 
-
-b. OpenStreetMap data
-
+3. Creating a training dataset for Kakuma camp, Kenya region, using OpenAerialMap open source imagery and OpenStreetMap data
 4. Creating an AI model to detect buildings
 5. Use the AI model to predict buildings
 6. Decision-making on the predictions
