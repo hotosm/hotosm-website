@@ -1,6 +1,9 @@
 ---
 title: O Hub LAC convoca para fazer parte da Brigada de Mapeamento Humanitário
 date: 2023-12-26 13:33:00 Z
+categories:
+- news
+- hubs
 tags:
 - Mapeamento
 - HubLAC
