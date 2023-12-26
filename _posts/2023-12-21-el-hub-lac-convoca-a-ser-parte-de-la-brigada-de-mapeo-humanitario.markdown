@@ -122,3 +122,8 @@ En el marco de cada activación:
 * Reunión intermedia
 
 * Reunión de cierre
+
+> **Español**:
+> ** Português**: O Hub LAC convoca para fazer parte da Brigada de Mapeamento Humanitário
+>
+> [Read more](https://www.hotosm.org/updates/o-hub-lac-convoca-para-fazer-parte-da-brigada-de-mapeamento-humanitario/)
