@@ -27,12 +27,14 @@ Join HUB LAC and contribute to strengthening local capacity, promoting an active
 * Development of capabilities and leadership in humanitarian mapping in OSM.
 * Increased visibility of open mapping for emergency management, facilitating the exchange of experience and participation in specialist networks.
 
+
 **Selection Criteria**
 * Intermediate and advanced OSM mappers.
 * Regularly active in 2023, especially in HOT or similar projects.
 * JOSM users.
 * No recurrent or serious errors, with a positive evaluation of past mapping.
 * Demonstrated interest in disaster management and commitment to humanitarian mapping.
+
 
 **Brigade Operation**
 * Organization in three groups: intermediate and advanced mappers, and validators.
@@ -42,9 +44,11 @@ Join HUB LAC and contribute to strengthening local capacity, promoting an active
 * Coordination and key meetings during activations.
 * Benefit of periodic advanced OSM mapping training as needed.
 
+
 **Iterative approach**
 * The Brigade is an experiment with conditions in effect in the first half of 2024.
 * Reevaluation with the group at the end of June 2024 to define terms of continuation.
+
 
 **Application Conditions**
 * Meet the previously established selection criteria.
@@ -54,6 +58,7 @@ Join HUB LAC and contribute to strengthening local capacity, promoting an active
 * Active commitment to the mapping group, contributing consistently and parallel to main activities and as an extraprofessional activity, according to humanitarian needs in the region.
 * Express interest in long-term participation.
 * Selection will be based on prioritizing geographic location, maintaining coherence, and continuous voluntary participation in activations.
+
 
 **Activities Timeline**
 December 2023 - January 2024:
