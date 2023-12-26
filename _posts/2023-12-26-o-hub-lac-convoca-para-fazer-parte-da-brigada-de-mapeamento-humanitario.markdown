@@ -16,6 +16,7 @@ A Brigada será mobilizada conforme circunstâncias específicas, temporalidade 
 
 Junte-se ao HUB LAC e contribua para fortalecer a capacidade local, promovendo uma cultura ativa e participativa de mapeamento humanitário na região. A data limite de inscrição é 31 de janeiro: [https://forms.gle/7bFZfdL1tuW7JWNB9](https://forms.gle/7bFZfdL1tuW7JWNB9)
 
+
 **Impacto esperado**
 * Conclusão de ativações prioritárias dentro dos prazos planejados, fortalecendo o apoio humanitário.
 * Melhoria na atenção a emergências e prevenção de riscos, aumentando a capacidade cartográfica-base.
@@ -24,12 +25,14 @@ Junte-se ao HUB LAC e contribua para fortalecer a capacidade local, promovendo u
 * Desenvolvimento de capacidades e liderança em mapeamento humanitário no OSM.
 * Maior visibilidade da cartografia aberta para gestão de emergências, facilitando o intercâmbio de experiências e participação em redes de especialistas.
 
+
 **Critérios de seleção**
 * Mapeadores de OSM intermediários e avançados.
 * Ativos regularmente em 2023, especialmente em projetos do HOT ou similares.
 * Usuários de JOSM.
 * Sem erros recorrentes ou graves, com avaliação positiva do mapeamento anterior.
 * Interesse demonstrado em gestão de desastres e comprometimento com o mapeamento humanitário.
+
 
 *** Operação da Brigada**
 * Organização em três grupos: mapeadores intermediários, avançados, e validadores.
@@ -38,6 +41,7 @@ Junte-se ao HUB LAC e contribua para fortalecer a capacidade local, promovendo u
 * Sem limites mínimos ou máximos de participação, mas espera-se qualidade e consistência.
 * Coordenação e reuniões-chave durante as ativações.
 * Benefício de treinamentos periódicos de mapeamento avançado no OSM conforme as necessidades.
+
 
 **Abordagem iterativa**
 * A Brigada é um experimento com condições válidas no primeiro semestre de 2024.
