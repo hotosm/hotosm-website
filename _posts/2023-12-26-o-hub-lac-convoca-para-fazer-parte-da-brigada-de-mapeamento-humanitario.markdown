@@ -14,7 +14,7 @@ Para potencializar o alcance e resposta humanitária nas ativações de mapeamen
 
 A Brigada será mobilizada conforme circunstâncias específicas, temporalidade e extensões de mapeamento, fornecendo suporte a projetos em risco de não cumprir prazos. O grupo não se concentrará apenas em tarefas de mapeamento de alta qualidade, mas também na validação e no fornecimento de treinamento. Seu principal objetivo é apoiar projetos que possam não ser concluídos a tempo para atender às necessidades locais reais. Esse time desempenhará um papel fundamental em fortalecer a capacidade local, promovendo uma cultura enraizada de mapeamento humanitário na região e estabelecendo uma base sólida para o desenvolvimento contínuo da cartografia humanitária e aberta.
 
-Junte-se ao HUB LAC e contribua para fortalecer a capacidade local, promovendo uma cultura ativa e participativa de mapeamento humanitário na região. A data limite de inscrição é 31 de janeiro: [https://forms.gle/7bFZfdL1tuW7JWNB9](https://forms.gle/7bFZfdL1tuW7JWNB9)
+Junte-se ao HUB LAC e contribua para fortalecer a capacidade local, promovendo uma cultura ativa e participativa de mapeamento humanitário na região. **A data limite de inscrição é 31 de janeiro:** [https://forms.gle/7bFZfdL1tuW7JWNB9](https://forms.gle/7bFZfdL1tuW7JWNB9)
 
 
 **Impacto esperado**
