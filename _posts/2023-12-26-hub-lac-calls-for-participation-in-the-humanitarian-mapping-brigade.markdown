@@ -83,3 +83,11 @@ Within each activation:
 * Kick-off Meeting
 * Intermediate Meeting
 * Closing Meeting
+
+> **Español**: El Hub LAC convoca a ser parte de la Brigada de Mapeo Humanitario
+>
+> [Consulta más información](https://www.hotosm.org/updates/el-hub-lac-convoca-a-ser-parte-de-la-brigada-de-mapeo-humanitario/
+>
+> **Português**: O Hub LAC convoca para fazer parte da Brigada de Mapeamento Humanitário
+>
+> [Consulte Mais informação](https://www.hotosm.org/updates/o-hub-lac-convoca-para-fazer-parte-da-brigada-de-mapeamento-humanitario/)
