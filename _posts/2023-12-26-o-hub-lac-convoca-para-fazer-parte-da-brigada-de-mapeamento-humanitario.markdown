@@ -57,3 +57,11 @@ Junte-se ao HUB LAC e contribua para fortalecer a capacidade local, promovendo u
 * Compromisso ativo no grupo de mapeamento, contribuindo de maneira constante e paralela às atividades principais e como atividade extraprofissional, de acordo com as necessidades humanitárias na região.
 * Manifestar interesse em uma participação a longo prazo.
 * A seleção será baseada na priorização da localização geográfica, mantendo coerência, e na participação contínua em ativações de forma voluntária.
+
+> **Español**: El Hub LAC convoca a ser parte de la Brigada de Mapeo Humanitario
+>
+> [Consulta más información](https://www.hotosm.org/updates/el-hub-lac-convoca-a-ser-parte-de-la-brigada-de-mapeo-humanitario/
+>
+> **English**: Hub LAC Calls for Participation in the Humanitarian Mapping Brigade
+>
+> [Check out for more information](https://www.hotosm.org/updates/hub-lac-calls-for-participation-in-the-humanitarian-mapping-brigade/)
