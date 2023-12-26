@@ -1,6 +1,9 @@
 ---
 title: Hub LAC Calls for Participation in the Humanitarian Mapping Brigade
 date: 2023-12-26 13:25:00 Z
+categories:
+- news
+- hubs
 tags:
 - open call
 - open mapping
