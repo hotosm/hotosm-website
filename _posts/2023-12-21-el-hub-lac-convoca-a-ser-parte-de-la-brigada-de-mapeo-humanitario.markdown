@@ -30,7 +30,8 @@ La Brigada se desplegará según circunstancias precisas, temporalidad y extensi
 * Reducción del tiempo y esfuerzo en el ciclo de mapeo y validación, generando mapeos de alta calidad desde el inicio.
 
 * Aumento significativo en la calidad general del mapa, evitando lagunas en la capacidad de validación.
-  Desarrollo de capacidades y liderazgo en mapeo humanitario en OSM.
+
+* Desarrollo de capacidades y liderazgo en mapeo humanitario en OSM.
 
 * Mayor visibilidad de la cartografía abierta para gestión de emergencias, facilitando el intercambio de experiencia y participación en redes de especialistas.
 
