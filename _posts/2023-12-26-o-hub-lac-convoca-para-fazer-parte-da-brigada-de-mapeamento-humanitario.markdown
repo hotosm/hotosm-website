@@ -60,7 +60,7 @@ Junte-se ao HUB LAC e contribua para fortalecer a capacidade local, promovendo u
 
 > **Español**: El Hub LAC convoca a ser parte de la Brigada de Mapeo Humanitario
 >
-> [Consulta más información](https://www.hotosm.org/updates/el-hub-lac-convoca-a-ser-parte-de-la-brigada-de-mapeo-humanitario/
+> [Consulta más información](https://www.hotosm.org/updates/el-hub-lac-convoca-a-ser-parte-de-la-brigada-de-mapeo-humanitario/)
 >
 > **English**: Hub LAC Calls for Participation in the Humanitarian Mapping Brigade
 >
