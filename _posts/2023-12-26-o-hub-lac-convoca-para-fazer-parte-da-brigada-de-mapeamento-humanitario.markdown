@@ -7,14 +7,14 @@ tags:
 Summary Text: Junte-se à Brigada de Mapeamento Humanitário do HUB LAC e fortaleça
   as capacidades locais na América Latina e no Caribe. Participe de respostas efetivas
   para emergências e promova uma cultura ativa de mapeamento humanitário.
-Feature Image: "/uploads/Portugue%CC%81s-16a209.png"
+Feature Image: "/uploads/Portugue%CC%81s-fadcce.png"
 ---
 
 Para potencializar o alcance e resposta humanitária nas ativações de mapeamento de emergência e prevenção na região, o Humanitarian OpenStreetMap Team (HOT) e o HUB LAC na América Latina e no Caribe irão introduzir um novo modelo de trabalho comunitário em prol do mapeamento de emergência e prevenção: a Brigada de Mapeamento Humanitário. Esse grupo seleto de até 30 mapeadores altamente comprometidos e tecnicamente capacitados participará de projetos específicos, dedicando parte de seu tempo para mapear durante emergências. Esse mapeamento será remunerado pelo tempo dedicado, de acordo com a quantidade de participação.
 
 A Brigada será mobilizada conforme circunstâncias específicas, temporalidade e extensões de mapeamento, fornecendo suporte a projetos em risco de não cumprir prazos. O grupo não se concentrará apenas em tarefas de mapeamento de alta qualidade, mas também na validação e no fornecimento de treinamento. Seu principal objetivo é apoiar projetos que possam não ser concluídos a tempo para atender às necessidades locais reais. Esse time desempenhará um papel fundamental em fortalecer a capacidade local, promovendo uma cultura enraizada de mapeamento humanitário na região e estabelecendo uma base sólida para o desenvolvimento contínuo da cartografia humanitária e aberta.
 
-Junte-se ao HUB LAC e contribua para fortalecer a capacidade local, promovendo uma cultura ativa e participativa de mapeamento humanitário na região. A data limite de inscrição é 31 de janeiro: [https://forms.gle/7bFZfdL1tuW7JWNB9](https://forms.gle/7bFZfdL1tuW7JWNB9)
+Junte-se ao HUB LAC e contribua para fortalecer a capacidade local, promovendo uma cultura ativa e participativa de mapeamento humanitário na região. **A data limite de inscrição é 31 de janeiro:** [https://forms.gle/7bFZfdL1tuW7JWNB9](https://forms.gle/7bFZfdL1tuW7JWNB9)
 
 
 **Impacto esperado**

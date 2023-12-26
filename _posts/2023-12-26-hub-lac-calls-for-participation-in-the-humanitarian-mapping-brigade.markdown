@@ -10,7 +10,7 @@ tags:
 Summary Text: Join the Humanitarian Mapping Brigade of HUB LAC and strengthen local
   capacities in Latin America and the Caribbean. Participate in effective emergency
   responses and foster an active culture of humanitarian mapping.
-Feature Image: "/uploads/English-98f84e.png"
+Feature Image: "/uploads/English-15022d.png"
 ---
 
 To enhance the reach and humanitarian response in emergency mapping activations and prevention in the region, the Humanitarian OpenStreetMap Team (HOT) and the HUB LAC in Latin America and the Caribbean will introduce a new community-based working model in favor of emergency response and anticipatory mapping: the Humanitarian Mapping Brigade. This select group of up to 30 highly committed and technically skilled mappers will participate in specific projects, dedicating part of their time to mapping during emergencies. This mapping will be compensated for the time dedicated, based on the level of participation.
