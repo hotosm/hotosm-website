@@ -10,14 +10,14 @@ tags:
 Summary Text: Join the Humanitarian Mapping Brigade of HUB LAC and strengthen local
   capacities in Latin America and the Caribbean. Participate in effective emergency
   responses and foster an active culture of humanitarian mapping.
-Feature Image: "/uploads/English.png"
+Feature Image: "/uploads/English-98f84e.png"
 ---
 
 To enhance the reach and humanitarian response in emergency mapping activations and prevention in the region, the Humanitarian OpenStreetMap Team (HOT) and the HUB LAC in Latin America and the Caribbean will introduce a new community-based working model in favor of emergency response and anticipatory mapping: the Humanitarian Mapping Brigade. This select group of up to 30 highly committed and technically skilled mappers will participate in specific projects, dedicating part of their time to mapping during emergencies. This mapping will be compensated for the time dedicated, based on the level of participation.
 
 The Brigade will be deployed based on precise circumstances, temporality, and mapping extensions, providing support to projects at risk of not meeting deadlines. The group will not only focus on high-quality mapping tasks but also on validation and training. Its main objective is to support projects that may not be completed on time to meet real local needs. This team will play a key role in strengthening local capacity, promoting a rooted culture of humanitarian mapping in the region, and establishing a solid foundation for the continuous development of humanitarian and open mapping.
 
-Join HUB LAC and contribute to strengthening local capacity, promoting an active and participatory culture of humanitarian mapping in the region. The application deadline is January 31: [https://forms.gle/7bFZfdL1tuW7JWNB9](https://forms.gle/7bFZfdL1tuW7JWNB9).
+Join HUB LAC and contribute to strengthening local capacity, promoting an active and participatory culture of humanitarian mapping in the region. **The application deadline is January 31:** [https://forms.gle/7bFZfdL1tuW7JWNB9](https://forms.gle/7bFZfdL1tuW7JWNB9).
 
 **Expected Impact**
 * Completion of priority activations within planned deadlines, strengthening humanitarian support.
