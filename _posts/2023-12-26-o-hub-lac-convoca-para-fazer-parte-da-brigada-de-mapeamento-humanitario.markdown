@@ -37,7 +37,7 @@ Junte-se ao HUB LAC e contribua para fortalecer a capacidade local, promovendo u
 * Interesse demonstrado em gestão de desastres e comprometimento com o mapeamento humanitário.
 
 
-*** Operação da Brigada**
+**Operação da Brigada**
 * Organização em três grupos: mapeadores intermediários, avançados, e validadores.
 * Ativação em projetos de emergência do HOT com atrasos a médio prazo.
 * Remuneração trimestral ou semestral conforme a quantidade de mapeamento.
@@ -49,7 +49,7 @@ Junte-se ao HUB LAC e contribua para fortalecer a capacidade local, promovendo u
 **Abordagem iterativa**
 * A Brigada é um experimento com condições válidas no primeiro semestre de 2024.
 * Reavaliação com o grupo no final de junho de 2024 para definir os termos de continuação.
-*** Condições de inscrição**
+**Condições de inscrição**
 * Atender aos critérios de seleção estabelecidos anteriormente.
 * Preencher o formulário de inscrição antes de 31 de janeiro de 2024.
 * Participar da reunião informativa (data a ser definida em fevereiro).
