@@ -58,6 +58,28 @@ Junte-se ao HUB LAC e contribua para fortalecer a capacidade local, promovendo u
 * Manifestar interesse em uma participação a longo prazo.
 * A seleção será baseada na priorização da localização geográfica, mantendo coerência, e na participação contínua em ativações de forma voluntária.
 
+**Cronograma de atividades**
+Dezembro de 2023 - Janeiro de 2024:
+* Inscrição
+* Pré-seleção
+Fevereiro:
+* Reunião de introdução
+* Mapeamento de teste
+* Avaliação e seleção
+* Declaração de compromisso e acordo
+Desde fevereiro e nos meses seguintes:
+* Mapeamento contínuo conforme emergências
+28 de março:
+* Gestão do pagamento #1
+27 de junho:
+* Reunião de avaliação do período experimental
+* Gestão do pagamento #2
+No contexto de cada ativação:
+* Reunião de início
+* Reunião intermediária
+* Reunião de encerramento
+
+
 > **Español**: El Hub LAC convoca a ser parte de la Brigada de Mapeo Humanitario
 >
 > [Consulta más información](https://www.hotosm.org/updates/el-hub-lac-convoca-a-ser-parte-de-la-brigada-de-mapeo-humanitario/)
