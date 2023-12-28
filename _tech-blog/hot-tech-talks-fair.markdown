@@ -70,5 +70,7 @@ In March 2022, we participated in an AI for Social good seminar in Frankfurt, Ge
 
 Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the updated timeline with links:
 
+Also check [here the latest fAIr updates for 2024](https://www.hotosm.org/updates/fAIr_2024/) 
+
 ![Screenshot 2022-11-02 at 14.09.40.png](https://cdn.hotosm.org/website/Screenshot+2022-11-02+at+14.09.40.png)
 ![Screenshot 2022-11-02 at 14.09.49-94d2eb.png](https://cdn.hotosm.org/website/Screenshot+2022-11-02+at+14.09.49-94d2eb.png)
