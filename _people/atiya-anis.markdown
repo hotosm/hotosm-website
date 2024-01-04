@@ -5,6 +5,7 @@ Photo: "/uploads/Atiya1.jpg"
 Member Type:
   Is Staff: true
 Job Title: Senior Communications Manager
+Country: India
 Team: Global
 ---
 
