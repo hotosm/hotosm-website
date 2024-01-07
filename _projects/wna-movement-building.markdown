@@ -7,6 +7,7 @@ tags:
 - movement building
 - wna grants
 - grants
+Feature Image: "/uploads/WNA-Small-Island.jpg"
 ---
 
 # Movement Building
