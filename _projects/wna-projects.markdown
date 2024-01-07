@@ -5,6 +5,7 @@ categories:
 - Projects
 tags:
 - WNA
+Feature Image: "/uploads/WNA-Ruwa.jpg"
 Impact Area:
 - Disasters & Climate Resilience
 ---
