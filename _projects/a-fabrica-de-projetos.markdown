@@ -4,6 +4,7 @@ date: 2023-04-28 23:42:00 Z
 Project Summary Text: |-
   Há muitos projetos que nunca avançam por falta de apoio.
   Quais podem ser suportados e como?
+Feature Image: "/uploads/LAC_fabrica_4.jpeg"
 Country:
 - Peru
 Impact Area:
