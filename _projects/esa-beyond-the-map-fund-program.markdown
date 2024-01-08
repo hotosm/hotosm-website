@@ -5,6 +5,7 @@ Project Summary Text: Beyond the Map Fund is a new program that provides financi
   and technical support to community organizations and non-profits seeking to integrate
   open mapping data to improve their planning and response to development and humanitarian
   initiatives.
+Feature Image: https://cdn.hotosm.org/website/Mogadishu+Skyline.jpg
 Is Community-Led: false
 Impact Area:
 - Sustainable Cities & Communities
