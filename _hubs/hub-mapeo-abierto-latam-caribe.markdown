@@ -1,5 +1,5 @@
 ---
-title: Hub de mapeo abierto - América Latina y el Caribe
+title: Hub de Mapeo Abierto - América Latina y el Caribe
 date: 2023-06-30 01:56:00 Z
 Page Contact:
   Label: "¡Contáctanos!"
