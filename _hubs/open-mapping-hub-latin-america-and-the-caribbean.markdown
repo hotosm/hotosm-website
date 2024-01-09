@@ -4,9 +4,7 @@ date: 2023-07-05 16:42:00 Z
 Page Contact:
   Label: Contact us!
   Contact Email: hublatam@hotosm.org
-Page Link:
-  Label: Subscribe to our newsletter
-  Link: https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=b7275458c5
+Field name: 
 layout: page
 ---
 
