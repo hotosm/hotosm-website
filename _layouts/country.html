@@ -90,7 +90,7 @@ layout: default
 
         <!-- Countries with projects -->
         
-        <!-- <h4 id="contact-header">{{ page.title }} has {{ projectcount }} HOT project{% if projectcount > 1%}s{%endif%}{% if memberscount > 0%} and {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}{%endif%}</h4> -->
+        <h4 id="contact-header">{{ page.title }} has {{ projectcount }} HOT project{% if projectcount > 1%}s{%endif%}{% if memberscount > 0%} and {{ memberscount }} voting member{% if memberscount > 1%}s{%endif%}{%endif%}</h4>
         <div class="country-content top">
           <p>Read more about each project below or learn more about <a href="/get-involved">getting involved</a>.</p>
         </div>
@@ -194,20 +194,20 @@ layout: default
   <!--////// Country Highlights //////-->
   <!--////////////////////////////////-->
 
-  <div class="container">
+  <!-- <div class="container"> -->
 
     <!-- Tab links -->
 
-    <div class="tab">
+    <!-- <div class="tab">
       <h6>{{ page.title }} Stats:</h6>
       <button id="hot-stats-tab" class="hide tablinks active" onclick="switchTab(event, 'hot-stats')">HOT</button>
       <button id="osm-stats-tab" class="tablinks active" onclick="switchTab(event, 'osm-stats')">OSM</button>
     </div>
 
-  </div>
+  </div> -->
 
   <!-- Tab content -->
-  <div id="hot-stats" class="hide tabcontent container home-stats">
+  <!-- <div id="hot-stats" class="hide tabcontent container home-stats">
     <div class="home-stat">
       <center><p class="loader"></p></center>
       <p class="stat-number" id="Community-Mappers"></p>
@@ -273,7 +273,7 @@ layout: default
         <span class="tooltiptext">Total length of OSM roads in {{ page.title }} from <a href="https://www.missingmaps.org/" target="_blank">Missing Maps</a></span>
       </p>
     </div>
-  </div>
+  </div> -->
 
   {% for project in sorted-projects %}
     {% if project['Country'] contains page.title %}

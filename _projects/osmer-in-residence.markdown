@@ -4,15 +4,23 @@ title: Strengthening Collaboration Between Organizations and Local Communities i
 date: 2023-11-29 14:47:00 Z
 tags:
 - OSMER
+Feature Image: "/uploads/hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png"
+Impact Area:
+- Public Health
+- Sustainable Cities & Communities
+Partner:
+- Médecins Sans Frontières (MSF)
 ---
 
 The shared vision of creating a detailed, accessible, and community-driven map of the world continues to drive the open mapping movement. Increasingly, organizations across diverse sectors are recognizing the value of open data and its potential impact on societal development.
 
 Several organizations have made a commitment to open up their data and actively contribute to OpenStreetMap (OSM). However, as OSM is an open-source community project, decisions and action are guided by community consensus. For any organization seeking to integrate its data into this platform, obtaining local community support is essential.
 
-The ongoing OSMer in Residence program serves as a crucial link between these organizations and the dynamic OSM community in Africa. In its pilot phase, HOT-West and Northern Africa Hub (WNAH) is collaborating with Médecins Sans Frontières/Doctors Without Borders (MSF), a humanitarian organization that provides emergency relief to some of the most vulnerable and excluded communities around the world, with data and maps being of high importance to supporting their operations. MSF wants to better leverage OSM for their operations and contribute good quality data back into the platform.
+The ongoing OSMer in Residence program serves as a crucial link between these organizations and the dynamic OSM community in Africa. Based on the concept of the Wikipedian in Residence, the OSMer in Residence program is designed to embed an OSM subject matter expert in a host organization or institution to maximize the value for the host organization in terms of their ability to leverage OpenStreetMap as a database that supports improved humanitarian and development outcomes in accordance with OSM community norms.
 
-**Yves Emmanuel**, an OSM expert from the regional community in Africa, currently the OSMer in residence is working directly with the MSF team to support easy integration of their data into OSM and strengthen quality engagement between MSF and the OSM community in West Africa. Yves Emmanuel holds a master’s degree in environment and conservation sciences and has started mapping in OSM since 2019 through projects at the national level including Cameroon's land use in OSM. He is very passionate about integrating community approaches into environmental management and engaging OSM communities.
+In its pilot phase, Open Mapping - West and Northern Africa Hub(WNAH) is collaborating with Médecins Sans Frontières/Doctors Without Borders (MSF), a humanitarian organization that provides emergency relief to some of the most vulnerable and excluded communities around the world, with data and maps being of high importance to supporting their operations. MSF wants to develop workflows to better leverage OSM for their operations and also contribute good quality data back into the platform.
+
+**Yves Emmanuel**, an OSM expert from the regional community in Africa, currently the OSMer in residence is working directly with the MSF team to support easy integration of their data into OSM and strengthen quality engagement between MSF and the OSM community in West Africa. The embedded nature of the resident is important to ensure that value can be generated through the work based on a deep understanding of MSF’s existing challenges and ways of working. Yves Emmanuel holds a master’s degree in environment and conservation sciences and has started mapping in OSM since 2019 through projects at the national level including Cameroon's land use in OSM. He is very passionate about integrating community approaches into environmental management and engaging OSM communities.
 
 The residence has a mandate to develop and test effective and appropriate workflows to achieve the following objectives:
 
@@ -30,6 +38,9 @@ Since the start of the program in August, the residence has gone through a serie
 
 * Research to understand the current MSF GIS data collection processes, the tools, the data sources and the limitations of their current data collection workflow.
 
+* Ongoing plans to explore tools like the Field Mapping Tasking Manager (FMTM) that can help support coordinated field mapping for field data collection activities.
+
+
 ## Impact
 
 The impact of this program is already evident from the MSF and the residence perspective.
@@ -42,6 +53,6 @@ The impact of this program is already evident from the MSF and the residence per
 
 ![Yves-OSMer](/uploads/OSMer2.png)
 
-By the end of the program in early 2024, data to fill critical gaps in the health sector would already be in OSM. This data will not only support MSF’s operation but serve as a tool for communities and local actors in the region.
+By the end of the program in early 2024, the program aims to increase coverage of data in OSM through a collaborative import with local communities in two countries. This data will not only support MSF’s operation but fill critical data gaps for communities and local actors in the region.
 
 If you've found value in our work or share in the mission, consider making a [donation](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa/donate/) to support us.

@@ -5,6 +5,8 @@ Photo: https://cdn.hotosm.org/website/Raiza.jpeg
 Member Type:
   Is Staff: true
 Job Title: Digital Communications Strategist Manager
+Country: United States
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Raiza%20Pilatowsky
 ---
