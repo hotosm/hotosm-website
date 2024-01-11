@@ -11,41 +11,38 @@
 
         <div class="home">
 
-          <div class="container">
-            <header class="home-header">
-              <h1>{{ content }}</h1>
-              <div class="home-cta">
-                <a href="/what-we-do" class="btn btn-primary btn-lg btn-chevron btn-block">
-                  Learn about what we do
-                </a>
-                <a href="https://tasks.hotosm.org/explore" class="btn btn-info btn-lg btn-chevron btn-block class start-mapping-btn ttu font-headline">
-                  Start mapping
-                </a>
-              </div>
-            </header>
-          </div>
-
-          <div class="home-highlights-controls">
-
-            <div class="home-controls">
-              <div class="control" id="control-left">Left</div>
-              <div class="control" id="control-right">Right</div>
-            </div>
-
             <div class="home-highlights">
 
               <div class="home-highlights-wrapper piwikTrackContent">
 
-                {% for home-project in page.Project %}
+                {% for home-project in page.Project limit:3 %}
                   {% for project in site.projects %}
-                    {% if home-project == project.title %}
-                      <a href="{{ project.url }}" class="home-highlight">
+                    <!-- {% if home-project == project.title %} -->
+                      <a class="home-highlight3">
                         <img src="{{ project['Feature Image'] }}">
-                        <div class="home-highlight-title">
-                          <p>
+
+                        <div class="home-highlight-title2">
+
+                          <div class="container">
+                            <header class="home-header">
+                              <div>
+                              <h1 style="color: white; padding: 1% 1% 1% 2%;" class="home-highlight2">HOT is an international team dedicated to humanitarian action and community
+                                development through open mapping. {{ description }}</h1>
+                              </div>
+                              <div class="home-cta">
+                                <a href="/what-we-do" class="btn btn-primary btn-lg btn-chevron btn-block font-headline">
+                                  LEARN WHAT WE DO
+                                </a>
+                                <a href="https://tasks.hotosm.org/explore" class="btn btn-info btn-lg btn-chevron btn-block class start-mapping-btn ttu font-headline">
+                                  Start mapping
+                                </a>
+                              </div>
+                            </header>
+                          </div>
+                          <!-- <p>
                             {{ project.title }}
-                          </p>
-                          <p><span>
+                          </p> -->
+                          <!-- <p><span>
                             {% if project.Country.size < 3 %}
                               {% for country in project.Country %}
                                 <i>{{ country }}</i>
@@ -53,15 +50,60 @@
                             {% else %}
                               {{ project.Country.size }} Countries
                             {% endif %}
+                          </span></p> -->
+                        </div>
+                      </a>
+                    <!-- {% endif %} -->
+                  {% endfor %}
+                {% endfor %}
+                {% for home-news in page.News limit:3 %}
+                  {% for project in site.projects %}
+                  {% if home-news == project.title %}
+                      <a href="{{ project.url }}" class="home-highlight">
+                        <img src="{{ project['Feature Image'] }}">
+                        <div class="home-highlight-title">
+                          <p style="font-size: 2.15rem;">
+                            {{ project.title }} 
+                          </p>
+                          <p><span>
+                            <!-- {% if project.Country.size < 3 %}
+                              {% for country in project.Country %} -->
+                                <i>{{ project['Summary Text'] }}</i>
+                              <!-- {% endfor %}
+                            {% else %}
+                              {{ project.Country.size }} Countries
+                            {% endif %} -->
                           </span></p>
                         </div>
                       </a>
                     {% endif %}
                   {% endfor %}
                 {% endfor %}
+                
 
               </div>
             </div>
+
+            <div class="container">
+              <header class="home-header">
+                <!-- <h1>{{ content }}</h1>
+                <div class="home-cta">
+                  <a href="/what-we-do" class="btn btn-primary btn-lg btn-chevron btn-block">
+                    Learn about what we do
+                  </a>
+                  <a href="https://tasks.hotosm.org/explore" class="btn btn-info btn-lg btn-chevron btn-block class start-mapping-btn ttu font-headline">
+                    Start mapping
+                  </a>
+                </div> -->
+              </header>
+            </div>
+  
+            <div class="home-highlights-controls">
+              <div class="home-controls">
+                <div class="control" id="control-left">Left</div>
+                <div class="control" id="control-right">Right</div>
+            </div>
+
           </div>
 
           <div class="container home-stats">

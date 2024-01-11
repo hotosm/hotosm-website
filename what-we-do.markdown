@@ -13,9 +13,9 @@ Block 1:
   Text: When major disaster strikes anywhere in the world, thousands of HOT volunteers
     come together online and on the ground to create open map data that enables disaster
     responders to reach those in need.
-  Image: https://cdn.hotosm.org/website/DOceJ9QWkAAYthW.jpg
+  Image: https://cdn.hotosm.org/website/Ramani+Huria+TZ+2.jpg
   Project:
-  - 'Refugee response: South Sudan and Syria'
+  - 'Canoa de Tolda'
 Block 2:
   Header: Mapping areas vulnerable to disaster
   Text: Through the Missing Maps project, the HOT global community creates maps of

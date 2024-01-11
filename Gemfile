@@ -30,3 +30,5 @@ gem 'jekyll-paginate'
 gem 'jekyll-redirect-from'
 gem 'jekyll-sitemap'
 gem 'kramdown-parser-gfm', '~> 1.1.0'
+
+gem "webrick", "~> 1.8"
