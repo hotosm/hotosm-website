@@ -1,7 +1,10 @@
 ---
-title: HOT OpenSummit '23-24
-date: 2023-07-18 20:29:00 Z
-permalink: opensummit23-24
+title: HOT OpenSummit 23-24
+date: 2023-07-17 20:29:00 Z
+# permalink: opensummit23-24
+Summary Text: 'HOT OpenSummit 23-24 and open our call for collaborations so more communities and organizations around the world
+    bring their events as part of this global movement.'
+Feature Image: http://127.0.0.1:4000/uploads/Website%20MainBanner-51e09d.png
 summit-image: "/uploads/Website%20MainBanner-51e09d.png"
 intro-text: |-
   <h2>The HOT OpenSummit is excited to join:</h2><br>
@@ -16,10 +19,6 @@ intro-text: |-
   <h4><a href="https://foss4g.asia/2023/">FOSS4G Asia</a>, Seoul, Korea: November 28 - December 02, 2023</h4><br>
   <h4><a href="https://2023.stateofthemap.africa/">State of the Map Africa</a>, Yaounde, Cameroon: November 31 - December 02, 2023</h4><br>
   <br>
-  <br>
-
-  <h3>If you are interested in becoming a sponsor of the HOT OpenSummit,<a href="http://www.hotosm.org/uploads/OpenSummit%20Sponsorship.pdf"> click here for more information.</h4>
-
   <br>
 block-0:
   Title: About HOT OpenSummit '23-24

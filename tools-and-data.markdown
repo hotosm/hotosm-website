@@ -58,8 +58,12 @@ Block 4:
   Tools:
   - Name: Tasking Manager
     URL: https://tasks.hotosm.org/
+  # - Name: OpenMapKit
+  #   URL: http://openmapkit.org/
   - Name: Field Papers
     URL: http://www.fieldpapers.org
+  # - Name: Portable OpenStreetMap (POSM)
+  #   URL: http://posm.io/
   - Name: RapiD
     URL: https://mapwith.ai/rapid
 Block 5:
@@ -74,6 +78,16 @@ Block 5:
     URL: https://export.hotosm.org/en/v3/
   - Name: Humanitarian Data Exchange (HDX)
     URL: https://data.humdata.org/organization/hot
+# Block 6:
+#   Header: Analyze the Data
+#   Text: To understand more about how and when editing took place, or assess quality
+#     within OSM, use the OSM Analytics suite of tools. You can view how data has changed
+#     over time within OSM, understand quality within an area, or analyze what type
+#     of data is available.
+#   Image: https://cdn.hotosm.org/website/tools-osm-analytics.png
+#   Tools:
+#   - Name: OSM Analytics
+#     URL: https://osm-analytics.org/
 layout: tools-and-data
 ---
 

@@ -4,3 +4,8 @@ _site
 /.DS_Store
 /images/.DS_Store
 vendor/
+.ruby-version
+Gemfile
+Gemfile.lock
+Gemfile
+Gemfile.lock
