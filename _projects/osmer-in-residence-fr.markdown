@@ -28,6 +28,7 @@ La résidence a pour mandat de développer et de tester des flux de travail effi
 * Projets en cours pour explorer des outils tels que le Field Mapping Tasking Manager (FMTM) qui peut aider à coordonner la cartographie sur le terrain pour les activités de collecte de données sur le terrain. 
 
 **Impact** 
+
 L'impact de ce programme est déjà évident du point de vue de la MSF et de la résidence. 
 
 **Jorieke**, conseiller en SIG et coordinateur des cartes manquantes, qui travaille en étroite collaboration avec le centre sur ce programme, a décrit l'utilité de cette collaboration pour eux. 
