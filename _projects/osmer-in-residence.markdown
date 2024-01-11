@@ -56,3 +56,5 @@ The impact of this program is already evident from the MSF and the residence per
 By the end of the program in early 2024, the program aims to increase coverage of data in OSM through a collaborative import with local communities in two countries. This data will not only support MSF’s operation but fill critical data gaps for communities and local actors in the region.
 
 If you've found value in our work or share in the mission, consider making a [donation](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa/donate/) to support us.
+
+You can read the French version [here](https://www.hotosm.org/projects/osmer-in-residence-fr/).
