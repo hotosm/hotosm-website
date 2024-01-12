@@ -3810,10 +3810,6 @@ div.mapboxgl-popup-content .project__details {
     overflow-x: hidden;
     height: 612px;
   }
-  @media (max-width: $screen-xs) {
-    overflow-x: scroll;
-    width: 115%;
-  }
 }
 
 .home-highlights-wrapper {
