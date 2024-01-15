@@ -4,7 +4,7 @@ date: 2022-02-09 05:31:00 Z
 Photo: https://cdn.hotosm.org/website/250-0-2.jpg
 Member Type:
   Is Staff: true
-Job Title: Partnerships Manager - West and Northern Africa
+Job Title: Senior Manager, Partnerships and Fundraising - West and Northern Africa
 Team: West and Northern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/#map=12/13.5866/2.0781
