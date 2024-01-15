@@ -5,10 +5,11 @@ Photo: https://cdn.hotosm.org/website/SamColchester2.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Senior Associate, Impact Partnerships
+Job Title: Partnerships & Training Lead - Partnerships & Community
 Project:
 - Missing Maps
 Country: Spain
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/SColchester
 ---
