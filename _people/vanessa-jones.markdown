@@ -4,7 +4,7 @@ date: 2022-11-08 06:10:00 Z
 Photo: https://cdn.hotosm.org/website/V.+Jones+Headshot.jpg
 Member Type:
   Is Staff: true
-Job Title: Executive Assistant to the Board of Directors
+Job Title: Executive and Operations Assistant
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/VanessaJones
