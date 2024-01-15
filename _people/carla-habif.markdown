@@ -4,7 +4,7 @@ date: 2022-03-23 08:54:00 Z
 Photo: https://cdn.hotosm.org/website/photo-293218.JPG
 Member Type:
   Is Staff: true
-Job Title: Community Services Associate- Latin America and Caribbean
+Job Title: Project and Community Associate - Latin America and Caribbean
 Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Carla%20Habif
