@@ -4,7 +4,9 @@ date: 2022-02-01 20:33:00 Z
 Photo: https://cdn.hotosm.org/website/111532285_1335496149985862_4735525399033517238_n.jpg
 Member Type:
   Is Staff: true
-Job Title: GIS Associate - Asia Pacific
+Job Title: GIS Analyst - Asia Pacific
+Project:
+- 'Data-Driven Disaster Risk Management: PhilAWARE'
 Team: Asia Pacific Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Honey%20Fombuena

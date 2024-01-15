@@ -4,7 +4,8 @@ date: 2023-06-06 06:15:00 Z
 Photo: https://cdn.hotosm.org/website/Leti%CC%81cia.jpeg
 Member Type:
   Is Staff: true
-Job Title: Impact Partnership Assistant
+Job Title: Community & Partnerships Assistant
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Let%C3%ADcia%20Cruxen%20Godinho
 ---
