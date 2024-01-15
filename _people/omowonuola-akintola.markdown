@@ -4,7 +4,7 @@ date: 2023-01-03 08:00:00 Z
 Photo: https://cdn.hotosm.org/website/Omowonuola_Akintola+(1).jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Associate, Data Quality- West and Northern Africa
+Job Title: GeoSpatial Analyst - West and Northern Africa
 Team: West and Northern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Omowonuola%20Akintola

@@ -4,9 +4,9 @@ date: 2019-12-06 12:11:00 Z
 Photo: https://cdn.hotosm.org/website/Rebecca+Chandiru+photo.PNG
 Member Type:
   Is Staff: true
-Job Title: Mapping Validator
+Job Title: Corporate Partnerships Associate - Eastern and Southern Africa
 Country: Uganda
-Team: Global
+Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
   OSM: https://tasks.hotosm.org/users/Becky%20Candy
 ---
