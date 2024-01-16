@@ -4,6 +4,7 @@ date: 2022-11-08 06:10:00 Z
 Photo: https://cdn.hotosm.org/website/V.+Jones+Headshot.jpg
 Member Type:
   Is Staff: true
+  Is Voting Member: true
 Job Title: Executive and Operations Assistant
 Team: Global
 Social Media (Full URL):
