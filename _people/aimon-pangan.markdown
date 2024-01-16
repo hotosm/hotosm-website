@@ -5,6 +5,7 @@ published: false
 Photo: https://cdn.hotosm.org/website/Screen+Shot+2021-01-27+at+7.34.21+PM.png
 Member Type:
   Is Staff: false
+  Is Voting Member: true
 Job Title: Field Coordinator
 Project:
 - 'Data-Driven Disaster Risk Management: PhilAWARE'
