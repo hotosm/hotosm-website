@@ -4,7 +4,7 @@ date: 2022-06-13 07:55:00 Z
 Photo: https://cdn.hotosm.org/website/OSUNGA_MICHAEL_PASSPORT_2021+(2).jpg
 Member Type:
   Is Staff: true
-Job Title: 'Digital Mapping & GIS manager- Eastern and Southern Africa '
+Job Title: 'Digital Mapping & GIS Manager - Eastern and Southern Africa '
 Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Osunga
