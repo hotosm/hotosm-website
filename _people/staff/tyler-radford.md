@@ -5,7 +5,6 @@ Photo: https://cdn.hotosm.org/website/tyler-34c360.JPG
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Executive Director
 Working Group:
 - Fundraising
 - Communications
