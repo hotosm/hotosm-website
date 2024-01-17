@@ -4,7 +4,7 @@ position: 0
 description: HOT is an international team dedicated to humanitarian action and community
   development through open mapping.
 Banner:
-  Is Activated: true
+  Is Activated: false
   Main Block: Give the Gift of Mapping
   Secondary Block: Donate today!
   Link Copy: 
