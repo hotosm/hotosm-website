@@ -39,9 +39,7 @@ We are catalysts for technological innovation in education, engaging teachers, a
 
 
 ## IMPACT SO FAR
-![OM4A - Impact_v1.png]
-(/uploads/OM4A%20-%20Impact_v1.png)
-
+![GAL School San Sebastian, Cusco, Peru.jpg](/uploads/GAL%20School%20San%20Sebastian,%20Cusco,%20Peru.jpg)
 
 ## CASE STUDIES
 ![Open Mapping 4 All - Case Studies.png](/uploads/Open%20Mapping%204%20All%20-%20Case%20Studies.png)
