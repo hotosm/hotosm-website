@@ -39,8 +39,7 @@ We are catalysts for technological innovation in education, engaging teachers, a
 
 
 ## IMPACT SO FAR
-![OM4A - Impact.png](/uploads/OM4A%20-%20Impact.png)
-
+![OM4A - Impact_v1.png](/uploads/OM4A%20-%20Impact_v1.png)
 
 
 ## CASE STUDIES
