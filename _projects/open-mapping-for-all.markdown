@@ -39,8 +39,7 @@ We are catalysts for technological innovation in education, engaging teachers, a
 
 
 ## IMPACT SO FAR
-* 400 teachers introduced to open mapping tools
-* Implementation in 25 schools across 3 countries
+![OM4A - Impact.png](/uploads/OM4A%20-%20Impact.png)
 
 
 
