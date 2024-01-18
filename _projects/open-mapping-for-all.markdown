@@ -43,8 +43,7 @@ We are catalysts for technological innovation in education, engaging teachers, a
 
 
 ## CASE STUDIES
-![GAL School San Sebastian, Cusco, Peru-58c657.png](/uploads/GAL%20School%20San%20Sebastian,%20Cusco,%20Peru-58c657.png)
-
+![Open Mapping 4 All - Case Studies.png](/uploads/Open%20Mapping%204%20All%20-%20Case%20Studies.png)
 
 
 > Join us in making a lasting impact. Your support is an investment in education, with your support you will contribute to create empowered, resilient communities.
