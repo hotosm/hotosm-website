@@ -28,20 +28,24 @@ We are catalysts for technological innovation in education, engaging teachers, a
 * **Practical Application:** Teachers and students participate in field and remote mapping projects focusing on STEM, climate, gender and equality, humanitarian, social issues and actively solving real-world problems.
 
 
-
-## IMPLEMENTATION:
+## IMPLEMENTATION
 1. Introduce open mapping tools
 2. Train teachers and students in schools with limited ICT capacity
 3. Providing technical support and building relationships with teachers during the mapping project
 4. Adapt training to local needs and context
 5. Link to core competencies in education curriculum
 
+
 ## IMPACT SO FAR
 * 400 teachers introduced to open mapping tools
 * Implementation in 25 schools across 3 countries
 
+
+
 ## CASE STUDIES
 ![GAL School San Sebastian, Cusco, Peru-58c657.png](/uploads/GAL%20School%20San%20Sebastian,%20Cusco,%20Peru-58c657.png)
+
+
 
 > Join us in making a lasting impact. Your support is an investment in education, with your support you will contribute to create empowered, resilient communities.
 >
