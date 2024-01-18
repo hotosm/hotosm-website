@@ -27,6 +27,8 @@ We are catalysts for technological innovation in education, engaging teachers, a
 * **Localized Impact:** We adapt training to meet local needs, linking it to core competencies in social studies, citizenship and science, as well as more disciplines, ensuring relevance to the communities we serve.
 * **Practical Application:** Teachers and students participate in field and remote mapping projects focusing on STEM, climate, gender and equality, humanitarian, social issues and actively solving real-world problems.
 
+
+
 ## IMPLEMENTATION:
 1. Introduce open mapping tools
 2. Train teachers and students in schools with limited ICT capacity
@@ -39,19 +41,6 @@ We are catalysts for technological innovation in education, engaging teachers, a
 * Implementation in 25 schools across 3 countries
 
 ## CASE STUDIES
-**CPEM 68 - Villa La Angostura, Argentina:**
-* Using KoboToolbox for mobile data collection
-* Students collaborate with Nahuel Huapi National Park authorities
-* Data supports decision-making about park operations
+![GAL School San Sebastian, Cusco, Peru-58c657.png](/uploads/GAL%20School%20San%20Sebastian,%20Cusco,%20Peru-58c657.png)
 
-**CEI San Ignacio - Junín de los Andes, Argentina:**
-* Using iD Editor to edit OpenStreetMap
-* Mapping Mapuche communities not included in regional planning
-* Students actively involved in community mapping
-
-**GAL School - San Sebastian, Cusco, Peru:**
-* Using uMap to visualize and document science projects
-* Mapping air quality and sound pollution at 24 points across the city
-* Weekly field mapping exercises aligned with national education curriculum competencies
-
-Join us in making a lasting impact. Your support is an investment in education, with your support you will contribute to create empowered, resilient communities.
+> Join us in making a lasting impact. Your support is an investment in education, with your support you will contribute to create empowered, resilient communities.
