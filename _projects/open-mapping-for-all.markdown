@@ -44,3 +44,4 @@ We are catalysts for technological innovation in education, engaging teachers, a
 ![GAL School San Sebastian, Cusco, Peru-58c657.png](/uploads/GAL%20School%20San%20Sebastian,%20Cusco,%20Peru-58c657.png)
 
 > Join us in making a lasting impact. Your support is an investment in education, with your support you will contribute to create empowered, resilient communities.
+>
