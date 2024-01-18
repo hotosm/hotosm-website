@@ -6,6 +6,7 @@ Project Summary Text: In the realm of education, championing the utilization of 
   advocates and actively enables students and educators to engage in the creation
   and contribution of impactful cartographic data that addresses real-world issues.
 Feature Image: "/uploads/CEI%20San%20Ignacio%20-%20Juni%CC%81n%20de%20los%20Andes,%20Argentina.png"
+Is image top aligned: true
 Is Community-Led: true
 Country:
 - Argentina
@@ -47,4 +48,3 @@ We are catalysts for technological innovation in education, engaging teachers, a
 
 
 > Join us in making a lasting impact. Your support is an investment in education, with your support you will contribute to create empowered, resilient communities.
->
