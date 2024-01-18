@@ -1,6 +1,6 @@
 ---
 title: |-
-  OPEN CITIES
+  Open Cities
   Latin America and the Caribbean,
   Dominica
 date: 2023-12-07 12:27:00 Z
