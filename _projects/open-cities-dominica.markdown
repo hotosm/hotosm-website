@@ -44,10 +44,11 @@ Data:
 - title: HDX
 - link: https://data.humdata.org/dataset/hotosm_dma_buildings
 Tools:
-- tool: Export Tool
+- title: 
+  tool: Export Tool
   link: https://export.hotosm.org/en/v3/exports/bf3c20c6-dc0e-423a-a9b9-97b53cd7a8da
-- tool: OSM Analytics
-  link: https://osm-analytics.org/#/show/hot:4317/buildings/recency
+- link: https://osm-analytics.org/#/show/hot:4317/buildings/recency
+  tool: OSM Analytics
 - tool: FMTM
   link: https://fmtm.hotosm.org/
 Project: 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin
@@ -60,11 +61,9 @@ The Humanitarian OpenStreetMap Team (HOT) planned to leverage community engageme
 
 **Supporting Disaster Recovery With Maps - OpenCities Dominica Impact**
 
-**The** **OpenCities Dominica project focused on increasing map data** to support Dominica’s communities and government in accessing more accurate, up-to-date data, information and mapping insight about hazards and their exposure on the people and infrastructure.
+**The OpenCities Dominica project focused on increasing map data** to support Dominica’s communities and government in accessing more accurate, up-to-date data, information and mapping insight about hazards and their exposure on the people and infrastructure.
 
-The new datasets produced proved to be valuable for hazard analysis, particularly given the island’s recent history with [highly destructive storms](https://www.gfdrr.org/en/dominica-hurricane-maria-post-disaster-assessment-and-support-recovery-planning) and Dominica’s own commitment to becoming a more resilient nation.
-
-This blogpost provides an overview of the impact of the OpenCities Dominica project. Please see the project [IMPACT REPORT](https://www.hotosm.org/uploads/Open%20Cities_Impact%20Report_Dominica.pdf) for more details.
+The new datasets produced proved to be valuable for hazard analysis, particularly given the island’s recent history with [highly destructive storms](https://www.gfdrr.org/en/dominica-hurricane-maria-post-disaster-assessment-and-support-recovery-planning) and Dominica’s own commitment to becoming a more resilient nation. Please see the project [IMPACT REPORT](https://www.hotosm.org/uploads/Open%20Cities_Impact%20Report_Dominica.pdf) for more details.
 
 ![IMG-20230114-WA0005.jpg](/uploads/IMG-20230114-WA0005.jpg)
 
