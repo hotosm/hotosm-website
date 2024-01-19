@@ -1,5 +1,8 @@
 ---
-title: 'Open Cities: Dominica'
+title: |-
+  Open Cities
+  Latin America and the Caribbean,
+  Dominica
 date: 2023-06-06 14:47:00 Z
 categories:
 - Projects
@@ -13,13 +16,34 @@ tags:
 Project Summary Text: Recent extreme storm events in Dominica has led humanitarian
   agencies to identify needs and shortfalls in information. The utility of OSM data
   as a tool in disaster preparedness has proven to be crucial.
-Feature Image: "/uploads/IMG-20230121-WA0023.jpg"
+Feature Image: "/uploads/LAC-202301-DC-OCD-MD-001.png"
+Country:
+- Dominica
+Impact Area:
+- Disasters & Climate Resilience
 Person:
-- 
+- Philip Hippolyte
 - Shazmane Mandjee Rehamtula
+Partner:
+- University of the West Indies
+- Dominica State College
+- Climate Resilience Execution Agency for Dominica (CREAD)
+- Youth Emergency Action Committees - Dominica
+- Global Facility for Disaster Reduction and Recovery (GFDRR)
+- Swiss Re Foundation
 Duration:
   Start Date: 2021-01-01 00:00:00 Z
   End Date: 2023-05-31 00:00:00 Z
+Data:
+- title: HDX
+- link: https://data.humdata.org/dataset/hotosm_dma_buildings
+Tools:
+- tool: Export Tool
+  link: https://export.hotosm.org/en/v3/exports/bf3c20c6-dc0e-423a-a9b9-97b53cd7a8da
+- tool: OSM Analytics
+  link: https://osm-analytics.org/#/show/hot:4317/buildings/recency
+- tool: FMTM
+  link: https://fmtm.hotosm.org/
 Project: 'Open Data for Resilience and Risk Management Initiative: Open Cities Latin
   America and Caribbean'
 ---
@@ -62,7 +86,11 @@ The CREAD Project (Climate Resilience Execution Agency for Dominica) has agreed 
 
 ![IMG-20230121-WA0019.jpg](/uploads/IMG-20230121-WA0019.jpg)
 
-**Partners: **[University of the West indies](https://www.uwi.edu/), [Dominica State College](https://www.facebook.com/thedominicastatecollege/), [Climate Resilience Execution Agency for Dominica (CREAD)](https://www.creadominica.org/), [Youth Emergency Action Committees - Dominica](https://yeacdominica.org/).
+**Partners:** 
+* [University of the West indies](https://www.uwi.edu/)
+* [Dominica State College](https://www.facebook.com/thedominicastatecollege/)
+* [Climate Resilience Execution Agency for Dominica (CREAD)](https://www.creadominica.org/)
+* [Youth Emergency Action Committees - Dominica](https://yeacdominica.org/).
 
 **Other publications:**
 
