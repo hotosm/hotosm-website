@@ -10,9 +10,7 @@ Project:
 - Data Quality Internship 2022
 Country: Sri Lanka
 Social Media (Full URL):
-  OSM: 'Shandhivya
-
-'
+  OSM: https://hdyc.neis-one.org/?Shandhivya
   LinkedIn: https://www.linkedin.com/in/dhivya-shanmugarajah-76b6b711a
   Facebook: https://www.facebook.com/niroshan.shanmugarajah
 ---
