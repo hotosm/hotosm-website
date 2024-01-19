@@ -49,12 +49,12 @@ Tools:
 
 The Commonwealth of Dominica is also known as “the Nature Isle” due to its lush forest nestled in rugged terrain. Recent extreme storm events have severely impacted and threatened the inhabitants’ way of life as well as the environment. The scars and impacts of legacy storms, including Hurricane Maria (2017) also still present.
 
-The increase in storms has resulted in a search for more sustainable methods of living and development over the long term. Research activity has often concentrated around high impact, high visibility events, therefore there is a lack of comprehensive observed flood hazards for household and community resilience planning. 
+The increase in storms has resulted in a search for more sustainable methods of living and development over the long term. Research activity has often concentrated around high-impact, high-visibility events. Therefore, there is a lack of comprehensive observed flood hazards for household and community resilience planning. 
 
 
 ### Approach
 
-To fill data gaps on flood risk to buildings, Humanitarian OpenStreetMap Team (HOT) and local implementing partner Open Solutions for Business worked with mappers from Youth Emergency Action to update building footprints in OpenStreetMap and collected observed historical flood data per building. Following HOT training, communities surveyed reported per historic flood the damage level and other information per incident per building. Using a combination of mobile mapping apps [Vespucci](https://vespucci.io/) and HOT's pilot version of Field Mapping Tasking Manager, all mapping was community based and accessible via mobile phones. Buildings. Community reported flood extents were compared to the Caribbean Disaster Emergency Management Agency ([CDEMA](https://www.cdema.org/)) regional flood modeling risks, the standard in the region. 
+To fill data gaps on flood risk to buildings, the Humanitarian OpenStreetMap Team (HOT) and local implementing partner Open Solutions for Business worked with mappers from Youth Emergency Action to update building footprints in OpenStreetMap and collected observed historical flood data per building. Following HOT training, communities surveyed reported per historic flood the damage level and other information per incident per building. Using a combination of mobile mapping apps [Vespucci](https://vespucci.io/) and HOT's pilot version of Field Mapping Tasking Manager, all mapping was community based and accessible via mobile phones. Buildings. Community reported flood extents were compared to the Caribbean Disaster Emergency Management Agency ([CDEMA](https://www.cdema.org/)) regional flood modeling risks, the standard in the region. 
 
 
 ### Impact
