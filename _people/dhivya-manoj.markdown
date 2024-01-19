@@ -17,6 +17,6 @@ Social Media (Full URL):
 
 I am Dhivya Manoj, a skilled GIS professional with a robust background in Geographic Information Systems (GIS) and Remote Sensing. Holding a Master's degree in GIS and Remote Sensing and a Bachelor's degree in Town and Country Planning, I have cultivated a strong foundation in spatial analysis, project management, and urban planning.
 
-My passion for open mapping and humanitarian efforts has driven me to actively engage in OpenStreetMap (OSM)-)-related activities. In my role as a former Humanitarian OpenStreetMap Team (HOT) Data Quality Intern, I collaborated on projects involving the validation of OpenStreetMap data across multiple countries. This experience significantly enhanced my proficiency in geospatial tools, including ArcGIS, QGIS, and JOSM.
+My passion for open mapping and humanitarian efforts has driven me to actively engage in OpenStreetMap (OSM) related activities. In my role as a former Humanitarian OpenStreetMap Team (HOT) Data Quality Intern, I collaborated on projects involving the validation of OpenStreetMap data across multiple countries. This experience significantly enhanced my proficiency in geospatial tools, including ArcGIS, QGIS, and JOSM.
 
 I am enthusiastic about contributing my GIS expertise to the HOT community, leveraging both my educational background and hands-on experience to support the organization's mission. With a keen interest in spatial analysis and mapping technologies, I am confident that my contributions as a Voting Member will be impactful and aligned with the goals of HOT.
