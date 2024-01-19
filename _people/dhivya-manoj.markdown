@@ -1,6 +1,7 @@
 ---
 title: Dhivya Manoj
 date: 2024-01-16 12:03:00 Z
+Photo: "/uploads/Dhivya%20-%20Dhivya%20shanmugarajah.jpeg"
 Member Type:
   Is Staff: false
   Is Voting Member: true
