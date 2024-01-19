@@ -13,9 +13,15 @@ tags:
 - mapping
 - opencities
 - caribbean
-Project Summary Text: Recent extreme storm events in Dominica has led humanitarian
-  agencies to identify needs and shortfalls in information. The utility of OSM data
-  as a tool in disaster preparedness has proven to be crucial.
+Project Summary Text: "\"The Nature Isle,\" Dominica, faces the ongoing threat of
+  extreme storms, impacting lives and the environment. This prompted a collaborative
+  effort to address the lack of comprehensive flood data for resilience planning.
+  Through community-based mapping using mobile phones, the project updated building
+  footprints in OpenStreetMap, providing crucial flood information. \n\nThe outcome
+  includes 24 maps, 260 added building footprints, and a cultural shift towards open
+  data use. Lessons learned emphasize mobile-friendly mapping and overcoming challenges
+  for future climate resilience projects. Dominica emerges as a pioneer, showcasing
+  adaptability in the face of climate hazards."
 Feature Image: "/uploads/LAC-202301-DC-OCD-MD-001.png"
 Country:
 - Dominica
