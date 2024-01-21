@@ -9,6 +9,7 @@ Is image top aligned: false
 Person: Sophie Mower
 Project:
 - 'Community development: Microgrants and Device Grants'
+- Open Mapping Mentorship
 ---
 
 Since 2017, 221 communities and individuals have applied to HOT’s microgrant program and 66 of them have received the award. With each open call, the applications received have varied in strength.

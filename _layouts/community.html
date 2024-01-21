@@ -18,6 +18,7 @@ layout: default
             </ul>
             <ul>
               <li><a href="#working-groups">Working Groups</a></li>
+              <li><a href="/community/mentorship">Mentorship Program</a></li>
               <li><a href="#community-grants">Community Grants</a></li>
               <li><a href="#events">Events</a></li>
               <li><a href="#financials">Financials</a></li>
@@ -50,7 +51,7 @@ layout: default
     </div>
 
     <div class="container">
-
+<!-- 
       <div class="community-programs">
         <a class="module link-through light" href="/community/working-groups" id="working-groups">
           <div class="module-details">
@@ -66,7 +67,56 @@ layout: default
             <p class="module-cta">Learn more</p>
           </div>
         </a>
+      </div> -->
+
+      <div class="get-involved-body">
+
+        <div class="hr-h"></div>
+
+
+        <div class="container">
+          <h2 class="partner-subtitle">{{ page.blocktitle }}</h2>
+    
+          <div class="module-group top-image">
+            <a class="module link-through light" href="{{ page.Working-Groups.Link }}" id="support-programs">
+              <div class="module-image">
+                <img src="{{ page.Working-Groups.Image }}">
+              </div>
+              <div class="module-details">
+                <h3>{{ page.Working-Groups.Title | markdownify }}</h3>
+                <div class="module-text">{{ page.Working-Groups.Text | markdownify }}</div>
+                <p class="module-cta">{{ page.Working-Groups.Action-text | markdownify }}</p>
+              </div>
+            </a>
+            <a class="module link-through light" href="{{ page.Community-Grants.Link }}" id="support-programs">
+              <div class="module-image">
+                <img src="{{ page.Community-Grants.Image }}">
+              </div>
+              <div class="module-details">
+                <h3>{{ page.Community-Grants.Title | markdownify }}</h3>
+                <div class="module-text">{{ page.Community-Grants.Text | markdownify }}</div>
+                <p class="module-cta">{{ page.Community-Grants.Action-text | markdownify }}</p>
+              </div>
+            </a>
+            <a class="module link-through light" href="{{ page.Mentorship-Program.Link }}" id="support-programs">
+              <div class="module-image">
+                <img src="{{ page.Mentorship-Program.Image }}">
+              </div>
+              <div class="module-details">
+                <h3>{{ page.Mentorship-Program.Title | markdownify }}</h3>
+                <div class="module-text">{{ page.Mentorship-Program.Text | markdownify }}</div>
+                <p class="module-cta">{{ page.Mentorship-Program.Action-text | markdownify }}</p>
+              </div>
+            </a>
+          </div>
+    
+          <div class="hr-h"></div>
+  
+    
+        </div>
+    
       </div>
+
 
       <div class="hr-h"></div>
 
@@ -96,7 +146,7 @@ layout: default
             <h6>{{ page.Finances['Annual Report Header'] }}</h6>
             <div class="annual-report-wrapper">
               <div class="annual-report-image">
-                <img src="https://cdn.hotosm.org/website/annual-report-2020-thumb.jpg">
+                <img src="/uploads/2022-2023-ImpactReport2.0.png">
               </div>
               <div class="annual-report-text">
                 {{ page.Finances['Annual Report Text'] | markdownify }}
@@ -107,7 +157,7 @@ layout: default
         </div>
       </div>
 
-    </div>
+    </div>  
 
   </div>
 

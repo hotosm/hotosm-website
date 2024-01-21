@@ -1,0 +1,143 @@
+---
+layout: default
+---
+
+<header class="project-header">
+    <h1>{{ page.title }}</h1>
+    <div class="project-header-meta">
+
+        <p class="project-status">
+            {% if page['Duration']['End Date'] == 'Ongoing' %} ACTIVE {% else %}
+            {% capture currenttime %}{{ 'now' | date: "%Y-%m-%d %H:%M:%s" }}{% endcapture %}
+            {% capture pagetime %}{{ page['Duration']['End Date'] }}{% endcapture %}
+            {% if pagetime < currenttime %} COMPLETED
+            {% else %} ACTIVE {% endif %}
+            {% endif %}
+        </p>
+    </div>
+</header>
+
+<div class="project-body">
+
+  {% if page['Feature Image'] %}
+  <img class="project-feature-image" {% if page[ 'Is image top aligned'] %} style="object-position: top center"
+      {% endif %} src="{{ page['Feature Image' ]}}"> {% endif %}
+</div>
+
+<article class="container project-item">
+    <div class="project-body">
+        <section class="article">
+
+            {% if page['Project Summary Text'] %}
+            <div class="pro-summary-wrap">
+                <div class="project-summary">
+                    <p>{{ page['Project Summary Text'] }}</p>
+                </div>
+            </div>
+            {% endif %}
+
+            <div class="pro-content-wrap">
+                <div class="project-content">
+
+                    {{ content }}
+
+                </div>
+            </div>
+
+        </section>
+
+        <aside class="meta">
+
+            {% if page.Partner[0] != '' %}
+            <div class="meta-item">
+                <h5>Partners <object height="16" width="16" data="/images/link.svg" type="image/svg+xml"></object></h5>
+                <ul>
+                    {% for page-partner in page.Partner %}
+                    <li>{{ page-partner }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+            {% if page.Calendar[0] != '' %}
+            <div class="meta-item">
+                <h5>Calendar <object height="16" width="16" data="/images/clock.svg" type="image/svg+xml"></object></h5>
+                <ul>
+                    {% for page-calendar in page.Calendar %}
+                    <li>{{ page-calendar }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+            <div class="meta-item">
+                <h5>Duration <object height="16" width="16" data="/images/clock.svg" type="image/svg+xml"></object></h5>
+                {% if page.Duration['Start Date']  and page.Duration['End Date'] %}
+                <p>{{ page.Duration['Start Date'] | date: "%e %b, %Y" }} –
+                    {{ page.Duration['End Date'] | date: "%e %b, %Y" }}</p>
+                {% else %}
+                <p>Ongoing</p>
+                {% endif %}
+            </div>
+
+        </aside>
+
+    </div>
+
+</article>
+<!--////////////////////////////////-->
+<!--///////// Project News /////////-->
+<!--////////////////////////////////-->
+
+
+{% for post in site.posts %} {% if post['Project'] contains page.title %}
+
+<div class="project-index project-item-news">
+    <div class="container">
+        <div class="project-index-news">
+            <h6>Recent news from {{ page.title }} <span>(<a href="/updates">View all news</a>)</span></h6>
+            <div class="project-index-news-list">
+
+                {% break %} {% endif %} {% endfor %} {% assign news_count = 0 %} {% for post in site.posts %}
+                {% if post['Project'] contains page.title %} {% assign news_count = news_count | plus: 1 %}
+                {% if news_count == 6 %} {% break %} {% else %}
+
+                <div class="news-index-item">
+                    <div class="news-list-summary">
+
+                        <div class="news-list-summary-text {% if post['Feature Image'] %}with-image{% endif %}">
+
+                            <a href="{{ post.url }}">
+                                <h3>{{ post.title }}</h3>
+                            </a>
+
+                            <p>{{ post['Summary Text']}}</p>
+                            {% capture post.Person %}{% endcapture %}
+                            <div class="news-list-meta">
+                                <p class="news-index-author">
+                                    {% include author.html %} {{ post.date | date: '%e %B, %Y' }}
+                                </p>
+                            </div>
+                        </div>
+
+                        {% if post['Feature Image'] %}
+                        <div class="news-list-image-sm">
+                            <a href="{{ post.url }}"><img class="news-feature-image"
+                                    src="{{ post['Feature Image'] }}"></a>
+                        </div>
+                        {% endif %}
+
+                    </div>
+                </div>
+
+                {% endif %} {% endif %} {% endfor %} {% for post in site.posts %}
+                {% if post['Project'] contains page.title %}
+
+            </div>
+        </div>
+    </div>
+</div>
+
+{% break %} {% endif %} {% endfor %}
+
+</div>
