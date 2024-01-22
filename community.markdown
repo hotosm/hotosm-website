@@ -33,7 +33,8 @@ Working-Groups:
 Community-Grants: 
   Title: Community Grants
   Link: /community/community-grants
-  Image: /uploads/DSC09220.jpg
+  Image: https://cdn.hotosm.org/website/Practical+Action+Bolivia+2.jpg
+  Image-description: "Practical Action Bolivia Team: Training Community Members in Mapping Areas Impacted by Forest Fires"
   Text: HOT offers a range of funding programs to OSM Communities in low- and middle-income countries with the resources they need to launch and grow their activities and impact. Learn more about the communities and work that have benefited from grants.
   Action-text: Learn More
 Mentorship-Program: 
