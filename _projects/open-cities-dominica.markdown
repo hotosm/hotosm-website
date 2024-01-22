@@ -42,7 +42,7 @@ Duration:
   End Date: 2023-05-31 00:00:00 Z
 Data:
 - title: HDX
-- link: https://data.humdata.org/dataset/hotosm_dma_buildings
+  link: https://data.humdata.org/dataset/hotosm_dma_buildings
 Tools:
 - title: 
   tool: Export Tool
