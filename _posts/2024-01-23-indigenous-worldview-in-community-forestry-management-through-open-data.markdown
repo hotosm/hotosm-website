@@ -25,7 +25,8 @@ The aim of the project which includes the creation of technological tools and th
 
 At its essence, this project is about more than just technological innovation. It's about empowering communities, leveraging local wisdom, and nurturing a sustainable future. By combining the strengths of technology and community engagement, it's paving the way for a holistic approach to forest conservation—one that ensures a thriving ecosystem while benefiting the very people who call these forests home.
 
-## Fostering Indigenous autonomy and technical capacities through Participatory mapping in San Jose Poaquil
+# Fostering Indigenous autonomy and technical capacities through Participatory mapping in San Jose Poaquil
+
 ![Open Cities Guatemala Community Workshop.jpg](/uploads/Open%20Cities%20Guatemala%20Community%20Workshop.jpg)
 
 It is in this context that in the heart of San José Poaquil, Chimaltenango, Guatemala a remarkable transformation is underway. The OpenCities Guatemala Project has emerged as a beacon of change, driven by a powerful vision rooted in community empowerment and sustainable forest management. At its core lies the "Model of Community Forest Management supported by geographic data," igniting a flame of hope for a better future through conservation and restoration efforts.
@@ -39,7 +40,8 @@ In the course of the OpenCities Guatemala project efforts, the application of a 
 This project's success hinged on the active participation of community members. Thirty-eight individuals, including 40% women, underwent training in geographic data fundamentals, remote mapping, and field mapping. Armed with essential knowledge in cartography and spatial data representation, these participants were equipped to contribute meaningfully to the project's goals.
 The collaborative spirit extended beyond training sessions. Participatory mapping workshops and activities and remote mapping projects were organized, engaging the community in mapping roads, buildings, and the built environment of San José Poaquil. This concerted effort empowered locals to contribute actively to the creation of a detailed municipal cartography.
 
-## Tech-Enabled Indigenous Wisdom: Nurturing Forests with Open Data Apps
+# Tech-Enabled Indigenous Wisdom: Nurturing Forests with Open Data Apps
+
 ![OpenCities Guatemala.png](/uploads/OpenCities%20Guatemala.png)
 
 The result? The birth of three vital mobile applications: POAQUIL field mapping, POAQUIL forest monitoring, and POAQUIL roads and trails. These apps facilitated data collection, forest monitoring, and mapping of access networks, forming the cornerstone of the project's tool development phase. The project aims to empower the community in updating their future map, enabling them to manage their territory.
@@ -60,7 +62,8 @@ The meticulous design and implementation of this platform has empowered the San 
 
 ![Open Cities Guatemala Community Field Trip.jpg](/uploads/Open%20Cities%20Guatemala%20Community%20Field%20Trip.jpg)
 
-## Advancing Beyond: Scaling and Replicating Success
+# Advancing Beyond: Scaling and Replicating Success
+
 Building resilience is a collaborative community-led effort and San Jose's story is a testament to the power of innovation and collaboration in safeguarding forests. With additional support from the World bank through the MDE Project, dedicated to indigenous community forestry management, the San Jose community will leverage this platform as a  model for the indigenous networks working together with this community. Thus extending the geographic information-based community forestry management blueprint, adapting it to other regions with the support of other indigenous communities.
 
 ![Open Cities Guate.png](/uploads/Open%20Cities%20Guate.png)
@@ -69,6 +72,6 @@ As ancestral leaders guide the community forward, this newfound capability opens
 
 Today, municipal authorities and other organizations involved in various sectors will take advantage of a publicly accessible platform, a unique source of geographic information specific to the municipality and potentially  many others. This treasure trove of data amplifies the impact of their initiatives. The MDE Project (Mecanismo Dedicado Específico para Pueblos Indígenas y Comunidades Locales), dedicated to indigenous community forest management, will leverage this platform as a demonstration model. It will extend the geographic information-based community forest management model initiated by the OpenCities Guatemala project in San José Poaquil to other regions and communities.
 
-## LAC Horizons: Empowering Communities through Geographic Data for Sustainable Futures
+# LAC Horizons: Empowering Communities through Geographic Data for Sustainable Futures
 
 Let´s envision the potential for replicating these community-led  forestry management models in diverse geographic and community contexts, transcending borders and catalyzing positive change on a global scale. Join the open mapping community towards a future where communities, armed with technological tools and participatory strategies, become the architects of their own sustainable future. As we navigate the intricate intersections of open and culturally-pertinent technology, community empowerment, and environmental stewardship, let us collectively strive to create a world where the principles of open collaborative data resonate for sustainable and fair development.
