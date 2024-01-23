@@ -15,7 +15,7 @@ Project:
 The Latin American and Caribbean (LAC) region faces immense vulnerability due to natural disasters and climate change. With five of the top 10 most affected countries between 1998 and 2017, recurring hurricanes, landslides, and other calamities plague this region. In response, HOT has extended its Open Cities program to LAC, specifically in Guatemala, collaborating with the [GFDRR](https://www.gfdrr.org/en) and [Swiss Re Foundation](https://www.swissre.com/foundation/).
 
 ![Open Cities Guatmela - Spectacular Let's Protect Our Communal Lands.png](/uploads/Open%20Cities%20Guatmela%20-%20Spectacular%20Let's%20Protect%20Our%20Communal%20Lands.png)
-**Photo reads: Let's Protect Our Communal Lands.
+### Photo reads: Let's Protect Our Communal Lands.
 
 Two pivotal programs unfold in Guatemala: The Open Cities Guatemala Project, spearheaded by HOT, and the To'onïk Qawinaq initiative led by the [World Bank](https://www.worldbank.org/en/). The former aims to bolster local community resilience and territorial management capacities, especially among indigenous groups, by leveraging spatial data technology for forest management and territorial monitoring. Collaborating with the National Executing Agency, Geotecnologica and  Asociación Sotz'il ONG, this effort operates in San José Poaquil, a municipality inhabited by the Kaqchikel indigenous people.
 
