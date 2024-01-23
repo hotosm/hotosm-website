@@ -12,7 +12,7 @@ Project:
 - 'Open Cities Guatemala: San José Poaquil, Chimaltenango'
 ---
 
-The Latin American and Caribbean (LAC) region faces immense vulnerability due to natural disasters and climate change. With five of the top 10 most affected countries between 1998 and 2017, recurring hurricanes, landslides, and other calamities plague this region. In response, HOT has extended its Open Cities program to LAC, specifically in Guatemala, collaborating with the [GFDRR](https://www.gfdrr.org/en) and [Swiss Re Foundation](https://www.swissre.com/foundation/).
+The Latin American and Caribbean (LAC) region faces immense vulnerability due to natural disasters and climate change. With five of the top 10 most affected countries between 1998 and 2017, recurring hurricanes, landslides, and other calamities plague this region. In response, HOT has extended its Open Cities program to LAC, specifically in Guatemala, collaborating with the Global Facility for Disaster Reduction and Recovery[GFDRR](https://www.gfdrr.org/en), with the generous support of [Swiss Re Foundation](https://www.swissre.com/foundation/).
 
 
 ![Open Cities Guatmela - Spectacular Let's Protect Our Communal Lands.png](/uploads/Open%20Cities%20Guatmela%20-%20Spectacular%20Let's%20Protect%20Our%20Communal%20Lands.png)
