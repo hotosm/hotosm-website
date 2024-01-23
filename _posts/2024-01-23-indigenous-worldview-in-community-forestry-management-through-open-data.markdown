@@ -14,8 +14,10 @@ Project:
 
 The Latin American and Caribbean (LAC) region faces immense vulnerability due to natural disasters and climate change. With five of the top 10 most affected countries between 1998 and 2017, recurring hurricanes, landslides, and other calamities plague this region. In response, HOT has extended its Open Cities program to LAC, specifically in Guatemala, collaborating with the [GFDRR](https://www.gfdrr.org/en) and [Swiss Re Foundation](https://www.swissre.com/foundation/).
 
+
 ![Open Cities Guatmela - Spectacular Let's Protect Our Communal Lands.png](/uploads/Open%20Cities%20Guatmela%20-%20Spectacular%20Let's%20Protect%20Our%20Communal%20Lands.png)
 ### Photo reads: Let's Protect Our Communal Lands.
+
 
 Two pivotal programs unfold in Guatemala: The Open Cities Guatemala Project, spearheaded by HOT, and the To'onïk Qawinaq initiative led by the [World Bank](https://www.worldbank.org/en/). The former aims to bolster local community resilience and territorial management capacities, especially among indigenous groups, by leveraging spatial data technology for forest management and territorial monitoring. Collaborating with the National Executing Agency, Geotecnologica and  Asociación Sotz'il ONG, this effort operates in San José Poaquil, a municipality inhabited by the Kaqchikel indigenous people.
 
@@ -27,7 +29,9 @@ At its essence, this project is about more than just technological innovation. I
 
 # Fostering Indigenous autonomy and technical capacities through Participatory mapping in San Jose Poaquil
 
+
 ![Open Cities Guatemala Community Workshop.jpg](/uploads/Open%20Cities%20Guatemala%20Community%20Workshop.jpg)
+
 
 It is in this context that in the heart of San José Poaquil, Chimaltenango, Guatemala a remarkable transformation is underway. The OpenCities Guatemala Project has emerged as a beacon of change, driven by a powerful vision rooted in community empowerment and sustainable forest management. At its core lies the "Model of Community Forest Management supported by geographic data," igniting a flame of hope for a better future through conservation and restoration efforts.
 
@@ -35,14 +39,18 @@ From the project's outset, a clear mission took shape: to foster a brighter tomo
 
 In the course of the OpenCities Guatemala project efforts, the application of a participatory approach was extended beyond the initial phases of user identification and requirements determination. The project has united diverse stakeholders who were not accustomed to working together, forging vital connections between government, academia, and civil society. It also managed to involve 302 new participants, engaged with 2 public institutions (Instituto Nacional de Bosques (INAB), Consejo Nacional de Áreas Protegidas (CONAP))  and created more than 5 different tools, products or interactive maps. In addition, 3,400 features were mapped including 105 km of roads and 1,159 buildings, impacting approximately 26,845 people.
 
+
 ![Open Cities Guatemala Community Workshop 2.jpg](/uploads/Open%20Cities%20Guatemala%20Community%20Workshop%202.jpg)
+
 
 This project's success hinged on the active participation of community members. Thirty-eight individuals, including 40% women, underwent training in geographic data fundamentals, remote mapping, and field mapping. Armed with essential knowledge in cartography and spatial data representation, these participants were equipped to contribute meaningfully to the project's goals.
 The collaborative spirit extended beyond training sessions. Participatory mapping workshops and activities and remote mapping projects were organized, engaging the community in mapping roads, buildings, and the built environment of San José Poaquil. This concerted effort empowered locals to contribute actively to the creation of a detailed municipal cartography.
 
 # Tech-Enabled Indigenous Wisdom: Nurturing Forests with Open Data Apps
 
+
 ![OpenCities Guatemala.png](/uploads/OpenCities%20Guatemala.png)
+
 
 The result? The birth of three vital mobile applications: POAQUIL field mapping, POAQUIL forest monitoring, and POAQUIL roads and trails. These apps facilitated data collection, forest monitoring, and mapping of access networks, forming the cornerstone of the project's tool development phase. The project aims to empower the community in updating their future map, enabling them to manage their territory.
 
@@ -50,23 +58,31 @@ More than mere data collection tools, these applications symbolize empowerment. 
 
 For this purpose the project imagined a web-based tool that transcends mere data collection. It is an empowerment tool, not only for project participants, but for all those who share a personal interest in sustainable forest management at the community level. Its main objective is to improve the community's capacity to manage and plan forestry initiatives, while increasing their capacity to monitor, control, report and evaluate our efforts.
 
+
 ![Open Cities Guatemala Website.png](/uploads/Open%20Cities%20Guatemala%20Website.png)
+
 
 This versatile tool is subdivided into three essential functionalities: the Base Map, the Fire Tracker and the Forest Cover Tracker. Each facet is purposely designed to meet specific needs. From visualization of the comprehensive map database to remote monitoring of forest fires through mobile applications and scrutiny of forest cover through freely available Geotechnology satellite imagery, this tool equips us with the means to effect positive change. It gives evidence of five thematic ethnic layers, Sites of interest for ecotourism, Water source, Sacred place, Sites for the collection of medicinal plants and other sites of importance in the forest. 
 
+
 ![Open Cities Guatemala Community Workshop Tools.jpg](/uploads/Open%20Cities%20Guatemala%20Community%20Workshop%20Tools.jpg)
+
 
 In the course of the project, in a poignant demonstration of their impact, these tools proved invaluable during a forest fire that swept through Tiqachajij Ri Qate' Ruwah'Ulew. Leveraging the platform, the community swiftly assessed fire damage, documenting burned areas, asset damage, severity levels, and more. This unfortunate event underscored the efficiency and significance of the project's tools in real-time crisis management.
 
 The meticulous design and implementation of this platform has empowered the San José Poaquil community in unprecedented ways. Strengthened capabilities in geographic information management have breathed new life into their conservation efforts and paved the way for access to forestry incentive programs.
 
+
 ![Open Cities Guatemala Community Field Trip.jpg](/uploads/Open%20Cities%20Guatemala%20Community%20Field%20Trip.jpg)
+
 
 # Advancing Beyond: Scaling and Replicating Success
 
 Building resilience is a collaborative community-led effort and San Jose's story is a testament to the power of innovation and collaboration in safeguarding forests. With additional support from the World bank through the MDE Project, dedicated to indigenous community forestry management, the San Jose community will leverage this platform as a  model for the indigenous networks working together with this community. Thus extending the geographic information-based community forestry management blueprint, adapting it to other regions with the support of other indigenous communities.
 
+
 ![Open Cities Guate.png](/uploads/Open%20Cities%20Guate.png)
+
 
 As ancestral leaders guide the community forward, this newfound capability opens doors to funding avenues for conservation and income generation, benefiting all residents. The impact resonates far beyond mere data collection; it's a testament to the transformative power of community-driven initiatives. The OpenCities Guatemala Project stands as a testament to what happens when a vision meets dedication, collaboration, and community empowerment. In San José Poaquil, it's not just about mapping terrain—it's about charting a course towards a more sustainable, empowered future.
 
