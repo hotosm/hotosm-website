@@ -4,17 +4,17 @@ date: 2018-02-06 15:20:00 Z
 permalink: "/community/"
 position: 5
 redirect_from: "/people"
-Event Promo: 
+Event Promo:
   Event Name: HOT OpenSummit '23-24
-  Description: "**HOT's OpenSummit ‘23-24 is ON!** \n\nGet ready for a year of global events
-    that focus on collective action within the humanitarian open mapping community.
+  Description: "**HOT's OpenSummit ‘23-24 is ON!** \n\nGet ready for a year of global
+    events that focus on collective action within the humanitarian open mapping community.
     \n\nWith the success of the *unSummit*, and with a little bit of rebranding, we
-    are very excited to launch this year's HOT OpenSummit '23-24 and **open our
-    call for collaborations** so more communities and organizations around the world
-    bring their events as part of this global movement."
+    are very excited to launch this year's HOT OpenSummit '23-24 and **open our call
+    for collaborations** so more communities and organizations around the world bring
+    their events as part of this global movement."
   Image: "/uploads/Website%20MainBanner-51e09d.png"
   URL: "/projects/opensummit23-24/"
-  Button: "Learn More"
+  Button: Learn More
 People:
   Description: The HOT community is made up of volunteers, local community leaders,
     and professionals committed to the mission of helping reach those in need through

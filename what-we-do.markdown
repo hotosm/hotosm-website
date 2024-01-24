@@ -15,7 +15,7 @@ Block 1:
     responders to reach those in need.
   Image: https://cdn.hotosm.org/website/Ramani+Huria+TZ+2.jpg
   Project:
-  - 'Canoa de Tolda'
+  - Canoa de Tolda
 Block 2:
   Header: Mapping areas vulnerable to disaster
   Text: Through the Missing Maps project, the HOT global community creates maps of

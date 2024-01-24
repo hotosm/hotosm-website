@@ -1,9 +1,8 @@
 ---
 title: HOT OpenSummit 23-24
 date: 2023-07-17 20:29:00 Z
-# permalink: opensummit23-24
-Summary Text: 'HOT OpenSummit 23-24 and open our call for collaborations so more communities and organizations around the world
-    bring their events as part of this global movement.'
+Summary Text: HOT OpenSummit 23-24 and open our call for collaborations so more communities
+  and organizations around the world bring their events as part of this global movement.
 Feature Image: http://127.0.0.1:4000/uploads/Website%20MainBanner-51e09d.png
 summit-image: "/uploads/Website%20MainBanner-51e09d.png"
 intro-text: |-

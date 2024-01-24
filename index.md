@@ -11,23 +11,13 @@ Banner:
   Optional Text: 
   Small Block: 
 Project:
-- |-
-- 'What We Do'
-# - |-
-# - Building Capacity for Inclusive Data Collection for the OSM Community
-#   in Namibia
-# - |-
-# - Missing Maps
-#NOTE: this part I reconnected to projects) 
+- ''
+- What We Do
 News:
-- |-
-- 'HOT OpenSummit 23-24'
-- |-
-- Building Capacity for Inclusive Data Collection for the OSM Community
-  in Namibia
-# - 'AbreLatam 2023: Integrando la cartografía abierta en la comunidad de datos
-#   abiertos'
-# - |-
+- ''
+- HOT OpenSummit 23-24
+- ''
+- Building Capacity for Inclusive Data Collection for the OSM Community in Namibia
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
@@ -37,8 +27,10 @@ Home Module 1:
   URL: "/tools-and-data"
 Home Module 2:
   Header: Community & Events
-  Text: Learn about the community and the latest events — especially about the Open Summit 2023, a decentralized, year-long program of 13 global, regional, and local conferences.
-  Image: /uploads/Website%20MainBanner-51e09d.png
+  Text: Learn about the community and the latest events — especially about the Open
+    Summit 2023, a decentralized, year-long program of 13 global, regional, and local
+    conferences.
+  Image: "/uploads/Website%20MainBanner-51e09d.png"
   Call to Action: Learn more
   URL: "/projects/opensummit23-24/"
 Home Module 3:
