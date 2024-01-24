@@ -1,6 +1,7 @@
 ---
 title: Indigenous worldview in community forestry management through open data
 date: 2024-01-23 03:28:00 Z
+published: false
 Summary Text: Explore the Open Cities Guatemala Project, catalyzing Indigenous autonomy
   in San José Poaquil. Discover the innovative use of geographic data, participatory
   mapping, and tech-enabled applications in sustainable community forestry management.
