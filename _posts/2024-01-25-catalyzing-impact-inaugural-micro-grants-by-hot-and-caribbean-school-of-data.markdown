@@ -30,16 +30,24 @@ The Capstone ideas explored a spectrum of topics, ranging from the impact of sus
 
 The Farm Data project team from Guyana provides insight into the significance of their involvement in this initiative and its impact on the communities they are collaborating with.
 
+
+
 ![HOT and CSoD - Carlson Wickham, Sanjana Persaud, Anellie Bailey-Burnett-bee343.png](/uploads/HOT%20and%20CSoD%20-%20Carlson%20Wickham,%20Sanjana%20Persaud,%20Anellie%20Bailey-Burnett-bee343.png)
+
 
 
 Team Farm Data encapsulates the essence of their FARMDATA project.
 
 
+
 ![HOT and CSoD - Team Farm Data.png](/uploads/HOT%20and%20CSoD%20-%20Team%20Farm%20Data.png)
+
+
+
 On the other hand, the Jamaican awardees, Team Climate Resilience, shed light on the impactful nature of their mapping project in aiding road users during flooding and natural disasters.
 
 On the other hand, the Jamaican awardees, Team Climate Resilience, shed light on the impactful nature of their mapping project in aiding road users during flooding and natural disasters.
+
 
 
 ![HOT and CSoD - Romario Moncrieiffe, Deana- Lee Blidgen, Khamille Malcolm and Janor Campbell.png](/uploads/HOT%20and%20CSoD%20-%20Romario%20Moncrieiffe,%20Deana-%20Lee%20Blidgen,%20Khamille%20Malcolm%20and%20Janor%20Campbell.png)
