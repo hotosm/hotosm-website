@@ -32,7 +32,7 @@ The Farm Data project team from Guyana provides insight into the significance of
 
 
 
-![HOT and CSoD - Carlson Wickham, Sanjana Persaud, Anellie Bailey-Burnett-bee343.png](/uploads/HOT%20and%20CSoD%20-%20Carlson%20Wickham,%20Sanjana%20Persaud,%20Anellie%20Bailey-Burnett-bee343.png)
+![HOT and CSoD - Carlson Wickham, Sanjana Persaud, Anellie Bailey-Burnett-8553c2.png](/uploads/HOT%20and%20CSoD%20-%20Carlson%20Wickham,%20Sanjana%20Persaud,%20Anellie%20Bailey-Burnett-8553c2.png)
 
 
 
