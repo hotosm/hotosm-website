@@ -6,7 +6,7 @@ Summary Text: Uncover the impact of transformative geospatial initiatives with H
   projects addressing critical community issues in Guyana and Jamaica, and celebrate
   the innovation as it propels sustainable change, from rice cultivation to climate
   resilience.
-Feature Image: "/uploads/HOT%20-%20CSoD.jpg"
+Feature Image: "/uploads/HOT%20-%20CSoD.png"
 Country:
 - Jamaica
 - Guyana
