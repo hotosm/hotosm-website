@@ -62,4 +62,4 @@ The HOT and MSBM/CSOD teams continue their partnership with programming in Haiti
 
 
 > **About Cherika Wilson:**
-> Born and raised in Saint Andrew, Jamaica, Cherika has spent much of her career in the public sector working in youth development/youth-supporting roles. A passion for equitable access to education brought her to the Caribbean School of Data (CSOD) where she currently serves as the Project Manager.
+> Born and raised in Saint Andrew, Jamaica, Cherika has spent much of her career in the public sector working in youth development/youth-supporting roles. A passion for equitable access to education brought her to the Caribbean School of Data (CSOD) where she currently serves as the Project Manager. In her role at CSOD, Cherika oversees the implementation of the digital and data skills training programmes, and all of CSOD’s strategic partnerships, including HOT.
