@@ -6,6 +6,11 @@ Summary Text: Uncover the impact of transformative geospatial initiatives with H
   projects addressing critical community issues in Guyana and Jamaica, and celebrate
   the innovation as it propels sustainable change, from rice cultivation to climate
   resilience.
+Country:
+- Jamaica
+- Guyana
+Project:
+- CAPMAP
 ---
 
 ### Blog written by Cherika Wilson, Project Manager of the Caribbean School of Data
@@ -38,4 +43,7 @@ On the other hand, the Jamaican awardees, Team Climate Resilience, shed light on
 
 The use of open mapping data, exemplified by its impact in post-earthquake Haiti in 2010, and as highlighted by the projects above, provides meaningful inputs to address several contemporary challenges we face in the Caribbean today.
 
-The HOT and MSBM/CSOD teams continue their partnership with programming in Haiti. To learn more about our work and/or to become a member of the OSM Caribbean community, contact us at mapping@coi-csod.org.
+The HOT and MSBM/CSOD teams continue their partnership with programming in Haiti. To learn more about our work and/or to become a member of the OSM Caribbean community, contact us at [mapping@coi-csod.org](mapping@coi-csod.org).
+
+> About Cherika Wilson:
+Born and raised in Saint Andrew, Jamaica, Cherika has spent much of her career in the public sector working in youth development/youth-supporting roles. A passion for equitable access to education brought her to the Caribbean School of Data (CSOD) where she currently serves as the Project Manager.
