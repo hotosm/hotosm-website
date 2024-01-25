@@ -13,9 +13,9 @@ Project:
 - CAPMAP
 ---
 
-### Blog written by Cherika Wilson, Project Manager of the Caribbean School of Data
+### Blog written by Cherika Wilson, Project Manager of the Caribbean School of Data.
 
-The joint initiative between the Mona School of Business and Management (MSBM), through its [Caribbean School of Data (CSOD)](https://coi-csod.org/) project, and the Latin American and the Caribbean Hub from HOT, wrapped up its Open Mapping training, with the Capstone presentations marking a significant milestone.
+The joint initiative between the [Mona School of Business and Management (MSBM)](https://www.mona.uwi.edu/msbm/), through its [Caribbean School of Data (CSOD)](https://coi-csod.org/) project, and the Latin American and the Caribbean Hub from HOT, wrapped up its Open Mapping training, with the Capstone presentations marking a significant milestone.
 
 80 individuals from Guyana and Jamaica were introduced to geospatial data and open mapping concepts, having completed at least one of the training modules. On September 30, 2023, teams from both countries presented their interactive open mapping community projects before a panel of reviewers from HOT, with three groups ultimately being awarded as microgrant recipients.
 
@@ -45,5 +45,5 @@ The use of open mapping data, exemplified by its impact in post-earthquake Haiti
 
 The HOT and MSBM/CSOD teams continue their partnership with programming in Haiti. To learn more about our work and/or to become a member of the OSM Caribbean community, contact us at [mapping@coi-csod.org](mapping@coi-csod.org).
 
-> About Cherika Wilson:
-Born and raised in Saint Andrew, Jamaica, Cherika has spent much of her career in the public sector working in youth development/youth-supporting roles. A passion for equitable access to education brought her to the Caribbean School of Data (CSOD) where she currently serves as the Project Manager.
+> **About Cherika Wilson:**
+> Born and raised in Saint Andrew, Jamaica, Cherika has spent much of her career in the public sector working in youth development/youth-supporting roles. A passion for equitable access to education brought her to the Caribbean School of Data (CSOD) where she currently serves as the Project Manager.
