@@ -30,20 +30,27 @@ The Capstone ideas explored a spectrum of topics, ranging from the impact of sus
 
 The Farm Data project team from Guyana provides insight into the significance of their involvement in this initiative and its impact on the communities they are collaborating with.
 
-![HOT and CSoD - Carlson Wickham, Sanjana Persaud, Anellie Bailey-Burnett.png](/uploads/HOT%20and%20CSoD%20-%20Carlson%20Wickham,%20Sanjana%20Persaud,%20Anellie%20Bailey-Burnett.png)
+![HOT and CSoD - Carlson Wickham, Sanjana Persaud, Anellie Bailey-Burnett-bee343.png](/uploads/HOT%20and%20CSoD%20-%20Carlson%20Wickham,%20Sanjana%20Persaud,%20Anellie%20Bailey-Burnett-bee343.png)
+
 
 Team Farm Data encapsulates the essence of their FARMDATA project.
+
 
 ![HOT and CSoD - Team Farm Data.png](/uploads/HOT%20and%20CSoD%20-%20Team%20Farm%20Data.png)
 On the other hand, the Jamaican awardees, Team Climate Resilience, shed light on the impactful nature of their mapping project in aiding road users during flooding and natural disasters.
 
 On the other hand, the Jamaican awardees, Team Climate Resilience, shed light on the impactful nature of their mapping project in aiding road users during flooding and natural disasters.
 
+
 ![HOT and CSoD - Romario Moncrieiffe, Deana- Lee Blidgen, Khamille Malcolm and Janor Campbell.png](/uploads/HOT%20and%20CSoD%20-%20Romario%20Moncrieiffe,%20Deana-%20Lee%20Blidgen,%20Khamille%20Malcolm%20and%20Janor%20Campbell.png)
+
+
 
 The use of open mapping data, exemplified by its impact in post-earthquake Haiti in 2010, and as highlighted by the projects above, provides meaningful inputs to address several contemporary challenges we face in the Caribbean today.
 
 The HOT and MSBM/CSOD teams continue their partnership with programming in Haiti. To learn more about our work and/or to become a member of the OSM Caribbean community, contact us at [mapping@coi-csod.org](mapping@coi-csod.org).
+
+
 
 > **About Cherika Wilson:**
 > Born and raised in Saint Andrew, Jamaica, Cherika has spent much of her career in the public sector working in youth development/youth-supporting roles. A passion for equitable access to education brought her to the Caribbean School of Data (CSOD) where she currently serves as the Project Manager.
