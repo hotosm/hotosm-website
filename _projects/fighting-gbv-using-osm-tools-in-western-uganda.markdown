@@ -2,10 +2,16 @@
 title: Fighting Gender-Based Violence (GBV) using OpenSteetMap Tools in Western Uganda
 date: 2023-05-16 20:50:00 Z
 Feature Image: "/uploads/ESA_GBVUganda.jpeg"
+Is Community-Led: true
 Country:
 - Uganda
 Impact Area:
 - Gender Equality
+Partner:
+- The Centre for Life Change
+Duration:
+  Start Date: 2021-03-01 00:00:00 Z
+  End Date: 2021-12-31 00:00:00 Z
 ---
 
 *Cover photo by Kayla [Farmer](https://unsplash.com/@imagesbykayla?utm_source=shorthand_production&utm_medium=referral)*
