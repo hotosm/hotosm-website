@@ -18,6 +18,8 @@ Impact Area:
 
 Eles vão do mais recente para o mais antigo.
 
+29/11/2023 - [Canoa de Tolda no Fórum de Paz de Paris 2023](https://www.hotosm.org/updates/canoa-de-tolda-no-forum-de-paz-de-paris-2023/)
+
 28/09/2023 - [De la reacción a la prevención: Mapeo de riesgos en Ecuador](https://www.hotosm.org/updates/de-la-reaccion-a-la-prevencion-mapeo-de-riesgos-en-ecuador/)
 
 18/09/2023 - [Ciclo de charlas humanitarias y cartográficas del Hub-LAC](https://www.hotosm.org/updates/ciclo-de-charlas-humanitarias-y-cartograficas-del-hub-lac/)
