@@ -35,8 +35,7 @@ Block 3:
   Header: Plan a Mapping Campaign
   Text: If you are interested in starting a remote or field mapping campaign, you
     can get started by finding available imagery to use via OpenAerialMap, plan a
-    remote mapping campaign via the Tasking Manager, or set up and track a field campaign
-    with MapCampaigner.
+    remote mapping campaign via the Tasking Manager.
   Image: https://cdn.hotosm.org/website/tm4-explore.png
   Tools:
   - Name: OpenAerialMap
@@ -49,19 +48,16 @@ Block 4:
   Header: Edit the Map
   Text: Quickly get started with editing and contibuting to OpenStreetMap via the
     Tasking Manager. You can volunteer your time to active mapping projects and support
-    organizations in need of map data around the world. Check out OpenMapKit for field
-    based editing of OpenStreetMap. In low-bandwidth or disconnected environments,
-    Field Papers can be used for paper-based data capture and POSM can be used for
-    offline OSM editing. RapiD is an editor that uses Artificial Inteligence to detect
+    organizations in need of map data around the world. Check RapiD, an editor that uses Artificial Inteligence to detect
     unmapped roads and buildings.
-  Image: https://cdn.hotosm.org/website/tools-openmapkit.png
+  Image: "https://cdn.hotosm.org/website/ai-polygon-pass-3270fe.jpg"
   Tools:
   - Name: Tasking Manager
     URL: https://tasks.hotosm.org/
   # - Name: OpenMapKit
   #   URL: http://openmapkit.org/
-  - Name: Field Papers
-    URL: http://www.fieldpapers.org
+  # - Name: Field Papers
+  #   URL: http://www.fieldpapers.org
   # - Name: Portable OpenStreetMap (POSM)
   #   URL: http://posm.io/
   - Name: RapiD

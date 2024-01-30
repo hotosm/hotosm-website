@@ -11,6 +11,9 @@ Impact Area:
 - Sustainable Cities & Communities
 Calendar:
 - <a href="https://calendar.google.com/calendar/u/0/embed?src=hotosm.org_848e89aaiab04ag94d23rqn558@group.calendar.google.com" target="blank"> Google Calendar </a>
+# Duration:
+#   Start Date: 2022-01-01 00:00:00 Z
+#   End Date: 2024-12-12 00:00:00 Z
 
 layout: community-mentorship
 ---

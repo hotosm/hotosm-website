@@ -10,7 +10,7 @@ layout: default
             {% if page['Duration']['End Date'] == 'Ongoing' %} ACTIVE {% else %}
             {% capture currenttime %}{{ 'now' | date: "%Y-%m-%d %H:%M:%s" }}{% endcapture %}
             {% capture pagetime %}{{ page['Duration']['End Date'] }}{% endcapture %}
-            {% if pagetime < currenttime %} COMPLETED
+            {% if pagetime < currenttime %} ONGOING
             {% else %} ACTIVE {% endif %}
             {% endif %}
         </p>

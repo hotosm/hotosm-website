@@ -2,7 +2,7 @@
 title: HOT OpenSummit '23-24
 date: 2023-07-18 20:29:00 Z
 permalink: opensummit23-24
-summit-image: "/uploads/Website%20MainBanner-51e09d.png"
+summit-image: "/uploads/opensummit-banner-2023-2024.png"
 intro-text: |-
   <h2>The HOT OpenSummit is excited to join:</h2><br>
   <br>

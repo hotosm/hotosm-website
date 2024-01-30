@@ -1,7 +1,7 @@
 var allProjects = {};
 var projectList = [];
 const proxyUrl = "";
-const driveUrl = "https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/_uploads/aoi_projects/";
+const driveUrl = "https://raw.githubusercontent.com/hotosm/hotosm-website/gh-pages/downloads/aoi_projects/";
 var totalArea = 0, totalEdits = 0, totalMappers = 0;
 var totalRoads = 0, totalBuildings = 0, totalChangesets = 0;
 var bboxCoordinatesArray = [];
