@@ -19,6 +19,18 @@ Impact Area:
 
 Van de la más reciente a la más antigua.
 
+15/12/2024 - [Datos para el desarrollo sostenible: El Festival de Datos 2023](https://www.hotosm.org/updates/festival-de-datos/)
+
+11/12/2023 - [HOT y la Fundación OpenStreetMap llegan a un importante acuerdo](https://www.hotosm.org/updates/hot-y-la-fundacion-openstreetmap-llegan-a-un-importante-acuerdo/)
+
+08/12/2023 - [AbreLatam 2023: Integrando la cartografía abierta en la comunidad de datos abiertos](https://www.hotosm.org/updates/abrelatam-2023/)
+
+29/10/2023 - [Canoa de Tolda en el Foro de París sobre la Paz 2023](https://www.hotosm.org/updates/canoa-paris/)
+
+26/11/2023 - [El mapeo abierto se hará presente en el AbreLatam 2023](https://www.hotosm.org/updates/el-mapeo-abierto-se-hara-presente-en-el-abrelatam-2023/)
+
+12/10/2023 - [Mapeo participativo de desechos: un esfuerzo continuo para el desarrollo sostenible](https://www.hotosm.org/updates/mapeo-participativo-de-desechos-un-esfuerzo-continuo-para-el-desarrollo-sostenible/)
+
 28/09/2023 - [De la reacción a la prevención: Mapeo de riesgos en Ecuador](https://www.hotosm.org/updates/de-la-reaccion-a-la-prevencion-mapeo-de-riesgos-en-ecuador/)
 
 18/09/2023 - [Ciclo de charlas humanitarias y cartográficas del Hub-LAC](https://www.hotosm.org/updates/ciclo-de-charlas-humanitarias-y-cartograficas-del-hub-lac/)
