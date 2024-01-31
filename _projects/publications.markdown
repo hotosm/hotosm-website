@@ -19,6 +19,19 @@ Impact Area:
 
 **Posts are in reverse chronological order**
 
+25/01/2024 - [Catalyzing Impact: Inaugural Micro-Grants by HOT and Caribbean School of Data](https://www.hotosm.org/updates/catalyzing-impact-inaugural-micro-grants-by-hot-and-csod/)
+
+15/12/2023 - [Data for sustainable development: The Data Festival 2023](https://www.hotosm.org/updates/data-for-sustainable-development-the-data-festival-2023/)
+
+08/12/2023 - [AbreLatam 2023: Integrating open cartography into the open data community](https://www.hotosm.org/updates/abrelatam-2023-integrating-open-cartography-into-the-open-data-community/)
+
+07/12/2023 - [Building Community to Build Resilience - OpenCities Saint Lucia Impact](https://www.hotosm.org/updates/building-community-to-build-resilience-opencities-saint-lucia-impact/)
+
+29/11/2023 - [Canoa de Tolda at the Paris Peace Forum 2023](https://www.hotosm.org/updates/canoa-de-tolda-at-the-paris-peace-forum-2023/)
+
+13/10/2023 - [Participatory waste mapping: a continuing effort for sustainable development
+](https://www.hotosm.org/updates/participatory-waste-mapping-a-continuing-effort-for-sustainable-development/)
+
 28/09/2023 - [From reaction to prevention: Risk mapping in Ecuador](https://www.hotosm.org/updates/from-reaction-to-prevention-risk-mapping-in-ecuador/)
 
 18/09/2023 - [Hub-LAC series of humanitarian and cartographic talks](https://www.hotosm.org/updates/hub-lac-series-of-humanitarian-and-cartographic-talks/)
