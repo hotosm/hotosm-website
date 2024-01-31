@@ -50,7 +50,7 @@ Block 4:
     Tasking Manager. You can volunteer your time to active mapping projects and support
     organizations in need of map data around the world. Check RapiD, an editor that uses Artificial Inteligence to detect
     unmapped roads and buildings.
-  Image: "https://cdn.hotosm.org/website/ai-polygon-pass-3270fe.jpg"
+  Image: "/downloads/rapid-ai-roads.png"
   Tools:
   - Name: Tasking Manager
     URL: https://tasks.hotosm.org/
