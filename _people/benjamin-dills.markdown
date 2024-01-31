@@ -4,6 +4,7 @@ date: 2020-06-05 15:32:00 Z
 Photo: https://cdn.hotosm.org/website/Ben+Dills+Headshot.jpg
 Member Type:
   Is Staff: true
+  Is Voting Member: true
 Job Title: Content Manager
 Country: United States
 Social Media (Full URL):

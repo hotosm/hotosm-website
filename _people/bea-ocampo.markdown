@@ -1,9 +1,10 @@
 ---
 title: Bea Ocampo
 date: 2020-12-28 06:16:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Bea_photo-c92c80.png
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Operations & HR Associate - Asia Pacific Hub
 Country: Philippines
 Team: Asia Pacific Hub

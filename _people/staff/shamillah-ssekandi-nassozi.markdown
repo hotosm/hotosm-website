@@ -4,7 +4,8 @@ date: 2018-06-01 20:59:00 Z
 Photo: https://cdn.hotosm.org/website/ShamilahNassozi.jpg
 Member Type:
   Is Staff: true
-Job Title: Associate, Data Quality - Eastern and Southern Africa
+  Is Voting Member: true
+Job Title: Community Data Senior Asociate - Eastern and Southern Africa
 Country: Uganda
 Team: Eastern and Southern Africa Hub
 Social Media (Full URL):

@@ -1,10 +1,10 @@
 ---
 title: Tim Geda
 date: 2021-07-12 15:27:00 Z
-published: false
 Photo: https://cdn.hotosm.org/website/Photo.jpg
 Member Type:
   Is Staff: false
+  Is Voting Member: true
 Job Title: Information Manager
 Country: Kenya
 Team: Global

@@ -3,7 +3,7 @@ title: Home
 position: 0
 description: _
 Banner:
-  Is Activated: true
+  Is Activated: false
   Main Block: Give the Gift of Mapping
   Secondary Block: Donate today!
   Link Copy: 
@@ -11,23 +11,13 @@ Banner:
   Optional Text: 
   Small Block: 
 Project:
-- |-
-- 'What We Do'
-# - |-
-# - Building Capacity for Inclusive Data Collection for the OSM Community
-#   in Namibia
-# - |-
-# - Missing Maps
-#NOTE: this part I reconnected to projects) 
+- ''
+- What We Do
 News:
-- |-
-- 'HOT OpenSummit 23-24'
-- |-
-- Building Capacity for Inclusive Data Collection for the OSM Community
-  in Namibia
-# - 'AbreLatam 2023: Integrando la cartografía abierta en la comunidad de datos
-#   abiertos'
-# - |-
+- ''
+- HOT OpenSummit 23-24
+- ''
+- Building Capacity for Inclusive Data Collection for the OSM Community in Namibia
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap

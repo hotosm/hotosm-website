@@ -4,9 +4,9 @@ date: 2021-11-23 09:39:00 Z
 Photo: https://cdn.hotosm.org/website/Duncan+Kebut+(2).jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Mapping Supervisor
+Job Title: Senior Mapping Supervisor - Eastern and Southern Africa
 Country: Kenya
-Team: Global
+Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/kebutt
 ---

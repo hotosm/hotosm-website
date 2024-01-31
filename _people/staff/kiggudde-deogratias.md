@@ -5,7 +5,8 @@ Photo: https://cdn.hotosm.org/website/DeogratiasKiggudee.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Programs Manager - Eastern and Southern Africa
+Job Title: Senior Program Manager, Technology and Implementation - Eastern and Southern
+  Africa
 Country: Uganda
 Team: Eastern and Southern Africa Hub
 Social Media (Full URL):

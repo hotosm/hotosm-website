@@ -1,4 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
+/.DS_Store
+/images/.DS_Store
 vendor/

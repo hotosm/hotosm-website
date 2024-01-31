@@ -49,20 +49,26 @@ Tools:
 
 The Commonwealth of Dominica is also known as “the Nature Isle” due to its lush forest nestled in rugged terrain. Recent extreme storm events have severely impacted and threatened the inhabitants’ way of life as well as the environment. The scars and impacts of legacy storms, including Hurricane Maria (2017) also still present.
 
-The increase in storms has resulted in a search for more sustainable methods of living and development over the long term. Research activity has often concentrated around high impact, high visibility events, therefore there is a lack of comprehensive observed flood hazards for household and community resilience planning. 
+The increase in storms has resulted in a search for more sustainable methods of living and development over the long term. Research activity has often concentrated around high-impact, high-visibility events. Therefore, there is a lack of comprehensive observed flood hazards for household and community resilience planning. 
 
 
 ### Approach
 
-To fill data gaps on flood risk to buildings, Humanitarian OpenStreetMap Team (HOT) and local implementing partner Open Solutions for Business worked with mappers from Youth Emergency Action to update building footprints in OpenStreetMap and collected observed historical flood data per building. Following HOT training, communities surveyed reported per historic flood the damage level and other information per incident per building. Using a combination of mobile mapping apps [Vespucci](https://vespucci.io/) and HOT's pilot version of Field Mapping Tasking Manager, all mapping was community based and accessible via mobile phones. Buildings. Community reported flood extents were compared to the Caribbean Disaster Emergency Management Agency ([CDEMA](https://www.cdema.org/)) regional flood modeling risks, the standard in the region. 
+To fill data gaps on flood risk to buildings, the Humanitarian OpenStreetMap Team (HOT) and local implementing partner Open Solutions for Business worked with mappers from Youth Emergency Action to update building footprints in OpenStreetMap and collect observed historical flood data per building. Following HOT training, communities were surveyed to report the damage to each building for each historic flood, as well as other relevant information about the building and local flooding. 
+
+Community-reported flood extents were compared to the Caribbean Disaster Emergency Management Agency ([CDEMA](https://www.cdema.org/)) regional flood modeling risks, the standard in the region. 
+
+Using a combination of mobile mapping apps [Vespucci](https://vespucci.io/) and HOT's pilot version of Field Mapping Tasking Manager, all mapping was community-based and accessible via mobile phones. 
 
 
 ### Impact
 
-In total, 24 maps and survey collection forms were created for current and future use in flood resilience planning in Dominica. 260 building footprints were added to OSM, and hundreds of historic flood data by building was provided to the Dominica government. 
+In total, 24 maps and survey collection forms were created for current and future use in flood resilience planning in Dominica. A total of 260 building footprints were added to OSM, and hundreds of historic flood data, organized by building, was provided to the Dominican government. 
 
-A secondary outcome was the development of a mapping culture, on the ground, via remote mapping as well as through aerial mapping. The creation of this culture would foster greater open data use throughout the rest of the island, in preparation for future climate hazards, and act as a pilot for similar small island developing states in the Caribbean region.
+A secondary outcome was the development of a mapping culture in the community via remote mapping and aerial mapping. The creation of this culture would foster greater open data use throughout the rest of the island, bolstering data available for future climate hazard preparations, and act as a pilot for similar small island developing states in the Caribbean region.
 
 ### Lessons Learned
 
-To make remote mapping more accessible and not rely on high capacity desktop computers, all mapping was done via mobile phones. Mobile app [Vespucci](https://vespucci.io/) was first used to update building footprints in OSM. Then, HOT led a successful pilot for using Field Mapping Tasking Manager to coordinate mapping of multiple data editors using a mobile phone. The application is similar to HOT's Tasking Manager, but optimized for mobile use, and collecting GPS points on the ground. While both apps allow for remote mapping, however cloud free aerial imagery is a large challenge in the Caribbean, and future projects should consider availability of clear aerial imagery. 
+To make remote mapping more accessible and not rely on high-performance desktop computers, all mapping was done via mobile phones. Mobile app [Vespucci](https://vespucci.io/) was first used to update building footprints in OSM. Then, HOT led a successful pilot of the Field Mapping Tasking Manager to coordinate the mapping of multiple data editors using mobile phones. The application is similar to HOT's Tasking Manager, but optimized for mobile use in collecting GPS points in person. 
+
+Both apps allow for remote mapping, but cloud-free aerial imagery is often a challenge in the Caribbean. Future projects should consider the availability of clear aerial imagery in choosing the applications they use for mapping.
