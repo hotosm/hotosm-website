@@ -245,7 +245,7 @@ defaults:
       End Date: Ongoing
     tm_campaigns:
     - ''
-    project_extent: ''
+    project_extent: "/downloads/aoi_projects/"
     Google Drive: https://drive.google.com/drive/folders/1p-dGhQsB4SSlucT3Yen1LlhqBj3Yvy-_
     Map Products:
     - ''
