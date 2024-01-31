@@ -38,7 +38,7 @@ Home Module 1:
 Home Module 2:
   Header: Community & Events
   Text: Learn about the community and the latest events — especially about the Open Summit 2023, a decentralized, year-long program of 13 global, regional, and local conferences.
-  Image: /uploads/Website%20MainBanner-51e09d.png
+  Image: "/uploads/opensummit-banner-2023-2024.png"
   Call to Action: Learn more
   URL: "/projects/opensummit23-24/"
 Home Module 3:
