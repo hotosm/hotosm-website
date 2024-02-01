@@ -1,9 +1,10 @@
 ---
 title: Rachel VanNice
 date: 2016-11-08 21:00:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Headshot+2.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Head of People Operations & Gender Lead
 Working Group:
 - Fundraising
