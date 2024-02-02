@@ -29,6 +29,9 @@ Tools:
 - tool: OpenStreetMap
 - tool: Qgis
 - tool: Tasking Manager
+- Wiki Page: |-
+    [2023 Hurricane Otis Mexico]
+    https://wiki.openstreetmap.org/wiki/2023_Hurricane_Otis_Mexico
 Webinars:
 - title: Disasters and Data Collaboratives in Latin America
   link: https://www.youtube.com/watch?v=IsnS8-pOhyE&ab
