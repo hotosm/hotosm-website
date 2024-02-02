@@ -25,6 +25,7 @@ Tools:
 - tool: KoboToolbox
 - tool: Mapillary
 - tool: OpenAerialMap
+  link: https://map.openaerialmap.org/#/-99.73869323730469,16.960262587150513,10/square/023310223313?_k=4z1myn
 - tool: OpenStreetMap
 - tool: Qgis
 - tool: Tasking Manager
