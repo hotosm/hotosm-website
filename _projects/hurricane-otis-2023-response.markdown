@@ -17,13 +17,9 @@ Duration:
   Start Date: 2023-10-30 00:00:00 Z
   End Date: 2024-01-26 00:00:00 Z
 Tools:
-- title: OSM
-- link: Drone Imagery
-- link: OpenAerialMap
-- link: Qgis
-- link: KoboToolbox
-- link: Tasking Manager
-- link: Mapillary
+- title: Mapillary
+Webinars:
+- link: https://www.youtube.com/watch?v=IsnS8-pOhyE&ab
 ---
 
 ## **CONTEXT**
