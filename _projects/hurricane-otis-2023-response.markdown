@@ -41,6 +41,7 @@ Webinars:
 [Hurricane Otis](https://reliefweb.int/report/mexico/mexico-hurricane-otis-dref-operational-update-mdrmx005), a formidable Category 5 storm, struck Acapulco, Guerrero, Mexico, on October 25, 2023, unleashing devastating winds and torrential rains. This catastrophic event caused extensive damage, including the collapse of buildings and infrastructure, displacement of populations and loss of life. The aftermath left Acapulco in urgent need of comprehensive recovery efforts. The local government response, while immediate, lacked detailed geospatial data, crucial for effective reconstruction planning, and data management coordination capabilities. Recognizing this data gap, the Humanitarian OpenStreetMap Team (HOT) and community institutions initiated a project to address the critical need for accurate mapping and information. The absence of accurate geospatial data hindered targeted relief efforts, affecting the lives of those affected and the recovery of basic services and economic activity by impeding damage assessments and the efficient allocation of resources and delaying order and reconstruction efforts. The delay in operations also fostered the generalization of a complex situation of violence in the area.
 
 ![Otis_2023_landfall.gif](/uploads/Otis_2023_landfall.gif)
+
 *Gif: NOAA Office of Satellite and Product Operations (OSPO)*
 
 ## **APPROACH**
@@ -49,6 +50,7 @@ The project employed drone imagery, OpenStreetMap, and KoboToolbox for data coll
 In the detailed mapping of facilities, pre- and post-disaster buildings, the focus on educational institutions, health facilities and public markets provided a holistic view of the infrastructure landscape, as well as estimates of affected populations that supported targeted interventions and recovery planning.
 
 ![Acapulco Activation following Hurricane Otis.png](/uploads/Acapulco%20Activation%20following%20Hurricane%20Otis.png)
+
 *Photo: ProtoplasmaKid / Wikimedia Commons / CC-BY-SA 4.0*
 
 ## **OUTCOME AND IMPACT**
