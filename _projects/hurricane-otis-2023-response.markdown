@@ -17,7 +17,7 @@ Duration:
   Start Date: 2023-10-30 00:00:00 Z
   End Date: 2024-01-26 00:00:00 Z
 Tools:
-- title: Mapillary
+- tool: Mapillary
 Webinars:
 - link: https://www.youtube.com/watch?v=IsnS8-pOhyE&ab
 ---
@@ -40,6 +40,8 @@ Photo: ProtoplasmaKid / Wikimedia Commons / CC-BY-SA 4.0
 The project successfully mapped over **52,000 buildings,** **639 km of roads**, and **identified 5,439 damaged structures**. Educational institutions, healthcare facilities, and markets were thoroughly mapped, offering a detailed inventory for informed decision-making. Ongoing efforts include estimating population affectation and collaborating on economic revitalization and reforestation projects.
 
 As part of the outcomes, the mapping initiative covered over **700 educational institutions in Acapulco de Juárez**, incorporating data from DENUE and local authorities, spanning central and peripheral locations. Additionally, **170 healthcare centers in Acapulco de Juárez and Coyuca de Benítez** and all ** 53 public markets** mentioned in the National Statistical Directory of Economic Units (DENUE) were thoroughly mapped.
+
+![Campaña Acapulco (1930 x 1090 px).gif](/uploads/Campan%CC%83a%20Acapulco%20(1930%20x%201090%20px).gif)
 
 ## **LESSONS LEARNED**
 Key lessons include the importance of rapid response, early coordination with imagery agencies, matching mapping efforts to changing reconstruction needs, and building lasting partnerships with local communities and authorities. Continued engagement with universities fosters a skilled volunteer base. New challenges, such as infectious outbreaks, economic recovery and reforestation, will be addressed in the future, demonstrating the project's resilience in the post-disaster phase.																							
