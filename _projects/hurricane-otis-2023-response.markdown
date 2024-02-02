@@ -34,11 +34,12 @@ The project employed drone imagery, OpenStreetMap, and KoboToolbox for data coll
 In the detailed mapping of facilities, pre- and post-disaster buildings, the focus on educational institutions, health facilities and public markets provided a holistic view of the infrastructure landscape, as well as estimates of affected populations that supported targeted interventions and recovery planning.
 
 ![Acapulco Activation following Hurricane Otis.png](/uploads/Acapulco%20Activation%20following%20Hurricane%20Otis.png)
+Photo: ProtoplasmaKid / Wikimedia Commons / CC-BY-SA 4.0
 
 ## **OUTCOME AND IMPACT**
 The project successfully mapped over **52,000 buildings,** **639 km of roads**, and **identified 5,439 damaged structures**. Educational institutions, healthcare facilities, and markets were thoroughly mapped, offering a detailed inventory for informed decision-making. Ongoing efforts include estimating population affectation and collaborating on economic revitalization and reforestation projects.
 
-As part of the outcomes, the mapping initiative covered over **700 educational institutions in Acapulco de Juárez**, incorporating data from DENUE and local authorities, spanning central and peripheral locations. Additionally, **170 healthcare centers in Acapulco de Juárez and Coyuca de Benítez** and all** 53 public markets** mentioned in the National Statistical Directory of Economic Units (DENUE) were thoroughly mapped.
+As part of the outcomes, the mapping initiative covered over **700 educational institutions in Acapulco de Juárez**, incorporating data from DENUE and local authorities, spanning central and peripheral locations. Additionally, **170 healthcare centers in Acapulco de Juárez and Coyuca de Benítez** and all ** 53 public markets** mentioned in the National Statistical Directory of Economic Units (DENUE) were thoroughly mapped.
 
 ## **LESSONS LEARNED**
 Key lessons include the importance of rapid response, early coordination with imagery agencies, matching mapping efforts to changing reconstruction needs, and building lasting partnerships with local communities and authorities. Continued engagement with universities fosters a skilled volunteer base. New challenges, such as infectious outbreaks, economic recovery and reforestation, will be addressed in the future, demonstrating the project's resilience in the post-disaster phase.																							
