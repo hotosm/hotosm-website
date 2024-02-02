@@ -43,7 +43,7 @@ The project employed drone imagery, OpenStreetMap, and KoboToolbox for data coll
 In the detailed mapping of facilities, pre- and post-disaster buildings, the focus on educational institutions, health facilities and public markets provided a holistic view of the infrastructure landscape, as well as estimates of affected populations that supported targeted interventions and recovery planning.
 
 ![Acapulco Activation following Hurricane Otis.png](/uploads/Acapulco%20Activation%20following%20Hurricane%20Otis.png)
-**Photo: ProtoplasmaKid / Wikimedia Commons / CC-BY-SA 4.0**
+*Photo: ProtoplasmaKid / Wikimedia Commons / CC-BY-SA 4.0*
 
 ## **OUTCOME AND IMPACT**
 The project successfully mapped over **52,000 buildings**, **639 km of roads**, and **identified 5,439 damaged structures**. Educational institutions, healthcare facilities, and markets were thoroughly mapped, offering a detailed inventory for informed decision-making. Ongoing efforts include estimating population affectation and collaborating on economic revitalization and reforestation projects.
