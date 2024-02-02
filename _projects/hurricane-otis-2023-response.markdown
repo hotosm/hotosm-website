@@ -18,8 +18,10 @@ Duration:
   Start Date: 2023-10-30 00:00:00 Z
   End Date: 2024-01-26 00:00:00 Z
 Tools:
-- tool: OSM
-- tool: Drone Imagery
+- title: 
+  tool: OSM
+- link: 
+  tool: Drone Imagery
 - tool: KoboToolbox
 - tool: Mapillary
 - tool: OpenAerialMap
