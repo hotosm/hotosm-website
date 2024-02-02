@@ -17,9 +17,17 @@ Duration:
   Start Date: 2023-10-30 00:00:00 Z
   End Date: 2024-01-26 00:00:00 Z
 Tools:
+- tool: OSM
+- tool: Drone Imagery
+- tool: KoboToolbox
 - tool: Mapillary
+- tool: OpenAerialMap
+- tool: OpenStreetMap
+- tool: Qgis
+- tool: Tasking Manager
 Webinars:
-- link: https://www.youtube.com/watch?v=IsnS8-pOhyE&ab
+- title: Disasters and Data Collaboratives in Latin America
+  link: https://www.youtube.com/watch?v=IsnS8-pOhyE&ab
 ---
 
 ## **CONTEXT**
@@ -35,11 +43,10 @@ In the detailed mapping of facilities, pre- and post-disaster buildings, the foc
 
 ![Acapulco Activation following Hurricane Otis.png](/uploads/Acapulco%20Activation%20following%20Hurricane%20Otis.png)
 **Photo: ProtoplasmaKid / Wikimedia Commons / CC-BY-SA 4.0**
-
 ## **OUTCOME AND IMPACT**
 The project successfully mapped over **52,000 buildings,** **639 km of roads**, and **identified 5,439 damaged structures**. Educational institutions, healthcare facilities, and markets were thoroughly mapped, offering a detailed inventory for informed decision-making. Ongoing efforts include estimating population affectation and collaborating on economic revitalization and reforestation projects.
 
-As part of the outcomes, the mapping initiative covered over **700 educational institutions in Acapulco de Juárez**, incorporating data from DENUE and local authorities, spanning central and peripheral locations. Additionally, **170 healthcare centers in Acapulco de Juárez and Coyuca de Benítez** and all ** 53 public markets** mentioned in the National Statistical Directory of Economic Units (DENUE) were thoroughly mapped.
+As part of the outcomes, the mapping initiative covered over **700 educational institutions in Acapulco de Juárez**, incorporating data from DENUE and local authorities, spanning central and peripheral locations. Additionally, **170 healthcare centers in Acapulco de Juárez and Coyuca de Benítez** and all **53 public markets** mentioned in the National Statistical Directory of Economic Units (DENUE) were thoroughly mapped.
 
 ![Campaña Acapulco (1930 x 1090 px).gif](/uploads/Campan%CC%83a%20Acapulco%20(1930%20x%201090%20px).gif)
 
