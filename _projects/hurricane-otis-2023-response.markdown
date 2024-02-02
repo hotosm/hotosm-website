@@ -7,7 +7,7 @@ Project Summary Text: After Hurricane Otis struck Acapulco, HOT worked with loca
   5,439 damaged structures. Lessons learned highlight the importance of aligning mapping
   with evolving response and reconstruction needs. Community-driven initiatives, backed
   by various stakeholders, are addressing challenges for a sustainable recovery.
-Feature Image: "/uploads/2.png"
+Feature Image: "/uploads/Acapulco%20-%20Otis%20-%20Drone.png"
 Country:
 - Mexico
 Impact Area:
