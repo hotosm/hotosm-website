@@ -45,6 +45,7 @@ Webinars:
 *Gif: NOAA Office of Satellite and Product Operations (OSPO)*
 
 ## **APPROACH**
+
 The project employed drone imagery, OpenStreetMap, and KoboToolbox for data collection, ensuring a multi-faceted approach. Collaboration with the National Center for Disaster Prevention (CENAPRED), the state of Guerrero, Civil Protection and UNICEF, [Help-NGO](https://www.help.ngo/), CEMEFI, and academic institutions, including Universidad Autónoma Metropolitana Unidad Cuajimalpa, Universidad Autónoma del Estado de México, Universidad de Guanajuato, Universidad Autónoma de Ciudad Juárez, and Universidad Autónoma de Guerrero, ensured comprehensive data coverage and the attempt to strengthen a permanent network of actors for the future reconstruction of Acapulco and future disasters. Facing challenges in connecting with local authorities, creative solutions were implemented, such as leveraging university networks. Valuable lessons were learned, highlighting the critical need for timely and relevant data during emergency situations.
 
 In the detailed mapping of facilities, pre- and post-disaster buildings, the focus on educational institutions, health facilities and public markets provided a holistic view of the infrastructure landscape, as well as estimates of affected populations that supported targeted interventions and recovery planning.
@@ -54,6 +55,7 @@ In the detailed mapping of facilities, pre- and post-disaster buildings, the foc
 *Photo: ProtoplasmaKid / Wikimedia Commons / CC-BY-SA 4.0*
 
 ## **OUTCOME AND IMPACT**
+
 The project successfully mapped over **52,000 buildings**, **639 km of roads**, and **identified 5,439 damaged structures**. Educational institutions, healthcare facilities, and markets were thoroughly mapped, offering a detailed inventory for informed decision-making. Ongoing efforts include estimating population affectation and collaborating on economic revitalization and reforestation projects.
 
 As part of the outcomes, the mapping initiative covered over **700 educational institutions in Acapulco de Juárez**, incorporating data from DENUE and local authorities, spanning central and peripheral locations. Additionally, **170 healthcare centers in Acapulco de Juárez and Coyuca de Benítez** and all **53 public markets** mentioned in the National Statistical Directory of Economic Units (DENUE) were thoroughly mapped.
@@ -61,6 +63,7 @@ As part of the outcomes, the mapping initiative covered over **700 educational i
 ![Campaña Acapulco (1930 x 1090 px).gif](/uploads/Campan%CC%83a%20Acapulco%20(1930%20x%201090%20px).gif)
 
 ## **LESSONS LEARNED**
+
 Key lessons include the importance of rapid response, early coordination with imagery agencies, matching mapping efforts to changing reconstruction needs, and building lasting partnerships with local communities and authorities. Continued engagement with universities fosters a skilled volunteer base. New challenges, such as infectious outbreaks, economic recovery and reforestation, will be addressed in the future, demonstrating the project's resilience in the post-disaster phase.																							
 
 The humanitarian program of HOT's LAC Hub is committed to long-term coordination and active participation in the reconstruction efforts in Acapulco and the early building of coordination channels with the main authorities in the different countries of the region, contributing to the resilient and sustainable reconstruction of at-risk areas.
