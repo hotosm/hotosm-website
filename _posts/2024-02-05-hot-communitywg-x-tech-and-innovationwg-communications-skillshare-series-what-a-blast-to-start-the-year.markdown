@@ -3,7 +3,7 @@ title: HOT CommunityWG x Tech&InnovationWG Communications Skillshare Series - wh
   a blast to start the year!
 date: 2024-02-05 19:56:00 Z
 Summary Text: THANK YOU FOR JOINING our Communications Skillshare Series!
-Feature Image: "/uploads/Community%20WG%20presents/.%20Skillshare%20User-Friendly%20Website%20Design-19%20January%202023%20%20(1).png"
+Feature Image: "/uploads/Community%20WG%20presents/.%20Skillshare%20User-Friendly%20Website%20Design-19%20January%202023%20.png"
 Is image top aligned: true
 Person: Arnalie Vicario
 Working Group:
