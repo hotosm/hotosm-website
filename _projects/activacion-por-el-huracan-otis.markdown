@@ -1,5 +1,5 @@
 ---
-title: Activación por el Huracán Otis
+title: Activación por el Huracán Otis 2023
 date: 2024-02-07 17:49:00 Z
 Project Summary Text: Después de que el huracán Otis golpeó Acapulco, HOT trabajó
   con socios locales, nacionales e internacionales, intercambiando imágenes de drones
