@@ -43,6 +43,8 @@ Field name:
   link: https://www.youtube.com/watch?v=IsnS8-pOhyE&ab
 ---
 
+*[English version](https://www.hotosm.org/projects/hurricane-otis-2023-response/)*
+
 ## **CONTEXTO**
 [El huracán Otis](https://reliefweb.int/report/mexico/mexico-hurricane-otis-dref-operational-update-mdrmx005), una tormenta de Categoría 5, impactó Acapulco, Guerrero, México, el 25 de octubre de 2023, ocasionando vientos y lluvias intensas. Este evento causó daños considerables, como el colapso de edificaciones e infraestructura, así como desplazamientos de población y pérdidas humanas. Acapulco requiere urgentemente esfuerzos de recuperación. Aunque la respuesta del gobierno local fue rápida, carecía de datos geoespaciales detallados, fundamentales para una planificación y coordinación efectiva. Para abordar esta necesidad, el Equipo de OpenStreetMap Humanitario (HOT) junto a instituciones comunitarias iniciaron un proyecto. La falta de datos precisos dificultó los esfuerzos de ayuda, impactando en la población afectada, la recuperación de servicios básicos y la actividad económica. Además, obstaculizó las evaluaciones de daños, la asignación de recursos y los esfuerzos de orden y reconstrucción, lo que también contribuyó a la escalada de violencia en la zona.
 
