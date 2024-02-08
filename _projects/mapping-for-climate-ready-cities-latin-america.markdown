@@ -3,7 +3,8 @@ title: Mapping for Climate Ready Cities - Latin America
 date: 2024-02-08 18:14:00 Z
 published: false
 Project Summary Text: |-
-  Through our Mapping for Climate Ready Cities program, HOT is mapping cities in four priority regions across the world and developing a thriving ecosystem to create, interpret, and use maps to respond to and reduce climate risks in densely populated urban areas.
+  Through our Mapping for Climate Ready Cities program, HOT is supporting the development of a thriving ecosystem focused on creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions.
+
 
   This project page highlights our work in Latin America.
 Partner:
