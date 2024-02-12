@@ -15,7 +15,7 @@ Country:
 - Peru
 ---
 
-### **[Versión en Español](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/) / [Versão em Português](https://www.hotosm.org/updates/mapeamentos-amazonicos-para-uma-amazonia-inclusiva-e-sustentavel/)**
+> ### **[Versión en Español](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/) / [Versão em Português](https://www.hotosm.org/updates/mapeamentos-amazonicos-para-uma-amazonia-inclusiva-e-sustentavel/)**
 
 Few things represent a region as iconically as the Amazon: eight countries share the care of an area where 20% of the world's freshwater reserves are found. The diversity, richness, and development potential of this region are a source of hope for the communities that inhabit it, as well as a source of conflicts and challenges common to the region and the world. Here, we face situations that jeopardize biodiversity, subsistence, and the security of local communities. Deforestation, climate change, and economic pressures have created a complex landscape that demands understanding and action.
 
@@ -47,6 +47,8 @@ The Tefe community adopted manuals and guidelines to their local context, using 
 On the other hand, teams from the Federal University of São João del-Rei and UEA developed technology that allows obtaining high-quality geographic information using systems that do not depend on internet connection and drones. This information can then be uploaded to OSM and, consequently, improve the quality of maps globally.
 
 ## **Collaborative and Inclusive Mapping in the Middle Solimões**
+![Médio Solimões - Mapeos Amazónicos - HOT-1efddc.jpg](/uploads/Me%CC%81dio%20Solimo%CC%83es%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT-1efddc.jpg)
+
 Researchers from the Federal University of São João del-Rei, the Center for Higher Studies of Tefe, and the LAC Hub are working to complete maps of the Amazon region by using the OpenStreetMap (OSM) platform and training local communities in affordable technologies to monitor climate change.
 
 Our strategy includes seminars, workshops, field data collection, and drone flights, all aimed at capturing high-resolution images and collecting data to improve the representation of the Middle Solimões on maps.

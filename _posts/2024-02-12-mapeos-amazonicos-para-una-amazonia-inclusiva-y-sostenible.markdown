@@ -15,7 +15,7 @@ Country:
 - Peru
 ---
 
-### **[Versão em Português](https://www.hotosm.org/updates/mapeamentos-amazonicos-para-uma-amazonia-inclusiva-e-sustentavel/) / [English Version](https://www.hotosm.org/updates/amazonian-mapping-for-an-inclusive-and-sustainable-amazon/)**
+> ### **[Versão em Português](https://www.hotosm.org/updates/mapeamentos-amazonicos-para-uma-amazonia-inclusiva-e-sustentavel/) / [English Version](https://www.hotosm.org/updates/amazonian-mapping-for-an-inclusive-and-sustainable-amazon/)**
 
 Pocas cosas representan tan icónicamente a una región como la Amazonia: ocho países comparten el cuidado de una superficie donde se encuentra el 20% de las reservas de agua dulce a nivel mundial. La diversidad, riqueza y potencial de desarrollo de esta región es fuente de esperanza para las comunidades que allí la habitan, así como fuente de conflictos y desafíos  comunes a  la región y el mundo. Aquí nos encontramos con situaciones que ponen en riesgo la biodiversidad, la subsistencia y la seguridad de las comunidades locales. La deforestación, el cambio climático y las presiones económicas han generado un panorama complejo que demanda comprensión y acción.
 
@@ -26,7 +26,7 @@ Es crucial reconocer que la preservación, restauración y sostenibilidad de la 
 
 En este contexto, la iniciativa de mapeo de impacto social, "Mapeos Amazónicos" del Hub de Mapeo Abierto de Latinoamérica y el Caribe (LAC Hub), busca trazar los elementos construidos, usos de suelo y condiciones críticas del medio ambiente en la base de datos cartográficos libre y abierta OpenStreetMap (OSM), permitiendo que actores locales y especialistas hagan uso de esta información para entenderse los riesgos e impactos, e implementen acciones organizadas en su territorio.
 
-Los mapas están vivos, como los territorios de la selva y su población. A modo de ejemplo las comunidades que habitan en la rivera del Río Solimões, se mudan sistemáticamente fruto de su estilo de vida, el deslizamiento de la tierra y potenciales amenazas por parte de usurpadores de tierras. Estas comunidades enfrentan situaciones difíciles, que requieren de la ayuda de Defensa Civil, entre otros actores, que requieren información geográfica precisa.
+Los mapas están vivos, como los territorios de la selva y su población. A modo de ejemplo las comunidades que habitan en la rivera del Río Solimões, se mudan sistemáticamente fruto de su estilo de vida, el deslizamiento de la tierra y potenciales amenazas por parte de usurpadores de tierras. Estas comunidades enfrentan situaciones difíciles, que requieren de la ayuda de Defensa Civil, entre otros actores, y que demandan información geográfica precisa.
 
 Para enfrentar el “vacío cartográfico”, especialmente en lo que respecta a la distribución de estas poblaciones y las amenazas que enfrentan, estamos trabajando. Por ello, la iniciativa fomentará el intercambio de conocimientos y la capacitación técnica en mapeo y uso de datos espaciales entre comunidades y diversos actores comprometidos en la preservación y sostenibilidad de la Amazonía. Una cartografía detallada y exhaustiva de la región permitirá ampliar la visibilidad y facilitar el acceso a toda la información para el sector defensor de la Amazonía.
 
