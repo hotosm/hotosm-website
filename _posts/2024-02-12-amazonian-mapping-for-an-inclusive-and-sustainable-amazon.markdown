@@ -29,7 +29,8 @@ To address the "cartographic void," especially regarding the distribution of the
 
 On the occasion of the International Day of the Amazon, on February 12, we are launching the "Amazonian Mapping" initiative, aimed to close the cartographic gap in the region, promoting the use of mapping for social impact in service of the region. This initiative begins on this symbolic day, but its focus is long-term. We start with projects focused on identified needs of communities and governments as a starting point to continue mapping the entire region later on.
 
-# ** Get to Know Our Amazonian Mapping Projects**
+# **Get to Know Our Amazonian Mapping Projects**
+
 ## **Flood Risk Monitoring in Tefe**
 ![Tefe - Mapeos Amazónicos - HOT.jpg](/uploads/Tefe%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
