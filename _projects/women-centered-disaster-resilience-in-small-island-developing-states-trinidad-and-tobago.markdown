@@ -23,7 +23,10 @@ Duration:
   End Date: 2023-06-30 00:00:00 Z
 ---
 
-Trinidad and Tobago, a small island developing state (SIDS) in the Caribbean region, The heavy rains in this season are concentrated in a short time period and usually result in major flooding throughout the country, which has had a significant economic and social impact in the country throughout the years.
+The vulnerabilities of men and women differ during the disaster-management cycle as women and girls are less likely than men to have life-saving skills during a natural disaster. Further, little attention is paid to women’s needs in emergency-relief attempts in terms of privacy, personal hygiene, and sanitation. 
+While women and girls have been recognized as a “vulnerable” group, their capacities to respond to events and to be drivers of risk reduction are less recognized. Building women’s and girls’ resources for resilience will help reduce future disaster impact. 
+
+With this in mind, the GIS Society of Trinidad and Tobago (GISSTT) launched the Women-Centered Disaster Resilience in SIDS (WCDR in SIDS) Program to educate a female-led organization in the use of GIS technology and concepts to increase their capacity to respond to natural disasters and other crises. Trinidad and Tobago, a small island developing state (SIDS) in the Caribbean region, experiences major flooding events throughout the country during its rainy season, which has had a significant economic and social impact throughout the years.
 
 The Penal/Debe region is one of many areas affected by flooding during the rainy season. Flooding in this area is due to high amounts and high rainfall intensity, soil type, and runoff capacity, as well as man-made causes such as deforestation, slash and burn, poor land practices, urbanization, and improper waste disposal. The region is susceptible to riverine and flash flooding. 
 
