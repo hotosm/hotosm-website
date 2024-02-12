@@ -69,7 +69,7 @@ Este es un esfuerzo continuo y con enfoque sistemático que nos permitirá ofrec
 
 En articulación con las autoridades encargadas de la gestión de riesgos en Ecuador, Colombia y Brasil, hemos identificado las áreas más vulnerables en el primer trimestre de 2024 para estos países, muchas de las cuales están relacionadas con sequías extremas causadas por el fenómeno del Niño en zonas boscosas. Por ello, lanzamos proyectos de mapeo en el Tasking Manager de HOT.
 
-En el marco del Día Internacional de la Amazonía, el 12 de febrero de 2024, invitamos a la comunidad de personas mapeadoras en general a participar en estos proyectos explorando los que están publicados en el **Tasking Manager con el tag #mapeo_amazonico**. Es un llamado a la acción para contribuir en estos proyectos que son vitales para la preparación ante riesgos. 
+En el marco del Día Internacional de la Amazonía, el 12 de febrero de 2024, invitamos a la comunidad de personas mapeadoras en general a participar en estos proyectos explorando los que están publicados en el **[Tasking Manager con el tag #mapeo_amazonico](https://tasks.hotosm.org/explore?campaign=Mapeos%20Amaz%C3%B3nicos)**. Es un llamado a la acción para contribuir en estos proyectos que son vitales para la preparación ante riesgos. 
 
 > ###  **[¡Súmate por una Amazonía resiliente e inclusiva!](https://tasks.hotosm.org/explore?campaign=Mapeos%20Amaz%C3%B3nicos) Tu contribución es crucial para prepararnos ante los desafíos que enfrenta esta invaluable región.**
 
