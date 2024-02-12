@@ -30,9 +30,9 @@ No âmbito do Dia Internacional da Amazônia, em 12 de fevereiro, estamos lança
 ![Mapeamentos  Amazônicos Webinar Póster.jpg](/uploads/Mapeamentos%20%20Amazo%CC%82nicos%20Webinar%20Po%CC%81ster.jpg)
 
 
-**# Conheça nossos Mapeamentos Amazônicos**
+# **Conheça nossos Mapeamentos Amazônicos**
 
-**## Monitoramento de risco de inundação em Tefé**
+## **Monitoramento de risco de inundação em Tefé**
 ![Tefe - Mapeos Amazónicos - HOT.jpg](/uploads/Tefe%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
 Tefé é uma das últimas cidades habitadas nas fronteiras da Amazônia brasileira. O município não é acessível por terra, e aos desafios de acesso somam-se outros, como a extrema pobreza, a exclusão dos serviços públicos de parte de sua população indígena e os desafios impostos pelo impacto das mudanças climáticas. Grande parte da comunidade que vive nos arredores de Tefé não está representada nos mapas, e, portanto, as autoridades não conseguem alcançá-la. Além disso, a erosão causada pelo desmatamento é um problema crítico que requer monitoramento constante.
@@ -45,7 +45,7 @@ A comunidade de Tefé adaptou manuais e diretrizes ao seu contexto local, utiliz
 
 Por outro lado, as equipes da Universidade Federal de São João del-Rei e da UEA desenvolveram tecnologia que permite obter informações geográficas de alta qualidade, utilizando sistemas que não dependem de conexão com a internet e drones. Essas informações podem ser então incorporadas ao OpenStreetMap e, consequentemente, melhorar a qualidade dos mapas globalmente.
 
-**## Mapeamento Colaborativo e Inclusivo no Médio Solimões**
+## **Mapeamento Colaborativo e Inclusivo no Médio Solimões**
 ![Médio Solimões - Mapeos Amazónicos - HOT.jpg](/uploads/Me%CC%81dio%20Solimo%CC%83es%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
 Unindo esforços, pesquisadores da Universidade Federal de São João del-Rei, do Centro de Estudos Superiores de Tefé e do Hub de América Latina e Caribe da HOT estão trabalhando para completar os mapas da região amazônica por meio do uso da plataforma OpenStreetMap (OSM) e da capacitação das comunidades locais em tecnologias acessíveis para monitorar as mudanças climáticas.
@@ -54,7 +54,7 @@ Nossa estratégia inclui seminários, oficinas, coleta de dados de campo e voos 
 
 Destacamos o compromisso local e a colaboração como pilares fundamentais para enfrentar os desafios cartográficos na Amazônia brasileira. Além de preencher as lacunas nos mapas, buscamos fortalecer as comunidades locais, preservar a diversidade cultural e ambiental e contribuir para o desenvolvimento sustentável na região. Nosso enfoque envolve o processamento e análise dos dados coletados, a atualização do OSM e a disseminação dos resultados para inspirar iniciativas semelhantes em outras regiões da Amazônia e globalmente.
 
-**## Avançando nossas parcerias com a Proteção Civil**
+## **Avançando nossas parcerias com a Proteção Civil**
 ![Proteção Civil - Mapeos Amazónicos - HOT.jpg](/uploads/Protec%CC%A7a%CC%83o%20Civil%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
 Na América Latina, contamos com uma variedade de redes e atores dedicados à gestão de riscos. Nosso objetivo é consolidar nossa posição como um ator confiável na melhoria da informação para a gestão de riscos e desastres em toda a região e um mapeamento progressivo das áreas vulneráveis, preenchendo as lacunas na cartografia oficial disponível. Essas informações serão essenciais para essas organizações e seu uso é parte de nossos objetivos centrais.
@@ -63,7 +63,7 @@ Nesse sentido, estamos interessados em fortalecer nossas relações com aliados 
 
 Este é um esforço contínuo e sistemático que nos permitirá oferecer respostas mais eficazes, antecipatórias e com visão comunitária aos desafios apresentados pela gestão de riscos na América Latina. Não adotamos uma estratégia pontual, mas estabelecemos conexões em toda a região de forma individual e sistemática. Estamos comprometidos em trabalhar juntos para garantir a segurança e o bem-estar de nossas comunidades em toda a região.
 
-**## Mapeamentos antecipatórios de áreas de risco na Amazônia**
+## **Mapeamentos antecipatórios de áreas de risco na Amazônia**
 ![Mapeos Amazónicos - Português.gif](/uploads/Mapeos%20Amazo%CC%81nicos%20-%20Portugue%CC%82s.gif)
 
 Em articulação com as autoridades responsáveis pela gestão de riscos no Equador, Colômbia e Brasil, identificamos as áreas mais vulneráveis no primeiro trimestre de 2024 para esses países, muitas das quais estão relacionadas a secas extremas causadas pelo fenômeno El Niño em áreas florestais. Por isso, [lançamos projetos de mapeamento no Tasking Manager da HOT](https://bit.ly/MapeosAmazonicos).
@@ -72,17 +72,15 @@ No âmbito do Dia Internacional da Amazônia, em 11 de fevereiro de 2024, convid
 
 ****Junte-se a nós por uma Amazônia resiliente e inclusiva! Sua contribuição é crucial para nos prepararmos para os desafios enfrentados por esta região inestimável.****
 
-> Campanha: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)
-
-> Projetos:
-> Brasil: 
+### Campanha: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)
+**Projetos Brasil:**
 * [**#16083:**](https://tasks.hotosm.org/projects/16083): Anori, Amazonas
 * [**#16084:**](https://tasks.hotosm.org/projects/16084): Codájas, Amazonas
 * [**#16085:**](https://tasks.hotosm.org/projects/16085) Coari, Amazonas
->Colômbia:
+**Projetos Colômbia:**
 * [**#16122:**](https://tasks.hotosm.org/projects/16122) Orito, Putumayo
 * [**#16123:**](https://tasks.hotosm.org/projects/16123) Puerto Asís, Putumayo
->Equador: 
+**Projetos Equador:**
 * [**#16124:**](https://tasks.hotosm.org/projects/16124) Nueva Loja, Sucumbios
 * [**#16125:**](https://tasks.hotosm.org/projects/16125) Pacayu,  Sucumbios
 
@@ -92,7 +90,7 @@ Além dos mapeamentos detalhados de áreas povoadas no Tasking Manager, abrimos 
 
 Convidamos qualquer pessoa que queira contribuir mapeando em seu celular nos momentos livres a instalar o aplicativo [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US) e buscar lá os projetos amazônicos.
 
-## Projetos Comunitários em Desenvolvimento
+## **Projetos Comunitários em Desenvolvimento**
 ![Johnattan Rupire - Mapeos Amazonicos.png](/uploads/Johnattan%20Rupire%20-%20Mapeos%20Amazonicos.png)
 Além do mapeamento remoto da Amazônia realizado pelas comunidades globais de OSM em colaboração com outras organizações, estamos conduzindo vários projetos comunitários com aliados locais.
 
@@ -106,6 +104,6 @@ Da mesma forma, no Equador, fortaleceremos as atividades de gestão de riscos em
 
 Se sua organização faz parte deste setor ou é uma organização comunitária na Amazônia que trabalha em questões de gestão territorial, entre em contato conosco!
 
-## Nossa visão de longo prazo
+## **Nossa visão de longo prazo**
 
 Este é o início de nosso trabalho sistemático na Amazônia, baseado na premissa de que as comunidades podem usar dados geográficos para melhorar suas condições de vida, preservar seu ambiente e proteger seus direitos. Para acessar esses dados, as comunidades precisam ter as capacidades adequadas, inovar na forma como utilizam ferramentas concebidas para outros contextos e usar de forma sustentável essas ferramentas. O OSM, um verdadeiro bem público digital, pode ser usado para esses fins. Buscamos desenvolver metodologias flexíveis para permitir que as populações desta região, diversa, rica e marcada pela desigualdade, conheçam seu próprio território e usem essas informações para viver de forma resistente e sustentável nele. É um trabalho de longo prazo, em uma região complexa, e não faremos isso sozinhos. Acreditamos e buscamos a cooperação de todas as organizações públicas, privadas e internacionais que acreditam no poder dos dados abertos para contribuir para a proteção e desenvolvimento de uma das áreas mais emblemáticas e importantes de nossa região.
