@@ -45,7 +45,7 @@ La comunidad de Tefé adoptó manuales y pautas a su contexto local, utilizando 
 Por otro lado, los equipos de la Universidad Federal de São João del-Rei y la UEA desarrollaron tecnología que permite obtener información geográfica de muy buena calidad, utilizando sistemas que no dependan de su conexión a internet y drones. Esta información puede ser luego volcada a OSM y, consecuentemente, mejorar la calidad de los mapas a nivel global.
 
 ## **Mapeo Colaborativo e Inclusivo en el Medio Solimões**
-![Médio Solimões - Mapeos Amazónicos - HOT.jpg](/uploads/Me%CC%81dio%20Solimo%CC%83es%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
+![Médio Solimões - Mapeos Amazónicos - HOT-1efddc.jpg](/uploads/Me%CC%81dio%20Solimo%CC%83es%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT-1efddc.jpg)
 
 Uniendo esfuerzos, investigadores de la Universidad Federal de São João del-Rei, el Centro de Estudios Superiores de Tefé y el LAC Hub trabajan para completar los mapas de la región amazónica mediante el uso de la plataforma OpenStreetMap (OSM) y la capacitación de las comunidades locales en tecnologías asequibles para monitorear el cambio climático.
 
