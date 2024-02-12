@@ -23,7 +23,7 @@ Duration:
   End Date: 2023-06-30 00:00:00 Z
 ---
 
-The vulnerabilities of men and women differ during the disaster-management cycle as women and girls are less likely than men to have life-saving skills during a natural disaster. Further, little attention is paid to women’s needs in emergency-relief attempts in terms of privacy, personal hygiene, and sanitation. 
+Trinidad and Tobago, a small island developing state (SIDS) in the Caribbean region, experiences major flooding events throughout the country during its rainy season, which has had a significant economic and social impact throughout the years. Among those impacts, we find that there are unequal distributions in terms of gender, as women and girls are less likely than men to have life-saving skills during a natural disaster, little attention is paid totheir needs in emergency relief attempts regarding privacy, personal hygiene, and sanitation. 
 While women and girls have been recognized as a “vulnerable” group, their capacities to respond to events and to be drivers of risk reduction are less recognized. Building women’s and girls’ resources for resilience will help reduce future disaster impact. 
 
 With this in mind, the GIS Society of Trinidad and Tobago (GISSTT) launched the Women-Centered Disaster Resilience in SIDS (WCDR in SIDS) Program to educate a female-led organization in the use of GIS technology and concepts to increase their capacity to respond to natural disasters and other crises. Trinidad and Tobago, a small island developing state (SIDS) in the Caribbean region, experiences major flooding events throughout the country during its rainy season, which has had a significant economic and social impact throughout the years.
@@ -109,11 +109,6 @@ Suggested Media (optional)
 Image of people doing data collection, map of data added to OSM (recommended), maps used in project, links to external products etc 
 
 Call to action (optional)
-
-
-
-
-
 
 Upon conclusion of the GMDR Project, all trainees were made honorary Student Members of the GISSTT. They have access to information and resources to assist them in their School Based Assessments (SBAs) and future projects. The PGHC will also embark upon a “train the trainer” program in which Ms. Bhimsingh will introduce GIS applications and Tasking Manager to other teachers at the school with the intention of incorporating GIS into the school’s curriculum. 
 
