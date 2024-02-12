@@ -64,7 +64,7 @@ En ese sentido, nos interesa fortalecer nuestras relaciones con aliados locales 
 
 Este es un esfuerzo continuo y con enfoque sistemático que nos permitirá ofrecer respuestas más efectivas, anticipatorias y con visión comunitaria ante los desafíos que presenta la gestión de riesgos en América Latina. No adoptamos una estrategia eventual, sino que establecemos los enlaces en toda la región de manera individual y sistemática. Estamos comprometidos en trabajar juntos para garantizar la seguridad y el bienestar de nuestras comunidades en toda la región.
 
-## **Mapeos anticipatorios de la zonas de riesgo de la Amazonía**
+## **Mapeos Anticipatorios de la Zonas de Riesgo de la Amazonía**
 ![Mapeo Amazónico - Español 8.jpg](/uploads/Mapeo%20Amazo%CC%81nico%20-%20Espan%CC%83ol%208.jpg)
 
 En articulación con las autoridades encargadas de la gestión de riesgos en Ecuador, Colombia y Brasil, hemos identificado las áreas más vulnerables en el primer trimestre de 2024 para estos países, muchas de las cuales están relacionadas con sequías extremas causadas por el fenómeno del Niño en zonas boscosas. Por ello, lanzamos proyectos de mapeo en el Tasking Manager de HOT.
@@ -106,6 +106,6 @@ De manera similar, en Ecuador, fortaleceremos las labores de gestión de riesgo 
 
 > ### **Si tu organización forma parte de este sector o es una organización comunitaria en la Amazonía que trabaja en temas de gestión territorial, [¡contáctanos!](mailto:hublac@hotosm.org)**
 
-## **Nuestra visión a largo plazo**
+## **Nuestra Visión a Largo Plazo**
 
 Este es el comienzo de nuestro trabajo sistemático en la Amazonia, basados en la premisa que las comunidades pueden tomar los datos geográficos para mejorar sus condiciones de vida, preservar su ambiente y proteger sus derechos. Para tomar estos datos, las comunidades necesitan tener las capacidades adecuadas, innovar en la forma en que utilizan herramientas pensadas para otros contextos y utilizar de forma sostenible las mismas. OSM, un auténtico bien público digital, puede ser utilizado con estos fines. Buscamos desarrollar metodologías flexibles para lograr que las poblaciones de esta región, diversa, rica y marcada por la desigualdad, puedan conocer su propio territorio y utilizar esta información para vivir de forma resistente y sostenible en él. Es un trabajo de larga duración, en una región compleja, y que no haremos en soledad. Creemos y buscamos la cooperación con todas las organizaciones públicas, privadas e internacionales que crean en el poder de los datos abiertos para aportar a la protección y desarrollo del área de uno de los lugares más emblemáticos e importantes de nuestra región.
