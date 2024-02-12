@@ -69,9 +69,9 @@ Em articulação com as autoridades responsáveis pela gestão de riscos no Equa
 
 No âmbito do Dia Internacional da Amazônia, em 11 de fevereiro de 2024, convidamos a comunidade de mapeadores em geral a participar desses projetos explorando os que estão publicados no Tasking Manager com a tag #mapeo_amazonico. É um chamado à ação para contribuir nesses projetos que são vitais para a preparação para os riscos.
 
-> ## **Junte-se a nós por uma Amazônia resiliente e inclusiva! Sua contribuição é crucial para nos prepararmos para os desafios enfrentados por esta região inestimável.**
+> ### **Junte-se a nós por uma Amazônia resiliente e inclusiva! Sua contribuição é crucial para nos prepararmos para os desafios enfrentados por esta região inestimável.**
 
-### **Campanha Tasking Manager: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)**
+# **Campanha Tasking Manager: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)**
 ### **Projetos Brasil:**
 * [**#16083:**](https://tasks.hotosm.org/projects/16083) Anori, Amazonas
 * [**#16084:**](https://tasks.hotosm.org/projects/16084) Codájas, Amazonas
@@ -87,7 +87,7 @@ Nossa estratégia para os próximos dois anos consiste em priorizar o mapeamento
 
 Além dos mapeamentos detalhados de áreas povoadas no Tasking Manager, abrimos uma série de projetos em aplicativos móveis como o [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US). Esses projetos envolvem grandes comunidades de mapeadores para monitorar a selva e as intervenções que podem ser observadas, como áreas desmatadas, cultivadas ou exploradas de qualquer forma.
 
-> ## **Convidamos qualquer pessoa que queira contribuir mapeando em seu celular nos momentos livres a instalar o aplicativo [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US) e buscar lá os projetos amazônicos.**
+> ### **Convidamos qualquer pessoa que queira contribuir mapeando em seu celular nos momentos livres a instalar o aplicativo [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US) e buscar lá os projetos amazônicos.**
 
 ## **Projetos Comunitários em Desenvolvimento**
 ![Johnattan Rupire - Mapeos Amazonicos.png](/uploads/Johnattan%20Rupire%20-%20Mapeos%20Amazonicos.png)
@@ -103,7 +103,7 @@ Em Pucallpa, Peru, estamos estabelecendo as bases para um grupo de mapeadores lo
 
 Da mesma forma, no Equador, fortaleceremos as atividades de gestão de riscos em cidades amazônicas como Nueva Loja, Tena, Puyo e Macas, através da criação de novas comunidades de mapeadores em colaboração com as secretarias de gestão de riscos locais e organizações da sociedade civil.
 
-> ## **Se sua organização faz parte deste setor ou é uma organização comunitária na Amazônia que trabalha em questões de gestão territorial, entre em contato conosco!**
+> ### **Se sua organização faz parte deste setor ou é uma organização comunitária na Amazônia que trabalha em questões de gestão territorial, [entre em contato conosco](mailto:hublac@hotosm.org)!**
 
 ## **Nossa visão de longo prazo**
 
