@@ -17,6 +17,9 @@ Country:
 
 Pocas cosas representan tan icónicamente a una región como la Amazonia: ocho países comparten el cuidado de una superficie donde se encuentra el 20% de las reservas de agua dulce a nivel mundial. La diversidad, riqueza y potencial de desarrollo de esta región es fuente de esperanza para las comunidades que allí la habitan, así como fuente de conflictos y desafíos  comunes a  la región y el mundo. Aquí nos encontramos con situaciones que ponen en riesgo la biodiversidad, la subsistencia y la seguridad de las comunidades locales. La deforestación, el cambio climático y las presiones económicas han generado un panorama complejo que demanda comprensión y acción.
 
+![Amazon river in Brazil.jpg](/uploads/Amazon%20river%20in%20Brazil.jpg)
+
+
 Es crucial reconocer que la preservación, restauración y sostenibilidad de la región amazónica no solo es vital para América Latina, sino que también representa un desafío crítico a escala global en la lucha contra el cambio climático. La Amazonía es hogar de comunidades cuya supervivencia está estrechamente ligada a la selva tropical. La selva es un ecosistema integrado y los seres humanos son parte del mismo, pudiendo su actividad favorecer al desarrollo sostenible del mundo, o contribuir a su desaparición.
 
 En este contexto, la iniciativa de mapeo de impacto social, "Mapeos Amazónicos" del Hub de Mapeo Abierto de Latinoamérica y el Caribe (LAC Hub), busca trazar los elementos construidos, usos de suelo y condiciones críticas del medio ambiente en la base de datos cartográficos libre y abierta OpenStreetMap (OSM), permitiendo que actores locales y especialistas hagan uso de esta información para entenderse los riesgos e impactos, e implementen acciones organizadas en su territorio.
@@ -26,8 +29,6 @@ Los mapas están vivos, como los territorios de la selva y su población. A modo
 Para enfrentar el “vacío cartográfico”, especialmente en lo que respecta a la distribución de estas poblaciones y las amenazas que enfrentan, estamos trabajando. Por ello, la iniciativa fomentará el intercambio de conocimientos y la capacitación técnica en mapeo y uso de datos espaciales entre comunidades y diversos actores comprometidos en la preservación y sostenibilidad de la Amazonía. Una cartografía detallada y exhaustiva de la región permitirá ampliar la visibilidad y facilitar el acceso a toda la información para el sector defensor de la Amazonía.
 
 En el marco del Día Internacional de la Amazonía, el 12 de febrero, estamos lanzando la iniciativa "Mapeos Amazónicos", que tiene como objetivo cerrar la brecha cartográfica en la región, fomentando el uso del mapeo para el impacto social al servicio de la región. Esta iniciativa arranca en este día simbólico, sin embargo su enfoque se dirige hacia el largo plazo. Iniciamos con proyectos focalizados hacia necesidades identificadas de comunidades y gobiernos, como punto de partida para continuar más adelante hasta mapear toda la región.
-
-![Amazon river in Brazil.jpg](/uploads/Amazon%20river%20in%20Brazil.jpg)
 
 # **Conoce nuestros Mapeos Amazónicos**
 
