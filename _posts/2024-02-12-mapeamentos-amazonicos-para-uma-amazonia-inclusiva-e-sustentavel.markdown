@@ -63,7 +63,7 @@ Nesse sentido, estamos interessados em fortalecer nossas relações com aliados 
 Este é um esforço contínuo e sistemático que nos permitirá oferecer respostas mais eficazes, antecipatórias e com visão comunitária aos desafios apresentados pela gestão de riscos na América Latina. Não adotamos uma estratégia pontual, mas estabelecemos conexões em toda a região de forma individual e sistemática. Estamos comprometidos em trabalhar juntos para garantir a segurança e o bem-estar de nossas comunidades em toda a região.
 
 ## **Mapeamentos antecipatórios de áreas de risco na Amazônia**
-![Mapeos Amazónicos - Português.gif](/uploads/Mapeos%20Amazo%CC%81nicos%20-%20Portugue%CC%82s.gif)
+![Tasking Manager - Português 1.jpg](/uploads/Tasking%20Manager%20-%20Portugue%CC%82s%201.jpg)
 
 Em articulação com as autoridades responsáveis pela gestão de riscos no Equador, Colômbia e Brasil, identificamos as áreas mais vulneráveis no primeiro trimestre de 2024 para esses países, muitas das quais estão relacionadas a secas extremas causadas pelo fenômeno El Niño em áreas florestais. Por isso, [lançamos projetos de mapeamento no Tasking Manager da HOT](https://bit.ly/MapeosAmazonicos).
 

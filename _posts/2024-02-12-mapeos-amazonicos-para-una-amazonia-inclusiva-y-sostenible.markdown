@@ -69,6 +69,7 @@ En el marco del Día Internacional de la Amazonía, el 12 de febrero de 2024, in
 ****¡Súmate por una Amazonía resiliente e inclusiva! Tu contribución es crucial para prepararnos ante los desafíos que enfrenta esta invaluable región.****
 
 > Campaña: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)
+![Mapeo Amazónico - Español 8.jpg](/uploads/Mapeo%20Amazo%CC%81nico%20-%20Espan%CC%83ol%208.jpg)
 
 ### **Projetos Brasil:**
 * [**#16083:**](https://tasks.hotosm.org/projects/16083): Anori, Amazonas
