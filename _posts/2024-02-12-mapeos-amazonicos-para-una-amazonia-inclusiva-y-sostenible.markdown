@@ -68,17 +68,15 @@ En el marco del Día Internacional de la Amazonía, el 12 de febrero de 2024, in
 
 ****¡Súmate por una Amazonía resiliente e inclusiva! Tu contribución es crucial para prepararnos ante los desafíos que enfrenta esta invaluable región.****
 
-### **Campaña: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)**
-### **Projetos Brasil:**
-* [**#16083:**](https://tasks.hotosm.org/projects/16083): Anori, Amazonas
-* [**#16084:**](https://tasks.hotosm.org/projects/16084): Codájas, Amazonas
+### **Campaña Tasking Manager: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)**
+### **Proyectos Brasil:**
+* [**#16083:**](https://tasks.hotosm.org/projects/16083) Anori, Amazonas
+* [**#16084:**](https://tasks.hotosm.org/projects/16084) Codájas, Amazonas
 * [**#16085:**](https://tasks.hotosm.org/projects/16085) Coari, Amazonas
-
-### **Projetos Colombia:**
+### **Proyectos Colombia:**
 * [**#16122:**](https://tasks.hotosm.org/projects/16122) Orito, Putumayo
 * [**#16123:**](https://tasks.hotosm.org/projects/16123) Puerto Asís, Putumayo
-
-### **Projetos Ecuador:**
+### **Proyectos Ecuador:**
 * [**#16124:**](https://tasks.hotosm.org/projects/16124) Nueva Loja, Sucumbios
 * [**#16125:**](https://tasks.hotosm.org/projects/16125) Pacayu,  Sucumbios
 
