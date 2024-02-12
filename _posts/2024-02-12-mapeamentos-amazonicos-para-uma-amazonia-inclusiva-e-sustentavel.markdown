@@ -17,6 +17,9 @@ Country:
 
 Poucas coisas representam tão iconicamente uma região quanto a Amazônia: oito países compartilham a responsabilidade de cuidar de uma área que abriga 20% das reservas de água doce do mundo. A diversidade, riqueza e potencial de desenvolvimento desta região são fontes de esperança para as comunidades que lá vivem, mas também trazem consigo conflitos e desafios comuns à região e ao mundo. Aqui nos deparamos com situações que colocam em risco a biodiversidade, a subsistência e a segurança das comunidades locais. O desmatamento, as mudanças climáticas e as pressões econômicas têm gerado um panorama complexo que exige compreensão e ação.
 
+![Amazon river in Brazil.jpg](/uploads/Amazon%20river%20in%20Brazil.jpg)
+
+
 É crucial reconhecer que a preservação, restauração e sustentabilidade da região amazônica não são apenas vitais para a América Latina, mas também representam um desafio crítico em escala global na luta contra as mudanças climáticas. A Amazônia é o lar de comunidades cuja sobrevivência está intimamente ligada à floresta tropical. A floresta é um ecossistema integrado e os seres humanos fazem parte dele, podendo sua atividade contribuir para o desenvolvimento sustentável do mundo ou para sua destruição.
 
 Nesse contexto, a iniciativa de mapeamento de impacto social "Mapeamentos Amazônicos" do Hub de Mapeamento Aberto da América Latina e do Caribe busca mapear os elementos construídos, os usos da terra e as condições críticas do meio ambiente no banco de dados cartográficos abertos e livres OpenStreetMap (OSM), permitindo que atores locais e especialistas utilizem essas informações para entender os riscos e impactos e implementem ações organizadas em seus territórios.
@@ -26,8 +29,6 @@ Os mapas estão vivos, assim como os territórios da selva e sua população. Co
 Para enfrentar o "vazio cartográfico", especialmente no que diz respeito à distribuição dessas populações e às ameaças que enfrentam, estamos trabalhando. Por isso, a iniciativa promoverá a troca de conhecimentos e capacitação técnica em mapeamento e uso de dados espaciais entre comunidades e diversos atores comprometidos com a preservação e sustentabilidade da Amazônia. Um mapeamento detalhado e abrangente da região permitirá ampliar a visibilidade e facilitar o acesso a todas as informações para o setor defensor da Amazônia.
 
 No âmbito do Dia Internacional da Amazônia, em 12 de fevereiro, estamos lançando a iniciativa "Mapeamentos Amazônicos", que tem como objetivo fechar a lacuna cartográfica na região, promovendo o uso do mapeamento para o impacto social em prol da região. Esta iniciativa começa neste dia simbólico, mas seu foco está voltado para o longo prazo. Iniciamos com projetos focalizados nas necessidades identificadas das comunidades e governos, como ponto de partida para continuar mapeando toda a região.
-
-![Amazon river in Brazil.jpg](/uploads/Amazon%20river%20in%20Brazil.jpg)
 
 # **Conheça nossos Mapeamentos Amazônicos**
 
