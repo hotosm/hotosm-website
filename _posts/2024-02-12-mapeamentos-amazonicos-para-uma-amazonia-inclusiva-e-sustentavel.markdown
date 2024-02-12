@@ -72,7 +72,7 @@ No âmbito do Dia Internacional da Amazônia, em 11 de fevereiro de 2024, convid
 
 ****Junte-se a nós por uma Amazônia resiliente e inclusiva! Sua contribuição é crucial para nos prepararmos para os desafios enfrentados por esta região inestimável.****
 
-### Campanha: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)
+### **Campanha: [Mapeos Amazónicos]**(https://bit.ly/MapeosAmazonicos)
 **Projetos Brasil:**
 * [**#16083:**](https://tasks.hotosm.org/projects/16083): Anori, Amazonas
 * [**#16084:**](https://tasks.hotosm.org/projects/16084): Codájas, Amazonas
