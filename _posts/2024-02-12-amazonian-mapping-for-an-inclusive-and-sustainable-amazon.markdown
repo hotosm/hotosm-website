@@ -7,6 +7,12 @@ Summary Text: Explore the Amazonian Mapping initiative, a project by the Open Ma
   to strengthen prevention, emergency management, sustainable forest management, and
   community resilience.
 Feature Image: "/uploads/Amazonian%20Mappings%20-%20English.jpg"
+Person: LAC Hub Team
+Country:
+- Brazil
+- Colombia
+- Ecuador
+- Peru
 ---
 
 Few things represent a region as iconically as the Amazon: eight countries share the care of an area where 20% of the world's freshwater reserves are found. The diversity, richness, and development potential of this region are a source of hope for the communities that inhabit it, as well as a source of conflicts and challenges common to the region and the world. Here, we face situations that jeopardize biodiversity, subsistence, and the security of local communities. Deforestation, climate change, and economic pressures have created a complex landscape that demands understanding and action.
