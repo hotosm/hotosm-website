@@ -29,7 +29,6 @@ No âmbito do Dia Internacional da Amazônia, em 12 de fevereiro, estamos lança
 
 ![Mapeamentos  Amazônicos Webinar Póster.jpg](/uploads/Mapeamentos%20%20Amazo%CC%82nicos%20Webinar%20Po%CC%81ster.jpg)
 
-
 # **Conheça nossos Mapeamentos Amazônicos**
 
 ## **Monitoramento de risco de inundação em Tefé**
