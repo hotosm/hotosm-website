@@ -60,7 +60,7 @@ En ese sentido, nos interesa fortalecer nuestras relaciones con aliados locales 
 Este es un esfuerzo continuo y con enfoque sistemático que nos permitirá ofrecer respuestas más efectivas, anticipatorias y con visión comunitaria ante los desafíos que presenta la gestión de riesgos en América Latina. No adoptamos una estrategia eventual, sino que establecemos los enlaces en toda la región de manera individual y sistemática. Estamos comprometidos en trabajar juntos para garantizar la seguridad y el bienestar de nuestras comunidades en toda la región.
 
 ## **Mapeos anticipatorios de la zonas de riesgo de la Amazonía**
-![Mapeos Amazónicos - Español.gif](/uploads/Mapeos%20Amazo%CC%81nicos%20-%20Espan%CC%83ol.gif)
+![Mapeo Amazónico - Español 8.jpg](/uploads/Mapeo%20Amazo%CC%81nico%20-%20Espan%CC%83ol%208.jpg)
 
 En articulación con las autoridades encargadas de la gestión de riesgos en Ecuador, Colombia y Brasil, hemos identificado las áreas más vulnerables en el primer trimestre de 2024 para estos países, muchas de las cuales están relacionadas con sequías extremas causadas por el fenómeno del Niño en zonas boscosas. Por ello, lanzamos proyectos de mapeo en el Tasking Manager de HOT.
 
@@ -69,8 +69,6 @@ En el marco del Día Internacional de la Amazonía, el 12 de febrero de 2024, in
 ****¡Súmate por una Amazonía resiliente e inclusiva! Tu contribución es crucial para prepararnos ante los desafíos que enfrenta esta invaluable región.****
 
 ### **Campaña: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)**
-![Mapeo Amazónico - Español 8.jpg](/uploads/Mapeo%20Amazo%CC%81nico%20-%20Espan%CC%83ol%208.jpg)
-
 ### **Projetos Brasil:**
 * [**#16083:**](https://tasks.hotosm.org/projects/16083): Anori, Amazonas
 * [**#16084:**](https://tasks.hotosm.org/projects/16084): Codájas, Amazonas
