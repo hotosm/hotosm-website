@@ -27,6 +27,8 @@ Para enfrentar o "vazio cartográfico", especialmente no que diz respeito à dis
 
 No âmbito do Dia Internacional da Amazônia, em 12 de fevereiro, estamos lançando a iniciativa "Mapeamentos Amazônicos", que tem como objetivo fechar a lacuna cartográfica na região, promovendo o uso do mapeamento para o impacto social em prol da região. Esta iniciativa começa neste dia simbólico, mas seu foco está voltado para o longo prazo. Iniciamos com projetos focalizados nas necessidades identificadas das comunidades e governos, como ponto de partida para continuar mapeando toda a região.
 
+![Amazon river in Brazil.jpg](/uploads/Amazon%20river%20in%20Brazil.jpg)
+
 # **Conheça nossos Mapeamentos Amazônicos**
 
 ## **Monitoramento de risco de inundação em Tefé**

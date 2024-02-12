@@ -27,6 +27,8 @@ Para enfrentar el “vacío cartográfico”, especialmente en lo que respecta a
 
 En el marco del Día Internacional de la Amazonía, el 12 de febrero, estamos lanzando la iniciativa "Mapeos Amazónicos", que tiene como objetivo cerrar la brecha cartográfica en la región, fomentando el uso del mapeo para el impacto social al servicio de la región. Esta iniciativa arranca en este día simbólico, sin embargo su enfoque se dirige hacia el largo plazo. Iniciamos con proyectos focalizados hacia necesidades identificadas de comunidades y gobiernos, como punto de partida para continuar más adelante hasta mapear toda la región.
 
+![Amazon river in Brazil.jpg](/uploads/Amazon%20river%20in%20Brazil.jpg)
+
 # **Conoce nuestros Mapeos Amazónicos**
 
 ## **Monitoreo del riesgo de inundación en Tefe**
