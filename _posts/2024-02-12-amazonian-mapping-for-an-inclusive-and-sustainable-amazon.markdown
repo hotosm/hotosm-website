@@ -15,7 +15,7 @@ Country:
 - Peru
 ---
 
-> ### **[Versión en Español](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/) / [Versão em Português](https://www.hotosm.org/updates/mapeamentos-amazonicos-para-uma-amazonia-inclusiva-e-sustentavel/)**
+### **[Versión en Español](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/) / [Versão em Português](https://www.hotosm.org/updates/mapeamentos-amazonicos-para-uma-amazonia-inclusiva-e-sustentavel/)**
 
 Few things represent a region as iconically as the Amazon: eight countries share the care of an area where 20% of the world's freshwater reserves are found. The diversity, richness, and development potential of this region are a source of hope for the communities that inhabit it, as well as a source of conflicts and challenges common to the region and the world. Here, we face situations that jeopardize biodiversity, subsistence, and the security of local communities. Deforestation, climate change, and economic pressures have created a complex landscape that demands understanding and action.
 
