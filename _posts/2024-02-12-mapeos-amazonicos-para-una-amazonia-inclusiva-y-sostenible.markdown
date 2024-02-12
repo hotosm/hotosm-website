@@ -68,9 +68,9 @@ En articulación con las autoridades encargadas de la gestión de riesgos en Ecu
 
 En el marco del Día Internacional de la Amazonía, el 12 de febrero de 2024, invitamos a la comunidad de personas mapeadoras en general a participar en estos proyectos explorando los que están publicados en el Tasking Manager con el tag #mapeo_amazonico. Es un llamado a la acción para contribuir en estos proyectos que son vitales para la preparación ante riesgos. 
 
-> ## **¡Súmate por una Amazonía resiliente e inclusiva! Tu contribución es crucial para prepararnos ante los desafíos que enfrenta esta invaluable región.**
+> #  **¡Súmate por una Amazonía resiliente e inclusiva! Tu contribución es crucial para prepararnos ante los desafíos que enfrenta esta invaluable región.**
 
-### **Campaña Tasking Manager: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)**
+## **Campaña Tasking Manager: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)**
 ### **Proyectos Brasil:**
 * [**#16083:**](https://tasks.hotosm.org/projects/16083) Anori, Amazonas
 * [**#16084:**](https://tasks.hotosm.org/projects/16084) Codájas, Amazonas
@@ -86,7 +86,7 @@ Nuestra estrategia para los próximos dos años consiste en priorizar el mapeo d
 
 Además de los mapeos detallados de zonas pobladas en el Tasking Manager, hemos abierto una serie de proyectos en aplicaciones móviles como [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US). Estos proyectos involucran a grandes comunidades de mapeadores para el monitoreo de la selva y las intervenciones que se pueden observar, como zonas deforestadas, cultivadas o explotadas de cualquier manera.
 
-> ## **Invitamos a toda persona que quiera contribuir mapeando desde su celular en momentos libres a instalar la aplicación [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US) y buscar allí los proyectos amazónicos.**
+> #  **Invitamos a toda persona que quiera contribuir mapeando desde su celular en momentos libres a instalar la aplicación [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US) y buscar allí los proyectos amazónicos.**
 
 ## **Proyectos Comunitarios en Desarrollo**
 ![Johnattan Rupire - Mapeos Amazonicos.png](/uploads/Johnattan%20Rupire%20-%20Mapeos%20Amazonicos.png)
