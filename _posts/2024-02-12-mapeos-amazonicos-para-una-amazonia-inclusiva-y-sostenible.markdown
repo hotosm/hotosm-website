@@ -101,7 +101,7 @@ En Pucallpa, Perú, estamos estableciendo las bases para un grupo de mapeadores 
 
 De manera similar, en Ecuador, fortaleceremos las labores de gestión de riesgo en ciudades amazónicas como Nueva Loja, Tena, Puyo y Macas, a través de la creación de nuevas comunidades de mapeadores en colaboración con las secretarías de gestión de riesgos locales y organizaciones de la sociedad civil.
 
-> ## **Si tu organización forma parte de este sector o es una organización comunitaria en la Amazonía que trabaja en temas de gestión territorial, ¡contáctanos!**
+> # **Si tu organización forma parte de este sector o es una organización comunitaria en la Amazonía que trabaja en temas de gestión territorial, [¡contáctanos!](mailto:hublac@hotosm.org)**
 
 ## **Nuestra visión a largo plazo**
 
