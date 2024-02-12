@@ -65,11 +65,12 @@ Este é um esforço contínuo e sistemático que nos permitirá oferecer respost
 
 **## Mapeamentos antecipatórios de áreas de risco na Amazônia**
 ![Mapeos Amazónicos - Português.gif](/uploads/Mapeos%20Amazo%CC%81nicos%20-%20Portugue%CC%82s.gif)
+
 Em articulação com as autoridades responsáveis pela gestão de riscos no Equador, Colômbia e Brasil, identificamos as áreas mais vulneráveis no primeiro trimestre de 2024 para esses países, muitas das quais estão relacionadas a secas extremas causadas pelo fenômeno El Niño em áreas florestais. Por isso, [lançamos projetos de mapeamento no Tasking Manager da HOT](https://bit.ly/MapeosAmazonicos).
 
 No âmbito do Dia Internacional da Amazônia, em 11 de fevereiro de 2024, convidamos a comunidade de mapeadores em geral a participar desses projetos explorando os que estão publicados no Tasking Manager com a tag #mapeo_amazonico. É um chamado à ação para contribuir nesses projetos que são vitais para a preparação para os riscos.
 
-Junte-se a nós por uma Amazônia resiliente e inclusiva! Sua contribuição é crucial para nos prepararmos para os desafios enfrentados por esta região inestimável.
+****Junte-se a nós por uma Amazônia resiliente e inclusiva! Sua contribuição é crucial para nos prepararmos para os desafios enfrentados por esta região inestimável.****
 
 > Campanha: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)
 
