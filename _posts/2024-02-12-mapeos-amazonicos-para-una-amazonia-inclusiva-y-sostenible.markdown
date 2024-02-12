@@ -27,9 +27,9 @@ Para enfrentar el “vacío cartográfico”, especialmente en lo que respecta a
 
 En el marco del Día Internacional de la Amazonía, el 12 de febrero, estamos lanzando la iniciativa "Mapeos Amazónicos", que tiene como objetivo cerrar la brecha cartográfica en la región, fomentando el uso del mapeo para el impacto social al servicio de la región. Esta iniciativa arranca en este día simbólico, sin embargo su enfoque se dirige hacia el largo plazo. Iniciamos con proyectos focalizados hacia necesidades identificadas de comunidades y gobiernos, como punto de partida para continuar más adelante hasta mapear toda la región.
 
-**# Conoce nuestros Mapeos Amazónicos**
+## **Conoce nuestros Mapeos Amazónicos**
 
-**## Monitoreo del riesgo de inundación en Tefe**
+## **Monitoreo del riesgo de inundación en Tefe**
 ![Tefe - Mapeos Amazónicos - HOT.jpg](/uploads/Tefe%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
 Tefé, es una de las últimas ciudades habitadas en las fronteras de la amazonia brasileña. El municipio no es accesible por tierra, y al difícil acceso se suman otros desafíos como la extrema pobreza, la exclusión de los servicios públicos de parte de su población de origen indígena, y los desafíos que plantea el impacto del cambio climático. Buena parte de la comunidad que vive en los alrededores de Tefé, no está representada en los mapas y por ende las autoridades no pueden llegar a ellas. Además, la erosión causada por la deforestación privada es un problema crítico que requiere monitoreo constante. 
@@ -41,7 +41,7 @@ La comunidad de Tefé adoptó manuales y pautas a su contexto local, utilizando 
 
 Por otro lado, los equipos de la Universidad Federal de São João del-Rei y la UEA desarrollaron tecnología que permite obtener información geográfica de muy buena calidad, utilizando sistemas que no dependan de su conexión a internet y drones. Esta información puede ser luego volcada a OSM y, consecuentemente, mejorar la calidad de los mapas a nivel global.
 
-**## Mapeo Colaborativo e Inclusivo en el Medio Solimões**
+## **Mapeo Colaborativo e Inclusivo en el Medio Solimões**
 ![Médio Solimões - Mapeos Amazónicos - HOT.jpg](/uploads/Me%CC%81dio%20Solimo%CC%83es%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
 Uniendo esfuerzos, investigadores de la Universidad Federal de São João del-Rei, el Centro de Estudios Superiores de Tefé y el LAC Hub trabajan para completar los mapas de la región amazónica mediante el uso de la plataforma OpenStreetMap (OSM) y la capacitación de las comunidades locales en tecnologías asequibles para monitorear el cambio climático.
@@ -59,7 +59,7 @@ En ese sentido, nos interesa fortalecer nuestras relaciones con aliados locales 
 
 Este es un esfuerzo continuo y con enfoque sistemático que nos permitirá ofrecer respuestas más efectivas, anticipatorias y con visión comunitaria ante los desafíos que presenta la gestión de riesgos en América Latina. No adoptamos una estrategia eventual, sino que establecemos los enlaces en toda la región de manera individual y sistemática. Estamos comprometidos en trabajar juntos para garantizar la seguridad y el bienestar de nuestras comunidades en toda la región.
 
-**## Mapeos anticipatorios de la zonas de riesgo de la Amazonía**
+## **Mapeos anticipatorios de la zonas de riesgo de la Amazonía**
 ![Mapeos Amazónicos - Español.gif](/uploads/Mapeos%20Amazo%CC%81nicos%20-%20Espan%CC%83ol.gif)
 
 En articulación con las autoridades encargadas de la gestión de riesgos en Ecuador, Colombia y Brasil, hemos identificado las áreas más vulnerables en el primer trimestre de 2024 para estos países, muchas de las cuales están relacionadas con sequías extremas causadas por el fenómeno del Niño en zonas boscosas. Por ello, lanzamos proyectos de mapeo en el Tasking Manager de HOT.
@@ -87,7 +87,7 @@ Además de los mapeos detallados de zonas pobladas en el Tasking Manager, hemos 
 
 **Invitamos a toda persona que quiera contribuir mapeando desde su celular en momentos libres a instalar la aplicación [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US) y buscar allí los proyectos amazónicos.**
 
-**## Proyectos Comunitarios en Desarrollo**
+## **Proyectos Comunitarios en Desarrollo**
 
 Además del mapeo remoto de la Amazonía realizado por las comunidades globales de OSM en colaboración con otras organizaciones, estamos llevando a cabo varios proyectos comunitarios con aliados locales.
 
