@@ -69,7 +69,7 @@ Em articulação com as autoridades responsáveis pela gestão de riscos no Equa
 
 No âmbito do Dia Internacional da Amazônia, em 11 de fevereiro de 2024, convidamos a comunidade de mapeadores em geral a participar desses projetos explorando os que estão publicados no Tasking Manager com a tag #mapeo_amazonico. É um chamado à ação para contribuir nesses projetos que são vitais para a preparação para os riscos.
 
-****Junte-se a nós por uma Amazônia resiliente e inclusiva! Sua contribuição é crucial para nos prepararmos para os desafios enfrentados por esta região inestimável.****
+### **Junte-se a nós por uma Amazônia resiliente e inclusiva! Sua contribuição é crucial para nos prepararmos para os desafios enfrentados por esta região inestimável.**
 
 ### **Campanha: [Mapeos Amazónicos]**(https://bit.ly/MapeosAmazonicos)
 **Projetos Brasil:**
