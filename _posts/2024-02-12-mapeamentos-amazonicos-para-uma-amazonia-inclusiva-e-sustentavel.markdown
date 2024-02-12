@@ -97,6 +97,8 @@ Convidamos qualquer pessoa que queira contribuir mapeando em seu celular nos mom
 
 ## **Projetos Comunitários em Desenvolvimento**
 ![Johnattan Rupire - Mapeos Amazonicos.png](/uploads/Johnattan%20Rupire%20-%20Mapeos%20Amazonicos.png)
+
+
 Além do mapeamento remoto da Amazônia realizado pelas comunidades globais de OSM em colaboração com outras organizações, estamos conduzindo vários projetos comunitários com aliados locais.
 
 Nosso objetivo é ensinar o uso da cartografia a comunidades rurais e indígenas da Amazônia, bem como a grupos universitários e à sociedade civil de cidades amazônicas. Trabalharemos com esses grupos para construir mapas adaptados às suas necessidades de gestão territorial.

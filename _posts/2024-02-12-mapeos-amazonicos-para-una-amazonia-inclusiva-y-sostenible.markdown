@@ -90,6 +90,7 @@ Además de los mapeos detallados de zonas pobladas en el Tasking Manager, hemos 
 **Invitamos a toda persona que quiera contribuir mapeando desde su celular en momentos libres a instalar la aplicación [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US) y buscar allí los proyectos amazónicos.**
 
 ## **Proyectos Comunitarios en Desarrollo**
+![Johnattan Rupire - Mapeos Amazonicos.png](/uploads/Johnattan%20Rupire%20-%20Mapeos%20Amazonicos.png)
 
 Además del mapeo remoto de la Amazonía realizado por las comunidades globales de OSM en colaboración con otras organizaciones, estamos llevando a cabo varios proyectos comunitarios con aliados locales.
 
