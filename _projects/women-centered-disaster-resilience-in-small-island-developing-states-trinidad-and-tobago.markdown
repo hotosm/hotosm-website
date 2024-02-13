@@ -68,7 +68,7 @@ Following the conclusion of this project, the PGHC aims to establish a “train 
 
 <p style="margin: 50px; background-color: #f0efef"> "I enjoyed learning how to use the software and mapping the actual buildings and houses, etc., on the map. The physical activities were very engaging, and  <strong> I hope the information we mapped can help in minimizing the effects of floods.</strong>"</p>
 
-<p style="margin: 50px><em>&mdash; Testimony from one of the trainees</em></p>
+<p style="margin: 50px"><em>&mdash; Testimony from one of the trainees</em></p>
 
 Moreover, GISSTT, our implementing partner for this project, identified several areas of opportunity if this project is to be replicated in other schools in the region:
 
