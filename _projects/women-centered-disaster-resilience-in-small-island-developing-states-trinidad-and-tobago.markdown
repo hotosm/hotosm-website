@@ -35,7 +35,7 @@ With this in mind, the GIS Society of Trinidad and Tobago (GISSTT) launched the 
 
 ## Approach: Education for capacity building
 
-For the implementation of the project, GISSTT collaborated with the Parvati Girls Hindu College (PGHC), an all-female high school in the Penal–Debe region, which is located in an area susceptible to flooding. Seventeen/Nineteen (confirmation required) students between the ages of 15 and 17 were enrolled in WCDR in SIDS. The project consisted of two main phases: training and remote mapping.
+For the implementation of the project, GISSTT collaborated with the Parvati Girls Hindu College (PGHC), an all-female high school in the Penal–Debe region, which is located in an area susceptible to flooding. A total of seventeen students between the ages of 15 and 17 participated in WCDR in SIDS. The project consisted of two main phases: training and remote mapping.
 
 For the training phase, the WCDR in SIDS project team developed a comprehensive and targeted curriculum covering basic GIS concepts and applications, open mapping tools and techniques, risk management, and gender-based disaster resilience concepts. Every Saturday from April 29th to June 3rd, the project team delivered 4.5-hour-long in-person lectures at the PGHC. Each week, the trainees completed the curriculum's modules via the Caribbean School of Data’s (CSOD) online Learning Management System (LMS). Their performance was monitored by the Project Lead via the CSOD’s off-platform dashboard.
 
@@ -49,7 +49,7 @@ As a result of this project, there were:
 
 <table style="font-weight: bold;">
 <tr style="color:#D73F3F; border-bottom: 1px solid #ddd; text-align:center;">
-<td>17/19</td>
+<td>17</td>
 <td style="border-left: 1px solid black">1481</td>
 <td style="border-left: 1px solid black">32</td>
 <td style="border-left: 1px solid black">1719</td>
