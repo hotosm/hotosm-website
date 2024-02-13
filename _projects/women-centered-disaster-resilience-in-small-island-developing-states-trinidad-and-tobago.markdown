@@ -65,7 +65,6 @@ Following the conclusion of this project, the PGHC aims to establish a “train 
 <figure class="quote">
   <blockquote>
     I enjoyed learning how to use the software and mapping the actual buildings and houses, etc., on the map. The physical activities were very engaging, and <strong>I hope the information we mapped can help in minimizing the effects of floods.</strong></blockquote> 
-  </blockquote>
   <figcaption>
     &mdash; Testimony from one of the trainees</figcaption>
 </figure>
