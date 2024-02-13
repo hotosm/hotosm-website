@@ -67,6 +67,7 @@ Moreover, GISSTT, our implementing partner for this project, identified several 
 * Since field mapping was only briefly addressed during the second phase of this program but was very well received by the students, the implementing partner recommends incorporating this aspect of open mapping in the curriculum. Considerations about consent should be taken in case a field mapping component is added. 
 * On-boarding for the chosen Learning Management System platform should be done earlier, and a test should be performed beforehand to ensure that there are no technical issues on either end. 
 
-> “I enjoyed learning how to use the software and mapping the actual buildings and houses, etc., on the map. The physical activities were very engaging, and I hope the information we mapped can help in minimizing the effects of floods.” 
+<blockquote>
+“I enjoyed learning how to use the software and mapping the actual buildings and houses, etc., on the map. The physical activities were very engaging, and I hope the information we mapped can help in minimizing the effects of floods.” </blockquote> 
 **Testimony from one of the trainees.**
 
