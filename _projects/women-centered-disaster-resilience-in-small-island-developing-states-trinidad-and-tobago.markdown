@@ -43,8 +43,8 @@ Upon conclusion of the Project, all trainees were made honorary Student Members 
 
 As a result of this project, there were:
 
-<table style="border-bottom: 1px solid black">
-	<tr>
+<table style="text-align:center;">
+	<tr style="color:#D73F3F; border-bottom: 1px solid #ddd">
 		<td>17/19</td>
 		<td style="border-left: 1px solid black">1481</td>
                 <td style="border-left: 1px solid black">32</td>
@@ -62,12 +62,18 @@ As a result of this project, there were:
 
 Following the conclusion of this project, the PGHC aims to establish a “train the trainer” program in which more teachers from the school will be trained in GIS applications and HOT’s Tasking Manager, with the intention of incorporating GIS into the school’s curriculum.
 
+<figure class="quote">
+  <blockquote>
+    I enjoyed learning how to use the software and mapping the actual buildings and houses, etc., on the map. The physical activities were very engaging, and <strong>I hope the information we mapped can help in minimizing the effects of floods.</strong></blockquote> 
+  </blockquote>
+  <figcaption>
+    &mdash; Testimony from one of the trainees</figcaption>
+</figure>
+
 Moreover, GISSTT, our implementing partner for this project, identified several areas of opportunity if this project is to be replicated in other schools in the region: 
 * Consider executing the program earlier in the semester or during the two-month July/August vacation period to ensure that the training does not conflict with the school’s examination period. 
 * Since field mapping was only briefly addressed during the second phase of this program but was very well received by the students, the implementing partner recommends incorporating this aspect of open mapping in the curriculum. Considerations about consent should be taken in case a field mapping component is added. 
 * On-boarding for the chosen Learning Management System platform should be done earlier, and a test should be performed beforehand to ensure that there are no technical issues on either end. 
 
-<blockquote>
-“I enjoyed learning how to use the software and mapping the actual buildings and houses, etc., on the map. The physical activities were very engaging, and I hope the information we mapped can help in minimizing the effects of floods.” </blockquote> 
-**Testimony from one of the trainees.**
+
 
