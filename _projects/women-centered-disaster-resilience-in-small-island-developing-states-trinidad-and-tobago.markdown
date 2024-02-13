@@ -39,9 +39,24 @@ After the training phase, the selected students had a 3-hour workshop to apply t
 
 Upon conclusion of the Project, all trainees were made honorary Student Members of the GISSTT and can access information and resources to assist them in their School Based Assessments (SBAs) and future projects.
 
-##Impact: Women's geospatial skills increase disaster resilience
+## Impact: Women's geospatial skills increase disaster resilience
 
-As a result of this project 17/19 girls were trained. Moreover, during their local mapping exercise, they added 1481 buildings and 32 km of roads to OpenStreetMap, with a total of 1719 edits.
+As a result of this project, there were:
+
+<table style="border-bottom: 1px solid black">
+	<tr>
+		<td>17/19</td>
+		<td style="border-left: 1px solid black">1481</td>
+                <td style="border-left: 1px solid black">32</td>
+                <td style="border-left: 1px solid black">1719</td>
+	</tr>
+	<tr>
+		<td>Girls trained</td>
+		<td style="border-left: 1px solid black">Buildings Mapped</td>
+                <td style="border-left: 1px solid black">Km of Roads</td>
+                <td style="border-left: 1px solid black">OpenStreetMap Edits</td>
+	</tr>
+</table>
 
 ## What Happens Next? 
 
