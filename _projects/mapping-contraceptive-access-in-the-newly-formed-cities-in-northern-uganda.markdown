@@ -17,6 +17,7 @@ Partner:
 - Youth Mappers Chapter of Gulu University
 - Kakebe Technologies
 Duration:
+  Start Date: 2022-01-20 00:00:00 Z
   End Date: 2023-06-30 00:00:00 Z
 ---
 
