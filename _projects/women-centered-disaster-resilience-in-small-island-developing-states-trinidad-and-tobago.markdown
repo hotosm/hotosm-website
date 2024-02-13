@@ -5,9 +5,8 @@ date: 2024-02-12 21:12:00 Z
 published: false
 Project Summary Text: Female high-school students from Trinidad and Tobago were trained
   on GIS concepts and applications, open mapping tools and techniques, risk management,
-  and gender-based disaster resilience. They then performed remote and field mapping
-  activities to identify vulnerable infrastructure in the region and created their
-  own Dignity Bag for disaster preparedness.
+  and gender-based disaster resilience. They then mapped the flood-prone area around
+  the school and created their own Dignity Bag for disaster preparedness.
 Country:
 - Trinidad and Tobago
 Impact Area:
@@ -21,6 +20,11 @@ Partner:
 Duration:
   Start Date: 2023-04-01 00:00:00 Z
   End Date: 2023-06-30 00:00:00 Z
+tm_campaigns:
+- https://tasks.hotosm.org/projects/14835
+Tools:
+- title: Tasking Manager
+- link: https://tasks.hotosm.org/
 ---
 
 ## Background: The gendered effects of flood risks in Trinidad and Tobago
