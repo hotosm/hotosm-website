@@ -62,7 +62,7 @@ As a result of this project, there were:
 
 Following the conclusion of this project, the PGHC aims to establish a “train the trainer” program in which more teachers from the school will be trained in GIS applications and HOT’s Tasking Manager, with the intention of incorporating GIS into the school’s curriculum.
 
- "I enjoyed learning how to use the software and mapping the actual buildings and houses, etc., on the map. The physical activities were very engaging, and  <strong> I hope the information we mapped can help in minimizing the effects of floods.</strong>"
+<p style="margin: 50px; background-color: #e1e0e0"> "I enjoyed learning how to use the software and mapping the actual buildings and houses, etc., on the map. The physical activities were very engaging, and  <strong> I hope the information we mapped can help in minimizing the effects of floods.</strong>"</p>
  *— Testimony from one of the trainees*
 
 Moreover, GISSTT, our implementing partner for this project, identified several areas of opportunity if this project is to be replicated in other schools in the region:
