@@ -55,7 +55,7 @@ Nuestra estrategia incluye seminarios, talleres, recolección de datos de campo 
 
 Destacamos el compromiso local y la colaboración como pilares fundamentales para abordar los desafíos cartográficos en la Amazonía brasileña. Además de llenar los vacíos en los mapas, buscamos fortalecer a las comunidades locales, preservar la diversidad cultural y ambiental, y contribuir al desarrollo sostenible en la región. Nuestro enfoque implica procesar y analizar los datos recopilados, actualizar el OSM y difundir resultados para inspirar iniciativas similares en otras regiones de la Amazonía y a nivel global.
 
-## **Avanzado nuestras alianzas con Protección Civil**
+## **Avanzando nuestras alianzas con Protección Civil**
 ![Proteção Civil - Mapeos Amazónicos - HOT.jpg](/uploads/Protec%CC%A7a%CC%83o%20Civil%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
 En América Latina, contamos con una variedad de redes y actores dedicados a la gestión de riesgos. Nuestro objetivo es consolidar nuestra posición como un actor confiable en la mejora de la información para la gestión de riesgos y desastres en toda la región y un mapeo progresivo de las áreas vulnerables, que supla las lagunas de la cartografía oficial disponible. Esta información será clave para estas organizaciones y su uso parte de nuestros objetivos centrales.
