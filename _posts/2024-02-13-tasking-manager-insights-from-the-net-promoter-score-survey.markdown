@@ -44,8 +44,8 @@ Despite an overall positive vibe, users have shared a mix of thoughts about Task
 ## Introducing Downloadable OSM Data within Tasking Manager
 
 In response to user feedback, Tasking Manager now lets users download OSM data for mapping areas. Each project features a dedicated Download OSM Data section, providing seamless access to pre-generated base map feature exports in GeoJSON, KML, and SHP formats.
-
-![Tasking Manager NPS 1.png](/uploads/Tasking%20Manager%20NPS%201.png)
+ 
+![Tasking Manager NPS 3.png](/uploads/Tasking%20Manager%20NPS%203.png)
 
 This enhancement aligns with user needs and takes inspiration from the flexibility offered by [HOT's Export Tool.
 ](https://export.hotosm.org/v3/)
