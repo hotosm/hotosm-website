@@ -31,6 +31,8 @@ Access to a comprehensive range of contraceptive options is a fundamental right,
 
 This project aimed to strengthen the capacity of community health workers to utilize open mapping to bring contraceptive services closer to the community. A total of 31 volunteer community health workers from Lira, Gulu, and Arua cities were trained and engaged in field data collection using GPS-enabled tablets. After that, data was collected, cleaned, and produced on static maps. The maps were shared with the respective stakeholders: government health officials, health facilities, and local NGOs supporting reproductive health services. In addition, the generated mapped data will also be available to approximately one million young people (Uganda Bureau of Statistics, 2018) living in Lira, Gulu, and Arua.
 
+<img src="https://cdn.hotosm.org/website/mapping_contraceptive4.png" alt="Uganda Map">
+
 ## Impact
 
 # 520 Points of Interest Added to the Map | 4 Partnership Collaborations | 31 Health Workers Trained
@@ -40,12 +42,10 @@ Through this project, Amara Hub, and mapping partners, Kakebe Technologies and t
 
 <img src="https://cdn.hotosm.org/website/mapping_contraceptive2.jpg" alt="Workshop">
 
-
-
 <img src="https://cdn.hotosm.org/website/mapping_contraceptive3.jpg" alt="Workshop 2">
 
 ## Looking ahead
 
 Future plans for the project include extending these services to other public health initiatives and thus meeting the local demand for geodata to support health informatics programs in Northern Uganda, as the resultant maps and databases can also be used by government health officials and health facilities to support the planning of health interventions, monitoring outbreaks, identifying vulnerable populations, and accurate communication of health data.
 
-<img src="https://cdn.hotosm.org/website/mapping_contraceptive4.png" alt="Uganda Map">
+
