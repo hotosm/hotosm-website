@@ -44,8 +44,7 @@ Data:
 - title: HDX
   link: https://data.humdata.org/dataset/hotosm_dma_buildings
 Tools:
-- title: 
-  tool: Export Tool
+- tool: Export Tool
   link: https://export.hotosm.org/en/v3/exports/bf3c20c6-dc0e-423a-a9b9-97b53cd7a8da
 - link: https://osm-analytics.org/#/show/hot:4317/buildings/recency
   tool: OSM Analytics

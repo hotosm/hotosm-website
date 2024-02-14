@@ -1,8 +1,5 @@
 ---
-title: |-
-  OPEN CITIES
-  Latin America and the Caribbean,
-  Dominica
+title: OPEN CITIES Latin America and the Caribbean, Dominica
 date: 2023-12-07 12:27:00 Z
 published: false
 Project Summary Text: "\"The Nature Isle,\" Dominica, faces the ongoing threat of
@@ -36,13 +33,12 @@ Data:
 - title: HDX
 - link: https://data.humdata.org/dataset/hotosm_dma_buildings
 Tools:
-- title: 
-  tool: Export Tool
+- tool: Export Tool
   link: https://export.hotosm.org/en/v3/exports/bf3c20c6-dc0e-423a-a9b9-97b53cd7a8da
 - link: https://osm-analytics.org/#/show/hot:4317/buildings/recency
   tool: OSM Analytics
 - link: https://fmtm.hotosm.org/
-  too: FMTM
+  tool: FMTM
 ---
 
 ### Background

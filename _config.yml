@@ -254,8 +254,8 @@ defaults:
     - title: ''
     - link: ''
     Tools:
-    - title: ''
-    - link: ''
+    - tool: ''
+      link: ''
 - scope:
     path: ''
     type: volunteer-opportunities

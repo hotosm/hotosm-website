@@ -23,8 +23,8 @@ Duration:
 tm_campaigns:
 - https://tasks.hotosm.org/projects/14835
 Tools:
-- Title: Tasking Manager
-- link: https://tasks.hotosm.org/
+- tool: Tasking Manager
+  link: https://tasks.hotosm.org/
 ---
 
 ## Background: The gendered effects of flood risks in Trinidad and Tobago

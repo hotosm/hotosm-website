@@ -11,18 +11,18 @@ Partner:
 - Open Government Partnership
 - GEOID
 Tools:
-- title: Tasking Manager
-  Key: 
+- tool: Tasking Manager
+  link: https://tasks.hotosm.org
 - link: 
-  title: Maproulette
-- title: Mapswipe
-- title: KoboToolBox
-- title: Mapillary
-- title: QGIS
-- title: IDeditor
-- title: Field Mapping Tasking Manager
-- title: StreetComplete
-- title: Organic Maps
+  tool: Maproulette
+- tool: Mapswipe
+- tool: KoboToolBox
+- tool: Mapillary
+- tool: QGIS
+- tool: IDeditor
+- tool: Field Mapping Tasking Manager
+- tool: StreetComplete
+- tool: Organic Maps
 ---
 
 ## Background

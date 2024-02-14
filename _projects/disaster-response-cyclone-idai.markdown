@@ -22,7 +22,7 @@ Duration:
   End Date: 2020-03-09 00:00:00 Z
 project_extent: ESA-201903-DC-DRC.geojson
 Tools:
-- title: Tasking Manager
+- tool: Tasking Manager
 - link: https://tasks.hotosm.org/
 Working Group: Activation
 ---

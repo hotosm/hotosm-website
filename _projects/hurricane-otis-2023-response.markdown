@@ -18,17 +18,17 @@ Duration:
   Start Date: 2023-10-30 00:00:00 Z
   End Date: 2024-01-26 00:00:00 Z
 Tools:
-- title: 
-  tool: OSM
+- tool: OSM
+  link: https://openstreetmap.org
 - link: 
   tool: Drone Imagery
 - tool: KoboToolbox
 - tool: Mapillary
 - tool: OpenAerialMap
   link: https://map.openaerialmap.org/#/-99.73869323730469,16.960262587150513,10/square/023310223313?_k=4z1myn
-- tool: OpenStreetMap
-- tool: Qgis
+- tool: QGIS
 - tool: Tasking Manager
+  link: https://tasks.hotosm.org
 - Wiki Page: |-
     [2023 Hurricane Otis Mexico]
     https://wiki.openstreetmap.org/wiki/2023_Hurricane_Otis_Mexico

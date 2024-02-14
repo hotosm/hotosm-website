@@ -22,7 +22,8 @@ Duration:
   Start Date: 2017-11-01 00:00:00 Z
   End Date: 2022-05-31 00:00:00 Z
 Tools:
-- title: Tasking Manager
+- tool: Tasking Manager
+  link: https:tasks.hotosm.org
 ---
 
 The Humanitarian OpenStreetMap Team (HOT) and Facebook are partnering on Open Data mapping, as well as Free Software projects.

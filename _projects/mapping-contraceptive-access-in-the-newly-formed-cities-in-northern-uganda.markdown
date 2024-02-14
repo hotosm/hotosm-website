@@ -20,8 +20,10 @@ Duration:
   Start Date: 2022-01-20 00:00:00 Z
   End Date: 2023-06-30 00:00:00 Z
 Tools:
-- title: Kobo Toolbox
-  Key: JOSM
+- tool: Kobo Toolbox
+  link: https://www.kobotoolbox.org/
+- tool: JOSM
+  link: https://josm.openstreetmap.de/
 ---
 
 <img src="https://cdn.hotosm.org/website/mapping_contraceptive1.jpg" alt="Amara Hub">

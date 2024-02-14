@@ -17,27 +17,22 @@ Duration:
   Start Date: 2023-10-30 00:00:00 Z
   End Date: 2024-01-26 00:00:00 Z
 Tools:
-- title: 
-  Tool: OSM
+- tool: OSM
+  link:
+- tool: KoboToolBox
+  link: 
 - link: 
-  title: 
-  tool: 
-- title: KoboToolBox
-  tool: 
-- title: 
   tool: Mapillary
 - tool: OpenAerialMap
-  title: https://map.openaerialmap.org/#/-99.73869323730469,16.960262587150513,10/square/023310223313?_k=4z1myn
-- title: OpenStreetMap
-  tool: 
-- title: Qgis
-  tool: 
-- title: Tasking Manager
-  tool: 
-- title: Wiki Page
-  link: |-
-    [2023 Hurricane Otis Mexico]
-    https://wiki.openstreetmap.org/wiki/2023_Hurricane_Otis_Mexico
+  link: https://map.openaerialmap.org/#/-99.73869323730469,16.960262587150513,10/square/023310223313?_k=4z1myn
+- tool: OpenStreetMap
+  link: 
+- tool: Qgis
+  link: 
+- tool: Tasking Manager
+  link: 
+- tool: Wiki Page
+  link: https://wiki.openstreetmap.org/wiki/2023_Hurricane_Otis_Mexico
 Field name:
 - title: Desastres y Colaboraciones de Datos en América Latina
   link: https://www.youtube.com/watch?v=IsnS8-pOhyE&ab
