@@ -23,7 +23,7 @@ Duration:
 tm_campaigns:
 - https://tasks.hotosm.org/projects/14835
 Tools:
-- title: Tasking Manager
+- Title: Tasking Manager
 - link: https://tasks.hotosm.org/
 ---
 
