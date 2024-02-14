@@ -19,26 +19,33 @@ Partner:
 Duration:
   Start Date: 2022-01-20 00:00:00 Z
   End Date: 2023-06-30 00:00:00 Z
+Tools:
+- title: Kobo Toolbox
+  Key: JOSM
 ---
 
 <img src="https://cdn.hotosm.org/website/mapping_contraceptive1.jpg" alt="Amara Hub">
 
 ## Background
 
-Access to a comprehensive range of contraceptive options is a fundamental right, enabling individuals to make informed choices about family planning. However, reliable information on contraception remains scarce, hindering people's ability to make conscious decisions regarding their reproductive health. Recognizing the need for improved access to accurate contraceptive information, Amara Hub through the Eastern & Southern Africa Open Mapping Grants program, partnered with Uganda's Ministry of Health to map contraceptive access sites in the newly formed cities of Lira, Gulu, and Arua in northern Uganda in OpenStreetMap. 
+Access to a comprehensive range of contraceptive options is a fundamental right, enabling individuals to make informed choices about family planning. However, reliable information on contraception access remains scarce, hindering people's ability to make conscious decisions regarding their reproductive health. Recognizing the need for accurate information on *where* contraceptive services are available, Amara Hub partnered with Uganda's Ministry of Health to map contraceptive access sites in the newly formed cities of Lira, Gulu, and Arua in northern Uganda in OpenStreetMap. 
 
 
 ## Approach
 
-This project aimed to strengthen the capacity of community health workers to utilize open mapping to bring contraceptive services closer to the community. A total of 31 volunteer community health workers from Lira, Gulu, and Arua cities were trained and engaged in field data collection using GPS-enabled tablets. After that, data was collected, cleaned, and produced on static maps. The maps were shared with the respective stakeholders: government health officials, health facilities, and local NGOs supporting reproductive health services. In addition, the generated mapped data will also be available to approximately one million young people (Uganda Bureau of Statistics, 2018) living in Lira, Gulu, and Arua.
+Through the Eastern & Southern Africa Open Mapping Hub Open Mapping Grant Program, the project set out to strengthen the capacity of community health workers to utilize open mapping in bringing contraceptive services closer to the community. 
+
+Amara hub met with city officials to plan the project and identify a gender diverse group of community healthcare workers to participate in the data collection. A total of 31 volunteer community health workers from Lira, Gulu, and Arua cities were trained and engaged in field data collection using GPS-enabled tablets to map the locations of heath clinics. Amara Hub then partnered with the Youth Mappers Chapter of Gulu University university to validate and conduct quality checks, before uploading the locations of clinics to OpenStreetMap. 
+
+The maps were shared with the respective stakeholders: government health officials, health facilities, and local NGOs supporting reproductive health services. In addition, the generated mapped data will also be available to approximately one million young people (Uganda Bureau of Statistics, 2018) living in Lira, Gulu, and Arua.
 
 <img src="https://cdn.hotosm.org/website/mapping_contraceptive4.png" alt="Uganda Map">
 
 ## Impact
 
-# 520 Points of Interest Mapped | 4 Partnerships| 31 Health Workers Trained
+# 529 Points of Interest Mapped | 4 Partnerships| 31 Health Workers Trained
 
-Through this project, Amara Hub, and mapping partners, Kakebe Technologies and the Youth Mappers Chapter of Gulu University, have been equipped with new skills and tools such as iD Editor, Tasking Manager, Kobo Toolbox, Organic Maps, OsmAnd, and QGIS. As a result, over 520 points of interest related to contraceptive health access in Arua, Gulu, and Lira have been added to OSM. These points include hospitals, health centers, clinics, and pharmacies. As a result of this exercise, the team discovered and added non-conventional access points like bars, supermarkets, hotels, and guest houses.
+Through this project, Amara Hub, and mapping partners, Kakebe Technologies and the Youth Mappers Chapter of Gulu University, have been equipped with new skills and open mapping tools. Contraceptive access in Arua, Gulu, and Lira have been added to OSM. These points include hospitals, health centers, clinics, and pharmacies. As a result of this exercise, the team discovered and added non-conventional access points like bars, supermarkets, hotels, and guest houses.
 
 
 <img src="https://cdn.hotosm.org/website/mapping_contraceptive2.jpg" alt="Workshop">
