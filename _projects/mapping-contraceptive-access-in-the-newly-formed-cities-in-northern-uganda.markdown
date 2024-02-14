@@ -46,12 +46,10 @@ The maps were shared with the respective stakeholders: government health officia
 ### 529 Points of Interest Mapped | 31 Health Workers Trained | 4 Partnerships 
 
 
-Through this project, Amara Hub, and mapping partners, Kakebe Technologies and the Youth Mappers Chapter of Gulu University, have been equipped with new skills and open mapping tools. Contraceptive access in Arua, Gulu, and Lira have been added to OSM. These points include hospitals, health centers, clinics, and pharmacies. As a result of this exercise, the team discovered and added non-conventional access points like bars, supermarkets, hotels, and guest houses.
+Through this project, Amara Hub, and mapping partners, Kakebe Technologies and the Youth Mappers Chapter of Gulu University, have been equipped with new skills and open mapping tools. Contraceptive access in Arua, Gulu, and Lira have been added to OSM. These points include hospitals, health centers, clinics, and pharmacies. As a result of this exercise, the team also discovered and added non-conventional access points like bars, supermarkets, hotels, and guest houses.
 
 
 <img src="https://cdn.hotosm.org/website/mapping_contraceptive2.jpg" alt="Workshop">
-
-<img src="https://cdn.hotosm.org/website/mapping_contraceptive3.jpg" alt="Workshop 2">
 
 ## Looking ahead
 
