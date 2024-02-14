@@ -1,8 +1,5 @@
 ---
-title: |-
-  Open Cities
-  Latin America and the Caribbean,
-  Dominica
+title: Open Cities Latin America and the Caribbean, Dominica
 date: 2023-06-06 14:47:00 Z
 categories:
 - Projects
