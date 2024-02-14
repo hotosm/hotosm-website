@@ -4,7 +4,7 @@ date: 2023-05-16 21:31:00 Z
 Project Summary Text: 'The Amara Hub, under the Eastern & Southern Africa''s Open
   Mapping Grants program, worked with the Ministry of Health to map contraceptive
   access sites using mobile open mapping tools in Northern Uganda in the newly formed
-  cities of Lira, Gulu, and Arua '
+  cities of Lira, Gulu, and Arua. '
 Feature Image: "/uploads/ESAJobOpening.jpeg"
 Country:
 - Uganda
@@ -43,7 +43,7 @@ The maps were shared with the respective stakeholders: government health officia
 
 ## Impact
 
-# 529 Points of Interest Mapped | 4 Partnerships| 31 Health Workers Trained
+# 529 Points of Interest Mapped | 31 Health Workers Trained | 4 Partnerships 
 
 Through this project, Amara Hub, and mapping partners, Kakebe Technologies and the Youth Mappers Chapter of Gulu University, have been equipped with new skills and open mapping tools. Contraceptive access in Arua, Gulu, and Lira have been added to OSM. These points include hospitals, health centers, clinics, and pharmacies. As a result of this exercise, the team discovered and added non-conventional access points like bars, supermarkets, hotels, and guest houses.
 
