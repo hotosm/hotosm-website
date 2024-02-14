@@ -33,9 +33,9 @@ Access to a comprehensive range of contraceptive options is a fundamental right,
 
 ## Approach
 
-Through the Eastern & Southern Africa Open Mapping Hub Open Mapping Grant Program, the project set out to strengthen the capacity of community health workers to utilize open mapping in bringing contraceptive services closer to the community. 
+Through the Eastern & Southern Africa Open Mapping Hub's Open Mapping Grant Program, the project set out to strengthen the capacity of community health workers to utilize open mapping in bringing contraceptive services closer to the community. 
 
-Amara hub met with city officials to plan the project and identify a gender diverse group of community healthcare workers to participate in the data collection. A total of 31 volunteer community health workers from Lira, Gulu, and Arua cities were trained and engaged in field data collection using GPS-enabled tablets to map the locations of heath clinics. Amara Hub then partnered with the Youth Mappers Chapter of Gulu University university to validate and conduct quality checks, before uploading the locations of clinics to OpenStreetMap. 
+Amara hub first met with city officials to plan the project and identify a gender diverse group of community healthcare workers to participate in data collection of health site locations. A total of 31 volunteer community health workers from Lira, Gulu, and Arua cities were trained and engaged in field data collection using GPS-enabled tablets. Amara Hub then partnered with the Youth Mappers Chapter of Gulu University university to validate and conduct quality checks, and uploading the locations of clinics and other points of interest to OpenStreetMap. 
 
 The maps were shared with the respective stakeholders: government health officials, health facilities, and local NGOs supporting reproductive health services. In addition, the generated mapped data will also be available to approximately one million young people (Uganda Bureau of Statistics, 2018) living in Lira, Gulu, and Arua.
 
