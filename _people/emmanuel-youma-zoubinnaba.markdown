@@ -1,5 +1,5 @@
 ---
-title: "Emmanuel Youma ZOUBINNABA"
+title: Emmanuel Youma ZOUBINNABA
 date: 2024-02-05 01:56:00 Z
 Photo: "/uploads/Emmanuel%20Youma%20Zoubinnaba.jpg"
 Member Type:

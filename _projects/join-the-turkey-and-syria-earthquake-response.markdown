@@ -31,7 +31,7 @@ Tools:
 - tool: Export Tool
   link: https://export.hotosm.org/en/v3/
 - link: https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
-  tool: Tasking Manager 
+  tool: Tasking Manager
 - tool: Wiki
   link: https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes
 - Contact: disasterservices@hotosm.org
