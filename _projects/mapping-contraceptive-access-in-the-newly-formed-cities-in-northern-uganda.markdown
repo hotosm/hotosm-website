@@ -3,8 +3,8 @@ title: Mapping Contraceptive Access in the Newly Formed Cities in Northern Ugand
 date: 2023-05-16 21:31:00 Z
 Project Summary Text: 'The Amara Hub, under the Eastern & Southern Africa''s Open
   Mapping Grants program, worked with the Ministry of Health to map contraceptive
-  access sites in Northern Uganda in the newly formed cities of Lira, Gulu, and Arua
-  by direct observations using open mapping tools to collect health sites. '
+  access sites using mobile open mapping tools in Northern Uganda in the newly formed
+  cities of Lira, Gulu, and Arua '
 Feature Image: "/uploads/ESAJobOpening.jpeg"
 Country:
 - Uganda
