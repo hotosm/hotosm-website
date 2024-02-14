@@ -36,7 +36,7 @@ This project aimed to strengthen the capacity of community health workers to uti
 
 ## Impact
 
-# 520 Points of Interest Added to the Map | 4 Partnership Collaborations | 31 Health Workers Trained
+# 520 Points of Interest Mapped | 4 Partnerships| 31 Health Workers Trained
 
 Through this project, Amara Hub, and mapping partners, Kakebe Technologies and the Youth Mappers Chapter of Gulu University, have been equipped with new skills and tools such as iD Editor, Tasking Manager, Kobo Toolbox, Organic Maps, OsmAnd, and QGIS. As a result, over 520 points of interest related to contraceptive health access in Arua, Gulu, and Lira have been added to OSM. These points include hospitals, health centers, clinics, and pharmacies. As a result of this exercise, the team discovered and added non-conventional access points like bars, supermarkets, hotels, and guest houses.
 
