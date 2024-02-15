@@ -35,6 +35,9 @@ Tools:
 Webinars:
 - title: Disasters and Data Collaboratives in Latin America
   link: https://www.youtube.com/watch?v=IsnS8-pOhyE&ab
+Blogs:
+- YouthMappers: Mexican Chapters in Response to Hurricane Otis in Acapulco, Guerrero
+- link: https://www.youthmappers.org/post/mexican-chapters-in-response-to-hurricane-otis-in-acapulco-guerrero
 ---
 
 *[Versión en Español](https://www.hotosm.org/projects/activacion-por-el-huracan-otis/)*
