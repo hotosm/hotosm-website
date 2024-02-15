@@ -33,11 +33,11 @@ Tools:
     [2023 Hurricane Otis Mexico]
     https://wiki.openstreetmap.org/wiki/2023_Hurricane_Otis_Mexico
 Webinars:
-- title: Disasters and Data Collaboratives in Latin America
+- tool: Disasters and Data Collaboratives in Latin America
   link: https://www.youtube.com/watch?v=IsnS8-pOhyE&ab
 Blogs:
-- YouthMappers: Mexican Chapters in Response to Hurricane Otis in Acapulco, Guerrero
-- link: https://www.youthmappers.org/post/mexican-chapters-in-response-to-hurricane-otis-in-acapulco-guerrero
+  tool: Mexican Chapters in Response to Hurricane Otis in Acapulco, Guerrero
+  link: https://www.youthmappers.org/post/mexican-chapters-in-response-to-hurricane-otis-in-acapulco-guerrero
 ---
 
 *[Versión en Español](https://www.hotosm.org/projects/activacion-por-el-huracan-otis/)*
