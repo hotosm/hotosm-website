@@ -96,6 +96,8 @@ Impact Area:
 
 24/08/2020 - [Covid-19 Pandemic in Peru: Mapping Health Implications](https://www.hotosm.org/updates/covid-19-pandemic-in-peru-mapping-health-implications/)
 
+26/06/2020 - [#map2020 Results Announced](https://www.hotosm.org/updates/number-map2020-results-announced/)
+
 19/06/2020 - [Four regions, five years, 94 countries, one billion people
 ](https://www.hotosm.org/updates/four-regions-five-years-94-countries-one-billion-people/)
 
