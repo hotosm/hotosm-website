@@ -91,6 +91,8 @@ Van de la más reciente a la más antigua.
 
 24/08/2020 - [Covid-19 Pandemic in Peru: Mapping Health Implications](https://www.hotosm.org/updates/covid-19-pandemic-in-peru-mapping-health-implications/)
 
+26/06/2020 - [#map2020 Results Announced](https://www.hotosm.org/updates/number-map2020-results-announced/)
+
 19/06/2020 - [Cuatro regiones, cinco años, 94 países, mil millones de personas](https://www.hotosm.org/updates/cuatro-regiones-cinco-anos-94-paises-mil-millones-de-personas/)
 
 14/11/2018 - [Using open source tools to eliminate Malaria in Guatemala](https://www.hotosm.org/updates/using-open-source-tools-to-eliminate-malaria-in-guatemala/)
