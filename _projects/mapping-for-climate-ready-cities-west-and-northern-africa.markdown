@@ -7,7 +7,7 @@ Project Summary Text: |-
 
 
   This project page highlights our work in West and Northern Africa.
-Feature Image: "/uploads/IMG_0352.HEIC"
+Feature Image: "/uploads/IMG_0352.jpg"
 Country:
 - - Nigeria
   - Ivory Coast
@@ -16,7 +16,7 @@ Partner:
 - OSM Côte d'Ivoire
 Tools:
 - tool: Tasking Manager
-  link: 
+  link: https://tasks.hotosm.org/
 - tool: RapiD
   link: 
 - tool: JOSM
@@ -41,20 +41,20 @@ Employing open data and participatory mapping, the project aims to tackle a rang
 ## Approach
 
 ### Methodology
-* Engage with stakeholder's and local partners' input in selecting project cities
-* Conduct a Master training in Abuja, bringing partners together to align the project’s approach, tools knowledge sharing, and contextualization 
-* Train local mappers, including technical stakeholders, from city authorities
-* Engage stakeholders through data use case survey desk review and capacity building
-* Conduct remote mapping activities
-* Analyze data, develop a product web map, and package open data for stakeholders
-* Host a regional workshop bringing together city authorities and experts from the region to present project findings, recommendations, and data products
-* In Nigeria, combine remote mapping data with relevant existing data from critical stakeholders and use sensors to generate air quality data for a period of five months
+* Engage with stakeholder's and local partner's input in selecting project cities.
+* Conduct a Master training in Abuja, bringing partners together to align the project’s approach, tools knowledge sharing, and contextualization. 
+* Train local mappers, including technical stakeholders, from city authorities.
+* Engage stakeholders through data use case survey desk review and capacity building.
+* Conduct remote mapping activities.
+* Analyze data, develop a product web map, and package open data for stakeholders.
+* Host a regional workshop bringing together city authorities and experts from the region to present project findings, recommendations, and data products.
+* In Nigeria, combine remote mapping data with relevant existing data from critical stakeholders and use sensors to generate air quality data for a period of five months.
 
 ### Datasets Collected
 The project will generate datasets on building footprints, roads, waterways, zone names, air quality data, population, infrastructure, land use, health, and public facilities.
 
 ### Expected Outcome and Impact
-* A minimum of eight (8) secondary and populated cities across two countries are mapped, and data is publicly available to city authorities and added to OSM for development purposes
+* A minimum of eight (8) secondary and populated cities across two countries are mapped, and data is publicly available to city authorities and added to OSM for development purposes.
 * The project outcomes will pave the way for accurate ground-truthing activities leading to amenities and street view mapping. 
 * New partnerships are established with city authorities in eight or more cities in two countries.
 * Over five (5) million buildings' footprints are reflected on OpenStreetMap.
