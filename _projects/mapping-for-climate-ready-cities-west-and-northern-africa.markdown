@@ -25,18 +25,17 @@ Tools:
   link: 
 ---
 
-## Background
-The West and Northern Africa region is currently undergoing unprecedented population growth and urbanization, primarily fueled by rural-to-urban migration and natural population increase. While this demographic shift brings about economic opportunities, it also presents significant environmental, social, and financial challenges.
-The fast-paced urbanization is putting great pressure on the current infrastructure, which has led to insufficient housing, transportation, poor air quality, inadequate healthcare, and subpar management of solid waste. This, in turn, has resulted in negative consequences, such as inadequate city planning, public service delivery, and infrastructure development. The unchecked growth of cities has also led to environmental degradation, which continues to impact the quality of life for urban dwellers.
-
-City authorities have been struggling to address various challenges due to limited resources, skills, and tools. With this in mind, the Eco-Smart Cities project aims to tackle these issues by offering reliable open data and visual analysis to city authorities and other stakeholders. It will also provide capacity building and will follow an open and participatory approach to collaborate with the private sector for sustainable urban development.
-
-
 ## Summary
 The Eco-Smart Cities project aims to tackle the challenges of urbanization in underdeveloped secondary cities with large populations in Nigeria and Côte d'Ivoire. In Nigeria, the project is focused on improving several cities including Mushin in Lagos State, Iseyin and Ogbomosho in Oyo State, North and South Kaduna in Kaduna State, and Agbara and Sango Otta in Ogun State. In Côte d'Ivoire, the project is being implemented in Yamoussoukro city in the Central and Gagnoa city in the Western regions.
 
 Employing open data and participatory mapping, the project aims to tackle a range of issues such as environmental degradation, inadequate infrastructure, transportation, waste management, population, air quality, and urbanization. By systematically working along with city authorities to collect, analyze, and present reliable data on these challenges, the project seeks to foster sustainable urban growth and offer valuable insights to city authorities and the public.
 
+## Background
+The West and Northern Africa region is currently undergoing unprecedented population growth and urbanization, primarily fueled by rural-to-urban migration and natural population increase. While this demographic shift brings about economic opportunities, it also presents significant environmental, social, and financial challenges.
+
+The fast-paced urbanization is putting great pressure on the current infrastructure, which has led to insufficient housing, transportation, poor air quality, inadequate healthcare, and subpar management of solid waste. This, in turn, has resulted in negative consequences, such as inadequate city planning, public service delivery, and infrastructure development. The unchecked growth of cities has also led to environmental degradation, which continues to impact the quality of life for urban dwellers.
+
+City authorities have been struggling to address various challenges due to limited resources, skills, and tools. With this in mind, the Eco-Smart Cities project aims to tackle these issues by offering reliable open data and visual analysis to city authorities and other stakeholders. It will also provide capacity building and will follow an open and participatory approach to collaborate with the private sector for sustainable urban development.
 
 ## Approach
 
