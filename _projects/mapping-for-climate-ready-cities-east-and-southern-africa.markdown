@@ -7,6 +7,7 @@ Project Summary Text: |-
 
 
   This project page highlights our work in East and Southern Africa.
+Feature Image: "/uploads/Field%20Mapping%20Leader,%20Dayan%20Amandu%20Ogunu%20illustrating%20to%20participants%20how%20to%20use%20ODK%20for%20field%20data%20collection.JPG"
 Country:
 - Kenya
 - Ethiopia
