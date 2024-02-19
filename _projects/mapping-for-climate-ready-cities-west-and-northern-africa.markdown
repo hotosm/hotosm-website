@@ -9,8 +9,8 @@ Project Summary Text: |-
   This project page highlights our work in West and Northern Africa.
 Feature Image: "/uploads/IMG_0352.jpg"
 Country:
-- - Nigeria
-  - Ivory Coast
+- Nigeria
+- Ivory Coast
 Partner:
 - Map Nigeria
 - OSM Côte d'Ivoire
