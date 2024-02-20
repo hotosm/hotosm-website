@@ -7,6 +7,8 @@ Summary Text: La communauté OpenStreetMap, une communauté de communautés, est
   OpenStreetMap peut aider à combler les écarts de compétences entre les communautés.
 Feature Image: https://cdn.hotosm.org/website/Mentorship+Banner.png
 Person: Tsongo Muluba Bienvenue
+Project:
+- Open Mapping Mentorship
 ---
 
 La communauté OSM, une communauté des communautés est formée des plusieurs contributeurs répartis dans  différentes communautés locales de par le monde. 
