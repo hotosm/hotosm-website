@@ -14,6 +14,8 @@ Person:
 - Charles Chilufya
 Working Group:
 - Community
+Project:
+- Open Mapping Mentorship
 ---
 
 This blog is a result of the meetings held as a part of the Peer Mentor initiative by the Humanitarian OpenStreetMap. We started off our journey as a Peer Mentor group in September-October 2022 igniting our passion to learn about Open Street Mapping from each other. We were grouped according to our region, ASIA. We met a few times, virtually discussed, shared many ideas and views. Few of them will be documented in the following article for reference to others as well.

@@ -9,6 +9,8 @@ Feature Image: https://cdn.hotosm.org/website/Mentorship+Banner.png
 Person: Tsongo Muluba Bienvenue
 Working Group:
 - Community
+Project:
+- Open Mapping Mentorship
 ---
 
 The OpenStreetMap community, a community of communities, is made up of many mappers and other contributors spread out across local communities around the world. 
