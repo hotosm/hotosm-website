@@ -6,9 +6,7 @@ published: false
 Project Summary Text: |-
   What if the place you were looking for could not be found on any map? Not because it's hidden, but because it was never mapped. And what if people in need were living in unmapped places? How can we locate and reach out to them, especially in the face of a disaster?
 
-  These questions are currently bothering humanitarians and scientists aiming to expand Anticipatory Action in Timor-Leste. In order to tackle this challenge, a new approach has been piloted in Timor-Leste: **Anticipatory Mapping** with the Red Cross Climate Centre, Timor Leste Red Cross, and Humanitarian OpenStreetMap Team.
-
-  [Read full report](https://drive.google.com/file/d/1xKjBA9eicqon-Qnbiv-pWzSGuX0cldIn/view?usp=sharing).
+  These questions are currently bothering humanitarians and scientists aiming to expand Anticipatory Action in Timor-Leste. In order to tackle this challenge, a new approach has been piloted in Timor-Leste: Anticipatory Mapping with the Red Cross Climate Centre, Timor Leste Red Cross, and Humanitarian OpenStreetMap Team.
 Country:
 - timor leste
 Impact Area:
@@ -25,6 +23,9 @@ Tools:
   link: https://www.kobotoolbox.org/
 - tool: SketchMapTool
   link: https://sketch-map-tool.heigit.org/
+Report:
+  title: Full Report
+  link: https://drive.google.com/file/d/1xKjBA9eicqon-Qnbiv-pWzSGuX0cldIn/view?usp=sharing
 ---
 
 ## Background
@@ -35,7 +36,7 @@ Tools:
 
 ### Why is Anticipatory Action expanded in Timor-Leste?
 
-[Timor-Leste](https://www.anticipation-hub.org/experience/anticipatory-action-in-the-world/timor-leste), one of the world's newest nations with a population of 1.3 million, is a Southeast Asian island country characterized by a tropical climate. The nation faces heightened vulnerability to natural disasters, including cyclones, earthquakes, tsunamis, and heavy rainfall, exacerbated by inadequate infrastructure. Its wet season spans December to May, while the dry season prevails from June to November. **Timor-Leste is significantly influenced by the El Niño Southern Oscillation, impacting rainfall patterns and contributing to droughts and epidemics**. Despite developmental strides, a substantial portion of the population grapples with poverty, and the reliance on rain-fed agriculture by over 70% of the population amplifies vulnerabilities to climate-related challenges.
+[Timor-Leste](https://www.anticipation-hub.org/experience/anticipatory-action-in-the-world/timor-leste), one of the world's newest nations with a population of 1.3 million, is a Southeast Asian island country characterized by a tropical climate. The nation faces heightened vulnerability to natural disasters, including cyclones, earthquakes, tsunamis, and heavy rainfall, exacerbated by inadequate infrastructure. Its wet season spans December to May, while the dry season prevails from June to November. Timor-Leste is significantly influenced by the El Niño Southern Oscillation, impacting rainfall patterns and contributing to droughts and epidemics. Despite developmental strides, a substantial portion of the population grapples with poverty, and the reliance on rain-fed agriculture by over 70% of the population amplifies vulnerabilities to climate-related challenges.
 
 ### What can Anticipatory Action look like in Timor-Leste?
 
@@ -55,7 +56,7 @@ The essence of this initiative lay in enhancing OSM mapping high-risk areas in T
 
 Beyond map creation to provide communities and decision-makers with accurate up-to-date maps, the project also sought to empower people with the resources to safeguard their lives and livelihoods. Through rigorous remote and field mapping, engagement with communities, and review of existing hazard data, the project aimed to provide accurate insights into areas at risk from floods, landslides, and other climate-induced hazards, enabling Anticipatory Actions plannings in the areas.
 
-#### Step 1: Remote Mapping
+### Step 1: Remote Mapping
 Following the identification of priority areas based on natural disaster risk, the initial phase of Anticipatory Mapping commenced with the initiation of remote mapping tasks with international volunteers using HOT's Tasking Manager. This involved the meticulous updating and completion of building footprints within designated focus areas on OpenStreetMap, achieved through the utilization of satellite imagery. The collected map data built the foundation for the following field mapping activities. 
 
 ### Step 2: Field Mapping
