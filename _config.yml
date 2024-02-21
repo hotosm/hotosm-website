@@ -61,6 +61,22 @@ collections:
     title: Press Releases
     output: true
     permalink: press-releases/:path/
+  programs:
+    title: Programs
+    output: true
+    permalink: "/programs/:path/"
+    tm_campaigns:
+    - 
+    Map Products:
+    - 
+    Data:
+    - title: 
+      link: 
+    Tools:
+    - tool: 
+      link: 
+    - tool: 
+      link: 
   projects:
     title: Projects
     output: true
@@ -255,7 +271,40 @@ defaults:
     - link: ''
     Tools:
     - tool: ''
-      link: ''
+    - link: ''
+- scope:
+    path: ''
+    type: programs
+  values:
+    layout: program-item
+    Project Summary Text: 
+    Feature Image: 
+    Is image top aligned: 
+    Project Logo Image: 
+    Is Community-Led: 
+    Country:
+    - ''
+    Impact Area:
+    - ''
+    Person:
+    - ''
+    Partner:
+    - ''
+    Duration:
+      Start Date: 
+      End Date: Ongoing
+    tm_campaigns:
+    - ''
+    Google Drive: https://drive.google.com/drive/folders/1p-dGhQsB4SSlucT3Yen1LlhqBj3Yvy-_
+    Map Products:
+    - ''
+    - ''
+    Data:
+    - title: ''
+    - link: ''
+    Tools:
+    - title: ''
+    - link: ''
 - scope:
     path: ''
     type: volunteer-opportunities
@@ -320,3 +369,4 @@ feed:
   - press-releases
   - tech-blog
   - disaster-services
+  - programs
