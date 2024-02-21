@@ -12,8 +12,8 @@ Block 1:
   Tools:
   - Name: Access our repositories
     URL: https://github.com/hotosm
-  - Name: Check the status of our services
-    URL: https://status.hotosm.org
+  # - Name: Check the status of our services
+  #   URL: https://status.hotosm.org
 Block 2:
   Header: Learn about OpenStreetMap
   Text: OpenStreetMap is a free street level map of the world, created by an ever
@@ -25,8 +25,8 @@ Block 2:
   Tools:
   - Name: LearnOSM
     URL: https://learnosm.org
-  - Name: Training Center
-    URL: https://courses.hotosm.org/
+  # - Name: Training Center
+  #   URL: https://courses.hotosm.org/
   - Name: OpenStreetMap
     URL: https://openstreetmap.org
   - Name: OSM Wiki
@@ -35,31 +35,27 @@ Block 3:
   Header: Plan a Mapping Campaign
   Text: If you are interested in starting a remote or field mapping campaign, you
     can get started by finding available imagery to use via OpenAerialMap, plan a
-    remote mapping campaign via the Tasking Manager, or set up and track a field campaign
-    with MapCampaigner.
+    remote mapping campaign via the Tasking Manager.
   Image: https://cdn.hotosm.org/website/tm4-explore.png
   Tools:
   - Name: OpenAerialMap
     URL: https://openaerialmap.org/
   - Name: Tasking Manager
     URL: https://tasks.hotosm.org/
-  - Name: Map Campaigner
-    URL: https://campaigns.hotosm.org/
+  - Name: Field Mapping Tasking Manager
+    URL: https://fmtm.hotosm.org/
 Block 4:
   Header: Edit the Map
   Text: Quickly get started with editing and contibuting to OpenStreetMap via the
     Tasking Manager. You can volunteer your time to active mapping projects and support
-    organizations in need of map data around the world. Check out OpenMapKit for field
-    based editing of OpenStreetMap. In low-bandwidth or disconnected environments,
-    Field Papers can be used for paper-based data capture and POSM can be used for
-    offline OSM editing. RapiD is an editor that uses Artificial Inteligence to detect
+    organizations in need of map data around the world. Check RapiD, an editor that uses Artificial Inteligence to detect
     unmapped roads and buildings.
-  Image: https://cdn.hotosm.org/website/tools-openmapkit.png
+  Image: "/downloads/rapid-ai-roads.png"
   Tools:
   - Name: Tasking Manager
     URL: https://tasks.hotosm.org/
-  - Name: Field Papers
-    URL: http://www.fieldpapers.org
+  - Name: fAIr
+    URL: https://fair-dev.hotosm.org/
   - Name: RapiD
     URL: https://mapwith.ai/rapid
 Block 5:
@@ -74,6 +70,16 @@ Block 5:
     URL: https://export.hotosm.org/en/v3/
   - Name: Humanitarian Data Exchange (HDX)
     URL: https://data.humdata.org/organization/hot
+Block 6:
+  Header: Analyze the Data
+  Text: To understand more about how and when editing took place, or assess quality
+    within OSM, use the OSM Analytics suite of tools. You can view how data has changed
+    over time within OSM, understand quality within an area, or analyze what type
+    of data is available.
+  Image: https://cdn.hotosm.org/website/tools-osm-analytics.png
+  Tools:
+  - Name: OSM Analytics
+    URL: https://osm-analytics.org/
 layout: tools-and-data
 ---
 
