@@ -13,6 +13,18 @@ Country:
 - timor leste
 Impact Area:
 - Disasters & Climate Resilience
+Partner:
+- The Timor Leste Red Cross
+- Red Cross Climate Centre
+Duration:
+  End Date: 2023-12-31 00:00:00 Z
+Tools:
+- tool: Tasking Manager
+  link: https://tasks.hotosm.org/
+- tool: KoboToolbox
+  link: https://www.kobotoolbox.org/
+- tool: SketchMapTool
+  link: https://sketch-map-tool.heigit.org/
 ---
 
 ## Background
@@ -52,9 +64,9 @@ Field mapping activities were organized by dividing mapping areas into smaller s
 In the designated areas, comprehensive field mapping of all critical infrastructure buildings was conducted by first developing an OpenStreetMap data model and then leveraging an open source field data collection tool called KoboToolbox. KoboToolbox allows data collection through both a mobile app and web browser, serving as a versatile tool for gathering and storing the acquired data. Building attributes such as usage type and names were gathered during this mapping process. Specific building features indicating susceptibility to floods or other hazards, including minimum foundation height and building materials, were collected as part of the OSM field mapping. Additionally, qualitative information on buildings' flood history was obtained from individuals present in the area, such as inquiries about past flooding incidents occurring at the building's location (e.g., 'Has this building been flooded in the past?)). This approach facilitated the gathering of valuable insights to aid in community preparedness for potential risks. Data quality of the collected data was monitored during and after the data collection process to ensure adherence to the OSM data model.
 
 ### Step 3: Assessing community knowledge of past flood events, impacts, early warnings and capacities
-Gathering community insights on past flood occurrences, their impacts, and early warning mechanisms was a key aim of the project. To achieve this, focus group discussions were convened with villages in the targeted areas. During these sessions, the Anticipatory Mapping initiative was introduced, followed by dividing participants into smaller groups. While some groups engaged with questionnaires to document their responses, another group participated in an interactive mapping exercise utilizing the [SketchMap tool](https://sketch-map-tool.heigit.org/). This approach allowed for a dynamic exchange of information and facilitated the capture of diverse perspectives within the community.
+Gathering community insights on past flood occurrences, their impacts, and early warning mechanisms was a key aim of the project. To achieve this, focus group discussions were convened with villages in the targeted areas. During these sessions, the Anticipatory Mapping initiative was introduced, followed by dividing participants into smaller groups. While some groups engaged with questionnaires to document their responses, another group participated in an interactive mapping exercise utilizing the [SketchMap Tool](https://sketch-map-tool.heigit.org/). This approach allowed for a dynamic exchange of information and facilitated the capture of diverse perspectives within the community.
 
-The SketchMap tool offers the capability to generate printed maps of regions featuring OpenStreetMap (OSM) data as the base layer. These paper maps enable direct annotation of information, which can later be scanned. Through the attached QR code, the data can be digitized and georeferenced. During community meetings, the SketchMap tool proved invaluable in documenting details of historic flood extents, early warnings and capacities such as evacuation sites or natural protection areas.
+The SketchMapTool offers the capability to generate printed maps of regions featuring OpenStreetMap (OSM) data as the base layer. These paper maps enable direct annotation of information, which can later be scanned. Through the attached QR code, the data can be digitized and georeferenced. During community meetings, the SketchMapTool proved invaluable in documenting details of historic flood extents, early warnings and capacities such as evacuation sites or natural protection areas.
 
 ### Results
 Conversations with communities and data analysis revealed distressing realities: recurring floods had majorly impacted livelihoods, especially in rural areas where agriculture served as the primary income source. Interviews echoed the stories of long-term livelihood changes in order to adapt. For example, many farmers in the Laclo valley transitioned from rice farming to livestock and vegetable production due to the enduring impacts of floods on their lands.
