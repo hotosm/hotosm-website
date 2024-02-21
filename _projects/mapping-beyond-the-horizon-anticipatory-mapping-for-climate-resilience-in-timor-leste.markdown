@@ -7,6 +7,12 @@ Project Summary Text: |-
   What if the place you were looking for could not be found on any map? Not because it's hidden, but because it was never mapped. And what if people in need were living in unmapped places? How can we locate and reach out to them, especially in the face of a disaster?
 
   These questions are currently bothering humanitarians and scientists aiming to expand Anticipatory Action in Timor-Leste. In order to tackle this challenge, a new approach has been piloted in Timor-Leste: **Anticipatory Mapping** with the Red Cross Climate Centre, Timor Leste Red Cross, and Humanitarian OpenStreetMap Team.
+
+  [Read full report](https://drive.google.com/file/d/1xKjBA9eicqon-Qnbiv-pWzSGuX0cldIn/view?usp=sharing).
+Country:
+- timor leste
+Impact Area:
+- Disasters & Climate Resilience
 ---
 
 ## Background
@@ -38,7 +44,7 @@ The essence of this initiative lay in enhancing OSM mapping high-risk areas in T
 Beyond map creation to provide communities and decision-makers with accurate up-to-date maps, the project also sought to empower people with the resources to safeguard their lives and livelihoods. Through rigorous remote and field mapping, engagement with communities, and review of existing hazard data, the project aimed to provide accurate insights into areas at risk from floods, landslides, and other climate-induced hazards, enabling Anticipatory Actions plannings in the areas.
 
 #### Step 1: Remote Mapping
-Following the identification of priority areas based on natural disaster risk, the initial phase of Anticipatory Mapping commenced with the initiation of remote mapping tasks. This involved the meticulous updating and completion of building footprints within designated focus areas on OpenStreetMap, achieved through the utilization of satellite imagery. The collected map data built the foundation for the following field mapping activities. 
+Following the identification of priority areas based on natural disaster risk, the initial phase of Anticipatory Mapping commenced with the initiation of remote mapping tasks with international volunteers using HOT's Tasking Manager. This involved the meticulous updating and completion of building footprints within designated focus areas on OpenStreetMap, achieved through the utilization of satellite imagery. The collected map data built the foundation for the following field mapping activities. 
 
 ### Step 2: Field Mapping
 Field mapping activities were organized by dividing mapping areas into smaller sections, typically comprising 50 to 100 buildings. Each team was then allocated a specific section to cover during the day. Below is an example illustrating mapping section plans for Laclo.
