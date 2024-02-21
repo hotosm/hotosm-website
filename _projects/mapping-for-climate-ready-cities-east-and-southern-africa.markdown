@@ -12,6 +12,13 @@ Country:
 - Kenya
 - Ethiopia
 - Democratic Republic of the Congo
+Partner:
+- OSM Kenya
+- SDI
+- Nakuru City Council
+- Nairobi County
+- OSM Ethiopia
+- OSM DRC
 Tools:
 - tool: Tasking Manager
   link: 
@@ -35,7 +42,7 @@ Tools:
 The Mapping for Climate Ready Cities projects in the East and Southern Africa Open Mapping Hub (ESA Hub) are focusing on cities in Kenya, Ethiopia, and Democratic Republic of the Congo. The team will use open mapping tools and technology to generate open map data in and around the major cities of Kinshasa, Addis Ababa, Nakuru, and Nairobi to aid communities, governments, and NGOs in effectively planning and implementing city climate resiliency programs and creating awareness of how climate change is affecting urban dwellers.
 
 ## Background
-Kinshasa, Democratic Republic of the Congo (DRC) is a city that faces frequent wide-scale flooding caused by a multitude of factors. A number of humanitarian organizations have requested updated data to assist them in making informed decisions on tackling flooding scenarios in the city. 
+Kinshasa, Democratic Republic of the Congo (DRC) is a city that faces frequent wide-scale flooding caused by a multitude of factors. A data management working group made up of a number of humanitarian organizations have requested updated data to assist them in making informed decisions on tackling flooding scenarios in the city. 
 
 In Addis Ababa, Ethiopia, as urbanization continues, there is a continued reduction of green spaces and insufficient road infrastructure. There are also data gaps in transportation planning, including insufficient comprehensive traffic flow studies, in-depth analysis of commuter patterns, non-motorized transport audits, road safety audits, and real-time monitoring of transportation systems. The lack of accurate and up-to-date information hampers effective decision-making for infrastructure development, planning, and traffic management. HOT aims to address some of these deficits through this program.
 
