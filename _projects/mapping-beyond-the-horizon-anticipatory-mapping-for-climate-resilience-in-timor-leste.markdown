@@ -7,6 +7,8 @@ Project Summary Text: |-
   What if the place you were looking for could not be found on any map? Not because it's hidden, but because it was never mapped. And what if people in need were living in unmapped places? How can we locate and reach out to them, especially in the face of a disaster?
 
   These questions are currently bothering humanitarians and scientists aiming to expand Anticipatory Action in Timor-Leste. In order to tackle this challenge, a new approach has been piloted in Timor-Leste: Anticipatory Mapping with the Red Cross Climate Centre, Timor Leste Red Cross, and Humanitarian OpenStreetMap Team.
+
+  Read the full [report](https://drive.google.com/file/d/1xKjBA9eicqon-Qnbiv-pWzSGuX0cldIn/view?usp=sharing).
 Is Community-Led: true
 Country:
 - timor leste
