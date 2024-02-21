@@ -9,6 +9,7 @@ tags:
 - workshops
 - open mapping
 - LATAM
+- tech
 Summary Text: The Data Festival recently held in Uruguay was the opportunity for the
   Open Mapping Hub to introduce to organizations and institutions open cartography
   applications and its humanitarian approach.

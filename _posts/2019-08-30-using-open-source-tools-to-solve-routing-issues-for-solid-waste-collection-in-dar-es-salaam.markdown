@@ -8,6 +8,7 @@ categories:
 tags:
 - Roads
 - analytics
+- tech
 Summary Text: 'One of the biggest difficulties in establishing an effective and efficient
   waste management collection and transportation system in Dar es Salaam is how long
   it takes to travel to Pugu dumpsite, the only officially designated solid waste

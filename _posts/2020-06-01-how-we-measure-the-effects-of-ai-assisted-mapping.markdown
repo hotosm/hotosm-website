@@ -10,6 +10,8 @@ Person:
 - Melanie Eckle
 Project:
 - Research on mapping with open machine learning
+tags:
+- tech
 ---
 
 The main aim has been to find best ways to amplify the impact of humanitarian mapping and assisting our growing community of mappers all around the world that contribute their valuable time to build the largest open geospatial platform.

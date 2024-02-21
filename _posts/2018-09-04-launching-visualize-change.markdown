@@ -6,6 +6,8 @@ Is image top aligned: true
 Person: Nate Smith
 Working Group:
 - Technical
+tags:
+- tech
 ---
 
 Today we’re launching [Visualize Change](https://visualize-change.hotosm.org), a new tool to see the change of OpenStreetMap over time. Anyone can automate the creation of embedded and downloadable animations for an area of interest to see the change in OSM. At [FOSS4G](https://2018.foss4g.org/) last week, we showed it off and this week we’re sharing it to the wider OpenStreetMap community. 

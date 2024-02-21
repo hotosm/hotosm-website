@@ -12,6 +12,8 @@ Summary Text: It's time to share the progress of the OpenAerialMap redesign proj
   again. In previous reports, you could read about the Project Kick-Off and the Design
   Phase. In June, the Kontur team involved users in the testing phase of the updated
   design of OAM.
+tags:
+- tech
 ---
 
 ![OAM Redesign Testing Phase](https://cdn.hotosm.org/website/OAM+tweet+mockup+Testing.png)

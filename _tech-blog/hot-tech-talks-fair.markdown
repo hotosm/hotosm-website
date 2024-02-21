@@ -7,6 +7,7 @@ tags:
 - ai-assisted-mapping
 - ai
 - open-ai
+- tech
 Summary Text: 'Here is all you need to know about HOT’s open AI-assisted mapping service:
   fAIr.'
 Feature Image: https://cdn.hotosm.org/website/fAIr.png
@@ -69,8 +70,6 @@ We recognized the Open Cities Challenge for building segmentation mid-2020, and 
 In March 2022, we participated in an AI for Social good seminar in Frankfurt, Germany where data scientists and nonprofit organisations came together pursuing various social good goals. Around mid-2022, we (the hot_tech team) set our strategy and defined our direction. From the beginning of 2022, we have played an advisory role in the RAMP project, until its release in October 2022. Currently (November 2022), we have reached the midpoint on the Omdena-HOT innovation challenge and built the fAIr roadmap ([read this for key takeaways](https://www.hotosm.org/tech-blog/hot-tech-talk-open-ai-challenge/)) .
 
 Go to [this link](https://docs.google.com/presentation/d/1kR2Gezh3yOhEZBSjtoJR37rJ1JX9Q3m6T43BO55puIU/edit?usp=sharing) to see the updated timeline with links:
-
-Also check [here the latest fAIr updates for 2024](https://www.hotosm.org/updates/fAIr_2024/) 
 
 ![Screenshot 2022-11-02 at 14.09.40.png](https://cdn.hotosm.org/website/Screenshot+2022-11-02+at+14.09.40.png)
 ![Screenshot 2022-11-02 at 14.09.49-94d2eb.png](https://cdn.hotosm.org/website/Screenshot+2022-11-02+at+14.09.49-94d2eb.png)

@@ -7,6 +7,8 @@ Project:
 - Tasking Manager
 Tool:
 - Tasking Manager
+tags:
+- tech
 ---
 
 We are really excited to be working with Kathmandu Living Labs! Hopefully you have already seen the blog post in [welcoming KLL to the collective](https://www.hotosm.org/tech-blog/welcome-to-the-collective-kll/). As quite a few of us are new to this collaboration we thought it would be useful to go through the process and ways in which you can get involved. Again, we are trialling this - any feedback and suggestions you have are more than welcome!

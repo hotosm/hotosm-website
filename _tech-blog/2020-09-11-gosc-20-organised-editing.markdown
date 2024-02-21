@@ -6,6 +6,8 @@ Summary Text: Here is a summary from the GSoC' 20 project that adds automatized 
 Feature Image: https://cdn.hotosm.org/website/gsoc-20-feature-image.jpg
 Person:
 - João Vitor Ramos
+tags:
+- tech
 ---
 
 ## The problem

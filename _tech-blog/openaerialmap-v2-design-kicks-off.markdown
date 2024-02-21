@@ -5,14 +5,14 @@ Summary Text: 'This year HOT joined with Kontur to take a fresh look at OAM and 
   the platform. We will evaluate how OAM could be improved to better support HOT’s
   vision that everyone has access to high quality map data and use that data responsibly
   to improve lives and communities. Read the initial findings in this blog and join
-  the user workshops at the end of April.
-
-'
+  the user workshops at the end of April.'
 Person: DK Benjamin
 Project:
 - OpenAerialMap
 Tool:
 - OpenAerialMap
+tags:
+- tech
 ---
 
 

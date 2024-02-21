@@ -7,6 +7,8 @@ Feature Image: https://cdn.hotosm.org/website/tm-hot-id-team.JPG
 Person: Nate Smith
 Working Group:
 - Technical
+tags:
+- tech
 ---
 
 It’s October and [Hacktoberfest](https://hacktoberfest.digitalocean.com/) has started. Hacktoberfest is the annual celebration of open source software hosted by Digital Ocean, GitHub, and Twilio to promote contributing to open source projects. This year [GitHub is calling for a Social Impact Challenge](https://blog.github.com/2018-10-02-join-the-social-impact-hacktoberfest-challenge/) during the month to highlight open source projects focused on social impact. We’re working with GitHub to have the [Tasking Manager project highlighted](https://blog.github.com/2018-10-02-join-the-social-impact-hacktoberfest-challenge/#humanitarian-openstreetmap) as open source project available for contributions. 

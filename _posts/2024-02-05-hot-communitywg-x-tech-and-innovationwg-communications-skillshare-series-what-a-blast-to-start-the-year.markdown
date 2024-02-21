@@ -8,6 +8,8 @@ Is image top aligned: false
 Person: Arnalie Vicario
 Working Group:
 - Community
+tags:
+- tech
 ---
 
 ***This post originally appeared on [Arnalie's OSM Diary](https://www.openstreetmap.org/user/arnalielsewhere/diary/403392).***

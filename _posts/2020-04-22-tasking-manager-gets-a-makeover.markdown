@@ -10,6 +10,8 @@ Working Group:
 - Technical
 Project:
 - 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
+tags:
+- tech
 ---
 
 Tasking Manager has evolved: technically and visually. Guided by our valued community of users, who participated in our [user experience discovery](https://www.hotosm.org/updates/tasking-manager-design-discovery/), the HOT tech team listened. We have redesigned and enhanced our user interface using state of the art programming libraries.

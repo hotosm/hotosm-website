@@ -9,6 +9,8 @@ Working Group:
 - Technical
 Project:
 - 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
+tags:
+- tech
 ---
 
 Last month we kicked off a new phase for the Tasking Manager -- building a [community of collaborators](https://www.hotosm.org/updates/a-community-of-collaborators-for-the-tasking-manager/) for software development. The community is addressing usability and user flows, metrics and statistics, and machine learning. Today we're sharing about a new partnership with Microsoft Philanthropies and Bing Maps to bring design updates, machine learning integration, and new open building datasets into the Tasking Manager through [Microsoft's AI for Humanitarian Action program](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action).

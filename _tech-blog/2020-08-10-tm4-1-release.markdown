@@ -6,6 +6,8 @@ Summary Text: Tasking Manager is in constant improvement. Take a look at the new
 Feature Image: https://cdn.hotosm.org/website/tm_4_1-featured.png
 Person:
 - Wille Marcel
+tags:
+- tech
 ---
 
 Since [our last blog post](/tech-blog/tm4-updates), the Tech Team has been working on the 4.1 release of [Tasking Manager](https://tasks.hotosm.org). This version includes new features like the project statistics and also a set of improvements on notifications.

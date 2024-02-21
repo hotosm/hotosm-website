@@ -12,6 +12,8 @@ Feature Image: "/uploads/Tasking%20Manager%20NPS%20Article.png"
 Person: Ramya Ragupathy
 Working Group:
 - TechandInnovation
+tags:
+- tech
 ---
 
 ## Positive Sentiments

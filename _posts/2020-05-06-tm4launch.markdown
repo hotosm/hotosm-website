@@ -14,6 +14,8 @@ Working Group:
 - Technical
 Project:
 - 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
+tags:
+- tech
 ---
 
 The future is here! Go and check out the [next evolution](https://hotosm.org/updates/tasking-manager-gets-a-makeover) of the [HOT Tasking Manager](https://tasks.hotosm.org).

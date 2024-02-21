@@ -9,6 +9,8 @@ Feature Image: https://cdn.hotosm.org/website/tm-ml-workshop-compressor.jpg
 Person: Nate Smith
 Working Group:
 - Technical
+tags:
+- tech
 ---
 
 For the past year we've been discussing ideas around how to integrate machine learning (ML)/artificial intelligence (AI) tools into an OpenStreetMap and Tasking Manager workflow. We recently outlined our initial ideas and direction with the HOT voting members, board, and staff. Below is a summary of the note which that outlines the initial ways how we plan to use Tasking Manager integration as a catalyst for leveraging machine learning within an OSM editing workflow.

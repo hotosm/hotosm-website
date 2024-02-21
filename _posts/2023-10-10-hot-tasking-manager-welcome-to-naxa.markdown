@@ -7,6 +7,8 @@ Feature Image: "/uploads/Naxa%20Tech%20Collective%20A.jpg"
 Person:
 - Petya Kangalova
 - Ramya Ragupathy
+tags:
+- tech
 ---
 
 [NAXA](https://naxa.com.np/), a Nepal-based Geo-ICT company, focuses on geospatial innovation, specializing in digital mapping and geodata management. Their diverse team collaborates with various organizations globally on tech projects, capacity development, and localization. Established in 2015, NAXA has been promoting and contributing to using OpenStreetMap to solve complex problems related to disaster management and development challenges. 

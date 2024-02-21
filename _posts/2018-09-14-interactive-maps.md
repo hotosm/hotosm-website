@@ -6,6 +6,8 @@ Person: Ramya Ragupathy
 Working Group:
 - Technical
 Summary Text: A round up of recent major pushes to the website through Outreachy.
+tags:
+- tech
 ---
 
 The current round of [Outreachy program](https://www.hotosm.org/updates/welcoming-summer-work-on-open-source-tools-through-outreachy-and-google-summer-of-code/) closed this mid-August. Starting mid-May, for about 3 months I’ve been working with HOT on improving map visualisations and packing more data into the new website. [The previous update](https://www.hotosm.org/updates/powering-our-maps-with-data/) was focused on map integration across pages & key HOT statistics at the country level. From then on, I’ve been working on bringing more interactivity to the [Our Work page](https://www.hotosm.org/our-work) and the [Country Overview](https://www.hotosm.org/where-we-work/uganda/).  

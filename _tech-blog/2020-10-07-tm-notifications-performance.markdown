@@ -7,6 +7,8 @@ Summary Text: Every two weeks we push a new version of Tasking Manager with new 
 Feature Image: https://cdn.hotosm.org/website/tm-stats-10-2020.jpg
 Person:
 - Wille Marcel
+tags:
+- tech
 ---
 
 This week we released the [version 4.1.10](https://github.com/hotosm/tasking-manager/releases/tag/v4.1.10). The main focus of the recent releases was to improve the notification system in order to allow a better communication between mappers, validators and project managers.

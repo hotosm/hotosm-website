@@ -4,6 +4,8 @@ date: 2021-09-16 09:06:00 Z
 Feature Image: https://cdn.hotosm.org/website/KLL+Before+After+Image.jpg
 Is image top aligned: true
 Person: Aishworya Shrestha
+tags:
+- tech
 ---
 
 Adding map data on OpenStreetMap transforms a blank canvas into a visual representation of places and communities where people live. However, it is often difficult to compare side by side how the map has changed over time. 

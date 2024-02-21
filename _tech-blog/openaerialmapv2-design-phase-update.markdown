@@ -4,6 +4,8 @@ date: 2022-06-02 11:56:00 Z
 Person: Cristiano Giovando
 Tool:
 - OpenAerialMap
+tags:
+- tech
 ---
 
 We wanted to provide you with an update of the next phase of the OpenAerialMap Project. Hopefully you have already read the [Kick Off blog](https://www.hotosm.org/tech-blog/openaerialmap-v2-design-kicks-off/). You can see an overview of the different project phases and where we currently are!

@@ -10,7 +10,8 @@ Person:
 - Shazmane Mandjee Rehamtula
 - Claudio de los Reyes
 - Leen D'hondt
-- 
+tags:
+- tech
 ---
 
 At HOT, open mapping communities and program teams face  unique challenges in how we work with data:
