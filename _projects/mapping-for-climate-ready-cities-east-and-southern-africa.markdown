@@ -12,7 +12,7 @@ Country:
 - Kenya
 - Ethiopia
 - Democratic Republic of the Congo
-Partner:
+Partners:
 - OSM Kenya
 - SDI
 - Nakuru City Council
