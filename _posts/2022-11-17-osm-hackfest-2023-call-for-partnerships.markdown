@@ -11,6 +11,8 @@ Is image top aligned: true
 Person:
 - Nirab Pudasaini
 - Risham Habib
+tags:
+- tech
 ---
 
 ![Screenshot 2022-11-17 at 6.54.55 PM.png](https://cdn.hotosm.org/website/Screenshot+2022-11-17+at+6.54.55+PM.png)

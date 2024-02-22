@@ -7,6 +7,8 @@ Summary Text: |
   If you are an open source developer, a maintainer of an open source project, or somebody who is interested in getting more involved with open source projects, then this post is for you! Hope you enjoy it - please reach out to me if you have questions(petya.kangalova@hotosm.org)
 Feature Image: https://cdn.hotosm.org/website/OSS.jpg
 Person: Petya Kangalova
+tags:
+- tech
 ---
 
 ## What is the OpenSourceSummit?

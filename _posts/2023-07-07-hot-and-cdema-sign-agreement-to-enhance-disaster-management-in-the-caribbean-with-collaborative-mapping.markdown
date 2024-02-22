@@ -8,6 +8,7 @@ tags:
 - caribbean
 - risk management
 - open mapping
+- tech
 Summary Text: HOT and CDEMA -the Caribbean Disaster Emergency Management Agency- have
   signed a collaboration agreement to strengthen CDEMA's geospatial technological
   capabilities. Learn the details.

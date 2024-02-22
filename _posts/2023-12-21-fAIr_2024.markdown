@@ -7,6 +7,8 @@ Feature Image: "/uploads/Screenshot%202023-12-21%20at%2010.01.26%E2%80%AFAM-b628
 Person:
 - Omran Najjar
 - Petya Kangalova
+tags:
+- tech
 ---
 
 Hi everyone! We are excited to share some updates about HOT’s AI-assisted mapping service (fAIr) and what to look forward to in 2024! If you have not heard of fAIr, please read [our previous blog about fAIr](https://www.hotosm.org/tech-blog/hot-tech-talks-fair/) that will give you some context and progress till October of 2023, then continue here. 

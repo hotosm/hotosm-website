@@ -12,6 +12,8 @@ Country:
 - Guatemala
 Project:
 - Eliminar la Malaria 2020
+tags:
+- tech
 ---
 
 Guest blog by Miriam Gonzalez (@Mapanauta), HOT Guatemala Malaria Elimination Project Volunteer

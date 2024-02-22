@@ -8,6 +8,8 @@ Summary Text: 'From Ghana to Zambia to the Philippines, we take a look at some o
   roads, addressing some of the most pressing issues in undermapped regions.'
 Feature Image: https://cdn.hotosm.org/website/2019-06-20-stephen-team-ghana.jpg
 Person: Rebecca Firth
+tags:
+- tech
 ---
 
 Updated and accurate maps have the ability to dramatically improve people’s lives. That’s why Mapillary and the Humanitarian OpenStreetMap Team announced [#map2020](https://blog.mapillary.com/update/2019/05/09/launching-map-2020.html) last month, to accelerate map data collection for better maps in undermapped regions. We’ve had applications from all over the world, with each application and mapping group outlining how they will use street-level imagery to tackle pressing humanitarian challenges head-on.

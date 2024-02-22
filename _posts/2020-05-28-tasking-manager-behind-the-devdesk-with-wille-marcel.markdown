@@ -12,6 +12,8 @@ Country:
 - Global
 Project:
 - Tasking Manager
+tags:
+- tech
 ---
 
 **What’s been the best thing about working on Tasking Manager version 4?**

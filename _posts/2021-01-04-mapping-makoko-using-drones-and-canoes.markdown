@@ -9,6 +9,8 @@ Country:
 - Nigeria
 Project:
 - 'Code for Africa: Using Drones to Map Makoko, One of Africa''s Largest Slums'
+tags:
+- tech
 ---
 
 Ever mapped a city from a canoe before? Code for Africa, in partnership with Pulitzer Center on Crisis Reporting and the Humanitarian OpenStreetMap Team (HOT), enabled a team of volunteers to do exactly that in Makoko, a floating city in Lagos, Nigeria. 

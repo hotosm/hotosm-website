@@ -14,56 +14,63 @@ layout: default
 
     <div class="news-index-sidebar">
 
-      {% assign sorted = site.tech-blog | sort: 'date' %}
+      {% assign sorted = site.tech-blog | concat: site.posts | sort: 'date' %}
       {% assign tech-blog = sorted | reverse %}
 
-      {% for post in tech-blog limit:1 %}
 
-        <div class="news-index-item first">
+                {% assign left_count = 0 %}
+                {% for post in tech-blog %}
+                  {% if post.tags contains 'tech' %}
+                  {% assign highlight_count = highlight_count | plus: 1 %}
+                  <div class="news-index-item first">
 
-          <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+                    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
 
-          <div class="news-list-image">
-            {% if post['Feature Image'] %}
-              <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
-            {% endif %}
-          </div>
+                    <div class="news-list-image">
+                      {% if post['Feature Image'] %}
+                        <a href="{{ post.url }}"><img class="news-feature-image" src="{{ post['Feature Image'] }}"></a>
+                      {% endif %}
+                    </div>
 
-          <div class="news-list-summary">
+                    <div class="news-list-summary">
 
-            <div class="news-list-meta">
-              {% capture post.Person %}{% endcapture %}
-                {% assign author = site.people | where: "title", post.Person | first %}
-                {% if post.Person %}
-                  <p class="news-index-author">{{ author.title }}</p>
-              {% endif %}
-              <p class="news-index-date">{{ post.date | date: '%e %B, %Y' }}</p>
-              {% if post.Country != '' %}
-                <p class="news-index-country">
-                  {% for country in post.Country %}
-                    {% if country != '' %}
-                      {% if post.Country.size <= 3 %}
-                        {{ country }}{% unless forloop.last and country != '' %}, {% endunless %}
-                      {% else post.Country.size > 3 %}
-                        {% assign countrycount = post.Country.size %}
-                        {{ post.Country[0] }} and {{ countrycount | minus: 1 }} other countries
-                        {% break %}
-                     {% endif %}
-                    {% else %}
-                      Global
-                    {% endif %}
-                  {% endfor %}
-                </p>
-              {% endif %}
-            </div>
+                      <div class="news-list-meta">
+                        {% capture post.Person %}{% endcapture %}
+                          {% assign author = site.people | where: "title", post.Person | first %}
+                          {% if post.Person %}
+                            <p class="news-index-author">{{ author.title }}</p>
+                        {% endif %}
+                        <p class="news-index-date">{{ post.date | date: '%e %B, %Y' }}</p>
+                        {% if post.Country != '' %}
+                          <p class="news-index-country">
+                            {% for country in post.Country %}
+                              {% if country != '' %}
+                                {% if post.Country.size <= 3 %}
+                                  {{ country }}{% unless forloop.last and country != '' %}, {% endunless %}
+                                {% else post.Country.size > 3 %}
+                                  {% assign countrycount = post.Country.size %}
+                                  {{ post.Country[0] }} and {{ countrycount | minus: 1 }} other countries
+                                  {% break %}
+                              {% endif %}
+                              {% else %}
+                                Global
+                              {% endif %}
+                            {% endfor %}
+                          </p>
+                        {% endif %}
+                      </div>
 
-            <div class="news-list-summary-text">
-              <p>{{ post['Summary Text'] | newline_to_br }}</p>
-            </div>
-          </div>
+                      <div class="news-list-summary-text">
+                        <p>{{ post['Summary Text'] | newline_to_br }}</p>
+                      
+                      </div>
+                    </div>
 
-        </div>
-
+                  </div>
+            {% if highlight_count > 0 %}
+            {% break %}
+          {% endif %}
+        {% endif %}
       {% endfor %}
 
       <div class="news-index-sidebar">
@@ -120,6 +127,8 @@ layout: default
     <div class="news-index-list">
 
       {% for post in tech-blog offset:1 %}
+      {% if post.tags contains 'tech' %}
+      {% assign highlight_count_right = highlight_count_right | plus: 1 %}
 
         <div class="news-index-item">
 
@@ -176,7 +185,10 @@ layout: default
           </div>
 
         </div>
-
+            {% if highlight_count_right > 15 %}
+            {% break %}
+          {% endif %}
+        {% endif %}
       {% endfor %}
 
       <div class="news-pagination">

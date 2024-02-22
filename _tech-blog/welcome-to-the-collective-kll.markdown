@@ -7,6 +7,8 @@ Summary Text: 'It is with great excitement and pleasure that I have the opportun
   6 months (and possibly beyond). '
 Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2022-02-08+at+4.39.26+pm.png
 Person: Bo Percival
+tags:
+- tech
 ---
 
 Everyone is probably well familiar with hot_tech’s, [right turn](https://docs.google.com/document/d/1ATrtqB4FbUmZN3TB1dCRXEeJI9Uvg82UWII_jxIkTEw/edit?usp=sharing)  and  [TM Tomorrow](https://docs.google.com/document/d/1tTT4oKUN34FThzbNFZKfj0lhQOMRB4uTF1n2rO1iHrc/edit?usp=sharing) ambitions - our main goal being to work less controllingly and more collectively in how we build our tech. 

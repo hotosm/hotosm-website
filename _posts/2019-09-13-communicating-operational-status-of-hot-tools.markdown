@@ -10,6 +10,8 @@ Person:
 - Dakota Benjamin
 Working Group:
 - Technical
+tags:
+- tech
 ---
 
 We’re very happy to formally introduce our HOT status page! You can find it at [status.hotosm.org](https://status.hotosm.org/). 

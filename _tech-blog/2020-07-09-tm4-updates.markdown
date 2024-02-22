@@ -7,6 +7,8 @@ Summary Text: HOT released Tasking Manager 4.0 in April 2020 and since then the 
 Feature Image: https://cdn.hotosm.org/website/tm4-projects.jpg
 Person:
 - Wille Marcel
+tags:
+- tech
 ---
 
 ​​This blog post gives an overview of some of the most valuable features added to [Tasking Manager](https://tasks.hotosm.org/) in the last few weeks.<br><br>

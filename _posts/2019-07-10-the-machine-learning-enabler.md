@@ -8,6 +8,8 @@ Working Group:
 - Technical
 Project:
 - 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
+tags:
+- tech
 ---
 
 The Humanitarian OpenStreetMap Team is partnering with Development Seed, Facebook, and Microsoft to build AI-based mapping tools to empower mappers around the world. We believe this will help volunteers to make sure their time is utilized well, and improve the quality of the map where it’s most needed.

@@ -7,6 +7,8 @@ Summary Text: As part of the 2020 Outreachy summer program, we developed a Slack
   share data between members and increase productivity.
 Person:
 - Andria Hibe
+tags:
+- tech
 ---
 
 ## Planning the Slackbot Router

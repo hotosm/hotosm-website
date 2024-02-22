@@ -8,6 +8,8 @@ Is image top aligned: true
 Person: Nate Smith
 Working Group:
 - Technical
+tags:
+- tech
 ---
 
 Last year at State of the Map in Boulder [we announced](https://2017.stateofthemap.us/program/humanitarian-openstreetmap-team.html) a new tool called [MapCampaigner](https://campaigns.hotosm.org/). Today we're opening it up to anyone to create campaigns. MapCampaigner gives anyone the ability to monitor the quality and progress of OpenStreetMap field mapping anywhere around the world. We built this tool to enable project managers to track and evaluate data quality — in this case, completeness of [OpenStreetMap tags](https://wiki.openstreetmap.org/wiki/Tags) — of an area. 

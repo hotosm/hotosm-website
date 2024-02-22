@@ -8,6 +8,8 @@ Person:
 - Nate Smith
 Working Group:
 - Technical
+tags:
+- tech
 ---
 
 Today is [SatSummit](https://2018.satsummit.io/) and we want to give a shout out to imagery providers and the layers they provide to the OpenStreetMap (OSM) community. As discussions about all aspects of processing and using satellite imagery, one aspect continues to make a huge impact -- access to imagery for OpenStreetMap. [Microsoft Bing](https://www.bing.com/maps), [DigitalGlobe](https://www.digitalglobe.com/), [Mapbox](http://mapbox.com), and [ESRI](https://www.esri.com) all provide global layers that make humanitarian mapping in OpenStreetMap possible.

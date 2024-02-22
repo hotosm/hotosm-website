@@ -11,6 +11,8 @@ Country:
 - Tanzania
 Project:
 - 'Modelling Exposure Through Earth Observation Routines: METEOR'
+tags:
+- tech
 ---
 
 We previously posted on the [project’s goals](https://www.hotosm.org/updates/building-disaster-resilient-countries-slash-cities-through-open-spatial-data-and-exposure-analysis/) and how we [collected building datasets](https://www.hotosm.org/updates/collecting-building-data-sets-for-exposure-data-in-tanzania/) in Tanzania for developing exposure models. The consortium worked together to create hazard models for flooding, volcanic hazards (ash, lahars, and pyroclastic density currents), earthquakes, and landslides. The final outputs, data, and documentation are openly available on the [project website](https://meteor-project.org/data/). 

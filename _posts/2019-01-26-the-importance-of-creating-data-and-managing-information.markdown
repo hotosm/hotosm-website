@@ -8,6 +8,8 @@ Country:
 Project:
 - 'Women Connect: #LetGirlsMap'
 - 'Community development: Microgrants and Device Grants'
+tags:
+- tech
 ---
 
 Technology and data are useful tools, that can help us to better understand the society we live in, and we are very fortunate to live in a time where these are developing at pace. We have a huge variety of apps at our fingertips which have been developed to make our lives easier; the data we access is almost constantly updated, be it news, photos, videos or memes. The problem really starts when we stop being critical of the data we consume, and we misuse them.

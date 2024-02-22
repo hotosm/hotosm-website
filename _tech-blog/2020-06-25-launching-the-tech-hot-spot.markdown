@@ -8,6 +8,8 @@ Feature Image: https://cdn.hotosm.org/storage/IMG_8444.png
 Person:
 - Bo Percival
 - Ramya Ragupathy
+tags:
+- tech
 ---
 
 For those who don’t know the Tech Team, we work on development and maintenance of [some tools](/tools-and-data) used by the HOT and OpenStreetMap communities, like Tasking Manager, Map Campaigner, OpenMapKit-Server and Export Tool.

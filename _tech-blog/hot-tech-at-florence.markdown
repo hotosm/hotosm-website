@@ -5,6 +5,8 @@ Summary Text: "\nWe are excited to meet the community and share all that’s hap
   with the hot_tech team at State of the Map and FOSS4G starting next week! "
 Feature Image: https://cdn.hotosm.org/website/hot_tech.jfif
 Person: Petya Kangalova
+tags:
+- tech
 ---
 
 ## HOT unSummit

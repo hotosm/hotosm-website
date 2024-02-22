@@ -7,6 +7,8 @@ Feature Image: https://cdn.hotosm.org/website/tm-history-update.png
 Person: Nate Smith
 Working Group:
 - Technical
+tags:
+- tech
 ---
 
 October and November have been busy months and today we updated the [Tasking Manager](https://tasks.hotosm.org/) with new features and fixes. We received nearly 60 different commits from around the globe through [Hacktoberfest](https://hacktoberfest.digitalocean.com/) in October. In November we've worked to review and integrate these contributions. The new work has included documentation updates, layout improvements, and bug fixes large and small. Below is a rundown of what we completed and how it will impact your mapping.

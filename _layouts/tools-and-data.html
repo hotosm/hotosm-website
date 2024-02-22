@@ -10,11 +10,13 @@ layout: default
       <div class="clear">
         <div class="page-subnav">
           <nav class="subnav">
-            <h5>Tools we use:</h5>
+            <h5>Tools developed by HOT, its partners & volunteers:</h5>
             <ul>
               {% assign sorted-tools = site.tools | sort: 'position' %}
               {% for tool in sorted-tools %}
+              {% if tool.Status != "inactive" %}
                 <li><a href="{{ tool['Tool id'] }}">{{ tool.title }}</a></li>
+              {% endif %}
               {% endfor %}
             </ul>
             <div class="w100">
