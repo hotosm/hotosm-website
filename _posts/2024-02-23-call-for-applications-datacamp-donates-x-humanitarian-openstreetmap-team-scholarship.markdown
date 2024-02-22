@@ -22,7 +22,7 @@ HOT believes that this is a great opportunity for contributors, volunteers, comm
 
 ## Call for Applications is now open!
 
-Apply through [this form] (https://docs.google.com/forms/d/e/1FAIpQLSd6bzzYvWSnvhpLF--fbv4KptI1QyXOaZd69C002vU30K6FSA/viewform) now **until 8 March**!
+Apply through [this form](tinyurl.com/HOTxDataCampApplication2024) now **until 8 March**!
 
 
 ## Selection Criteria
