@@ -11,6 +11,9 @@ Feature Image: "/uploads/Soberani%CC%81a%20de%20datos,%20mapeo%20abierto%20y%20t
 Person: Juan Arellano Valdivia
 ---
 
+**[Versión en español
+](https://www.hotosm.org/updates/soberania-de-datos-mapeo-abierto-territorios-indigenas/)**
+
 In the development of open mapping projects in the Latin American region, both Humanitarian OpenStreetMap (HOT) and other humanitarian entities, have had the experience of coordinating projects with indigenous communities. These communities usually show interest in taking advantage of their data to exercise their rights, defend their territories and resources, as well as preserve their knowledge and wisdom. However, they also express concern about the reach that this data may have in hands outside the community.
 
 With the aim that the learning achieved can be shared with other project leaders who may need these experiences in the future, and in general with people interested in the topic of indigenous rights, we organized a discussion table in the past [AbreLatam / ConDatos](https://2023.abrelatam.org/) called D[ata Sovereignty, open mapping and indigenous territories](https://llamado.abrelatam.org/abrelatam-condatos-2023/talk/EX787L/).
