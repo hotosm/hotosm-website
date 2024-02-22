@@ -1,0 +1,359 @@
+---
+layout: default
+---
+
+<!-- ** Main banner -->
+<header class="program-header" >
+
+    
+    <div class="program-header-meta promo-title-image" >
+        <div class="program-promo" id="events" >
+            <!-- <div class="event-title"> -->
+              <!-- <img src="{{ page['Event Promo'].Image }}"> -->
+              
+          <!-- </div> -->
+          <div class="event-info">
+            <div class="event-description">
+            <h2>{{ page['Event Promo']['Event Name'] }}</h2>
+            <h4>{{ page['Event Promo'].Description }}</h4>
+            </div>
+            <!-- <a href="{{ page['Event Promo'].URL }}" class="btn btn-primary btn-block btn-chevron">{{ page['Event Promo'].Button }}</a> -->
+
+                    <div class="container-stats-program program-stats">
+                        <div class="program-stat">
+                        <!-- <center><p class="loader"></p></center> -->
+                        <!-- <p class="stat-number" id="Community-Mappers"></p> -->
+                        <p class="stat-number">10M</p>
+                        <p class="stat-title">People to be Mapped<sup>&#9432;</sup>
+                            <span class="tooltiptext">Expected outcome of an area home to 10 million people mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> </span>
+                        </p>
+                        </div>
+                        <div class="hr-v"></div>
+                        <div class="program-stat">
+                        <!-- <center><p class="loader"></p></center>
+                        <p class="stat-number" id="Total-Map-Edits"></p> -->
+                        <p class="stat-number">1,000</p>
+                        <p class="stat-title">local mappers to be trained<sup>&#9432;</sup>
+                            <span class="tooltiptext">With a focus on participatory mapping</span>
+                        </p>
+                        </div>
+                        <div class="hr-v hide-sm"></div>
+                        <div class="program-stat">
+                        <!-- <center><p class="loader"></p></center>
+                        <p class="stat-number" id="Buildings-Mapped"></p> -->
+                        <p class="stat-number">20</p>
+                        <p class="stat-title">Local Orgs to engage<sup>&#9432;</sup>
+                            <span class="tooltiptext">Connecting local organizations with local stakeholders and govermnets</span>
+                        </p>
+                        </div>
+                        <div class="hr-v"></div>
+                        <div class="program-stat">
+                        <!-- <center><p class="loader"></p></center> -->
+                        <!-- <p class="stat-number" id="Roads-Mapped"></p> -->
+                        <p class="stat-number">25K</p>
+                        <p class="stat-title">Datasets to be Downloaded<sup>&#9432;</sup>
+                            <span class="tooltiptext">A goal per year that will allow to determine the interest on the data produced.</span>
+                        </p>
+                        </div>
+                    </div>
+                    <div class="hr-h-program-separators"></div>
+                    <div class="hr-h-program-separators"></div>
+
+
+
+                    <div class="block-options ">
+                            <h7>Related Projects</h7>
+                                <br>
+                                <ul>
+                                    <div class="container-program ">
+                                        <div class="hr-h-program "></div>
+                                        <div class="hr-h-program "></div>
+                                        <div class="hr-h-program "></div>
+
+                                {% for project in page['Block 2'].Project %}
+                                    {% comment %}
+                                    {% endcomment %}
+                    
+                                    {% for p in site.projects %}
+                                    {% if p.title == project %}
+                                        {% capture pURL %} {{p.url}} {% endcapture %}
+                                        {% break %}     
+                                    {% endif %}
+                                    {% endfor %}
+                                    <li><a href="{{ pURL }}" style="color: white;">{{ project }}</a></li>
+                                {% endfor %}
+                                </ul>
+                            </div>
+
+                    </div>
+
+            </div>
+        </div>
+    </div>
+    
+</header>
+<div class="project-body" style="background-image: url('https://cdn.hotosm.org/website/Ramani+Huria+Dar+es+Salaam+v3.jpg');">
+</div>
+
+
+<!--** Program Intro -->
+
+<article class="container-body-program project-item">
+    <div class="program-body">
+        <section class="article">
+            <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 4rem;">PROGRAM HIGHLIGHTS</h2>
+            <p style="font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.5rem;">
+                2024 - 2025 Cycle
+            </p>
+
+            <!--** Coverage -->
+            <div class="project-header-meta">
+
+                <p class="project-involvement" style="color: #D73F3F;">
+                     Coverage
+                </p>
+                {% if page.Country[0] != '' %}
+                <p class="project-countries">
+
+                    {% for page-country in page.Country %} {% for country in site.where-we-work %}
+                    {% if page-country == country.title %}
+                    <span class="project-country"><a href="{{ country.url }}">{{ country.title }}</a></span> {% endif %}
+                    {% endfor %} {% endfor %}
+
+                </p>
+                {% else %}
+                <p class="project-countries">
+                    <span class="project-country">Global</span>
+                </p>
+                {% endif %}
+            </div> 
+
+            <!--** Impact Areas -->
+
+            <div class="project-header-meta">
+
+                <p class="project-involvement" style="color: #D73F3F;">
+                     Impact Areas
+                </p>
+                {% if page.impact-area [0] != '' %}
+                <p class="project-countries">
+
+                    {% for area in page['Impact Area'] %} {% for impact-area in site.impact-areas %}
+                    {% if area == impact-area.title %}
+                    <span class="project-country"><a href="{{ impact-area.url }}">{{ impact-area.title }}</a></span> {% endif %}
+                    {% endfor %} {% endfor %}
+
+                </p>
+                {% else %}
+                <p class="project-countries">
+                    <span class="project-country">Global</span>
+                </p>
+                {% endif %}
+            </div>
+
+             <!--** Partners -->
+
+             <div class="project-header-meta">
+                    {% if page.Partner[0] != '' %}
+                    <p class="project-involvement" style="color: #D73F3F;">
+                        Partners
+                    </p>
+                    <p class="project-countries">
+
+                            {% for page-partner in page.Partner %} 
+                            {{ page-partner }} -
+                            {% endfor %} 
+
+                </p>
+                {% else %}
+                <p class="project-countries">
+                    <span class="project-country"></span>
+                </p>
+                {% endif %}
+            </div> 
+
+            <!-- ** intro Summary -->
+
+            <div class="hr-h"></div>
+
+            {% if page.Project-text['Project Summary Text'] %}
+            <div class="pro-summary-wrap">
+                <div class="project-summary">
+                    <p style="color: black;">{{ page.Project-text['Project Summary Text'] }}</p>
+                </div>
+            </div>
+            {% endif %}
+           
+            <!-- ** intro text -->
+            <div class="pro-content-wrap">
+                <div class="project-content">
+                    
+                    {% if page['project_extent'] != '' %}
+                    {% else %} 
+                    {% if page.Project-text['Introduction'] %}
+                            {{ page.Project-text['Introduction'] | markdownify }}
+                    {% endif %}
+                    {% endif %}
+
+                 </div>
+            </div>
+
+             <!-- ** image -->
+            <div class="pro-content-wrap">
+                <div class="project-content">
+                    <div>
+                            <img class="project-feature-image" src="{{ page.Image-leading }}">
+                            <figcaption style="text-align: center; font-style: italic; font-size: smaller;">{{ page.Figcaption}}</figcaption> 
+                            <br>
+                    </div>
+                </div>
+            </div>
+
+
+           
+        </div>
+    </section>
+</article>
+
+<!-- second part -->
+
+<article class="container-body-program project-item">  
+    <div class="program-body">
+        <section class="article" style="margin: 0px 0px 0px" > 
+             <!-- ** narrative -->
+                    <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2rem; color: black; margin: 0px 0 0px">{{ page.Project-text.Narrative-title }}</h2>                    <br>
+                    <div class="hr-h" style="margin: 0px 0 40px "></div>
+
+                    <!-- <div class="hr-h"></div> -->
+        
+                    {% if page.Project-text.Narrative-introduction %}
+                    <div class="pro-summary-wrap">
+                        <div class="project-summary">
+                            <p style="color: black;">{{ page.Project-text.Narrative-introduction }}</p>
+                        </div>
+                    </div>
+                    {% endif %}
+                    
+                    <div class="pro-content-wrap">
+                        <div class="project-content">
+                            {% if page.Project-text.Narrative %}
+                                    {{ page.Project-text.Narrative | markdownify }}
+                            {% endif %}
+                        </div>
+                    </div>
+
+                    <!-- **block content left -->
+                    <article class="container-body-program project-item" >
+                        <div class="program-body" style="grid-template-columns: repeat(1, 1fr);">
+                            <section class="article" >
+                                <div class="what-we-do">
+                                    <div class="half-blocks" >
+                                        <div class="half-block right" style="background-color: white;">
+                                            <div class="block-details right" style="padding: 59px 0px 00px 40px;">
+                                            <div class="block-info">
+                                                <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2rem; color: #D73F3F; margin: 0px 0 0px">{{ page.Quote }}</h2>
+                                            </div>
+                                            </div>
+                                            <div class="block-image left" style="background-image: url(/images/dot-pattern.svg); padding: 15px;">
+                                            <img src="{{ page['Block 2'].Image }}">
+                                            <figcaption style="text-align: center; font-style: italic; font-size: smaller; padding-top: 20px;">{{ page['Block 2'].Figcaption }}</figcaption> 
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div> 
+                    </article>  
+        </section>
+    </div>
+</article>
+
+
+<article class="container project-item">
+    <div class="program-body">
+        <section class="article">
+<!--** Objectives -->
+
+    <!--** Test with inline objectives -->
+            <div class="container">
+
+                <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2rem; color: black;">Objectives</h2>
+                <div class="hr-h" style="margin: 10px 0 40px "></div>
+
+                <div class="project-index-all">
+
+                    <div>
+                        <h1><i class="fa-regular fa-map"></i> {{ page.Project-objectives.Objective1 }} </h1>
+                        <br>
+                        <h4>{{ page.Project-objectives.Objective1-highlight }}</h4>
+                        <p>{{ page.Project-objectives.Objectives-title-1 }}</p>
+                    </div>
+                    <div>
+                        <h1><i class="fa-solid fa-chart-line"></i></i> {{ page.Project-objectives.Objective2 }}</h1>
+                        <br>
+                        <h4>{{ page.Project-objectives.Objective2-highlight }}</h4>
+                        <p>{{ page.Project-objectives.Objectives-title-2 }}</p>
+                    </div>
+                    <div>
+                        <h1><i class="fa-solid fa-users-line"></i>{{ page.Project-objectives.Objective3 }}</h1>
+                        <br>
+                        <h4>{{ page.Project-objectives.Objective3-highlight }}</h4>
+                        <p>{{ page.Project-objectives.Objectives-title-3 }}</p>
+                    </div>
+                    
+                </div>
+                <div class="hr-h" style="margin: 40px 0 0px "></div>
+            </div>
+        </section>
+</article>
+
+<!--** HOT's Approach -->
+
+<div class="container">
+
+
+    <div class="event-promo" id="events">
+        <div class="event-title">
+        <h2>HOT's Approach</h2>
+        <img src="/uploads/hubs-map-dots.png" style="background-color: whitesmoke;">
+        <br>
+        <figcaption style="text-align: center; font-style: italic; font-size: smaller;">{{ page.Figcaption}}</figcaption> 
+        </div>
+        <div class="event-info">
+        <div class="event-description">
+            <p>{{ page.Project-text.Methodology }}</p>
+        </div>
+        <a href="/what-we-do" class="btn btn-primary btn-block btn-chevron">{{ page['Event Promo'].Button }}</a>
+        </div>
+    </div>
+</div>
+
+
+<!--////////////////////////////////-->
+<!--///////// Project News /////////-->
+<!--////////////////////////////////-->
+
+<div class="container">
+    <br>
+    <br>
+    <div class="hr-h"></div>
+        <div class="project-index-impact-areas">
+            <div class="impact-areas-wrapper">
+                <h2 class="boxed">See projects by impact area</h2>
+                <ul class="impact-areas-list">
+                {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
+                {% for impact-area in sorted-impact-areas  %}
+                    {% if impact-area.title == 'Disaster Response' %}
+                    <li><a href="/disaster-services/project_activations.html" class="nav-link">Disaster Response</a></li>
+                    {% else %}
+                    <li><a href="{{ impact-area.url }}" class="nav-link">{{ impact-area.title }}</a></li>
+                    {% endif %}
+                {% endfor %}
+                </ul>
+            </div>
+        </div>
+    <div class="hr-h"></div>
+</div>
+
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+<script src="https://kit.fontawesome.com/aa48057ccd.js" crossorigin="anonymous"></script>
