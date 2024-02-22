@@ -23,8 +23,8 @@ Duration:
 Tools:
 - tool: Tasking Manager
   link: https://tasks.hotosm.org/
-- tool: KoboToolbox
-  link: https://www.kobotoolbox.org/
+- link: https://www.kobotoolbox.org/
+  tool: KoboToolbox
 - tool: SketchMapTool
   link: https://sketch-map-tool.heigit.org/
 Report:
@@ -39,8 +39,7 @@ Report:
 [Anticipatory Action](https://www.anticipation-hub.org/about/what-is-anticipatory-action) is a proactive strategy aimed at preventing or mitigating forecasted hazards before their full impact is felt. This approach, based on predictive analyses, seeks to move away from reactive, ad hoc measures after a disaster and instead promotes early intervention by implementing early actions. It marks a transformative shift in the humanitarian system, transitioning from mere reaction to proactive initiatives ahead of potential disasters.
 
 ### Why is Anticipatory Action expanded in Timor-Leste?
-
-[Timor-Leste](https://www.anticipation-hub.org/experience/anticipatory-action-in-the-world/timor-leste), one of the world's newest nations with a population of 1.3 million, is a Southeast Asian island country characterized by a tropical climate. The nation faces heightened vulnerability to natural disasters, including cyclones, earthquakes, tsunamis, and heavy rainfall, exacerbated by inadequate infrastructure. Its wet season spans December to May, while the dry season prevails from June to November. Timor-Leste is significantly influenced by the El Niño Southern Oscillation, impacting rainfall patterns and contributing to droughts and epidemics. Despite developmental strides, a substantial portion of the population grapples with poverty, and the reliance on rain-fed agriculture by over 70% of the population amplifies vulnerabilities to climate-related challenges.
+<a href="https://www.anticipation-hub.org/experience/anticipatory-action-in-the-world/timor-leste">Timor-Leste</a>, one of the world's newest nations with a population of 1.3 million, is a Southeast Asian island country characterized by a tropical climate. The nation faces heightened vulnerability to natural disasters, including cyclones, earthquakes, tsunamis, and heavy rainfall, exacerbated by inadequate infrastructure. Its wet season spans December to May, while the dry season prevails from June to November. Timor-Leste is significantly influenced by the El Niño Southern Oscillation, impacting rainfall patterns and contributing to droughts and epidemics. Despite developmental strides, a substantial portion of the population grapples with poverty, and the reliance on rain-fed agriculture by over 70% of the population amplifies vulnerabilities to climate-related challenges.
 
 ### What can Anticipatory Action look like in Timor-Leste?
 
