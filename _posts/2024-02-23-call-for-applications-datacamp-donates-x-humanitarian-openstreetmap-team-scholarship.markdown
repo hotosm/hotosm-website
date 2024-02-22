@@ -9,15 +9,13 @@ Feature Image: "/uploads/Google%20Form%20Banner%20-%20DataCamp%20Donates%20x%20H
 Person: Arnalie Vicario
 ---
 
-Humanitarian OpenStreetMap Team (HOT) is pleased to announce a new partnership with [DataCamp](http://datacamp.com), an online learning platform for data and AI, through their [DataCamp Donates Program](https://www.datacamp.com/donates), which aims to partner with organizations to distribute free data education for people looking for work, members of disadvantaged communities, students, and nonprofit research scientists.
-
-DataCamp believes that education is a basic human right, and through DataCamp Donates, they provide free Professional access for one year to over 100+ organizations and counting.
+Humanitarian OpenStreetMap Team (HOT) is pleased to announce a new partnership with [DataCamp](http://datacamp.com), an online learning platform for data and AI. DataCamp believes that education is a basic human right, and through their [DataCamp Donates Program](https://www.datacamp.com/donates), they partner with organizations to distribute free data education for people looking for work, members of disadvantaged communities, students, and nonprofit research scientists, provide free professional access to their platform for one year to over 100+ organizations and counting. 
 
 The recipients of this scholarship will gain access to over 440 courses on the latest technologies, will be able to practice exercises to sharpen their skills, will have assessments to test their knowledge on the subject matter, and solve projects that stem from real-world queries.  They will also get access to extra DataCamp features like Workspace, Certification, and Jobs. 
 
 HOT believes that this is a great opportunity for contributors, volunteers, community members, and partner organizations to:
 * Learn and gain tech and data science skills complementary to mapping
-* Contribute to volunteers professional growth and development
+* Contribute to volunteers' professional growth and development
 * Build capacity in community and partner organizations
 * Provide insights on using OSM and geodata generation, e.g., data visualization.
 
@@ -32,7 +30,7 @@ Selection of successful candidates will be based on the following criteria:
 * Current situation: DataCamp Donates seeks to distribute free data education for people who need it the most, such as people looking for work, members of disadvantaged communities, students, and nonprofit research scientists.
 * Personal goals and Motivational statement: The free DataCamp Donates scholarship lasts 6-12 months. Applicants will be asked about their personal and professional goals and will be evaluated by their motivational statement.
 
-*When applying to this scholarship, the form will mainly ask about participation at HOT, personal information, current situation (employment, student status, gender, age, among others) and commitment towards using the DataCamp free license. Please fill it out as honestly as possible. This will help us determine eligibility. After submitting the form, applicants will receive an email shortly after to confirm their submission.*
+*When applying for this scholarship, the form will mainly ask about participation at HOT, personal information, current situation (employment, student status, gender, age, among others), and commitment towards using the DataCamp free license. Please fill it out as honestly as possible. This will help us determine eligibility. After submitting the form, applicants will receive an email shortly after to confirm their submission.*
 
 Important Dates:
 * **Open Call starts:** 23 February
