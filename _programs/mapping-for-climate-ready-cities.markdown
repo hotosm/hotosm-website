@@ -159,6 +159,3 @@ Anticipatory action, crucial in addressing the combined risks of climate change 
 - Currently missing data exists for key cities throughout the Global South that local and national governments and global networks can use to develop new climate modeling
 - Strengthened anticipatory action in key cities that bolsters resilience to future climate and disaster events
 - More robust and inclusive policies and capabilities in areas such as disaster resilience and municipal planning
-
-
-
