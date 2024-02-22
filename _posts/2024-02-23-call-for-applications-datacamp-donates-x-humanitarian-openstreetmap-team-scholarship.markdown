@@ -19,18 +19,20 @@ HOT believes that this is a great opportunity for contributors, volunteers, comm
 * Build capacity in community and partner organizations
 * Provide insights on using OSM and geodata generation, e.g., data visualization.
 
+
 ## Call for Applications is now open!
 
-Apply through [this form] (tinyurl.com/HOTxDataCampApplication2024) now **until 8 March**!
+Apply through [this form] (https://docs.google.com/forms/d/e/1FAIpQLSd6bzzYvWSnvhpLF--fbv4KptI1QyXOaZd69C002vU30K6FSA/viewform) now **until 8 March**!
+
 
 ## Selection Criteria
 
 Selection of successful candidates will be based on the following criteria:
-* Active participation at HOT: HOT aims to recognize dedicated contributors in humanitarian open mapping and with our organization, so applicants will be evaluated for their participation in HOT project/s and/or activities.
+* Active participation at HOT: HOT aims to recognize dedicated contributors in humanitarian open mapping and with our organization, so applicants will be evaluated for their participation in HOT projects and/or activities.
 * Current situation: DataCamp Donates seeks to distribute free data education for people who need it the most, such as people looking for work, members of disadvantaged communities, students, and nonprofit research scientists.
 * Personal goals and Motivational statement: The free DataCamp Donates scholarship lasts 6-12 months. Applicants will be asked about their personal and professional goals and will be evaluated by their motivational statement.
 
-*When applying for this scholarship, the form will mainly ask about participation at HOT, personal information, current situation (employment, student status, gender, age, among others), and commitment towards using the DataCamp free license. Please fill it out as honestly as possible. This will help us determine eligibility. After submitting the form, applicants will receive an email shortly after to confirm their submission.*
+*When applying for this scholarship, the form will ask about participation in HOT-related projects/activities, personal information, current situation (employment, student status, gender, age, among others), and commitment towards using the DataCamp free license. Please fill it out as honestly as possible. This will help us determine eligibility. After submitting the form, applicants will receive an email shortly after to confirm their submission.*
 
 Important Dates:
 * **Open Call starts:** 23 February
