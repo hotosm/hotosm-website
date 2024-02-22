@@ -2,7 +2,6 @@
 title: 'Call for Applications: DataCamp Donates x Humanitarian OpenStreetMap Team
   Scholarship'
 date: 2024-02-23 00:14:00 Z
-published: false
 Summary Text: HOT is partnering with DataCamp Donates to provide free data education
   and recognize dedicated humanitarian open mapping contributors.
 Feature Image: "/uploads/Google%20Form%20Banner%20-%20DataCamp%20Donates%20x%20Humanitarian%20OpenStreetMap%20Team%20Scholarship%20Application%20Form.png"
@@ -22,7 +21,7 @@ HOT believes that this is a great opportunity for contributors, volunteers, comm
 
 ## Call for Applications is now open!
 
-Apply through [this form](tinyurl.com/HOTxDataCampApplication2024) now **until 8 March**!
+Apply through [this form](tinyurl.com/HOTxDataCampApplication2024) now **until March 15th**!
 
 
 ## Selection Criteria
