@@ -1,6 +1,8 @@
 ---
 title: Launching the Tech HOT Spot!
 date: 2020-07-01 12:00:00 Z
+tags:
+- tech
 Summary Text: 'Welcome to our first blog post! We will be using this space to share
   stories from HOT Tech Team’s world and talk about ways in which our team plays a
   strong role in HOT''s mission. '
@@ -8,8 +10,6 @@ Feature Image: https://cdn.hotosm.org/storage/IMG_8444.png
 Person:
 - Bo Percival
 - Ramya Ragupathy
-tags:
-- tech
 ---
 
 For those who don’t know the Tech Team, we work on development and maintenance of [some tools](/tools-and-data) used by the HOT and OpenStreetMap communities, like Tasking Manager, Map Campaigner, OpenMapKit-Server and Export Tool.

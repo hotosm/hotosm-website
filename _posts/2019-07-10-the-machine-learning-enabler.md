@@ -1,6 +1,8 @@
 ---
 title: The Machine Learning Enabler
 date: 2019-07-10 14:00:00 Z
+tags:
+- tech
 Summary Text: 
 Feature Image: https://cdn.hotosm.org/website/ml-enabler.jpg
 Person: Sajjad Anwar
@@ -8,8 +10,6 @@ Working Group:
 - Technical
 Project:
 - 'Integrating Deep Learning: AI-Assisted Humanitarian Mapping'
-tags:
-- tech
 ---
 
 The Humanitarian OpenStreetMap Team is partnering with Development Seed, Facebook, and Microsoft to build AI-based mapping tools to empower mappers around the world. We believe this will help volunteers to make sure their time is utilized well, and improve the quality of the map where it’s most needed.

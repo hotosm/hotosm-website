@@ -1,6 +1,8 @@
 ---
 title: An approach to field data collection in Kathmandu
 date: 2019-04-03 03:47:00 Z
+tags:
+- tech
 Summary Text: Guest blog by Gaurav Thapa from Kathmandu Living Labs. Covering the
   collection process carried out by the team for surveying exposure data in Kathmandu
   Valley, Nepal as part of the METEOR project.
@@ -10,8 +12,6 @@ Country:
 - Nepal
 Project:
 - 'Modelling Exposure Through Earth Observation Routines: METEOR'
-tags:
-- tech
 ---
 
 *This blog is a continuation of the work described in the blog [Kathmandu from above](https://www.hotosm.org/updates/kathmandu-from-above/). Please check out the dedicated [OSM wiki page](https://wiki.openstreetmap.org/wiki/Directed_Edits/METEOR_Digitizing_Kathmandu) for more details project.*

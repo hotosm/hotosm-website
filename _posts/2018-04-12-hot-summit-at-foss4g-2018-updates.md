@@ -2,11 +2,11 @@
 title: HOT Summit at FOSS4G 2018 Updates
 date: 2018-04-12 17:54:15 Z
 permalink: updates/2018-04-12_hot_summit_at_foss4g_2018_updates
+tags:
+- tech
 Person: Rachel VanNice
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_2897.JPG
 created: 1523555655
-tags:
-- tech
 ---
 
 The time is quickly approaching! HOT Summit at FOSS4G 2018 is only 4 months away and we're excited to see you and for you to see our field programs in action in Dar Es Salaam, Tanzania. HOT Summit 2018 will be in conjunction with the Widening Access and Humanitarian Mapping track at the FOSS4G Conference.

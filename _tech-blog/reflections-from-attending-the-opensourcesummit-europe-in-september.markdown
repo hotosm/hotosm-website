@@ -1,14 +1,14 @@
 ---
 title: Reflections from attending the OpenSourceSummit Europe, September 2022
 date: 2022-10-05 10:43:00 Z
+tags:
+- tech
 Summary Text: |
   Hello lovely community members and tech enthusiasts!! I want to share some of my reflections from attending the Open Source Summit in Dublin in mid-September for the very first time! I categorised them into four areas that I hope will be useful for our community!
 
   If you are an open source developer, a maintainer of an open source project, or somebody who is interested in getting more involved with open source projects, then this post is for you! Hope you enjoy it - please reach out to me if you have questions(petya.kangalova@hotosm.org)
 Feature Image: https://cdn.hotosm.org/website/OSS.jpg
 Person: Petya Kangalova
-tags:
-- tech
 ---
 
 ## What is the OpenSourceSummit?

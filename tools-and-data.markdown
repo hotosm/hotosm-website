@@ -12,8 +12,6 @@ Block 1:
   Tools:
   - Name: Access our repositories
     URL: https://github.com/hotosm
-  # - Name: Check the status of our services
-  #   URL: https://status.hotosm.org
 Block 2:
   Header: Learn about OpenStreetMap
   Text: OpenStreetMap is a free street level map of the world, created by an ever
@@ -25,8 +23,6 @@ Block 2:
   Tools:
   - Name: LearnOSM
     URL: https://learnosm.org
-  # - Name: Training Center
-  #   URL: https://courses.hotosm.org/
   - Name: OpenStreetMap
     URL: https://openstreetmap.org
   - Name: OSM Wiki
@@ -48,8 +44,8 @@ Block 4:
   Header: Edit the Map
   Text: Quickly get started with editing and contibuting to OpenStreetMap via the
     Tasking Manager. You can volunteer your time to active mapping projects and support
-    organizations in need of map data around the world. Check RapiD, an editor that uses Artificial Inteligence to detect
-    unmapped roads and buildings.
+    organizations in need of map data around the world. Check RapiD, an editor that
+    uses Artificial Inteligence to detect unmapped roads and buildings.
   Image: "/downloads/rapid-ai-roads.png"
   Tools:
   - Name: Tasking Manager

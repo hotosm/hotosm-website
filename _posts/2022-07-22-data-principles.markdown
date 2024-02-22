@@ -2,16 +2,13 @@
 title: Data Principles
 date: 2022-07-22 08:46:00 Z
 tags:
-- protection
-- data principles
+- tech
 Person:
 - Paul Uithol
 - Jessica Pechmann
 - Shazmane Mandjee Rehamtula
 - Claudio de los Reyes
 - Leen D'hondt
-tags:
-- tech
 ---
 
 At HOT, open mapping communities and program teams face  unique challenges in how we work with data:

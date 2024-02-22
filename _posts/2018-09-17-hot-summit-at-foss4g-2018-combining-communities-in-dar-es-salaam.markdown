@@ -1,14 +1,14 @@
 ---
 title: HOT Summit at FOSS4G 2018- Combining Communities in Dar es Salaam
 date: 2018-09-17 14:30:00 Z
+tags:
+- tech
 Feature Image: https://cdn.hotosm.org/website/HOT+Summit+2018.jpg
 Person: Sıla Alıcı
 Country:
 - Tanzania
 Project:
 - FOSS4G
-tags:
-- tech
 ---
 
 This year’s HOT Summit was unique for many reasons, it was the first held in Africa and the first to be integrated into and part of the international FOSS4G conference. HOT’s Summit Working Group and the Dar Local Organizing Committee (DLOC) of OSGeo worked together to combine the OpenStreetMap and OSGeo communities and create unique opportunities for discussion and collaboration. Combining their efforts, the groups were excited to host dozens of new voices and include more supported participants than ever before.

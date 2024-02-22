@@ -1,13 +1,13 @@
 ---
 title: GSoC 20 - Automatized support for Organised Editing Guidelines
 date: 2020-09-11 12:30:00 Z
+tags:
+- tech
 Summary Text: Here is a summary from the GSoC' 20 project that adds automatized support
   for Organised Editing Guidelines in Tasking Manager.
 Feature Image: https://cdn.hotosm.org/website/gsoc-20-feature-image.jpg
 Person:
 - João Vitor Ramos
-tags:
-- tech
 ---
 
 ## The problem

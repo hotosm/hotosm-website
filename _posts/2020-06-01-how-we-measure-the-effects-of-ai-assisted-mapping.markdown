@@ -1,6 +1,8 @@
 ---
 title: How we measure the effects of AI-assisted mapping
 date: 2020-06-01 11:39:00 Z
+tags:
+- tech
 Summary Text: Over the past two years, HOT has taken a leadership role in exploring
   and facilitating the application of the latest advances in artificial intelligence.
 Feature Image: https://cdn.hotosm.org/website/ai-polygon-pass-3270fe.jpg
@@ -10,8 +12,6 @@ Person:
 - Melanie Eckle
 Project:
 - Research on mapping with open machine learning
-tags:
-- tech
 ---
 
 The main aim has been to find best ways to amplify the impact of humanitarian mapping and assisting our growing community of mappers all around the world that contribute their valuable time to build the largest open geospatial platform.

@@ -1,6 +1,8 @@
 ---
 title: Using open source tools to eliminate Malaria in Guatemala
 date: 2018-11-14 15:24:00 Z
+tags:
+- tech
 Summary Text: 'HOT is supporting the Clinton Health Access Initiative and the Guatemala
   Ministry of Health to assist local technicians who are in the field fighting Malaria
   in the area of Escuintla. Guatemala has provided a unique opportunity for HOT to
@@ -12,8 +14,6 @@ Country:
 - Guatemala
 Project:
 - Eliminar la Malaria 2020
-tags:
-- tech
 ---
 
 Guest blog by Miriam Gonzalez (@Mapanauta), HOT Guatemala Malaria Elimination Project Volunteer

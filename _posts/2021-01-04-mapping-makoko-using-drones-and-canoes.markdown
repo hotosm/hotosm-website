@@ -1,6 +1,8 @@
 ---
 title: Mapping Makoko Using Drones and Canoes
 date: 2021-01-04 10:49:00 Z
+tags:
+- tech
 Summary Text: A floating inner-city slum is in the process of being mapped to make
   a case for improved public services and land ownership.
 Feature Image: https://cdn.hotosm.org/website/Map+Makoko+1.jpeg
@@ -9,8 +11,6 @@ Country:
 - Nigeria
 Project:
 - 'Code for Africa: Using Drones to Map Makoko, One of Africa''s Largest Slums'
-tags:
-- tech
 ---
 
 Ever mapped a city from a canoe before? Code for Africa, in partnership with Pulitzer Center on Crisis Reporting and the Humanitarian OpenStreetMap Team (HOT), enabled a team of volunteers to do exactly that in Makoko, a floating city in Lagos, Nigeria. 

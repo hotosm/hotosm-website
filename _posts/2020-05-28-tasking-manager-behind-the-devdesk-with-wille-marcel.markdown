@@ -1,6 +1,8 @@
 ---
 title: Tasking Manager | Behind the DevDesk with Wille Marcel
 date: 2020-05-28 14:24:00 Z
+tags:
+- tech
 Summary Text: Wille is an experienced frontend engineer focused on rich web map applications
   and  the creator the Tasking Manager frontend and the OSMCha application, a very
   important tool for quality control and monitoring of changes of OpenStreetMap.
@@ -12,8 +14,6 @@ Country:
 - Global
 Project:
 - Tasking Manager
-tags:
-- tech
 ---
 
 **What’s been the best thing about working on Tasking Manager version 4?**

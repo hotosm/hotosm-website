@@ -1,6 +1,8 @@
 ---
 title: 'Tasking Manager: Insights from the NET Promoter Score Survey'
 date: 2024-02-13 20:24:00 Z
+tags:
+- tech
 Summary Text: Tasking Manager stands as a key solution in the realm of collaborative
   mapping, empowering users to contribute to meaningful projects on OpenStreetMap.
   As part of our commitment to continuous improvement of the tool, we conducted a
@@ -12,8 +14,6 @@ Feature Image: "/uploads/Tasking%20Manager%20NPS%20Article.png"
 Person: Ramya Ragupathy
 Working Group:
 - TechandInnovation
-tags:
-- tech
 ---
 
 ## Positive Sentiments

@@ -1,6 +1,8 @@
 ---
 title: Communicating Operational Status of HOT Tools
 date: 2019-09-13 10:00:00 Z
+tags:
+- tech
 Summary Text: Sharing up to date information about the current status and operation
   of all our tools through a simple status dashboard.
 Feature Image: https://cdn.hotosm.org/website/status-blog-1.png
@@ -10,8 +12,6 @@ Person:
 - Dakota Benjamin
 Working Group:
 - Technical
-tags:
-- tech
 ---
 
 We’re very happy to formally introduce our HOT status page! You can find it at [status.hotosm.org](https://status.hotosm.org/). 

@@ -1,6 +1,8 @@
 ---
 title: OpenAerialMapv2 - Design Testing Phase Results
 date: 2022-07-19 00:00:00 Z
+tags:
+- tech
 Person:
 - Cristiano Giovando
 - DK Benjamin
@@ -12,8 +14,6 @@ Summary Text: It's time to share the progress of the OpenAerialMap redesign proj
   again. In previous reports, you could read about the Project Kick-Off and the Design
   Phase. In June, the Kontur team involved users in the testing phase of the updated
   design of OAM.
-tags:
-- tech
 ---
 
 ![OAM Redesign Testing Phase](https://cdn.hotosm.org/website/OAM+tweet+mockup+Testing.png)

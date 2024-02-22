@@ -1,12 +1,12 @@
 ---
 title: Tasking Manager 4 - a year of improvement!
 date: 2021-04-12 12:00:00 Z
+tags:
+- tech
 Summary Text: April marks one year of the launch of Tasking Manager 4.
 Feature Image: https://cdn.hotosm.org/website/blog-post-2-image1.gif
 Person:
 - Wille Marcel
-tags:
-- tech
 ---
 
 Since then, we have made 37 releases and crossed a few exciting milestones, like more than 10,000 Projects published, 300K Users registered and 100 Million buildings mapped. With feedback from the community, we identify areas that need to be enhanced and work hard to release a [new version](https://github.com/hotosm/tasking-manager/releases) every two weeks. This blog post highlights some of the most relevant improvements we have made recently.

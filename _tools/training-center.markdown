@@ -6,3 +6,4 @@ Tool URL: http://courses.hotosm.org/
 Tool id: "#0"
 Status: inactive
 ---
+

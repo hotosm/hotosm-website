@@ -2,14 +2,14 @@
 title: HOT CommunityWG x Tech&InnovationWG Communications Skillshare Series - what
   a blast to start the year!
 date: 2024-02-05 19:56:00 Z
+tags:
+- tech
 Summary Text: THANK YOU FOR JOINING our Communications Skillshare Series!
 Feature Image: "/uploads/CWGCommsSkillshareJan2023C.png"
 Is image top aligned: false
 Person: Arnalie Vicario
 Working Group:
 - Community
-tags:
-- tech
 ---
 
 ***This post originally appeared on [Arnalie's OSM Diary](https://www.openstreetmap.org/user/arnalielsewhere/diary/403392).***

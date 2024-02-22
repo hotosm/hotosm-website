@@ -1,6 +1,8 @@
 ---
 title: 'Integrating Machine Learning into the Tasking Manager: Notes on a Direction'
 date: 2018-09-17 16:12:00 Z
+tags:
+- tech
 Summary Text: We're moving towards how we leverage machine learning tools to improve
   data quality and help mappers map. Above is a shot from our design workshop we held
   at the HOT Summit in Dar es Salaam on August 31. Read more below about our ideas
@@ -9,8 +11,6 @@ Feature Image: https://cdn.hotosm.org/website/tm-ml-workshop-compressor.jpg
 Person: Nate Smith
 Working Group:
 - Technical
-tags:
-- tech
 ---
 
 For the past year we've been discussing ideas around how to integrate machine learning (ML)/artificial intelligence (AI) tools into an OpenStreetMap and Tasking Manager workflow. We recently outlined our initial ideas and direction with the HOT voting members, board, and staff. Below is a summary of the note which that outlines the initial ways how we plan to use Tasking Manager integration as a catalyst for leveraging machine learning within an OSM editing workflow.
