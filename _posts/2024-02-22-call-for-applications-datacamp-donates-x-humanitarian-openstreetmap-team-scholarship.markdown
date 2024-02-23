@@ -21,7 +21,7 @@ HOT believes that this is a great opportunity for contributors, volunteers, comm
 
 ## Call for Applications is now open!
 
-Apply through [this form](tinyurl.com/HOTxDataCampApplication2024) now **until March 15th**!
+Apply through [this form](https://tinyurl.com/HOTxDataCampApplication2024) now **until March 15th**!
 
 
 ## Selection Criteria
@@ -41,6 +41,6 @@ Important Dates:
 * **Duration of the Program:** 6 months and so on
 
 
-Apply now!  [tinyurl.com/HOTxDataCampApplication2024](tinyurl.com/HOTxDataCampApplication2024)
+Apply now!  [tinyurl.com/HOTxDataCampApplication2024](https://tinyurl.com/HOTxDataCampApplication2024)
 
 ![QRcode.png](/uploads/QRcode.png)
