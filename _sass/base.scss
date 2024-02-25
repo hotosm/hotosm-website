@@ -2966,7 +2966,49 @@ h7 {
   }
 }
 
-
+.program-quote {
+  border-radius: 2px;
+  position: relative;
+  margin: 0px 0 35px;
+  @media (min-width: $screen-xs) {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+  }
+  h2 {
+    position: absolute;
+    top: -16px;
+    @media (min-width: $screen-xs) {
+      top: -24px;
+    }
+  }
+  .quote-title {
+    grid-column: span 7;
+    background-color: white;
+    padding: 40px 32px 32px;
+    @media (min-width: $screen-xs) {
+      padding: 56px 40px 40px;
+    }
+    img {
+      display: block;
+    }
+  }
+  .quote-info {
+    grid-column: span 4;
+    background-color: $red-light;
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    @media (min-width: $screen-xs) {
+      padding: 56px 0px 40px;
+    }
+  }
+  .quote-description {
+    flex: 1;
+    p {
+      margin-bottom: 14px;
+    }
+  }
+}
 
 .iframe-container{
   display: inline-table;

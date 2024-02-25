@@ -130,7 +130,7 @@ Block 2:
     high vulnerability areas where data is scarce, putting an area home to millions
     of people onto the world map in OpenStreetMap.
   Image: https://cdn.hotosm.org/website/Congestion+at+the+Water+PumpSmall.jpg
-  Figcaption: Crowdsourcing Non-Camp Refugee Services - March 2018
+  Figcaption: "Crowdsourcing Non-Camp Refugee Services Data - March 2018"
   Project:
   - 'Urban flood resilience: Ramani Huria'
   - 'Modelling Exposure Through Earth Observation Routines: METEOR'
