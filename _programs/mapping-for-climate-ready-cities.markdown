@@ -3,6 +3,27 @@ title: Mapping for Climate-Ready Cities
 date: 2018-05-01 05:01:00 Z
 permalink: "/programs/mapping-for-climate-ready-cities"
 position: 88
+Feature Image: https://cdn.hotosm.org/website/Ramani+Huria+Dar+es+Salaam+v3.jpg
+Country:
+- Bangladesh
+- Nepal
+- Ethiopia
+- Democratic Republic of Congo
+- Nigeria
+- Ivory Coast
+- South America
+- Kenya
+- Democratic Republic of the Congo
+Impact Area:
+- Sustainable Cities & Communities
+Partner:
+- UN-Habitat
+- Start Network
+- Save the Children UK
+- 
+Duration:
+  Start Date: 2024-01-01 00:00:00 Z
+  End Date: 2025-12-31 00:00:00 Z
 Image-leading: "/uploads/climate-ready-cities-map.png"
 Figcaption: Our four Regional Hubs work in 94 countries, connecting with local organizations,
   government agencies, international networks, and others to ground truth map data
@@ -37,15 +58,16 @@ Project-text:
     the compounded threats of climate change and disasters. By leveraging hazard forecasts,
     preemptive measures can be taken to mitigate crises, thereby saving resources,
     time, and averting displacement, disease, and livelihood losses.
-  Narrative: The FAO underscores the significant returns on investment, estimating
-    a sevenfold benefit for every dollar spent on anticipatory action. This proactive
-    approach enables enhanced coordination and community involvement, facilitating
-    early determination of response strategies and providers through ample time for
-    training and capacity building. Despite challenges posed by data scarcity, locally-led
-    planning emerges as pivotal for fostering inclusivity and informed decision-making.
-    Initiatives like HOT's program to provide open map data in high-risk areas prior
-    to disasters aim to bolster preparedness and mitigation efforts against extreme
-    weather and climate events.
+  Narrative: <a href="https://www.fao.org/documents/card/en/c/cb7145en">The Food and
+    Agriculture Organization (FAO) underscores the significant returns on investment,
+    estimating a sevenfold benefit for every dollar spent on anticipatory action</a>.
+    This proactive approach enables enhanced coordination and community involvement,
+    facilitating early determination of response strategies and providers through
+    ample time for training and capacity building. Despite challenges posed by data
+    scarcity, locally-led planning emerges as pivotal for fostering inclusivity and
+    informed decision-making. Initiatives like HOT's program to provide open map data
+    in high-risk areas prior to disasters aim to bolster preparedness and mitigation
+    efforts against extreme weather and climate events.
   Objectives-title-1: 'Map 8-10 major cities across 4 regions by 2025 with a focus
     on the most vulnerable populations in those locations. '
   Objective1: 'Complete an open map of critical infrastructure and environmental systems,
@@ -70,26 +92,7 @@ Project-text:
     develop solutions. More, better and up-to-date data means that locals, advocates
     and decision-makers can make more rapid and better decisions.</li></ul>"
   Outcomes: 
-Feature Image: https://cdn.hotosm.org/website/Ramani+Huria+Dar+es+Salaam+v3.jpg
-Country:
-- Bangladesh
-- Nepal
-- Ethiopia
-- Democratic Republic of Congo
-- Nigeria
-- Ivory Coast
-- South America
-Impact Area:
-- Sustainable Cities & Communities
-project_extent: ''
-Partner:
-- UN-Habitat
-- World Vision Bangladesh
-- Start Network
-- Save the Children UK
-Duration:
-  Start Date: 2024-01-01 00:00:00 Z
-  End Date: 2025-12-31 00:00:00 Z
+project_extent: 
 Project 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
@@ -114,10 +117,10 @@ Project 3:
   URL: "/projects/dar_ramani_huria_dar_open_map"
 Event Promo:
   Event Name: Mapping For Climate-Ready Cities
-  Description: "<a style='color: white; font-weight: bold;'>Climate crises, inherently
-    geographic, however, many vulnerable areas lack representation on maps, leaving
-    communities and decision-makers without reliable data to address the converging
-    crises they face.</a>"
+  Description: "<a style='color: white; font-weight: bold;'>Climate crises are inherently
+    geographic. Yet many of the places where people are most vulnerable to climate
+    change lack representation on maps, meaning communities and decision-makers do
+    not have reliable data to address the converging crises they face.</a>"
   Related Projects:
   - 'Infectious diseases: Malaria elimination'
   - Missing Maps
@@ -206,7 +209,7 @@ Anticipatory action, crucial in addressing the combined risks of climate change 
 
 - Map 8-10 major cities across 4 regions by 2025 with a focus on the most vulnerable populations in those locations. Complete an open map of critical infrastructure and environmental systems, including public centers, hospitals, homes, roads, waterways, coastlines, etc. Next, identify and map local climate risks in each city starting from tested risk and hazard modeling. These risks include, for example, the extent and severity of past flooding or neighborhood effects from changes to sea levels. Criteria for the cities selected include: climate vulnerability, local community capacity and interest, extent of existing map data, and access to recent aerial imagery. 
 - Enable local representatives to collect, analyze & use map data to advocate for climate-resilient policy and planning decisions. Invest in local capacity in vulnerable and under-mapped neighborhoods of each city. We will train local communities, government agencies, and organizations in collecting map data and open data use skills to catalyze citizen science. We will provide networking opportunities and grants to ensure peer-to-peer exchange.
-- Embed open climate data into existing workflows to create data-informed policies & climate-action plans.  Support local government, implementing partners and other stakeholders to build information systems that allow them take this community-centered approach forward independently: identifying challenges, collecting and analyzing data with local communities, and then using map information to collaboratively develop solutions. More, better and up-to-date data means that locals, advocates and decision-makers can make more rapid and better decisions.
+- Embed open climate data into existing workflows to create data-informed policies & climate-action plans. Support local government, implementing partners and other stakeholders to build information systems that allow them take this community-centered approach forward independently: identifying challenges, collecting and analyzing data with local communities, and then using map information to collaboratively develop solutions. More, better and up-to-date data means that locals, advocates and decision-makers can make more rapid and better decisions.
 <br>
 <br>
 
