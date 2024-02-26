@@ -23,8 +23,8 @@ Duration:
 Tools:
 - tool: PIX4D
   link: 
-- tool: Blog
-  link: https://mapeoparticipativosap.blogspot.com/
+- link: https://mapeoparticipativosap.blogspot.com/
+  tool: Blog
 - tool: Mapillary
   link: 
 - tool: Street Complete
@@ -34,6 +34,8 @@ Tools:
 - tool: Kobo Tool Box
   link: 
 - tool: QGIS
+  link: 
+- tool: Map Roulette
   link: 
 ---
 
@@ -51,7 +53,7 @@ Esta vulnerabilidad amenaza directamente la seguridad y el bienestar de los resi
 
 En colaboración con la comunidad local, el Hub de Mapeo Abierto de LAC adoptó un enfoque multifacético para abordar los riesgos de deslizamientos de tierra en San Antonio de Prado. El proyecto se basó en una combinación de metodologías de recolección de datos remotas y de campo, asegurando una comprensión integral del terreno y las vulnerabilidades comunitarias.
 
-Entre las herramientas clave utilizadas se encuentran el Administrador de Tareas para tareas de mapeo estructuradas, Equipos de Mapeo de Campo para la recolección de datos sobre el terreno, y Map Roulette para desafíos de mapeo dinámicos. Estas herramientas facilitaron una colaboración eficiente, permitiendo a los contribuyentes centrarse en áreas geográficas y elementos temáticos específicos.
+Entre las herramientas clave utilizadas se encuentran el [Tasking Manager](https://tasks.hotosm.org/) para tareas de mapeo estructuradas, Equipos de Mapeo de Campo para la recolección de datos sobre el terreno, y [Map Roulette](https://maproulette.org/) para desafíos de mapeo dinámicos. Estas herramientas facilitaron una colaboración eficiente, permitiendo a los contribuyentes centrarse en áreas geográficas y elementos temáticos específicos.
 
 Los conjuntos de datos abarcaron una variedad de características de OpenStreetMap como edificios y caminos, cruciales para la evaluación de riesgos y la planificación de respuesta a desastres. Además, se recopilaron conjuntos de datos específicos relacionados con la hidrología y el uso del suelo para mejorar la precisión de los modelos de riesgo de deslizamientos de tierra.
 
