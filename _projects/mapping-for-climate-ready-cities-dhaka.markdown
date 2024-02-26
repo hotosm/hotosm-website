@@ -20,7 +20,6 @@ Dhaka’s growing migration has led to a rapid expansion of slums and informal s
 
 These settlements are therefore unable to capture the benefits of urban agglomeration. With a soaring youth population, it will be critical in the coming decades to develop a strong geospatial database to understand changing population dynamics and needs amidst these increasingly frequent challenges. The open-source geospatial database will be a necessary foundation for a better and more systematic urban planning system. This would include equipping the youth with digital skills in mapping and analyzing data on sectors including urban planning, healthcare, governance, and education. As the Bangladeshi government pushes for a digital nation with improved digital access and literacy, through the AP Hub, HOT can be instrumental in supporting these efforts, especially as the country’s graduates from its Least Developed Country (LDC) status.
 
-
 ## Approach
 In order to support the urban development for future sustainable and climate-resilient cities across the Asia-Pacific region, the AP Hub aims to build community knowledge and data flows by catalyzing open data ecosystems where local government, INGO, NGO, private sector, academia, and community actors come together to map both the most essential and critical features of the developing cities of Asia-Pacific. 
 
