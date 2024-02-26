@@ -28,11 +28,9 @@ The project will address data gaps with partners, local communities, and stakeho
 
 The data collection and awareness building efforts will be supported by stakeholder trainings, workshops, and upskilling efforts focusing on data collection and data use for decision making.
 
-
 ### Datasets Collected
 * Base data (roads, buildings, water bodies, land use) 
 * More detailed data model to be developed with co-creation workshops with local stakeholders
-
 
 ### Expected Outcome and Impact
 Catalyzing a vibrant, sustainable, multi-actor open data ecosystem in the cities, the AP Hub aims to create comprehensive and up-to-date geospatial data on OSM that will empower humanitarian organizations, local authorities, and grassroot communities to better understand, plan for, and respond to various challenges, including the adverse effects of climate change, natural disasters, public health emergencies, and other urban development needs. Ultimately, the AP Hub hopes to contribute to the overall goal of urban resilience against climate change and disasters.  
