@@ -26,7 +26,7 @@ En nuestra charla con Ana, exploramos sus motivaciones y cómo el mapeo de impac
 
 ![Ana Carolina Restrepo.jpg](/uploads/Ana%20Carolina%20Restrepo.jpg)
 
-### **—¿Quién es Ana?** 
+## **—¿Quién es Ana?** 
 
 > —Soy una joven independiente de 20 años con metas y proyectos claros. Siempre estoy en búsqueda de acciones que impacten en mi comunidad. Me encanta hablar, tomar café, y relacionarme con mi entorno. Soy una persona líder, participo en proyectos donde trato de ser una persona de apoyo, de escucha y colaboración. Dado que vivo sola desde hace tiempo, considero que he aprendido a adaptarme. Actualmente, estudio Ciencias Ambientales en la Universidad del ITM y trabajo en mis tiempos libres.
 
@@ -41,8 +41,6 @@ Con este trasfondo, Ana nos ofrece una visión de su comunidad, San Antonio de P
 
 San Antonio de Prado alberga a una gran población y ostenta el título de ser el segundo corregimiento más extenso de Colombia. La esencia de esta comunidad se manifiesta en la abundante nubosidad, el clima frío y las notables variaciones de temperatura a medida que uno asciende por la ciudad. Aquí, el aire posee un aroma distintivo, único en comparación con otros lugares. Además, el constante sonido de los automóviles y vehículos de transporte público es una parte integral del paisaje sonoro, dada la extensa red de transporte que recorre las veredas y conecta el corregimiento con el centro de la ciudad.
 
-# DESLIZAMIENTOS DE TIERRA: UN DESAFÍO PERSISTENTE
-
 En ese contexto, le pedimos a Ana que nos brindara una perspectiva más profunda sobre los deslizamientos de tierra, una de las problemáticas más apremiantes que afectan a la comunidad.
 
 > — La problemática que enfrentamos en San Antonio de Prado está vinculada al agua represada en las montañas, generando movimientos en masa. Convivimos con la realidad de estar rodeados de montañas y diversas partes del corregimiento presentan problemas geológicos. La problemática es tan palpable que decidieron enfocarse en nosotros para este proyecto. Nos centramos en el proyecto debido a los riesgos en veredas como Potrerito y Montañita, donde hay muchos puntos críticos.
@@ -55,7 +53,7 @@ En 2022, San Antonio de Prado experimentó [un deslizamiento importante que resu
 
 Ana se enteró del proyecto a través de las redes sociales cuando vio una invitación del grupo de investigación de la Universidad de Antioquia que anunciaba un mapeo participativo en San Antonio de Prado. Su emoción fue inmediata, ya que en el semestre anterior se había sumergido en el mundo de los sistemas de información geográfica. Se inscribió y asistió al primer encuentro, donde les explicaron la esencia del proyecto. Aunque al principio le pareció un poco confuso, se entusiasmó al descubrir que era algo simple, una oportunidad en la que podía contribuir y aprender al mismo tiempo.
 
-### **— ¿Por qué decidiste participar?**
+## **— ¿Por qué decidiste participar?**
 
 > — Mi motivación para participar en el proyecto de mapeo fue principalmente mi amor por el trabajo en campo. Con una formación técnica en monitoreo ambiental, me siento en mi esencia al aire libre. La primera experiencia de mapeo fue emocionante; salir con todo el equipo a mapear la Vereda Montañita fue acogedor y lleno de ánimo. Aunque al principio me causaba un poco de temor, Jessie, nuestra líder, se tomó el tiempo de explicar todo detalladamente, haciendo que el camino fuera más ameno. La camaradería del equipo y la disposición de todos hacían que este proyecto fuera algo hermoso.
 
@@ -63,7 +61,7 @@ La primera vez que Ana salió sola para realizar el mapeo, representó un paso s
 
 A partir de esos momentos, Ana tomó la decisión de seguir involucrándose de manera activa, sintiendo una conexión más profunda con su corregimiento y convirtiéndose en una parte esencial del proyecto.
 
-### **— ¿Qué impacto ha tenido en ti el proyecto?**
+## **— ¿Qué impacto ha tenido en ti el proyecto?**
 
 > — Relaciono mi experiencia personal con el propósito del proyecto, reconociendo la importancia de involucrarme en la comunidad. El hecho de que las personas ahora me reconozcan y sepan de mi participación en el proyecto me ha permitido establecer conexiones más sólidas en el ámbito social. Además, la iniciativa de mapeo me ha brindado la oportunidad de enfocarme en mi especialización en sistemas de información geográfica. Verlo como un campo de crecimiento profesional me impulsa a avanzar y aprender más, fortaleciendo mi conexión con la universidad y otros proyectos relacionados.
 
@@ -73,7 +71,7 @@ Ana, ahora, se encuentra más inmersa en la vida social del corregimiento, compa
 
 ![Mapeo Participativo - San Antonio de Prado.jpg](/uploads/Mapeo%20Participativo%20-%20San%20Antonio%20de%20Prado.jpg)
 
-### **— ¿Qué impacto ha tenido en tu comunidad?**
+## **— ¿Qué impacto ha tenido en tu comunidad?**
 
 > — La comunidad ha sido tan vulnerable y alejada, principalmente porque hemos estado muy distanciados del municipio. Las personas suelen cargar toda la responsabilidad en el proyecto. Entonces, cuando hacemos encuentros sociales, quieren involucrar todo en el proyecto. Están buscando una forma de liberar todas esas inquietudes o malestares que tienen y que nadie ha escuchado realmente. Eso es lo que ha impactado en la comunidad. Sí, en estos días me encontré con personas líderes ambientales. Hubo una chica que se ofreció a colaborar conmigo. Me dijo que podía ayudar conociendo el corregimiento, observando las vulnerabilidades y los desastres que hemos tenido. Se puso a disposición para ayudar; ella es bióloga y está involucrada en muchos temas ambientales.
 
@@ -83,7 +81,7 @@ Lo que entusiasma a Ana es que este proyecto no tiene un final definitivo; está
 
 # LO QUE SIGUE EN EL MAPEO COMUNITARIO DE SAN ANTONIO DE PRADO
 
-### **— ¿Qué sigue para ti, Ana?**
+## **— ¿Qué sigue para ti, Ana?**
 
 — Volverme a involucrar en otro capítulo o proyecto. Me inscribí en una convocatoria para otro proyecto de mapeo participativo del Hub de Mapeo Abierto en Latinoamérica y el Caribe. Para la comunidad, quiero que este proyecto no termine. Deseo que continúe, que podamos darle una continuidad, que tenga otro análisis más conciso y que podamos hacernos visibles a nivel municipal.
 
