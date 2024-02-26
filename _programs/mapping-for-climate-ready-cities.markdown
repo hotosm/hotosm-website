@@ -151,7 +151,7 @@ Project-objectives:
   Objective3-highlight: Collaborate with local representatives
   Objectives-title-3: to embed open climate data into existing workflows to create
     data-informed policies & climate-action plans.
-  Objective3: " ITEGRATION"
+  Objective3: " INTEGRATION"
 Quote: The Program's focus is to provide open map data in high-risk areas prior to
   disasters to bolster preparedness and mitigation efforts against extreme weather
   and climate events.
