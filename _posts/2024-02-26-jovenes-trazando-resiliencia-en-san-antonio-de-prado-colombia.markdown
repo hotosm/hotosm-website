@@ -7,7 +7,7 @@ Summary Text: Descubre el impactante trabajo voluntario de Ana Restrepo y un gru
   y demuestra cómo la juventud y las herramientas de mapeo pueden impulsar un cambio
   social significativo.
 Feature Image: "/uploads/Ana%20Restrepo%20-%20San%20Antonio%20de%20Prado.jpg"
-Person: Mariana Marin
+Person: Mariana Marín
 Country:
 - Colombia
 Project:
