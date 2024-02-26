@@ -79,7 +79,7 @@ La presentación del proyecto a la comunidad marcó un hito significativo. Los a
 
 Lo que entusiasma a Ana es que este proyecto no tiene un final definitivo; está arraigado en la realidad. La posibilidad de retomarlo en el futuro sigue latente, permitiendo continuar respaldando y mejorando la comunidad, así como abordar los desafíos que puedan surgir.
 
-# LO QUE SIGUE EN EL MAPEO COMUNITARIO DE SAN ANTONIO DE PRADO
+# LO QUE SIGUE EN EL MAPEO COMUNITARIO
 
 ![Ana - Mapeo Comunitario en San Antonio de Prado.jpg](/uploads/Ana%20-%20Mapeo%20Comunitario%20en%20San%20Antonio%20de%20Prado.jpg)
 
