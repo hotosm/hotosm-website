@@ -59,7 +59,7 @@ Los conjuntos de datos abarcaron una variedad de características de OpenStreetM
 
 Las iniciativas de fortalecimiento de capacidades fueron integrales para el proyecto, con sesiones de capacitación adaptadas para miembros de la comunidad sobre técnicas de mapeo y recolección de datos. Esto capacitó a los lugareños para participar activamente en la creación y actualización de datos geoespaciales pertinentes para la reducción del riesgo de desastres.
 
-El proyecto fomentó colaboraciones con organizaciones locales, como YouthMappers, Ecociclo y DAGRD, aprovechando su experiencia y redes comunitarias. Este esfuerzo conjunto garantizó que los datos generados y las herramientas desarrolladas no solo fueran precisos, sino también integrados en el contexto local, fortaleciendo la resiliencia de la comunidad ante las amenazas de deslizamientos de tierra."
+El proyecto fomentó colaboraciones con organizaciones locales, como [YouthMappers](https://www.youthmappers.org/post/algunos-proyectos-de-youthmappers-comunidad-latam), [Ecociclo](https://ecociclo.com.co/) y [DAGRD](https://www.medellin.gov.co/es/dagrd/), aprovechando su experiencia y redes comunitarias. Este esfuerzo conjunto garantizó que los datos generados y las herramientas desarrolladas no solo fueran precisos, sino también integrados en el contexto local, fortaleciendo la resiliencia de la comunidad ante las amenazas de deslizamientos de tierra."
 
 ![Tasking Manager - San Antonio de Prado.jpg](/uploads/Tasking%20Manager%20-%20San%20Antonio%20de%20Prado.jpg)
 *Foto: Reunión con miembros activos para mapear con la Ortofoto en JOSM.*

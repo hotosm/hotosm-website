@@ -10,6 +10,8 @@ Feature Image: "/uploads/Ana%20Restrepo%20-%20San%20Antonio%20de%20Prado.jpg"
 Person: Mariana Marin
 Country:
 - Colombia
+Project:
+- Mapeo Participativo en San Antonio de Prado, Colombia
 ---
 
 En las afueras de Medellín, Colombia, se encuentra el corregimiento¹ de San Antonio de Prado. Este lugar rodeado de colinas y bosques, destaca especialmente por tener tanto naturaleza como vida urbana. Sin embargo, la comunidad que vive allí enfrenta un desafío significativo: los deslizamientos de tierra amenazan su seguridad y bienestar. La topografía montañosa y las intensas lluvias propias de la región crean un escenario propicio para la erosión del suelo y la ocurrencia de deslizamientos, poniendo en riesgo la seguridad y el bienestar de su comunidad.
