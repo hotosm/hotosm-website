@@ -161,7 +161,7 @@ Quote: The Program's focus is to provide open map data in high-risk areas prior 
 
 <br>
 <br>
-Looking forward, this lack of data means communities don’t understand their future climate risks and how to prepare for them, and climate risk models do not include local knowledge which leaves out a critical perspective.
+Looking forward, this lack of data means communities don’t understand their future climate risks and how to prepare for them, and climate risk models do not include local knowledge, leaving out a critical perspective.
 
 Humanitarian OpenStreetMap Team (HOT) addresses these critical data gaps by working with local communities and partners to take anticipatory action. We ensure their realities are represented on the map and that communities are involved in climate-related decisions that will affect them. We prioritize participatory approaches that identify resilience opportunities at the hyper-local level for sustainable, climate-resilient cities. Through our Mapping for Climate-Ready Cities program, we are mapping cities in four priority regions of the world and developing a thriving ecosystem to create, interpret, and use maps to respond to and reduce climate risks in densely populated urban areas.
 <br>
@@ -201,7 +201,7 @@ Humanitarian OpenStreetMap Team (HOT) addresses these critical data gaps by work
 <br>
 <h1>/</h1><h4>Map Data Supports Anticipatory Action</h4>
 
-Anticipatory action, crucial in addressing the combined risks of climate change and disasters, bridges the gap between long-term risk reduction and immediate crisis response. By acting in advance of impending disasters, it saves resources, time, and lives, preventing displacement, disease, and livelihood loss. The FAO's analysis highlights the significant potential return on investment, with each dollar allocated towards anticipatory action potentially yielding seven dollars in benefits and avoided losses. This approach enables enhanced coordination and planning, with community involvement ensuring timely response activities and provider identification. However, challenges persist in vulnerable areas due to data scarcity, though locally-led planning initiatives help overcome this by generating crucial local data for informed decision-making. Initiatives like HOT’s program aim to provide open map data in high-risk cities preemptively, aiding in planning and mitigating the impacts of extreme weather events and climate change.
+Anticipatory action, crucial in addressing the combined risks of climate change and disasters, bridges the gap between long-term risk reduction and immediate crisis response. Acting in advance of impending disasters saves resources, time, and lives, preventing displacement, disease, and livelihood loss. The FAO's analysis highlights the significant potential return on investment, with each dollar allocated towards anticipatory action potentially yielding seven dollars in benefits and avoided losses. This approach enables enhanced coordination and planning, with community involvement ensuring timely response activities and provider identification. However, challenges persist in vulnerable areas due to data scarcity, though locally-led planning initiatives help overcome this by generating crucial local data for informed decision-making. Initiatives like HOT’s program aim to provide open map data in high-risk cities preemptively, aiding in planning and mitigating the impacts of extreme weather events and climate change.
 <br>
 <br>
 
