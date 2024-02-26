@@ -81,6 +81,8 @@ Lo que entusiasma a Ana es que este proyecto no tiene un final definitivo; está
 
 # LO QUE SIGUE EN EL MAPEO COMUNITARIO DE SAN ANTONIO DE PRADO
 
+![Ana - Mapeo Comunitario en San Antonio de Prado.jpg](/uploads/Ana%20-%20Mapeo%20Comunitario%20en%20San%20Antonio%20de%20Prado.jpg)
+
 ## **— ¿Qué sigue para ti, Ana?**
 
 — Volverme a involucrar en otro capítulo o proyecto. Me inscribí en una convocatoria para otro proyecto de mapeo participativo del Hub de Mapeo Abierto en Latinoamérica y el Caribe. Para la comunidad, quiero que este proyecto no termine. Deseo que continúe, que podamos darle una continuidad, que tenga otro análisis más conciso y que podamos hacernos visibles a nivel municipal.
