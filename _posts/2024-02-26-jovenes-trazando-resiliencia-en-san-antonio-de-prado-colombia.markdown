@@ -26,7 +26,7 @@ En nuestra charla con Ana, exploramos sus motivaciones y cómo el mapeo de impac
 
 ![Ana Carolina Restrepo.jpg](/uploads/Ana%20Carolina%20Restrepo.jpg)
 
-### **—¿Quién es Ana?**## 
+### **—¿Quién es Ana?** 
 
 > —Soy una joven independiente de 20 años con metas y proyectos claros. Siempre estoy en búsqueda de acciones que impacten en mi comunidad. Me encanta hablar, tomar café, y relacionarme con mi entorno. Soy una persona líder, participo en proyectos donde trato de ser una persona de apoyo, de escucha y colaboración. Dado que vivo sola desde hace tiempo, considero que he aprendido a adaptarme. Actualmente, estudio Ciencias Ambientales en la Universidad del ITM y trabajo en mis tiempos libres.
 
@@ -69,7 +69,7 @@ A partir de esos momentos, Ana tomó la decisión de seguir involucrándose de m
 
 Ana, ahora, se encuentra más inmersa en la vida social del corregimiento, compartiendo abiertamente sobre el proyecto y sus beneficios para la comunidad. Este involucramiento ha ampliado su perspectiva y le ha permitido adquirir habilidades valiosas tanto a nivel personal como profesional.
 
-EL FUTURO DEL MAPEO COMUNITARIO EN SAN ANTONIO DE PRADO
+# EL FUTURO DEL MAPEO COMUNITARIO EN SAN ANTONIO DE PRADO
 
 ![Mapeo Participativo - San Antonio de Prado.jpg](/uploads/Mapeo%20Participativo%20-%20San%20Antonio%20de%20Prado.jpg)
 
