@@ -8,7 +8,7 @@ Summary Text: 'OpenStreetMap (OSM) is more than the basemap you see on osm.org o
   in QGIS or other similar applications, HOT’s export tool just got much more helpful! '
 ---
 
-If you are looking for reliable OSM data in various file formats that are easy to download in a few easy steps and in a couple of minutes,  we have some exciting developments and new features added to the [HOT Export Tool](https://export.hotosm.org/en/v3/)!  HOT’s developer, Kshitij, has been working for a number of months on these improvements, and we want to send a huge thanks to him!
+If you are looking for reliable OSM data in various file formats that are easy to download in a few easy steps and a couple of minutes, new features have been added to the [HOT Export Tool](https://export.hotosm.org/en/v3/)!  HOT’s developer, Kshitij, has been working for a number of months on these improvements, and we want to send a huge thanks to him!
 
 Watch the Walkthrough that will guide you through all the features and explore them yourself! If you have any feedback, get in touch by adding an issue to [Github](https://github.com/hotosm/osm-export-tool) or joining #export-tool [Slack channel](https://slack.hotosm.org/).
 
@@ -16,7 +16,7 @@ Watch the Walkthrough that will guide you through all the features and explore t
 
 We have also explained all the updates below with screenshots.
 
-**1. Export OSM Data with 3 new format (FlatGeobuf, CSV and SQL)**
+**1. Export OSM Data with three new format (FlatGeobuf, CSV and SQL)**
 
 * **Flat Geobuf** output is very fast, compared to shapefile, enabling users to do spatial operations with spatial indexes. Export Tool now provides OSM data in flageobuf format
 * **CSV** output will be useful for the data analyst, and anyone interested to use osm [tagging](https://wiki.openstreetmap.org/wiki/Tags) data in their research / work / education.
