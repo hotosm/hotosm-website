@@ -60,11 +60,10 @@ Narrative-section:
   Narrative-title: Map Data for Anticipatory Action
   Narrative-intro-text: Anticipatory action serves as a crucial link between long-term
     disaster risk reduction and immediate humanitarian response, particularly amidst
-    the compounded threats of climate change and disasters. [According to the Food
-    and Agriculture Organization (FAO)](https://www.fao.org/documents/card/en/c/cb7145en),
-    every dollar invested in anticipatory action could give families seven dollars
-    in benefits and avoid losses. However, **anticipatory action efforts in vulnerable
-    areas are hindered by a lack of data.**
+    the compounded threats of climate change and disasters. <a href="https://www.fao.org/documents/card/en/c/cb7145en">According
+    to the Food and Agriculture Organization (FAO)<a>, every dollar invested in anticipatory
+    action could give families seven dollars in benefits and avoid losses. However,
+    **anticipatory action efforts in vulnerable areas are hindered by a lack of data.**
   Narrative-text: "**HOT’s Mapping for Climate-Ready Cities program** will make open
     map data available in high-risk cities before a disaster strikes so that it can
     be used to plan for and mitigate the impacts of extreme weather and climate events.
