@@ -28,10 +28,10 @@ Figcaption: Our four Regional Hubs work in 94 countries, connecting with local o
   government agencies, international networks, and others to ground truth map data
   and get locally created maps into the hands of decision-makers.
 Project-text:
-  Project Summary Text: Many of the places where people are most vulnerable to climate
-    change are not represented on the map, and communities and decision-makers do
-    not have reliable data to mitigate the risks of the multiple, converging crises
-    they currently face.
+  Project Summary Text: 'At Humanitarian OpenStreetMap Team (HOT), we are addressing
+    these critical data gaps by working with local communities and partners to take
+    anticipatory action. We ensure their realities are represented on the map and
+    that communities are involved in climate-related decisions that will affect them. '
   Introduction: Humanitarian OpenStreetMap Team (HOT) addresses these critical data
     gaps by working with local communities and partners to take anticipatory action.
     We ensure their realities are represented on the map and that communities are
@@ -140,7 +140,7 @@ Block 2:
 Project-objectives:
   Title: Proposed Program Goals & Objectives
   Objective1-highlight: 8-10 major cities
-  Objectives-title-1: 'across 4 regions by 2025 with a focus on the most vulnerable
+  Objectives-title-1: 'across 4 regions by 2025, with a focus on the most vulnerable
     populations in those locations. '
   Objective1: MAP
   Objective2-highlight: Increase analytical capacity of stakeholders
@@ -151,9 +151,9 @@ Project-objectives:
   Objectives-title-3: to embed open climate data into existing workflows to create
     data-informed policies & climate-action plans.
   Objective3: " INTEGRATION"
-Quote: The Program's focus is to provide open map data in high-risk areas prior to
-  disasters to bolster preparedness and mitigation efforts against extreme weather
-  and climate events.
+Quote: This Program provides open map data in high-risk areas before disaster strikes
+  to bolster preparedness and mitigation efforts against extreme weather and climate
+  events.
 ---
 
 ![Imagery](/uploads/climate-ready-cities-map.png)
