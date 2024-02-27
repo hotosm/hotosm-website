@@ -43,14 +43,13 @@ Another pressing concern is accessibility to remote and potentially uncharted ar
 * Roads, buildings, and critical infrastructures such as health posts, water sources, schools, and evacuation centers. 
 
 ## Expected Outcome and Impact
-* Humanitarian and development actors utilize open data to enhance their effectiveness in reaching communities that were previously uncharted on the map. Community members and local stakeholders acquire the necessary skills and actively participate in mapping and validation activities. 
-* Consolidate data and local knowledge with the related actors in this project, including Start Fund Networks members, local NGOs, community, government, and universities. 
-* A series of technical workshops and training for the participating Start Network member organizations and volunteers about OpenStreetMap, field mapping and data analysis, and creation using open-source tools. 
+* Humanitarian and development actors utilize open data to reach communities that were previously uncharted on the map while community members and local stakeholders can actively participate in mapping and validation. 
+* Consolidate data and local knowledge with the related actors in this project, including Start Fund Network members, local NGOs, communities, government agencies, and universities. 
 * Mobilization of OSM experts nationally to support data quality and validation efforts. 
 
 ## Next Steps
 * Conduct one co-creation workshop within the first month of the project and organize one local-level workshop focused on data use cases during the last quarter of the project. 
 * Activate OSM community volunteers to map the missing road network by leveraging social media promotion. 
-* Start Fund Nepal members learn to manage mapping projects using Tasking Manager, MapRoulette, and other relevant open mapping tools. The government and private sectors increase their awareness and understanding of utilizing open-source data. Humanitarian actors utilize the data generated for disaster and humanitarian response. Upskilling provided to Start Fund Nepal member organizations and staff. Upskilling events conducted for communities (Start Fund Nepal member, team, and community training). 
+* Train Start Fund Nepal members to manage mapping projects using the Tasking Manager, MapRoulette, and other relevant open mapping tools. Engage the government, private sectors, and humanitarian actors to increase their awareness and understanding of open-source data, promoting its use in disaster response.
 
-***Feature image courtesy of the US Embassy, Kathmandu. Photo by Mohan Mainali.***
+***Feature image courtesy of the [US Embassy, Kathmandu](https://www.flickr.com/photos/usembassykathmandu/5620390649/in/photolist-2oeVMCi-2oeWRt6-2oeUhQx-2oeUhVh-2oeUhQY-2oeUhWz-2oeRJeW-2oeWw5Z-2oeWwbL-2oeVMEh-2oeWRwT-2oeRJfT-2oeWRvF-2oeWRwc-2oeUhWj-2oeVMBG-XVBGP2-cgVSzu-94h2PL-2oeUhNt-2oeWRw2-2oeVMDL-WHu4Sb-deejrH-XEDosL-XHnYqt-i554fq-768Nbo-5C8XyF-2iMsuwd-9yDYk4-i54GRP-XRwcMu-eyuEzq-eyrwvZ-bQLQvB-9fZaok-cgVSGC-o3KAPB). Photo by Mohan Mainali.***
