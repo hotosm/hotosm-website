@@ -13,14 +13,6 @@ layout: default
         .project-country:last-child::after {
             content: '';
         }
-        .page.Partner::after { 
-            content: ' - ';
-            text-decoration: none;
-            color: #D73F3F;
-        }
-        .page.Partner:last-child::after {
-            content: '';
-        }
       </style>
     
     <div class="program-header-meta promo-title-image" >
@@ -178,7 +170,7 @@ layout: default
                     <p class="project-countries">
 
                             {% for page-partner in page.Partner %} 
-                            <span class="project-country" style="">{{ page-partner }}
+                            <span class="project-country">{{ page-partner }}
                             {% endfor %} 
 
                 </p>
