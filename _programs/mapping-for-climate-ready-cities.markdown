@@ -238,7 +238,7 @@ Humanitarian OpenStreetMap Team (HOT) addresses these critical data gaps by work
 
 Anticipatory action, crucial in addressing the combined risks of climate change and disasters, bridges the gap between long-term risk reduction and immediate crisis response. Acting in advance of impending disasters saves resources, time, and lives, preventing displacement, disease, and livelihood loss. The FAO's analysis highlights the significant potential return on investment, with each dollar allocated towards anticipatory action potentially yielding seven dollars in benefits and avoided losses. This approach enables enhanced coordination and planning, with community involvement ensuring timely response activities and provider identification. However, challenges persist in vulnerable areas due to data scarcity, though locally-led planning initiatives help overcome this by generating crucial local data for informed decision-making. Initiatives like HOT’s program aim to provide open map data in high-risk cities preemptively, aiding in planning and mitigating the impacts of extreme weather events and climate change.
 <br>
-<br>
+<br> 
 
 <h1>/</h1><h4>Proposed Program Goals & Objectives</h4>
 
