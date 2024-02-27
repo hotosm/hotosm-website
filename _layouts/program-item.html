@@ -13,12 +13,12 @@ layout: default
         .project-country:last-child::after {
             content: '';
         }
-        .page-partner::after { 
+        .page.Partner::after { 
             content: ' - ';
             text-decoration: none;
             color: #D73F3F;
         }
-        .page-partner:last-child::after {
+        .page.Partner:last-child::after {
             content: '';
         }
       </style>
@@ -193,10 +193,10 @@ layout: default
 
             <div class="hr-h"></div>
 
-            {% if page.Project-text['Project Summary Text'] %}
+            {% if page.Program-summary['Program Summary Text'] %}
             <div class="pro-summary-wrap">
-                <div class="project-summary">
-                    <p style="color: black;">{{ page.Project-text['Project Summary Text'] }}</p>
+                <div class="program-summary">
+                    <p style="color: black;">{{ page.Program-summary['Program Summary Text'] }}</p>
                 </div>
             </div>
             {% endif %}
@@ -238,23 +238,23 @@ layout: default
     <div class="program-body">
         <section class="article" style="margin: 0px 0px 0px" > 
              <!-- ** narrative -->
-                    <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2rem; color: black; margin: 0px 0 0px">{{ page.Project-text.Narrative-title }}</h2>                    <br>
+                    <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2rem; color: black; margin: 0px 0 0px">{{ page.Narrative-section.Narrative-title }}</h2>                    <br>
                     <div class="hr-h" style="margin: 0px 0 40px "></div>
 
                     <!-- <div class="hr-h"></div> -->
         
-                    {% if page.Project-text.Narrative-introduction %}
+                    {% if page.Narrative-section.Narrative-intro-text %}
                     <div class="pro-summary-wrap">
                         <div class="project-summary">
-                            <p style="color: black;">{{ page.Project-text.Narrative-introduction }}</p>
+                            <p style="color: black;">{{ page.Narrative-section.Narrative-intro-text }}</p>
                         </div>
                     </div>
                     {% endif %}
                     
                     <div class="pro-content-wrap">
                         <div class="project-content">
-                            {% if page.Project-text.Narrative %}
-                                    {{ page.Project-text.Narrative }}
+                            {% if page.Narrative-section.Narrative-text %}
+                                    {{ page.Narrative-section.Narrative-text }}
                             {% endif %}
                         </div>
                     </div>
@@ -334,7 +334,7 @@ layout: default
         <h2>HOT's Approach</h2>
         <img src="/uploads/hubs-map-dots.png" style="background-color: whitesmoke;">
         <br>
-        <figcaption style="text-align: center; font-style: italic; font-size: smaller;">{{ page.Figcaption}}</figcaption> 
+        <figcaption style="text-align: center; font-style: italic; font-size: smaller;">{{ page.Hub-map-caption}}</figcaption> 
         </div>
         <div class="event-info">
         <div class="event-description">
