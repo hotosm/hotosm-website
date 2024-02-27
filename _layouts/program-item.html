@@ -196,7 +196,7 @@ layout: default
             {% if page.Program-summary['Program Summary Text'] %}
             <div class="pro-summary-wrap">
                 <div class="program-summary">
-                    <p style="color: black;">{{ page.Program-summary['Program Summary Text'] }}</p>
+                    <p style="color: black;">{{ page.Program-summary['Program Summary Text'] | markdownify }}</p>
                 </div>
             </div>
             {% endif %}
@@ -246,7 +246,7 @@ layout: default
                     {% if page.Narrative-section.Narrative-intro-text %}
                     <div class="pro-summary-wrap">
                         <div class="project-summary">
-                            <p style="color: black;">{{ page.Narrative-section.Narrative-intro-text }}</p>
+                            <p style="color: black;">{{ page.Narrative-section.Narrative-intro-text | markdownify }}</p>
                         </div>
                     </div>
                     {% endif %}
@@ -254,7 +254,7 @@ layout: default
                     <div class="pro-content-wrap">
                         <div class="project-content">
                             {% if page.Narrative-section.Narrative-text %}
-                                    {{ page.Narrative-section.Narrative-text }}
+                                    {{ page.Narrative-section.Narrative-text | markdownify }}
                             {% endif %}
                         </div>
                     </div>
