@@ -170,7 +170,7 @@ layout: default
                     <p class="project-countries">
 
                             {% for page-partner in page.Partner %} 
-                            <span class="project-country">{{ page-partner }}</span>
+                            <span class="project-country" style="color: #2c3038;">{{ page-partner }}</span>
                             {% endfor %} 
 
                 </p>
@@ -187,7 +187,7 @@ layout: default
 
             {% if page.Program-summary['Program Summary Text'] %}
             <div class="pro-summary-wrap">
-                <div class="project-summary">
+                <div class="project-summary" style="color: black;">
                     <p style="color: black;">{{ page.Program-summary['Program Summary Text'] | markdownify }}</p>
                 </div>
             </div>
@@ -237,7 +237,7 @@ layout: default
         
                     {% if page.Narrative-section.Narrative-intro-text %}
                     <div class="pro-summary-wrap">
-                        <div class="project-summary">
+                        <div class="project-summary" style="color: black;">
                             <p style="color: black;">{{ page.Narrative-section.Narrative-intro-text | markdownify }}</p>
                         </div>
                     </div>
