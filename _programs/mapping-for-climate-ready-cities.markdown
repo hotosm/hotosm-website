@@ -57,15 +57,16 @@ Project-text:
     the compounded threats of climate change and disasters. By leveraging hazard forecasts,
     preemptive measures can be taken to mitigate crises, thereby saving resources,
     time, and averting displacement, disease, and livelihood losses.
-  Narrative: The Food and Agriculture Organization (FAO) underscores the significant
+  Narrative: "[The Food and Agriculture Organization (FAO) underscores the significant
     returns on investment, estimating a sevenfold benefit for every dollar spent on
-    anticipatory action</a>. This proactive approach enables enhanced coordination
-    and community involvement, facilitating early determination of response strategies
-    and providers through ample time for training and capacity building. Despite challenges
-    posed by data scarcity, locally-led planning emerges as pivotal for fostering
-    inclusivity and informed decision-making. Initiatives like HOT's program to provide
-    open map data in high-risk areas prior to disasters aim to bolster preparedness
-    and mitigation efforts against extreme weather and climate events.
+    anticipatory action](https://www.fao.org/documents/card/en/c/cb7145en). This proactive
+    approach enables enhanced coordination and community involvement, facilitating
+    early determination of response strategies and providers through ample time for
+    training and capacity building. Despite challenges posed by data scarcity, locally-led
+    planning emerges as pivotal for fostering inclusivity and informed decision-making.
+    Initiatives like HOT's program to provide open map data in high-risk areas prior
+    to disasters aim to bolster preparedness and mitigation efforts against extreme
+    weather and climate events."
   Objectives-title-1: 'Map 8-10 major cities across 4 regions by 2025 with a focus
     on the most vulnerable populations in those locations. '
   Objective1: 'Complete an open map of critical infrastructure and environmental systems,
