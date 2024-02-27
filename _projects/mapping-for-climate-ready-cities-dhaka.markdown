@@ -1,7 +1,6 @@
 ---
 title: Mapping for Climate Ready Cities - Dhaka
 date: 2024-02-26 16:21:00 Z
-published: false
 Project Summary Text: |-
   Through our Mapping for Climate Ready Cities program, HOT is supporting the development of a thriving ecosystem focused on creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions.
 
@@ -27,21 +26,21 @@ Growing migration to Dhaka has led to a rapid expansion of slums and informal se
 
 These settlements miss out on the benefits of urbanization. With a soaring youth population, it is critical in the coming decades to develop a strong geospatial database to understand these changing population dynamics and needs. 
 
-The open-source geospatial database will be a necessary foundation for a better and more systematic urban planning system. This would include equipping the youth with digital skills in mapping and analyzing data on sectors including urban planning, healthcare, governance, and education. As the Bangladeshi government pushes for a digital nation with improved digital access and literacy, through the AP Hub, HOT can be instrumental in supporting these efforts, especially as the country’s graduates from its Least Developed Country (LDC) status.
+The open-source geospatial database will be a necessary foundation for better and more systematic urban planning. This includes equipping youth with digital skills in mapping and analyzing data for urban planning, healthcare, governance, and education. As the Bangladeshi government pushes for a digital nation with improved digital access and literacy, the HOT [Asia Pacific Hub](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) (AP Hub) can be instrumental in supporting these efforts.
 
 ## Approach
-In order to support the urban development for future sustainable and climate-resilient cities across the Asia-Pacific region, the AP Hub aims to build community knowledge and data flows by catalyzing open data ecosystems where local government, INGO, NGO, private sector, academia, and community actors come together to map both the most essential and critical features of the developing cities of Asia-Pacific. 
+In order to support urban development for sustainable and climate-resilient cities across the Asia-Pacific region, the AP Hub aims to build community knowledge and data flows by catalyzing open data ecosystems where local government, INGO, NGO, private sector, academia, and community actors come together to map both the most essential and critical features of developing cities in the Asia-Pacific. 
 
 ### Methodology
-The project will address data gaps with partners, local communities, and stakeholders through remote mapping and validation campaigns. This will be followed by field data collection and mapping campaigns focusing on the most vulnerable slums and informal settlements. 
+The project will address data gaps with partners, local communities, and stakeholders through remote mapping and validation. This will be followed by field data collection and mapping campaigns focusing on the most vulnerable slums and informal settlements. 
 
-The data collection and awareness building efforts will be supported by stakeholder trainings, workshops, and upskilling efforts focusing on data collection and data use for decision making.
+The data collection and awareness-building efforts will be supported by stakeholder training, workshops, and upskilling efforts focusing on data collection and data use for decision-making.
 
 ### Datasets Collected
 * Base data (roads, buildings, water bodies, land use) 
-* More detailed data model to be developed with co-creation workshops with local stakeholders
+* A more detailed data model to be developed with co-creation workshops with local stakeholders
 
-### Expected Outcome and Impact
-Catalyzing a vibrant, sustainable, multi-actor open data ecosystem in the cities, the AP Hub aims to create comprehensive and up-to-date geospatial data on OSM that will empower humanitarian organizations, local authorities, and grassroot communities to better understand, plan for, and respond to various challenges, including the adverse effects of climate change, natural disasters, public health emergencies, and other urban development needs. Ultimately, the AP Hub hopes to contribute to the overall goal of urban resilience against climate change and disasters. 
+## Expected Outcome and Impact
+By catalyzing a vibrant, sustainable, multi-actor open data ecosystem in the cities, the AP Hub aims to create comprehensive and up-to-date geospatial data on OSM that will empower humanitarian organizations, local authorities, and grassroots communities to better understand, plan for, and respond to various challenges, including the effects of climate change, natural disasters, public health emergencies, and other urban development needs.
 
 ***Lead image courtesy of Flickr user [ASaber91](https://www.flickr.com/photos/84891020@N03/31902117836/in/photolist-QB5Gbq-FcEAXz-pcmGU4-ptPrqw-prPHsC-pcn2jk-ptRGQi-QEm5wi-GF9ZCQ-5igf9H-2iZZ6VU-pcmssX-pck5w6-prKGQJ-pchRHe-ptvBSt-pcpH1a-pchWd7-Jh8XbG-pcmapP-pcpuNJ-ptN9ia-pcmrmP-pcikG8-pcknin-pchE4d-pcpFJG-ptRWZC-pcmfY4-ptBTXH-ptS4GW-prQGb7-ptveDk-prRZ2u-pcpaNj-pckJJj-pcptQw-ptAVZa-pcoVJi-ptRzMY-ptRLnf-pchNSe-ptBCWR-pciB5H-ptSqeh-prRxNy-pcp3Sh-ptAnx6-pcii19-pcnxme).*** 
