@@ -29,9 +29,9 @@ Figcaption: Our four Regional Hubs work in 94 countries, connecting with local o
   and get locally created maps into the hands of decision-makers.
 Project-text:
   Project Summary Text: 'At Humanitarian OpenStreetMap Team (HOT), we are addressing
-    these critical data gaps by working with local communities and partners to take
-    anticipatory action. We ensure their realities are represented on the map and
-    that communities are involved in climate-related decisions that will affect them. '
+    climate data gaps by working with local communities and partners to take anticipatory
+    action. We ensure their realities are represented on the map and that communities
+    are involved in climate-related decisions that will affect them. '
   Introduction: Humanitarian OpenStreetMap Team (HOT) addresses these critical data
     gaps by working with local communities and partners to take anticipatory action.
     We ensure their realities are represented on the map and that communities are

@@ -4,7 +4,16 @@ layout: default
 
 <!-- ** Main banner -->
 <header class="program-header" >
-
+    <style>
+        .project-country::after { 
+            content: ' - ';
+            text-decoration: none;
+            color: #D73F3F;
+        }
+        .project-country:last-child::after {
+            content: '';
+        }
+      </style>
     
     <div class="program-header-meta promo-title-image" >
         <div class="program-promo" id="events" >
@@ -62,7 +71,7 @@ layout: default
 
 
                     <div class="block-options ">
-                            <h7>Related Projects</h7>
+                            <h7>Projects</h7>
                                 <br>
                                 <ul>
                                     <div class="container-program ">
@@ -117,7 +126,7 @@ layout: default
 
                     {% for page-country in page.Country %} {% for country in site.where-we-work %}
                     {% if page-country == country.title %}
-                    <span class="project-country"><a href="{{ country.url }}">{{ country.title }}</a></span> {% endif %}
+                    <span class="project-country" style=""><a href="{{ country.url }}">{{ country.title }}</a></span> {% endif %}
                     {% endfor %} {% endfor %}
 
                 </p>
@@ -237,7 +246,7 @@ layout: default
                     <div class="pro-content-wrap">
                         <div class="project-content">
                             {% if page.Project-text.Narrative %}
-                                    {{ page.Project-text.Narrative | markdownify }}
+                                    {{ page.Project-text.Narrative }}
                             {% endif %}
                         </div>
                     </div>
