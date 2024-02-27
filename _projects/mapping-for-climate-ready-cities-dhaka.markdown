@@ -16,7 +16,11 @@ Tools:
 ---
 
 ## Summary
-Dhaka is one of the fastest growing megacities in the world. With such rapid urbanization, Dhaka confronts unique challenges in population density that places immense strain on urban infrastructure, including but not limited to: public health centers and WASH (water, sanitation and hygiene) services, housing, and disaster response capabilities. Moreover, vulnerable communities mainly in slums or informal settlements are threatened by increasingly frequent and intense climate-related issues. The Open Mapping for Resilience project will address these challenges through the establishment of a comprehensive geospatial database in OpenStreetMap that will enable humanitarian organizations, local authorities as well as communities to prepare, respond to, adapt and transform the urban infrastructure in Dhaka.
+Dhaka is one of the fastest-growing megacities in the world. With such rapid urbanization, Dhaka confronts challenges in population density that place immense strain on urban infrastructure, including public health centers, water and sanitation services, housing, and disaster response capabilities.
+
+Vulnerable communities, mainly in slums or informal settlements, are also threatened by increasingly frequent and intense climate effects. 
+
+The Open Mapping for Resilience project will address these challenges by establishing a comprehensive geospatial database in OpenStreetMap for humanitarian organizations, local authorities, and communities to adapt and transform the urban infrastructure in Dhaka for climate resilience.
 
 ## Background
 Dhaka’s growing migration has led to a rapid expansion of slums and informal settlements resulting in makeshift communities and poor urban planning. These areas have become highly susceptible to climate-related and man-made hazards, such as: flooding, water-logging, fire, disease outbreaks, and urban heat waves. This is further compounded by existing social and infrastructural vulnerabilities, such as: poor housing conditions and limited access to healthcare, sanitation, and waste management services.
