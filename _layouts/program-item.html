@@ -16,6 +16,9 @@ layout: default
         .project-country:last-child::after {
             content: '';
         }
+        .project-summary {
+            color: black;
+        }
       </style>
     
     <div class="program-header-meta promo-title-image" >
@@ -191,7 +194,7 @@ layout: default
             {% if page.Program-summary['Program Summary Text'] %}
             <div class="pro-summary-wrap">
                 <div class="project-summary">
-                    <p style="color: black;">{{ page.Program-summary['Program Summary Text'] | markdownify }}</p>
+                    <p>{{ page.Program-summary['Program Summary Text'] | markdownify }}</p>
                 </div>
             </div>
             {% endif %}
@@ -241,7 +244,7 @@ layout: default
                     {% if page.Narrative-section.Narrative-intro-text %}
                     <div class="pro-summary-wrap">
                         <div class="project-summary">
-                            <p style="color: black;">{{ page.Narrative-section.Narrative-intro-text | markdownify }}</p>
+                            <p>{{ page.Narrative-section.Narrative-intro-text | markdownify }}</p>
                         </div>
                     </div>
                     {% endif %}
