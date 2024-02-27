@@ -23,9 +23,11 @@ Block 2:
   Image: https://cdn.hotosm.org/website/Congestion+at+the+Water+PumpSmall.jpg
   Figcaption: Crowdsourcing Non-Camp Refugee Services - March 2018
   Project:
-  - 'Urban flood resilience: Ramani Huria'
-  - 'Modelling Exposure Through Earth Observation Routines: METEOR'
-  - 'Disaster Early Warning And Capacity Building: InAWARE'
+  - Mapping for Climate Ready Cities - East and Southern Africa
+  - Mapping for Climate Ready Cities - Latin America
+  - Mapping for Climate Ready Cities - West and Northern Africa
+  - Mapping for Climate Ready Cities - Dhaka
+  - Mapping for Climate Ready Cities - Jumla
 Duration:
   Start Date: 2024-01-01 00:00:00 Z
   End Date: 2025-12-31 00:00:00 Z
@@ -236,7 +238,7 @@ Humanitarian OpenStreetMap Team (HOT) addresses these critical data gaps by work
 <h1>/</h1><h4>Map Data Supports Anticipatory Action</h4>
 
 Anticipatory action, crucial in addressing the combined risks of climate change and disasters, bridges the gap between long-term risk reduction and immediate crisis response. Acting in advance of impending disasters saves resources, time, and lives, preventing displacement, disease, and livelihood loss. The FAO's analysis highlights the significant potential return on investment, with each dollar allocated towards anticipatory action potentially yielding seven dollars in benefits and avoided losses. This approach enables enhanced coordination and planning, with community involvement ensuring timely response activities and provider identification. However, challenges persist in vulnerable areas due to data scarcity, though locally-led planning initiatives help overcome this by generating crucial local data for informed decision-making. Initiatives like HOT’s program aim to provide open map data in high-risk cities preemptively, aiding in planning and mitigating the impacts of extreme weather events and climate change. 
-<br> 
+<br>
 <br> 
 
 <h1>/</h1><h4>Proposed Program Goals & Objectives</h4>
