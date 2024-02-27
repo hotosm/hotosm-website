@@ -24,9 +24,10 @@ Duration:
   Start Date: 2024-01-01 00:00:00 Z
   End Date: 2025-12-31 00:00:00 Z
 Image-leading: "/uploads/climate-ready-cities-map.png"
-Figcaption: Our four Regional Hubs work in 94 countries, connecting with local organizations,
-  government agencies, international networks, and others to ground truth map data
-  and get locally created maps into the hands of decision-makers.
+Figcaption: Through our <strong>Mapping for Climate-Ready Cities program</strong>,
+  we are mapping cities in four priority regions of the world and developing a thriving
+  ecosystem to create, interpret, and use maps to respond to and reduce climate risks
+  in densely populated urban areas.
 Project-text:
   Project Summary Text: 'At Humanitarian OpenStreetMap Team (HOT), we are addressing
     climate data gaps by working with local communities and partners to take anticipatory
@@ -54,19 +55,19 @@ Project-text:
   Narrative-title: Map Data for Anticipatory Action
   Narrative-introduction: Anticipatory action serves as a crucial link between long-term
     disaster risk reduction and immediate humanitarian response, particularly amidst
-    the compounded threats of climate change and disasters. By leveraging hazard forecasts,
-    preemptive measures can be taken to mitigate crises, thereby saving resources,
-    time, and averting displacement, disease, and livelihood losses.
-  Narrative: "[The Food and Agriculture Organization (FAO) underscores the significant
-    returns on investment, estimating a sevenfold benefit for every dollar spent on
-    anticipatory action](https://www.fao.org/documents/card/en/c/cb7145en). This proactive
-    approach enables enhanced coordination and community involvement, facilitating
+    the compounded threats of climate change and disasters. <a ref= "https://www.fao.org/documents/card/en/c/cb7145en">According
+    to the Food and Agriculture Organization (FAO)</a>, every dollar invested in anticipatory
+    action could give families seven dollars in benefits and avoid losses. However,
+    <strong>anticipatory action efforts in vulnerable areas are hindered by a lack
+    of data.</strong>
+  Narrative: "HOT’s program will make open map data available in high-risk cities
+    before a disaster strikes so that it can be used to plan for and mitigate the
+    impacts of extreme weather and climate events. The proactive approach of this
+    program enables enhanced coordination and community involvement, facilitating
     early determination of response strategies and providers through ample time for
-    training and capacity building. Despite challenges posed by data scarcity, locally-led
-    planning emerges as pivotal for fostering inclusivity and informed decision-making.
-    Initiatives like HOT's program to provide open map data in high-risk areas prior
-    to disasters aim to bolster preparedness and mitigation efforts against extreme
-    weather and climate events."
+    training and capacity building. By leveraging map data to take preemptive measures,
+    this program will mitigate potential crises, thereby saving resources and time
+    and averting displacement, disease, and livelihood losses. \n "
   Objectives-title-1: 'Map 8-10 major cities across 4 regions by 2025 with a focus
     on the most vulnerable populations in those locations. '
   Objective1: 'Complete an open map of critical infrastructure and environmental systems,
