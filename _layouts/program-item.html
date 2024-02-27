@@ -240,10 +240,11 @@ layout: default
 
                     <!-- <div class="hr-h"></div> -->
         
-                    {% if page.Narrative-section.Narrative-intro-text %}
+                
                     <div class="pro-summary-wrap">
                         <div class="project-summary">
-                            <p>{{ page.Narrative-section.Narrative-intro-text | markdownify }}</p>
+                            {% if page.Narrative-section.Narrative-intro-text %}
+                            {{ page.Narrative-section.Narrative-intro-text | markdownify }}
                         </div>
                     </div>
                     {% endif %}
