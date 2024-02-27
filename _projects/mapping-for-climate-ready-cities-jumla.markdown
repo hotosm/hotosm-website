@@ -1,7 +1,6 @@
 ---
 title: Mapping for Climate Ready Cities - Jumla
 date: 2024-02-26 16:50:00 Z
-published: false
 Project Summary Text: |-
   Through our Mapping for Climate Ready Cities program, HOT is supporting the development of a thriving ecosystem focused on creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions.
 
@@ -18,7 +17,7 @@ Tools:
 ---
 
 ## Summary
-Start Network Nepal ([FOREWARN Nepal](https://startnetwork.org/funds/disaster-risk-financing-support/forewarn)) and Open Mapping Hub-Asia Pacific (AP Hub) will collaborate with communities and non-profit organizations to transfer technical knowledge and utilize data from OpenStreetMap to comprehensively understand and mitigate future climate risks. 
+Start Network Nepal ([FOREWARN Nepal](https://startnetwork.org/funds/disaster-risk-financing-support/forewarn)) and the [Open Mapping Hub-Asia Pacific](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) will collaborate with communities and non-profit organizations to transfer technical knowledge and utilize data from OpenStreetMap to comprehensively understand and mitigate future climate risks. 
 
 Our collaborative effort aims to enhance the capacity of at-risk communities through sustainable data generation and knowledge transfer. By fostering proper interaction between knowledge producers and users, we will promote accessibility of information among START Network members and other humanitarian actors. 
 
