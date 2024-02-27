@@ -2,12 +2,14 @@
 title: Mapping for Climate Ready Cities - Jumla
 date: 2024-02-26 16:50:00 Z
 Project Summary Text: |-
-  Through our Mapping for Climate Ready Cities program, HOT is supporting the development of a thriving ecosystem focused on creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions.
+  Through our Mapping for Climate Ready Cities program, HOT is supporting the development of a thriving ecosystem focused on the creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions.
 
   This project page highlights our work in Jumla, Nepal through HOT's Asia Pacific Hub (AP Hub).
 Feature Image: "/uploads/Jumla%20Project%20Page%20Feature.jpg"
 Country:
 - Nepal
+Impact Area:
+- Sustainable Cities & Communities
 Partner:
 - Start Network
 - KIRDARC
