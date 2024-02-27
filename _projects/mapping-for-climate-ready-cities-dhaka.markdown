@@ -6,8 +6,11 @@ Project Summary Text: |-
   Through our Mapping for Climate Ready Cities program, HOT is supporting the development of a thriving ecosystem focused on creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions.
 
   This project page highlights our work in Dhaka, Bangladesh through HOT's Asia Pacific Hub (AP Hub).
+Feature Image: "/uploads/Dhaka%20CLimate%20Cities.jpg"
 Country:
 - Bangladesh
+Impact Area:
+- Sustainable Cities & Communities
 Tools:
 - tool: Tasking Manager
 ---
@@ -33,4 +36,6 @@ The data collection and awareness building efforts will be supported by stakehol
 * More detailed data model to be developed with co-creation workshops with local stakeholders
 
 ### Expected Outcome and Impact
-Catalyzing a vibrant, sustainable, multi-actor open data ecosystem in the cities, the AP Hub aims to create comprehensive and up-to-date geospatial data on OSM that will empower humanitarian organizations, local authorities, and grassroot communities to better understand, plan for, and respond to various challenges, including the adverse effects of climate change, natural disasters, public health emergencies, and other urban development needs. Ultimately, the AP Hub hopes to contribute to the overall goal of urban resilience against climate change and disasters.  
+Catalyzing a vibrant, sustainable, multi-actor open data ecosystem in the cities, the AP Hub aims to create comprehensive and up-to-date geospatial data on OSM that will empower humanitarian organizations, local authorities, and grassroot communities to better understand, plan for, and respond to various challenges, including the adverse effects of climate change, natural disasters, public health emergencies, and other urban development needs. Ultimately, the AP Hub hopes to contribute to the overall goal of urban resilience against climate change and disasters. 
+
+***Lead image courtesy of Flickr user [ASaber91](https://www.flickr.com/photos/84891020@N03/31902117836/in/photolist-QB5Gbq-FcEAXz-pcmGU4-ptPrqw-prPHsC-pcn2jk-ptRGQi-QEm5wi-GF9ZCQ-5igf9H-2iZZ6VU-pcmssX-pck5w6-prKGQJ-pchRHe-ptvBSt-pcpH1a-pchWd7-Jh8XbG-pcmapP-pcpuNJ-ptN9ia-pcmrmP-pcikG8-pcknin-pchE4d-pcpFJG-ptRWZC-pcmfY4-ptBTXH-ptS4GW-prQGb7-ptveDk-prRZ2u-pcpaNj-pckJJj-pcptQw-ptAVZa-pcoVJi-ptRzMY-ptRLnf-pchNSe-ptBCWR-pciB5H-ptSqeh-prRxNy-pcp3Sh-ptAnx6-pcii19-pcnxme).*** 
