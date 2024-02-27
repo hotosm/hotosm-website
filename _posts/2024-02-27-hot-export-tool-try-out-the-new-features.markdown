@@ -46,13 +46,13 @@ The export tool also now provides you an option to export data inside individual
 
 ![Export 3.png](/uploads/Export%203.png)
 
-**5. Get your export area quick info before making an actual export request **
+**5. Get your export area quick info before making an actual export request**
 
 The export tool has a new feature called data completeness information. When you create a geom or upload in the export tool, after a couple of seconds, you will see information just above the system timestamp. We call it data completeness metrics possible through various sources can be found as listed [here](https://github.com/hotosm/raw-data-api/blob/develop/docs/src/stats/indicators.md). It will give a quick peek about the area where you are planning to export! 
 
 ![Export 4.png](/uploads/Export%204.png)
 
-**6. OSM Oauth2.0 implementation **
+**6. OSM Oauth2.0 implementation**
 
 We have implemented oauth2.0 authentication for OSM. This means this is a big change in terms of the way you login. You will need to log out first and then log in again to the export tool, and everything else should work as it used to! You will see a banner like the following on your screen.
 
@@ -66,7 +66,7 @@ fAIr, the HOT Tasking Manager, and FMTM already use the raw data API, SQL, and M
 
 ![Export 6.png](/uploads/Export%206.png)
 
-**What more can you expect from the export tool? **
+**What more can you expect from the export tool?**
 
 We plan to publish another blog about data exports at the country level and its related enhancement to HDX datasets. As always, we would love to hear from you and what you think of these new developments!  We would also welcome contributions from people to improve the Export Tool documentation [here](https://github.com/hotosm/osm-export-tool/tree/master/ui/app/components/help).
 Join the #export-tool Slack channel or get in touch with [Kshitij](mailto:kshitij.sharma@hotosm.org) if you have any questions or want to send a note of appreciation!
