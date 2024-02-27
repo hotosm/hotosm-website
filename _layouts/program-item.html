@@ -129,7 +129,7 @@ layout: default
 
                     {% for page-country in page.Country %} {% for country in site.where-we-work %}
                     {% if page-country == country.title %}
-                    <span class="project-country" style=""><a href="{{ country.url }}">{{ country.title }}</a></span> {% endif %}
+                    <span class="project-country"><a href="{{ country.url }}">{{ country.title }}</a></span> {% endif %}
                     {% endfor %} {% endfor %}
 
                 </p>
