@@ -3,12 +3,13 @@ title: Women Centered Disaster Resilience in Small Island Developing States - Tr
   and Tobago
 date: 2024-02-12 21:12:00 Z
 published: false
-Project Summary Text: Female high-school students from Trinidad and Tobago were trained
-  on GIS concepts and applications, open mapping tools and techniques, risk management,
-  and gender-based disaster resilience. They then mapped the flood-prone area around
-  the school and created their own Dignity Bag for disaster preparedness.
-Feature Image: "/uploads/3StudentsWorking.jpeg"
-Is image top aligned: true
+Project Summary Text: "![finaltalk.jpeg](/uploads/finaltalk.jpeg)Female high-school
+  students from Trinidad and Tobago were trained on GIS concepts and applications,
+  open mapping tools and techniques, risk management, and gender-based disaster resilience.
+  They then mapped the flood-prone area around the school and created their own Dignity
+  Bag for disaster preparedness."
+Feature Image: "/uploads/finaltalk.jpeg"
+Is image top aligned: false
 Country:
 - Trinidad and Tobago
 Impact Area:
