@@ -8,6 +8,7 @@ Project Summary Text: Female high-school students from Trinidad and Tobago were 
   and gender-based disaster resilience. They then mapped the flood-prone area around
   the school and created their own Dignity Bag for disaster preparedness.
 Feature Image: "/uploads/3StudentsWorking.jpeg"
+Is image top aligned: true
 Country:
 - Trinidad and Tobago
 Impact Area:
@@ -44,7 +45,7 @@ For the training phase, the WCDR in SIDS project team developed a comprehensive 
 
 
 ![teaching.jpeg](/uploads/teaching.jpeg)
-*Priya Harnarine, GISSTT's Projects and Special Initiatives Officer guides two students from Parvati Girls Hindu College*
+*Priya Harnarine, GISSTT's Projects and Special Initiatives Officer, guides two students from Parvati Girls Hindu College*
 
 
 After the training phase, the selected students had a 3-hour workshop to apply their local knowledge of Penal/Debe to identify and map infrastructure and available resources within the project area using [HOT’s Tasking Manager](https://tasks.hotosm.org/). GISSTT President Shane Ragbir introduced the project to the trainees and guided them through the mapping. He then led a data validation exercise to validate the mapped points. The trainees also performed a brief field mapping exercise. Once the workshop was completed, the students received a Dignity Bag for disaster preparedness, inspired by their proposed designs, which included several personal hygiene items like sanitary pads, panty liners, and deodorant.
