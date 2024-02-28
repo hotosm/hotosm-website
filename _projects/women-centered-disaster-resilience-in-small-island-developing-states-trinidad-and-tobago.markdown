@@ -56,7 +56,7 @@ After the training phase, the selected students had a 3-hour workshop to apply t
 Upon conclusion of the Project, all trainees were made honorary Student Members of the GISSTT and can access information and resources to assist them in their School Based Assessments (SBAs) and future projects.
 
 ![allparticipants.jpeg](/uploads/allparticipants.jpeg)
-*Close up of a "Dignity Bag" that was given to the participants, based on their proposed designs*
+*The GISSTT team poses along the students and faculty of Parvati Girls Hindu College*
 
 ## Impact: Women's geospatial skills increase disaster resilience
 
