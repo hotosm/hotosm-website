@@ -1,6 +1,7 @@
 ---
 title: Mapping for Environmental Good; Eco-Smart Cities Project
 date: 2024-02-27 13:18:00 Z
+published: false
 categories:
 - Projects
 - eco-smart cities
