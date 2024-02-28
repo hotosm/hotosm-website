@@ -42,15 +42,20 @@ For the implementation of the project, GISSTT collaborated with the Parvati Girl
 
 For the training phase, the WCDR in SIDS project team developed a comprehensive and targeted curriculum covering basic GIS concepts and applications, open mapping tools and techniques, risk management, and gender-based disaster resilience concepts. Every Saturday from April 29th to June 3rd, the project team delivered 4.5-hour-long in-person lectures at the PGHC. Each week, the trainees completed the curriculum's modules via the Caribbean School of Data’s (CSOD) online Learning Management System (LMS). Their performance was monitored by the Project Lead via the CSOD’s off-platform dashboard.
 
+
 ![teaching.jpeg](/uploads/teaching.jpeg)
+*Priya Harnarine, GISSTT's Projects and Special Initiatives Officer guides two students from Parvati Girls Hindu College*
+
 
 After the training phase, the selected students had a 3-hour workshop to apply their local knowledge of Penal/Debe to identify and map infrastructure and available resources within the project area using [HOT’s Tasking Manager](https://tasks.hotosm.org/). GISSTT President Shane Ragbir introduced the project to the trainees and guided them through the mapping. He then led a data validation exercise to validate the mapped points. The trainees also performed a brief field mapping exercise. Once the workshop was completed, the students received a Dignity Bag for disaster preparedness, inspired by their proposed designs, which included several personal hygiene items like sanitary pads, panty liners, and deodorant.
 
 ![bag.jpeg](/uploads/bag.jpeg)
+*Close up of a "Dignity Bag" that was given to the participants, based on their proposed designs*
 
 Upon conclusion of the Project, all trainees were made honorary Student Members of the GISSTT and can access information and resources to assist them in their School Based Assessments (SBAs) and future projects.
 
 ![allparticipants.jpeg](/uploads/allparticipants.jpeg)
+*Close up of a "Dignity Bag" that was given to the participants, based on their proposed designs*
 
 ## Impact: Women's geospatial skills increase disaster resilience
 
@@ -70,7 +75,6 @@ As a result of this project, there were:
 <td style="border-left: 1px solid black">OpenStreetMap Edits</td>
 </tr>
 </table>
-
 
 
 ## What Happens Next?
