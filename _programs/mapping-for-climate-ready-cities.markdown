@@ -3,6 +3,28 @@ title: Mapping for Climate-Ready Cities
 date: 2018-05-01 05:01:00 Z
 permalink: "/programs/mapping-for-climate-ready-cities"
 position: 88
+Feature Image: https://cdn.hotosm.org/website/Ramani+Huria+Dar+es+Salaam+v3.jpg
+Country:
+- Bangladesh
+- Nepal
+- Ethiopia
+- Democratic Republic of Congo
+- Nigeria
+- Ivory Coast
+- South America
+- Kenya
+- Democratic Republic of the Congo
+- Sierra Leone
+- Liberia
+Impact Area:
+- Sustainable Cities & Communities
+Partner:
+- UN-Habitat
+- Start Network
+- Save the Children UK
+Duration:
+  Start Date: 2024-01-01 00:00:00 Z
+  End Date: 2025-12-31 00:00:00 Z
 Event Promo:
   Event Name: Mapping For Climate-Ready Cities
   Description: "<a style='color: white; font-weight: bold;'>Climate crises are inherently
@@ -28,26 +50,6 @@ Block 2:
   - Mapping for Climate Ready Cities - West and Northern Africa
   - Mapping for Climate Ready Cities - Dhaka
   - Mapping for Climate Ready Cities - Jumla
-Duration:
-  Start Date: 2024-01-01 00:00:00 Z
-  End Date: 2025-12-31 00:00:00 Z
-Country:
-- Bangladesh
-- Nepal
-- Ethiopia
-- Democratic Republic of Congo
-- Nigeria
-- Ivory Coast
-- South America
-- Kenya
-- Democratic Republic of the Congo
-Impact Area:
-- Sustainable Cities & Communities
-Partner:
-- UN-Habitat
-- Start Network
-- Save the Children UK
-Feature Image: https://cdn.hotosm.org/website/Ramani+Huria+Dar+es+Salaam+v3.jpg
 Program-summary:
   Program Summary Text: At Humanitarian OpenStreetMap Team (HOT), we are addressing
     climate data gaps by working with local communities and partners to take anticipatory
