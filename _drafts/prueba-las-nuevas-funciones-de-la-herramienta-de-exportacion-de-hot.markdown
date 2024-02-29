@@ -1,6 +1,16 @@
 ---
 title: "¡Prueba las nuevas funciones de la Herramienta de Exportación de HOT!"
-date: 2024-02-29 19:10:00 Z
+date: 2024-02-27 21:10:00 Z
+Summary Text: OpenStreetMap (OSM) es más que el mapa base que ves en osm.org u otros
+  servicios geoespaciales. La base de datos detrás del mapa está llena de datos espaciales
+  de colaboración abierta con etiquetado sistematizado que se traduce en atributos
+  en los sistemas GIS. Para los analistas de datos y cartógrafos que desean acceder
+  a conjuntos de datos de OSM para usarlos en QGIS u otras aplicaciones similares,
+  ¡la herramienta de exportación de HOT ahora es mucho más útil!
+Feature Image: "/uploads/Export%20Lead.png"
+Person: Kshitij Sharma
+Working Group:
+- TechandInnovation
 ---
 
 If you are looking for reliable OSM data in various file formats that are easy to download in a few easy steps and a couple of minutes, new features have been added to the [HOT Export Tool](https://export.hotosm.org/en/v3/)!  HOT’s developer, Kshitij, has been working for a number of months on these improvements, and we want to send a huge thanks to him!
