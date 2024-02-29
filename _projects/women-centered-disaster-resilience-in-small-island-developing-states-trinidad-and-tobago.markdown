@@ -3,11 +3,10 @@ title: Women Centered Disaster Resilience in Small Island Developing States - Tr
   and Tobago
 date: 2024-02-12 21:12:00 Z
 published: false
-Project Summary Text: "![finaltalk.jpeg](/uploads/finaltalk.jpeg)Female high-school
-  students from Trinidad and Tobago were trained on GIS concepts and applications,
-  open mapping tools and techniques, risk management, and gender-based disaster resilience.
-  They then mapped the flood-prone area around the school and created their own Dignity
-  Bag for disaster preparedness."
+Project Summary Text: Female high-school students from Trinidad and Tobago were trained
+  on GIS concepts and applications, open mapping tools and techniques, risk management,
+  and gender-based disaster resilience. They then mapped the flood-prone area around
+  the school and created their own Dignity Bag for disaster preparedness.
 Feature Image: "/uploads/finaltalk.jpeg"
 Is image top aligned: false
 Country:
@@ -19,7 +18,7 @@ Person:
 - Louise Mathurin Serieux
 - Shazmane Mandjee Rehamtula
 Partner:
-- GIS Institute of Trinidad and Tobago (GISSTT)
+- GIS Society of Trinidad and Tobago (GISSTT)
 Duration:
   Start Date: 2023-04-01 00:00:00 Z
   End Date: 2023-06-30 00:00:00 Z
@@ -42,7 +41,7 @@ With this in mind, the GIS Society of Trinidad and Tobago (GISSTT) launched the 
 
 For the implementation of the project, GISSTT collaborated with the Parvati Girls Hindu College (PGHC), an all-female high school in the Penal–Debe region, which is located in an area susceptible to flooding. A total of seventeen students between the ages of 15 and 17 participated in WCDR in SIDS. The project consisted of two main phases: training and remote mapping.
 
-For the training phase, the WCDR in SIDS project team developed a comprehensive and targeted curriculum covering basic GIS concepts and applications, open mapping tools and techniques, risk management, and gender-based disaster resilience concepts. Every Saturday from April 29th to June 3rd, the project team delivered 4.5-hour-long in-person lectures at the PGHC. Each week, the trainees completed the curriculum's modules via the Caribbean School of Data’s (CSOD) online Learning Management System (LMS). Their performance was monitored by the Project Lead via the CSOD’s off-platform dashboard.
+For the training phase, the WCDR in SIDS project team, comprised of GIS and disaster management professionals, developed a comprehensive and targeted curriculum covering basic GIS concepts and applications, open mapping tools and techniques, risk management, and gender-based disaster resilience concepts. Every Saturday from April 29th to June 3rd, the project team, comprising Rayna Sookdeo, Cassie Roopnarine, and Curmira Gulston, delivered 4.5-hour-long in-person lectures at the PGHC. Each week, the trainees completed the curriculum's modules via the Caribbean School of Data’s (CSOD) online Learning Management System (LMS). Their performance was monitored by the Project Lead via the CSOD’s off-platform dashboard.
 
 
 ![teaching.jpeg](/uploads/teaching.jpeg)
