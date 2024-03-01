@@ -33,7 +33,7 @@ Las actualizaciones de la herramienta de exportación introducen una nueva funci
 
 ![Export 1.png](/uploads/Export%201.png)
 
-**3. Obtenga límites de proyecto en el HOT Tasking Manager con la herramienta de exportación**
+**3. Obtén límites de proyecto en el HOT Tasking Manager con la herramienta de exportación**
 
 Ahora, la herramienta de exportación puede admitir el ID del proyecto del Tasking Manager como entrada directamente en la barra de búsqueda. El ID del proyecto debe ir seguido de la palabra tm. Cuando un usuario selecciona un ID de proyecto del Tasking Manager como área de interés, se exportarán los datos de OSM asociados con ese proyecto.
 
@@ -47,7 +47,6 @@ La herramienta de exportación ahora también te brinda una opción para exporta
 
 **5. Obtén información rápida sobre tu área de exportación antes de hacer una solicitud de exportación real**
 
-It will give a quick peek about the area where you are planning to export! 
 La herramienta de exportación tiene una nueva característica llamada información sobre la integridad de los datos. Cuando creas una geom o haces una carga en la herramienta de exportación, después de un par de segundos, verás información justo encima de la marca de tiempo del sistema. Lo llamamos métricas de integridad de datos, posible a través de varias fuentes que se pueden encontrar como se enumeran [aquí](https://github.com/hotosm/raw-data-api/blob/develop/docs/src/stats/indicators.md). ¡Te dará un vistazo rápido sobre el área donde planeas exportar!
 
 ![Export 4.png](/uploads/Export%204.png)
