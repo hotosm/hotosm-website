@@ -15,7 +15,7 @@ Working Group:
 
 Si estás buscando datos OSM confiables en varios formatos de archivo que sean fáciles de descargar en unos pocos pasos y en un par de minutos, se han agregado nuevas funciones a la [Herramienta de exportación de HOT](https://export.hotosm.org /en/v3/)! El desarrollador de HOT, Kshitij, ha estado trabajando durante varios meses en estas mejoras y queremos enviarle un enorme agradecimiento.
 
-¡Mira el tutorial que te guiará a través de todas las funciones y explóralas tú mismo! Si tienes algún comentario, ponte en contacto agregando una propuesta a [Github](https://github.com/hotosm/osm-export-tool) o uniéndote a #export-tool [canal Slack](https://slack.hotosm.org/).
+¡Mira el tutorial que te guiará a través de todas las funciones y explóralas tú mismo! Si tienes algún comentario, ponte en contacto agregando una propuesta (issue) a [Github](https://github.com/hotosm/osm-export-tool) o uniéndote a #export-tool [canal Slack](https://slack.hotosm.org/).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vxEDFAVfOTo?si=kdBJGdubn3UrqdnS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
