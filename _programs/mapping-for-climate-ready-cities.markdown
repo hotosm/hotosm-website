@@ -45,9 +45,9 @@ Block 2:
   Image: https://cdn.hotosm.org/website/Congestion+at+the+Water+PumpSmall.jpg
   Figcaption: Crowdsourcing Non-Camp Refugee Services - March 2018
   Project:
-  - Mapping for Climate Ready Cities - East and Southern Africa
   - Mapping for Climate Ready Cities - Latin America
   - Mapping for Climate Ready Cities - West and Northern Africa
+  - Mapping for Climate Ready Cities - East and Southern Africa
   - Mapping for Climate Ready Cities - Dhaka
   - Mapping for Climate Ready Cities - Jumla
 Program-summary:
