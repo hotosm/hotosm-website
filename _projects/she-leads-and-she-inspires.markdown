@@ -102,7 +102,7 @@ The project team intends for the mapped geodata to inform government units, heal
 
 The results of the project will be disseminated by Mia, to the local leaders and historical and cultural enthusiasts in the [Philippines](https://docs.google.com/presentation/d/1DwK-aKXPmXpCscFnJU7dacA6Eu4_nWYdDZzOCT9l4f4/edit#slide=id.p1). This dissemination will allow them to utilize the information for planning restoration projects and emphasizing culturally and historically significant landmarks and locations through maps.
 
-Similarly, Binita observed that “the data was intended for utilization by communities, colleges, volunteers, researchers, and, ultimately, government bodies” in [India](https://docs.google.com/presentation/d/1XKbucvMT35MPwHML8GKjag3BFo_-eq4Fli_l1XG3bi4/edit#slide=id.p1). The presence of a PhD student and geography professor among the learners suggested the potential for geodata to be employed in research endeavors. Additionally, with OSM NE members working in NGOs, there was an opportunity for geodata to enhance the planning and delivery of services within their organizations, with these individuals strategically serving as GIS Specialists.
+Similarly, Binita observed that “the data was intended for utilization by communities, colleges, volunteers, researchers, and, ultimately, government bodies” in India. The presence of a PhD student and geography professor among the learners suggested the potential for geodata to be employed in research endeavors. Additionally, with OSM NE members working in NGOs, there was an opportunity for geodata to enhance the planning and delivery of services within their organizations, with these individuals strategically serving as GIS Specialists.
 
 **Grantees reported actual use:**
 
