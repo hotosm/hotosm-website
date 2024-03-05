@@ -86,7 +86,7 @@ Women Grantees emerged as influential leaders within the OSM ecosystem, leveragi
 
 **How the data was used in decision-making**
 
-Grantees reported potential use:
+**Grantees reported potential use:**
 
 **Disaster Response**
 
@@ -94,7 +94,7 @@ In [Vietnam, Huynh To Nga](https://docs.google.com/presentation/d/1ZzwGDu-rErEX3
 
 Similarly, in [Bangladesh, Aisha et al.](https://docs.google.com/spreadsheets/d/1_7sov_kUYjNiOsHVCMtZDRMnHF-nXK00HNBwC_mcz9Q/edit#gid=411190869) highlighted the anticipated support from emergency response and evacuation maps for the University Administration and first responders. These maps aimed to facilitate anticipatory action planning for campus safety, increasing awareness of evacuation routes for students, faculty, and staff. Additionally, they were expected to aid healthcare units, fire stations, and security personnel in providing timely responses during and after emergencies.
 
-**Health **
+**Health**
 
 The project team intends for the mapped geodata to inform government units, healthcare professionals, aid workers, and individual citizens to better locate and access vital health services. In [Bhutan, Kezang](https://docs.google.com/presentation/d/1pFK1htomWPAXP_-HS28uy2G4Ov4AvbqS2vCp3hfKTJU/edit#slide=id.p1) emphasized this goal, highlighting the importance of geodata in improving access to essential healthcare services for all stakeholders.
 
@@ -104,11 +104,11 @@ The results of the project will be disseminated by Mia, to the local leaders and
 
 Similarly, Binita observed that “the data was intended for utilization by communities, colleges, volunteers, researchers, and, ultimately, government bodies” in [India](https://docs.google.com/presentation/d/1XKbucvMT35MPwHML8GKjag3BFo_-eq4Fli_l1XG3bi4/edit#slide=id.p1). The presence of a PhD student and geography professor among the learners suggested the potential for geodata to be employed in research endeavors. Additionally, with OSM NE members working in NGOs, there was an opportunity for geodata to enhance the planning and delivery of services within their organizations, with these individuals strategically serving as GIS Specialists.
 
-Grantees reported actual use:
+**Grantees reported actual use:**
 
-The project demonstrated the potential to significantly impact health outcomes in villages. PMI utilized the collected data to analyze the progress of polio immunization and provided reports to their donors upon concluding the Polio Preparedness Program in 2023. Sheila Amalia Burhanudin from Indonesia highlighted that “the health facility coverage analysis map could serve as a valuable tool for prioritizing and identifying areas for mobilizing health promotion efforts, particularly targeting mothers with children.”
+The project demonstrated the potential to significantly impact health outcomes in villages. PMI utilized the collected data to analyze the progress of polio immunization and provided reports to their donors upon concluding the Polio Preparedness Program in 2023. Sheila Amalia Burhanudin from [Indonesia](https://docs.google.com/presentation/d/1HPMpLWNWhIWg5KEyq33NvAwOWBaWMNMoXxl4sprrx8A/edit#slide=id.p1) highlighted that “the health facility coverage analysis map could serve as a valuable tool for prioritizing and identifying areas for mobilizing health promotion efforts, particularly targeting mothers with children.”
 
-Similarly in the Philippines, Ausome Maps have been officially released for public use, eliciting gratitude from learning and therapy centers. One center expressed appreciation to Cham, stating, "Thank you for going above and beyond for our Ausome families. Rest assured, we will share Ausome Maps to our wider community." Additionally, a family member seeking centers reached out to the team, highlighting the challenges of finding schools and therapy centers for children with autism, particularly outside the metro area. They conveyed their deep appreciation for the impactful work of Ausome Maps.
+Similarly in the [Philippines](https://docs.google.com/presentation/d/11mgO2WTBvAFiyTCYe_6D_OG2i5gIGugnSyL2T35bE5Y/edit#slide=id.p2), Ausome Maps have been officially released for public use, eliciting gratitude from learning and therapy centers. One center expressed appreciation to Cham, stating, "Thank you for going above and beyond for our Ausome families. Rest assured, we will share Ausome Maps to our wider community." Additionally, a family member seeking centers reached out to the team, highlighting the challenges of finding schools and therapy centers for children with autism, particularly outside the metro area. They conveyed their deep appreciation for the impactful work of Ausome Maps.
 
 **Lessons Learnt**
 
