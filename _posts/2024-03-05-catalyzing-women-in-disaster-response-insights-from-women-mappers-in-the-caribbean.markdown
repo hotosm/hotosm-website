@@ -33,21 +33,23 @@ Successful projects in [Trinidad and Tobago](https://www.hotosm.org/rfps/women-c
 
 Each speaker brought forth unique expertise and experiences, offering a diverse range of perspectives and efforts within the mapping and disaster response domain in the Caribbean.
 
+# TRINIDAD AND TOBAGO
 Priya's participation in the webinar underscored her commitment to advancing GIS knowledge and disaster management, particularly among the younger demographic. Despite lacking technical expertise, her role as the vice president of the GIS Society of Trinidad and Tobago highlighted her dedication to continuous learning and advocacy. Priya emphasized her project's focus on empowering women and girls through GIS training, emphasizing its significance in bolstering disaster preparedness. Through her insights, Priya exemplified the importance of women's involvement in GIS to fortify disaster preparedness and response efforts, as evidenced by their collaboration with 30 students in Trinidad's flood-prone region.
 ![Women in SIDS Photos - Trinidad and Tobago.jpg](/uploads/Women%20in%20SIDS%20Photos%20-%20Trinidad%20and%20Tobago.jpg)
 
-
+# SAINT LUCIA
 Proann, representing the Youth Emergencies Action Committee (YEAC) in Saint Lucia, shared insights into their project during the webinar, emphasizing their emphasis on training young women in GIS mapping and disaster response skills. Despite encountering technical challenges, Proann highlighted the significant achievements of the 10 young women trained in GIS and field mapping as part of the 2023 pilot project for women-centered disaster risk resilience. Proann underscored the ongoing contributions of these young women to YEAC and their pivotal role in mapping initiatives on the island. Through Proann's presentation, the impactful contributions of women in GIS and disaster response were evident, highlighting the importance of empowering young women in such initiatives.
 ![Women in SIDS Photos -  Saint Lucia.jpg](/uploads/Women%20in%20SIDS%20Photos%20-%20%20Saint%20Lucia.jpg)
 
-
+# HAITI
 During her presentation, Lyse provided insights into the Women in Small Island Developing States (SIDS)  project in Haiti, which collaborated with Ecole d'infotronique and the Caribbean School of Data (CSGD) to empower women through technology. She highlighted that 25 women students were enrolled in a two-month training program focused on GIS, open mapping, and disaster resilience, facilitated through the CSOD platform. Lyse emphasized that the participants would subsequently develop a proposal aimed at securing a microgrant to support community-building efforts through remote mapping initiatives and apply their newly acquired skills in practical settings, thereby contributing to community resilience and disaster risk reduction efforts. Through this comprehensive approach, the Women in SIDS project aims to empower women and foster sustainable community development in Haiti.
 ![Women in SIDS Photos -  Haiti.jpg](/uploads/Women%20in%20SIDS%20Photos%20-%20%20Haiti.jpg)
 
-
+# GUYANA AND JAMAICA
 Valrie’s presentation highlighted the successful implementation of professional development programs in Guyana and Jamaica, focusing on integrating mapping skills across various sectors. Through partnerships and initiatives like "Woman Map for a Cause" and collaborations with organizations such as Geotech Vision and EduTechAid, Valrie and her team facilitated training sessions targeting women and girls. With over 15 participants in Jamaica and a cohort of 15 women in Guyana, significant engagement was achieved. The programs resulted in mapping approximately 818 OSM features and 542 buildings in Guyana, along with 243 features and 45 buildings in Jamaica, demonstrating tangible outcomes. Valrie emphasized the importance of ongoing mentorship and advocacy to empower participants as change ambassadors in their communities, aiming to strengthen GIS education's impact in the Caribbean region.
 ![Women in SIDS Photos -  Guyana and Jamaica.jpg](/uploads/Women%20in%20SIDS%20Photos%20-%20%20Guyana%20and%20Jamaica.jpg)
 
+# HIGHLIGHTS FROM THE PEER-TO-PEER EXCHANGE
 In the second part of the session, Louise encouraged everyone to jump onto the Jamboard and share their thoughts. Here are some of the highlights:
 ![Jamboard - Women Mappers in the Caribbean.png](/uploads/Jamboard%20-%20Women%20Mappers%20in%20the%20Caribbean.png)
 
