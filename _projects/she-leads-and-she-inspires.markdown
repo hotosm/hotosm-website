@@ -1,70 +1,116 @@
 ---
 title: She Leads and She Inspires
 date: 2023-06-30 00:15:00 Z
-Project Summary Text: Aspiring for a representative movement in the Asia-Pacific region
+Project Summary Text: 'The AP Hub’s  flagship project, "She Leads & She Inspires (SLSI)"
+  empowered 100 women by equipping them with the knowledge to leverage open mapping
+  for addressing social issues at the local community level. These women served as
+  community leaders in local open mapping projects across the Asia-Pacific region,
+  focusing on the impact areas of Disaster Response, Health, Inclusion, and Gender
+  Equity.
+
+'
 Feature Image: "/uploads/SLSI%201.png"
+Country:
+- Asia-Pacific
+- 
+Impact Area:
+- Gender Equality
+Person:
+- Mikko Tamura
 Duration:
   Start Date: 2021-12-01 00:00:00 Z
   End Date: 2022-06-30 00:00:00 Z
+Data:
+- Datasets created: |
+    Buildings
+    91,000
+    KM Roads
+    1,000
+    Evacuation Features
+    100% in target Area
+    Fire Stations
+    100% in target Area
+    Hospitals
+
+
+    100% in select target Area
+    Target Homes for Polio Immunization
+    227
+    SPED Centers /Schools
+    284
+    Women Friendly Spaces
+    115
+
+    H
+Tools:
+- tool:
+  - Tasking Manager
+  - 
+  - 
 ---
 
 The Open Mapping Hub Asia Pacific (the Hub) is committed to supporting the emergence and evolution of women leaders within the OSM ecosystem and beyond. Towards that commitment, the Hub launched She Leads and She Inspires, a training and professional development opportunity that aims to support women to become OSM community leaders, gaining skills in geospatial data and technologies, decision-making, digital leadership, needs identification, and team building.
 
-The program was designed with, by, and for women in (or hoping to step into!) leadership roles within their communities.
+The program was **designed with, by, and for women **in (or hoping to step into!) leadership roles within their communities.
 
 ![SLSI 2.png](/uploads/SLSI%202.png)
 
-The program ran from December 2021 to June 2022 and was split into three core components:
-I) A 2-day intensive workshop where participants heard from experienced and inspiring women leaders from the geospatial ecosystem (18-19 December 2021)
-ii) Month-by-month learning topics that included interactive training and personal assignments (January - June 2022) iii) A group-led, co-created community-based project guided by a group mentor (July 2022- beyond)
 
-What was included?
-Participants were led through a series of inspirational talks and training activities hosted by a range of geospatial professionals in leadership positions in the humanitarian sector, and beyond.
+The background to our approach was to identify the social problem, the data gap and the vibrancy of the ecosystem. 
 
-Participants in She Leads & She Inspire received training and mentorship in:
-i) Solutions-based leadership
-ii) Introduction to OpenStreetMap (OSM) and basic Geospatial Information Services (GIS)
-iii) Needs identification and informed decision making
-iv) Project & people management
-v) Communication and networking skills
-vi) Advanced GIS and remote sensing 
+**Social Problem:**
+In the data ecosystem, the value of diversity is not fully understood, resulting in limited gender and geographic representation. Women, especially in the GIS sector, face restricted learning and leadership opportunities, contributing to the underrepresentation of females in the field.
 
-**MONTHLY JOURNEY**
-Participants underwent four components each month.  One for the peer-to-peer/mentor session, a special session with a trainer, and an opportunity to work together on their group community project.
-![SLSI3.png](/uploads/SLSI3.png)
+**Data Gap:**
+Across 25 priority countries, there is a notable deficiency in map features that specifically benefit women, highlighting a critical data gap in addressing their needs.
 
-TRAINING
-From January to June, participants took part in monthly training sessions. These sessions covered the following topics: 
+**Vibrancy of Ecosystem:**
+The OpenStreetMap (OSM) communities exhibit limited gender diversity and lack comprehensive geographic representation, hindering the richness of perspectives. OSM communities possess the potential to implement and advocate for socio-economic change with essential resources such as knowledge, funds, and geo-data at their disposal, yet these resources are not fully utilized to address the existing social problems and data gaps.
 
-January: Building an inclusive team
-February: Identifying challenges
-March: Project planning for the impact
-April: Finding the voice of a leader
-May: Developing Solutions based leadership
-June:  Turning Skills into action
+To tackle the above mentioned issues, the SLSI program was divided into two components: Leadership and Grants.
 
-Inspiring trainers from all over the world shared their insights and knowledge with participants on these topics. The participants had the opportunity to respond to a local challenge in collaboration with their peers. Together, with the mentors and the hub, they implemented evolving community-based projects to apply the new skills they learned.  
+**Leadership: **
+This training and professional development opportunity supported women in becoming OSM community leaders, enabling them to acquire skills in geospatial data and technologies, decision-making, digital leadership, needs identification, and networking.
+The program was designed with, by, and for women in (or hoping to step into!) leadership roles within their communities. Participants were led through a series of webinars and trainings hosted by a range of geospatial professionals in leadership positions in the humanitarian and mapping sectors.
 
-MENTORSHIP
-All participants were assigned a mentor who supported them from January through to June.
-A mentor:
-- Supported participants through their participation in She Leads and She Inspires
-- Supported participants through their community-based project
-- Enabled focused conversation targeted at helping the group achieve their goals
-- Shared their experiences to give the mentees new perspectives
-- Empowered the mentee to find their own solutions and think freely 
+The program kicked off with a 2-3 day intensive workshop in December to initiate the leadership journey and continued into the first 6 months of 2022. Across these 6 months, participants worked on a group project linked to humanitarian or development impact projects related to OpenStreetMap (OSM) data; these projects were supported by mentors. Each month, there was a new focus topic with a webinar, resources, and an assignment.
 
-COMMUNITY-BASED PROJECT
-At the end of the program, participants were divided into groups of seven or eight. In these teams, participants were free to explore and apply the skills that they’ve learned during the program towards a community-based project.
+**Grants: **
+The project deployed 10 initiatives directly from the SLSI Champions for implementation. The champions themselves had the chance to learn, grow, and gain experience by handling the projects. Guided by their leadership skills, the projects supported the expansion of networks and community activities in various geographic locations over the past 6 months.
 
-The project evolution began with team building and challenge identification (January - February); progressed to solutions, project planning, and partnership building (March-May); and ended with the development of a proposal / white paper that communicates the potential impact of their work.
+**Outcome:**
+Women Grantees remained actively involved in OSM community activities within their respective regions, fostering continued engagement and collaboration.
 
-OUTCOMES
-Over the course of the six months, 99 women from 14 countries - Nepal, India, Philippines, Bangladesh, Bhutan, Tajikistan, Indonesia, Pakistan, Sri Lanka, Cambodia, Fiji, Kiribati, Vietnam, Papua New Guinea received training in the program supporting them to become OSM community leaders by gaining skills in geospatial data and technologies, decision making, digital leadership, needs identification and networking. Out of these 99 women, 74 successfully completed the program by submitting 37 community development proposals.
+**Impact:**
+Women Grantees emerged as influential leaders within the OSM ecosystem, leveraging their expertise to drive positive change and innovation. Communities of Grantees experienced significant growth in knowledge on OSM practices and techniques, resulting in enhanced mapping capabilities. This increased knowledge translated into a tangible impact, with a notable rise in map data quality and quantity across regions where Grantees were active.
 
-19 of these participants will be carrying out 10 projects in 10 countries as follows.
+**How the data was used in decision-making**
 
-SELECTED PROJECTS
+Grantees reported potential use:
+
+Disaster Response 
+In Vietnam, Huynh To Nga noted that the data could inform residents about safe spaces, particularly during flooding, and could assist researchers, humanitarian projects, NGOs, and government agencies in including ethnic minorities in enhancing Disaster Risk Reduction services.
+
+Similarly, in Bangladesh, Aisha et al. highlighted the anticipated support from emergency response and evacuation maps for the University Administration and first responders. These maps aimed to facilitate anticipatory action planning for campus safety, increasing awareness of evacuation routes for students, faculty, and staff. Additionally, they were expected to aid healthcare units, fire stations, and security personnel in providing timely responses during and after emergencies.
+
+Health 
+The project team intends for the mapped geodata to inform government units, healthcare professionals, aid workers, and individual citizens to better locate and access vital health services. In Bhutan, Kezang emphasized this goal, highlighting the importance of geodata in improving access to essential healthcare services for all stakeholders.
+
+Culture and Inclusion
+The results of the project will be disseminated by Mia, to the local leaders and historical and cultural enthusiasts in the Philippines. This dissemination will allow them to utilize the information for planning restoration projects and emphasizing culturally and historically significant landmarks and locations through maps.
+Similarly, Binita observed that “the data was intended for utilization by communities, colleges, volunteers, researchers, and, ultimately, government bodies” in India. The presence of a PhD student and geography professor among the learners suggested the potential for geodata to be employed in research endeavors. Additionally, with OSM NE members working in NGOs, there was an opportunity for geodata to enhance the planning and delivery of services within their organizations, with these individuals strategically serving as GIS Specialists.
+
+Grantees reported actual use:
+The project demonstrated the potential to significantly impact health outcomes in villages. PMI utilized the collected data to analyze the progress of polio immunization and provided reports to their donors upon concluding the Polio Preparedness Program in 2023. Sheila Amalia Burhanudin from Indonesia highlighted that “the health facility coverage analysis map could serve as a valuable tool for prioritizing and identifying areas for mobilizing health promotion efforts, particularly targeting mothers with children.”
+
+Similarly in the Philippines, Ausome Maps have been officially released for public use, eliciting gratitude from learning and therapy centers. One center expressed appreciation to Cham, stating, "Thank you for going above and beyond for our Ausome families. Rest assured, we will share Ausome Maps to our wider community." Additionally, a family member seeking centers reached out to the team, highlighting the challenges of finding schools and therapy centers for children with autism, particularly outside the metro area. They conveyed their deep appreciation for the impactful work of Ausome Maps.
+
+**Lessons Learnt**
+Through the SLSI program, valuable lessons have been learned showcasing the remarkable leadership abilities of community women leaders. These women have demonstrated an unparalleled commitment to fostering change within their communities, utilizing geospatial data and technologies to address pressing issues. 
+
+From disaster response to healthcare access and beyond, their dedication and resilience have been instrumental in driving impactful projects forward. Importantly, the program has underscored the transformative power of inclusive leadership, empowering women to take charge and enact meaningful societal change. As these leaders continue to navigate challenges and leverage their skills, they serve as inspiration for future generations, embodying the spirit of innovation, collaboration, and empowerment.
+
+**SELECTED PROJECTS**
 ![slsi-project-winners-1-1080x1080-551b40.png](/uploads/slsi-project-winners-1-1080x1080-551b40.png)
 
 The projects address a range of local challenges related to Disaster Resilience, Environment, Gender Equality, Health, Heritage, Inclusion, and Sustainable Cities, adding value to local action in Asia Pacific
