@@ -36,8 +36,6 @@ With this background, Ana offers us a vision of her community, San Antonio de Pr
 
 San Antonio de Prado is home to a large population and boasts the title of being the second-largest township in Colombia. The essence of this community is manifested in abundant cloudiness, cold weather, and noticeable temperature variations as one ascends through the city. Here, the air has a distinctive aroma, unique compared to other places. Additionally, the constant sound of cars and public transport vehicles is an integral part of the soundscape, given the extensive transportation network that runs through the pathways and connects the township with the city center.
 
-# LANDSLIDES: A PERSISTENT CHALLENGE
-
 In this context, we asked Ana to provide us with a deeper perspective on landslides, one of the most pressing issues affecting the community.
 
 > —The issue we face in San Antonio de Prado is linked to water trapped in the mountains, causing mass movements. We live with the reality of being surrounded by mountains, and various parts of the township have geological problems. The issue is so palpable that they decided to focus on us for this project. We focus on the project because of the risks in pathways like Potrerito and Montañita, where there are many critical points.
