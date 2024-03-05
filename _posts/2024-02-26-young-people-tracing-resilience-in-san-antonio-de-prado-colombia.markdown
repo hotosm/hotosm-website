@@ -1,6 +1,6 @@
 ---
 title: Young People Tracing Resilience in San Antonio de Prado, Colombia
-date: 2024-03-05 23:05:00 Z
+date: 2024-02-26 23:05:00 Z
 Summary Text: Discover the impactful volunteer work of Ana Restrepo and a group of
   young people in San Antonio de Prado, Colombia. Their focus on collaborative mapping
   not only identifies areas of risk but also promotes citizen participation and demonstrates
@@ -42,7 +42,7 @@ In this context, we asked Ana to provide us with a deeper perspective on landsli
 
 > —The issue we face in San Antonio de Prado is linked to water trapped in the mountains, causing mass movements. We live with the reality of being surrounded by mountains, and various parts of the township have geological problems. The issue is so palpable that they decided to focus on us for this project. We focus on the project because of the risks in pathways like Potrerito and Montañita, where there are many critical points.
 
-In 2022, San Antonio de Prado experienced a significant landslide that resulted in two deaths, triggering an alert throughout the community. This event was a wake-up call that highlighted the vulnerability of the area. Furthermore, in the pathways of Potrerito and Montañita, two of the seven that make up the township, there were landslides that destroyed a key road. Also, in Potrerito, a rock obstructed the flow of water during heavy rains, causing floods and damage to homes. These incidents highlighted the urgent need to address the issue of landslides and ensure the safety of the community.
+In 2022, [San Antonio de Prado experienced a significant landslide that resulted in two deaths](https://uk.news.yahoo.com/two-reported-dead-following-lanslide-011513394.html?guccounter=1), triggering an alert throughout the community. This event was a wake-up call that highlighted the vulnerability of the area. Furthermore, in the pathways of Potrerito and Montañita, two of the seven that make up the township, there were landslides that destroyed a key road. Also, in Potrerito, a rock obstructed the flow of water during heavy rains, causing floods and damage to homes. These incidents highlighted the urgent need to address the issue of landslides and ensure the safety of the community.
 
 # YOUTH ENGAGED IN COMMUNITY MAPPING: DRIVING CHANGE
 ![Jóvenes Mapeadoras en San Antonio de Prado.jpg](/uploads/Jo%CC%81venes%20Mapeadoras%20en%20San%20Antonio%20de%20Prado.jpg)
@@ -78,6 +78,6 @@ The presentation of the project to the community marked a significant milestone.
 
 By participating, Ana was eager to learn how to handle drones. Ana thought, "If any of them had known how to fly, they would have lent them the drone so they could take orthophotos." The lack of technical capacity to use this tool worries her. There is a considerable gap in the technical part needed to face these projects. Although activities such as making polygons, lines, or going to do Street View may seem simple, Ana recognizes that there is an analytical part that remains in the hands of another team. Learning and training in both technical and efficient communication with the community are fundamental.
 
-> —My intention is not to distance myself from participatory mapping. I want to participate in other mappings that HOT invites us to, such as the Activation after Hurricane Otis in Acapulco, where I am currently participating. When I am interested, I encourage myself, I get involved, because I know that at some point, an even better opportunity will come. That's what I try to do every day.
+> —My intention is not to distance myself from participatory mapping. I want to participate in other mappings that HOT invites us to, such as the [Activation after Hurricane Otis in Acapulco](https://www.hotosm.org/projects/hurricane-otis-2023-response/), where I am currently participating. When I am interested, I encourage myself, I get involved, because I know that at some point, an even better opportunity will come. That's what I try to do every day.
 
 In San Antonio de Prado, where landslides threaten natural harmony, Ana Carolina Restrepo stands out as a transformative force. At 20 years old, Ana is a passionate young leader for community mapping projects, tracing not only the outline of risks but also weaving citizen participation into the heart of decision-making. Her work not only seeks to map the present but to build a resilient future, where maps become living tools for environmental risk management. Although her initial project in San Antonio de Prado concludes, the spirit of participatory mapping promises to continue resonating in the community and in every project Ana participates in, aware not only of exploring new frontiers of commitment and prevention in her community but throughout the Latin American region.
