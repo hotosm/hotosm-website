@@ -67,7 +67,7 @@ Across 25 priority countries, there is a notable deficiency in map features that
 **Vibrancy of Ecosystem:**
 The OpenStreetMap (OSM) communities exhibit limited gender diversity and lack comprehensive geographic representation, hindering the richness of perspectives. OSM communities possess the potential to implement and advocate for socio-economic change with essential resources such as knowledge, funds, and geo-data at their disposal, yet these resources are not fully utilized to address the existing social problems and data gaps.
 
-To tackle the above mentioned issues, the SLSI program was divided into two components: Leadership and Grants.
+To tackle the above mentioned issues, the SLSI program was divided into two components: **Leadership and Grants**.
 
 **Leadership:**
 This training and professional development opportunity supported women in becoming OSM community leaders, enabling them to acquire skills in geospatial data and technologies, decision-making, digital leadership, needs identification, and networking.
@@ -88,7 +88,8 @@ Women Grantees emerged as influential leaders within the OSM ecosystem, leveragi
 
 > Grantees reported potential use:
 
-**Disaster Response **
+****Disaster Response ****
+
 In Vietnam, Huynh To Nga noted that the data could inform residents about safe spaces, particularly during flooding, and could assist researchers, humanitarian projects, NGOs, and government agencies in including ethnic minorities in enhancing Disaster Risk Reduction services.
 
 Similarly, in Bangladesh, Aisha et al. highlighted the anticipated support from emergency response and evacuation maps for the University Administration and first responders. These maps aimed to facilitate anticipatory action planning for campus safety, increasing awareness of evacuation routes for students, faculty, and staff. Additionally, they were expected to aid healthcare units, fire stations, and security personnel in providing timely responses during and after emergencies.
