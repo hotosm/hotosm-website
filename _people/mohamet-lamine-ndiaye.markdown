@@ -6,7 +6,7 @@ Member Type:
   Is Staff: false
   Is Voting Member: true
   Is Board Member: true
-Job Title: Member-at-Large
+Job Title: Member at Large
 Project:
 - 'Senegal Emergency Health Data Campaign: Enabling in-country analysis of healthcare
   facilities'
