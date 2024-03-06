@@ -12,14 +12,32 @@ Project Summary Text: 'The AP Hub’s  flagship project, "She Leads & She Inspir
 Feature Image: "/uploads/SLSI%201.png"
 Country:
 - Asia-Pacific
-- 
+- Bangladesh
+- Bhutan
+- Cambodia
+- Federated States of Micronesia
+- Fiji
+- India
+- Indonesia
+- Kiribati
+- Nepal
+- New Zealand
+- Pakistan
+- Papua New Guinea
+- Philippines
+- Sri Lanka
+- Tajikistan
+- Viet Nam
 Impact Area:
 - Gender Equality
+- Disasters & Climate Resilience
+- Public Health
+- 
 Person:
 - Mikko Tamura
 Duration:
   Start Date: 2021-12-01 00:00:00 Z
-  End Date: 2022-06-30 00:00:00 Z
+  End Date: 2024-03-30 00:00:00 Z
 Data:
 - Datasets created: |
     Buildings
