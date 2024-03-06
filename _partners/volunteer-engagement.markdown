@@ -5,7 +5,7 @@ Intro Text: We can support you to quickly engage large groups of employees to he
   map places vulnerable to natural disasters or experiencing poverty
 Page Contact:
   Label: 'Contact Us '
-  Text: Want to partner? Please get in touch. We look forward to hearing from you!
+  Text: Want to partner with us? We look forward to hearing from you!
   Link: https://www.surveymonkey.com/r/767QKQC
 layout: page
 ---
