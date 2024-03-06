@@ -6,7 +6,7 @@ Intro Text: We can support you to quickly engage large groups of employees to he
 Page Contact:
   Label: 'Contact Us '
   Text: Want to partner? Please get in touch. We look forward to hearing from you!
-  Contact Email: https://www.surveymonkey.com/r/767QKQC
+  Link: https://www.surveymonkey.com/r/767QKQC
 layout: page
 ---
 
