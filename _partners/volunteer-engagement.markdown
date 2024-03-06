@@ -3,7 +3,7 @@ title: Virtual and remote volunteering opportunities
 permalink: "/partners/volunteer-engagement"
 Intro Text: We can support you to quickly engage large groups of employees to help
   map places vulnerable to natural disasters or experiencing poverty
-Page Contact:
+Page Link:
   Label: 'Contact Us '
   Text: Want to partner with us? We look forward to hearing from you!
   Link: https://www.surveymonkey.com/r/767QKQC
