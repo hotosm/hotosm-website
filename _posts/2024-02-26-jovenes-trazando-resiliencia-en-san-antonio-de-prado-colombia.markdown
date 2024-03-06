@@ -18,7 +18,7 @@ En las afueras de Medellín, Colombia, se encuentra el corregimiento¹ de San An
 
 ![San Antonio de Prado - Mapeo HOT 1.jpg](/uploads/San%20Antonio%20de%20Prado%20-%20Mapeo%20HOT%201.jpg)
 
-En este contexto, nos encontramos con Ana Carolina Restrepo, una estudiante de Ciencias Ambientales de 20 años nacida en San Antonio de Prado. Su visión de la vida es decidida y proactiva. Su aprendizaje en herramientas de mapeo comunitario ha sido su guía. Ella, junto a un equipo de jóvenes pertenecientes a Youth Mappers, ha emprendido un proyecto que va más allá de simplemente cartografiar zonas de riesgo; su objetivo es involucrar de manera activa a la comunidad para asegurar que sus necesidades queden plasmadas en las decisiones que se tomen.
+En este contexto, nos encontramos con Ana Carolina Restrepo, una estudiante de Ciencias Ambientales de 20 años nacida en San Antonio de Prado. Su visión de la vida es decidida y proactiva. Su aprendizaje en herramientas de mapeo comunitario ha sido su guía. Ella, junto a un equipo de jóvenes pertenecientes a [YouthMappers](https://www.youthmappers.org/), ha emprendido un proyecto que va más allá de simplemente cartografiar zonas de riesgo; su objetivo es involucrar de manera activa a la comunidad para asegurar que sus necesidades queden plasmadas en las decisiones que se tomen.
 
 En nuestra charla con Ana, exploramos sus motivaciones y cómo el mapeo de impacto social se convierte en una expresión tangible de resiliencia para contribuir a su comunidad frente a la constante amenaza de deslizamientos de tierra.
 

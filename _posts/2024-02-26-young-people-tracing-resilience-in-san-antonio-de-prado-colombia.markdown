@@ -17,7 +17,7 @@ Outside of Medellín, Colombia, lies the township of San Antonio de Prado. This 
 
 ![San Antonio de Prado - Mapeo HOT 1.jpg](/uploads/San%20Antonio%20de%20Prado%20-%20Mapeo%20HOT%201.jpg)
 
-In this context, we meet Ana Carolina Restrepo, a 20-year-old Environmental Sciences student born in San Antonio de Prado. Her vision of life is determined and proactive. Her learning in community mapping tools has been her guide. Together with a team of young people belonging to Youth Mappers, she has undertaken a project that goes beyond simply mapping risk zones; their goal is to actively involve the community to ensure that their needs are reflected in the decisions made.
+In this context, we meet Ana Carolina Restrepo, a 20-year-old Environmental Sciences student born in San Antonio de Prado. Her vision of life is determined and proactive. Her learning in community mapping tools has been her guide. Together with a team of young people belonging to [YouthMappers](https://www.youthmappers.org/), she has undertaken a project that goes beyond simply mapping risk zones; their goal is to actively involve the community to ensure that their needs are reflected in the decisions made.
 
 In our conversation with Ana, we explore her motivations and how social impact mapping becomes a tangible expression of resilience to contribute to her community in the face of the constant threat of landslides.
 
