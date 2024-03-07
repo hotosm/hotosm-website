@@ -7,11 +7,13 @@ Summary Text: Descubra a incrível jornada de Paula dos Santos Silva na Amazôni
   sobre as "terras caídas", Paula compartilha sua experiência e destaca a importância
   do mapeamento para revelar as raízes e tradições dessas comunidades, garantindo
   sua visibilidade e reconhecimento.
-Feature Image: "/uploads/Paula%20dos%20Santos%20Silva%20na%20Amazo%CC%82nia.png"
+Feature Image: "/uploads/Paula%20dos%20Santos%20Silva%20na%20Amazo%CC%82nia.jpg"
 Person: Marina Aragão Santos
 Country:
 - Brazil
 ---
+
+Versión en español
 
 A Amazônia, com sua vastidão e complexidade, muitas vezes esconde histórias fascinantes. Uma dessas histórias é a jornada de Paula dos Santos Silva, uma mulher de 35 anos nascida na comunidade ribeirinha de São Luís do Macari. Paula, mãe dedicada de uma menina de 13 anos, mergulhou de cabeça em sua paixão pela geografia e na missão de compreender e mapear as dinâmicas das comunidades ribeirinhas na região amazônica.
 
