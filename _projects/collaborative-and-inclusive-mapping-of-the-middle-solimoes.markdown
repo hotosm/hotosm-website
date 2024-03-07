@@ -8,6 +8,11 @@ Project Summary Text: The Collaborative and Inclusive Mapping Project of the Mid
   at HOT. This project aims to fill cartographic gaps and provide accurate information
   about the Middle Solimões, using the OpenStreetMap (OSM) platform as a central tool.
 Feature Image: "/uploads/Paula%20dos%20Santos%20Silva%20na%20Amazo%CC%82nia.jpg"
+Is Community-Led: true
+Country:
+- Brazil
+Impact Area:
+- Disasters & Climate Resilience
 Person:
 - Marina Aragão Santos
 Tools:
