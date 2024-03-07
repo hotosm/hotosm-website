@@ -1,6 +1,8 @@
 ---
 title: 'HOT Export Tool: try out the new features!'
 date: 2024-02-27 21:31:00 Z
+tags:
+- tech
 Summary Text: 'OpenStreetMap (OSM) is more than the basemap you see on osm.org or
   in other geospatial services. The database behind the map is full of crowdsourced
   spatial data with systemized tagging that translates into attributes in GIS systems.
@@ -11,8 +13,6 @@ Is image top aligned: true
 Person: Kshitij Sharma
 Working Group:
 - TechandInnovation
-tags:
-- tech
 ---
 
 If you are looking for reliable OSM data in various file formats that are easy to download in a few easy steps and a couple of minutes, new features have been added to the [HOT Export Tool](https://export.hotosm.org/en/v3/)!  HOT’s developer, Kshitij, has been working for a number of months on these improvements, and we want to send a huge thanks to him!
