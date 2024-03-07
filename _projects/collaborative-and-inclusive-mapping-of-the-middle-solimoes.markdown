@@ -1,5 +1,5 @@
 ---
-title: Collaborative and Inclusive Mapping of the Middle Solimões
+title: Collaborative and Inclusive Mapping of the Middle Solimões, Amazon
 date: 2024-03-07 18:17:00 Z
 Project Summary Text: The Collaborative and Inclusive Mapping Project of the Middle
   Solimões is an initiative developed in partnership between researchers from the
