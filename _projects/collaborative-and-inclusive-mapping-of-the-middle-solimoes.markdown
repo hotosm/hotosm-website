@@ -7,6 +7,7 @@ Project Summary Text: The Collaborative and Inclusive Mapping Project of the Mid
   University of the State of Amazonas, and the Latin American and the Caribbean Hub
   at HOT. This project aims to fill cartographic gaps and provide accurate information
   about the Middle Solimões, using the OpenStreetMap (OSM) platform as a central tool.
+Feature Image: "/uploads/Paula%20dos%20Santos%20Silva%20na%20Amazo%CC%82nia.jpg"
 Person:
 - Marina Aragão Santos
 Tools:
