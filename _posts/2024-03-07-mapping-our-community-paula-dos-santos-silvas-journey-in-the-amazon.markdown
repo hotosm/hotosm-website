@@ -7,10 +7,14 @@ Summary Text: Explore Paula dos Santos Silva's incredible journey in the Amazon,
   current research on 'fallen lands,' Paula shares her experience and highlights the
   importance of mapping to reveal the roots and traditions of these communities, ensuring
   their visibility and recognition.
+Feature Image: "/uploads/Paula%20-%20Tefe%CC%81%201%20Amazoni%CC%81a.jpg"
 Person: Marina Aragão Santos
 Country:
 - Brazil
 ---
+
+[**Versión en español**](https://www.hotosm.org/updates/mapeando-nuestra-comunidad-el-viaje-de-paula-dos-santos-silva-en-la-amazonia/) | [**Versão em português**
+](https://www.hotosm.org/updates/mapeando-nossa-comunidade-a-jornada-de-paula-dos-santos-silva-na-amazonia/)
 
 The Amazon, with its vastness and complexity, often hides fascinating stories. One of these stories is the journey of Paula dos Santos Silva, a 35-year-old woman born in the riverside community of São Luis do Macari. Paula, a dedicated mother to a 13-year-old girl, immersed herself fully in her passion for geography and in the mission to understand and map out the dynamics of riverside communities in the Amazon region.
 
