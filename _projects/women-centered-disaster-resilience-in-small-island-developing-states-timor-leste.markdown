@@ -14,6 +14,7 @@ Impact Area:
 Person:
 - Harry Mahardhika Machmud
 - Honey Grace Fombuena
+- Shazmane Mandjee Rehamtula
 Partner:
 - Feto Enghinera
 Duration:
