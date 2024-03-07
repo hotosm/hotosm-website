@@ -14,7 +14,7 @@ Country:
 ---
 
 [**Versão em português**
-](https://www.hotosm.org/updates/mapeando-nossa-comunidade-a-jornada-de-paula-dos-santos-silva-na-amazonia/) | **English Version**
+](https://www.hotosm.org/updates/mapeando-nossa-comunidade-a-jornada-de-paula-dos-santos-silva-na-amazonia/) | [**English Version**](https://www.hotosm.org/updates/mapping-our-community-paula-dos-santos-silvas-journey-in-the-amazon/)
 
 La Amazonia, con su vastedad y complejidad, a menudo oculta historias fascinantes. Una de esas historias es la jornada de Paula dos Santos Silva, una mujer de 35 años nacida en la comunidad ribereña de São Luís do Macari. Paula, una madre dedicada de una niña de 13 años, se sumergió de lleno en su pasión por la geografía y en la misión de comprender y mapear las dinámicas de las comunidades ribereñas en la región amazónica.
 
