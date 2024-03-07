@@ -13,7 +13,8 @@ Country:
 - Brazil
 ---
 
-Versión en español
+[**Versión en español**
+](https://www.hotosm.org/updates/mapeando-nuestra-comunidad-el-viaje-de-paula-dos-santos-silva-en-la-amazonia/)
 
 A Amazônia, com sua vastidão e complexidade, muitas vezes esconde histórias fascinantes. Uma dessas histórias é a jornada de Paula dos Santos Silva, uma mulher de 35 anos nascida na comunidade ribeirinha de São Luís do Macari. Paula, mãe dedicada de uma menina de 13 anos, mergulhou de cabeça em sua paixão pela geografia e na missão de compreender e mapear as dinâmicas das comunidades ribeirinhas na região amazônica.
 
