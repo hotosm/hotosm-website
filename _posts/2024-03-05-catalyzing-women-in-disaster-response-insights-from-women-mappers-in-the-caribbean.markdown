@@ -18,6 +18,10 @@ Country:
 Project:
 - Women Centered Disaster Resilience in Small Island Developing States - Trinidad
   and Tobago
+- Women Centered Disaster Resilience in Small Island Developing States - Saint Lucia
+- Women Centered Disaster Resilience in Small Island Developing States - Haiti
+- Women Centered Disaster Resilience in Small Island Developing States - Jamaica
+- Women Centered Disaster Resilience in Small Island Developing States - Guyana
 ---
 
 [Louise Mathurin-Serieux](https://www.hotosm.org/people/louise-mathurin-serieux/), Senior Associate for Community Projects at the Open Mapping Hub in Latin America and the Caribbean, sparked off March with the Women Mappers in the Caribbean peer-to-peer session. This gathering provides a supportive platform for women mappers to come together and discuss disaster risk and resilience in small island developing states. Emphasizing the power of storytelling and the importance of fostering collaborative networks, Louise outlined the project's focus on [women-centered initiatives in small island developing states (SIDS)](https://www.hotosm.org/rfps/women-centered-disaster-risk-and-resilience-in-small-islands-developing-states/) to address disaster response and prevention proactively through open mapping. By prioritizing skill-building, peer support networks, and expanding the open-source community, the aim is to catalyze women to drive socio-economic change. 
