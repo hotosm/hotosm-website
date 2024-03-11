@@ -31,7 +31,6 @@ My passion lies in producing impactful and inclusive map products that enhance t
 
 
 ![StaffSpotlight-Honey4.jpg](/uploads/StaffSpotlight-Honey4.jpg)
-
 *Honey graduated from the University of the Philippines Diliman with a Bachelor of Science degree in Geodetic Engineering. She is passionate about utilizing GIS and Remote Sensing (RS) to create geospatial products that will be beneficial to the community.*
 
 ## What fulfills you most about your role?
