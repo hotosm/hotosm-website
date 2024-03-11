@@ -7,6 +7,7 @@ Member Type:
   Is Voting Member: true
 Job Title: Content Manager
 Country: United States
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/DigiDemoDills
 ---
