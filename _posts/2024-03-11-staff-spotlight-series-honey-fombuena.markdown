@@ -49,9 +49,8 @@ One of the top destinations on my travel bucket list was South Korea, and I was 
 
 I enjoyed binge-watching the live-action adaptation of Avatar: The Last Airbender on Netflix. Give it a watch! 
 
-*Learn more about Honey [here](https://www.hotosm.org/people/honey-grace-fombuena/).*
-
 ![StaffSpotlight-Honey5.jpg](/uploads/StaffSpotlight-Honey5.jpg)
 *Honey presenting at FOSS4G Asia 2023 in Seoul.*
 
+*Learn more about Honey [here](https://www.hotosm.org/people/honey-grace-fombuena/).*
 *Photos courtesy of Honey Fombuena*
