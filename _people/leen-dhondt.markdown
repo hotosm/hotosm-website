@@ -4,7 +4,7 @@ date: 2022-02-03 04:45:00 Z
 Photo: https://cdn.hotosm.org/website/Leen+D'hondt.JPG
 Member Type:
   Is Staff: true
-Job Title: Director of Technology and Data
+Job Title: Director of Tech & Data
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/ldhondt
