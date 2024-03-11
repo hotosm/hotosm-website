@@ -52,4 +52,4 @@ I enjoyed binge-watching the live-action adaptation of Avatar: The Last Airbende
 *Honey presenting at FOSS4G Asia 2023 in Seoul.*
 
 *Learn more about Honey [here](https://www.hotosm.org/people/honey-grace-fombuena/).*
-*Photos courtesy of Honey Fombuena*
+*Photos courtesy of Honey Fombuena.*
