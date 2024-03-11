@@ -6,6 +6,8 @@ Member Type:
   Is Staff: true
 Job Title: Communications and Community Specialist - Latin America and Caribbean Hub
 Team: Latin America and Caribbean Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Cyberjuan
 ---
 
 Juan is a former mainframe programmer who worked for 12 years in systems development in COBOL and RPGII. Later he served in various positions in the Peruvian public administration, reaching the managerial level. After several years dedicated to a family business, some friends created Blogsperu.com, the first blogs directory in Peru. He then becomes part of Global Voices, an international community of bloggers, journalists, and activists, where he was in charge of the Spanish version of the web, for which he built a team of volunteer translators and made various strategic alliances with other organizations. 
