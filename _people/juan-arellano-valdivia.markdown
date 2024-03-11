@@ -4,7 +4,7 @@ date: 2022-04-28 23:45:00 Z
 Photo: https://cdn.hotosm.org/website/Clipboard02.jpg
 Member Type:
   Is Staff: true
-Job Title: Communications and Community Specialist - Latin America and Caribbean
+Job Title: Communications and Community Specialist - Latin America and Caribbean Hub
 Team: Latin America and Caribbean Hub
 ---
 
