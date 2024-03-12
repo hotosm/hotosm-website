@@ -4,7 +4,7 @@ date: 2022-02-09 05:56:00 Z
 Photo: https://cdn.hotosm.org/website/249-1-2.jpg
 Member Type:
   Is Staff: true
-Job Title: People Ops Senior Associate - West and Northern Africa
+Job Title: People Ops Senior Associate - West and Northern Africa Hub
 Team: West and Northern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Aissatou%20Sow
