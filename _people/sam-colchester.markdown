@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/SamColchester2.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Partnerships & Training Lead - Partnerships & Community
+Job Title: Partnerships & Training Lead
 Project:
 - Missing Maps
 Country: Spain

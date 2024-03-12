@@ -4,7 +4,7 @@ date: 2022-08-10 05:31:00 Z
 Photo: https://cdn.hotosm.org/website/image+(Sanjana).jpeg
 Member Type:
   Is Staff: true
-Job Title: Partnerships Manager- Asia Pacific
+Job Title: Partnerships Manager - Asia Pacific Hub
 Team: Asia Pacific Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Sanjana%20Binwal

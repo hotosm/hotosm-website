@@ -4,7 +4,7 @@ date: 2023-03-01 08:00:00 Z
 Photo: https://cdn.hotosm.org/website/Nikkon+picture+(2).jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Associate - Strategy & Impact
+Job Title: Senior Associate, Strategy & Impact
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Nikkon

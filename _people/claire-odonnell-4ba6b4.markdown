@@ -4,7 +4,7 @@ date: 2024-01-04 10:53:00 Z
 Photo: "/uploads/Screenshot%202024-01-04%20at%2014.30.54.png"
 Member Type:
   Is Staff: true
-Job Title: Fundraising Specialist - Asia Pacific
+Job Title: Fundraising Specialist - Asia Pacific Hub
 Team: Asia Pacific Hub
 ---
 

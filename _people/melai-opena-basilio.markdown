@@ -4,7 +4,7 @@ date: 2021-04-20 07:02:00 Z
 Photo: https://cdn.hotosm.org/website/Photo+for+profile.JPG
 Member Type:
   Is Staff: true
-Job Title: Regional Finance Manager - Asia Pacific
+Job Title: Regional Finance Manager - Asia Pacific Hub
 Team: Asia Pacific Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Melai%20Ope%C3%B1a-Basilio

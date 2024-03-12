@@ -8,7 +8,7 @@ Feature Image: "/uploads/Google%20Form%20Banner%20-%20DataCamp%20Donates%20x%20H
 Person: Arnalie Vicario
 ---
 
-Humanitarian OpenStreetMap Team (HOT) is pleased to announce a new partnership with [DataCamp](http://datacamp.com), an online learning platform for data and AI. DataCamp believes that education is a basic human right, and through their [DataCamp Donates Program](https://www.datacamp.com/donates), they partner with organizations to distribute free data education for people looking for work, members of disadvantaged communities, students, and nonprofit research scientists, provide free professional access to their platform for one year to over 100+ organizations and counting. 
+Humanitarian OpenStreetMap Team (HOT) is pleased to announce a new partnership with [DataCamp](http://datacamp.com), an online learning platform for data and AI. DataCamp believes that education is a basic human right, and through their [DataCamp Donates Program](https://www.datacamp.com/donates), they partner with organizations to distribute free data education for people looking for work, members of disadvantaged communities, students, and nonprofit research scientists, providing free professional access to their platform for one year to over 100+ organizations and counting. 
 
 The recipients of this scholarship will gain access to over 440 courses on the latest technologies, will be able to practice exercises to sharpen their skills, will have assessments to test their knowledge on the subject matter, and solve projects that stem from real-world queries.  They will also get access to extra DataCamp features like Workspace, Certification, and Jobs. 
 

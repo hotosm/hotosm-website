@@ -4,7 +4,19 @@ layout: default
 
 <!-- ** Main banner -->
 <header class="program-header" >
-
+    <style>
+        .project-countries {
+            color: #2c3038;
+        }
+        .project-country::after { 
+            content: ' - ';
+            text-decoration: none;
+            color: #D73F3F;
+        }
+        .project-country:last-child::after {
+            content: '';
+        }
+      </style>
     
     <div class="program-header-meta promo-title-image" >
         <div class="program-promo" id="events" >
@@ -33,7 +45,7 @@ layout: default
                         <!-- <center><p class="loader"></p></center>
                         <p class="stat-number" id="Total-Map-Edits"></p> -->
                         <p class="stat-number">1,000</p>
-                        <p class="stat-title">local mappers to be trained<sup>&#9432;</sup>
+                        <p class="stat-title">Local Mappers to be Trained<sup>&#9432;</sup>
                             <span class="tooltiptext">With a focus on participatory mapping</span>
                         </p>
                         </div>
@@ -42,8 +54,8 @@ layout: default
                         <!-- <center><p class="loader"></p></center>
                         <p class="stat-number" id="Buildings-Mapped"></p> -->
                         <p class="stat-number">20</p>
-                        <p class="stat-title">Local Orgs to engage<sup>&#9432;</sup>
-                            <span class="tooltiptext">Connecting local organizations with local stakeholders and govermnets</span>
+                        <p class="stat-title">Local Orgs to be Engaged<sup>&#9432;</sup>
+                            <span class="tooltiptext">Connecting local organizations with local stakeholders and governments</span>
                         </p>
                         </div>
                         <div class="hr-v"></div>
@@ -52,7 +64,7 @@ layout: default
                         <!-- <p class="stat-number" id="Roads-Mapped"></p> -->
                         <p class="stat-number">25K</p>
                         <p class="stat-title">Datasets to be Downloaded<sup>&#9432;</sup>
-                            <span class="tooltiptext">A goal per year that will allow to determine the interest on the data produced.</span>
+                            <span class="tooltiptext">Will show the demand for this data by communities, humanitarian organizations and other stakeholders</span>
                         </p>
                         </div>
                     </div>
@@ -62,7 +74,7 @@ layout: default
 
 
                     <div class="block-options ">
-                            <h7>Related Projects</h7>
+                            <h7>Projects</h7>
                                 <br>
                                 <ul>
                                     <div class="container-program ">
@@ -161,7 +173,7 @@ layout: default
                     <p class="project-countries">
 
                             {% for page-partner in page.Partner %} 
-                            {{ page-partner }} -
+                            <span class="project-country">{{ page-partner }}</span>
                             {% endfor %} 
 
                 </p>
@@ -175,11 +187,10 @@ layout: default
             <!-- ** intro Summary -->
 
             <div class="hr-h"></div>
-
-            {% if page.Project-text['Project Summary Text'] %}
             <div class="pro-summary-wrap">
-                <div class="project-summary">
-                    <p style="color: black;">{{ page.Project-text['Project Summary Text'] }}</p>
+                <div class="project-summary" style="color: black;">
+            {% if page.Program-summary['Program Summary Text'] %}
+            {{ page.Program-summary['Program Summary Text'] | markdownify }}
                 </div>
             </div>
             {% endif %}
@@ -227,18 +238,19 @@ layout: default
 
                     <!-- <div class="hr-h"></div> -->
         
-                    {% if page.Project-text.Narrative-introduction %}
+                
                     <div class="pro-summary-wrap">
-                        <div class="project-summary">
-                            <p style="color: black;">{{ page.Project-text.Narrative-introduction }}</p>
+                        <div class="project-summary" style="color: black;">
+                            {% if page.Narrative-section.Narrative-intro-text %}
+                            {{ page.Narrative-section.Narrative-intro-text | markdownify }}
                         </div>
                     </div>
                     {% endif %}
                     <br>
                     <div class="pro-content-wrap">
-                        <div class="project-content">
-                            {% if page.Project-text.Narrative %}
-                                    {{ page.Project-text.Narrative | markdownify }}
+                        <div class="project-content" style="color: black;">
+                            {% if page.Narrative-section.Narrative-text %}
+                                    {{ page.Narrative-section.Narrative-text | markdownify }}
                             {% endif %}
                         </div>
                     </div>
@@ -311,11 +323,11 @@ layout: default
         <h2>HOT's Approach</h2>
         <img src="/uploads/hubs-map-dots.png" style="background-color: whitesmoke;">
         <br>
-        <figcaption style="text-align: center; font-style: italic; font-size: smaller;">{{ page.Figcaption}}</figcaption> 
+        <figcaption style="text-align: center; font-style: italic; font-size: smaller;">{{ page.Hub-map-caption}}</figcaption> 
         </div>
         <div class="event-info">
         <div class="event-description">
-            <p>{{ page.Project-text.Methodology }}</p>
+            <p>{{ page.Approach-text }}</p>
         </div>
         <a href="/what-we-do" class="btn btn-primary btn-block btn-chevron">{{ page['Event Promo'].Button }}</a>
         </div>

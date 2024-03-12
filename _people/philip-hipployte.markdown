@@ -4,7 +4,7 @@ date: 2021-03-01 08:01:00 Z
 Photo: https://cdn.hotosm.org/website/Philip_Hippolyte-HOT_Website_Profile.jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Programme and Disaster Manager - Latin America and Caribbean
+Job Title: Senior Programme and Disaster Manager - Latin America and Caribbean Hub
 Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Phil'%20in%20HOT

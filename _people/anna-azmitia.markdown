@@ -4,7 +4,7 @@ date: 2022-09-01 06:37:00 Z
 Photo: https://cdn.hotosm.org/website/AZMITIA.ANNA.PIC.jpg
 Member Type:
   Is Staff: true
-Job Title: Global Human Resources Associate
+Job Title: Senior Global HR Associate
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Anna%20Azmitia

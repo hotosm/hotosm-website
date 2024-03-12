@@ -4,7 +4,7 @@ date: 2021-12-06 09:51:00 Z
 Photo: https://cdn.hotosm.org/website/Wilson-Munyaradzi+Profile+Pic.JPG
 Member Type:
   Is Staff: true
-Job Title: Disaster Services Manager - Eastern and Southern Africa
+Job Title: Disaster Services Manager - Eastern and Southern Africa Hub
 Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/wilsonmunyaradzi

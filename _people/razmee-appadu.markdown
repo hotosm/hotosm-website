@@ -4,7 +4,7 @@ date: 2022-06-15 07:20:00 Z
 Photo: https://cdn.hotosm.org/website/Razmee+Profile+Updated.PNG
 Member Type:
   Is Staff: true
-Job Title: Research & Learning Lead - Strategy & Impact
+Job Title: Research & Learning Lead
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Razmee

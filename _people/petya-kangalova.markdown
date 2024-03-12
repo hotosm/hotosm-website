@@ -4,8 +4,8 @@ date: 2022-02-07 02:13:00 Z
 Photo: https://cdn.hotosm.org/website/Petya_photo.jpg
 Member Type:
   Is Staff: true
-Job Title: Networks & Engagement Lead - Community & Partnerships
-Team: UK Global
+Job Title: Networks & Engagement Lead
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Petya_Kangalova
 ---

@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Harry.png
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Senior Manager, Programs - Asia Pacific
+Job Title: Senior Manager, Programs - Asia Pacific Hub
 Working Group:
 - Training
 - Activation
