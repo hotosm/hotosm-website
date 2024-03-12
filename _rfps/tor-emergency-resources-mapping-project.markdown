@@ -6,8 +6,6 @@ Apply Form Link: https://drive.google.com/file/d/1aDf_uKZZABgnSfEafNgfFXVCQzNDJi
 Page Contact:
   Contact Email: caribbean@hotosm.org
   Label: Submission Email
-Page Link:
-  Link: https://drive.google.com/file/d/1aDf_uKZZABgnSfEafNgfFXVCQzNDJiNt/view?usp=sharing
 ---
 
 The Latin America and Caribbean Open Mapping Hub, supported by the Humanitarian OpenStreetMap Team, is inviting proposals for the Emergency Resources Mapping Project.
