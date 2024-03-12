@@ -52,10 +52,10 @@ Block 2:
   - Mapping for Climate Ready Cities - Dhaka
   - Mapping for Climate Ready Cities - Jumla
 Program-summary:
-  Program Summary Text: At Humanitarian OpenStreetMap Team (HOT), we are addressing
+  Program Summary Text: "<a>At Humanitarian OpenStreetMap Team (HOT), we are addressing
     climate data gaps by working with local communities and partners to take anticipatory
     action. We ensure their realities are represented on the map and that communities
-    are involved in climate-related decisions that will affect them.
+    are involved in climate-related decisions that will affect them.</a>"
 Image-leading: "/uploads/climate-ready-cities-map.png"
 Figcaption: Through our <strong>Mapping for Climate-Ready Cities program</strong>,
   we are mapping cities in four priority regions of the world and developing a thriving
@@ -107,7 +107,7 @@ Project-text:
   Project Summary Text: "<a>At Humanitarian OpenStreetMap Team (HOT), we are addressing
     climate data gaps by working with local communities and partners to take anticipatory
     action. We ensure their realities are represented on the map and that communities
-    are involved in climate-related decisions that will affect them.</a>"
+    are involved in climate-related decisions that will affect them. -</a>"
   Introduction: Humanitarian OpenStreetMap Team (HOT) addresses these critical data
     gaps by working with local communities and partners to take anticipatory action.
     We ensure their realities are represented on the map and that communities are
