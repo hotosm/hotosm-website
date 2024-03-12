@@ -4,7 +4,7 @@ date: 2022-02-01 17:53:00 Z
 Photo: https://cdn.hotosm.org/website/Nirab_Pudasaini_Picture.jpg
 Member Type:
   Is Staff: true
-Job Title: Open Tech and Innovation Specialist - Asia Pacific
+Job Title: Open Tech and Innovation Specialist - Asia Pacific Hub
 Team: Asia Pacific Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Nirab%20Pudasaini
