@@ -232,7 +232,8 @@ layout: default
     <div class="program-body">
         <section class="article" style="margin: 0px 0px 0px" > 
              <!-- ** narrative -->
-                    <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2rem; color: black; margin: 0px 0 0px">{{ page.Narrative-section.Narrative-title }}</h2>                    <br>
+                    <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2rem; color: black; margin: 0px 0 0px">{{ page.Project-text.Narrative-title }}</h2>                    
+                    <br>
                     <div class="hr-h" style="margin: 0px 0 40px "></div>
 
                     <!-- <div class="hr-h"></div> -->
@@ -245,7 +246,7 @@ layout: default
                         </div>
                     </div>
                     {% endif %}
-                    
+                    <br>
                     <div class="pro-content-wrap">
                         <div class="project-content" style="color: black;">
                             {% if page.Narrative-section.Narrative-text %}
@@ -254,28 +255,21 @@ layout: default
                         </div>
                     </div>
 
-                    <!-- **block content left -->
-                    <article class="container-body-program project-item" >
-                        <div class="program-body" style="grid-template-columns: repeat(1, 1fr);">
-                            <section class="article" >
-                                <div class="what-we-do">
-                                    <div class="half-blocks" >
-                                        <div class="half-block right" style="background-color: white;">
-                                            <div class="block-details right" style="padding: 59px 0px 00px 40px;">
-                                            <div class="block-info">
-                                                <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2rem; color: #D73F3F; margin: 0px 0 0px">{{ page.Quote }}</h2>
-                                            </div>
-                                            </div>
-                                            <div class="block-image left" style="background-image: url(/images/dot-pattern.svg); padding: 15px;">
-                                            <img src="{{ page['Block 2'].Image }}">
-                                            <figcaption style="text-align: center; font-style: italic; font-size: smaller; padding-top: 20px;">{{ page['Block 2'].Figcaption }}</figcaption> 
-                                            </div>
-                                        </div>
-                                    </div>
+                <!-- **Quote -->
+                    <div class="container">
+                        <div class="program-quote" id="events">
+                            <div class="quote-title">
+                                <img src="{{ page['Block 2'].Image }}" style="background-image: url(/images/dot-pattern.svg); padding: 15px;  object-fit: cover; height: 100%;">
+                                <figcaption style="text-align: center; font-style: italic; font-size: smaller; padding:1%">{{ page['Block 2'].Figcaption }}</figcaption> 
+                            </div>
+                            <div class="quote-info" style="background-color: white;">
+                                <div class="quote-description">
+                                    <p style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2rem; color: #D73F3F; margin: 40px 0 0px">{{ page.Quote }}</p>
                                 </div>
-                            </section>
-                        </div> 
-                    </article>  
+                            </div>
+                        </div>
+                    </div>
+                    
         </section>
     </div>
 </article>
@@ -345,27 +339,30 @@ layout: default
 <!--///////// Project News /////////-->
 <!--////////////////////////////////-->
 
-<div class="container">
-    <br>
-    <br>
-    <div class="hr-h"></div>
+    <div class="container">
+        <section class="article" style="margin: 0px 0px 0px" > 
+
+        <br>
+        <br>
+        <div class="hr-h"></div>
         <div class="project-index-impact-areas">
             <div class="impact-areas-wrapper">
-                <h2 class="boxed">See projects by impact area</h2>
-                <ul class="impact-areas-list">
+            <h2 class="boxed">See more projects by impact area</h2>
+            <ul class="impact-areas-list">
                 {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
                 {% for impact-area in sorted-impact-areas  %}
-                    {% if impact-area.title == 'Disaster Response' %}
+                {% if impact-area.title == 'Disaster Response' %}
                     <li><a href="/disaster-services/project_activations.html" class="nav-link">Disaster Response</a></li>
-                    {% else %}
+                {% else %}
                     <li><a href="{{ impact-area.url }}" class="nav-link">{{ impact-area.title }}</a></li>
-                    {% endif %}
+                {% endif %}
                 {% endfor %}
-                </ul>
+            </ul>
             </div>
         </div>
-    <div class="hr-h"></div>
-</div>
+        <div class="hr-h"></div>
+        </section>
+    </div>
 
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
 <script src="https://kit.fontawesome.com/aa48057ccd.js" crossorigin="anonymous"></script>
