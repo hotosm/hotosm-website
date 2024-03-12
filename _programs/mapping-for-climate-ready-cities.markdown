@@ -129,7 +129,7 @@ Project-text:
   Narrative-title: Map Data for Anticipatory Action
   Narrative-introduction: Anticipatory action serves as a crucial link between long-term
     disaster risk reduction and immediate humanitarian response, particularly amidst
-    the compounded threats of climate change and disasters. <a ref= "https://www.fao.org/documents/card/en/c/cb7145en">According
+    the compounded threats of climate change and disasters. <a href= "https://www.fao.org/documents/card/en/c/cb7145en">According
     to the Food and Agriculture Organization (FAO)</a>, every dollar invested in anticipatory
     action could give families seven dollars in benefits and avoid losses. However,
     <strong>anticipatory action efforts in vulnerable areas are hindered by a lack
