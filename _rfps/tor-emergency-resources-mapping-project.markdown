@@ -2,11 +2,12 @@
 title: 'ToR: Emergency Resources Mapping Project'
 date: 2024-03-12 19:16:00 Z
 Deadline Date: 2024-03-31 00:00:00 Z
+Apply Form Link: https://drive.google.com/file/d/1aDf_uKZZABgnSfEafNgfFXVCQzNDJiNt/view?usp=sharing
 Page Contact:
   Contact Email: caribbean@hotosm.org
+  Label: Submission Email
 Page Link:
   Link: https://drive.google.com/file/d/1aDf_uKZZABgnSfEafNgfFXVCQzNDJiNt/view?usp=sharing
-  Text: Full ToR here
 ---
 
 The Open Mapping Hub in Latin America and the Caribbean from the Humanitarian OpenStreetMap Team is soliciting proposals for the Emergency Resources Mapping Project.
@@ -19,7 +20,7 @@ As part of HOT’s effort to cement itself in the Caribbean, it has been recogni
 
 The primary outcome of this project is to develop a comprehensive map/database of the emergency resources in Belize’s two cities and two towns. This will be presented to the relevant stakeholders to increase their awareness of the resources available in-country while also highlighting gaps and needs.
 
-## Project’s Objectives and Outcomes:
+## OBJECTIVES AND OUTCOMES
 
 * To increase the country’s resilience against different types of hazards through open data and open mapping solutions. 
 * To develop a comprehensive map/database of selected emergency resources within Belize.
