@@ -10,7 +10,7 @@ Page Link:
   Link: https://drive.google.com/file/d/1aDf_uKZZABgnSfEafNgfFXVCQzNDJiNt/view?usp=sharing
 ---
 
-The Open Mapping Hub in Latin America and the Caribbean from the Humanitarian OpenStreetMap Team is soliciting proposals for the Emergency Resources Mapping Project.
+The Latin America and Caribbean Open Mapping Hub, supported by the Humanitarian OpenStreetMap Team, is inviting proposals for the Emergency Resources Mapping Project.
 
 ## ABOUT THE PROJECT
 
