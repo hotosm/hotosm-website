@@ -4,7 +4,7 @@ date: 2021-05-20 21:04:00 Z
 Photo: https://cdn.hotosm.org/website/Dop-ae4XgAE7sDQ.jpg
 Member Type:
   Is Staff: true
-Job Title: Global Projects Manager
+Job Title: Global Projects Manager - Latin America and Caribbean Hub
 Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/ShazM
