@@ -4,8 +4,10 @@ date: 2024-01-04 10:18:00 Z
 Photo: "/uploads/foto%20profil_P_Raja%20Siregar-7a4b05.jpeg"
 Member Type:
   Is Staff: true
-Job Title: Disaster Services and Climate Resilience Specialist - Asia Pacific
+Job Title: Disaster Services and Climate Resilience Specialist - Asia Pacific Hub
 Team: Asia Pacific Hub
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/P_Raja%20Siregar
 ---
 
 Raja have 24 years of working experience with environmental organizations, humanitarian and development organizations, a government-managed climate change trust fund, and donor-funded projects. In the last 14 years, he has focused on climate change adaptation and disaster risk reduction. He has worked on a wide range of topics related to climate change adaptation and disaster risk reduction at the national and community level. 
