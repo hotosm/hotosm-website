@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/Celine.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Senior Manager, Programming- Latin America and Caribbean
+Job Title: Senior Manager - Latin America and Caribbean Hub
 Languages:
 - English
 - Español
