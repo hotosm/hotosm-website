@@ -4,8 +4,9 @@ date: 2020-06-04 18:04:00 Z
 Photo: https://cdn.hotosm.org/website/Headshot_2020.jpg
 Member Type:
   Is Staff: true
-Job Title: Global Operations Manager - People & Operations
+Job Title: Global Operations Manager
 Country: United States
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/38438293949500
 ---
