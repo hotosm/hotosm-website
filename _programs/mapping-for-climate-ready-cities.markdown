@@ -22,6 +22,7 @@ Partner:
 - UN-Habitat
 - Start Network
 - Save the Children UK
+- 
 Duration:
   Start Date: 2024-01-01 00:00:00 Z
   End Date: 2025-12-31 00:00:00 Z
@@ -62,9 +63,9 @@ Figcaption: Through our <strong>Mapping for Climate-Ready Cities program</strong
   in densely populated urban areas.
 Narrative-section:
   Narrative-title: Map Data for Anticipatory Action
-  Narrative-intro-text: Anticipatory action serves as a crucial link between long-term
+  Narrative-intro-text: <a>Anticipatory action serves as a crucial link between long-term
     disaster risk reduction and immediate humanitarian response, particularly amidst
-    the compounded threats of climate change and disasters. <a href="https://www.fao.org/documents/card/en/c/cb7145en">According
+    the compounded threats of climate change and disasters.</a> <a href="https://www.fao.org/documents/card/en/c/cb7145en">According
     to the Food and Agriculture Organization (FAO)<a>, every dollar invested in anticipatory
     action could give families seven dollars in benefits and avoid losses. However,
     **anticipatory action efforts in vulnerable areas are hindered by a lack of data.**
@@ -103,10 +104,10 @@ Approach-text: For 13 years, HOT has worked in collaboration with local communit
   the end-to-end process of identifying missing data, mapping, analyzing data, and
   using that data effectively.
 Project-text:
-  Project Summary Text: 'At Humanitarian OpenStreetMap Team (HOT), we are addressing
+  Project Summary Text: "<a>At Humanitarian OpenStreetMap Team (HOT), we are addressing
     climate data gaps by working with local communities and partners to take anticipatory
     action. We ensure their realities are represented on the map and that communities
-    are involved in climate-related decisions that will affect them. '
+    are involved in climate-related decisions that will affect them.</a>"
   Introduction: Humanitarian OpenStreetMap Team (HOT) addresses these critical data
     gaps by working with local communities and partners to take anticipatory action.
     We ensure their realities are represented on the map and that communities are
