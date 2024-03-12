@@ -6,5 +6,6 @@ Member Type:
   Is Staff: true
 Job Title: Senior Manager, Grants & Field Operations
 Country: Global
+Team: Global
 ---
 
