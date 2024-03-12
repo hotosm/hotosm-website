@@ -1,7 +1,6 @@
 ---
 title: Anne Sorensen
 date: 2022-11-03 05:35:00 Z
-published: false
 Photo: "/uploads/Sorensen%20profile.jpg"
 Member Type:
   Is Staff: true
