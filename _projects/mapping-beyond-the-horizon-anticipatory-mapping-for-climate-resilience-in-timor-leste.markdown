@@ -1,6 +1,6 @@
 ---
 title: 'Mapping beyond the Horizon: Anticipatory Mapping for climate resilience in
-  Timor-Leste'
+  Timor Leste'
 date: 2024-02-21 21:47:00 Z
 published: false
 Project Summary Text: |-
