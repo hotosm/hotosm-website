@@ -4,7 +4,7 @@ date: 2021-11-23 09:39:00 Z
 Photo: https://cdn.hotosm.org/website/Duncan+Kebut+(2).jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Mapping Supervisor - Eastern and Southern Africa
+Job Title: Senior Mapping Supervisor - Eastern and Southern Africa Hub
 Country: Kenya
 Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
