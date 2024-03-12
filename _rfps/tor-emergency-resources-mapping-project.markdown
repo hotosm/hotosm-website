@@ -1,5 +1,5 @@
 ---
-title: 'ToR: Emergency Resources Mapping Project'
+title: 'RFP: Emergency Resources Mapping Project'
 date: 2024-03-12 19:16:00 Z
 Deadline Date: 2024-03-31 00:00:00 Z
 Apply Form Link: https://drive.google.com/file/d/1aDf_uKZZABgnSfEafNgfFXVCQzNDJiNt/view?usp=sharing
