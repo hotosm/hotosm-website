@@ -85,7 +85,11 @@ All collected data on critical infrastructure, flood extents, and mapped environ
 ## Impact
 
 This project highlights the success and importance of Anticipatory Mapping in Timor-Leste and partnerships with local communities. Timor-Leste is extensively lacking geospatial data. In addition, by filling in the maps of Timor-Leste, crucial baseline information is provided for Anticipatory Action plannings. Anticipatory Action is heavily reliant on complete and reliable input data to plan and design adequate actions. It is therefore essential to further expand Anticipatory Mapping efforts across Timor-Leste. What showed in all communities as major capacities is the motivation, engagement, and interest of local population to proactively take action. 
-![MissingdataGoogle_TL.png](/uploads/MissingdataGoogle_TL.png)![OSMfinished_TL.png](/uploads/OSMfinished_TL.png)
+
+Example of data available in Timor-Leste in Google Maps:
+![MissingdataGoogle_TL.png](/uploads/MissingdataGoogle_TL.png)!
+Example of data available in OpenStreetMap post-project:
+[OSMfinished_TL.png](/uploads/OSMfinished_TL.png)
 
 How to access this data: All collected data and tools of this Anticipatory Action project in Timor-Leste can be accessed as a data package through the [HDX platform](https://data.humdata.org/dataset/anticipatory-mapping-timor-leste).
 
