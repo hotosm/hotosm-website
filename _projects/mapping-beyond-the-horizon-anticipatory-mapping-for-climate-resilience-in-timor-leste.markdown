@@ -91,7 +91,7 @@ Example of data available in Timor-Leste in Google Maps:
 Example of data available in OpenStreetMap post-project:
 [OSMfinished_TL.png](/uploads/OSMfinished_TL.png)
 
-How to access this data: All collected data and tools of this Anticipatory Action project in Timor-Leste can be accessed as a data package through the [HDX platform](https://data.humdata.org/dataset/anticipatory-mapping-timor-leste).
+**How to access this data**: All collected data and tools of this Anticipatory Action project in Timor-Leste can be accessed as a data package through the [HDX platform](https://data.humdata.org/dataset/anticipatory-mapping-timor-leste).
 
 The interest and engagement in applying open-source geospatial tools has been overwhelming and is a huge opportunity to build local capacities and scale up locally-led replications of projects like this one in other regions across the country. Aim is that community members who once participated in guided mapping activities, take the gained capacities further and take ownership of the creation and maintenance of their data, supporting to document their physical environment and infrastructure. 
 
