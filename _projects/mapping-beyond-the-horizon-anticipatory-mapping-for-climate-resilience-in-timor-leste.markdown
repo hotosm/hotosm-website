@@ -76,13 +76,16 @@ The SketchMapTool offers the capability to generate printed maps of regions feat
 
 ### Results
 Conversations with communities and data analysis revealed distressing realities: recurring floods had majorly impacted livelihoods, especially in rural areas where agriculture served as the primary income source. Interviews echoed the stories of long-term livelihood changes in order to adapt. For example, many farmers in the Laclo valley transitioned from rice farming to livestock and vegetable production due to the enduring impacts of floods on their lands.
+![FloodMap_TL.jpg](/uploads/FloodMap_TL.jpg)
 
 Early warnings were extensively lacking in all assessed flood-impacted areas. Local population stressed the fact that receiving early warnings would be essential for taking early actions in the case of a flood event. The majority of interviewees stressed that they knew which actions they would take to secure their livelihoods and would be capable to do so (e.g. bring in the harvest early), if warnings were distributed early enough .
 All collected data on critical infrastructure, flood extents, and mapped environmental features were brought together to create maps of the communities for print. These maps will be printed and distributed to all communities which took part in the assessment. Below is an example of a community map, which was created for Pante Macassar. The map is set up in Tetun and the QR code on the right takes the viewer to the map extent shown on the print map directly in OpenStreetMap.
+![ExampleMap_TL.png](/uploads/ExampleMap_TL.png)
 
 ## Impact
 
 This project highlights the success and importance of Anticipatory Mapping in Timor-Leste and partnerships with local communities. Timor-Leste is extensively lacking geospatial data. In addition, by filling in the maps of Timor-Leste, crucial baseline information is provided for Anticipatory Action plannings. Anticipatory Action is heavily reliant on complete and reliable input data to plan and design adequate actions. It is therefore essential to further expand Anticipatory Mapping efforts across Timor-Leste. What showed in all communities as major capacities is the motivation, engagement, and interest of local population to proactively take action. 
+![MissingdataGoogle_TL.png](/uploads/MissingdataGoogle_TL.png)![OSMfinished_TL.png](/uploads/OSMfinished_TL.png)
 
 How to access this data: All collected data and tools of this Anticipatory Action project in Timor-Leste can be accessed as a data package through the [HDX platform](https://data.humdata.org/dataset/anticipatory-mapping-timor-leste).
 
