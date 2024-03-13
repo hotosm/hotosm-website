@@ -61,6 +61,7 @@ Beyond map creation to provide communities and decision-makers with accurate up-
 
 ### Step 1: Remote Mapping
 Following the identification of priority areas based on natural disaster risk, the initial phase of Anticipatory Mapping commenced with the initiation of remote mapping tasks with international volunteers using HOT's Tasking Manager. This involved the meticulous updating and completion of building footprints within designated focus areas on OpenStreetMap, achieved through the utilization of satellite imagery. The collected map data built the foundation for the following field mapping activities. 
+![AA_TL_Remote.png](/uploads/AA_TL_Remote.png)
 
 ### Step 2: Field Mapping
 Field mapping activities were organized by dividing mapping areas into smaller sections, typically comprising 50 to 100 buildings. Each team was then allocated a specific section to cover during the day. Below is an example illustrating mapping section plans for Laclo.
