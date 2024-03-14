@@ -88,6 +88,7 @@ This project highlights the success and importance of Anticipatory Mapping in Ti
 
 Example of data available in Timor-Leste in Google Maps:
 ![MissingdataGoogle_TL.png](/uploads/MissingdataGoogle_TL.png)!
+
 Example of data available in OpenStreetMap post-project:
 ![OSMfinished_TL.png](/uploads/OSMfinished_TL.png)!
 
