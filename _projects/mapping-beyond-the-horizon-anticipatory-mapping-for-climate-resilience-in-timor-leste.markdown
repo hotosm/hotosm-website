@@ -89,7 +89,7 @@ This project highlights the success and importance of Anticipatory Mapping in Ti
 Example of data available in Timor-Leste in Google Maps:
 ![MissingdataGoogle_TL.png](/uploads/MissingdataGoogle_TL.png)!
 Example of data available in OpenStreetMap post-project:
-[OSMfinished_TL.png](/uploads/OSMfinished_TL.png)
+![OSMfinished_TL.png](/uploads/OSMfinished_TL.png)!
 
 **How to access this data**: All collected data and tools of this Anticipatory Action project in Timor-Leste can be accessed as a data package through the [HDX platform](https://data.humdata.org/dataset/anticipatory-mapping-timor-leste).
 
