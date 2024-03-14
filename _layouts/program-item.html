@@ -171,7 +171,7 @@ layout: default
                     <p class="project-countries">
 
                             {% for page-partner in page.Partner %} 
-                            <span class="project-country">{{ page-partner }}</span>
+                            <span >{{ page-partner }}</span>
                             {% endfor %} 
                     </p>
                     {% else %}
@@ -354,7 +354,21 @@ layout: default
                                     {% if p.title == project %}
                                         {% capture pURL %} {{p.url}} {% endcapture %}
                                         {% capture pIMAGE %} {{p['Feature Image']}} {% endcapture %}
-                                        {% capture pCOUNTRY %} {{p.Country}} {% endcapture %}
+                                        {% capture pCOUNTRY %} 
+                                            {% for country in p.Country %}
+                                                {% if country != '' %}
+                                                {% if p.Country.size <= 3 %}
+                                                    {{ country }} {% unless forloop.last %}, {% endunless %}
+                                                {% else p.Country.size > 3 %}
+                                                    {% assign countrycount = p.Country.size %}
+                                                    {{ p.Country[0] }} and {{ countrycount | minus: 1 }} other countries
+                                                    {% break %}
+                                                {% endif %}
+                                                {% else %}
+                                                
+                                                {% endif %}
+                                            {% endfor %}
+                                        {% endcapture %}
                                         {% break %} 
 
                                 {% endif %}
@@ -365,7 +379,9 @@ layout: default
                                         <img src="{{ pIMAGE }}" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." style="object-fit: cover; height: 100%;">
                                         <div style="font-size: large; color: black;">
                                             <div class="project-index-all">
-                                                <h3  style="position: absolute; bottom: 5%; margin-left: 6%; margin-right: 6%;background-color: whitesmoke; padding: 10px; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.5rem; color: black">{{ project }} <br> {{ pCOUNTRY }}</h3>
+                                                <h3  style="position: absolute; bottom: 5%; margin-left: 6%; margin-right: 6%;background-color: whitesmoke; padding: 10px; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.5rem; color: black">{{ project }} 
+                                                    <br> {{ pCOUNTRY }}
+                                                </h3>
                                             </div>
                                         </div>
                                     </div>
@@ -412,22 +428,35 @@ layout: default
                                     {% if p.title == project %}
                                         {% capture pURL %} {{p.url}} {% endcapture %}
                                         {% capture pIMAGE %} {{p['Feature Image']}} {% endcapture %}
-                                        {% capture pCOUNTRY %} {{p.Country}} {% endcapture %}
+                                        {% capture pCOUNTRY %} 
+                                        {% for country in p.Country %}
+                                            {% if country != '' %}
+                                            {% if p.Country.size <= 3 %}
+                                                {{ country }} {% unless forloop.last %}, {% endunless %}
+                                            {% else p.Country.size > 3 %}
+                                                {% assign countrycount = p.Country.size %}
+                                                {{ p.Country[0] }} and {{ countrycount | minus: 1 }} other countries
+                                                {% break %}
+                                            {% endif %}
+                                            {% else %}
+                                            
+                                            {% endif %}
+                                        {% endfor %}
+                                    {% endcapture %}                                        {% capture pSUMMARY %} {{p['Project Summary Text']}} {% endcapture %}
                                         {% break %} 
 
                                     {% endif %}
                                 {% endfor %}
 
                                     <div>
-                                        <div class="module-image" style="object-fit: cover; width: 100%;">
-                                            <img src="{{ pIMAGE }}">
-                                        </div>
                                         <a href="{{ pURL }}" style="color: white;">
-                                        <h2>{{ project }}</h2>
+                                        <div class="module-image" >
+                                            <img src="{{ pIMAGE }}" style="object-fit: cover; height: 100%;">
+                                        </div>
+                                         <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15;color: black;">{{ project }}</h2>  
                                         </a>
-                                        <br>
-                                        <h4>{{ p.title }}</h4>
-                                        <p>{{ page.Project-objectives.Objectives-title-1 }}</p>
+                                        <h3 style="margin-top: 0px; margin-bottom: 15px; color: #D73F3F;">{{ pCOUNTRY }}</h3>
+                                        <a >{{ pSUMMARY }}</a>
                                     </div>
                         {% endfor %}
                 </div>
