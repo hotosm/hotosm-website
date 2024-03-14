@@ -4,7 +4,7 @@ date: 2018-06-01 20:04:00 Z
 Photo: https://cdn.hotosm.org/website/Dinar_Photo.jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Associate, Data Quality- Asia Pacific
+Job Title: Senior Associate, Data Quality - Asia Pacific Hub
 Project:
 - Facebook
 Country: Indonesia

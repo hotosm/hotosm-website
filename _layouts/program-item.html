@@ -4,7 +4,19 @@ layout: default
 
 <!-- ** Main banner -->
 <header class="program-header" >
-
+    <style>
+        .project-countries {
+            color: #2c3038;
+        }
+        .project-country::after { 
+            content: ' - ';
+            text-decoration: none;
+            color: #D73F3F;
+        }
+        .project-country:last-child::after {
+            content: '';
+        }
+      </style>
     
     <div class="program-header-meta promo-title-image" >
         <div class="program-promo" id="events" >
@@ -159,7 +171,7 @@ layout: default
                     <p class="project-countries">
 
                             {% for page-partner in page.Partner %} 
-                            {{ page-partner }} -
+                            <span class="project-country">{{ page-partner }}</span>
                             {% endfor %} 
                     </p>
                     {% else %}
@@ -172,11 +184,10 @@ layout: default
             <!-- ** intro Summary -->
 
             <div class="hr-h"></div>
-
-            {% if page.Project-text['Project Summary Text'] %}
             <div class="pro-summary-wrap">
-                <div class="project-summary">
-                    <p style="color: black;">{{ page.Project-text['Project Summary Text'] }}</p>
+                <div class="project-summary" style="color: black;">
+            {% if page.Program-summary['Program Summary Text'] %}
+            {{ page.Program-summary['Program Summary Text'] | markdownify }}
                 </div>
             </div>
             {% endif %}
@@ -224,18 +235,19 @@ layout: default
 
                     <!-- <div class="hr-h"></div> -->
         
-                    {% if page.Project-text.Narrative-introduction %}
+                
                     <div class="pro-summary-wrap">
-                        <div class="project-summary">
-                            <p style="color: black;">{{ page.Project-text.Narrative-introduction }}</p>
+                        <div class="project-summary" style="color: black;">
+                            {% if page.Narrative-section.Narrative-intro-text %}
+                            {{ page.Narrative-section.Narrative-intro-text | markdownify }}
                         </div>
                     </div>
                     {% endif %}
                     <br>
                     <div class="pro-content-wrap">
-                        <div class="project-content">
-                            {% if page.Project-text.Narrative %}
-                                    {{ page.Project-text.Narrative | markdownify }}
+                        <div class="project-content" style="color: black;">
+                            {% if page.Narrative-section.Narrative-text %}
+                                    {{ page.Narrative-section.Narrative-text | markdownify }}
                             {% endif %}
                         </div>
                     </div>
@@ -435,11 +447,11 @@ layout: default
         <h2>HOT's Approach</h2>
         <img src="/uploads/hubs-map-dots.png" style="background-color: whitesmoke;">
         <br>
-        <figcaption style="text-align: center; font-style: italic; font-size: smaller;">{{ page.Figcaption}}</figcaption> 
+        <figcaption style="text-align: center; font-style: italic; font-size: smaller;">{{ page.Hub-map-caption}}</figcaption> 
         </div>
         <div class="event-info">
         <div class="event-description">
-            <p>{{ page.Project-text.Methodology }}</p>
+            <p>{{ page.Approach-text }}</p>
         </div>
         <a href="/what-we-do" class="btn btn-primary btn-block btn-chevron">{{ page['Event Promo'].Button }}</a>
         </div>

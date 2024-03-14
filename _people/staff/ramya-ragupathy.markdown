@@ -4,7 +4,7 @@ date: 2018-09-15 09:47:00 Z
 Photo: "/uploads/Ramya-Kenya.jpg"
 Member Type:
   Is Staff: true
-Job Title: Product Manager - Tech & Data
+Job Title: Product Manager
 Working Group:
 - OSM Galaxy (Technical)
 - Technical
@@ -14,6 +14,7 @@ Languages:
 - English
 - Tamil
 Country: India
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/ramyaragupathy
   Twitter: https://twitter.com/ramya_ragupathy

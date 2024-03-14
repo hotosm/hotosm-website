@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/CanUnen_photo.jpeg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Senior Manager, Community And Partnerships - Asia Pacific
+Job Title: Senior Manager, Community And Partnerships - Asia Pacific Hub
 Project:
 - 'Refugee response: South Sudan and Syria'
 - Regional Road Network Improvement in Turkey and Greece

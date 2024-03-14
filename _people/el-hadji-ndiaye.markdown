@@ -4,7 +4,7 @@ date: 2022-07-22 05:34:00 Z
 Photo: https://cdn.hotosm.org/website/IMG_3217-3038ab.JPG
 Member Type:
   Is Staff: true
-Job Title: Communication and Engagement Strategist - West and Northern Africa
+Job Title: Communication and Engagement Strategist - West and Northern Africa Hub
 Team: West and Northern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/ElhadjiHOT

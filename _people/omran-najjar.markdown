@@ -4,7 +4,7 @@ date: 2021-05-21 13:31:00 Z
 Photo: https://cdn.hotosm.org/website/Omran+HOT+Profile+Pic.jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Technical Product Owner - AI
+Job Title: Senior Technical Product Owner- AI
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/OmranNAJJAR/

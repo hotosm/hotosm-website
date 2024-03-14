@@ -5,6 +5,7 @@ Photo: https://cdn.hotosm.org/website/2023-04-12+at+12.39.33.jpeg
 Member Type:
   Is Staff: true
 Job Title: Senior Associate Disaster Services and Training - West and Northern Africa
+  Hub
 Team: West and Northern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Irma2

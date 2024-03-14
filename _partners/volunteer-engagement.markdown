@@ -3,10 +3,10 @@ title: Virtual and remote volunteering opportunities
 permalink: "/partners/volunteer-engagement"
 Intro Text: We can support you to quickly engage large groups of employees to help
   map places vulnerable to natural disasters or experiencing poverty
-Page Contact:
-  Label: Email Us
-  Text: Have a question about ways to partner?
-  Contact Email: volunteering@hotosm.org
+Page Link:
+  Label: 'Contact Us '
+  Text: Want to partner with us? We look forward to hearing from you!
+  Link: https://www.surveymonkey.com/r/767QKQC
 layout: page
 ---
 
@@ -33,7 +33,7 @@ Digital volunteering to map vulnerable unmapped places: your global workforce ca
 
 * Partner with us to map vulnerable places before the next disaster strikes to increase resiliency, support international development, and participate in disaster response. We will support you to engage your employees in mapping as a micro-volunteering activity, setting up large-scale remote and in person mapping events, connecting all your offices in the same mission. Mapping is simple and fun, all you need is a laptop, and 40 minutes of training to get started!
 
-* Email [volunteering@hotosm.org](mailto:volunteering@hotosm.org) for more information.
+* [Contact us](https://www.surveymonkey.com/r/767QKQC) for more information.
 
 ### What have other partners done?
 

@@ -7,6 +7,8 @@ Member Type:
 Job Title: Senior Communications Manager
 Country: India
 Team: Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/AtiyaAnis
 ---
 
 Atiya is an able strategist with a visionary and dynamic approach toward impact and change using the power of advocacy and communications. She has worked in the social impact sector in India for more than a decade across a wide range of development programs including gender, health, water and sanitation, and convergence of government systems. 

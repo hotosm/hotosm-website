@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/Sophie+Mower_fullres.jpg
 Member Type:
   Is Staff: true
 Job Title: Senior Programs Manager - Strategic Engagement & Growth - Eastern and Southern
-  Africa
+  Africa Hub
 Country: United Kingdom
 Team: Eastern and Southern Africa Hub
 Social Media (Full URL):

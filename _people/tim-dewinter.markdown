@@ -4,7 +4,7 @@ date: 2022-05-12 00:18:00 Z
 Photo: https://cdn.hotosm.org/website/profile+pic+.jpg
 Member Type:
   Is Staff: true
-Job Title: Open Mapping for All Coordinator - Latin America and Caribbean
+Job Title: Open Mapping for All Coordinator - Latin America and Caribbean Hub
 Team: Latin America and Caribbean Hub
 ---
 

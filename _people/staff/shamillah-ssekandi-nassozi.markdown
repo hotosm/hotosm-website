@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/ShamilahNassozi.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Community Data Senior Asociate - Eastern and Southern Africa
+Job Title: Senior Associate, Community Data  - Eastern and Southern Africa Hub
 Country: Uganda
 Team: Eastern and Southern Africa Hub
 Social Media (Full URL):

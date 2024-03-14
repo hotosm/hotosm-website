@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/Headshot-1aba06.png
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Community Manager - Asia Pacific
+Job Title: Community Manager - Asia Pacific Hub
 Working Group:
 - Community
 - Activation

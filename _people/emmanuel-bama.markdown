@@ -4,7 +4,7 @@ date: 2022-09-12 12:41:00 Z
 Photo: https://cdn.hotosm.org/website/Emmanuel+BAMA.jpg
 Member Type:
   Is Staff: true
-Job Title: Open Tech and Innovation Specialist - West and Northern Africa
+Job Title: Open Tech and Innovation Specialist - West and Northern Africa Hub
 Team: West and Northern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Emmanuel%20Bama

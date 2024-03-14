@@ -4,7 +4,7 @@ date: 2024-01-04 11:40:00 Z
 Photo: "/uploads/Screenshot%202024-01-04%20at%2014.39.38.png"
 Member Type:
   Is Staff: true
-Job Title: Digital Content Strategist - Eastern and Southern Africa
+Job Title: Digital Content Strategist - Eastern and Southern Africa Hub
 Country: Kenya
 Team: Eastern and Southern Africa Hub
 ---

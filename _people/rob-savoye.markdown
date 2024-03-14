@@ -6,6 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Senior Architect
 Country: United States
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/rsavoye
 ---

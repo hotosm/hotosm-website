@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/DSC_0102.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Senior Mapping Supervisor - Eastern and Southern Africa
+Job Title: Senior Mapping Supervisor - Eastern and Southern Africa Hub
 Country: Zambia
 Team: Eastern and Southern Africa Hub
 Social Media (Full URL):

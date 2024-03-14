@@ -4,7 +4,7 @@ date: 2019-12-06 12:11:00 Z
 Photo: https://cdn.hotosm.org/website/Rebecca+Chandiru+photo.PNG
 Member Type:
   Is Staff: true
-Job Title: Corporate Partnerships Associate - Eastern and Southern Africa
+Job Title: Corporate Partnership Associate - Eastern and Southern Africa Hub
 Country: Uganda
 Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
