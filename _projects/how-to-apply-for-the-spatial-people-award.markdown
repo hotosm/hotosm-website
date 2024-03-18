@@ -3,11 +3,13 @@ title: 'Cities Spatial Award: By Open Mapping Hub ESA'
 date: 2023-01-01 20:57:00 Z
 Feature Image: https://cdn.hotosm.org/website/Spatial+People+Award.png
 Impact Area:
-- Public Health
-- Gender Equality
-- Displacement & Safe Migration
-- Disasters & Climate Resilience
+- 
+- 
+- 
+- 
 - Sustainable Cities & Communities
+Duration:
+  Start Date: 2024-03-18 00:00:00 Z
 ---
 
 ## Join Our Network and Be the Change
@@ -82,3 +84,5 @@ The Application forms consist of 4 sections:
 * * Addis Ababa
 * WHY? Tell us why you are mapping this particular location
 * HOW? Tell us the format of your event. Will you spend the first 20 minutes training? Will you make a presentation? Will you have validators? Etc. 
+
+**The Spatial People Network is an ongoing initiative, and applications are accepted at any time. Apply today!**
