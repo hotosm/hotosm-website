@@ -24,7 +24,7 @@ Particularly when working with large groups of mappers in dense settings, it can
 With these challenges in mind, HOT's Tech team, along with our partner in Nepal, [NAXA](https://naxa.com.np/), and contributors from all around the world, have developed the Field Mapping Tasking Manager (FMTM).
 
 ![FMTM-FieldMapping1.jpg](/uploads/FMTM-FieldMapping1.jpg)
-*Using ODK to gather data from local residents in an informal settlement in Monrovia*
+*Using OpenDataKit Collect to gather data from local residents in an informal settlement in Monrovia*
 
 ## What is FMTM?
 
@@ -34,12 +34,12 @@ The FMTM is a standalone mobile and web application that was designed and built 
 
 The FMTM allows mapping coordinators to create campaigns that assign individual areas and/or features to different field mappers, keep track of their contributions, and manage the resulting data. It helps field mappers know which areas and features they are responsible for covering and avoid missing or duplicating features.
 
-![FMTM-FieldMapping1.jpg](/uploads/FMTM-FieldMapping1.jpg)
+![FMTM-Explanation.jpg](/uploads/FMTM-Explanation.jpg)
 *A project manager who has just created an FMTM project on their laptop demonstrates to a field mapper how they can select their assigned buildings on their phone*
 
 Using the FMTM, each mapper using ODK Collect on their mobile device can select —or be assigned— a single area at a time to map, with a specific set of features (such as buildings) to visit. They can easily see where they must go and which features they must visit to complete their “*tasked*” area. Since each task area is specifically defined by a boundary and/or a set of features, it’s easy to avoid missed areas or duplication (whereby more than one person visits the same structure).
 
-##The ease and quality of field mapping
+## The ease and quality of field mapping
 
 FMTM has been tested in several mapping campaigns in  Zanzibar, Rwanda, Dar es Salaam, Monrovia, Dominica, Cambodia, and Nepal, amongst others.
 
@@ -51,6 +51,7 @@ FMTM was successfully used in Janakpur Sub-Metropolitan City, Nepal, to conduct 
 ## How can I try the FMTM?
 
 HOT operates a public FMTM instance at [https://fmtm.hotosm.org](https://fmtm.hotosm.org)
+
 As of 06/03/2024, this instance is in public beta, and any user can create a new project for testing.
 
 However, FMTM is not fully mature software yet, and users should be cautious as there are occasional bugs, although it’s unlikely that they’ll actually lose data or otherwise suffer a catastrophe.
