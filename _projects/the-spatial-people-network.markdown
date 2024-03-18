@@ -9,7 +9,7 @@ Impact Area:
 - 
 - Sustainable Cities & Communities
 Duration:
-  Start Date: 2023-05-01 00:00:00 Z
+  Start Date: 2022-12-01 00:00:00 Z
 ---
 
 [Join Today](https://forms.gle/Nm8pAn4SgCcz1Y3r5)
