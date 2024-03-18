@@ -20,6 +20,7 @@ Partner:
 - Yer Çizenler
 Duration:
   Start Date: 2023-02-07 00:00:00 Z
+  End Date: 2023-06-30 00:00:00 Z
 tm_campaigns:
 - https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
 Data:
