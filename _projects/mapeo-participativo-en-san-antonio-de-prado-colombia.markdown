@@ -82,3 +82,6 @@ El proyecto reconoce su naturaleza piloto y enfatiza el compromiso continuo requ
 
 ## **COLABORADORES**
 Las colaboraciones con DAGRD, YouthMappers - Capítulo de Universidad de Antioquia, y Ecociclo jugaron roles fundamentales. La participación de DAGRD aseguró la alineación con los esfuerzos locales de gestión del riesgo, mientras que YouthMappers contribuyó con experiencia de mapeo esencial. La colaboración de Ecociclo extendió el impacto del proyecto a la Vereda El Salado.
+
+## **RECURSOS**
+[**Blog GeoLab:**](https://mapeoparticipativosap.blogspot.com/) En este blog, se presenta una descripción detallada de las fases y herramientas empleadas en el mapeo comunitario llevado a cabo por la comunidad estudiantil voluntaria del proyecto. Reconocemos a Yéssica de los Ríos Olarte, Juan Sebastián Agudelo, Sara Berrio, Paulina Rendón Jaramillo, Daniela Romero Castaño, y Ana Carolina Restrepo, así como el Voluntariado Ambiental Prevención y Emergencias San Antonio de Prado,  por su valioso trabajo durante este proceso.

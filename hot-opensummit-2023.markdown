@@ -15,6 +15,9 @@ intro-text: |-
   <h4><a href="https://pistangmapa.org/2023/">Pista ng Mapa</a>, Tacloban City, Philippines: November 21-23, 2023</h4><br>
   <h4><a href="https://foss4g.asia/2023/">FOSS4G Asia</a>, Seoul, Korea: November 28 - December 02, 2023</h4><br>
   <h4><a href="https://2023.stateofthemap.africa/">State of the Map Africa</a>, Yaounde, Cameroon: November 31 - December 02, 2023</h4><br>
+  <h4><a href="https://wiki.openstreetmap.org/wiki/State_of_the_Map_Ethiopia_2023">State of the Map Ethiopia</a>, Addis Ababa, Ethiopia: December 15 - 16, 2023</h4><br>
+  <h4><a href="https://pgrsc.org/pacific-gis-rs-users-confrence/">Pacific Islands GIS & Remote Sensing Users Conference</a>, Suva, Fiji: November 27 - December 02, 2023</h4><br>
+  <h4><a href="https://blog.okfn.org/2024/02/28/and-the-winners-of-the-open-data-day-2024-mini-grants-are/">Open Data Day </a>, Multiple Locations: March 08, 2024</h4><br>
   <br>
   <br>
 

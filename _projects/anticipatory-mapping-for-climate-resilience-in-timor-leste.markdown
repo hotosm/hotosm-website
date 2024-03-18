@@ -10,7 +10,7 @@ Project Summary Text: |-
 Feature Image: "/uploads/ParticipatoryMapping_TL.jpg"
 Is Community-Led: true
 Country:
-- timor leste
+- Timor-Leste
 Impact Area:
 - Disasters & Climate Resilience
 Partner:
