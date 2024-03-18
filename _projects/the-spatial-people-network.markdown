@@ -35,3 +35,5 @@ Join the [HOT Tasking Manager](https://tasks.hotosm.org/) where your team can cr
 Apply for scholarships to attend other Open Mapping events in the ESA region.
 
 Win swag and other prizes!
+
+The Spatial People Network is an ongoing initiative, and applications are accepted at any time. Apply today!
