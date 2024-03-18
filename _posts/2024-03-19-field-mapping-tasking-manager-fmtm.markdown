@@ -1,7 +1,6 @@
 ---
 title: Field Mapping Tasking Manager (FMTM)
-date: 2024-03-18 16:58:00 Z
-published: false
+date: 2024-03-19 00:58:00 Z
 Summary Text: Collaboration and communication among key players are critical to a
   successful field mapping campaign and data collection effort. Leveraging the right
   tools, such as the Field Mapping Tasking Manager (FMTM), can significantly enhance
