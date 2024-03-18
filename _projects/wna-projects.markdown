@@ -8,6 +8,8 @@ tags:
 Feature Image: "/uploads/hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png"
 Impact Area:
 - Disasters & Climate Resilience
+Duration:
+  Start Date: 2024-03-18 00:00:00 Z
 ---
 
 ### RUWA - Rural Water Access
