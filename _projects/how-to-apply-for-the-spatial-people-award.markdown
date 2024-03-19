@@ -9,7 +9,7 @@ Impact Area:
 - 
 - Sustainable Cities & Communities
 Duration:
-  Start Date: 2024-03-18 00:00:00 Z
+  Start Date: 2022-12-01 00:00:00 Z
 ---
 
 ## Join Our Network and Be the Change
