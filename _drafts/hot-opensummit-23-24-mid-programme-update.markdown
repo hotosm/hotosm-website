@@ -1,9 +1,14 @@
 ---
 title: HOT OpenSummit 23-24 - Mid-Programme Update
 date: 2024-03-19 19:42:00 Z
+Summary Text: The <a href="https://www.hotosm.org/opensummit23-24">HOT OpenSummit</a>
+  is a creative programme of global event collaborations that leverages experience,
+  passion, and connection to drive strong networks and collective action across the
+  humanitarian open mapping movement. It was launched on August 31, 2023, with a <a
+  href="https://www.youtube.com/watch?v=F6MsOhid9_s">virtual event</a> that built
+  upon the success of the <a href="https://unsummit.hotosm.org/">HOT unSummit</a>.
+Feature Image: "/uploads/OpenSummit%20MidSummit%20Head%20Image.png"
 ---
-
-The HOT OpenSummit is a creative programme of global event collaborations that leverages experience, passion, and connection to drive strong networks and collective action across the humanitarian open mapping movement. It was launched on August 31, 2023, with a virtual event that built upon the success of the HOT unSummit.
 
 It encompasses three event categories: conferences, open mapping contributions to third-party events, and community events. The program seeks to extend open mapping's reach, promote open map data awareness, and facilitate collaboration and collective action within the open mapping community. It also aims to bring together communities, partners, collaborators, and supporters to learn, share, and connect.
 
