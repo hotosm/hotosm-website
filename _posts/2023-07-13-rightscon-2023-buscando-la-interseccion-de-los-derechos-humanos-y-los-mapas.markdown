@@ -11,7 +11,7 @@ tags:
 Summary Text: El pasado junio se realizó la RightsCon, el evento global que reúne
   a activistas y organizaciones que trabajan por los derechos humanos, y el Hub LAC
   se hizo presente en busca de mapas y mapeadores!
-Feature Image: "/uploads/RightsCon%20General%20Promotion%20-%20Twitter%20header.png"
+Feature Image: "https://cdn.hotosm.org/website/RightsCon+General+Promotion+-+Twitter+header.png"
 Person: Juan Arellano Valdivia
 ---
 
@@ -21,7 +21,7 @@ Recientemente -del 5 al 8 de junio- se llevó a cabo una nueva edición de la Ri
 
 Al ser la región sede de un evento de esta magnitud, en el [Hub de Mapeo Abierto](https://www.hotosm.org/hubs/latam-hub) de América Latina y el Caribe, estimamos que la asistencia de organizaciones y activistas de la región sería considerable, por lo que resultaba importante asistir también y tomarle el pulso al evento desde nuestra propia perspectiva "cartográfica".
 
-![WhatsApp Image 2023-06-20 at 10.41.21 PM.jpg](/uploads/WhatsApp%20Image%202023-06-20%20at%2010.41.21%20PM.jpg)
+![WhatsApp Image 2023-06-20 at 10.41.21 PM.jpg](https://cdn.hotosm.org/website/WhatsApp+Image+2023-06-20+at+10.41.21+PM.jpg)
 
 *Brett Solomon, ED de Access Now da el discurso de apertura y menciona a Alaa Abd El Fattah, el blogger egipcio actualmente encarcelado que dio el discurso de apertura de la RightsCon 2011.*
 
@@ -42,7 +42,7 @@ Sin embargo, algo que me impactó fue que de todos esos 600 eventos programados 
 
 Lo que sí encontré fue varia gente interesada en proyectos de mapeo: organizaciones y personas queriendo mapear cámaras de vigilancia en la región, feminismos, comunidades invisibilizadas en los mapas oficiales, derechos, territorios, y sobre todo, encontré a antiguos y expertos colaboradores de la comunidad OSM centroamericana que esta deseosa de volver a unirse y contribuir en proyectos comunes.
 
-![conf3.jpg](/uploads/conf3.jpg)
+![conf3.jpg](https://cdn.hotosm.org/website/conf3.jpg)
 
 *Diversas charlas en la RightsCon.*
 

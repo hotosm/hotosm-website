@@ -9,7 +9,7 @@ tags:
 - Canoa de Tolda
 Summary Text: Canoa de Tolda and the LAC Open Mapping Hub were at the Paris Peace
   Forum 2023. Find out how our participation was.
-Feature Image: "/uploads/photo_5131917909751344251_y.jpg"
+Feature Image: "https://cdn.hotosm.org/website/photo_5131917909751344251_y.jpg"
 Person: Juan Arellano Valdivia
 ---
 
@@ -21,11 +21,11 @@ The exhibiting team was made up of Carlos Eduardo Ribeiro -project coordinator-,
 
 The Canoa de Tolda booth was quite well located and was widely seen and visited, including among the visitors the director/founder of the FPP, [Justin Vaisse](https://en.wikipedia.org/wiki/Justin_Va%C3%AFsse), and the team from the Ministére des Affaires Etrangéres of France. Former minister [Celso Amorim](https://en.wikipedia.org/wiki/Celso_Amorim), current special advisor for international affairs of the Presidency of the Republic of Brazil, also visited the booth.
 
-![canoa paris 2.jpg](/uploads/canoa%20paris%202.jpg)
+![canoa paris 2.jpg](https://cdn.hotosm.org/website/canoa+paris+2.jpg)
 
 Participation in the [Round Table - Safeguarding the Trees of Life: Uniting Climate and Biodiversity Agendas](https://www.youtube.com/watch?v=kv0JDu8HNzA), mediated by [Celina Chien](https://www.celinachien.com/), where Carlos Eduardo Ribeiro shared a table with representatives of other projects from Mexico, China, Peru and France, was very positive, since it was possible to make it clear that biodiversity conservation actions are necessary in all biomes and ecosystems and not only in the Amazon.
 
-![canoa paris 1.jpg](/uploads/canoa%20paris%201.jpg)
+![canoa paris 1.jpg](https://cdn.hotosm.org/website/canoa+paris+1.jpg)
 
 Professor Igor da Mata tells us his perspective of the event:
 

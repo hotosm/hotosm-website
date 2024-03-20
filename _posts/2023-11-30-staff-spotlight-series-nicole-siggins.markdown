@@ -5,7 +5,7 @@ Summary Text: Each quarter, we’re featuring one of our all-star staff members 
   Staff Spotlight Series. Staff featured in this Series have been peer-nominated for
   their superb performance and values-driven work. This quarter, we’re spotlighting
   Nicole Siggins, Corporate Partnerships Lead on the Fundraising team.
-Feature Image: "/uploads/nicole-altona-map.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/nicole-altona-map.jpeg"
 Is image top aligned: true
 Person: Dana Gallaty
 ---
@@ -26,7 +26,7 @@ My career path has been non-linear and diverse, covering areas of art, media, an
 
 I’m currently the Corporate Partnerships Lead at HOT. I joined HOT to specifically run mapathons for corporate volunteer mappers, but it has evolved into coming up with new programs and strategies to work with corporate volunteers. It turns out that running mapathons on the HOT Tasking Manager isn’t always the most effective way for folks to contribute: they often prioritize volume over quality, leading to a lot of data that needs to be validated, and it’s also quite a bit of information for them to absorb at once. So I’m now working to make better and more sustainable programs for these volunteers, so they can contribute meaningfully to the map, have an easier introduction to OSM and HOT’s projects, as well as grow their interest in OpenStreetMap as a whole, and continue on their mapper journey outside corporate volunteering.
 
-![nicole-ohsomeNOW-sotm-eu.jpeg](/uploads/nicole-ohsomeNOW-sotm-eu.jpeg)
+![nicole-ohsomeNOW-sotm-eu.jpeg](https://cdn.hotosm.org/website/nicole-ohsomeNOW-sotm-eu.jpeg)
 
 *Besides being a total map lover, Nicole can be found knitting, hiking, going to art museums and film festivals, and hanging out with her beloved dog, Yuki.*
 
@@ -48,4 +48,4 @@ I enjoy artsy activities, such as hitting up a museum or film festival. I especi
 
 *Learn more about Nicole [here](https://www.hotosm.org/people/nicole-siggins/).*
 
-![nicole-sotm-eu.jpeg](/uploads/nicole-sotm-eu.jpeg)
+![nicole-sotm-eu.jpeg](https://cdn.hotosm.org/website/nicole-sotm-eu.jpeg)

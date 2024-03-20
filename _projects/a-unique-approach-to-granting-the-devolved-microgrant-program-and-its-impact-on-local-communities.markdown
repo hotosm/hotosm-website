@@ -8,7 +8,7 @@ Project Summary Text: In 2021, the Humanitarian OpenStreetMap Team (HOT) collabo
   OMDTZ took on the role of a trusted partner, designing and implementing a national-level
   granting program. Throughout the process, HOT provided funding, staff time, and
   mentorship support. In total, OMDTZ funded seven communities over a span of 12 months.
-Feature Image: "/uploads/Map%20of%20Tanzania.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Map+of+Tanzania.jpg"
 Is Community-Led: true
 Country:
 - Tanzania

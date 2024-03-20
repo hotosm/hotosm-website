@@ -13,7 +13,7 @@ tags:
 Summary Text: The Data Festival recently held in Uruguay was the opportunity for the
   Open Mapping Hub to introduce to organizations and institutions open cartography
   applications and its humanitarian approach.
-Feature Image: "/uploads/202311_Festival%20Datos%20Uruguay_closing%20Session%20Rebecca%20Firth%2003.jpg"
+Feature Image: "https://cdn.hotosm.org/website/202311_Festival+Datos+Uruguay_closing+Session+Rebecca+Firth+03.jpg"
 Person: Juan Arellano Valdivia
 ---
 
@@ -33,7 +33,7 @@ For this edition, although these objectives remained, emphasis was placed [on ot
 
 > Rapid innovations in technology and timely data collection, access, and use are needed to meet the Sustainable Development Goals. Yet the data revolution also raises fundamental tensions around power, privacy, and participation. The Festival aims to strengthen data communities and our collective ability to unlock the value of data for all as we strive to achieve the Agenda 2030.
 
-![Eventos.jpg](/uploads/Eventos.jpg)
+![Eventos.jpg](https://cdn.hotosm.org/website/Eventos.jpg)
 
 The Data Festival [program](https://www.data4sdgs.org/festivaldedatos/program) consisted of a diverse mix of roundtables, presentations, lightning talks, workshops and networking spaces. From the Open Mapping Hub side, we wanted to respond to this diversity of activities by maximizing interaction with regional actors. We presented sessions focused on dialogue, experience exchange, brainstorming, and interactivity with attendees to demonstrate the uses and applications of open cartography and its tools.
 
@@ -41,13 +41,13 @@ For example, we had a "drill" session on **Humanitarian Mapping in reaction to d
 
 Another of our sessions was an **induction to open mapping with open source mobile applications** to then map elements outside the conference room, as an activity to raise awareness of the cartographic act. Attendees became familiar with the applications and returned to share impressions and doubts, and possible uses of mapping in their professional field linked to public policy or research.
 
-![ninos.jpg](/uploads/ninos.jpg)
+![ninos.jpg](https://cdn.hotosm.org/website/ninos.jpg)
 
 We also carry out a couple of activities aimed at children, one with basic mapping and another with drone management and flying. As you can see in the photos, the kids not only learned but had fun in the process.
 
 Additionally, we organized a conversational breakfast with representatives of national statistics institutes from Paraguay, Colombia, Chile, Uruguay, Costa Rica, Dominican Republic, Suriname and Jamaica. The objective was to discuss the challenges in terms of access to basic cartography for their census exercises and monitoring of population dynamics. We also discussed the possible contributions of OpenStreetMap at a general level.
 
-![Booth.jpg](/uploads/Booth.jpg)
+![Booth.jpg](https://cdn.hotosm.org/website/Booth.jpg)
 
 We also had a booth in the main hall that became our operations center and where those interested in open cartography and our projects came, which allowed us to (re)connect with many colleagues. All of this was enhanced by the presence and active participation of our regional director Fabrizio Scrollini and our Executive Director Rebecca Firth, who was interviewed for several organizations:
 
@@ -63,7 +63,7 @@ Finally, talking about AI, she mentioned [fAIr](https://www.hotosm.org/tech-blog
 
 In summary, we were very happy with our participation in the Data Festival. We have many conversations left to resume, and we hope that those who saw us and thought of new ideas but did not talk to us can contact us anytime soon... We always support access to more and better spatial data for local actors and people's well-being. See you at the next Data Festival!
 
-## ![FdDgrupal.jpg](/uploads/FdDgrupal.jpg)
+## ![FdDgrupal.jpg](https://cdn.hotosm.org/website/FdDgrupal.jpg)
 
 ---
 

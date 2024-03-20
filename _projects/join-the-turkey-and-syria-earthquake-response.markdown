@@ -65,4 +65,4 @@ And we have shared numerous other use cases via our blog and OSM diaries:
 * [Using OSM Data in the Turkey and Syria Earthquake Response](https://www.hotosm.org/updates/using-osm-data-for-the-turkey-and-syria-earthquake-response/)
 * [OpenStreetMap data in action: earthquake response](https://www.openstreetmap.org/user/pedrito1414/diary/401009)
 
-![Turkey Syria Activations March 30.png](/uploads/Turkey%20Syria%20Activations%20March%2030.png)
+![Turkey Syria Activations March 30.png](https://cdn.hotosm.org/website/Turkey+Syria+Activations+March+30.png)

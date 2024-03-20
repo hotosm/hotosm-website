@@ -1,7 +1,7 @@
 ---
 title: Tsongo Muluba Bienvenue
 date: 2022-08-23 10:32:00 Z
-Photo: "/uploads/MLB%20-%20Bienvenu%20Muluba-7d230f.jpg"
+Photo: "https://cdn.hotosm.org/website/MLB+-+Bienvenu+Muluba-7d230f.jpg"
 Member Type:
   Is Voting Member: true
   Is Board Member: false

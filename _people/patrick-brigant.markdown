@@ -1,7 +1,7 @@
 ---
 title: Patrik Brigant
 date: 2023-08-30 23:25:00 Z
-Photo: "/uploads/Patrik_Brigant.jpg"
+Photo: "https://cdn.hotosm.org/website/Patrik_Brigant.jpg"
 Member Type:
   Is Voting Member: true
 Project:

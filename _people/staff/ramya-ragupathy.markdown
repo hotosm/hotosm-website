@@ -1,7 +1,7 @@
 ---
 title: Ramya Ragupathy
 date: 2018-09-15 09:47:00 Z
-Photo: "/uploads/Ramya-Kenya.jpg"
+Photo: "https://cdn.hotosm.org/website/Ramya-Kenya.jpg"
 Member Type:
   Is Staff: true
 Job Title: Product Manager

@@ -16,7 +16,7 @@ tags:
 Summary Text: El Hub de mapeo abierto de América Latina y el Caribe se asoció con
   el Centro de estudios con poblaciones, movilizaciones y territorios (POMOTE) para
   capacitar en mapeo abierto a organizaciones de la sociedad civil de Medellín, Colombia.
-Feature Image: "/uploads/Curso-Taller_Mapeo-web.png"
+Feature Image: "https://cdn.hotosm.org/website/Curso-Taller_Mapeo-web.png"
 Person: Juan Arellano Valdivia
 Country:
 - Colombia
@@ -30,7 +30,7 @@ Considerando esta experiencia en trabajo con comunidades de base, el Hub de mape
 
 > La propuesta del Curso-Taller busca potenciar el uso de las nuevas tecnologías, y las herramientas libres y colaborativas como recursos que pueden aportar al reconocimiento de experiencias y procesos territoriales de la ciudad de Medellín y el Área Metropolitana, especialmente de los territorios de las periferias de la ciudad en las que se dinamizan procesos sociales y de transformación social.
 
-![Pomote.jpg](/uploads/Pomote.jpg)
+![Pomote.jpg](https://cdn.hotosm.org/website/Pomote.jpg)
 
 El “[Curso-Taller en metodologías de cartografía social y herramientas de mapeo digital](https://pomotecestudios.unaula.edu.co/2023/07/15/convocatoria-curso-taller-en-metodologias-de-cartografia-social-y-herramientas-de-mapeo-digital/)” abrió su convocatoria pública del 15 al 23 de julio con varios objetivos claros:
 
@@ -52,7 +52,7 @@ Añade además:
 
 > Para los procesos participantes del Curso-Taller, esta experiencia será fundamental, ya que permitirá complementar, consolidar y comunicar en entornos digitales iniciativas cartográficas que ya han estado adelantando las organizaciones en ámbitos reivindicativos como el derecho al territorio, la construcción de paz territorial, la gestión del riesgo en comunidad, las violencias basadas en género, las iniciativas de movilización social en defensa del territorio, el reconocimiento de procesos e iniciativas de niñas, niños, jóvenes, mujeres, diversidades sexuales, entre otros ámbitos que emergen del primer diagnóstico sobre necesidades de mapeo realizado en el encuentro de apertura.
 
-![tallercollage.jpg](/uploads/tallercollage.jpg)
+![tallercollage.jpg](https://cdn.hotosm.org/website/tallercollage.jpg)
 
 En las próximas sesiones del curso-taller, con el apoyo de miembros de los Capítulos Youthmappers de las Universidades [UDEA](https://www.instagram.com/semillerogeolabudea/) y [UNAL](https://www.instagram.com/sagema_unal/), los participantes empezarán a adentrarse en el mundo de la cartografía digital y a perfilar lo que serán sus propios proyectos de mapeo abierto según las necesidades identificadas en sus comunidades. Estos proyectos serán socializados al final del curso-taller.
 

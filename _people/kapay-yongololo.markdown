@@ -1,7 +1,7 @@
 ---
 title: Kapay Yongololo
 date: 2022-09-05 14:12:00 Z
-Photo: "/uploads/76705%20-%20KAPAY%20YONGOLOLO.jpg"
+Photo: "https://cdn.hotosm.org/website/76705+-+KAPAY+YONGOLOLO.jpg"
 Member Type:
   Is Voting Member: true
 Project:

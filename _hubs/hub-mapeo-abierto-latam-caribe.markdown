@@ -7,7 +7,7 @@ Page Contact:
 layout: page
 ---
 
-![LAC_landingpage2.jpeg](/uploads/LAC_landingpage2.jpeg)
+![LAC_landingpage2.jpeg](https://cdn.hotosm.org/website/LAC_landingpage2.jpeg)
 
 [Portuguese version](https://www.hotosm.org/hubs/hub-de-mapeamento-aberto-america-latina-e-caribe)
 
@@ -47,4 +47,4 @@ De esta forma documentaremos experiencias que habrán probado sobre el terreno c
 
 Síguenos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/)
 
-![LAC_landingpage.jpeg](/uploads/LAC_landingpage.jpeg)
+![LAC_landingpage.jpeg](https://cdn.hotosm.org/website/LAC_landingpage.jpeg)

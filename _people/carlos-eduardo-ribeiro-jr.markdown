@@ -1,7 +1,7 @@
 ---
 title: Carlos Eduardo Ribeiro Jr
 date: 2023-09-19 16:29:00 Z
-Photo: "/uploads/Carlos_CT_01%20-%20Canoa%20de%20Tolda.jpg"
+Photo: "https://cdn.hotosm.org/website/Carlos_CT_01+-+Canoa+de+Tolda.jpg"
 Member Type:
   Is Voting Member: true
 Project:

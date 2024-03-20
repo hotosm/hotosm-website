@@ -28,7 +28,7 @@ ZRST has successfully conducted inception meetings and consultations with the lo
 
 The Trust has engaged affected communities to learn about the challenges they face and the real situation on the ground in a holistic way. The communities include those in Bauleni, Kanyama, Mazyopa, Mtendere, and Kalikiliki.
 
-![Data collection](/uploads/climate-resilience-planning-with-digital-mapping-2.jpg)
+![Data collection](https://cdn.hotosm.org/website/climate-resilience-planning-with-digital-mapping-2.jpeg)
 
 However, this has not been without challenges, some of which include unwillingness to complete questionnaires for the survey as well as refusal to participate in focus group discussions, and reluctance in engaging with private property owners.
 

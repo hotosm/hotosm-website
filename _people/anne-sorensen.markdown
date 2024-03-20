@@ -1,7 +1,7 @@
 ---
 title: Anne Sorensen
 date: 2022-11-03 05:35:00 Z
-Photo: "/uploads/Sorensen%20profile.jpg"
+Photo: "https://cdn.hotosm.org/website/Sorensen+profile.jpg"
 Member Type:
   Is Staff: true
 Job Title: Interim Director of Philanthropy

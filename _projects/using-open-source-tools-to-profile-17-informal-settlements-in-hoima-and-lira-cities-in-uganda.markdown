@@ -6,7 +6,7 @@ Project Summary Text: In Uganda, many of the urban poor and middle-class familie
   reside in informal settlements. As the country undergoes rapid urbanization, there
   is an urgent need to plan for these settlements to provide residents with access
   to basic amenities and services.
-Feature Image: "/uploads/ESA_Informal%20SettlementsUganda1.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/ESA_Informal+SettlementsUganda1.jpeg"
 Is Community-Led: true
 Country:
 - Uganda
@@ -22,7 +22,7 @@ Duration:
 
 With the declaration of new cities by an Act of Parliament in Uganda, informal settlements in seven of the 15 new cities have been re-profiled to facilitate planning. However, this exercise did not include some cities such as Hoima and Lira. These cities have unique challenges, with Hoima being one of the fastest-growing cities in Uganda due to the discovery of oil and Lira being a strategic transport hub to Northern Uganda. This has led to the development of seven informal settlements in Hoima and a population of over 285,000 people in Lira, many of whom were displaced during conflicts.
 
-![ESA_Informal SettlementsUganda2.jpeg](/uploads/ESA_Informal%20SettlementsUganda2.jpeg)
+![ESA_Informal SettlementsUganda2.jpeg](https://cdn.hotosm.org/website/ESA_Informal+SettlementsUganda2.jpeg)
 
 To address these challenges, MapRI has launched a project to profile 17 informal settlements in Hoima and Lira cities. The project involves an in-depth field data collection of factors such as security of tenure, access to water and sanitation, economic activities, education, solid waste management, and service points, among others.
 
@@ -38,4 +38,4 @@ MapRI will share the data with the community and NGOs, including ACTogether, and
 
 The participatory approach adopted in the project, coupled with community involvement in its activities, has fostered cohesion, ownership, and trust among stakeholders. Through training, slum dwellers have improved their mapping and digital competencies, while community volunteers, including women and youths, have enhanced their proficiency in data collection and mobile device usage. These mapping skills enable them to contribute to solutions and have their voices heard.
 
-![ESA_Informal SettlementsUganda3.png](/uploads/ESA_Informal%20SettlementsUganda3.png)
+![ESA_Informal SettlementsUganda3.png](https://cdn.hotosm.org/website/ESA_Informal+SettlementsUganda3.png)

@@ -1,7 +1,7 @@
 ---
 title: Kauê Vestena
 date: 2023-08-29 22:14:00 Z
-Photo: "/uploads/Screenshot%20from%202023-08-29%2016-28-56%20-%20Kaue%CC%82%20de%20Moraes%20Vestena.png"
+Photo: "https://cdn.hotosm.org/website/Screenshot+from+2023-08-29+16-28-56+-+Kau%C3%AA+de+Moraes+Vestena.png"
 Member Type:
   Is Voting Member: true
 Social Media (Full URL):

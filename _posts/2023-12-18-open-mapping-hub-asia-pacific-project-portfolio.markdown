@@ -1,7 +1,7 @@
 ---
 title: Open Mapping  Hub Asia-Pacific - Project Portfolio
 date: 2023-12-18 11:17:00 Z
-Feature Image: "/uploads/Screenshot%202023-12-18%20at%205.41.26%20PM.png"
+Feature Image: "https://cdn.hotosm.org/website/Screenshot+2023-12-18+at+5.41.26+PM.png"
 Country:
 - Asia-Pacifc
 ---

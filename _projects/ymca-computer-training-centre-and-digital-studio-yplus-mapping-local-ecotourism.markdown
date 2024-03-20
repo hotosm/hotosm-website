@@ -4,7 +4,7 @@ date: 2019-05-02 09:45:00 Z
 position: 62
 Project Summary Text: Engaging youth to map ecotourism sites in the West Coast Region
   and Central River Region of The Gambia
-Feature Image: "/uploads/WNA-PanafricanCC.jpg"
+Feature Image: "https://cdn.hotosm.org/website/WNA-PanafricanCC.jpg"
 Is Community-Led: true
 Country:
 - Gambia

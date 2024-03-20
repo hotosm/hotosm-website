@@ -1,7 +1,7 @@
 ---
 title: Jannie Fleur Oraño
 date: 2023-08-29 22:04:00 Z
-Photo: "/uploads/Jannie_Pic%20-%20Jannie%20Fleur%20Oran%CC%83o.jpg"
+Photo: "https://cdn.hotosm.org/website/Jannie_Pic+-+Jannie+Fleur+Ora%C3%B1o.jpg"
 Member Type:
   Is Voting Member: true
 Project:

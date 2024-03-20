@@ -12,7 +12,7 @@ tags:
 Summary Text: "¡Participaremos de AbreLatam/ConDatos 2023! El evento regional sobre
   datos abiertos y gobierno abierto donde se reúnen las organizaciones e individuos
   que  impulsan estos temas."
-Feature Image: "/uploads/abrelatamcondatos.jpg"
+Feature Image: "https://cdn.hotosm.org/website/abrelatamcondatos.jpg"
 Person: Juan Arellano Valdivia
 ---
 

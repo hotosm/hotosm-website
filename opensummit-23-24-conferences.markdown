@@ -7,7 +7,7 @@ Page Link:
   Label: Submit your Conference here
 ---
 
-![bannerconferences.png](/uploads/bannerconferences.png)
+![bannerconferences.png](https://cdn.hotosm.org/website/bannerconferences.png)
 
 ## Selection Criteria for conferences
 

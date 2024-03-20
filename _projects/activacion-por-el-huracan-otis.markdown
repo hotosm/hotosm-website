@@ -8,7 +8,7 @@ Project Summary Text: Después de que el huracán Otis golpeó Acapulco, HOT tra
   la importancia de alinear el mapeo con las necesidades cambiantes de respuesta y
   reconstrucción. Iniciativas impulsadas por la comunidad, respaldadas por diversos
   actores, están abordando desafíos para una recuperación sostenible.
-Feature Image: "/uploads/Acapulco%20-%20Otis%20-%20Drone.png"
+Feature Image: "https://cdn.hotosm.org/website/Acapulco+-+Otis+-+Drone.png"
 Country:
 - Mexico
 Impact Area:
@@ -43,7 +43,7 @@ Field name:
 ## **CONTEXTO**
 [El huracán Otis](https://reliefweb.int/report/mexico/mexico-hurricane-otis-dref-operational-update-mdrmx005), una tormenta de Categoría 5, impactó Acapulco, Guerrero, México, el 25 de octubre de 2023, ocasionando vientos y lluvias intensas. Este evento causó daños considerables, como el colapso de edificaciones e infraestructura, así como desplazamientos de población y pérdidas humanas. Acapulco requiere urgentemente esfuerzos de recuperación. Aunque la respuesta del gobierno local fue rápida, carecía de datos geoespaciales detallados, fundamentales para una planificación y coordinación efectiva. Para abordar esta necesidad, el Equipo de OpenStreetMap Humanitario (HOT) junto a instituciones comunitarias iniciaron un proyecto. La falta de datos precisos dificultó los esfuerzos de ayuda, impactando en la población afectada, la recuperación de servicios básicos y la actividad económica. Además, obstaculizó las evaluaciones de daños, la asignación de recursos y los esfuerzos de orden y reconstrucción, lo que también contribuyó a la escalada de violencia en la zona.
 
-![Otis_2023_landfall.gif](/uploads/Otis_2023_landfall.gif)
+![Otis_2023_landfall.gif](https://cdn.hotosm.org/website/Otis_2023_landfall.gif)
 
 *Gif: NOAA Office of Satellite and Product Operations (OSPO)*
 
@@ -57,7 +57,7 @@ A pesar de los desafíos para coordinarse con las autoridades locales, se adopta
 
 Los esfuerzos de mapeo detallado del proyecto, con un enfoque específico en instituciones educativas, instalaciones de salud y mercados públicos, proporcionaron una comprensión completa del paisaje de infraestructura antes y después del desastre. Estos esfuerzos también fueron fundamentales para generar estimaciones de población afectada que guiaron intervenciones específicas y la planificación de la recuperación.
 
-![Acapulco Activation following Hurricane Otis.png](/uploads/Acapulco%20Activation%20following%20Hurricane%20Otis.png)
+![Acapulco Activation following Hurricane Otis.png](https://cdn.hotosm.org/website/Acapulco+Activation+following+Hurricane+Otis.png)
 
 *Foto: ProtoplasmaKid / Wikimedia Commons / CC-BY-SA 4.0*
 
@@ -67,7 +67,7 @@ El proyecto logró mapear con éxito más de **52,000 edificaciones** y **639 km
 
 Como parte de los resultados, la iniciativa de mapeo **abarcó más de 700 instituciones educativas en Acapulco de Juárez**, utilizando datos de DENUE y autoridades locales, y cubriendo ubicaciones centrales y periféricas. Además, se realizó un **meticuloso mapeo de 170 centros de salud en Acapulco de Juárez y Coyuca de Benítez, así como de los 53 mercados públicos** mencionados en el [Directorio Estadístico Nacional de Unidades Económicas](https://www.inegi.org.mx/app/mapa/denue/default.aspx).
 
-![Campaña Acapulco (1930 x 1090 px).gif](/uploads/Campan%CC%83a%20Acapulco%20(1930%20x%201090%20px).gif)
+![Campaña Acapulco (1930 x 1090 px).gif](https://cdn.hotosm.org/website/Campan%CC%83a+Acapulco+(1930+x+1090+px).gif)
 
 ## **LECCIONES APRENDIDAS**
 

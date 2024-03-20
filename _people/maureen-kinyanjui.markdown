@@ -1,7 +1,7 @@
 ---
 title: Maureen Kinyanjui
 date: 2023-07-18 11:08:00 Z
-Photo: "/uploads/image%20(8)-d19e43.png"
+Photo: "https://cdn.hotosm.org/website/image+(8)-d19e43.png"
 Member Type:
   Is Staff: true
 Job Title: HR OPS Admin Specialist - Eastern and Southern Africa Hub

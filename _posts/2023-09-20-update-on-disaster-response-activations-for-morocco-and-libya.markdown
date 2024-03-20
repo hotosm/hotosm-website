@@ -4,7 +4,7 @@ date: 2023-09-20 16:37:00 Z
 Summary Text: Discover how the OSM community and other partners are responding to
   the devastating events in Morocco and Libya, how you can contribute, and where relief
   organizations can find data to support their efforts.
-Feature Image: "/uploads/Screenshot_from_OpenAerialMap_Libya_Floods.png"
+Feature Image: "https://cdn.hotosm.org/website/Screenshot_from_OpenAerialMap_Libya_Floods.png"
 Person: Pete Masters
 ---
 
@@ -24,17 +24,17 @@ Validation teams at HOT and UN Mappers have been busy providing quality control 
 
 More than 1,500 mappers have added data to support responders in Morocco. One project on the HOT Tasking Manager has so far been completed and there are [four more available for mapping](https://tasks.hotosm.org/explore?campaign=Morocco%20Earthquake%202023) (as well as a [damage assesssment project](https://tasks.hotosm.org/projects/15504) which is reserved for advanced mappers).
 
-![Morocco_EQ_stats_ohsome_2023-09-18.png](/uploads/Morocco_EQ_stats_ohsome_2023-09-18.png)
+![Morocco_EQ_stats_ohsome_2023-09-18.png](https://cdn.hotosm.org/website/Morocco_EQ_stats_ohsome_2023-09-18.png)
 *Contribution statistics for the Morocco earthquake response. Source: [ohsomeNow Stats](https://stats.now.ohsome.org/dashboard#hashtags=moroccoearthquake2023&start=2023-09-08T00:00:00.000Z&end=2023-09-18T07:36:41.000Z&interval=P1D). Heidelberg Institute for Geoinformation Technology at Heidelberg University*
 
 A smaller group of mappers, supported by UN Mappers, have swiftly completed the first road mapping project in Libya and are progressing on the [first building mapping project](https://tasks.hotosm.org/projects/15503).
 
-![Libya_Floods_ohsome_stats_2023-09-18.png](/uploads/Libya_Floods_ohsome_stats_2023-09-18.png)
+![Libya_Floods_ohsome_stats_2023-09-18.png](https://cdn.hotosm.org/website/Libya_Floods_ohsome_stats_2023-09-18.png)
 *Contribution statistics for the Libya earthquake response. Source: [ohsomeNow Stats](https://stats.now.ohsome.org/dashboard#hashtags=moroccoearthquake2023&start=2023-09-08T00:00:00.000Z&end=2023-09-18T07:36:41.000Z&interval=P1D). Heidelberg Institute for Geoinformation Technology at Heidelberg University*
 
 In Morocco, experienced mappers are also mapping from high definition, post-disaster imagery to try and identify inaccessible roads and damaged infrastructure, in order that responders can incorporate this data into their logistical processes.
 
-![Screenshot_Morocco_blocked_road_2023-09-18.png](/uploads/Screenshot_Morocco_blocked_road_2023-09-18.png)
+![Screenshot_Morocco_blocked_road_2023-09-18.png](https://cdn.hotosm.org/website/Screenshot_Morocco_blocked_road_2023-09-18.png)
 *A blocked road in Morocco [identified by a HOT validator on Slack](https://hotosm.slack.com/archives/C4GLC45PY/p1694715294305259)*
 
 ### Data for data users
@@ -45,18 +45,18 @@ Since the events, downloads have spiked for many of these data sets as responder
 
 As always, many of the maps and infographics being produced by humanitarian organizations are based on the data provided by OSM contributors. A quick search on [ReliefWeb](https://reliefweb.int/) brings many examples, such as the o[ne below from MapAction (see data sources for OSM attribution](https://reliefweb.int/map/libya/libya-flooding-overview-affected-mantikas-baseline-population-us-census-bureau-2020-estimate-16-sep-2023)).
 
-![ae73f824-439d-4a14-a716-10a9b1788d27.png](/uploads/ae73f824-439d-4a14-a716-10a9b1788d27.png)
+![ae73f824-439d-4a14-a716-10a9b1788d27.png](https://cdn.hotosm.org/website/ae73f824-439d-4a14-a716-10a9b1788d27.png)
 
 The team behind [OSMAnd](http://osmand.net/) has also made maps of Morocco and Libya freely downloadable to support teams in the field.
 
-![Screenshot_from_OSMAnd_twitter_Morroco_EQ.png](/uploads/Screenshot_from_OSMAnd_twitter_Morroco_EQ.png)
+![Screenshot_from_OSMAnd_twitter_Morroco_EQ.png](https://cdn.hotosm.org/website/Screenshot_from_OSMAnd_twitter_Morroco_EQ.png)
 *OSMAnd make their Morocco and Libya maps available. Source: [Twitter/X](https://twitter.com/osmandapp/status/1702636614957019296)*
 
 ### OSM used in innovative methods
 
 OSM data is also being incorporated into analysis by [Microsoft’s AI for Good Research Lab](https://www.linkedin.com/posts/jlavista_our-thoughts-are-with-the-residents-of-libya-activity-7108548819717431296-qw6B/) to try and establish the extent of the damage caused by the flooding in Darnah. You can explore the before and after using [this visualizer.](https://satelliteimagerydemostg.z5.web.core.windows.net/damage-assessment/libya_derna_flooding_9_12_2023.html)
 
-![Screenshot_from_Microsoft_Libya_damage_visualiser_2023-09-18.png](/uploads/Screenshot_from_Microsoft_Libya_damage_visualiser_2023-09-18.png)
+![Screenshot_from_Microsoft_Libya_damage_visualiser_2023-09-18.png](https://cdn.hotosm.org/website/Screenshot_from_Microsoft_Libya_damage_visualiser_2023-09-18.png)
 *Before and after the floods in Libya from the [Microsoft visualizer](https://satelliteimagerydemostg.z5.web.core.windows.net/damage-assessment/libya_derna_flooding_9_12_2023.html)*
 
 ## How can you contribute?

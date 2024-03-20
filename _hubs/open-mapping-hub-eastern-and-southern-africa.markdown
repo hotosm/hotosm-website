@@ -13,7 +13,7 @@ Page Link:
 layout: page
 ---
 
-![africa-and-logo-for-shorthand-1019x573 (1).jpeg](/uploads/africa-and-logo-for-shorthand-1019x573%20(1).jpeg)
+![africa-and-logo-for-shorthand-1019x573 (1).jpeg](https://cdn.hotosm.org/website/africa-and-logo-for-shorthand-1019x573+(1).jpeg)
 
 The Open Mapping Hub - Eastern and Southern Africa exists to serve communities in the region by supporting the creation, maintenance, distribution, and use of high-quality open maps that are relevant for and contributed to by local communities.
 
@@ -33,7 +33,7 @@ Enrich OpenStreetMap data (both already existing and generated through the grant
 
 Currently the Open Mapping Hub - Eastern and Southern Africa is supporting projects in Uganda, Kenya, Zambia, Malawi, Namibia, and Tanzania.  
 
-![Screenshot 2023-07-05 at 2.35.26 PM.png](/uploads/Screenshot%202023-07-05%20at%202.35.26%20PM.png)
+![Screenshot 2023-07-05 at 2.35.26 PM.png](https://cdn.hotosm.org/website/Screenshot+2023-07-05+at+2.35.26+PM.png)
 
 ### Uganda
 
@@ -71,7 +71,7 @@ Currently the Open Mapping Hub - Eastern and Southern Africa is supporting proje
 
 # The Spatial People Network
 
-![using-mobile-tech-esa-homepage-4096x1646.jpeg](/uploads/using-mobile-tech-esa-homepage-4096x1646.jpeg)
+![using-mobile-tech-esa-homepage-4096x1646.jpeg](https://cdn.hotosm.org/website/using-mobile-tech-esa-homepage-4096x1646.jpeg)
 
 Are you a mapping enthusiast, between 18 - 35 years, from the Eastern and Southern Africa region? Are you looking for an opportunity to join a network of like-minded individuals?
 
@@ -81,7 +81,7 @@ Our new program aims to improve OpenStreetMap (OSM) through community collaborat
 
 # Spatial Solutions Accelerator
 
-![Spatial Solutions Accelerator.png](/uploads/Spatial%20Solutions%20Accelerator.png)
+![Spatial Solutions Accelerator.png](https://cdn.hotosm.org/website/Spatial+Solutions+Accelerator.png)
 
 We believe in the power of open map data to transform communities and drive positive change. The Spatial Solutions Accelerator program is our latest initiative dedicated to providing support and resources to self-organized open mapping communities, student mapping groups, and university or tertiary institutions in the region.
 

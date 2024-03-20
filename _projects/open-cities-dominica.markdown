@@ -19,7 +19,7 @@ Project Summary Text: "Dominica faces the ongoing threat of extreme storms, impa
   mobile-friendly mapping and overcoming challenges for future climate resilience
   projects. Dominica emerges as a pioneer, showcasing adaptability in the face of
   climate hazards."
-Feature Image: "/uploads/LAC-202301-DC-OCD-MD-001.png"
+Feature Image: "https://cdn.hotosm.org/website/LAC-202301-DC-OCD-MD-001.png"
 Country:
 - Dominica
 Impact Area:
@@ -71,9 +71,9 @@ The activities focused on three areas [the capital city Roseau](https://www.q95d
 
 ## Impact: Supporting the Battle Against Crippling Disasters
 
-The new datasets produced proved to be valuable for hazard analysis, particularly given the island’s recent history with [highly destructive storms](https://www.gfdrr.org/en/dominica-hurricane-maria-post-disaster-assessment-and-support-recovery-planning) and Dominica’s own commitment to becoming a more resilient nation. Please see the project [IMPACT REPORT](https://www.hotosm.org/uploads/Open%20Cities_Impact%20Report_Dominica.pdf) for more details.
+The new datasets produced proved to be valuable for hazard analysis, particularly given the island’s recent history with [highly destructive storms](https://www.gfdrr.org/en/dominica-hurricane-maria-post-disaster-assessment-and-support-recovery-planning) and Dominica’s own commitment to becoming a more resilient nation. Please see the project [IMPACT REPORT](https://www.hotosm.orghttps://cdn.hotosm.org/website/Open+Cities_Impact+Report_Dominica.pdf) for more details.
 
-![IMG-20230114-WA0005.jpg](/uploads/IMG-20230114-WA0005.jpg)
+![IMG-20230114-WA0005.jpg](https://cdn.hotosm.org/website/IMG-20230114-WA0005.jpg)
 
 In total, 24 maps and survey collection forms were created for current and future use in flood resilience planning in Dominica. A total of 260 building footprints were added to OSM, and hundreds of historic flood data, organized by building, was provided to the Dominican government. 
 
@@ -81,7 +81,7 @@ A secondary outcome was the development of a mapping culture in the community vi
 
 The creation of this culture would foster greater open data use throughout the rest of the island, bolstering data available for future climate hazard preparations, and act as a pilot for similar small island developing states in the Caribbean region.
 
-![IMG-20230121-WA0056.jpg](/uploads/IMG-20230121-WA0056.jpg)
+![IMG-20230121-WA0056.jpg](https://cdn.hotosm.org/website/IMG-20230121-WA0056.jpg)
 
 ## Looking Ahead: Lessons Learned and a Solid Foundation for Future Work
 
@@ -93,13 +93,13 @@ In keeping with the community-led approach, [volunteer mappers](https://emonewsd
 
 The project has created a solid foundation with [many key stakeholders](https://emonewsdm.com/local-tech-company-open-solutions-begins-mapping-exercise-for-resilience-building/) including local government and agencies as well as aid organizations, many of which are excited about the project, eager to see the same carried out for their communities.
 
-![IMG-20230121-WA0005.jpg](/uploads/IMG-20230121-WA0005.jpg)
+![IMG-20230121-WA0005.jpg](https://cdn.hotosm.org/website/IMG-20230121-WA0005.jpg)
 
 The methodology developed can be duplicated through agencies mandated and interested in vulnerability and risk assessments as well as asset management.
 
 The CREAD Project (Climate Resilience Execution Agency for Dominica) has agreed to work with its partners in formatting the workflows into their tasks for attending to their list of Most Vulnerable Communities affected by Hurricane Maria. Other foreign agencies operating in Dominica, such as IsraAid have shown interest in utilizing the data and methodology in performing assessments for asset mapping of critical infrastructures on the island.
 
-![IMG-20230121-WA0019.jpg](/uploads/IMG-20230121-WA0019.jpg)
+![IMG-20230121-WA0019.jpg](https://cdn.hotosm.org/website/IMG-20230121-WA0019.jpg)
 
 **Partners:** 
 * [University of the West indies](https://www.uwi.edu/)

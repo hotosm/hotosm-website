@@ -1,7 +1,7 @@
 ---
 title: Akua Owusu Darko
 date: 2023-07-10 07:07:00 Z
-Photo: "/uploads/A17CDD89-2C2C-4B0E-92A2-8F1A403761EC%20(1).jpeg"
+Photo: "https://cdn.hotosm.org/website/A17CDD89-2C2C-4B0E-92A2-8F1A403761EC+(1).jpeg"
 Member Type:
   Is Staff: true
 Job Title: Corporate Partnerships Assistant

@@ -1,7 +1,7 @@
 ---
 title: Maria Candelaria
 date: 2024-03-12 07:57:00 Z
-Photo: "/uploads/descarga.png"
+Photo: "https://cdn.hotosm.org/website/descarga.png"
 Member Type:
   Is Staff: true
 Job Title: 'Strategic Partnership and Business Dev Specialist - Latin America and

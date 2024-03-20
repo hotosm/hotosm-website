@@ -1,7 +1,7 @@
 ---
 title: Candelaria Videla
 date: 2024-02-06 10:35:00 Z
-Photo: "/uploads/descarga-d41939.png"
+Photo: "https://cdn.hotosm.org/website/descarga-d41939.png"
 Member Type:
   Is Staff: true
 Job Title: Strategic Partnership and Business Dev Specialist - Latin America and Caribbean
