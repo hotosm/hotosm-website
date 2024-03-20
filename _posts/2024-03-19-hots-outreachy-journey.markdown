@@ -36,7 +36,7 @@ You can read more details about Neelima’s experience [in her blogs](https://ww
 ![OutreachyOpenCodeForAllPoster.jpeg](/uploads/OutreachyOpenCodeForAllPoster.jpeg)
 *Part of the poster for the [Code for All Summit 2023](http://codeforall.org/summit-2023/), where HOT's Outreachy intern Neelima Mohanty presented part of her work developing the technical documentation for HOT's FMTM*
 
-### December 2023- March 2024: Tech community engagement
+### December 2023 - March 2024: Tech community engagement
 
 After the success of the previous round and seeing Neelima’s journey as an intern, I was committed to HOT participating in the next round of Outreachy internships. The experience with Neelima really showed me why dedicating time to mentorships matters:  because it impacts people...and people are at the core of what we do! This time around, I faced another challenge: identifying mentors due to time and capacity. Not being a developer myself, I thought, “What project can I propose that I have the right skills to mentor on?”. That's how I came up with the idea of having an intern who can highlight the important role that community managers/enablers play in the tech space! Therefore, the project we proposed to Outreachy focused purely on tech community engagement. This time, I acted as the project coordinator and sole mentor for this project.
 
