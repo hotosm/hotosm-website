@@ -5,6 +5,7 @@ published: false
 Summary Text: 'Follow Petya Kangalova, HOT''s Networks and Engagement Lead, as she
   talks about the importance of mentorship in the open-source tech space and how our
   partnership with Outreachy promotes inclusivity. '
+Feature Image: "/uploads/OutreachyCover.jpeg"
 Person: Petya Kangalova
 ---
 
@@ -32,8 +33,8 @@ The contribution period was overwhelming at the start due to the high number of 
 
 You can read more details about Neelima’s experience and the highlights of the internship [in her blogs](https://www.openstreetmap.org/user/Neelima%20Mohanty/diary). As her mentor, some of the biggest highlights were when Neelima stepped out of her comfort zone and presented at the Code for All Summit and also when she took part in [her very first podcast](https://thegeomob.com/podcast/episode-218) about the role of internships and mentorship. I am extremely proud of her and to see her grow in her technical skills and in being more confident speaking with external audiences.
 
-![OutreachyField Mapping is the Future _ Instagram.png](/uploads/OutreachyField%20Mapping%20is%20the%20Future%20_%20Instagram.png)
-*Poster for the [Code for All Summit 2023](http://codeforall.org/summit-2023/), where HOT's Outreachy intern Neelima Mohanty presented part of her work developing the technical documentation for HOT's FMTM*
+![OutreachyOpenCodeForAllPoster.jpeg](/uploads/OutreachyOpenCodeForAllPoster.jpeg)
+*Part of the poster for the [Code for All Summit 2023](http://codeforall.org/summit-2023/), where HOT's Outreachy intern Neelima Mohanty presented part of her work developing the technical documentation for HOT's FMTM*
 
 ### December 2023- March 2024: Tech community engagement
 
