@@ -1,37 +1,48 @@
 ---
 title: HOT OpenSummit 23-24 - Mid-Programme Update
 date: 2024-03-19 19:42:00 Z
+Summary Text: The <a href="https://www.hotosm.org/opensummit23-24">HOT OpenSummit</a>
+  is a creative programme of global event collaborations that leverages experience,
+  passion, and connection to drive strong networks and collective action across the
+  humanitarian open mapping movement. It was launched on August 31, 2023, with a <a
+  href="https://www.youtube.com/watch?v=F6MsOhid9_s">virtual event</a> that built
+  upon the success of the <a href="https://unsummit.hotosm.org/">HOT unSummit</a>.
+Feature Image: "/uploads/OpenSummit%20MidSummit%20Head%20Image.png"
 ---
 
-The HOT OpenSummit is a creative programme of global event collaborations that leverages experience, passion, and connection to drive strong networks and collective action across the humanitarian open mapping movement. It was launched on August 31, 2023, with a virtual event that built upon the success of the HOT unSummit.
+The HOT OpenSummit encompasses three event categories: conferences, open mapping contributions to third-party events, and community events. The program seeks to extend open mapping's reach, promote open map data awareness, and facilitate collaboration and collective action within the open mapping community. It also aims to bring together communities, partners, collaborators, and supporters to learn, share, and connect.
 
-It encompasses three event categories: conferences, open mapping contributions to third-party events, and community events. The program seeks to extend open mapping's reach, promote open map data awareness, and facilitate collaboration and collective action within the open mapping community. It also aims to bring together communities, partners, collaborators, and supporters to learn, share, and connect.
-
-What we have achieved so far
+**What we have achieved so far**
 Five months after the launch, we collaborated with and supported 11 events, which received funding of up to 62,632 USD and reached 2,688 participants. Below are some highlights from the events that have been part of the OpenSummit program.
+
+![OpenSummit Mid 2024 Stats.png](/uploads/OpenSummit%20Mid%202024%20Stats.png)
+*Note that these figures are from 8 out of the 11 events that have completed their reports.*
 
 The opportunity to collaborate on OpenSummit events is still available. If you are planning a conference, community event, or intervention within a third-party event to introduce open mapping discussions to new or relevant audiences, we encourage you to submit your application. We are actively seeking to confirm events for 2024. Learn more and submit your application at https://www.hotosm.org/opensummit23-24. If you are interested in becoming a sponsor for the OpenSummit program, check out the sponsorship deck and get in touch.
 
-SotM Nigeria 2023
-Location: Abuja, Nigeria (hybrid)
-Date: 11-14 October 2023
-Type: Conference
-OpenSummit Collaboration: Event sponsorship ($5,000) and provision of OpenSummit Swag
+![OpenSummit 2023 Map.png](/uploads/OpenSummit%202023%20Map.png)
+
+## [SotM Nigeria 2023](https://2023.stateofthemapnigeria.org/)
+**Location:** Abuja, Nigeria (hybrid)
+**Date:** 11-14 October 2023
+**Type:** Conference
+**OpenSummit Collaboration:** Event sponsorship ($5,000) and provision of OpenSummit Swag
 
 The State of the Map Nigeria 2023 conference focused on challenges, opportunities, and perspectives for geospatial data infrastructure. This localized hybrid conference featured sessions to promote Open Mapping and the OpenStreetMap project. Participants engaged in lightning talks, paper presentations, training workshops, a Mapathon, a partners' exhibition, and a stakeholders' business forum.
 
 The conference united individuals with diverse interests, from hobbyists to major stakeholders contributing to OpenStreetMap, making it a significant gathering for mapping innovation and collaboration. Attendees included representatives from academia, private companies, humanitarian organizations, government agencies, and the technology sector, fostering knowledge exchange and the advancement of map technology.
 
-Check out photos from the event https://www.flickr.com/photos/uniquemappersnetwork/
-
-Victor Sunday, SotM Nigeria. “HOT’s support in funding the travel grant participants increased the event's inclusivity and diversity. This collaboration significantly contributed to the success and impact of SoTM Nigeria 2023, ensuring a broader reach and meaningful participation from various individuals.”
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/199877676@N03" title=""><img src="https://live.staticflickr.com/65535/53460587258_caf88430ed_b.jpg" width="1024" height="768" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-FOSS4G & SotM Oceania
-Location: Auckland, New Zealand
-Date: 16 - 20 October 2023
-Type: Conference
-Collaboration: Event sponsorship ($3,600) and HOT representation
+*Victor Sunday, SotM Nigeria: “HOT’s support in funding the travel grant participants increased the event's inclusivity and diversity. This collaboration significantly contributed to the success and impact of SoTM Nigeria 2023, ensuring a broader reach and meaningful participation from various individuals.”*
+
+
+## [FOSS4G & SotM Oceania](https://2023.foss4g-oceania.org/)
+**Location:** Auckland, New Zealand
+**Date:** 16 - 20 October 2023
+**Type:** Conference
+**Collaboration:** Event sponsorship ($3,600) and HOT representation
 
 The combined FOSS4G + SOTM Oceania event brought together the open-source geospatial community in the region and served as a platform for discussing the wider project strategy, supporting tools, and sharing inspiring case studies. This regional event provided Oceania with a valuable link to global communities of developers and users, garnering support from both the OSGeo Foundation and the OpenStreetMap Foundation.
 
