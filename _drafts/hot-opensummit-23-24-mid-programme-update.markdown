@@ -138,24 +138,26 @@ The FOSS4G-Asia 2023 Conference provided a comprehensive platform for individual
 
 [Photo gallery.](https://www.facebook.com/share/v/u16nmtsYscBiqxye/?mibextid=w8EBqM)
 
-State of the Map Africa 
-Location: Mbankomo, Cameroon
-Date: 30 November - 02 December 2023
-Type: Conference
-Collaboration: Event sponsorship ($15,000), Social Event sponsorship, HOT representation, and running the humanitarian track at the conference
+## [State of the Map Africa](https://2023.stateofthemap.africa/) 
+**Location:** Mbankomo, Cameroon
+**Date:** 30 November - 02 December 2023
+**Type:** Conference
+**Collaboration:** Event sponsorship ($15,000), Social Event sponsorship, HOT representation, and running the humanitarian track at the conference
 
 State of the Map Africa 2023 (SotM Africa) was a vibrant celebration of the culture of open mapping, open data, and GIS, showcasing its profound impact across Africa. It fostered a revitalized, strong, and growing network within the global OpenStreetMap and Open GIS movement in Africa. The conference included sessions on humanitarian open mapping, covering case studies, challenges, innovations, and best practices. Notably, the organization of the conference exemplified collective action, with multiple organizations and OSM communities collaborating to bring the event to fruition.
 
+![SotM Africa Mid Report.jpg](/uploads/SotM%20Africa%20Mid%20Report.jpg)
+
 [Photo gallery.](https://photos.app.goo.gl/5ySuNsSBrxNzBfXi6)
 
-SotM Ethiopia 
-Location: Addis Ababa, Ethiopia
-Date: 15 - 16 December 2023
-Type: Conference
-Collaboration: Event sponsorship ($3,000) and HOT participation
+## [SotM Ethiopia](https://wiki.openstreetmap.org/wiki/State_of_the_Map_Ethiopia_2023) 
+**Location:** Addis Ababa, Ethiopia
+**Date:** 15 - 16 December 2023
+**Type:** Conference
+**Collaboration:** Event sponsorship ($3,000) and HOT participation
 
 The State of The Map Ethiopia conference brought together mapping enthusiasts, professionals, and stakeholders from across Ethiopia, serving as a platform for exchanging knowledge, experiences, and best practices in mapping and Free and Open Source Software (FOSS). The event showcased various sessions, including keynote speeches, panel discussions, workshops, and networking events, fostering collaboration, innovation, and social impact. These sessions provided valuable insights, covering a wide range of topics related to mapping, such as community mapping, data visualization, disaster response, and sustainable development. Furthermore, the conference offered opportunities to showcase mapping projects, tools, and technologies, promoting engagement among fellow mappers and stakeholders.
 
-https://www.flickr.com/gp/hotosm/q8k6e13q40
+![SotM Ethiopia Mid Report.jpg](/uploads/SotM%20Ethiopia%20Mid%20Report.jpg)
 
-Check out these photos from the event: https://flic.kr/ps/43Bsin
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720315105551" title="State of the Map Ethiopia (OpenSummit 2023-24)"><img src="https://live.staticflickr.com/65535/53556454549_6662c7f4b0_z.jpg" width="640" height="480" alt="State of the Map Ethiopia (OpenSummit 2023-24)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
