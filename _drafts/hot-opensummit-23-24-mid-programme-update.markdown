@@ -32,11 +32,10 @@ The State of the Map Nigeria 2023 conference focused on challenges, opportunitie
 
 The conference united individuals with diverse interests, from hobbyists to major stakeholders contributing to OpenStreetMap, making it a significant gathering for mapping innovation and collaboration. Attendees included representatives from academia, private companies, humanitarian organizations, government agencies, and the technology sector, fostering knowledge exchange and the advancement of map technology.
 
-<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/199877676@N03" title=""><img src="https://live.staticflickr.com/65535/53460587258_caf88430ed_b.jpg" width="1024" height="768" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-
+![SotM Nigeria Mid Report.png](/uploads/SotM%20Nigeria%20Mid%20Report.png)
 *Victor Sunday, SotM Nigeria: “HOT’s support in funding the travel grant participants increased the event's inclusivity and diversity. This collaboration significantly contributed to the success and impact of SoTM Nigeria 2023, ensuring a broader reach and meaningful participation from various individuals.”*
 
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/199877676@N03" title=""><img src="https://live.staticflickr.com/65535/53460587258_caf88430ed_b.jpg" width="1024" height="768" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## [FOSS4G & SotM Oceania](https://2023.foss4g-oceania.org/)
 **Location:** Auckland, New Zealand
@@ -46,17 +45,19 @@ The conference united individuals with diverse interests, from hobbyists to majo
 
 The combined FOSS4G + SOTM Oceania event brought together the open-source geospatial community in the region and served as a platform for discussing the wider project strategy, supporting tools, and sharing inspiring case studies. This regional event provided Oceania with a valuable link to global communities of developers and users, garnering support from both the OSGeo Foundation and the OpenStreetMap Foundation.
 
-https://www.flickr.com/gp/hotosm/i5609YvL0e
+![FOSS4G Mid Report.jpg](/uploads/FOSS4G%20Mid%20Report.jpg)
 
-AbreLatam and ConDatos 
-Location: Montevideo, Uruguay
-Date: 31 October - 03 November
-Type: 3rd Party event
-OpenSummit Collaboration: Event planning, support for community members to attend, and facilitation of community sessions.
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720313959379" title="FOSS4G + SotM Oceania (OpenSummit 2023-24)"><img src="https://live.staticflickr.com/65535/53454088518_bbe14d0269_z.jpg" width="640" height="480" alt="FOSS4G + SotM Oceania (OpenSummit 2023-24)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-AbreLatam/ConDatos 2023 featured active involvement from the OpenMapping Hub for Latin America and the Caribbean, integrating open mapping into the wider open data community. As a key organizing committee member, the Hub contributed substantially to shaping the event's agenda and facilitating discussions on mapping-related subjects. Read more here  https://www.hotosm.org/updates/abrelatam-2023/
+## [AbreLatam and ConDatos](https://2023.abrelatam.org/) 
+**Location:** Montevideo, Uruguay
+**Date:** 31 October - 03 November
+**Type:** 3rd Party event
+**OpenSummit Collaboration:** Event planning, support for community members to attend, and facilitation of community sessions.
 
-https://www.flickr.com/gp/hotosm/587TR169p1
+AbreLatam/ConDatos 2023 featured active involvement from the OpenMapping Hub for Latin America and the Caribbean, integrating open mapping into the wider open data community. As a key organizing committee member, the Hub contributed substantially to shaping the event's agenda and facilitating discussions on mapping-related subjects. Read more [here](https://www.hotosm.org/updates/abrelatam-2023/).
+
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720313943753" title="AbreLatam ConDatos (OpenSummit 2023-24)"><img src="https://live.staticflickr.com/31337/53452983697_6b961b78dd_z.jpg" width="640" height="480" alt="AbreLatam ConDatos (OpenSummit 2023-24)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 OSM Kerala Annual Meet 
 
