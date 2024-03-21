@@ -8,6 +8,7 @@ Project Summary Text: |-
   This page highlights our work in Latin America.
 Impact Area:
 - Sustainable Cities & Communities
+Feature Image: https://cdn.hotosm.org/website/Jamaica.JPG
 Partner:
 - Open Government Partnership
 - GEOID
