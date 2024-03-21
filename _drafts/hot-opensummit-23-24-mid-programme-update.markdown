@@ -70,69 +70,73 @@ AbreLatam/ConDatos 2023 featured active involvement from the OpenMapping Hub for
 
 The OSM Kerala Annual Meet brought together OSM enthusiasts, students, academicians, and policymakers from Kerala, offering a platform for insightful discussions and knowledge-sharing on OSM projects and applications. The event fostered volunteer collaboration, enabling them to forge connections, exchange experiences, and strengthen community ties. The community-building gathering served as a hub for enriching knowledge exchanges, granting attendees from across Kerala valuable insights into the diverse realm of OpenStreetMap.
 
-GIS Day Tanzania 
-Location: Dar es Salaam, Tanzania
-Date: 15 - 16 November 2023
-Type: Conference
-OpenSummit Collaboration: Event sponsorship ($5,000) and OpenSummit Swag
+![1600px-OSM_Kerala_community_meetup_group_photo_-_2023.jpg](/uploads/1600px-OSM_Kerala_community_meetup_group_photo_-_2023.jpg)
+
+[Photo gallery.](https://wiki.openstreetmap.org/wiki/OSM_Kerala_Community_Meetup_2023/Gallery)
+
+## [GIS Day Tanzania](https://gisday.rootgis.org/) 
+**Location:** Dar es Salaam, Tanzania
+**Date:** 15 - 16 November 2023
+**Type:** Conference
+**OpenSummit Collaboration:** Event sponsorship ($5,000) and OpenSummit Swag
 
 GIS DAY 2023 in Dar es Salaam was a pivotal event centered on the convergence of geospatial technology, humanitarian endeavors, and sustainable development. Under the theme "Geospatial Technology for Sustainable Development," the conference attracted diverse professionals, leaders, and enthusiasts from various sectors to delve into the transformative potential of open mapping and technological innovation. The event fostered cross-sector collaboration and facilitated knowledge exchange through engaging dialogues, panel discussions, presentations, showcases, and outreach activities. With a strong emphasis on diversity and inclusivity, GIS DAY actively contributed to shaping a more equitable and sustainable future within the open mapping community through geospatial technology. 
 
-https://www.facebook.com/PistaNgMapaPH 
+![GIS Day Mid Report.jpg](/uploads/GIS%20Day%20Mid%20Report.jpg)
+*Antidius Kawamala, GIS Day Tanzania: “The collaboration with HOT significantly enhanced our event, bringing strategic alignment, valuable expertise, and a broader network to our community.”*
 
-Check out photos from the event: https://photos.app.goo.gl/g6CSvuQZE9yrHNam8
+[Photo gallery.](https://photos.app.goo.gl/g6CSvuQZE9yrHNam8)
 
-Antidius Kawamala, GIS Day Tanzania. “The collaboration with HOT significantly enhanced our event, bringing strategic alignment, valuable expertise, and a broader network to our community.”
-
-FOSS4G Thailand & SotM Asia 2023
-Location: Bangkok, Thailand
-Date: 16 - 18 November 2023
-Type: Conference
-OpenSummit Collaboration: Event sponsorship ($5,000) and HOT representation
+## [FOSS4G Thailand](https://2023.foss4g.in.th/) & [SotM Asia 2023](https://stateofthemap.asia/)
+**Location:** Bangkok, Thailand
+**Date:** 16 - 18 November 2023
+**Type:** Conference
+**OpenSummit Collaboration:** Event sponsorship ($5,000) and HOT representation
 
 FOSS4G Thailand and State of The Map Asia 2023 convened OpenStreetMap contributors from across Asia and the Thai FOSS4G community around the theme "Geospatial Technology for Sustainable Development." The gathering forged a network of collaborators and promoted a contributor mindset within the Thai community in alignment with the global OpenStreetMap community. Emphasizing the pivotal role of geospatial technology in driving sustainable development, the event spurred collaboration among contributors towards a collective impact.
 
-https://www.flickr.com/gp/hotosm/RN72z9y755
+![SotM Asia Mid Report.jpg](/uploads/SotM%20Asia%20Mid%20Report.jpg)
+*Mishari Muqbil, FOSS4G Thailand & SoTM Asia 2023: “HOT's presence and workshops provided invaluable knowledge to the community. The funding allowed us to raise the bar of the facility of the event.”*
 
-Mishari Muqbil, FOSS4G Thailand & SoTM Asia 2023 - “HOT's presence and workshops provided invaluable knowledge to the community. The funding allowed us to raise the bar of the facility of the event.”
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720314355880" title="State of the Map Asia and FOSS4G Thailand (OpenSummit 2023-24)"><img src="https://live.staticflickr.com/65535/53489217188_732c6ea5ce_z.jpg" width="640" height="480" alt="State of the Map Asia and FOSS4G Thailand (OpenSummit 2023-24)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Pista ng Mapa 
-Location: Manila, Philippines
-Date: 21 - 23 November 2023
-Type: Conference
-OpenSummit Collaboration: Event sponsorship ($4,000) and HOT representation
+## [Pista ng Mapa](https://pistangmapa.org/2023/)
+**Location:** Manila, Philippines
+**Date:** 21 - 23 November 2023
+**Type:** Conference
+**OpenSummit Collaboration:** Event sponsorship ($4,000) and HOT representation
 
 Pista ng Mapa 2023 was a pivotal platform for knowledge exchange, spotlighting success stories in humanitarian open mapping efforts. Through talks, technical workshops, and panel discussions, the conference highlighted technologies and methodologies for addressing humanitarian challenges with open mapping to a diverse range of stakeholders. This collaborative atmosphere resulted in heightened support and resources for humanitarian open mapping projects.
 
-Check out this video showing highlights of the event Pista ng Mapa 2023 Highlights.
+*Leigh Lunas, Pista ng Mapa 2023: “HOT's unwavering support has been the backbone of our local community initiatives from the start. HOT's financial assistance has made our event successful and empowered multiple groups and individuals to collaborate and connect with other members of the community. HOT's meaningful participation has amplified our capacity to organize events that directly benefit and uplift our community, showcasing the profound impact that a strong partnership can have on fostering community well-being.”*
 
-Leigh Lunas, Pista ng Mapa 2023 - “HOT's unwavering support has been the backbone of our local community initiatives from the start. HOT's financial assistance has made our event successful and empowered multiple groups and individuals to collaborate and connect with other members of the community. HOT's meaningful participation has amplified our capacity to organize events that directly benefit and uplift our community, showcasing the profound impact that a strong partnership can have on fostering community well-being.”
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUKQFo4A3Q4?si=Z4vlmKmxa2Mds2eX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://www.facebook.com/PistaNgMapaPH
+[Photo gallery.](https://www.facebook.com/PistaNgMapaPH)
 
-Pacific GIS & Remote Sensing Conference 
-Location: Fiji
-Date: 27 November - 01 December 2023
-Type: Conference
-OpenSummit Collaboration:  Event sponsorship ($2,000)
+## [Pacific GIS & Remote Sensing Conference](https://pgrsc.org/pacific-gis-rs-users-confrence/) 
+**Location:** Fiji
+**Date:** 27 November - 01 December 2023
+**Type:** Conference
+**OpenSummit Collaboration:**  Event sponsorship ($2,000)
 
 The Pacific GIS & Remote Sensing Conference facilitated networking and partnership-building opportunities for Pacific Islanders with global practitioners. The conference fostered the exchange of best practices by showcasing innovative technologies and promoting knowledge and capacity development, advancing collaborative humanitarian open mapping activities and the open mapping movement. Through organized workshops, training sessions, hackathons, and mapathons, attendees gained proficiency in open-source mapping software, remote sensing techniques, and humanitarian mapping principles. These activities promoted collaboration and enhanced skill development within the community, creating a dynamic environment for exchanging knowledge and expertise.
 
-Lanieta  Rokotuiwakaya, Pacific GIS & Remote Sensing  Council: “The sponsorship from HOT financed the 2023 PGRSC conference and networking social events. It boosted our events, especially financing the conference food and beverages throughout the week.”
+![Pacific GIS Mid Report.jpg](/uploads/Pacific%20GIS%20Mid%20Report.jpg)
+*Lanieta  Rokotuiwakaya, Pacific GIS & Remote Sensing  Council: “The sponsorship from HOT financed the 2023 PGRSC conference and networking social events. It boosted our events, especially financing the conference food and beverages throughout the week.”*
 
+## [FOSS4G Asia](https://foss4g.asia/2023/) 
+**Location:** Seoul, South Korea
+**Date:** 28 November - 02 December 2023
+**Type:** Conference
+**OpenSummit Collaboration:** Event sponsorship ($1,000) and HOT participating
 
-FOSS4G Asia 
+The FOSS4G-Asia 2023 Conference provided a comprehensive platform for individuals involved in various mapping-related fields, including developers, geomatics software users, decision-makers, researchers, and students, to learn, share experiences, and connect with GIS enthusiasts. In addition to discussions on open software, the conference strongly emphasised the importance of open data, mainly focusing on OpenStreetMap (OSM). FOSS4G-Asia actively promoted open data, OSM, and participatory initiatives like those led by the Humanitarian OpenStreetMap Team (HOT). It underscored a shared dedication to advancing open mapping initiatives and highlighting the critical role of data in the geospatial domain. 
 
-Location: Seoul, South Korea
-Date: 28 November - 02 December 2023
-Type: Conference
-OpenSummit Collaboration: Event sponsorship ($1,000) and HOT participating
+![FOSS4G Asia Mid Report.jpg](/uploads/FOSS4G%20Asia%20Mid%20Report.jpg)
+*Sanghee Shin, FOSS4G Asia: “The HOT representative helped us organize the OSGeo-OSM Mapping party and HOT’s contribution helped a lot to prepare for the event.“*
 
-The FOSS4G-Asia 2023 Conference provided a comprehensive platform for individuals involved in various mapping-related fields, including developers, geomatics software users, decision-makers, researchers, and students, to learn, share experiences, and connect with GIS enthusiasts. In addition to discussions on open software, the conference strongly emphasised the importance of open data, mainly focusing on OpenStreetMap (OSM). FOSS4G-Asia actively promoted open data, OSM, and participatory initiatives like those led by the Humanitarian OpenStreetMap Team (HOT). It underscored a shared dedication to advancing open mapping initiatives and highlighting the critical role of data in the geospatial domain.
-
-https://www.facebook.com/share/v/u16nmtsYscBiqxye/?mibextid=w8EBqM 
-
-Sanghee Shin, FOSS4G Asia: “The HOT representative helped us organize the OSGeo-OSM Mapping party and HOT’s contribution helped a lot to prepare for the event. “
+[Photo gallery.](https://www.facebook.com/share/v/u16nmtsYscBiqxye/?mibextid=w8EBqM)
 
 State of the Map Africa 
 Location: Mbankomo, Cameroon
@@ -142,11 +146,7 @@ Collaboration: Event sponsorship ($15,000), Social Event sponsorship, HOT repres
 
 State of the Map Africa 2023 (SotM Africa) was a vibrant celebration of the culture of open mapping, open data, and GIS, showcasing its profound impact across Africa. It fostered a revitalized, strong, and growing network within the global OpenStreetMap and Open GIS movement in Africa. The conference included sessions on humanitarian open mapping, covering case studies, challenges, innovations, and best practices. Notably, the organization of the conference exemplified collective action, with multiple organizations and OSM communities collaborating to bring the event to fruition.
 
-Check out these photos from the event: https://photos.app.goo.gl/5ySuNsSBrxNzBfXi6 
-
-https://hotosm.slack.com/archives/G01GWBT6ME0/p1704995267985619?thread_ts=1704835464.019809&cid=G01GWBT6ME0 
-
-https://drive.google.com/drive/folders/1mivwQK1llRIGU0xNRZ1vkaRTrNoJ7ePV 
+[Photo gallery.](https://photos.app.goo.gl/5ySuNsSBrxNzBfXi6)
 
 SotM Ethiopia 
 Location: Addis Ababa, Ethiopia
