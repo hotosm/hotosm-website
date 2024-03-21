@@ -57,17 +57,18 @@ The combined FOSS4G + SOTM Oceania event brought together the open-source geospa
 
 AbreLatam/ConDatos 2023 featured active involvement from the OpenMapping Hub for Latin America and the Caribbean, integrating open mapping into the wider open data community. As a key organizing committee member, the Hub contributed substantially to shaping the event's agenda and facilitating discussions on mapping-related subjects. Read more [here](https://www.hotosm.org/updates/abrelatam-2023/).
 
+![ABRE LATAM Mid Report.jpg](/uploads/ABRE%20LATAM%20Mid%20Report.jpg)
+
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720313943753" title="AbreLatam ConDatos (OpenSummit 2023-24)"><img src="https://live.staticflickr.com/31337/53452983697_6b961b78dd_z.jpg" width="640" height="480" alt="AbreLatam ConDatos (OpenSummit 2023-24)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-OSM Kerala Annual Meet 
+## [OSM Kerala Annual Meet](https://wiki.openstreetmap.org/wiki/OSM_Kerala_Community_Meetup_2023)
+
+**Location:** Thrissur, India
+**Date:** 04-05 November 2023
+**Type:** Community Event
+**OpenSummit Collaboration:** HOT Participation
 
 The OSM Kerala Annual Meet brought together OSM enthusiasts, students, academicians, and policymakers from Kerala, offering a platform for insightful discussions and knowledge-sharing on OSM projects and applications. The event fostered volunteer collaboration, enabling them to forge connections, exchange experiences, and strengthen community ties. The community-building gathering served as a hub for enriching knowledge exchanges, granting attendees from across Kerala valuable insights into the diverse realm of OpenStreetMap.
-
-Location: Thrissur, India
-Date: 04-05 November 2023
-Type: Community Event
-OpenSummit Collaboration: HOT Participation
-Event photos: Gallery
 
 GIS Day Tanzania 
 Location: Dar es Salaam, Tanzania
