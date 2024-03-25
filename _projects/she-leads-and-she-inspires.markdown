@@ -9,7 +9,7 @@ Project Summary Text: 'The AP Hub’s  flagship project, "She Leads & She Inspir
   Equity.
 
 '
-Feature Image: "https://cdn.hotosm.org/website/SLSI+1.png"
+Feature Image: https://cdn.hotosm.org/website/SLSI+1.png
 Country:
 - Asia-Pacific
 - Bangladesh

@@ -4,7 +4,7 @@ date: 2023-09-20 16:37:00 Z
 Summary Text: Discover how the OSM community and other partners are responding to
   the devastating events in Morocco and Libya, how you can contribute, and where relief
   organizations can find data to support their efforts.
-Feature Image: "https://cdn.hotosm.org/website/Screenshot_from_OpenAerialMap_Libya_Floods.png"
+Feature Image: https://cdn.hotosm.org/website/Screenshot_from_OpenAerialMap_Libya_Floods.png
 Person: Pete Masters
 ---
 

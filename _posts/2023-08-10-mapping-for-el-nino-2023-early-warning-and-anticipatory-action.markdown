@@ -3,7 +3,7 @@ title: Mapping for El Niño 2023 Early Warning and Anticipatory Action
 date: 2023-08-10 07:36:00 Z
 Summary Text: Join the ESA Hub, FAO, and mappers across Eastern and Southern Africa
   to prepare for upcoming El Niño rains.
-Feature Image: "https://cdn.hotosm.org/website/flooding.png"
+Feature Image: https://cdn.hotosm.org/website/flooding.png
 Is image top aligned: true
 Person: David Luswata
 Country:

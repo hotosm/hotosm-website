@@ -12,7 +12,7 @@ tags:
 Summary Text: With an El Niño Phenomenon developing for 2023-2024, preventive disaster
   mapping becomes a crucial tool to minimize damage and victims in the territories.
   And that is what we are doing in Ecuador together with the Risk Secretariat.
-Feature Image: "https://cdn.hotosm.org/website/F6bSRsKW8AAuB7O.jpg"
+Feature Image: https://cdn.hotosm.org/website/F6bSRsKW8AAuB7O.jpg
 Person: Céline Jacquin
 Country:
 - Ecuador

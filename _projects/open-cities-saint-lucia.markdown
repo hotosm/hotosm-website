@@ -12,7 +12,7 @@ tags:
 Project Summary Text: The island of Saint Lucia faces growing challenges due to climate
   change and, working with our local partners, we experienced first-hand how strengthening
   the community builds greater resilience.
-Feature Image: "https://cdn.hotosm.org/website/IMG_20220711_112005.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_20220711_112005.jpg
 Country:
 - Saint Lucia
 Impact Area:

@@ -14,7 +14,7 @@ tags:
 Summary Text: The Latin American and Caribbean (LAC) Open Mapping Hub has organized
   a series of monthly talks that show the contribution that open and collaborative
   mapping can make to humanitarian work and sustainable development.
-Feature Image: "https://cdn.hotosm.org/website/charla1.jpg"
+Feature Image: https://cdn.hotosm.org/website/charla1.jpg
 Person: Juan Arellano Valdivia
 ---
 

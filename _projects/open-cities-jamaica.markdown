@@ -13,7 +13,7 @@ tags:
 Project Summary Text: Solid waste accumulation in Kingston’s gullies has been linked
   to flooding in the surrounding communities and pollution of the harbor. This OC
   project focused on using mapping to analyze the impacts and help with the solutions.
-Feature Image: "https://cdn.hotosm.org/website/20220921_085956.heif.jpg"
+Feature Image: https://cdn.hotosm.org/website/20220921_085956.heif.jpg
 Person:
 - 
 - Shazmane Mandjee Rehamtula

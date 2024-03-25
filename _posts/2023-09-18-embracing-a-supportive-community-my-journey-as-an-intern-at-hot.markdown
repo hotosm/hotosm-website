@@ -3,7 +3,7 @@ title: 'Embracing a supportive community: my journey as an intern at HOT'
 date: 2023-09-18 21:01:00 Z
 Summary Text: Follow Benedicta Ohene's journey as an intern for the Community Team
   at HOT and the lessons she learned during her time in the team.
-Feature Image: "https://cdn.hotosm.org/website/Meeting.png"
+Feature Image: https://cdn.hotosm.org/website/Meeting.png
 Person: Benedicta Banful Ohene-Amadi
 Working Group:
 - Community

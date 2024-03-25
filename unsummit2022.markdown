@@ -2,7 +2,7 @@
 title: HOT unSummit 2022
 date: 2023-04-28 23:25:00 Z
 permalink: unsummit2022
-summit-image: "https://cdn.hotosm.org/website/hot-unsummit-logo-262x367.png"
+summit-image: https://cdn.hotosm.org/website/hot-unsummit-logo-262x367.png
 intro-text: Through the HOT unSummit 2022 we collaborated with events all over the
   world, engaging a global community of thousands!
 block-0:
@@ -15,7 +15,7 @@ block-0:
 '
   Action-text: View our explainer video
   Link: https://youtu.be/XWmcZ4TQpcE
-  Image: "https://cdn.hotosm.org/website/YoutubeThumbnailunSummit2022.webp"
+  Image: https://cdn.hotosm.org/website/YoutubeThumbnailunSummit2022.webp
 block-1:
   Title: unSummit by the Numbers
   Text: |-
@@ -30,7 +30,7 @@ block-1:
     *Photo: FOSS4G Firenze 2022*
   Action-text: 
   Link: 
-  Image: "https://cdn.hotosm.org/website/unSummitMap.png"
+  Image: https://cdn.hotosm.org/website/unSummitMap.png
 block-2:
   Title: 
   Text: |-
@@ -38,7 +38,7 @@ block-2:
      - Organizing Committee, FOSS4G 2022
   Action-text: 
   Link: 
-  Image: "https://cdn.hotosm.org/website/FOSS4G+Firenze.webp"
+  Image: https://cdn.hotosm.org/website/FOSS4G+Firenze.webp
 block-3:
   Title: 
   Text: "*“Thank you for this opportunity! Without HOT it would have been impossible
@@ -51,7 +51,7 @@ block-3:
     Foco\n\n"
   Action-text: 
   Link: 
-  Image: "https://cdn.hotosm.org/website/OpenSummit+One+Pager-tetobrazil.png"
+  Image: https://cdn.hotosm.org/website/OpenSummit+One+Pager-tetobrazil.png
 block-4:
   Title: Outcomes
   Text: |-
@@ -67,7 +67,7 @@ block-4:
 
     * -Two Brazilian community groups with a shared interest in river mapping were introduced to each other.
   Action-text: 
-  Image: "https://cdn.hotosm.org/website/collaboration.jpeg"
+  Image: https://cdn.hotosm.org/website/collaboration.jpeg
 block-5:
   Title: HOT OpenSummit '23-24
   Text: Building upon the success of the unSummit, we aim to continue bringing together
@@ -75,7 +75,7 @@ block-5:
     now as HOT OpenSummit ‘23-24!
   Action-text: Check out this year’s OpenSummit
   Link: "/opensummit23-24"
-  Image: "https://cdn.hotosm.org/website/1.png"
+  Image: https://cdn.hotosm.org/website/1.png
 layout: summitlanding
 ---
 

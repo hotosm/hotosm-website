@@ -6,7 +6,7 @@ Summary Text: In the second quarter of 2023, <a href="https://www.hotosm.org/hub
   open data champions and organizations in Kenya, held a series of talks under the
   Open Data Talks (ODT) program. This blog post delves into the key findings, challenges,
   outcomes, successes, and recommendations stemming from the ODT events.
-Feature Image: "https://cdn.hotosm.org/website/ODT1to1.png"
+Feature Image: https://cdn.hotosm.org/website/ODT1to1.png
 Person: Osunga Michael Otieno
 ---
 

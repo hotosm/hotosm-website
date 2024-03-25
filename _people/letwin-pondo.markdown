@@ -1,7 +1,7 @@
 ---
 title: Letwin Pondo
 date: 2023-10-03 23:04:00 Z
-Photo: "https://cdn.hotosm.org/website/Letwin+-+Letwin+Pondo.jpg"
+Photo: https://cdn.hotosm.org/website/Letwin+-+Letwin+Pondo.jpg
 Member Type:
   Is Voting Member: true
 Working Group:

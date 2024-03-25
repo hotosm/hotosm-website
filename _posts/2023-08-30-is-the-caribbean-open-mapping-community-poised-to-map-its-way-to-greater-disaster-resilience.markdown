@@ -14,7 +14,7 @@ Summary Text: The open-mapping community has proven to be of great importance to
   Caribbean particularly in supporting disaster response. We take a closer look at
   the latest developments regarding the growth of the Caribbean mapping community
   and what this could mean for disaster resilience in the region.
-Feature Image: "https://cdn.hotosm.org/website/feature+photo+for+blog.jpg"
+Feature Image: https://cdn.hotosm.org/website/feature+photo+for+blog.jpg
 Person: Louise Mathurin Serieux
 ---
 

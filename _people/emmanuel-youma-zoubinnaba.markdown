@@ -1,7 +1,7 @@
 ---
 title: Emmanuel Youma ZOUBINNABA
 date: 2024-02-05 01:56:00 Z
-Photo: "https://cdn.hotosm.org/website/Emmanuel+Youma+Zoubinnaba.jpg"
+Photo: https://cdn.hotosm.org/website/Emmanuel+Youma+Zoubinnaba.jpg
 Member Type:
   Is Voting Member: true
 Country: Togo

@@ -9,7 +9,7 @@ tags:
 - Canoa de Tolda
 Summary Text: Canoa de Tolda e o LAC Open Mapping Hub estiveram no Fórum de Paz de
   Paris 2023. Saiba como foi nossa participação.
-Feature Image: "https://cdn.hotosm.org/website/photo_5131917909751344251_y.jpg"
+Feature Image: https://cdn.hotosm.org/website/photo_5131917909751344251_y.jpg
 Person:
 - Juan Arellano Valdivia
 - Everton Bortolini

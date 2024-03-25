@@ -14,7 +14,7 @@ tags:
 Summary Text: El Hub de mapeo abierto de América Latina y el Caribe (LAC) ha organizado
   un ciclo de charlas mensuales que muestren el aporte que el mapeo abierto y colaborativo
   puede hacer al trabajo humanitario y al desarrollo sustentable.
-Feature Image: "https://cdn.hotosm.org/website/charla1.jpg"
+Feature Image: https://cdn.hotosm.org/website/charla1.jpg
 Person: Juan Arellano Valdivia
 ---
 

@@ -8,7 +8,7 @@ Project Summary Text: HOT colaboró con el Departamento Administrativo de Gesti�
   el Departamento de Gestión del Riesgo. El proyecto tuvo como objetivo fortalecer
   la comunidad a través de mapeo abierto y vuelos con drones, proporcionando información
   geoespacial actualizada para respaldar la gestión del riesgo de desastres.
-Feature Image: "https://cdn.hotosm.org/website/SajoR.jpg"
+Feature Image: https://cdn.hotosm.org/website/SajoR.jpg
 Country:
 - Colombia
 Impact Area:

@@ -1,7 +1,7 @@
 ---
 title: Lancement du programme de données responsables et éthiques de HOT
 date: 2023-12-06 22:58:00 Z
-Feature Image: "https://cdn.hotosm.org/website/DataCollection.jpeg"
+Feature Image: https://cdn.hotosm.org/website/DataCollection.jpeg
 Person:
 - Jessica Pechmann
 - Paul Uithol

@@ -16,7 +16,7 @@ tags:
 Summary Text: La participación del Hub de América Latina y el Caribe en el AbreLatam
   / ConDatos 2023 incluyó diversas ponencias y mesas de trabajo. Acá los testimonios
   de la participación de representantes de organizaciones aliadas.
-Feature Image: "https://cdn.hotosm.org/website/photo_5159018500554075117_y.jpg"
+Feature Image: https://cdn.hotosm.org/website/photo_5159018500554075117_y.jpg
 Person: Juan Arellano Valdivia
 ---
 

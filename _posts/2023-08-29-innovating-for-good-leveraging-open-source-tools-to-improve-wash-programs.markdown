@@ -7,7 +7,7 @@ tags:
 Summary Text: Open geospatial data, tools, and platforms for humanitarian open mapping
   and disaster response should be used to improve Water, Sanitation, and Hygiene (WASH)
   programs.
-Feature Image: "https://cdn.hotosm.org/website/BamakoStream.jpeg"
+Feature Image: https://cdn.hotosm.org/website/BamakoStream.jpeg
 Person: Letwin Pondo
 Working Group:
 - Community

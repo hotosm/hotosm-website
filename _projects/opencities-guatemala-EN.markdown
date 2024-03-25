@@ -6,7 +6,7 @@ Project Summary Text: Forests provide Guatemala with climate change adaptation a
   biodiversity and the well-being of the people who depend on these ecosystems for
   their livelihoods. This project aimed to give the residents of San José Poaquil,
   Chimaltenango, skills to produce comprehensive data on their territory.
-Feature Image: "https://cdn.hotosm.org/website/LAC_OpenCitiesGT_1.jpeg"
+Feature Image: https://cdn.hotosm.org/website/LAC_OpenCitiesGT_1.jpeg
 Is image top aligned: true
 Country:
 - Guatemala

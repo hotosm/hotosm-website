@@ -14,7 +14,7 @@ tags:
 Summary Text: Mapping waste in your neighborhood can be a simple activity that is
   both useful and beneficial for our urban environment.Let's see how various teams
   of mappers in Latin America and the Caribbean have been doing it.
-Feature Image: "https://cdn.hotosm.org/website/olmmap.jpg"
+Feature Image: https://cdn.hotosm.org/website/olmmap.jpg
 Person:
 - Céline Jacquin
 - Juan Arellano Valdivia

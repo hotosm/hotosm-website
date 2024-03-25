@@ -1,7 +1,7 @@
 ---
 title: Rebecca Jeannette Nyinawumuntu
 date: 2023-10-03 17:33:00 Z
-Photo: "https://cdn.hotosm.org/website/RebeccaRwanda+-+rebecca+jeannette-ef926c.jpg"
+Photo: https://cdn.hotosm.org/website/RebeccaRwanda+-+rebecca+jeannette-ef926c.jpg
 Member Type:
   Is Voting Member: true
 Country: Rwanda

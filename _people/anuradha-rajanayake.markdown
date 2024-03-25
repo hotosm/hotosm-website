@@ -1,7 +1,7 @@
 ---
 title: Anuradha Rajanayake
 date: 2023-09-20 15:25:00 Z
-Photo: "https://cdn.hotosm.org/website/1660789604728+-+Anuradha+Rajanayake.jpeg"
+Photo: https://cdn.hotosm.org/website/1660789604728+-+Anuradha+Rajanayake.jpeg
 Member Type:
   Is Voting Member: true
 Country: Sri Lanka

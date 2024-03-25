@@ -4,7 +4,7 @@ date: 2023-12-11 18:38:00 Z
 Summary Text: The Humanitarian OpenStreetMap Team (HOT) is delighted to announce a
   new chapter of its ongoing, collaborative relationship with the OpenStreetMap Foundation
   (OSMF)!
-Feature Image: "https://cdn.hotosm.org/website/52674372468_6efd0df554_k+(1).jpg"
+Feature Image: https://cdn.hotosm.org/website/52674372468_6efd0df554_k+(1).jpg
 ---
 
 On 5th December 2023, Rebecca Firth, HOT’s Executive Director, and Mikel Maron, OSMF Director and Secretary, signed an MoU agreeing on the terms of HOT’s use of the OpenStreetMap trademark in the furtherance of [HOT’s vision](https://www.hotosm.org/hots-vision-and-values.html).

@@ -11,7 +11,7 @@ tags:
 Summary Text: HOT et CDEMA - l'Agence caribéenne de gestion des urgences en cas de
   catastrophe - ont signé un accord de collaboration pour renforcer les capacités
   technologiques géospatiales de CDEMA.Apprenez les détails.
-Feature Image: "https://cdn.hotosm.org/website/photo_4987937622303288424_y.jpg"
+Feature Image: https://cdn.hotosm.org/website/photo_4987937622303288424_y.jpg
 Person: Juan Arellano Valdivia
 ---
 

@@ -6,7 +6,7 @@ Project Summary Text: Female high-school students from Trinidad and Tobago were 
   on GIS concepts and applications, open mapping tools and techniques, risk management,
   and gender-based disaster resilience. They then mapped the flood-prone area around
   the school and created their own Dignity Bag for disaster preparedness.
-Feature Image: "https://cdn.hotosm.org/website/finaltalk.jpeg"
+Feature Image: https://cdn.hotosm.org/website/finaltalk.jpeg
 Is image top aligned: false
 Country:
 - Trinidad and Tobago

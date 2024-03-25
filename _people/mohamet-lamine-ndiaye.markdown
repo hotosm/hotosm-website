@@ -1,7 +1,7 @@
 ---
 title: Mohamet Lamine Ndiaye
 date: 2023-07-04 14:02:00 Z
-Photo: "https://cdn.hotosm.org/website/lamine+profil+-+Mohamet+Lamine+Ndiaye.jpg"
+Photo: https://cdn.hotosm.org/website/lamine+profil+-+Mohamet+Lamine+Ndiaye.jpg
 Member Type:
   Is Staff: false
   Is Voting Member: true

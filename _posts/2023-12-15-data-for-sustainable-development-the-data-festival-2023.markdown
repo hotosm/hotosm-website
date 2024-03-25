@@ -13,7 +13,7 @@ tags:
 Summary Text: The Data Festival recently held in Uruguay was the opportunity for the
   Open Mapping Hub to introduce to organizations and institutions open cartography
   applications and its humanitarian approach.
-Feature Image: "https://cdn.hotosm.org/website/202311_Festival+Datos+Uruguay_closing+Session+Rebecca+Firth+03.jpg"
+Feature Image: https://cdn.hotosm.org/website/202311_Festival+Datos+Uruguay_closing+Session+Rebecca+Firth+03.jpg
 Person: Juan Arellano Valdivia
 ---
 

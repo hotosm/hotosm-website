@@ -6,7 +6,7 @@ Summary Text: Each quarter, we’re featuring one of our all-star staff members 
   their superb performance and values-driven work. This quarter, we’re spotlighting
   Honey Fombuena, our Geographic Information Systems (GIS) Analyst for the Asia Pacific
   Open Mapping Hub.
-Feature Image: "https://cdn.hotosm.org/website/StaffSpotlight-Honey1.jpg"
+Feature Image: https://cdn.hotosm.org/website/StaffSpotlight-Honey1.jpg
 Person: Dana Gallaty
 ---
 

@@ -13,7 +13,7 @@ Event Promo:
     are very excited to launch this year's HOT OpenSummit '23-24 and **open our call
     for collaborations** so more communities and organizations around the world bring
     their events as part of this global movement."
-  Image: "https://cdn.hotosm.org/website/Website+MainBanner-51e09d.png"
+  Image: https://cdn.hotosm.org/website/Website+MainBanner-51e09d.png
   URL: "/projects/opensummit23-24/"
   Button: Learn More
 People:
@@ -26,7 +26,7 @@ People:
 Working-Groups:
   Title: Working Groups
   Link: "/community/working-groups"
-  Image: "https://cdn.hotosm.org/website/IMG_20231101_110032703.jpg"
+  Image: https://cdn.hotosm.org/website/IMG_20231101_110032703.jpg
   Text: Working Groups are at the core of how HOT organizes projects,supports disaster
     response, and functions as a community. Each Working Group consists of members
     across the community meeting on a monthly, bi-weekly, or weekly basis.
@@ -44,7 +44,7 @@ Community-Grants:
 Mentorship-Program:
   Title: Mentorship Program
   Link: "/community/mentorship"
-  Image: "https://cdn.hotosm.org/website/Mentorship_onboarding1_27May2023+(1).png"
+  Image: https://cdn.hotosm.org/website/Mentorship_onboarding1_27May2023+(1).png
   Text: The HOT Community Working Group initiated a Mentorship Program to provide
     peer to peer learning and knowledge exchange in the humanitarian and open mapping
     space.

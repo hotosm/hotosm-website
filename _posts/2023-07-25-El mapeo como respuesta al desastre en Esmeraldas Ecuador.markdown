@@ -9,7 +9,7 @@ tags:
 Summary Text: El Hub de Mapeo Abierto LAC apoyó en las labores de respuesta al desastre
   provocado por las inundaciones en Esmeraldas, Ecuador en coordinación con la Secretaria
   de Gestión de Riesgos de Ecuador.
-Feature Image: "https://cdn.hotosm.org/website/inundacion+esmeraldas.jpg"
+Feature Image: https://cdn.hotosm.org/website/inundacion+esmeraldas.jpg
 Person:
 - Juan Melo Luna
 - Juan Arellano Valdivia

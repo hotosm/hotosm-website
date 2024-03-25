@@ -4,7 +4,7 @@ title: Strengthening Collaboration Between Organizations and Local Communities i
 date: 2023-11-29 14:47:00 Z
 tags:
 - OSMER
-Feature Image: "https://cdn.hotosm.org/website/hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png"
+Feature Image: https://cdn.hotosm.org/website/hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png
 Impact Area:
 - Public Health
 - Sustainable Cities & Communities

@@ -13,7 +13,7 @@ Summary Text: Con un Fenómeno del Niño en desarrollo para este 2023-2024, el m
   preventivo de desastres se vuelve una herramienta crucial para minimizar daños y
   victimas en los territorios. Y eso es lo que estamos haciendo en Ecuador junto a
   la Secretaría de Riesgos.
-Feature Image: "https://cdn.hotosm.org/website/F6bSRsKW8AAuB7O.jpg"
+Feature Image: https://cdn.hotosm.org/website/F6bSRsKW8AAuB7O.jpg
 Person: Céline Jacquin
 Country:
 - Ecuador

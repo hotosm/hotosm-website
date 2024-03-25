@@ -5,7 +5,7 @@ Summary Text: Discover the impactful volunteer work of Ana Restrepo and a group 
   young people in San Antonio de Prado, Colombia. Their focus on collaborative mapping
   not only identifies areas of risk but also promotes citizen participation and demonstrates
   how youth and mapping tools can drive significant social change.
-Feature Image: "https://cdn.hotosm.org/website/Ana+Restrepo+-+San+Antonio+de+Prado.jpg"
+Feature Image: https://cdn.hotosm.org/website/Ana+Restrepo+-+San+Antonio+de+Prado.jpg
 Person: Mariana Marín
 Country:
 - Colombia

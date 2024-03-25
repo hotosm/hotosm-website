@@ -16,7 +16,7 @@ tags:
 Summary Text: The participation of the Latin American and Caribbean Hub in AbreLatam
   / ConDatos 2023 included various presentations and working tables. Here are the
   testimonies of the participation of representatives of allied organizations.
-Feature Image: "https://cdn.hotosm.org/website/photo_5159018500554075117_y.jpg"
+Feature Image: https://cdn.hotosm.org/website/photo_5159018500554075117_y.jpg
 Person: Juan Arellano Valdivia
 ---
 

@@ -11,7 +11,7 @@ tags:
 Summary Text: RightsCon, the global event that brings together activists and organizations
   working for human rights, took place last June, and the LAC Hub was present in search
   of maps and mappers!
-Feature Image: "https://cdn.hotosm.org/website/RightsCon+General+Promotion+-+Twitter+header.png"
+Feature Image: https://cdn.hotosm.org/website/RightsCon+General+Promotion+-+Twitter+header.png
 Person: Juan Arellano Valdivia
 ---
 

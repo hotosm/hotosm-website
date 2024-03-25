@@ -3,7 +3,7 @@ title: The Project Factory
 date: 2023-06-21 15:13:00 Z
 Project Summary Text: There are many projects that never advance due to lack of support.
   Which ones can be supported and how?
-Feature Image: "https://cdn.hotosm.org/website/LAC_fabrica_1.jpeg"
+Feature Image: https://cdn.hotosm.org/website/LAC_fabrica_1.jpeg
 Is image top aligned: false
 Country:
 - Peru

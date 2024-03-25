@@ -5,7 +5,7 @@ Project Summary Text: |-
   Through our Mapping for Climate Ready Cities program, HOT is supporting the development of a thriving ecosystem focused on the creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions.
 
   This project page highlights our work in Dhaka, Bangladesh through HOT's Asia Pacific Hub (AP Hub).
-Feature Image: "https://cdn.hotosm.org/website/Dhaka+CLimate+Cities.jpg"
+Feature Image: https://cdn.hotosm.org/website/Dhaka+CLimate+Cities.jpg
 Country:
 - Bangladesh
 Impact Area:

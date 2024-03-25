@@ -7,7 +7,7 @@ Summary Text: OpenStreetMap (OSM) es más que el mapa base que ves en osm.org u 
   en los sistemas GIS. Para los analistas de datos y cartógrafos que desean acceder
   a conjuntos de datos de OSM para usarlos en QGIS u otras aplicaciones similares,
   ¡la herramienta de exportación de HOT ahora es mucho más útil!
-Feature Image: "https://cdn.hotosm.org/website/Export+Lead.png"
+Feature Image: https://cdn.hotosm.org/website/Export+Lead.png
 Person: Kshitij Sharma
 Working Group:
 - TechandInnovation

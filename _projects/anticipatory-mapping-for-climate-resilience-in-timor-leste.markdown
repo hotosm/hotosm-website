@@ -7,7 +7,7 @@ Project Summary Text: |-
   These questions are currently bothering humanitarians and scientists aiming to expand Anticipatory Action in Timor-Leste. In order to tackle this challenge, a new approach has been piloted in Timor-Leste: Anticipatory Mapping with the Red Cross Climate Centre, Timor Leste Red Cross, and Humanitarian OpenStreetMap Team.
 
   Read the full <a href="https://drive.google.com/file/d/1xKjBA9eicqon-Qnbiv-pWzSGuX0cldIn/view?usp=sharing">Report</a>.
-Feature Image: "https://cdn.hotosm.org/website/ParticipatoryMapping_TL.jpg"
+Feature Image: https://cdn.hotosm.org/website/ParticipatoryMapping_TL.jpg
 Is Community-Led: true
 Country:
 - Timor-Leste

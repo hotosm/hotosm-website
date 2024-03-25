@@ -1,10 +1,10 @@
 ---
 title: HOT OpenSummit 23-24
 date: 2023-07-17 20:29:00 Z
-Feature Image: "https://cdn.hotosm.org/website/opensummit-banner-2023-2024.png"
+Feature Image: https://cdn.hotosm.org/website/opensummit-banner-2023-2024.png
 Summary Text: HOT OpenSummit 23-24 and open our call for collaborations so more communities
   and organizations around the world bring their events as part of this global movement.
-summit-image: "https://cdn.hotosm.org/website/Website+MainBanner-51e09d.png"
+summit-image: https://cdn.hotosm.org/website/Website+MainBanner-51e09d.png
 intro-text: |-
   <h2>The HOT OpenSummit is excited to join:</h2><br>
   <br>
@@ -29,7 +29,7 @@ block-0:
     bring their events as part of this global movement."
   Action-text: 
   Link: 
-  Image: "https://cdn.hotosm.org/website/OpenSummit+World+Map+v1-a0f0eb.png"
+  Image: https://cdn.hotosm.org/website/OpenSummit+World+Map+v1-a0f0eb.png
 block-1:
   Title: A brief history of the OpenSummit
   Text: |-
@@ -38,7 +38,7 @@ block-1:
     This year, the *unSummit* comes back as the **OpenSummit**!
   Action-text: Learn more about unSummit 2022
   Link: "/unsummit2022"
-  Image: "https://cdn.hotosm.org/website/FOSS4G+Firenze.webp"
+  Image: https://cdn.hotosm.org/website/FOSS4G+Firenze.webp
   Image-text: "*State of the Map 2022*"
 block-2:
   Title: Ready to apply?
@@ -48,7 +48,7 @@ block-2:
     fits you better: Conference, 3rd Party Event or Community.\n"
   Action-text: Submit your event here
   Link: https://airtable.com/appixgXPcDSV2SpOA/shrrS73HoMh0J7ssw
-  Image: "https://cdn.hotosm.org/website/geong2022.jpeg"
+  Image: https://cdn.hotosm.org/website/geong2022.jpeg
   Image-text: "*GeOnG 2022*"
 block-3:
   Title: Propose a Conference
@@ -58,7 +58,7 @@ block-3:
     Examples of previous conferences include: State of the Map Asia, State of the Map Tanzania, and the Pacific Geospatial Conference.
   Action-text: Check the selection criteria here
   Link: "/opensummit23-24/conferences "
-  Image: "https://cdn.hotosm.org/website/SOTMTanzaniaUnSummit.jpeg"
+  Image: https://cdn.hotosm.org/website/SOTMTanzaniaUnSummit.jpeg
   Image-text: "*State Of The Map Tanzania 2023*"
 block-4:
   Title: Propose an Intervention in a 3rd Party Event
@@ -71,7 +71,7 @@ block-4:
     em Foco (Brazil), Zimbabwe Institute of Geomatics Conference."
   Action-text: Check the selection criteria here
   Link: "/opensummit23-24/3rd-party-events"
-  Image: "https://cdn.hotosm.org/website/OpenSummit+One+Pager-tetobrazil.png"
+  Image: https://cdn.hotosm.org/website/OpenSummit+One+Pager-tetobrazil.png
   Image-text: "*Teto Brasil Annual Gathering 2022*"
 block-5:
   Title: Propose a Community Event
@@ -85,11 +85,11 @@ block-5:
     Meeting of Geography Students (Mexico)\n"
   Action-text: Check the selection criteria here
   Link: opensummit23-24/community-events
-  Image: "https://cdn.hotosm.org/website/collaboration.jpeg"
+  Image: https://cdn.hotosm.org/website/collaboration.jpeg
   Image-text: "*GIRD+OSM Lima 2022*"
 opensummit-timeline:
   Title: OpenSummit '23-24 Timeline
-  Image: "https://cdn.hotosm.org/website/timeline1-3db8ec.png"
+  Image: https://cdn.hotosm.org/website/timeline1-3db8ec.png
 opensummit-map:
   Title: 
   Image: 

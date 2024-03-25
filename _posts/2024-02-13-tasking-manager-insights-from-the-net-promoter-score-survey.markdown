@@ -10,7 +10,7 @@ Summary Text: Tasking Manager stands as a key solution in the realm of collabora
   and experiences of our Tasking Manager users. The invaluable feedback, received
   from 59 users globally, has opened a window into user satisfaction, areas of strength,
   and opportunities for enhancement.
-Feature Image: "https://cdn.hotosm.org/website/Tasking+Manager+NPS+Article.png"
+Feature Image: https://cdn.hotosm.org/website/Tasking+Manager+NPS+Article.png
 Person: Ramya Ragupathy
 Working Group:
 - TechandInnovation

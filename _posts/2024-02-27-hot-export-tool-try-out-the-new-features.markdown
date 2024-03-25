@@ -8,7 +8,7 @@ Summary Text: 'OpenStreetMap (OSM) is more than the basemap you see on osm.org o
   spatial data with systemized tagging that translates into attributes in GIS systems.
   For data analysts and cartographers who want to access datasets from OSM for use
   in QGIS or other similar applications, HOT’s export tool just got much more helpful! '
-Feature Image: "https://cdn.hotosm.org/website/Export+Lead.png"
+Feature Image: https://cdn.hotosm.org/website/Export+Lead.png
 Is image top aligned: true
 Person: Kshitij Sharma
 Working Group:

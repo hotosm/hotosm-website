@@ -14,7 +14,7 @@ Summary Text: We tell you how the LAC Hub, in alliance with the Secretariat of A
   Territorial and Urban Development of Mexico, accompanied a group of municipalities
   to create geospatial open data under OpenStreetMap and thus be able to build thematic
   cartographies.
-Feature Image: "https://cdn.hotosm.org/website/sedatu1.png"
+Feature Image: https://cdn.hotosm.org/website/sedatu1.png
 Person: Celine Jacquin
 Country:
 - Mexico

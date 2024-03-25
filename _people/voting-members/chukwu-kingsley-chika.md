@@ -1,7 +1,7 @@
 ---
 title: Kingsley Chika Chukwu
 date: 2020-05-20 17:00:00 Z
-Photo: "https://cdn.hotosm.org/website/Kingsley+Chika+CHUKWU+-+Kingsley+Chika+CHUKWU.jpg"
+Photo: https://cdn.hotosm.org/website/Kingsley+Chika+CHUKWU+-+Kingsley+Chika+CHUKWU.jpg
 Member Type:
   Is Voting Member: true
 Project:

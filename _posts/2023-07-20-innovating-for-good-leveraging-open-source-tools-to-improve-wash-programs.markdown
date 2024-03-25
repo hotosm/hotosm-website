@@ -2,7 +2,7 @@
 title: 'Innovating for Good: Leveraging Open Source Tools to Improve WASH Programs'
 date: 2023-07-20 08:02:00 Z
 published: false
-Feature Image: "https://cdn.hotosm.org/website/Innovating+for+Good+Leveraging+Open+Source+Tools+to+Improve+WASH+Programs+(4).jpg"
+Feature Image: https://cdn.hotosm.org/website/Innovating+for+Good+Leveraging+Open+Source+Tools+to+Improve+WASH+Programs+(4).jpg
 Person: Letwin Pondo
 Working Group:
 - Community

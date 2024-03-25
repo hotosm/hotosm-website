@@ -6,7 +6,7 @@ Project Summary Text: In Uganda, many of the urban poor and middle-class familie
   reside in informal settlements. As the country undergoes rapid urbanization, there
   is an urgent need to plan for these settlements to provide residents with access
   to basic amenities and services.
-Feature Image: "https://cdn.hotosm.org/website/ESA_Informal+SettlementsUganda1.jpeg"
+Feature Image: https://cdn.hotosm.org/website/ESA_Informal+SettlementsUganda1.jpeg
 Is Community-Led: true
 Country:
 - Uganda

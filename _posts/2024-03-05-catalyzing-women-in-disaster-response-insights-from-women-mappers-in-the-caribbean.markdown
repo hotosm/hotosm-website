@@ -7,7 +7,7 @@ Summary Text: Discover how women mappers in the Caribbean are leading the charge
   and expertise as they inspire and catalyze their communities in small island developing
   states. Explore the transformative impact of women-led projects shaping a stronger,
   more resilient future in this insightful blog.
-Feature Image: "https://cdn.hotosm.org/website/Women+Mappers+in+the+Caribbean+Blog.jpg"
+Feature Image: https://cdn.hotosm.org/website/Women+Mappers+in+the+Caribbean+Blog.jpg
 Person: Mariana Marín
 Country:
 - Trinidad and Tobago

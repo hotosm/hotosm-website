@@ -1,7 +1,7 @@
 ---
 title: Minhaz Mahmud Arko
 date: 2018-05-01 22:21:00 Z
-Photo: "https://cdn.hotosm.org/website/Minhaz+Mahmud+-+Minhaz+Mahmud.JPG"
+Photo: https://cdn.hotosm.org/website/Minhaz+Mahmud+-+Minhaz+Mahmud.JPG
 Member Type:
   Is Voting Member: true
 Country: Bangladesh

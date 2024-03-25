@@ -3,7 +3,7 @@ title: Mapping the Chepang Community
 date: 2023-05-16 21:41:00 Z
 Project Summary Text: Using OSM data to assess the needs of the Chepang community
   in Nepal
-Feature Image: "https://cdn.hotosm.org/website/AP_Chepang1.webp"
+Feature Image: https://cdn.hotosm.org/website/AP_Chepang1.webp
 Country:
 - Nepal
 Impact Area:

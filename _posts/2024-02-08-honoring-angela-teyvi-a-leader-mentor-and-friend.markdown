@@ -2,7 +2,7 @@
 title: Honoring Angela Teyvi, a Leader, Mentor, and Friend
 date: 2024-02-08 17:46:00 Z
 Summary Text: Today, I celebrate a leader, mentor, and a friend, Angela Teyvi.
-Feature Image: "https://cdn.hotosm.org/website/Teyvi1.jpg"
+Feature Image: https://cdn.hotosm.org/website/Teyvi1.jpg
 Person: Arnalie Vicario
 Working Group:
 - Community

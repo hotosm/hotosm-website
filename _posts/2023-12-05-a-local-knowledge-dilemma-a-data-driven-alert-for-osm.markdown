@@ -9,7 +9,7 @@ Summary Text: 'Our study reveals a trend in local knowledge contributions in Ope
   a small but dedicated number of local mappers, making up just about 3% of contributors
   who are in the area mapping, are responsible for approximately 75% of the detailed
   mapping contributions. '
-Feature Image: "https://cdn.hotosm.org/website/3-percent-77e7af.jpg"
+Feature Image: https://cdn.hotosm.org/website/3-percent-77e7af.jpg
 Person: Rubén Martín
 ---
 

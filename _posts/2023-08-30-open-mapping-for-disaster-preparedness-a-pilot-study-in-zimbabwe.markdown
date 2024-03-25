@@ -4,7 +4,7 @@ date: 2023-08-30 16:36:00 Z
 Summary Text: The Anticipatory Response Program (ARP), recently piloted in Zimbabwe,
   incorporates open mapping tools and workflows into disaster response and resilience
   efforts to move from a reactive to a proactive approach.
-Feature Image: "https://cdn.hotosm.org/website/CoverZimbabweARP.jpeg"
+Feature Image: https://cdn.hotosm.org/website/CoverZimbabweARP.jpeg
 Is image top aligned: false
 Person: Wilson Munyaradzi
 Country:

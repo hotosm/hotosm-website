@@ -8,7 +8,7 @@ Project Summary Text: Después de que el huracán Otis golpeó Acapulco, HOT tra
   la importancia de alinear el mapeo con las necesidades cambiantes de respuesta y
   reconstrucción. Iniciativas impulsadas por la comunidad, respaldadas por diversos
   actores, están abordando desafíos para una recuperación sostenible.
-Feature Image: "https://cdn.hotosm.org/website/Acapulco+-+Otis+-+Drone.png"
+Feature Image: https://cdn.hotosm.org/website/Acapulco+-+Otis+-+Drone.png
 Country:
 - Mexico
 Impact Area:

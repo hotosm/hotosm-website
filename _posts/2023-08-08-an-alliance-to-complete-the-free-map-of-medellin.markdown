@@ -17,7 +17,7 @@ tags:
 Summary Text: The Open Mapping Hub of Latin America and the Caribbean partnered with
   the Center for Studies with Populations, Mobilizations and Territories (POMOTE)
   to train civil society organizations in Medellín, Colombia in open mapping.
-Feature Image: "https://cdn.hotosm.org/website/Curso-Taller_Mapeo-web.png"
+Feature Image: https://cdn.hotosm.org/website/Curso-Taller_Mapeo-web.png
 Person: Juan Arellano Valdivia
 Country:
 - Colombia

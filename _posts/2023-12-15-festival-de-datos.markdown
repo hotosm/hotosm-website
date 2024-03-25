@@ -10,7 +10,7 @@ tags:
 Summary Text: El Festival de Datos realizado recientemente en Uruguay fue la oportunidad
   para que el Hub de Mapeo Abierto presentara ante organizaciones e instituciones
   las aplicaciones de la cartografía abierta y su enfoque humanitario.
-Feature Image: "https://cdn.hotosm.org/website/202311_Festival+Datos+Uruguay_closing+Session+Rebecca+Firth+03.jpg"
+Feature Image: https://cdn.hotosm.org/website/202311_Festival+Datos+Uruguay_closing+Session+Rebecca+Firth+03.jpg
 Person: Juan Arellano Valdivia
 ---
 

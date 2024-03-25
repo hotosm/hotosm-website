@@ -1,7 +1,7 @@
 ---
 title: Fighting Gender-Based Violence (GBV) using OpenSteetMap Tools in Western Uganda
 date: 2023-05-16 20:50:00 Z
-Feature Image: "https://cdn.hotosm.org/website/ESA_GBVUganda.jpeg"
+Feature Image: https://cdn.hotosm.org/website/ESA_GBVUganda.jpeg
 Is Community-Led: true
 Country:
 - Uganda

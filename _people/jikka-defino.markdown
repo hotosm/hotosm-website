@@ -1,7 +1,7 @@
 ---
 title: Jikka Defiño
 date: 2020-12-26 06:59:00 Z
-Photo: "https://cdn.hotosm.org/website/Jikka-Work-Photo+-+Copy+-+Jikka+Defi%C3%B1o.png"
+Photo: https://cdn.hotosm.org/website/Jikka-Work-Photo+-+Copy+-+Jikka+Defi%C3%B1o.png
 Member Type:
   Is Staff: false
   Is Voting Member: true

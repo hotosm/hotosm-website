@@ -5,7 +5,7 @@ tags:
 - tech
 Summary Text: We are very excited to announce that we will be working with NAXA, who
   will provide software development support for the evolution of the HOT Tasking Manager.
-Feature Image: "https://cdn.hotosm.org/website/Naxa+Tech+Collective+A.jpg"
+Feature Image: https://cdn.hotosm.org/website/Naxa+Tech+Collective+A.jpg
 Person:
 - Petya Kangalova
 - Ramya Ragupathy

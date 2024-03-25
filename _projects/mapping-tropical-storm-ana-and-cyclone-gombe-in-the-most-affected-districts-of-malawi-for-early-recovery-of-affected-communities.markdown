@@ -8,7 +8,7 @@ Project Summary Text: Tropical Storm Ana, which made landfall in Malawi on 24 Ja
   houses, road networks, hydroelectric power stations, schools, and health facilities,
   among others were destroyed. The districts of Salima, Chikwawa, and Nsanje were
   most affected by the cyclone.
-Feature Image: "https://cdn.hotosm.org/website/ESA_MappingStormsMalawi1.jpeg"
+Feature Image: https://cdn.hotosm.org/website/ESA_MappingStormsMalawi1.jpeg
 Country:
 - Malawi
 Impact Area:

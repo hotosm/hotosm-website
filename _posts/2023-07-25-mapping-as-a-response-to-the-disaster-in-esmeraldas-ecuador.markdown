@@ -9,7 +9,7 @@ tags:
 Summary Text: The LAC Open Mapping Hub supported the response efforts to the disaster
   caused by the floods in Esmeraldas, Ecuador in coordination with the Ecuadorian
   Risk Management Secretariat.
-Feature Image: "https://cdn.hotosm.org/website/inundacion+esmeraldas.jpg"
+Feature Image: https://cdn.hotosm.org/website/inundacion+esmeraldas.jpg
 Person:
 - Juan Melo Luna
 - Juan Arellano Valdivia

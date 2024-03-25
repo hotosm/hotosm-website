@@ -8,7 +8,7 @@ Summary Text: Collaboration and communication among key players are critical to 
   tools, such as the Field Mapping Tasking Manager (FMTM), can significantly enhance
   coordination and streamline communication among team members, improving field survey
   efforts and making them more efficient and accurate.
-Feature Image: "https://cdn.hotosm.org/website/FMTM-Monrovia.jpg"
+Feature Image: https://cdn.hotosm.org/website/FMTM-Monrovia.jpg
 Person: Ivan Buendía Gayton
 ---
 

@@ -4,7 +4,7 @@ date: 2023-05-16 21:08:00 Z
 Project Summary Text: |-
   Hay muchos proyectos que nunca avanzan por falta de apoyo
   ¿Cuáles pueden apoyarse y cómo?
-Feature Image: "https://cdn.hotosm.org/website/LAC_fabrica_1.jpeg"
+Feature Image: https://cdn.hotosm.org/website/LAC_fabrica_1.jpeg
 Country:
 - Peru
 Impact Area:

@@ -1,7 +1,7 @@
 ---
 title: Atikur Rahman
 date: 2023-10-30 01:25:00 Z
-Photo: "https://cdn.hotosm.org/website/Atikur_Rahman+-+Atikur+Rahman.jpg"
+Photo: https://cdn.hotosm.org/website/Atikur_Rahman+-+Atikur+Rahman.jpg
 Member Type:
   Is Voting Member: true
 Country: Bangladesh

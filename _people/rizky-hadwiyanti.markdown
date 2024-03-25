@@ -1,7 +1,7 @@
 ---
 title: Rizky Hadwiyanti
 date: 2023-09-07 16:20:00 Z
-Photo: "https://cdn.hotosm.org/website/rizky++-+Copy+-+Kiki+Hadwiyanti.jpg"
+Photo: https://cdn.hotosm.org/website/rizky++-+Copy+-+Kiki+Hadwiyanti.jpg
 Member Type:
   Is Voting Member: true
 Project:

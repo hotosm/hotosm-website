@@ -4,7 +4,7 @@ date: 2024-03-06 19:30:00 Z
 Project Summary Text: In this project, members of Feto Enginhera, women engineers
   of Timor-Leste, gained open mapping skills for resilience, which they communicated
   with different community members.
-Feature Image: "https://cdn.hotosm.org/website/SIDS-TimorLesteDataAnalysis.jpg"
+Feature Image: https://cdn.hotosm.org/website/SIDS-TimorLesteDataAnalysis.jpg
 Country:
 - Timor-Leste
 Impact Area:

@@ -2,7 +2,7 @@
 title: Open Mapping Mentorship
 date: 2023-10-10 12:43:00 Z
 Partner: Women+ in Geospatial (W+G) Mentorship Programme
-Feature Image: "https://cdn.hotosm.org/website/Mentorship_onboarding1_27May2023+(1).png"
+Feature Image: https://cdn.hotosm.org/website/Mentorship_onboarding1_27May2023+(1).png
 Impact Area:
 - Public Health
 - Gender Equality

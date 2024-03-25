@@ -1,7 +1,7 @@
 ---
 title: Shunnosuke Shimizu
 date: 2023-09-09 16:28:00 Z
-Photo: "https://cdn.hotosm.org/website/profile+-+Shunnosuke+Shimizu.jpeg"
+Photo: https://cdn.hotosm.org/website/profile+-+Shunnosuke+Shimizu.jpeg
 Member Type:
   Is Voting Member: true
 Social Media (Full URL):

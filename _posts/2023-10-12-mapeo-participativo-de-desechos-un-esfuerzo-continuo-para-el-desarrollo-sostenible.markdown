@@ -15,7 +15,7 @@ tags:
 Summary Text: Mapear los desechos en tu barrio puede ser una actividad simple a la
   vez que útil y beneficiosa para nuestro entorno urbano. Veamos como diversos equipos
   de mapeadores en América Latina y el Caribe lo han estado haciendo.
-Feature Image: "https://cdn.hotosm.org/website/olmmap.jpg"
+Feature Image: https://cdn.hotosm.org/website/olmmap.jpg
 Person:
 - Céline Jacquin
 - Juan Arellano Valdivia

@@ -1,7 +1,7 @@
 ---
 title: Louise Mathurin Serieux
 date: 2023-07-04 05:27:00 Z
-Photo: "https://cdn.hotosm.org/website/Screenshot+2023-07-04+at+08.40.07.png"
+Photo: https://cdn.hotosm.org/website/Screenshot+2023-07-04+at+08.40.07.png
 Member Type:
   Is Staff: true
   Is Voting Member: true

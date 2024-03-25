@@ -1,7 +1,7 @@
 ---
 title: Erick Mnyali
 date: 2023-08-29 21:52:00 Z
-Photo: "https://cdn.hotosm.org/website/Erick+Tamba+Mnyali+profile+pic+-+ERICK+TAMBA.png"
+Photo: https://cdn.hotosm.org/website/Erick+Tamba+Mnyali+profile+pic+-+ERICK+TAMBA.png
 Member Type:
   Is Voting Member: true
 Social Media (Full URL):

@@ -5,7 +5,7 @@ Summary Text: Each quarter, we’re featuring one of our all-star staff members 
   Staff Spotlight Series. Staff featured in this Series have been peer-nominated for
   their superb performance and values-driven work. This quarter, we’re spotlighting
   Nicole Siggins, Corporate Partnerships Lead on the Fundraising team.
-Feature Image: "https://cdn.hotosm.org/website/nicole-altona-map.jpeg"
+Feature Image: https://cdn.hotosm.org/website/nicole-altona-map.jpeg
 Is image top aligned: true
 Person: Dana Gallaty
 ---

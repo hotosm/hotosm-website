@@ -7,7 +7,7 @@ Project Summary Text: Los bosques de Guatemala proporcionan beneficios para la a
   de estos ecosistemas para su subsistencia. Este proyecto tiene como objetivo dotar
   a los habitantes de San José Poaquil, Chimaltenango, de habilidades para producir
   datos exhaustivos sobre su territorio.
-Feature Image: "https://cdn.hotosm.org/website/LAC_OpenCitiesGT_1.jpeg"
+Feature Image: https://cdn.hotosm.org/website/LAC_OpenCitiesGT_1.jpeg
 Country:
 - Guatemala
 Impact Area:
