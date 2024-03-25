@@ -11,7 +11,9 @@ Summary Text: Tras el huracán Otis en octubre de 2023, el Hub LAC lideró un ma
   mostrando el potencial de la colaboración interinstitucional en la construcción
   de resiliencia comunitaria.
 Feature Image: "/uploads/Otis%20Respuesta%20Mapeo%20Humanitario%20HOT.jpg"
-Person: Céline Jacquin
+Person:
+- Céline Jacquin
+- Mariana Marín
 Country:
 - Mexico
 Project:
