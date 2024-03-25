@@ -38,7 +38,7 @@ Esta estrategia tuvo como objetivo optimizar los recursos de mapeo y evitar la d
 
 En las semanas posteriores al desastre, se obtuvieron imágenes de drones sobre algunas áreas urbanas de Acapulco, proporcionadas por distintos actores como [Help.NGO](https://www.help.ngo/) y CENAPRED. Nos encargamos de guiarlos para que estas imágenes se subieran a [OpenAerialMap](https://openaerialmap.org/) y se integrarán al Tasking Manager, con el fin de mapear específicamente los edificios destruidos. Se crearon 17 proyectos para estas áreas, lo que permitió mapear un total de 22,537 estructuras.
 
-[![OVERPASS TURBO - ACAPULCO OTIS.jpg](/uploads/OVERPASS%20TURBO%20-%20ACAPULCO%20OTIS.jpg)](https://overpass-turbo.eu/map.html?Q=%2F%2F\+%40name\+Building\+Damage\+Query%0A%2F\*%0AThis\+has\+been\+generated\+by\+the\+overpass-turbo\+wizard.%0AThe\+original\+search\+was%3A%0A\*%2F%0A%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%2F%2F\+gather\+results%0A%28%0A\+\+%2F%2F\+query\+part\+for%3A\+%E2%80%9C%22destroyed%3Abuilding%22%3D\*%E2%80%9D%0A\+\+node%5B%22destroyed%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+way%5B%22destroyed%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+relation%5B%22destroyed%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+%2F%2F\+query\+part\+for%3A\+%E2%80%9C%22destroyed%3Abuilding%22%3D\*%E2%80%9D%0A\+\+node%5B%22damaged%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+way%5B%22damaged%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+relation%5B%22damaged%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A%29%3B%0A%2F%2F\+print\+results%0Aout\+body%3B%0A%3E%3B%0Aout\+skel\+qt%3B%7B%7Bdata%3Aoverpass%2Cserver%3D%2F%2Foverpass-api.de%2Fapi%2F%7D%7D)
+![OVERPASS TURBO - ACAPULCO OTIS.jpg](/uploads/OVERPASS%20TURBO%20-%20ACAPULCO%20OTIS.jpg)
 
 *Consulta el mapa de edificios daños en la API de Overpass usando este [enlace](https://overpass-turbo.eu/map.html?Q=%2F%2F\+%40name\+Building\+Damage\+Query%0A%2F\*%0AThis\+has\+been\+generated\+by\+the\+overpass-turbo\+wizard.%0AThe\+original\+search\+was%3A%0A\*%2F%0A%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%2F%2F\+gather\+results%0A%28%0A\+\+%2F%2F\+query\+part\+for%3A\+%E2%80%9C%22destroyed%3Abuilding%22%3D\*%E2%80%9D%0A\+\+node%5B%22destroyed%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+way%5B%22destroyed%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+relation%5B%22destroyed%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+%2F%2F\+query\+part\+for%3A\+%E2%80%9C%22destroyed%3Abuilding%22%3D\*%E2%80%9D%0A\+\+node%5B%22damaged%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+way%5B%22damaged%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+relation%5B%22damaged%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A%29%3B%0A%2F%2F\+print\+results%0Aout\+body%3B%0A%3E%3B%0Aout\+skel\+qt%3B%7B%7Bdata%3Aoverpass%2Cserver%3D%2F%2Foverpass-api.de%2Fapi%2F%7D%7D).*
 
@@ -48,7 +48,7 @@ Simultáneamente, establecimos una estrecha colaboración con actores locales, u
 
 > ![Céline Jacquin Otis Brigada YouthMappers.jpg](/uploads/Ce%CC%81line%20Jacquin%20Otis%20Brigada%20YouthMappers.jpg)
 
-Este esfuerzo conjunto, que involucró a más de 17 personas de cinco universidades mexicanas, nos permitió cartografiar:
+Este esfuerzo conjunto, que involucró a la comunidad OSM global, y el liderazgo proactivo de 17 personas de cinco universidades mexicanas, nos permitió cartografiar:
 
 ![Datos Otis.jpg](/uploads/Datos%20Otis.jpg)
 
@@ -93,13 +93,15 @@ El proceso de reconstrucción en Acapulco se vislumbra como una oportunidad para
 
 Agradecemos y reconocemos a todas las organizaciones e instituciones participantes en esta activación, cuyo esfuerzo conjunto ha sido fundamental para la reconstrucción de Acapulco.
 
-# **Organizaciones e Instituciones Participantes**
+# **Comunidades, Organizaciones e Instituciones Participantes**
 
 * Mapeo equipamiento y análisis de datos: 17 personas de 5 universidades de México (Universidad Autónoma Metropolitana Unidad Cuajimalpa, Universidad Autónoma del Estado de México, Universidad de Guanajuato, Universidad Autónoma de Ciudad Juárez (UACJ); Universidad Autónoma de Guerrero)
 
 * Mapeo y análisis de datos: coordinación por 3 profesores y 1 doctorante de UACJ, UAEMEX, UAGRO
 
-* Grupo interinstitucional para la reconstrucción de Acapulco: 45 personas: Proteccion Civil Guerrero; CENAPRED; Disaster Relief-Crisis Ready Harvard; CEMEFI; UNICEF México; Reforestamos México; CONABIO; UAEMEX; PNUD México; HELP-NGO, entre otros.
+* Grupo interinstitucional para la reconstrucción de Acapulco: 45 personas: Proteccion Civil Guerrero; CENAPRED; Disaster Relief-Crisis Ready Harvard; CEMEFI; UNICEF México; Reforestamos México; CONABIO; UAEMEX; PNUD México; HELP-NGO, entre otros
+
+* Comunidad OpenStreetMap Global
 
 # Fuentes
 
