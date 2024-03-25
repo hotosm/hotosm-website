@@ -1,6 +1,5 @@
 ---
 title: Using motorcycles to survey in Haiti
-date: 2013-05-28 14:59:00 Z
 permalink: updates/2013-05-28_using_motorcycles_to_survey_in_haiti
 Summary Text: As part of the CAP103 project, financed by USAID, being run in the North
   of Haiti right now we have started coordinating motorcycles for survey purposes.
@@ -13,8 +12,6 @@ Feature Image: "https://cdn.hotosm.org/website/9213832946_49c3d72231_k-76d6ed.jp
 Person: Brian Wolford
 Country:
 - Haiti
-Project:
-- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1369753162
 ---
 
