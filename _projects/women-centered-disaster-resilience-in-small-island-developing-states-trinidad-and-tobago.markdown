@@ -6,7 +6,7 @@ Project Summary Text: Female high-school students from Trinidad and Tobago were 
   on GIS concepts and applications, open mapping tools and techniques, risk management,
   and gender-based disaster resilience. They then mapped the flood-prone area around
   the school and created their own Dignity Bag for disaster preparedness.
-Feature Image: "/uploads/finaltalk.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/finaltalk.jpeg"
 Is image top aligned: false
 Country:
 - Trinidad and Tobago
@@ -43,13 +43,13 @@ For the implementation of the project, GISSTT collaborated with the Parvati Girl
 For the training phase, the WCDR in SIDS project team, comprised of GIS and disaster management professionals, developed a comprehensive and targeted curriculum covering basic GIS concepts and applications, open mapping tools and techniques, risk management, and gender-based disaster resilience concepts. Every Saturday from April 29th to June 3rd, the project team, comprising Rayna Sookdeo, Cassie Roopnarine, and Curmira Gulston, delivered 4.5-hour-long in-person lectures at the PGHC. Each week, the trainees completed the curriculum's modules via the Caribbean School of Data’s (CSOD) online Learning Management System (LMS). Their performance was monitored by the Project Lead via the CSOD’s off-platform dashboard.
 
 
-![teaching.jpeg](/uploads/teaching.jpeg)
+![teaching.jpeg](https://cdn.hotosm.org/website/teaching.jpeg)
 *Priya Harnarine, GISSTT's Projects and Special Initiatives Officer, guides two students from Parvati Girls Hindu College*
 
 
 After the training phase, the selected students had a 3-hour workshop to apply their local knowledge of Penal/Debe to identify and map infrastructure and available resources within the project area using [HOT’s Tasking Manager](https://tasks.hotosm.org/). GISSTT President Shane Ragbir introduced the project to the trainees and guided them through the mapping. He then led a data validation exercise to validate the mapped points. The trainees also performed a brief field mapping exercise. Once the workshop was completed, the students received a Dignity Bag for disaster preparedness, inspired by their proposed designs, which included several personal hygiene items like sanitary pads, panty liners, and deodorant.
 
-![bag.jpeg](/uploads/bag.jpeg)
+![bag.jpeg](https://cdn.hotosm.org/website/bag.jpeg)
 *Close up of a "Dignity Bag" that was given to the participants, based on their proposed designs*
 
 Upon conclusion of the Project, all trainees were made honorary Student Members of the GISSTT and can access information and resources to assist them in their School Based Assessments (SBAs) and future projects.
@@ -77,7 +77,7 @@ As a result of this project, there were:
 
 <p style="margin: 50px"><em>&mdash; Testimony from one of the trainees</em></p>
 
-![allparticipants.jpeg](/uploads/allparticipants.jpeg)
+![allparticipants.jpeg](https://cdn.hotosm.org/website/allparticipants.jpeg)
 *The GISSTT team poses along the students and faculty of Parvati Girls Hindu College*
 
 ## What Happens Next?
@@ -92,6 +92,6 @@ Moreover, GISSTT, our implementing partner for this project, identified several 
 
 * On-boarding for the chosen Learning Management System platform should be done earlier, and a test should be performed beforehand to ensure that there are no technical issues on either end.
 
-![jumping.jpeg](/uploads/jumping.jpeg)
+![jumping.jpeg](https://cdn.hotosm.org/website/jumping.jpeg)
 
 *Photos by The GIS Society of Trinidad and Tobago (GISSTT)*

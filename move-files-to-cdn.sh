@@ -6,6 +6,7 @@
 ####################################################################
 
 DIR=${0%/*}
+echo $DIR
 
 # set -x
 
@@ -21,11 +22,11 @@ do
 	FNAMEAWS=${FNAME// /+}                          # image+name.jpg
 	OUTDIR=$DIR/uploads_archive/
 
-	echo "Processing $FNOSPACE file..."
+	echo "Processing $FNAME file..."
 	# step 1: find every reference to that file
 	# step 2: if the same file exists on the cdn, replace it with the CDN URI
 	# step 3: mark the file for manual deletion by moving it to an archive folder
-	aws s3api head-object --bucket hotosm-cdn --key "website/$FNAME" || not_exist=true # fast way to check file exists on s3
+	aws s3api head-object --bucket hotosm-cdn --key "website/$FNAME" --profile admin || not_exist=true # fast way to check file exists on s3
 	if [ $not_exist ]; then
 		echo "it does not exist on s3"
 	else
@@ -44,6 +45,6 @@ do
 			echo "could not find reference in any file"
 		fi
 		# move the file to an untracked archive (eg delete from git tracking). enable when everything else is working
-		mv $f $OUTDIR/$FNAME
+		# mv $f $OUTDIR/$FNAME
 	fi
 done

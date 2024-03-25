@@ -5,7 +5,7 @@ tags:
 - climate resilience
 - red cross climate centre
 - disaster response
-Feature Image: "/uploads/pexels-google-deepmind-17485678.jpg"
+Feature Image: "https://cdn.hotosm.org/website/pexels-google-deepmind-17485678.jpg"
 Person:
 - Cornelia Scholz
 - Jessica Pechmann

@@ -56,14 +56,14 @@ As we dive deep into our mapping, our team believes that this project will benef
 
 **The story so far** ....
 
-![ecs-project.jpg](/uploads/ecs-project.jpg)
+![ecs-project.jpg](https://cdn.hotosm.org/website/ecs-project.jpg)
 
 **" All thanks to OSM team, WNAH, and HOT, youths like us are contributing to providing data and information for the humanitarian response for humanity's sake!"** - Abdulazzez Jimoh, ESC Validator, Maiduguri, Northeastern Nigeria.
 
 **“It benefited me in several ways. First, it allows me to develop and enhance my mapping skills, which can be valuable. Secondly, being involved in a meaningful project like this provides a sense of fulfillment and purpose, knowing that my efforts are making a positive impact on vulnerable communities. Lastly, humanitarian mapping often involves collaboration with diverse individuals and organizations, allowing me to network, learn from others, and expand my professional connections. It's a win-win situation where you can contribute to a greater cause while gaining personal and professional growth”** - Jennifer Apagu, ESC Mapper.
 
 
-![esc-mapping.jpg](/uploads/esc-mapping.jpg)
+![esc-mapping.jpg](https://cdn.hotosm.org/website/esc-mapping.jpg)
 
 
-![ecs-close.jpg](/uploads/ecs-close.jpg)
+![ecs-close.jpg](https://cdn.hotosm.org/website/ecs-close.jpg)

@@ -14,7 +14,7 @@ Summary Text: Les contamos como el Hub LAC, aliado con la Secretaría de Desarro
   Agrario, Territorial y Urbano de México acompañó a un grupo de municipios para crear
   datos abiertos geoespaciales bajo OpenStreetMap y así poder construir cartografías
   temáticas.
-Feature Image: "/uploads/sedatu1.png"
+Feature Image: "https://cdn.hotosm.org/website/sedatu1.png"
 Person: Celine Jacquin
 Country:
 - Mexico
@@ -36,7 +36,7 @@ Pero el éxito de la integración de los datos colaborativos en los gobiernos lo
 
 Se formó entonces un grupo de 15 municipios a quienes se reforzó la capacitación previa, se les llevó a generar datos tanto de forma remota como en sitio sobre su territorio y finalmente se les enseñó la extracción y uso de esa información, además de la construcción de cartografías temáticas.
 
-![sedatu2.png](/uploads/sedatu2.png)
+![sedatu2.png](https://cdn.hotosm.org/website/sedatu2.png)
 
 *Mapa de calor de la zona de mapeo. Fuente: Where did you contribute to OSM? Web*
 

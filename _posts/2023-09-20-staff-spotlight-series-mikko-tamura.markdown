@@ -5,7 +5,7 @@ Summary Text: Each quarter, we’re featuring one of our all-star staff members 
   Staff Spotlight Series. Staff featured in this Series have been peer-nominated for
   their superb performance and values-driven work. This quarter, we’re spotlighting
   Mikko Tamura, Community Manager at the Asia-Pacific (AP) Hub.
-Feature Image: "/uploads/76726014_10158909212068222_6785901568647495680_n.jpg"
+Feature Image: "https://cdn.hotosm.org/website/76726014_10158909212068222_6785901568647495680_n.jpg"
 Person: Dana Gallaty
 ---
 
@@ -21,7 +21,7 @@ I think the best thing about my colleagues is that they have built a strong sens
 
 I owe where I am here right now to these OSM PH  community members - Maning Sambale, David Garcia, Andi Tabinas, Feye Andal, Eugene Villar, and Arnalie Vicario. 
 
-![315435278_10162105475383222_7121057167382639731_n.jpg](/uploads/315435278_10162105475383222_7121057167382639731_n.jpg)
+![315435278_10162105475383222_7121057167382639731_n.jpg](https://cdn.hotosm.org/website/315435278_10162105475383222_7121057167382639731_n.jpg)
 *Mikko has been actively contributing to OpenStreetMap since 2014. He is also the founder of MapBeks - an online community of mappers advocating for LGBT representation and inclusion on OSM.*
 
 ## What is your current role at HOT, and how has it evolved? 

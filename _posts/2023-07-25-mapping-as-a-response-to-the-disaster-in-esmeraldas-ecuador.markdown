@@ -9,7 +9,7 @@ tags:
 Summary Text: The LAC Open Mapping Hub supported the response efforts to the disaster
   caused by the floods in Esmeraldas, Ecuador in coordination with the Ecuadorian
   Risk Management Secretariat.
-Feature Image: "/uploads/inundacion%20esmeraldas.jpg"
+Feature Image: "https://cdn.hotosm.org/website/inundacion+esmeraldas.jpg"
 Person:
 - Juan Melo Luna
 - Juan Arellano Valdivia
@@ -33,13 +33,13 @@ In the case of Esmeraldas, it was decided to generate specific projects through 
 
 * the layer with the parishes affected by the emergency
 
-![3 en 1.jpg](/uploads/3%20en%201.jpg)
+![3 en 1.jpg](https://cdn.hotosm.org/website/3+en+1.jpg)
 
 *- Flooding points in Esmeraldas - Susceptibility map of the region - Affected Parishes*
 
 In order to determine the priority areas that require more attention from the authorities and that need an updated cartography, the largest number of variables were analyzed that would allow a clearer concept of the areas that could be at risk.In this sense, three main elements were determined;the proximity to flooding points, the proximity to populated centers and the degree of susceptibility to flooding.
 
-![4.jpg](/uploads/4.jpg)
+![4.jpg](https://cdn.hotosm.org/website/4.jpg)
 
 *Populated centers of the region*
 
@@ -51,7 +51,7 @@ Taking the three previously mentioned variables as a reference, we proceeded to:
 
 * Determine the areas in which the three variables intervened critically.
 
-![5.jpg](/uploads/5.jpg)
+![5.jpg](https://cdn.hotosm.org/website/5.jpg)
 
 *Defined areas for projects within the TM*
 
@@ -59,13 +59,13 @@ These areas were the ones that were finally used to create the mapping tasks in 
 
 With the first group of tasks ready to be worked on as of June 8, we began to spread them through our social networks. ([Instagram](https://www.instagram.com/p/CtR2Vm-uydP/?img_index=1), [Twitter](https://twitter.com/mapeoabierto_la/status/1667174214518841347), [Facebook](https://www.facebook.com/permalink.php?story_fbid=580064027634034&id=100068913258326)) summoning mappers and validators from all over the world to collaborate with the [mapping for Esmeraldas](https://tasks.hotosm.org/explore?text=ECUADOR%3A\+FLOODS).
 
-![esmeraldasTM.jpg](/uploads/esmeraldasTM.jpg)
+![esmeraldasTM.jpg](https://cdn.hotosm.org/website/esmeraldasTM.jpg)
 
 **Results obtained so far**
 
 Being 45 days after the emergency mapping work began, these are the results in what corresponds to the ten projects created:
 
-![stats esmeraldas.jpg](/uploads/stats%20esmeraldas.jpg)
+![stats esmeraldas.jpg](https://cdn.hotosm.org/website/stats+esmeraldas.jpg)
 
 In summary, by mid-July, seven of the ten projects were already 100% complete for a total project progress of 92% (mapping and validation).Up to now, 498 kilometers of roads and 25,765 buildings have been mapped.
 

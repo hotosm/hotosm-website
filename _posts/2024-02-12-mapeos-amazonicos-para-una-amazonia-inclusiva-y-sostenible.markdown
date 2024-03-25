@@ -19,7 +19,7 @@ Country:
 
 Pocas cosas representan tan icónicamente a una región como la Amazonia: ocho países comparten el cuidado de una superficie donde se encuentra el 20% de las reservas de agua dulce a nivel mundial. La diversidad, riqueza y potencial de desarrollo de esta región es fuente de esperanza para las comunidades que allí la habitan, así como fuente de conflictos y desafíos  comunes a  la región y el mundo. Aquí nos encontramos con situaciones que ponen en riesgo la biodiversidad, la subsistencia y la seguridad de las comunidades locales. La deforestación, el cambio climático y las presiones económicas han generado un panorama complejo que demanda comprensión y acción.
 
-![Amazon river in Brazil.jpg](/uploads/Amazon%20river%20in%20Brazil.jpg)
+![Amazon river in Brazil.jpg](https://cdn.hotosm.org/website/Amazon+river+in+Brazil.jpg)
 
 
 Es crucial reconocer que la preservación, restauración y sostenibilidad de la región amazónica no solo es vital para América Latina, sino que también representa un desafío crítico a escala global en la lucha contra el cambio climático. La Amazonía es hogar de comunidades cuya supervivencia está estrechamente ligada a la selva tropical. La selva es un ecosistema integrado y los seres humanos son parte del mismo, pudiendo su actividad favorecer al desarrollo sostenible del mundo, o contribuir a su desaparición.
@@ -92,7 +92,7 @@ Además de los mapeos detallados de zonas pobladas en el Tasking Manager, hemos 
 > ### **Invitamos a toda persona que quiera contribuir mapeando desde su celular en momentos libres a instalar la aplicación [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US) y buscar allí los proyectos amazónicos.**
 
 ## **Proyectos Comunitarios en Desarrollo**
-![Johnattan Rupire - Mapeos Amazonicos.png](/uploads/Johnattan%20Rupire%20-%20Mapeos%20Amazonicos.png)
+![Johnattan Rupire - Mapeos Amazonicos.png](https://cdn.hotosm.org/website/Johnattan+Rupire+-+Mapeos+Amazonicos.png)
 
 Además del mapeo remoto de la Amazonía realizado por las comunidades globales de OSM en colaboración con otras organizaciones, estamos llevando a cabo varios proyectos comunitarios con aliados locales.
 

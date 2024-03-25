@@ -16,7 +16,7 @@ block-1:
     management, risk reduction, and resilient and sustainable practices that center
     their concerns. '
   Action-text: 'Impact area: Gender Equality'
-  Image: "/uploads/Girls-Peru-4.jpg"
+  Image: "https://cdn.hotosm.org/website/Girls-Peru-4.jpg"
   Link: "/impact-areas/gender-equality/"
 block-2:
   Title: HOT's role
@@ -25,13 +25,13 @@ block-2:
     looking to promote gender equality, here at HOT we are uniquely positioned to
     **act as a catalyst and connect both sides to make sure the that the goals of
     all parts are achieved**. '
-  Image: "/uploads/LAC_OpenCitiesGT_8.webp"
+  Image: "https://cdn.hotosm.org/website/LAC_OpenCitiesGT_8.webp"
   Link: https://www.hotosm.org/living-strategy
   Action-text: Learn about our **Living Strategy**
-funding-model-image: "/uploads/GenderEqualityFundingModel2.png"
+funding-model-image: "https://cdn.hotosm.org/website/GenderEqualityFundingModel2.png"
 fund-map:
   Title: Sample of HOT's Gender Equality projects
-  Image: "/uploads/Artboard%201@4x.png"
+  Image: "https://cdn.hotosm.org/website/Artboard+1@4x.png"
 layout: Funds
 ---
 

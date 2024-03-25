@@ -10,7 +10,7 @@ Working Group:
 ---
 
 # Board Election Results from the 2023 Annual Meeting
-![board2023.png](/uploads/board2023.png)
+![board2023.png](https://cdn.hotosm.org/website/board2023.png)
 
 We are happy to welcome again three (3) returning board members:
 * [Kuo-Yu slayer Chuang](https://www.hotosm.org/people/kuo-yu-slayer-chuang/)
@@ -27,7 +27,7 @@ Full election results can be found on the [Election Wiki Page](https://wiki.open
 Vacant seats for HOT’s Board of Directors are elected by the Voting Membership, if you are interested in joining HOT’s Voting Membership and taking an active role in the organization’s governance, please reach out to a current [Voting Member](https://www.hotosm.org/voting-members).
 
 # HOT Voting Membership Welcome 38 New Members
-![2023(1).png](/uploads/2023(1).png)
+![2023(1).png](https://cdn.hotosm.org/website/2023(1).png)
 
 We are happy to announce that **38  new members** have been elected to HOT’s Voting Membership (VM)! HOT’s Voting Membership has grown to 299 members from all across the globe. Our Female:Male ratio was previously 28.6% female and is now at 32.8%
 

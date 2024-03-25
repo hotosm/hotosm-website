@@ -1,7 +1,7 @@
 ---
 title: Raja Siregar
 date: 2024-01-04 10:18:00 Z
-Photo: "/uploads/foto%20profil_P_Raja%20Siregar-7a4b05.jpeg"
+Photo: "https://cdn.hotosm.org/website/foto+profil_P_Raja+Siregar-7a4b05.jpeg"
 Member Type:
   Is Staff: true
 Job Title: Disaster Services and Climate Resilience Specialist - Asia Pacific Hub

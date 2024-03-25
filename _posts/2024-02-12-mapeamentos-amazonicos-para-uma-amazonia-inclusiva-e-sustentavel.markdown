@@ -19,7 +19,7 @@ Country:
 
 Poucas coisas representam tão iconicamente uma região quanto a Amazônia: oito países compartilham a responsabilidade de cuidar de uma área que abriga 20% das reservas de água doce do mundo. A diversidade, riqueza e potencial de desenvolvimento desta região são fontes de esperança para as comunidades que lá vivem, mas também trazem consigo conflitos e desafios comuns à região e ao mundo. Aqui nos deparamos com situações que colocam em risco a biodiversidade, a subsistência e a segurança das comunidades locais. O desmatamento, as mudanças climáticas e as pressões econômicas têm gerado um panorama complexo que exige compreensão e ação.
 
-![Amazon river in Brazil.jpg](/uploads/Amazon%20river%20in%20Brazil.jpg)
+![Amazon river in Brazil.jpg](https://cdn.hotosm.org/website/Amazon+river+in+Brazil.jpg)
 
 
 É crucial reconhecer que a preservação, restauração e sustentabilidade da região amazônica não são apenas vitais para a América Latina, mas também representam um desafio crítico em escala global na luta contra as mudanças climáticas. A Amazônia é o lar de comunidades cuja sobrevivência está intimamente ligada à floresta tropical. A floresta é um ecossistema integrado e os seres humanos fazem parte dele, podendo sua atividade contribuir para o desenvolvimento sustentável do mundo ou para sua destruição.
@@ -93,7 +93,7 @@ Além dos mapeamentos detalhados de áreas povoadas no Tasking Manager, abrimos 
 > ### **Convidamos qualquer pessoa que queira contribuir mapeando em seu celular nos momentos livres a instalar o aplicativo [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US) e buscar lá os projetos amazônicos.**
 
 ## **Projetos Comunitários em Desenvolvimento**
-![Johnattan Rupire - Mapeos Amazonicos.png](/uploads/Johnattan%20Rupire%20-%20Mapeos%20Amazonicos.png)
+![Johnattan Rupire - Mapeos Amazonicos.png](https://cdn.hotosm.org/website/Johnattan+Rupire+-+Mapeos+Amazonicos.png)
 
 
 Além do mapeamento remoto da Amazônia realizado pelas comunidades globais de OSM em colaboração com outras organizações, estamos conduzindo vários projetos comunitários com aliados locais.

@@ -1,7 +1,7 @@
 ---
 title: Bernard Heng
 date: 2023-12-06 09:00:00 Z
-Photo: "/uploads/2023_Heng_Bernard_Picture.jpg"
+Photo: "https://cdn.hotosm.org/website/2023_Heng_Bernard_Picture.jpg"
 Member Type:
   Is Staff: true
 Job Title: Program Associate - Asia Pacific Hub

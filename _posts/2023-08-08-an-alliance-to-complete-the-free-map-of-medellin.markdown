@@ -17,7 +17,7 @@ tags:
 Summary Text: The Open Mapping Hub of Latin America and the Caribbean partnered with
   the Center for Studies with Populations, Mobilizations and Territories (POMOTE)
   to train civil society organizations in Medellín, Colombia in open mapping.
-Feature Image: "/uploads/Curso-Taller_Mapeo-web.png"
+Feature Image: "https://cdn.hotosm.org/website/Curso-Taller_Mapeo-web.png"
 Person: Juan Arellano Valdivia
 Country:
 - Colombia
@@ -31,7 +31,7 @@ Considering this experience in working with grassroots communities, the Open Map
 
 > The workshops proposal seeks to promote the use of new technologies, and free and collaborative tools as resources that can contribute to the recognition of experiences and territorial processes in the city of Medellín and the Metropolitan Area, especially in the territories of the peripheries of the city in which social processes and social transformation are energized.
 
-![Pomote.jpg](/uploads/Pomote.jpg)
+![Pomote.jpg](https://cdn.hotosm.org/website/Pomote.jpg)
 
 *POMOTE - Study Center. Social Narratives Collaboratory. "Mapping of peace experiences".*
 
@@ -55,7 +55,7 @@ He also adds:
 
 > For the processes participating in the Course-Workshop, this experience will be fundamental, since it will allow them to complement, consolidate and communicate in digital environments cartographic initiatives that organizations have already been carrying out in claiming areas such as the right to territory, the construction of territorial peace, the community risk management, gender-based violence, social mobilization initiatives in defense of the territory, recognition of processes and initiatives of girls, boys, youth, women, sexual diversities, among other areas that emerge from the first diagnosis of mapping needs carried out in the opening meeting.
 
-![tallercollage.jpg](/uploads/tallercollage.jpg)
+![tallercollage.jpg](https://cdn.hotosm.org/website/tallercollage.jpg)
 
 In the next sessions of the workshop, with the support of members of the Youthmappers Chapters of the [UDEA](https://www.instagram.com/semillerogeolabudea/) and [UNAL](https://www.instagram.com/sagema_unal/) Universities, the participants will begin to delve into the world of digital cartography and outline what will be their own open mapping projects according to the identified needs in their communities. These projects will be socialized at the end of the cycle of workshops.
 

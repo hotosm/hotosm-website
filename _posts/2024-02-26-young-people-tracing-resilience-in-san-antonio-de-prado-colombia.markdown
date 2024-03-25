@@ -5,7 +5,7 @@ Summary Text: Discover the impactful volunteer work of Ana Restrepo and a group 
   young people in San Antonio de Prado, Colombia. Their focus on collaborative mapping
   not only identifies areas of risk but also promotes citizen participation and demonstrates
   how youth and mapping tools can drive significant social change.
-Feature Image: "/uploads/Ana%20Restrepo%20-%20San%20Antonio%20de%20Prado.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Ana+Restrepo+-+San+Antonio+de+Prado.jpg"
 Person: Mariana Marín
 Country:
 - Colombia
@@ -15,14 +15,14 @@ Project:
 
 Outside of Medellín, Colombia, lies the township of San Antonio de Prado. This place, surrounded by hills and forests, stands out for its combination of nature and urban life. However, the community living there faces a significant challenge: landslides threaten their safety and well-being. The mountainous topography and intense regional rainfall create conditions conducive to soil erosion and landslide occurrences, putting the safety and welfare of the community at risk.
 
-![San Antonio de Prado - Mapeo HOT 1.jpg](/uploads/San%20Antonio%20de%20Prado%20-%20Mapeo%20HOT%201.jpg)
+![San Antonio de Prado - Mapeo HOT 1.jpg](https://cdn.hotosm.org/website/San+Antonio+de+Prado+-+Mapeo+HOT+1.jpg)
 
 In this context, we meet Ana Carolina Restrepo, a 20-year-old Environmental Sciences student born in San Antonio de Prado. Her vision of life is determined and proactive. Her learning in community mapping tools has been her guide. Together with a team of young people belonging to [YouthMappers](https://www.youthmappers.org/), she has undertaken a project that goes beyond simply mapping risk zones; their goal is to actively involve the community to ensure that their needs are reflected in the decisions made.
 
 In our conversation with Ana, we explore her motivations and how social impact mapping becomes a tangible expression of resilience to contribute to her community in the face of the constant threat of landslides.
 
 # GETTING TO KNOW ANA RESTREPO: YOUTH LEADER
-![EN - Ana Carolina Restrepo.jpg](/uploads/EN%20-%20Ana%20Carolina%20Restrepo.jpg)
+![EN - Ana Carolina Restrepo.jpg](https://cdn.hotosm.org/website/EN+-+Ana+Carolina+Restrepo.jpg)
 
 ## **—Who is Ana?**
 > —I am an independent 20-year-old with clear goals and projects. I am always looking for actions that impact my community. I love to talk, have coffee, and relate to my surroundings. I am a leader, participating in projects where I try to be a supportive, listening, and collaborative person. Since I have been living alone for a long time, I consider that I have learned to adapt. Currently, I am studying Environmental Sciences at the ITM University and working in my free time.
@@ -30,7 +30,7 @@ In our conversation with Ana, we explore her motivations and how social impact m
 When Ana recounts her introduction to the world of environmental sciences, she shares how her choice of this career was influenced by her social sciences teacher, who was also a geologist. In one of her classes, the teacher spoke to them about the composition of the Earth, a topic that captivated Ana from the start. Initially, her aspiration was to study geological engineering, but she eventually opted for environmental sciences. This career provided her with the opportunity to unite her two great passions: research and education. What motivates her the most is the possibility of teaching and contributing to significant projects. Ana found in environmental sciences the perfect balance between her interests and her desire to make a difference in the world.
 
 # SAN ANTONIO DE PRADO: A PORTRAIT BETWEEN MOUNTAINS AND LANDSLIDES
-![EN - Deslizamientos 2022 - San Antonio de Prado.jpg](/uploads/EN%20-%20Deslizamientos%202022%20-%20San%20Antonio%20de%20Prado.jpg)
+![EN - Deslizamientos 2022 - San Antonio de Prado.jpg](https://cdn.hotosm.org/website/EN+-+Deslizamientos+2022+-+San+Antonio+de+Prado.jpg)
 
 With this background, Ana offers us a vision of her community, San Antonio de Prado. On the map, it is shown as an area with predominantly mountainous topography, creating a vertical landscape. Surrounded by mountains, lagoons, and rivers, Ana highlights the natural beauty that surrounds them. Her enthusiasm shines through when she mentions the Doña María Creek, the main watershed of the township that is essential for the production and supply of drinking water. Despite concerns about occasional overflows, this creek is a constant presence in the community's life and an invaluable source of natural resources.
 
@@ -61,7 +61,7 @@ Ana is now more immersed in the social life of the township, openly sharing abou
 
 
 # THE FUTURE OF COMMUNITY MAPPING IN SAN ANTONIO DE PRADO
-![EN - Mapeo Participativo - San Antonio de Prado.jpg](/uploads/EN%20-%20Mapeo%20Participativo%20-%20San%20Antonio%20de%20Prado.jpg)
+![EN - Mapeo Participativo - San Antonio de Prado.jpg](https://cdn.hotosm.org/website/EN+-+Mapeo+Participativo+-+San+Antonio+de+Prado.jpg)
 
 ## **—What impact has it had on your community?**
 > —The community has been so vulnerable and distant, mainly because we have been very distant from the municipality. People often put all the responsibility on the project. So when we have social gatherings, they want to involve everything in the project. They are looking for a way to release all those concerns or discomforts they have, and that no one has really listened to. That's what has impacted the community. Yes, these days I met environmental leaders. There was a girl who offered to collaborate with me. She told me she could help by knowing the township, observing the vulnerabilities and disasters we have had. She made herself available to help; she is a biologist and is involved in many environmental issues.
@@ -69,7 +69,7 @@ Ana is now more immersed in the social life of the township, openly sharing abou
 The presentation of the project to the community marked a significant milestone. The contributions flowing to the community symbolize the culmination of the project, giving the residents of San Antonio Prado a tangible understanding of the collaboration they have forged. The participatory and collaborative mapping tool becomes a valuable legacy for the community, granting them the freedom to use it according to their needs and contributions. It has become an ingrained resource that will always remain accessible to them. This asset, already integrated into community consciousness, offers the certainty of being able to take it up again in the future. What excites Ana is that this project does not have a definitive end; it is rooted in reality. The possibility of taking it up again in the future remains latent, allowing for continued support and improvement of the community, as well as addressing any challenges that may arise.
 
 # WHAT'S NEXT IN COMMUNITY MAPPING IN SAN ANTONIO DE PRADO
-![EN - Ana - Mapeo Comunitario en San Antonio de Prado.jpg](/uploads/EN%20-%20Ana%20-%20Mapeo%20Comunitario%20en%20San%20Antonio%20de%20Prado.jpg)
+![EN - Ana - Mapeo Comunitario en San Antonio de Prado.jpg](https://cdn.hotosm.org/website/EN+-+Ana+-+Mapeo+Comunitario+en+San+Antonio+de+Prado.jpg)
 
 ## **—Ana, what's next for you?**
 > —I am getting involved in another chapter or project. I signed up for a call for another participatory mapping project from the Latin America and Caribbean Hub. For the community, I want this project not to end. I want it to continue, to give it continuity, to have another more concise analysis, and to make ourselves visible at the municipal level.

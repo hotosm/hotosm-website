@@ -13,17 +13,17 @@ tags:
 Summary Text: The island of Saint Lucia faces growing challenges due to climate change
   and, working with our local partners, we experienced first-hand how strengthening
   the community builds greater resilience. Get more details in this post!
-Feature Image: "/uploads/IMG_20220711_112005.jpg"
+Feature Image: "https://cdn.hotosm.org/website/IMG_20220711_112005.jpg"
 Person: Louise Mathurin Serieux
 ---
 
-The focus of the [OpenCities Project Saint Lucia](https://www.hotosm.org/open-cities-saint-lucia.html) was mapping areas most vulnerable to floods and landslides and [building resilience](https://thevoiceslu.com/2022/01/digital-crowd-sourced-mapping-to-kick-off-in-saint-lucia/) in communities such as unplanned settlements in high flood zones. However, when taking a closer look at the project, one would see its impact beyond “just mapping”, and specifically with regards to the strengthening of the mapping community on the island. This blogpost provides highlights of how this project impacted the open mapping landscape, for further details please go to the [Impact Report](https://www.hotosm.org/uploads/Open%20Cities_Impact%20Report_SaintLucia.pdf).
+The focus of the [OpenCities Project Saint Lucia](https://www.hotosm.org/open-cities-saint-lucia.html) was mapping areas most vulnerable to floods and landslides and [building resilience](https://thevoiceslu.com/2022/01/digital-crowd-sourced-mapping-to-kick-off-in-saint-lucia/) in communities such as unplanned settlements in high flood zones. However, when taking a closer look at the project, one would see its impact beyond “just mapping”, and specifically with regards to the strengthening of the mapping community on the island. This blogpost provides highlights of how this project impacted the open mapping landscape, for further details please go to the [Impact Report](https://www.hotosm.orghttps://cdn.hotosm.org/website/Open+Cities_Impact+Report_SaintLucia.pdf).
 
 ***Mapping for Resilience***
 
 The Caribbean island of [Saint Lucia](https://www.hotosm.org/where-we-work/saint-lucia/) is generally known for its natural beauty and vibrant culture. However, in the backdrop of climate change and the island's inherent susceptibility to disasters, the livelihoods and environment is at increasing risk. Saint Lucia's vulnerability to these environmental threats has raised critical concerns regarding the resilience of its communities.
 
-![Community Meeting in Bexon Saint Lucia.jpg](/uploads/Community%20Meeting%20in%20Bexon%20Saint%20Lucia.jpg)
+![Community Meeting in Bexon Saint Lucia.jpg](https://cdn.hotosm.org/website/Community+Meeting+in+Bexon+Saint+Lucia.jpg)
 
 In response to these challenges, the project focused on supporting communities in mitigating the impacts of these hazards through the enhancement of the use of geospatial data. Working closely with local partners; the focus communities of [Bexon, Castries](https://www.openstreetmap.org/node/6335688485) and La Ressource, Vieux-Fort were mapped both remotely and through field mapping exercises. There was an intense focus on [training sessions](https://www.govt.lc/news/disaster-resilience-partners-participate-in-field-mapping-training) towards ensuring that the cadre of volunteers and partners did not only have the capacity to map; but to also utilize that knowledge in planning and executing as it related to disaster response.
 
@@ -40,7 +40,7 @@ The aim was to ensure sustainability by empowering stakeholder agencies to enhan
 
 * 4: Development and presentation
 
-![IMG_20220710_130040.jpg](/uploads/IMG_20220710_130040.jpg)
+![IMG_20220710_130040.jpg](https://cdn.hotosm.org/website/IMG_20220710_130040.jpg)
 
 ***Building Community and Stronger Response Agencies***
 
@@ -50,13 +50,13 @@ They were then able to gain the networking opportunities that came with the HOT 
 
 The sustainability of this boost is also reflected in the global partnerships facilitated during the project such as the MOUs with the local Youth Emergency Action Committees(YEAC) and the Saint Lucia Red Cross. And is also shown in the [potential strengthening](https://www.youtube.com/watch?v=8Hmp6DhZr0g) of response agencies through the use of the DVDAT tool - which was designed and developed in phases 3 and 4 of the project.  Not only does it serve as a basis for more efficient collection and sharing of data on disasters; but is an opportunity for improved data sharing between response agencies in Saint Lucia.
 
-![Field Mapping in La Ressource Saint Lucia.jpg](/uploads/Field%20Mapping%20in%20La%20Ressource%20Saint%20Lucia.jpg)
+![Field Mapping in La Ressource Saint Lucia.jpg](https://cdn.hotosm.org/website/Field+Mapping+in+La+Ressource+Saint+Lucia.jpg)
 
 ***Project impact***
 
 The project involved 135 new participants (44% of whom were women), engaged with 3 public institutions. In addition, 24,035 new features were added on the map, 11,159 buildings and 381 km of roads were mapped, impacting approximately 81,279 people.
 
-More details provided in the [Impact Report](https://www.hotosm.org/uploads/Open%20Cities_Impact%20Report_SaintLucia.pdf).
+More details provided in the [Impact Report](https://www.hotosm.orghttps://cdn.hotosm.org/website/Open+Cities_Impact+Report_SaintLucia.pdf).
 
 This would not had been possible without our partners: [Swiss Re Foundation](https://www.swissrefoundation.org/), [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/en), [Caritas Antilles](https://www.caritas.org/where-caritas-work/latin-america/antilles/), [Saint Lucia Red Cross](https://www.saintluciaredcross.org/), [Youth Emergency Action Committees of Saint Lucia (YEAC)](https://www.facebook.com/YEACSLU), [OSM Saint Lucia](https://wiki.openstreetmap.org/wiki/WikiProject_Saint_Lucia).
 

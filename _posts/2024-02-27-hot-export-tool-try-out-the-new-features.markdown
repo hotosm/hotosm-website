@@ -8,7 +8,7 @@ Summary Text: 'OpenStreetMap (OSM) is more than the basemap you see on osm.org o
   spatial data with systemized tagging that translates into attributes in GIS systems.
   For data analysts and cartographers who want to access datasets from OSM for use
   in QGIS or other similar applications, HOT’s export tool just got much more helpful! '
-Feature Image: "/uploads/Export%20Lead.png"
+Feature Image: "https://cdn.hotosm.org/website/Export+Lead.png"
 Is image top aligned: true
 Person: Kshitij Sharma
 Working Group:
@@ -33,32 +33,32 @@ We have also explained all the updates below with screenshots.
 
 The Export tool updates introduce a new feature allowing users to download all available OSM features within the area. You can utilize this Download all OSM data checkbox listed in the Data tab. This will include all tags in the attributes, allowing you to filter the data you need or create a basemap out of exported features.
 
-![Export 1.png](/uploads/Export%201.png)
+![Export 1.png](https://cdn.hotosm.org/website/Export+1.png)
 
 
 **3. Get HOT Tasking Manager project boundary on export tool**
 
 Now, the Export Tool can support Tasking Manager Project ID as input directly to the search bar. The Project ID should be followed by the tm word. When a user selects a tasking manager project ID as an area of interest, OSM data associated with that project will be exported. 
 
-![Export 2.png](/uploads/Export%202.png)
+![Export 2.png](https://cdn.hotosm.org/website/Export+2.png)
 
 **4. Load individual OSM features as a boundary**
 
 The export tool also now provides you an option to export data inside individual [OSM relation](https://wiki.openstreetmap.org/wiki/Relation) features. For example, to bring this [municipality boundary](https://www.openstreetmap.org/relation/6104486#map=11/28.2094/83.9733) from osm to the export tool, you can simply type OSM and its id like the following and export your required features.
 
-![Export 3.png](/uploads/Export%203.png)
+![Export 3.png](https://cdn.hotosm.org/website/Export+3.png)
 
 **5. Get your export area quick info before making an actual export request**
 
 The export tool has a new feature called data completeness information. When you create a geom or upload in the export tool, after a couple of seconds, you will see information just above the system timestamp. We call it data completeness metrics possible through various sources can be found as listed [here](https://github.com/hotosm/raw-data-api/blob/develop/docs/src/stats/indicators.md). It will give a quick peek about the area where you are planning to export! 
 
-![Export 4.png](/uploads/Export%204.png)
+![Export 4.png](https://cdn.hotosm.org/website/Export+4.png)
 
 **6. OSM Oauth2.0 implementation**
 
 We have implemented oauth2.0 authentication for OSM. This means this is a big change in terms of the way you login. You will need to log out first and then log in again to the export tool, and everything else should work as it used to! You will see a banner like the following on your screen.
 
-![Export 5.png](/uploads/Export%205.png)
+![Export 5.png](https://cdn.hotosm.org/website/Export+5.png)
 
 **7. New backend for the Export Tool: Raw Data API  (exciting news for developers), Area threshold has been increased by 50%**
 
@@ -66,7 +66,7 @@ Raw Data API (https://github.com/hotosm/raw-data-api/) now serves as a new backe
 
 fAIr, the HOT Tasking Manager, and FMTM already use the raw data API, SQL, and Mbtiles! This new backend integration will give you faster outputs for those selected file formats.
 
-![Export 6.png](/uploads/Export%206.png)
+![Export 6.png](https://cdn.hotosm.org/website/Export+6.png)
 
 **What more can you expect from the export tool?**
 

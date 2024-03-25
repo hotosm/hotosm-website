@@ -12,7 +12,7 @@ tags:
 Summary Text: With an El Niño Phenomenon developing for 2023-2024, preventive disaster
   mapping becomes a crucial tool to minimize damage and victims in the territories.
   And that is what we are doing in Ecuador together with the Risk Secretariat.
-Feature Image: "/uploads/F6bSRsKW8AAuB7O.jpg"
+Feature Image: "https://cdn.hotosm.org/website/F6bSRsKW8AAuB7O.jpg"
 Person: Céline Jacquin
 Country:
 - Ecuador
@@ -34,7 +34,7 @@ The collaboration also has the secondary objective of developing a university an
 
 Consequently, on September 12, **Riesgotón** [was launched](https://twitter.com/mapeoabierto_la/status/1701663347802870119), a set of mapping activities (workshops, Mapathons) with the purpose of preventing disasters that could occur due to the El Niño phenomenon in Ecuador. You can see the broadcast of the launch in this [Facebook link](https://www.facebook.com/watch/live/?ref=watch_permalink&v=4235125880045790&_rdc=1&_rdr) in Spanish. (Fast forward to minute 3.50 to start).
 
-![riesgoton1-c549e4.jpg](/uploads/riesgoton1-c549e4.jpg)
+![riesgoton1-c549e4.jpg](https://cdn.hotosm.org/website/riesgoton1-c549e4.jpg)
 
 Based on its own priorities and accompanied by the Humanitarian OpenStreetMap Team - HOT, the Secretariat defined a set of priority areas, with which a vulnerability analysis was carried out, involving a multidisciplinary team of students from the University of the Armed Forces ESPE in the development of the study and the creation of [mapping projects](https://tasks.hotosm.org/explore?text=risks\+Ecuador) in HOT's Tasking Manager.
 
@@ -52,7 +52,7 @@ Mapped area: 2083\+1264 km2
 
 Participants of online activities so far: 296
 
-![33-17be42.jpg](/uploads/33-17be42.jpg)
+![33-17be42.jpg](https://cdn.hotosm.org/website/33-17be42.jpg)
 
 *(https://mapswipe.org/en/projects/-Nes80bNu__CBhTzhB4Z/)*
 

@@ -8,7 +8,7 @@ Field name:
 layout: page
 ---
 
-![LAC_landingpage_English.png](/uploads/LAC_landingpage_English.png)
+![LAC_landingpage_English.png](https://cdn.hotosm.org/website/LAC_landingpage_English.png)
 
 [Spanish version.](/hubs/hub-mapeo-abierto-latam-caribe)
 
@@ -48,4 +48,4 @@ In this way we will document experiences that have tested concepts, models and a
 
 Follow our social media: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/)
 
-![LAC_landingpage.jpeg](/uploads/LAC_landingpage.jpeg)
+![LAC_landingpage.jpeg](https://cdn.hotosm.org/website/LAC_landingpage.jpeg)

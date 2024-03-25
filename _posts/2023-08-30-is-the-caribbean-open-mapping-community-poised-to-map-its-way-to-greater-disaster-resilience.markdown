@@ -14,7 +14,7 @@ Summary Text: The open-mapping community has proven to be of great importance to
   Caribbean particularly in supporting disaster response. We take a closer look at
   the latest developments regarding the growth of the Caribbean mapping community
   and what this could mean for disaster resilience in the region.
-Feature Image: "/uploads/feature%20photo%20for%20blog.jpg"
+Feature Image: "https://cdn.hotosm.org/website/feature+photo+for+blog.jpg"
 Person: Louise Mathurin Serieux
 ---
 
@@ -40,7 +40,7 @@ The Caribbean mapping community is lacking in the level of organization that can
 
 HOT has been instrumental in supporting efforts to build the mapping movements within the Caribbean. Most recently, the OpenCities Program, with the target countries of Jamaica, Dominica, and Saint Lucia focused on collecting data and developing map data products related to disaster response and building resilience. HOT also recently facilitated other community-building support activities such as the 2023 Peer-to-Peer Program via the HOT Community Working Group for Dominica and Saint Lucia. This is in addition to partnering with the Caribbean School of Open Data(CSOD) to pilot the [Open Mapping Technical Training Program in Jamaica.](https://www.hotosm.org/updates/announcement-of-hot-and-caribbean-school-of-data-partnership-open-mapping-technical-training-in-the-caribbean-region/) Beyond disaster resilience, the initiatives seek to foster inclusion such as Girls Mapping for Disaster Resilience project in Trinidad and Tobago which focused on capacity building in the use of GIS for improving the disaster resilience of women and girls. This was executed via a partnership between GIS Society of Trinidad and Tobago (GISTT), HOT, and Caribbean School of Open Data (CSOD) under the [Women-Centered Disaster Resilience in Small Island Developing States (SIDS)](https://www.hotosm.org/rfps/women-centered-disaster-risk-and-resilience-in-small-islands-developing-states/#:\~:text=The%20Women%2DCentered%20Disaster%20Risk,advocate%20for%20socio%2Deconomic%20change.) initiative. 
 
-![IMG_20230704_133550221_HDR (1) (2).jpg](/uploads/IMG_20230704_133550221_HDR%20(1)%20(2).jpg)
+![IMG_20230704_133550221_HDR (1) (2).jpg](https://cdn.hotosm.org/website/IMG_20230704_133550221_HDR+(1)+(2).jpg)
 
 HOT’s recent advancements in supporting ongoing mapping initiatives and creating networking opportunities for the Caribbean region seek to improve both the map of the region as well as the community that supports it. The commitment to the continuation of these efforts is seen with the development of the HOT Caribbean Strategy and the appointment of a new team within the LAC Hub. In keeping with this commitment, the LAC Hub has already established key partnerships in the region with agencies like the [Caribbean Disaster Emergency Management Agency (CDEMA)](https://www.hotosm.org/updates/hot-and-cdema-sign-agreement-to-enhance-disaster-management-in-the-caribbean-with-collaborative-mapping/), the [Youth Emergency Action Committees (YEAC)](https://www.facebook.com/YEACSLU/), and the CSOD via the Caribbean Open Institute. HOT's actions within the region are focused capacity building and technical support in the areas of community building, disaster resilience, and innovation; as well as fostering inclusivity in the community with regard to gender and underserved communities.
 

@@ -4,7 +4,7 @@ date: 2023-05-16 21:08:00 Z
 Project Summary Text: |-
   Hay muchos proyectos que nunca avanzan por falta de apoyo
   ¿Cuáles pueden apoyarse y cómo?
-Feature Image: "/uploads/LAC_fabrica_1.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/LAC_fabrica_1.jpeg"
 Country:
 - Peru
 Impact Area:
@@ -16,7 +16,7 @@ La Fábrica de Proyectos es un espacio virtual y método de interacción donde d
 
 El espacio está pensado también como un laboratorio de experimentación en la construcción de los enfoques metodológicos didácticos generales, permitiendo a los participantes probar y adaptar de forma continua, y además aportar al método, tanto del diseño de su proyecto, como del diseño de modelos de consolidación, sostenibilidad, y acompañamiento, los cuales serán replicados en el semillero. 
 
-![LAC_fabrica_2.jpeg](/uploads/LAC_fabrica_2.jpeg)
+![LAC_fabrica_2.jpeg](https://cdn.hotosm.org/website/LAC_fabrica_2.jpeg)
 
 # Dale una mirada a nuestros proyectos actuales
 
@@ -29,7 +29,7 @@ Las autoridades escolares de las 3 escuelas diferentes han estado involucradas e
 
 Los profesores aprenderán habilidades para poder enseñar OSM y herramientas de TIC modernas y productivas que sean relevantes e interesantes para estos grupos de escolares. Como producto quedarán las Guías para estudiantes y profesores sobre cómo insertar OSM y aplicaciones de mapeo abierto en el plan de estudios y las lecciones de TIC.
 
-![LAC_fabrica_3.jpeg](/uploads/LAC_fabrica_3.jpeg)
+![LAC_fabrica_3.jpeg](https://cdn.hotosm.org/website/LAC_fabrica_3.jpeg)
 
 ## Mapeo de instalaciones de agua para consumo humano
 ### San Salvador, Calca, Cusco, Perú
@@ -40,7 +40,7 @@ Este piloto sirve como primera experiencia en el uso de mapeo abierto para ayuda
 
 Un producto del proyecto será un kit de datos abiertos fuera de línea o SIG, que proporcione mapeo geográfico, almacenamiento de datos, GPS verificación y posibilidad de editar/revisar los datos y transferirlos a hojas de cálculo.
 
-![LAC_fabrica_4.jpeg](/uploads/LAC_fabrica_4.jpeg)
+![LAC_fabrica_4.jpeg](https://cdn.hotosm.org/website/LAC_fabrica_4.jpeg)
 
 ## Mapas parlantes
 ### Cusco, Perú
@@ -51,7 +51,7 @@ Las autoridades regionales del Ministerio de Salud están involucradas en este p
 
 La Fábrica de Ideas quiere usar esta experiencia en el uso de mapeo abierto para mejorar la calidad y ampliar la gama de los mapas parlantes. El trabajo colaborativo con las comunidades rurales con el soporte técnico de HOT ampliará el uso de los mapas parlantes.
 
-![LAC_fabrica_5.jpeg](/uploads/LAC_fabrica_5.jpeg)
+![LAC_fabrica_5.jpeg](https://cdn.hotosm.org/website/LAC_fabrica_5.jpeg)
 
 ## Mapa de artesanos
 ### Patabamba, Cusco, Perú
@@ -62,11 +62,11 @@ La comunidad originaria de Patabamba, en el distrito de Coya, provincia de Calca
 
 Este mapa, realizado de manera grupal, es un ejemplo de cómo el mapeo abierto puede ayudar a la difusión de la labor que realizan. Sirve además como experiencia para otras asociaciones de artesanos, y también nos hace pensar en el mapeo abierto como una herramienta muy útil para el turismo vivencial, promocionando sus diferentes actividades agrícolas, culturales, comunales, etc. y aportando a la mejora de la economía familiar.
 
-![LAC_fabrica_6.jpeg](/uploads/LAC_fabrica_6.jpeg)
+![LAC_fabrica_6.jpeg](https://cdn.hotosm.org/website/LAC_fabrica_6.jpeg)
 
 **¿Quieres que apoyemos tu proyecto?
 ¡Contáctanos!
 Escribe a [hublatam@hotosm.org](hublatam@hotosm.org) con el asunto:
 Fábrica de Proyectos**
 
-![LAC_fabrica_7.jpeg](/uploads/LAC_fabrica_7.jpeg)
+![LAC_fabrica_7.jpeg](https://cdn.hotosm.org/website/LAC_fabrica_7.jpeg)

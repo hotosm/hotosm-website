@@ -2,7 +2,7 @@
 title: Open Mapping Mentorship
 date: 2023-10-10 12:43:00 Z
 Partner: Women+ in Geospatial (W+G) Mentorship Programme
-Feature Image: "/uploads/Mentorship_onboarding1_27May2023%20(1).png"
+Feature Image: "https://cdn.hotosm.org/website/Mentorship_onboarding1_27May2023+(1).png"
 Impact Area:
 - Public Health
 - Gender Equality
@@ -17,7 +17,7 @@ layout: community-mentorship
 
 ## Join the Open Mapping Mentorship!
 
-<!-- ![Mentorship_onboarding1_27May2023 (1).png](/uploads/Mentorship_onboarding1_27May2023%20(1).png) -->
+<!-- ![Mentorship_onboarding1_27May2023 (1).png](https://cdn.hotosm.org/website/Mentorship_onboarding1_27May2023+(1).png) -->
 The HOT Community Working Group initiated a Mentorship Program to provide peer to peer learning and knowledge exchange in the humanitarian and open mapping space. 
 
 

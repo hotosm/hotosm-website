@@ -2,7 +2,7 @@
 title: Open Cities México
 date: 2023-05-16 21:57:00 Z
 Project Summary Text: Apoyando políticas locales con datos colectivos abiertos
-Feature Image: "/uploads/LAC_OpenCitiesMX_1.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/LAC_OpenCitiesMX_1.jpeg"
 Country:
 - Mexico
 Impact Area:
@@ -24,7 +24,7 @@ Co.Mapper Tulum es la versión de esta iniciativa que se ha implementado para la
 
 GeoID actúa como socio implementador del Co.Mapper Tulum, dentro de una asociación entre GFDRR, HOT, el gobierno de la ciudad y una variada comunidad de socios, compuesta por organizaciones científicas y tecnológicas de la región, socios de desarrollo y empresas tecnológicas.
 
-![LAC_OpenCitiesMX_2.png](/uploads/LAC_OpenCitiesMX_2.png)
+![LAC_OpenCitiesMX_2.png](https://cdn.hotosm.org/website/LAC_OpenCitiesMX_2.png)
 
 ## Objetivos
 El proyecto, que inicia actividades en noviembre 2021, tiene como objetivos:
@@ -36,7 +36,7 @@ El proyecto, que inicia actividades en noviembre 2021, tiene como objetivos:
  
 Estos objetivos buscan incluir e involucrar a todas las personas interesadas sin importar su nivel de conocimiento teórico o práctico en proyectos colaborativos y territoriales, pues desarrollar y asimilar las habilidades para hacer crecer la comunidad es también uno de los objetivos del proyecto.
  
-![LAC_OpenCitiesMX_4.jpeg](/uploads/LAC_OpenCitiesMX_4.jpeg)
+![LAC_OpenCitiesMX_4.jpeg](https://cdn.hotosm.org/website/LAC_OpenCitiesMX_4.jpeg)
 
 ## Preparación
 
@@ -46,7 +46,7 @@ Los estudiantes de licenciatura y de la especialización de Cartografía Automat
 
 De forma complementaria y para el apoyo futuro que podrán dar a su gobierno, se capacitó a 2 campuses de la Universidad de Quintana Roo (Cozumel y Chetumal) y a diferentes grupos de geógrafos de universidades nacionales durante el Encuentro Nacional de Estudiantes de Geografía (ENEG).
 
-![LAC_OpenCitiesMX_6.png](/uploads/LAC_OpenCitiesMX_6.png)
+![LAC_OpenCitiesMX_6.png](https://cdn.hotosm.org/website/LAC_OpenCitiesMX_6.png)
 
 El equipo municipal de Tulum demostró mucha apertura en la integración de una visión comunitaria en su sistema de datos locales, además de expresar urgencia en poder desarrollar sus planes locales, atlas de riesgo, y el Plan de Acción Climática, los cuales deben basarse en datos locales finos que no existían. 
 
@@ -64,7 +64,7 @@ Para el mapeo social se agruparon las 29 localidades del municipio de Tulum en 7
 
 El [mapeo social](https://es.wikipedia.org/wiki/Cartograf%C3%ADa_social) es una herramienta participativa que permite reflexionar sobre el territorio común. No pretende ser una representación fiel o exhaustiva de la realidad, es un ejercicio en el que las y los participantes identifican las problemáticas más impactantes para ellos, más allá de lo visible, proporciona elementos para la elaboración de un diagnóstico del territorio, visibiliza redes de colaboración, y se vuelve un espacio para compartir experiencias, socializar, debatir, entre otros. Este mapeo cualitativo de la integralidad del territorio fue digitalizado para servir de insumo en el atlas de riesgos.
 
-![LAC_OpenCitiesMX_8.png](/uploads/LAC_OpenCitiesMX_8.png)
+![LAC_OpenCitiesMX_8.png](https://cdn.hotosm.org/website/LAC_OpenCitiesMX_8.png)
 
 El mapeo remoto duró alrededor de 8 meses incluyendo varias fases de capacitación, validación y verificación, cumpliendo con un mapa de alto nivel de detalle de la zona.
 
@@ -79,7 +79,7 @@ La Sedatu ha lanzado un [curso](https://www.gob.mx/sedatu/prensa/lanza-sedatu-cu
 
 Se creó un MOOC -destinado a formar y acompañar los 2471 municipios del país en su realización o revisión de planes locales- en el que el Hub LAC participó. Integramos en el MOOC cursos detallados de Openstreetmap, Open Data Kit y QGIS, y estamos iniciando el acompañamiento personalizado de unos 30 municipios hasta la publicación de sus planes. 
 
-![LAC_OpenCitiesMX_9.png](/uploads/LAC_OpenCitiesMX_9.png)
+![LAC_OpenCitiesMX_9.png](https://cdn.hotosm.org/website/LAC_OpenCitiesMX_9.png)
 
 ## Cierre del proyecto
 
@@ -90,7 +90,7 @@ En este evento estuvieron presentes representantes de [@CoMapper](https://twitte
 El cierre del proyecto Open Cities México contó además con la participación de Fabrizio Scrollini, Director del Hub de Mapeo Abierto de América Latina y el Caribe, Peter Masters, Jefe global de Comunidades del [Equipo Humanitario de OpenStreetMap](https://hotosm.org/) y Celine Jacquin, Gerente de proyectos del Hub de Mapeo Abierto.
 
 Ahora, se mantendrá un contacto de apoyo para conocer las aplicaciones y frenos que podrá tener el ayuntamiento en el uso de la plataforma, y asegurar la integración de los datos participativos en instrumentos de gobierno como el Atlas de riesgo local.
-![LAC_OpenCitiesMX_10.jpeg](/uploads/LAC_OpenCitiesMX_10.jpeg)
-![LAC_OpenCitiesMX_11.webp](/uploads/LAC_OpenCitiesMX_11.webp)
-![LAC_OpenCitiesMX_12.webp](/uploads/LAC_OpenCitiesMX_12.webp)
-![LAC_OpenCitiesMX_13.webp](/uploads/LAC_OpenCitiesMX_13.webp)
+![LAC_OpenCitiesMX_10.jpeg](https://cdn.hotosm.org/website/LAC_OpenCitiesMX_10.jpeg)
+![LAC_OpenCitiesMX_11.webp](https://cdn.hotosm.org/website/LAC_OpenCitiesMX_11.webp)
+![LAC_OpenCitiesMX_12.webp](https://cdn.hotosm.org/website/LAC_OpenCitiesMX_12.webp)
+![LAC_OpenCitiesMX_13.webp](https://cdn.hotosm.org/website/LAC_OpenCitiesMX_13.webp)

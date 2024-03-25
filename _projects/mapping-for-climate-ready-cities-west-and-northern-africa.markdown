@@ -6,7 +6,7 @@ Project Summary Text: |-
 
 
   This project page highlights our work in West and Northern Africa.
-Feature Image: "/uploads/IMG_0352.jpg"
+Feature Image: "https://cdn.hotosm.org/website/IMG_0352.jpg"
 Country:
 - Nigeria
 - Ivory Coast

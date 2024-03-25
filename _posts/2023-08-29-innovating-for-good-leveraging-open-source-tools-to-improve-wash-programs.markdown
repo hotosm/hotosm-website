@@ -7,7 +7,7 @@ tags:
 Summary Text: Open geospatial data, tools, and platforms for humanitarian open mapping
   and disaster response should be used to improve Water, Sanitation, and Hygiene (WASH)
   programs.
-Feature Image: "/uploads/BamakoStream.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/BamakoStream.jpeg"
 Person: Letwin Pondo
 Working Group:
 - Community
@@ -21,8 +21,8 @@ We cannot define health without WASH programs being balanced, and we cannot defi
 
 HOT is an organization that works on producing open geospatial data, tools, and platforms for humanitarian open mapping and disaster response. All of these can be used to improve WASH programs, and, in that manner, HOT’s Community Working Group organized a webinar on 16th June of 2023, where we learned from open mapping communities that have at least taken part or carried out WASH projects using open map data and/or tools.
 
-![4.png](/uploads/4.png)
-![5.png](/uploads/5.png)
+![4.png](https://cdn.hotosm.org/website/4.png)
+![5.png](https://cdn.hotosm.org/website/5.png)
 *Promotional materials for the seminar with the speakers*
 
 The knowledge-sharing session focused on bringing to light what WASH programs are, sharing knowledge and experiences on projects that are using or have used open mapping and OpenStreetMap (OSM) data for WASH and solid waste management projects. The speakers, who are community representatives, discussed how they have utilized these approaches to improve project planning, implementation, and monitoring in their respective contexts. This provided an opportunity to learn from experts in the field and engage in a discussion on the challenges, opportunities, and learnings when implementing such projects.

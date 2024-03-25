@@ -10,7 +10,7 @@ Page Link:
 layout: page
 ---
 
-![hot_omh_asia_pacific_logo_rev_colour_with_tagline-2-2129x1332.png](/uploads/hot_omh_asia_pacific_logo_rev_colour_with_tagline-2-2129x1332.png)
+![hot_omh_asia_pacific_logo_rev_colour_with_tagline-2-2129x1332.png](https://cdn.hotosm.org/website/hot_omh_asia_pacific_logo_rev_colour_with_tagline-2-2129x1332.png)
 
 The Open Mapping Hub - Asia Pacific (AP Hub) was established in early 2021 to advance the open mapping movement in the Asia-Pacific region. The hub engages open mapping organizations and communities in the region to facilitate the exchange of ideas and expertise across 25 countries in the region. We also provide financial and technical support to massively scale local edits on OpenStreetMap (OSM).
 
@@ -24,4 +24,4 @@ By prioritizing local mapping organizations and communities, facilitating knowle
 
 * [Connect with OSM Communities in the AP region](https://openstreetmap.community/)
 
-![AP_landingpage.jpeg](/uploads/AP_landingpage.jpeg)
+![AP_landingpage.jpeg](https://cdn.hotosm.org/website/AP_landingpage.jpeg)

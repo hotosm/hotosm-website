@@ -15,7 +15,7 @@ tags:
 Summary Text: Mapear los desechos en tu barrio puede ser una actividad simple a la
   vez que útil y beneficiosa para nuestro entorno urbano. Veamos como diversos equipos
   de mapeadores en América Latina y el Caribe lo han estado haciendo.
-Feature Image: "/uploads/olmmap.jpg"
+Feature Image: "https://cdn.hotosm.org/website/olmmap.jpg"
 Person:
 - Céline Jacquin
 - Juan Arellano Valdivia
@@ -31,15 +31,15 @@ Los datos recopilados a través de este movimiento han proporcionado informació
 
 **Mapeando desechos en América Latina y el Caribe**
 
-![WhatsApp Image 2023-10-11 at 9.13.33 AM.jpeg](/uploads/WhatsApp%20Image%202023-10-11%20at%209.13.33%20AM.jpeg)
+![WhatsApp Image 2023-10-11 at 9.13.33 AM.jpeg](https://cdn.hotosm.org/website/WhatsApp+Image+2023-10-11+at+9.13.33+AM.jpeg)
 
 En **Santa Lucia, Caribe**, se dio una sesión de capacitación virtual en OpenLitterMap el lunes 18 de septiembre con 21 participantes de toda la región y el mundo gracias al apoyo en difusión del [CDEMA](https://www.cdema.org/). Se les enseñó cómo activar la ubicación en sus cámaras, iniciar sesión en la aplicación y cargar datos en openlittermap.com. El equipo de los Comités Juveniles de Acción de Emergencia ([YEAC](https://www.facebook.com/YEACSLU/)) de Santa Lucía, emergió como el mejor mapeador de la campaña, con gran dedicación para mejorar sus comunidades y desarrollar resiliencia.
 
-![Boliviamap.jpg](/uploads/Boliviamap.jpg)
+![Boliviamap.jpg](https://cdn.hotosm.org/website/Boliviamap.jpg)
 
 En **Bolivia** la participación ha sido nutrida, y se ha dado a través de tres grupos con un total de 140 participantes. El grupo de La Paz: [Team Hacklab r00thouse La Paz](https://www.hacklab.org.bo/), que son parte de la [Universidad Mayor de San Andrés](https://www.umsa.bo/), pero que también integran estudiantes de otras universidades. En Sucre: estudiantes de la [Universidad Pontificia San Francisco Xavier](https://usfx.bo/#gsc.tab=0) con la colaboración de la Dra. Scarlett Martínez. En el Beni, estudiantes de la [Universidad Autónoma José Ballivian](https://www.uabjb.edu.bo/) del Beni, con el apoyo del Ingeniero Daniel Zubieta.
 
-![cuscolitter2.jpg](/uploads/cuscolitter2.jpg)
+![cuscolitter2.jpg](https://cdn.hotosm.org/website/cuscolitter2.jpg)
 
 En **Cusco, Perú**, se han mapeado diversos barrios de la ciudad que enfrentan el problema de desechos. Se contó con la participación de 40 estudiantes de [GAL School](https://www.facebook.com/GALSchoolCusco/?locale=es_LA), principalmente de secundaria, enlazando el contenido curricular con el aprendizaje activo. La participación y el empoderamiento de los estudiantes -teniendo como herramienta el mapeo abierto- ha sido efectivo, logrando incluso concienciar a los transeúntes que preguntaban cuál era el objetivo que se buscaba al mapear la basura. Por otro lado el uso de nuevas tecnologías y su aplicación los ha motivado a colaborar más con la sociedad.
 
@@ -51,7 +51,7 @@ El Equipo Humanitario está comprometido a seguir promoviendo este movimiento. A
 
 **Agradecimientos**
 
-![teams.jpg](/uploads/teams.jpg)
+![teams.jpg](https://cdn.hotosm.org/website/teams.jpg)
 
 El Equipo Humanitario de OpenStreetMap agradece el entusiasmo y dedicación con el los equipos de mapeadores participaron en esta actividad. Y especialmente a los lideres de campaña que en cada país o región asumieron el reto desinteresado de capacitar y guiar a sus equipos en las semanas que duró el mapeo participativo de desechos. A la Dra. Patricia Llanos, al profesor Gilmar Vergara y a Louise Mathurin-Serieux nuestro profundo reconocimiento.
 

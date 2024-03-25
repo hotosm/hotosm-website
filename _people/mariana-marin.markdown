@@ -1,7 +1,7 @@
 ---
 title: Mariana Marín
 date: 2024-02-06 10:41:00 Z
-Photo: "/uploads/Mar%20Pic%20Bio.jpeg"
+Photo: "https://cdn.hotosm.org/website/Mar+Pic+Bio.jpeg"
 Member Type:
   Is Staff: true
 Job Title: Senior Communications Strategist - Latin America and Caribbean Hub
