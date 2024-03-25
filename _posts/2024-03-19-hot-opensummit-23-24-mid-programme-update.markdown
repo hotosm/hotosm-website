@@ -15,12 +15,12 @@ The HOT OpenSummit encompasses three event categories: conferences, open mapping
 **What we have achieved so far**
 Five months after the launch, we collaborated with and supported 11 events, which received funding of up to 62,632 USD and reached 2,688 participants. Below are some highlights from the events that have been part of the OpenSummit program.
 
-![OpenSummit Mid 2024 Stats.png](/uploads/OpenSummit%20Mid%202024%20Stats.png)
+![OpenSummit Mid 2024 Stats-308405.png](/uploads/OpenSummit%20Mid%202024%20Stats-308405.png)
 *Note that these figures are from 8 out of the 11 events that have completed their reports.*
 
 The opportunity to collaborate on OpenSummit events is still available. If you are planning a conference, community event, or intervention within a third-party event to introduce open mapping discussions to new or relevant audiences, we encourage you to submit your application. We are actively seeking to confirm events for 2024. Learn more and submit your application at https://www.hotosm.org/opensummit23-24. If you are interested in becoming a sponsor for the OpenSummit program, check out the sponsorship deck and get in touch.
 
-![OpenSummit 2023 Map.png](/uploads/OpenSummit%202023%20Map.png)
+![OpenSummit 2023 Map-871bbd.png](/uploads/OpenSummit%202023%20Map-871bbd.png)
 <br>
 <br>
 ## [SotM Nigeria 2023](https://2023.stateofthemapnigeria.org/)
