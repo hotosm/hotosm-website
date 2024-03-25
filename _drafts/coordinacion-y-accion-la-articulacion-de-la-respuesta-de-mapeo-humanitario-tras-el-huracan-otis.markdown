@@ -37,7 +37,7 @@ Esta estrategia tuvo como objetivo optimizar los recursos de mapeo y evitar la d
 
 En las semanas posteriores al desastre, se obtuvieron imágenes de drones sobre algunas áreas urbanas de Acapulco, proporcionadas por distintos actores como [Help.NGO](https://www.help.ngo/) y CENAPRED. Nos encargamos de guiarlos para que estas imágenes se subieran a [OpenAerialMap](https://openaerialmap.org/) y se integrarán al Tasking Manager, con el fin de mapear específicamente los edificios destruidos. Se crearon 17 proyectos para estas áreas, lo que permitió mapear un total de 22,537 estructuras.
 
-[![OVERPASS TURBO - ACAPULCO OTIS.jpg](/uploads/OVERPASS%20TURBO%20-%20ACAPULCO%20OTIS.jpg)](https://overpass-turbo.eu/map.html?Q=%2F%2F\+%40name\+Building\+Damage\+Query%0A%2F\*%0AThis\+has\+been\+generated\+by\+the\+overpass-turbo\+wizard.%0AThe\+original\+search\+was%3A%0A\*%2F%0A%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%2F%2F\+gather\+results%0A%28%0A\+\+%2F%2F\+query\+part\+for%3A\+%E2%80%9C%22destroyed%3Abuilding%22%3D\*%E2%80%9D%0A\+\+node%5B%22destroyed%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+way%5B%22destroyed%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+relation%5B%22destroyed%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+%2F%2F\+query\+part\+for%3A\+%E2%80%9C%22destroyed%3Abuilding%22%3D\*%E2%80%9D%0A\+\+node%5B%22damaged%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+way%5B%22damaged%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+relation%5B%22damaged%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A%29%3B%0A%2F%2F\+print\+results%0Aout\+body%3B%0A%3E%3B%0Aout\+skel\+qt%3B%7B%7Bdata%3Aoverpass%2Cserver%3D%2F%2Foverpass-api.de%2Fapi%2F%7D%7D)
+![OVERPASS TURBO - ACAPULCO OTIS.jpg](/uploads/OVERPASS%20TURBO%20-%20ACAPULCO%20OTIS.jpg)
 
 *Consulta el mapa de edificios daños en la API de Overpass usando este [enlace](https://overpass-turbo.eu/map.html?Q=%2F%2F\+%40name\+Building\+Damage\+Query%0A%2F\*%0AThis\+has\+been\+generated\+by\+the\+overpass-turbo\+wizard.%0AThe\+original\+search\+was%3A%0A\*%2F%0A%5Bout%3Ajson%5D%5Btimeout%3A25%5D%3B%0A%2F%2F\+gather\+results%0A%28%0A\+\+%2F%2F\+query\+part\+for%3A\+%E2%80%9C%22destroyed%3Abuilding%22%3D\*%E2%80%9D%0A\+\+node%5B%22destroyed%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+way%5B%22destroyed%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+relation%5B%22destroyed%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+%2F%2F\+query\+part\+for%3A\+%E2%80%9C%22destroyed%3Abuilding%22%3D\*%E2%80%9D%0A\+\+node%5B%22damaged%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+way%5B%22damaged%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A\+\+relation%5B%22damaged%3Abuilding%22%5D%2816.681581866109017%2C-100.09025739461059%2C17.07778960654538%2C-99.46815656453246%29%3B%0A%29%3B%0A%2F%2F\+print\+results%0Aout\+body%3B%0A%3E%3B%0Aout\+skel\+qt%3B%7B%7Bdata%3Aoverpass%2Cserver%3D%2F%2Foverpass-api.de%2Fapi%2F%7D%7D).*
 
@@ -45,7 +45,7 @@ Este mapeo específico se enfocó en las acciones iniciales de recuperación, lo
 
 Simultáneamente, establecimos una estrecha colaboración con actores locales, universidades (UAM, UAEMEX, UACJ, UAGto, UAGRO y la Red RENEG) y organizaciones de la sociedad civil para impulsar el mapeo de equipamientos públicos clave, como escuelas, centros de salud y mercados. En este [blog de YouthMappers](https://www.youthmappers.org/post/mexican-chapters-in-response-to-hurricane-otis-in-acapulco-guerrero) se destaca la participación fundamental de la juventud en estas labores de mapeo.
 
-> 
+> ![Céline Jacquin Otis Brigada YouthMappers.jpg](/uploads/Ce%CC%81line%20Jacquin%20Otis%20Brigada%20YouthMappers.jpg)
 
 Este esfuerzo conjunto, que involucró a más de 17 personas de cinco universidades mexicanas, nos permitió cartografiar:
 
@@ -67,9 +67,13 @@ La **Brigada de Mapeo Humanitario**, compuesta por 31 personas expertas mapeador
 
 Por otro lado, el **Laboratorio de Mapeo Humanitario** es un espacio que fomenta la colaboración entre personas de diversas disciplinas y niveles básicos de experiencia en mapeo. Este laboratorio incentiva la participación y el aprendizaje en el Hub de Mapeo Abierto de forma voluntaria con el objetivo de consolidar una comunidad para futuras respuestas digitales a emergencias. En ese sentido, hacemos un llamado a las instituciones universitarias para unirse a la formalización del Laboratorio, promoviendo la colaboración entre departamentos y niveles de experiencia.
 
+![Logo Brigada y Laboratorio.jpg](/uploads/Logo%20Brigada%20y%20Laboratorio.jpg)
+
 # **Reconstrucción de Acapulco**
 
 En paralelo, participamos en reuniones semanales centradas en el grupo intersectorial de reconstrucción. En estas reuniones, se destacan múltiples necesidades para reconstruir Acapulco de manera sostenible, participativa y considerando sus vulnerabilidades exacerbadas. Propusimos acciones concretas a representantes de la sociedad civil, funcionarios y agencias internacionales, como el monitoreo de vegetación y cultivos, de elementos que pueden detonar riesgos de incendio, y reflexiones sobre el monitoreo de las condiciones subacuáticas de la bahía.
+
+![Retiro Estratégico Acapulco-Coyuca, Guerrero - HOTOSM Otis.jpg](/uploads/Retiro%20Estrate%CC%81gico%20Acapulco-Coyuca,%20Guerrero%20-%20HOTOSM%20Otis.jpg)
 
 Durante el Retiro Estratégico por Acapulco-Coyuca y Guerrero, donde representantes de la sociedad civil, funcionarios federales, estatales y municipales, así como agencias internacionales, se reunieron para dar continuidad a la respuesta ante el Huracán Otis y discutir la reconstrucción, se destacaron algunos puntos clave:
 
