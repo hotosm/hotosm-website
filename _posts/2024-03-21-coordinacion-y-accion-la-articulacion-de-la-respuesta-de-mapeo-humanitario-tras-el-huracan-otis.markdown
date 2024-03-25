@@ -3,13 +3,11 @@ title: 'Coordinación y Acción: La Articulación de la Respuesta de Mapeo Human
   tras el Huracán Otis'
 date: 2024-03-21 22:12:00 Z
 Summary Text: Tras el huracán Otis en octubre de 2023, el Hub LAC lideró un mapeo
-  digital humanitario en áreas desatendidas de Acapulco. En colaboración con locales
-  y organizaciones internacionales, se cartografiaron miles de estructuras dañadas
-  y se identificaron necesidades prioritarias. Este esfuerzo resaltó la importancia
-  de la coordinación y participación comunitaria, destacando el papel crucial de la
-  cartografía participativa. El trabajo sentó bases para futuras acciones de mitigación,
-  mostrando el potencial de la colaboración interinstitucional en la construcción
-  de resiliencia comunitaria.
+  digital humanitario en Acapulco, identificando estructuras dañadas y necesidades
+  prioritarias en colaboración con la comunidad nacional y organizaciones internacionales,
+  resaltando la importancia de la cartografía participativa y sentando bases para
+  futuras acciones de mitigación mediante la colaboración interinstitucional en la
+  construcción de resiliencia comunitaria.
 Feature Image: "/uploads/Otis%20Respuesta%20Mapeo%20Humanitario%20HOT.jpg"
 Person:
 - Céline Jacquin
