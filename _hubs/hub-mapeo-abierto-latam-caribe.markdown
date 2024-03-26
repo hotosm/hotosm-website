@@ -30,19 +30,19 @@ El LAC Hub fue establecido en 2023 con la intención de ubicar acciones que prom
 
 Respondiendo de manera confiable y mejorando la preparación para cada incidente de desastre relevante en la región, nuestros esfuerzos tienen como objetivo ayudar a los actores locales a cultivar una cultura de conciencia del riesgo a través del uso de datos cartográficos abiertos.
 
-1. [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda/)
+1. [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda-0a2b5e/)
 
-2. [Activation in Ecuador](https://www.hotosm.org/projects/mapping-volcanoes-in-ecuador/)
+2. [Activation in Ecuador](https://www.hotosm.org/projects/mapeo-de-volcanes-en-ecuador/)
 
 3. [The Ecuador Mapathon](https://www.hotosm.org/updates/El-mapeo-como-respuesta-al-desastre-en-Esmeraldas-Ecuador/)
 
-4. [Mapping Response in Acapulco](https://www.hotosm.org/projects/hurricane-otis-2023-response/)
+4. [Mapping Response in Acapulco](https://www.hotosm.org/projects/activacion-por-el-huracan-otis/)
 
-5. [Open Litter Mapping](https://www.hotosm.org/updates/participatory-waste-mapping-a-continuing-effort-for-sustainable-development/)
+5. [Open Litter Mapping](https://www.hotosm.org/updates/mapeo-participativo-de-desechos-un-esfuerzo-continuo-para-el-desarrollo-sostenible/)
 
-6. [The Project Factory](https://www.hotosm.org/projects/the-project-factory/)
+6. [The Project Factory](https://www.hotosm.org/projects/la-fabrica-de-proyectos/)
 
-# Programa Amazonia
+# Programa Amazonía
 
 ![Amazonia Program.jpg](/uploads/Amazonia%20Program.jpg)
 
@@ -50,7 +50,7 @@ Liderando la monitorización de base y fomentando interacciones entre poblacione
 
 El Programa Amazonia es una iniciativa multifacética que aborda brechas cartográficas y promueve el mapeo de impacto social en la región. Las asociaciones con autoridades de protección civil tienen como objetivo llenar brechas cartográficas y mejorar la gestión de riesgos. El mapeo anticipado identifica áreas vulnerables para mejorar la planificación y respuesta. Los proyectos comunitarios enseñan cartografía y apoyan la monitorización ambiental en varias ciudades amazónicas de Brasil, Ecuador y Perú, fomentando el compromiso local y la propiedad de datos abiertos.
 
-1. [Amazonian Mappings Iniciative](https://www.hotosm.org/updates/amazonian-mapping-for-an-inclusive-and-sustainable-amazon/)
+1. [Mapeos Amazónicos para una Amazonía Inclusiva y Sostenible](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/)
 
 2. [Collaborative and Inclusive Mapping of the Middles Solimões, Amazon](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)
 
@@ -62,21 +62,21 @@ Explorando e integrando herramientas de mapeo abierto en proyectos educativos mi
 
 La iniciativa ha involucrado con éxito a más de 2000 estudiantes y 200 profesores en Argentina, Perú y Colombia. Colaborando estrechamente con los Ministerios de Educación de estos países, OM4A tiene como objetivo ampliar el alcance de la educación en mapeo abierto, con un énfasis principal en mejorar el desarrollo de recursos humanos. El objetivo central del programa gira en torno a catalizar a los educadores para aprovechar el potencial de las tecnologías de mapeo dentro de diversos entornos educativos, abarcando tanto paisajes rurales como urbanos.
 
-# Caribbean Program
+# Programa del Caribe
 
 ![Caribbean Program.jpg](/uploads/Caribbean%20Program.jpg)
 
 Nuestros esfuerzos en el Caribe se han centrado en establecer una sólida presencia y fomentar una cultura de práctica, innovación y resiliencia. Al forjar alianzas con partes interesadas locales y organizaciones como la Agencia de Manejo de Emergencias por Desastres del Caribe (CDEMA), hemos facilitado la participación en el desarrollo y la gestión de desastres. El lanzamiento de la Comunidad del Caribe de OSM subraya nuestro compromiso con la colaboración y el intercambio de conocimientos. A través de iniciativas como el programa de capacitación de drones en Dominica, hemos empoderado a los lugareños para capturar datos críticos, mejorando la preparación para desastres. Además, nuestra iniciativa de Resiliencia ante Desastres Centrada en las Mujeres en los Estados Insulares en Desarrollo prioriza equipar a mujeres y niñas con habilidades de cartografía esenciales, permitiendo su participación activa en la respuesta a desastres en varios países del Caribe.
 
-1. [Launch of OSM Caribbean](https://www.hotosm.org/updates/is-the-caribbean-open-mapping-community-poised-to-map-its-way-to-greater-disaster-resilience/)
+1. [Lanzamiento de la Comunidad OSM Caribe](https://www.hotosm.org/updates/is-the-caribbean-open-mapping-community-poised-to-map-its-way-to-greater-disaster-resilience/)
 
-2. [Enhancing Caribbean Disaster Management Through Collaborative Mapping with CDEMA](https://www.hotosm.org/updates/hot-and-cdema-sign-agreement-to-enhance-disaster-management-in-the-caribbean-with-collaborative-mapping/)
+2. [Fortaleciendo la Gestión de Desastres en el Caribe a través de la Cartografía Colaborativa con CDEMA](https://www.hotosm.org/updates/hot-and-cdema-sign-agreement-to-enhance-disaster-management-in-the-caribbean-with-collaborative-mapping/)
 
-3. [Catalyzing Impact: Inaugural Micro-Grants by HOT and Caribbean School of Data](https://www.hotosm.org/updates/catalyzing-impact-inaugural-micro-grants-by-hot-and-csod/)
+3. [Generando Impacto: Primeros Microsubsidios de HOT y la Escuela del Caribe de Datos](https://www.hotosm.org/updates/catalyzing-impact-inaugural-micro-grants-by-hot-and-csod/)
 
-4. [Women-Centered Disaster Resilience In Small Island Developing States](https://www.hotosm.org/projects/women-centered-disaster-resilience-in-small-island-developing-states-trinidad-and-tobago/)
+4. [Resiliencia ante Desastres Centrada en las Mujeres en Pequeños Estados Insulares en Desarrollo](https://www.hotosm.org/projects/women-centered-disaster-resilience-in-small-island-developing-states-trinidad-and-tobago/)
 
-# Our stories / news
+# Nuestras historias / noticias
 
 ### Consulta nuestros últimos desarrollos e historias de impacto
  [aquí](https://www.hotosm.org/projects/publicaciones/).
