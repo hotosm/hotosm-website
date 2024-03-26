@@ -3,7 +3,7 @@ title: Mapping for Climate-Ready Cities
 date: 2018-05-01 05:01:00 Z
 permalink: "/programs/mapping-for-climate-ready-cities"
 position: 88
-Feature Image: https://cdn.hotosm.org/website/Ramani+Huria+Dar+es+Salaam+v3.jpg
+Feature Image: "/uploads/Ramani-Huria-Dar-es-Salaam-v3-2.jpg"
 Country:
 - Bangladesh
 - Nepal
@@ -157,7 +157,7 @@ Project-text:
     develop solutions. More, better and up-to-date data means that locals, advocates
     and decision-makers can make more rapid and better decisions.</li></ul>"
   Outcomes: 
-project_extent: ''
+project_extent: 
 Project-1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
