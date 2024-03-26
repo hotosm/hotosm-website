@@ -62,6 +62,8 @@ Exploring and integrating open mapping tools into educational projects while tra
 
 The initiative has successfully engaged over 2,000 students and 200 teachers across Argentina, Peru, and Colombia. Collaborating closely with the Ministries of Education in these countries, OM4A aims to broaden the scope of open mapping education, with a primary emphasis on enhancing human resource development. The program's core objective revolves around catalyzing educators to harness the potential of mapping technologies within diverse educational settings, spanning both rural and urban landscapes.
 
+Get to know more about the project [here](https://www.hotosm.org/projects/open-mapping-for-all/)
+
 # Caribbean Program
 
 ![Caribbean Program.jpg](/uploads/Caribbean%20Program.jpg)
