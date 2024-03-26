@@ -34,7 +34,7 @@ Event Promo:
   Related Projects:
   - 'Infectious diseases: Malaria elimination'
   - Missing Maps
-  Image: https://cdn.hotosm.org/website/Ramani+Huria+Dar+es+Salaam+v3.jpg
+  Image: "/uploads/Ramani-Huria-Dar-es-Salaam-v3-2.jpg"
   URL: "/projects/opensummit23-24/"
   Button: Learn More
 Block 2:
