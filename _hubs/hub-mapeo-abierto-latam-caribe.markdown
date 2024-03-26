@@ -61,6 +61,8 @@ Explorando e integrando herramientas de mapeo abierto en proyectos educativos mi
 
 La iniciativa ha involucrado con éxito a más de 2000 estudiantes y 200 profesores en Argentina, Perú y Colombia. Colaborando estrechamente con los Ministerios de Educación de estos países, OM4A tiene como objetivo ampliar el alcance de la educación en mapeo abierto, con un énfasis principal en mejorar el desarrollo de recursos humanos. El objetivo central del programa gira en torno a catalizar a los educadores para aprovechar el potencial de las tecnologías de mapeo dentro de diversos entornos educativos, abarcando tanto paisajes rurales como urbanos.
 
+Conoce más del programa [aquí](https://www.hotosm.org/projects/open-mapping-for-all/).
+
 # Programa del Caribe
 
 ![Caribbean Program.jpg](/uploads/Caribbean%20Program.jpg)
