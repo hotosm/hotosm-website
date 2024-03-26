@@ -10,7 +10,7 @@ layout: page
 
 ![LAC_landingpage_English.png](https://cdn.hotosm.org/website/LAC_landingpage_English.png)
 
-## Enhancing resilient communities through social impact mapping in Latin America and the Caribbean
+# Enhancing resilient communities through social impact mapping in Latin America and the Caribbean
 
 In Latin America and the Caribbean (LAC), we face disasters caused by natural hazards, along with many other challenges to our environment and sustainable development, within the framework of diversity and pronounced inequality. The Humanitarian OpenStreetMap Team (HOT) aims to be a positive catalyst in this situation to make sure the power of open geographic data is fully leveraged in supporting data-driven public policies that foster inclusive, sustainable, and transparent societies. At the core of our approach is the active promotion and utilization of social impact mapping practices, ensuring that our efforts contribute to a shared and meaningful development.
 
