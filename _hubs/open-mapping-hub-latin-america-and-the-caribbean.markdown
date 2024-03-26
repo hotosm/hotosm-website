@@ -84,4 +84,4 @@ Check out our latests developments and impact stories [here](https://www.hotosm.
 
 ## Follow us on social media
 
-**[Twitter](https://twitter.com/openmapping_esa) |  [Instagram](https://www.instagram.com/maphublac/) | [Facebook](https://www.facebook.com/MapHubLAC) | [LinkedIn](https://www.linkedin.com/showcase/maphublac) | [Youtube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA)**
+**[Twitter](https://twitter.com/MapHubLAC)** |  **[Instagram](https://www.instagram.com/maphublac/)** | **[Facebook](https://www.facebook.com/MapHubLAC)** | **[LinkedIn](https://www.linkedin.com/showcase/maphublac)** | **[Youtube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA)**
