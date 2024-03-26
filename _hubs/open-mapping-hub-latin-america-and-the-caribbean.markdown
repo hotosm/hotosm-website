@@ -26,7 +26,7 @@ The LAC Hub was established in 2023 with the intention to locate actions advanci
 
 In line with this vision, our programs for the upcoming year will bring it to life:
 
-### LAC Humanitarian Programme
+## LAC Humanitarian Programme
 
 ![OTIS - LAC Humanitarian Programme.jpg](/uploads/OTIS%20-%20LAC%20Humanitarian%20Programme.jpg)
 
@@ -44,7 +44,7 @@ Reliably responding to and enhancing preparedness for every relevant disaster in
 
 6. **[The Project Factory](https://www.hotosm.org/projects/the-project-factory/)**
 
-### **Amazonia Program**
+## **Amazonia Program**
 
 ![Amazonia Program.jpg](/uploads/Amazonia%20Program.jpg)
 
@@ -56,7 +56,7 @@ The Amazonia Program is a multifaceted initiative addressing cartographic gaps a
 
 2. **[Collaborative and Inclusive Mapping of the Middles Solimões, Amazon](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)**
 
-### **Open Mapping for All**
+## **Open Mapping for All**
 
 ![Open Mapping for All.jpg](/uploads/Open%20Mapping%20for%20All.jpg)
 
@@ -64,7 +64,7 @@ Exploring and integrating open mapping tools into educational projects while tra
 
 The initiative has successfully engaged over 2,000 students and 200 teachers across Argentina, Peru, and Colombia. Collaborating closely with the Ministries of Education in these countries, OM4A aims to broaden the scope of open mapping education, with a primary emphasis on enhancing human resource development. The program's core objective revolves around catalyzing educators to harness the potential of mapping technologies within diverse educational settings, spanning both rural and urban landscapes.
 
-### **Caribbean Program**
+## **Caribbean Program**
 
 ![Caribbean Program.jpg](/uploads/Caribbean%20Program.jpg)
 
@@ -78,10 +78,10 @@ Our efforts in the Caribbean have focused on establishing a strong presence and 
 
 4. **[Women-Centered Disaster Resilience In Small Island Developing States](https://www.hotosm.org/projects/women-centered-disaster-resilience-in-small-island-developing-states-trinidad-and-tobago/)**
 
-### Our stories / news
+## **Our stories / news**
 
 Check out our latests developments and impact stories [here](https://www.hotosm.org/projects/publications/).
 
-### Follow us on social media
+## Follow us on social media
 
 **[Twitter](https://twitter.com/openmapping_esa) |  [Instagram](https://www.instagram.com/maphublac/) | [Facebook](https://www.facebook.com/MapHubLAC) | [LinkedIn](https://www.linkedin.com/showcase/maphublac) | [Youtube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA)**
