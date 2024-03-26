@@ -7,44 +7,80 @@ Page Contact:
 layout: page
 ---
 
-![LAC_landingpage2.jpeg](https://cdn.hotosm.org/website/LAC_landingpage2.jpeg)
+![LAC_landingpage_English.png](https://cdn.hotosm.org/website/LAC_landingpage_English.png)
 
-[Portuguese version](https://www.hotosm.org/hubs/hub-de-mapeamento-aberto-america-latina-e-caribe)
+En América Latina y el Caribe (ALC), enfrentamos desastres causados por riesgos naturales, junto con otros desafíos para nuestro medio ambiente y desarrollo sostenible, dentro del marco de la diversidad y la pronunciada desigualdad. El equipo de Humanitarian OpenStreetMap (HOT) tiene como objetivo ser un catalizador positivo en esta situación para asegurar que el poder de los datos geográficos abiertos se aproveche plenamente en el apoyo a políticas públicas basadas en datos que fomenten sociedades inclusivas, sostenibles y transparentes. En el centro de nuestro enfoque está la promoción activa y el uso de prácticas de mapeo de impacto social, asegurando que nuestros esfuerzos contribuyan a un desarrollo compartido y significativo.
 
-[English version](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean)
+El LAC Hub fue establecido en 2023 con la intención de ubicar acciones que promuevan prácticas de mapeo de impacto social entre grupos diversos. Nuestra firme creencia es que el mapeo de impacto social puede ser un catalizador para el cambio social y económico en la región de América Latina y el Caribe. Nos enfocamos en involucrar activamente a las comunidades en esfuerzos de mapeo colaborativo, otorgando a todas las personas la oportunidad de acceder y contribuir al mapa. Nuestro énfasis radica en la incorporación de una cultura que fomente un enfoque participativo que impregna nuestra ética de trabajo colaborativo.
 
-El Hub de mapeo abierto - América Latina y el Caribe tiene cuatro objetivos claros:
+### **Nos comprometemos a priorizar tres componentes críticos:**
 
-* Apoyar proyectos locales que trabajen con datos cartográficos abiertos, mostrando cómo pueden contribuir al bienestar de las personas.
+1. **Resiliencia ante Riesgos Naturales:** Aprovechando OpenStreetMap (OSM) y herramientas de mapeo abierto, fortalecemos comunidades resilientes para tomar medidas proactivas en la prevención y respuesta a desastres causados por los impactos del cambio climático.
 
-* Comprometerse con las comunidades locales y documentar los problemas y oportunidades a los que puede contribuir la cartografía abierta, fomentando relaciones y el apoyo entre pares, HOT, comunidades, organizaciones y gobiernos.
+2. **Mapeo Inclusivo:** Priorizando la voz y participación de comunidades subrepresentadas y vulnerables en el mapa, asegurando que sus derechos políticos, económicos, socio-culturales y ambientales sean respetados y promovidos.
 
-* Conectar los diferentes actores regionales y apoyar las oportunidades que beneficien el conocimiento de Mapeo Abierto en toda LAC, para apoyar la infraestructura de datos abiertos en la región.
+3. **Impulso del Liderazgo Local:** Animando a las comunidades locales a participar activamente en el desarrollo e innovación de OSM y otras iniciativas, les capacitamos como agentes de cambio. Esta participación facilita soluciones adaptadas para abordar sus desafíos únicos, extendiéndose más allá de OSM para mejorar capacidades y visión estratégica para la creación y uso de datos.
 
-* Co-diseñar con comunidades, voluntarios y otros actores del mapeo abierto de la región lo que el Hub podría ser y hacer.
+### **En línea con esta visión, nuestros programas para el próximo año trabajarán en:**
 
-De esta forma documentaremos experiencias que habrán probado sobre el terreno conceptos, modelos y enfoques aplicables a la labor del Hub, facilitando así el desarrollo de futuras actividades como entrenamientos, procesos de mapeo, financiamiento, alianzas estratégicas, y sobre todo, alcanzar el gran objetivo de lograr una mejora en las comunidades latinoamericanas y caribeñas a través del uso de las tecnologías de datos geoespaciales.
+# Programa Humanitario de LAC
 
-## Nuestros proyectos:
+![OTIS - LAC Humanitarian Programme.jpg](/uploads/OTIS%20-%20LAC%20Humanitarian%20Programme.jpg)
 
-* [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda-0a2b5e/)
+Respondiendo de manera confiable y mejorando la preparación para cada incidente de desastre relevante en la región, nuestros esfuerzos tienen como objetivo ayudar a los actores locales a cultivar una cultura de conciencia del riesgo a través del uso de datos cartográficos abiertos.
 
-* [Mapeo de volcanes en Ecuador](https://www.hotosm.org/projects/mapeo-de-volcanes-en-ecuador/)
+1. [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda/)
 
-* [La Fábrica de proyectos](https://www.hotosm.org/projects/la-fabrica-de-proyectos/)
+2. [Activation in Ecuador](https://www.hotosm.org/projects/mapping-volcanoes-in-ecuador/)
 
-* [Mapeo participativo de transporte en Michoacán](https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-zitacuaro-michoacan/)
+3. [The Ecuador Mapathon](https://www.hotosm.org/updates/El-mapeo-como-respuesta-al-desastre-en-Esmeraldas-Ecuador/)
 
-* [Open Cities Guatemala](https://www.hotosm.org/projects/opencities-guatemala-ES/)
+4. [Mapping Response in Acapulco](https://www.hotosm.org/projects/hurricane-otis-2023-response/)
 
-* [Open Cities México](https://www.hotosm.org/projects/open-cities-mexico-dc7e44/)
+5. [Open Litter Mapping](https://www.hotosm.org/updates/participatory-waste-mapping-a-continuing-effort-for-sustainable-development/)
 
-### **[Nuestras publicaciones](https://www.hotosm.org/projects/publicaciones/)** ([Português](https://www.hotosm.org/projects/publicacoes/), [English](https://www.hotosm.org/projects/publications/))
+6. [The Project Factory](https://www.hotosm.org/projects/the-project-factory/)
 
-## Nosotros
+# Programa Amazonia
 
-<iframe src="https://uploads.knightlab.com/storymapjs/e120c697c1124821d49174a85168e18d/equipo-alfa-del-hub-de-mapeo-abierto-de-america-latina/index.html" frameborder="0" width="100%" height="600"></iframe>
+![Amazonia Program.jpg](/uploads/Amazonia%20Program.jpg)
 
-Síguenos en redes: [TikTok](https://www.tiktok.com/@mapeoabierto_la?lang=es), [Twitter](https://twitter.com/mapeoabierto_la), [Mastodon](https://mapstodon.space/@mapeoabierto_la), [Instagram](https://www.instagram.com/mapeoabierto_la/), [YouTube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA), [Facebook](https://www.facebook.com/Mapeo-abierto-Am%C3%A9rica-Latina-102804808622456/)
+Liderando la monitorización de base y fomentando interacciones entre poblaciones en la Amazonía, nos enfocamos en varios aspectos, incluyendo la preservación ambiental, riesgos de vulnerabilidad social y derechos. Se hace un énfasis particular en el trabajo colaborativo con grupos indígenas para permitir una gestión efectiva del territorio mediante la utilización de datos.
 
-![LAC_landingpage.jpeg](https://cdn.hotosm.org/website/LAC_landingpage.jpeg)
+El Programa Amazonia es una iniciativa multifacética que aborda brechas cartográficas y promueve el mapeo de impacto social en la región. Las asociaciones con autoridades de protección civil tienen como objetivo llenar brechas cartográficas y mejorar la gestión de riesgos. El mapeo anticipado identifica áreas vulnerables para mejorar la planificación y respuesta. Los proyectos comunitarios enseñan cartografía y apoyan la monitorización ambiental en varias ciudades amazónicas de Brasil, Ecuador y Perú, fomentando el compromiso local y la propiedad de datos abiertos.
+
+1. [Amazonian Mappings Iniciative](https://www.hotosm.org/updates/amazonian-mapping-for-an-inclusive-and-sustainable-amazon/)
+
+2. [Collaborative and Inclusive Mapping of the Middles Solimões, Amazon](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)
+
+# Open Mapping for All
+
+![Open Mapping for All.jpg](/uploads/Open%20Mapping%20for%20All.jpg)
+
+Explorando e integrando herramientas de mapeo abierto en proyectos educativos mientras se capacita a la próxima generación de mapeadores abiertos, comenzando en escuelas secundarias de Argentina, Colombia y Perú.
+
+La iniciativa ha involucrado con éxito a más de 2000 estudiantes y 200 profesores en Argentina, Perú y Colombia. Colaborando estrechamente con los Ministerios de Educación de estos países, OM4A tiene como objetivo ampliar el alcance de la educación en mapeo abierto, con un énfasis principal en mejorar el desarrollo de recursos humanos. El objetivo central del programa gira en torno a catalizar a los educadores para aprovechar el potencial de las tecnologías de mapeo dentro de diversos entornos educativos, abarcando tanto paisajes rurales como urbanos.
+
+# Caribbean Program
+
+![Caribbean Program.jpg](/uploads/Caribbean%20Program.jpg)
+
+Nuestros esfuerzos en el Caribe se han centrado en establecer una sólida presencia y fomentar una cultura de práctica, innovación y resiliencia. Al forjar alianzas con partes interesadas locales y organizaciones como la Agencia de Manejo de Emergencias por Desastres del Caribe (CDEMA), hemos facilitado la participación en el desarrollo y la gestión de desastres. El lanzamiento de la Comunidad del Caribe de OSM subraya nuestro compromiso con la colaboración y el intercambio de conocimientos. A través de iniciativas como el programa de capacitación de drones en Dominica, hemos empoderado a los lugareños para capturar datos críticos, mejorando la preparación para desastres. Además, nuestra iniciativa de Resiliencia ante Desastres Centrada en las Mujeres en los Estados Insulares en Desarrollo prioriza equipar a mujeres y niñas con habilidades de cartografía esenciales, permitiendo su participación activa en la respuesta a desastres en varios países del Caribe.
+
+1. [Launch of OSM Caribbean](https://www.hotosm.org/updates/is-the-caribbean-open-mapping-community-poised-to-map-its-way-to-greater-disaster-resilience/)
+
+2. [Enhancing Caribbean Disaster Management Through Collaborative Mapping with CDEMA](https://www.hotosm.org/updates/hot-and-cdema-sign-agreement-to-enhance-disaster-management-in-the-caribbean-with-collaborative-mapping/)
+
+3. [Catalyzing Impact: Inaugural Micro-Grants by HOT and Caribbean School of Data](https://www.hotosm.org/updates/catalyzing-impact-inaugural-micro-grants-by-hot-and-csod/)
+
+4. [Women-Centered Disaster Resilience In Small Island Developing States](https://www.hotosm.org/projects/women-centered-disaster-resilience-in-small-island-developing-states-trinidad-and-tobago/)
+
+# Our stories / news
+
+### Consulta nuestros últimos desarrollos e historias de impacto
+ [aquí](https://www.hotosm.org/projects/publicaciones/).
+
+# Síguenos en redes sociales
+![Social Media - Hub de Mapeo Abierto en América Latina y el Caribe vf-f1eae3.jpg](/uploads/Social%20Media%20-%20Hub%20de%20Mapeo%20Abierto%20en%20Ame%CC%81rica%20Latina%20y%20el%20Caribe%20vf-f1eae3.jpg)
+
+**[Twitter](https://twitter.com/MapHubLAC)** |  **[Instagram](https://www.instagram.com/maphublac/)** | **[Facebook](https://www.facebook.com/MapHubLAC)** | **[LinkedIn](https://www.linkedin.com/showcase/maphublac)** | **[Youtube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA)**
