@@ -7,9 +7,10 @@ Page Contact:
 layout: page
 ---
 
-![LAC_landingpage_English.png](https://cdn.hotosm.org/website/LAC_landingpage_English.png)
+![LAC_landingpage_Español.jpg](/uploads/LAC_landingpage_Espan%CC%83ol.jpg)
 
-En América Latina y el Caribe (ALC), enfrentamos desastres causados por riesgos naturales, junto con otros desafíos para nuestro medio ambiente y desarrollo sostenible, dentro del marco de la diversidad y la pronunciada desigualdad. El equipo de Humanitarian OpenStreetMap (HOT) tiene como objetivo ser un catalizador positivo en esta situación para asegurar que el poder de los datos geográficos abiertos se aproveche plenamente en el apoyo a políticas públicas basadas en datos que fomenten sociedades inclusivas, sostenibles y transparentes. En el centro de nuestro enfoque está la promoción activa y el uso de prácticas de mapeo de impacto social, asegurando que nuestros esfuerzos contribuyan a un desarrollo compartido y significativo.
+
+En América Latina y el Caribe (LAC), enfrentamos desastres causados por riesgos naturales, junto con otros desafíos para nuestro medio ambiente y desarrollo sostenible, dentro del marco de la diversidad y la pronunciada desigualdad. El equipo de Humanitarian OpenStreetMap (HOT) tiene como objetivo ser un catalizador positivo en esta situación para asegurar que el poder de los datos geográficos abiertos se aproveche plenamente en el apoyo a políticas públicas basadas en datos que fomenten sociedades inclusivas, sostenibles y transparentes. En el centro de nuestro enfoque está la promoción activa y el uso de prácticas de mapeo de impacto social, asegurando que nuestros esfuerzos contribuyan a un desarrollo compartido y significativo.
 
 El LAC Hub fue establecido en 2023 con la intención de ubicar acciones que promuevan prácticas de mapeo de impacto social entre grupos diversos. Nuestra firme creencia es que el mapeo de impacto social puede ser un catalizador para el cambio social y económico en la región de América Latina y el Caribe. Nos enfocamos en involucrar activamente a las comunidades en esfuerzos de mapeo colaborativo, otorgando a todas las personas la oportunidad de acceder y contribuir al mapa. Nuestro énfasis radica en la incorporación de una cultura que fomente un enfoque participativo que impregna nuestra ética de trabajo colaborativo.
 
@@ -21,7 +22,7 @@ El LAC Hub fue establecido en 2023 con la intención de ubicar acciones que prom
 
 3. **Impulso del Liderazgo Local:** Animando a las comunidades locales a participar activamente en el desarrollo e innovación de OSM y otras iniciativas, les capacitamos como agentes de cambio. Esta participación facilita soluciones adaptadas para abordar sus desafíos únicos, extendiéndose más allá de OSM para mejorar capacidades y visión estratégica para la creación y uso de datos.
 
-### **En línea con esta visión, nuestros programas para el próximo año trabajarán en:**
+### **En línea con esta visión, nuestros programas son:**
 
 # Programa Humanitario de LAC
 
