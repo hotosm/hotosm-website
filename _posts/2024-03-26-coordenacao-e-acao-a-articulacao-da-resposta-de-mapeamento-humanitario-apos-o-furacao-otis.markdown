@@ -18,6 +18,8 @@ Project:
 - Activación por el Huracán Otis 2023
 ---
 
+### **[English version](https://www.hotosm.org/updates/coordination-and-action-the-articulation-of-humanitarian-mapping-response-after-hurricane-otis/)** / **[Versión en español](https://www.hotosm.org/updates/coordinacion-y-accion-la-articulacion-de-la-respuesta-de-mapeo-humanitario-tras-el-huracan-otis/)**
+
 Em 25 de outubro de 2023, o furacão Otis atingiu a costa de Acapulco, Guerrero (México), com ventos sustentados de até 315 km/h, marcando um marco como o ciclone mais poderoso registrado na história da costa do Pacífico mexicano. O impacto foi devastador: linhas elétricas derrubadas, [sensores sísmicos desativados](https://twitter.com/SkyAlertMx/status/1717210542144651448?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1717210542144651448%7Ctwgr%5E9a3976be807ff85d7bfe77eb4ad6feb89b8864f9%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.xataka.com.mx%2Fecologia-y-naturaleza%2Fskyalert-sassla-pueden-alertar-sismos-origen-guerrero-porque-huracan-otis-desconecto-sensores-que-detectan-movimientos), árvores arrancadas pela raiz, inundações e deslizamentos de terra. Milhares de lares e negócios foram reduzidos a escombros, com um saldo oficial de 50 mortos e 30 desaparecidos, além de centenas de pessoas desabrigadas.¹
 
 ![Otis SASMEX.png](/uploads/Otis%20SASMEX.png)

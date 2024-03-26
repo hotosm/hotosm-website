@@ -17,7 +17,7 @@ Project:
 - Hurricane Otis 2023 Response
 ---
 
-**[Versión en español](https://www.hotosm.org/updates/coordinacion-y-accion-la-articulacion-de-la-respuesta-de-mapeo-humanitario-tras-el-huracan-otis/)**
+### **[Versión en español](https://www.hotosm.org/updates/coordinacion-y-accion-la-articulacion-de-la-respuesta-de-mapeo-humanitario-tras-el-huracan-otis/)** / **[Versão em português](https://www.hotosm.org/updates/coordenacao-e-acao-a-articulacao-da-resposta-de-mapeamento-humanitario-apos-o-furacao-otis/)**
 
 On October 25, 2023, Hurricane Otis battered the coast of Acapulco, Guerrero (Mexico), with sustained winds of up to 315 km/h, marking a milestone as the most powerful cyclone recorded in the history of the Mexican Pacific coast. The impact was devastating: power lines knocked down, [seismic sensors halted](https://twitter.com/SkyAlertMx/status/1717210542144651448?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1717210542144651448%7Ctwgr%5E9a3976be807ff85d7bfe77eb4ad6feb89b8864f9%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.xataka.com.mx%2Fecologia-y-naturaleza%2Fskyalert-sassla-pueden-alertar-sismos-origen-guerrero-porque-huracan-otis-desconecto-sensores-que-detectan-movimientos), trees uprooted, floods, and landslides. Thousands of homes and businesses were reduced to rubble, with an official death toll of 50 and 30 missing, in addition to hundreds of homeless people.
 
