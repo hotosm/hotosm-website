@@ -10,6 +10,8 @@ layout: page
 
 ![LAC_landingpage_English.png](https://cdn.hotosm.org/website/LAC_landingpage_English.png)
 
+> **[Spanish Version](https://www.hotosm.org/hubs/hub-mapeo-abierto-latam-caribe/)** / **[Versão em Português](https://www.hotosm.org/hubs/hub-de-mapeamento-aberto-america-latina-e-caribe)**
+
 In Latin America and the Caribbean (LAC), we face disasters caused by natural hazards, along with many other challenges to our environment and sustainable development, within the framework of diversity and pronounced inequality. The Humanitarian OpenStreetMap Team (HOT) aims to be a positive catalyst in this situation to make sure the power of open geographic data is fully leveraged in supporting data-driven public policies that foster inclusive, sustainable, and transparent societies. At the core of our approach is the active promotion and utilization of social impact mapping practices, ensuring that our efforts contribute to a shared and meaningful development.
 
 The LAC Hub was established in 2023 with the intention to locate actions advancing social impact mapping practices among diverse groups. Our firm belief is that social impact mapping can be a catalyst for social and economic change in the LAC region. We focus on actively involving communities in collaborative mapping efforts, granting everyone the opportunity to access and contribute to the map. Our emphasis lies in embedding a culture that cultivates a participatory approach that permeates our collaborative work ethic.
@@ -84,6 +86,6 @@ Our efforts in the Caribbean have focused on establishing a strong presence and 
 
 # Follow us on social media
 
-[![Social Media - Open Mapping Hub Latin America and the Caribbean.png](/uploads/Social%20Media%20-%20Open%20Mapping%20Hub%20Latin%20America%20and%20the%20Caribbean.png)](https://linktr.ee/MapHubLAC)
+![Social Media - Open Mapping Hub Latin America and the Caribbean.png](/uploads/Social%20Media%20-%20Open%20Mapping%20Hub%20Latin%20America%20and%20the%20Caribbean.png)
 
 **[Twitter](https://twitter.com/MapHubLAC)** |  **[Instagram](https://www.instagram.com/maphublac/)** | **[Facebook](https://www.facebook.com/MapHubLAC)** | **[LinkedIn](https://www.linkedin.com/showcase/maphublac)** | **[Youtube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA)**
