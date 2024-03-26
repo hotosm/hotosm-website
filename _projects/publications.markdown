@@ -19,15 +19,15 @@ Impact Area:
 
 **Posts are in reverse chronological order**
 
-25/03/2024 - [Coordination and Action: The Articulation of Humanitarian Mapping Response after Hurricane Otis] (https://www.hotosm.org/updates/coordination-and-action-the-articulation-of-humanitarian-mapping-response-after-hurricane-otis/)
+25/03/2024 - [Coordination and Action: The Articulation of Humanitarian Mapping Response after Hurricane Otis](https://www.hotosm.org/updates/coordination-and-action-the-articulation-of-humanitarian-mapping-response-after-hurricane-otis/)
 
-07/03/2024 - [Mapping Our Community: Paula dos Santos Silva's Journey in the Amazon] (https://www.hotosm.org/updates/mapping-our-community-paula-dos-santos-silvas-journey-in-the-amazon/)
+07/03/2024 - [Mapping Our Community: Paula dos Santos Silva's Journey in the Amazon](https://www.hotosm.org/updates/mapping-our-community-paula-dos-santos-silvas-journey-in-the-amazon/)
 
-05/03/2024 - [Catalyzing Women in Disaster Response: Insights from Women Mappers in the Caribbean] (https://www.hotosm.org/updates/catalyzing-women-in-disaster-response-insights-from-women-mappers-in-the-caribbean/)
+05/03/2024 - [Catalyzing Women in Disaster Response: Insights from Women Mappers in the Caribbean](https://www.hotosm.org/updates/catalyzing-women-in-disaster-response-insights-from-women-mappers-in-the-caribbean/)
 
-26/02/2024 - [Young People Tracing Resilience in San Antonio de Prado, Colombia] (https://www.hotosm.org/updates/young-people-tracing-resilience-in-san-antonio-de-prado-colombia/)
+26/02/2024 - [Young People Tracing Resilience in San Antonio de Prado, Colombia](https://www.hotosm.org/updates/young-people-tracing-resilience-in-san-antonio-de-prado-colombia/)
 
-22/02/204 - [Data sovereignty, open mapping and indigenous territories] (https://www.hotosm.org/updates/data-sovereignty-open-mapping-indigenous-territories/)
+22/02/204 - [Data sovereignty, open mapping and indigenous territories](https://www.hotosm.org/updates/data-sovereignty-open-mapping-indigenous-territories/)
 
 25/01/2024 - [Catalyzing Impact: Inaugural Micro-Grants by HOT and Caribbean School of Data](https://www.hotosm.org/updates/catalyzing-impact-inaugural-micro-grants-by-hot-and-csod/)
 
