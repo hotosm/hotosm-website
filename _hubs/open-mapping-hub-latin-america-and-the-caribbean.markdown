@@ -10,8 +10,6 @@ layout: page
 
 ![LAC_landingpage_English.png](https://cdn.hotosm.org/website/LAC_landingpage_English.png)
 
-# Enhancing resilient communities through social impact mapping in Latin America and the Caribbean
-
 In Latin America and the Caribbean (LAC), we face disasters caused by natural hazards, along with many other challenges to our environment and sustainable development, within the framework of diversity and pronounced inequality. The Humanitarian OpenStreetMap Team (HOT) aims to be a positive catalyst in this situation to make sure the power of open geographic data is fully leveraged in supporting data-driven public policies that foster inclusive, sustainable, and transparent societies. At the core of our approach is the active promotion and utilization of social impact mapping practices, ensuring that our efforts contribute to a shared and meaningful development.
 
 The LAC Hub was established in 2023 with the intention to locate actions advancing social impact mapping practices among diverse groups. Our firm belief is that social impact mapping can be a catalyst for social and economic change in the LAC region. We focus on actively involving communities in collaborative mapping efforts, granting everyone the opportunity to access and contribute to the map. Our emphasis lies in embedding a culture that cultivates a participatory approach that permeates our collaborative work ethic.
@@ -32,17 +30,17 @@ The LAC Hub was established in 2023 with the intention to locate actions advanci
 
 Reliably responding to and enhancing preparedness for every relevant disaster incident in the region, our efforts aim to assist local actors in cultivating a culture of risk awareness through the use of open cartographic data.
 
-1. **[Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda/)**
+1. [Canoa de Tolda](https://www.hotosm.org/projects/canoa-de-tolda/)
 
-2. **[Activation in Ecuador](https://www.hotosm.org/projects/mapping-volcanoes-in-ecuador/)**
+2. [Activation in Ecuador](https://www.hotosm.org/projects/mapping-volcanoes-in-ecuador/)
 
-3. **[The Ecuador Mapathon](https://www.hotosm.org/updates/El-mapeo-como-respuesta-al-desastre-en-Esmeraldas-Ecuador/)**
+3. [The Ecuador Mapathon](https://www.hotosm.org/updates/El-mapeo-como-respuesta-al-desastre-en-Esmeraldas-Ecuador/)
 
-4. **[Mapping Response in Acapulco](https://www.hotosm.org/projects/hurricane-otis-2023-response/)**
+4. [Mapping Response in Acapulco](https://www.hotosm.org/projects/hurricane-otis-2023-response/)
 
-5. **[Open Litter Mapping](https://www.hotosm.org/updates/participatory-waste-mapping-a-continuing-effort-for-sustainable-development/)**
+5. [Open Litter Mapping](https://www.hotosm.org/updates/participatory-waste-mapping-a-continuing-effort-for-sustainable-development/)
 
-6. **[The Project Factory](https://www.hotosm.org/projects/the-project-factory/)**
+6. [The Project Factory](https://www.hotosm.org/projects/the-project-factory/)
 
 # **Amazonia Program**
 
@@ -52,9 +50,9 @@ Leading grassroots monitoring and fostering interactions among populations with 
 
 The Amazonia Program is a multifaceted initiative addressing cartographic gaps and promoting social impact mapping in the region. Partnerships with civil protection authorities aim to fill cartographic gaps and improve risk management. Anticipatory mapping identifies vulnerable areas to enhance planning and response. Community projects teach cartography and support environmental monitoring across various Amazonian cities in Brazil, Ecuador, and Peru, fostering local engagement and open data ownership.
 
-1. **[Amazonian Mappings Iniciative](https://www.hotosm.org/updates/amazonian-mapping-for-an-inclusive-and-sustainable-amazon/)**
+1. [Amazonian Mappings Iniciative](https://www.hotosm.org/updates/amazonian-mapping-for-an-inclusive-and-sustainable-amazon/)
 
-2. **[Collaborative and Inclusive Mapping of the Middles Solimões, Amazon](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)**
+2. [Collaborative and Inclusive Mapping of the Middles Solimões, Amazon](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)
 
 # **Open Mapping for All**
 
@@ -70,13 +68,13 @@ The initiative has successfully engaged over 2,000 students and 200 teachers acr
 
 Our efforts in the Caribbean have focused on establishing a strong presence and fostering a culture of practice, innovation, and resilience. By forging partnerships with local stakeholders and organizations like the Caribbean Disaster Emergency Management Agency (CDEMA), we've facilitated engagement in development and disaster management. The launch of the OSM Caribbean Community underscores our commitment to collaboration and knowledge sharing. Through initiatives like the Drone Training program in Dominica, we've empowered locals to capture critical data, enhancing disaster preparedness. Additionally, our Women-Centered Disaster Resilience in SIDS initiative prioritizes equipping women and girls with essential mapping skills, enabling their active involvement in disaster response across several Caribbean nations.
 
-1. **[Launch of OSM Caribbean](https://www.hotosm.org/updates/is-the-caribbean-open-mapping-community-poised-to-map-its-way-to-greater-disaster-resilience/)**
+1. [Launch of OSM Caribbean](https://www.hotosm.org/updates/is-the-caribbean-open-mapping-community-poised-to-map-its-way-to-greater-disaster-resilience/)
 
-2. **[Enhancing Caribbean Disaster Management Through Collaborative Mapping with CDEMA](https://www.hotosm.org/updates/hot-and-cdema-sign-agreement-to-enhance-disaster-management-in-the-caribbean-with-collaborative-mapping/)**
+2. [Enhancing Caribbean Disaster Management Through Collaborative Mapping with CDEMA](https://www.hotosm.org/updates/hot-and-cdema-sign-agreement-to-enhance-disaster-management-in-the-caribbean-with-collaborative-mapping/)
 
-3. **[Catalyzing Impact: Inaugural Micro-Grants by HOT and Caribbean School of Data](https://www.hotosm.org/updates/catalyzing-impact-inaugural-micro-grants-by-hot-and-csod/)**
+3. [Catalyzing Impact: Inaugural Micro-Grants by HOT and Caribbean School of Data](https://www.hotosm.org/updates/catalyzing-impact-inaugural-micro-grants-by-hot-and-csod/)
 
-4. **[Women-Centered Disaster Resilience In Small Island Developing States](https://www.hotosm.org/projects/women-centered-disaster-resilience-in-small-island-developing-states-trinidad-and-tobago/)**
+4. [Women-Centered Disaster Resilience In Small Island Developing States](https://www.hotosm.org/projects/women-centered-disaster-resilience-in-small-island-developing-states-trinidad-and-tobago/)
 
 # **Our stories / news**
 
