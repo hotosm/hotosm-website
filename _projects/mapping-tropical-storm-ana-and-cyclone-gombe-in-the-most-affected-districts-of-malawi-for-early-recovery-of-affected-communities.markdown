@@ -2,13 +2,16 @@
 title: Mapping Tropical Storm Ana and Cyclone Gombe in the Most Affected Districts
   of Malawi for Early Recovery of Affected Communities
 date: 2023-05-16 21:45:00 Z
-Project Summary Text: Tropical Storm Ana, which made landfall in Malawi on 24 January
+Project Summary Text: "Tropical Storm Ana, which made landfall in Malawi on 24 January
   2022, caused heavy rainfall and strong winds in several districts in Malawi. In
-  the aftermath of the Ts Ana, Cyclone Gombe also hit the same districts. As a result,
-  houses, road networks, hydroelectric power stations, schools, and health facilities,
-  among others were destroyed. The districts of Salima, Chikwawa, and Nsanje were
-  most affected by the cyclone.
+  the aftermath of the TS Ana, Cyclone Gombe also hit the same districts in March
+  2022. As a result, houses, road networks, hydroelectric power stations, schools,
+  and health facilities, among others were destroyed. \n\nThis project, supported
+  by HOT and implemented by the Malawi Red Cross and local OSM Communities, provided
+  updated geospatial information on infrastructure and historic flooding in the affected
+  districts of Chikwawa and Nsanje. "
 Feature Image: https://cdn.hotosm.org/website/ESA_MappingStormsMalawi1.jpeg
+Is Community-Led: true
 Country:
 - Malawi
 Impact Area:
@@ -17,6 +20,9 @@ Partner:
 - Malawi Red Cross Society
 - " Nkhoma University"
 - OpenStreetMap Malawi
+Duration:
+  Start Date: 2022-06-01 00:00:00 Z
+  End Date: 2023-11-20 00:00:00 Z
 ---
 
 ![ESA_MappingStormsMalawi2.jpeg](https://cdn.hotosm.org/website/ESA_MappingStormsMalawi2.jpeg)
