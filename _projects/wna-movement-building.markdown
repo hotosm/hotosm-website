@@ -7,14 +7,14 @@ tags:
 - movement building
 - wna grants
 - grants
-Feature Image: "/uploads/WNA-Small-Island.jpg"
+Feature Image: https://cdn.hotosm.org/website/WNA-Small-Island.jpg
 ---
 
 # Movement Building
 
 ## OSM Grants and Fellowships
 
-![WNA-Small-Island.jpg](/uploads/WNA-Small-Island.jpg)
+![WNA-Small-Island.jpg](https://cdn.hotosm.org/website/WNA-Small-Island.jpg)
 
 The hub has embarked on a campaign to mobilize contributors in the region, through a test - learn - scale-up approach. Among the 24 countries, we opted to test a community-building approach in 10 countries. This approach is aimed at existing organizations promoting OSM, through a certified training course in the management of civil society organizations, followed by a grant of $10,000 each for 6 months. In addition, we have made available a research grant for 8 people, from 4 countries, to support the development of a community of researchers around OSM.
 
@@ -46,7 +46,7 @@ So far, the hub has engaged with 19 members from different OSM communities, incl
 
 ## Tech Help Desk
 
-![techhelpdesk.png](/uploads/techhelpdesk.png)
+![techhelpdesk.png](https://cdn.hotosm.org/website/techhelpdesk.png)
 
 The help desk provides technical support and assistance for organizations, institutions, governments, stakeholders and partners in general  using open source geospatial technologies, aiming to overcome barriers and promote their effective adoption for geomatics and digital mapping. It establishes a network of volunteer contributors forming a technical task force, offering support.
 

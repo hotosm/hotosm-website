@@ -10,7 +10,7 @@ Summary Text: Tasking Manager stands as a key solution in the realm of collabora
   and experiences of our Tasking Manager users. The invaluable feedback, received
   from 59 users globally, has opened a window into user satisfaction, areas of strength,
   and opportunities for enhancement.
-Feature Image: "/uploads/Tasking%20Manager%20NPS%20Article.png"
+Feature Image: https://cdn.hotosm.org/website/Tasking+Manager+NPS+Article.png
 Person: Ramya Ragupathy
 Working Group:
 - TechandInnovation
@@ -47,7 +47,7 @@ Despite an overall positive vibe, users have shared a mix of thoughts about Task
 
 In response to user feedback, Tasking Manager now lets users download OSM data for mapping areas. Each project features a dedicated Download OSM Data section, providing seamless access to pre-generated base map feature exports in GeoJSON, KML, and SHP formats.
  
-![Tasking Manager NPS 3.png](/uploads/Tasking%20Manager%20NPS%203.png)
+![Tasking Manager NPS 3.png](https://cdn.hotosm.org/website/Tasking+Manager+NPS+3.png)
 
 This enhancement aligns with user needs and takes inspiration from the flexibility offered by [HOT's Export Tool.
 ](https://export.hotosm.org/v3/)

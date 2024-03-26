@@ -14,7 +14,7 @@ tags:
 Summary Text: The Latin American and Caribbean (LAC) Open Mapping Hub has organized
   a series of monthly talks that show the contribution that open and collaborative
   mapping can make to humanitarian work and sustainable development.
-Feature Image: "/uploads/charla1.jpg"
+Feature Image: https://cdn.hotosm.org/website/charla1.jpg
 Person: Juan Arellano Valdivia
 ---
 
@@ -24,7 +24,7 @@ That is why at the Latin America and the Caribbean (LAC) Open Mapping Hub we dec
 
 So, last Thursday, August 17, we inaugurated this cycle of conversations with the talk: "**The challenge of digital humanitarianism in Latin America and the Caribbean**". Our guests were: [Catalina Jaime](https://www.climatecentre.org/staff/catalina-jaime/), Head of climate and conflict at Red Cross Red Crescent Climate Center and [Simone Lucatello](https://www.institutomora.edu.mx/Investigacion/SimoneLucatello/SitePages/Inicio.aspx), Director of the research program at the Dr. José María Luis Mora Research Institute. Our Director, [Fabrizio Scrollini Mendez](https://www.hotosm.org/people/fabrizio-scrollini/), led the session.
 
-![Ciclo de charlas - 1.png](/uploads/Ciclo%20de%20charlas%20-%201.png)
+![Ciclo de charlas - 1.png](https://cdn.hotosm.org/website/Ciclo+de+charlas+-+1.png)
 
 Some quotes from what the guests said in their interventions are the following:
 
@@ -46,7 +46,7 @@ On this occasion, Juan Manuel Berdeja - Director of Planning and Projects, COCOT
 
 The broadcast will be seen live on [our channel](https://www.youtube.com/@hubmapeoabiertoALC/streams) on YouTube. Do not miss it!
 
-![photo_4915984413150523191_y.jpg](/uploads/photo_4915984413150523191_y.jpg)
+![photo_4915984413150523191_y.jpg](https://cdn.hotosm.org/website/photo_4915984413150523191_y.jpg)
 .
 
 *Also find out [how we collaborate](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) with National Institutes of Geography.*

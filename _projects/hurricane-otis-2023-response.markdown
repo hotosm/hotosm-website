@@ -7,7 +7,7 @@ Project Summary Text: After Hurricane Otis struck Acapulco, HOT worked with loca
   5,439 damaged structures. Lessons learned highlight the importance of aligning mapping
   with evolving response and reconstruction needs. Community-driven initiatives, backed
   by various stakeholders, are addressing challenges for a sustainable recovery.
-Feature Image: "/uploads/Acapulco%20-%20Otis%20-%20Drone.png"
+Feature Image: https://cdn.hotosm.org/website/Acapulco+-+Otis+-+Drone.png
 Country:
 - Mexico
 Impact Area:
@@ -44,7 +44,7 @@ Blogs:
 ## **CONTEXT**
 [Hurricane Otis](https://reliefweb.int/report/mexico/mexico-hurricane-otis-dref-operational-update-mdrmx005), a formidable Category 5 storm, struck Acapulco, Guerrero, Mexico, on October 25, 2023, unleashing devastating winds and torrential rains. This catastrophic event caused extensive damage, including the collapse of buildings and infrastructure, displacement of populations and loss of life. The aftermath left Acapulco in urgent need of comprehensive recovery efforts. The local government response, while immediate, lacked detailed geospatial data, crucial for effective reconstruction planning, and data management coordination capabilities. Recognizing this data gap, the Humanitarian OpenStreetMap Team (HOT) and community institutions initiated a project to address the critical need for accurate mapping and information. The absence of accurate geospatial data hindered targeted relief efforts, affecting the lives of those affected and the recovery of basic services and economic activity by impeding damage assessments and the efficient allocation of resources and delaying order and reconstruction efforts. The delay in operations also fostered the generalization of a complex situation of violence in the area.
 
-![Otis_2023_landfall.gif](/uploads/Otis_2023_landfall.gif)
+![Otis_2023_landfall.gif](https://cdn.hotosm.org/website/Otis_2023_landfall.gif)
 
 *Gif: NOAA Office of Satellite and Product Operations (OSPO)*
 
@@ -58,7 +58,7 @@ Despite challenges in connecting with local authorities, innovative solutions li
 
 The project's detailed mapping efforts, encompassing pre- and post-disaster buildings with a specific focus on educational institutions, health facilities, and public markets, provided a comprehensive understanding of the infrastructure landscape. Additionally, these efforts yielded estimates of affected populations, which played a crucial role in guiding targeted interventions and recovery planning.
 
-![Acapulco Activation following Hurricane Otis.png](/uploads/Acapulco%20Activation%20following%20Hurricane%20Otis.png)
+![Acapulco Activation following Hurricane Otis.png](https://cdn.hotosm.org/website/Acapulco+Activation+following+Hurricane+Otis.png)
 
 *Photo: ProtoplasmaKid / Wikimedia Commons / CC-BY-SA 4.0*
 

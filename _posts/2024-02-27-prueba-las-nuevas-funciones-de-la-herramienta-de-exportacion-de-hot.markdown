@@ -7,7 +7,7 @@ Summary Text: OpenStreetMap (OSM) es más que el mapa base que ves en osm.org u 
   en los sistemas GIS. Para los analistas de datos y cartógrafos que desean acceder
   a conjuntos de datos de OSM para usarlos en QGIS u otras aplicaciones similares,
   ¡la herramienta de exportación de HOT ahora es mucho más útil!
-Feature Image: "/uploads/Export%20Lead.png"
+Feature Image: https://cdn.hotosm.org/website/Export+Lead.png
 Person: Kshitij Sharma
 Working Group:
 - TechandInnovation
@@ -31,31 +31,31 @@ También tenemos a continuación todas las actualizaciones explicadas con captur
 
 Las actualizaciones de la herramienta de exportación introducen una nueva función que permite a los usuarios descargar todos los datos de OSM disponibles dentro del área. Puedes utilizar esta casilla de verificación Download all OSM data (Descargar todos los datos de OSM) que figura en la pestaña Datos. Esto incluirá todas las etiquetas en los atributos, lo que te permitirá filtrar los datos que necesitas o crear un mapa base a partir de las características exportadas.
 
-![Export 1.png](/uploads/Export%201.png)
+![Export 1.png](https://cdn.hotosm.org/website/Export+1.png)
 
 **3. Obtén límites de proyecto en el HOT Tasking Manager con la herramienta de exportación**
 
 Ahora, la herramienta de exportación puede admitir el ID del proyecto del Tasking Manager como entrada directamente en la barra de búsqueda. El ID del proyecto debe ir seguido de la palabra tm. Cuando un usuario selecciona un ID de proyecto del Tasking Manager como área de interés, se exportarán los datos de OSM asociados con ese proyecto.
 
-![Export 2.png](/uploads/Export%202.png)
+![Export 2.png](https://cdn.hotosm.org/website/Export+2.png)
 
 **4. Cargar características OSM individuales como límite**
 
 La herramienta de exportación ahora también te brinda una opción para exportar datos dentro de características individuales de [relación OSM](https://wiki.openstreetmap.org/wiki/Relation). Por ejemplo, para llevar este [límite de municipio](https://www.openstreetmap.org/relation/6104486#map=11/28.2094/83.9733) de OSM a la herramienta de exportación, simplemente puedes escribir OSM y su identificación como se ve en la imagen  continuación y exportar las características requeridas.
 
-![Export 3.png](/uploads/Export%203.png)
+![Export 3.png](https://cdn.hotosm.org/website/Export+3.png)
 
 **5. Obtén información rápida sobre tu área de exportación antes de hacer una solicitud de exportación real**
 
 La herramienta de exportación tiene una nueva característica llamada información sobre la integridad de los datos. Cuando creas una geom o haces una carga en la herramienta de exportación, después de un par de segundos, verás información justo encima de la marca de tiempo del sistema. Lo llamamos métricas de integridad de datos, posible a través de varias fuentes que se pueden encontrar como se enumeran [aquí](https://github.com/hotosm/raw-data-api/blob/develop/docs/src/stats/indicators.md). ¡Te dará un vistazo rápido sobre el área donde planeas exportar!
 
-![Export 4.png](/uploads/Export%204.png)
+![Export 4.png](https://cdn.hotosm.org/website/Export+4.png)
 
 **6. Implementación de OSM Oauth2.0**
 
 Hemos implementado la autenticación oauth2.0 para OSM. Esto significa un gran cambio referido a la forma de iniciar sesión. Primero deberás cerrar sesión y luego iniciar sesión nuevamente en la herramienta de exportación, ¡y todo lo demás debería funcionar como antes! Verás un banner como el siguiente en tu pantalla.
 
-![Export 5.png](/uploads/Export%205.png)
+![Export 5.png](https://cdn.hotosm.org/website/Export+5.png)
 
 **7. Nuevo backend para la herramienta de exportación: Raw data API (API de datos sin procesar) -noticias interesantes para los desarrolladores-, el umbral de área se ha incrementado en un 50 %**
 
@@ -63,7 +63,7 @@ La Raw data API (https://github.com/hotosm/raw-data-api/) ahora sirve como un nu
 
 fAIr, HOT Tasking Manager, y FMTM ya usan la Raw data API, SQL y Mbtiles. Esta nueva integración de backend te brindará resultados más rápidos para los formatos de archivo seleccionados.
 
-![Export 6.png](/uploads/Export%206.png)
+![Export 6.png](https://cdn.hotosm.org/website/Export+6.png)
 
 **¿Qué más puedes esperar de la herramienta de exportación?**
 

@@ -6,7 +6,7 @@ Summary Text: Descubre el impactante trabajo voluntario de Ana Restrepo y un gru
   no solo identifica áreas de riesgo, sino que también fomenta la participación ciudadana
   y demuestra cómo la juventud y las herramientas de mapeo pueden impulsar un cambio
   social significativo.
-Feature Image: "/uploads/Ana%20Restrepo%20-%20San%20Antonio%20de%20Prado.jpg"
+Feature Image: https://cdn.hotosm.org/website/Ana+Restrepo+-+San+Antonio+de+Prado.jpg
 Person: Mariana Marín
 Country:
 - Colombia
@@ -16,7 +16,7 @@ Project:
 
 En las afueras de Medellín, Colombia, se encuentra el corregimiento¹ de San Antonio de Prado. Este lugar rodeado de colinas y bosques, destaca especialmente por tener tanto naturaleza como vida urbana. Sin embargo, la comunidad que vive allí enfrenta un desafío significativo: los deslizamientos de tierra amenazan su seguridad y bienestar. La topografía montañosa y las intensas lluvias propias de la región crean un escenario propicio para la erosión del suelo y la ocurrencia de deslizamientos, poniendo en riesgo la seguridad y el bienestar de su comunidad.
 
-![San Antonio de Prado - Mapeo HOT 1.jpg](/uploads/San%20Antonio%20de%20Prado%20-%20Mapeo%20HOT%201.jpg)
+![San Antonio de Prado - Mapeo HOT 1.jpg](https://cdn.hotosm.org/website/San+Antonio+de+Prado+-+Mapeo+HOT+1.jpg)
 
 En este contexto, nos encontramos con Ana Carolina Restrepo, una estudiante de Ciencias Ambientales de 20 años nacida en San Antonio de Prado. Su visión de la vida es decidida y proactiva. Su aprendizaje en herramientas de mapeo comunitario ha sido su guía. Ella, junto a un equipo de jóvenes pertenecientes a [YouthMappers](https://www.youthmappers.org/), ha emprendido un proyecto que va más allá de simplemente cartografiar zonas de riesgo; su objetivo es involucrar de manera activa a la comunidad para asegurar que sus necesidades queden plasmadas en las decisiones que se tomen.
 
@@ -24,7 +24,7 @@ En nuestra charla con Ana, exploramos sus motivaciones y cómo el mapeo de impac
 
 # CONOCIENDO A ANA RESTREPO: LIDERESA JUVENIL 
 
-![Ana Carolina Restrepo.jpg](/uploads/Ana%20Carolina%20Restrepo.jpg)
+![Ana Carolina Restrepo.jpg](https://cdn.hotosm.org/website/Ana+Carolina+Restrepo.jpg)
 
 ## **—¿Quién es Ana?** 
 
@@ -37,7 +37,7 @@ motiva es la posibilidad de enseñar y contribuir a proyectos significativos. An
 
 Con este trasfondo, Ana nos ofrece una visión de su comunidad, San Antonio de Prado. En el mapa, se muestra como una zona con una topografía predominantemente montañosa, creando un paisaje vertical. Rodeada de montañas, lagunas y ríos, Ana destaca la belleza natural que los rodea. Su entusiasmo destaca cuando menciona la Quebrada Doña María, la cuenca principal del corregimiento que es esencial para la producción y suministro de agua potable. A pesar de las preocupaciones por desbordamientos ocasionales, esta quebrada es una presencia constante en la vida de la comunidad y una fuente invaluable de recursos naturales.
 
-![Deslizamientos 2022 - San Antonio de Prado.jpg](/uploads/Deslizamientos%202022%20-%20San%20Antonio%20de%20Prado.jpg)
+![Deslizamientos 2022 - San Antonio de Prado.jpg](https://cdn.hotosm.org/website/Deslizamientos+2022+-+San+Antonio+de+Prado.jpg)
 
 San Antonio de Prado alberga a una gran población y ostenta el título de ser el segundo corregimiento más extenso de Colombia. La esencia de esta comunidad se manifiesta en la abundante nubosidad, el clima frío y las notables variaciones de temperatura a medida que uno asciende por la ciudad. Aquí, el aire posee un aroma distintivo, único en comparación con otros lugares. Además, el constante sonido de los automóviles y vehículos de transporte público es una parte integral del paisaje sonoro, dada la extensa red de transporte que recorre las veredas y conecta el corregimiento con el centro de la ciudad.
 
@@ -69,7 +69,7 @@ Ana, ahora, se encuentra más inmersa en la vida social del corregimiento, compa
 
 # EL FUTURO DEL MAPEO COMUNITARIO EN SAN ANTONIO DE PRADO
 
-![Mapeo Participativo - San Antonio de Prado.jpg](/uploads/Mapeo%20Participativo%20-%20San%20Antonio%20de%20Prado.jpg)
+![Mapeo Participativo - San Antonio de Prado.jpg](https://cdn.hotosm.org/website/Mapeo+Participativo+-+San+Antonio+de+Prado.jpg)
 
 ## **— ¿Qué impacto ha tenido en tu comunidad?**
 
@@ -81,7 +81,7 @@ Lo que entusiasma a Ana es que este proyecto no tiene un final definitivo; está
 
 # POR UN FUTURO RESILIENTE Y PARTICIPATIVO
 
-![Ana - Mapeo Comunitario en San Antonio de Prado.jpg](/uploads/Ana%20-%20Mapeo%20Comunitario%20en%20San%20Antonio%20de%20Prado.jpg)
+![Ana - Mapeo Comunitario en San Antonio de Prado.jpg](https://cdn.hotosm.org/website/Ana+-+Mapeo+Comunitario+en+San+Antonio+de+Prado.jpg)
 
 ## **— ¿Qué sigue para ti, Ana?**
 

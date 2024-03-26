@@ -50,7 +50,7 @@ We will not be granting in Zimbabwe this time (Zimbabwe was the sixth country in
 # Projects
 
 ## OpenStreetMap in Schools - Uganda
-![osm-uganda-sml-148x146.png](/uploads/osm-uganda-sml-148x146.png)
+![osm-uganda-sml-148x146.png](https://cdn.hotosm.org/website/osm-uganda-sml-148x146.png)
 **OpenStreetMap Uganda**
 
 **Impact area: Sustainable Cities and Communities**
@@ -65,10 +65,10 @@ The project aims to: 
 * Increase access to affordable, consistent, and reliable computer hardware in schools for both teachers and students.
 * Increase knowledge and use of open-source geographical tools and software in schools and the entire education sector.
 
-![Screenshot 2023-06-30 1.29.46 AM.png](/uploads/Screenshot%202023-06-30%201.29.46%20AM.png)
+![Screenshot 2023-06-30 1.29.46 AM.png](https://cdn.hotosm.org/website/Screenshot+2023-06-30+1.29.46+AM.png)
 
 ## Community Participatory Mapping for Disaster Resilience - Kenya
-![krcs-sml-146x146.png](/uploads/krcs-sml-146x146.png)
+![krcs-sml-146x146.png](https://cdn.hotosm.org/website/krcs-sml-146x146.png)
 **Kenya Red Cross**
 
 **Impact area: Disasters and Climate Resilience**
@@ -82,11 +82,11 @@ The project aims to: 
 * Increase the local community’s understanding of their risk, vulnerabilities, and capacities. 
 * Foster data-driven decision-making through the proactive use of data during disaster response.
 
-![Screenshot 2023-06-30 1.28.40 AM.png](/uploads/Screenshot%202023-06-30%201.28.40%20AM.png)
+![Screenshot 2023-06-30 1.28.40 AM.png](https://cdn.hotosm.org/website/Screenshot+2023-06-30+1.28.40+AM.png)
 
 ## Using open-source tools to profile 17 informal settlements in Hoima and Lira cities in Uganda
 
-![mapri-sml-212x146.png](/uploads/mapri-sml-212x146.png)
+![mapri-sml-212x146.png](https://cdn.hotosm.org/website/mapri-sml-212x146.png)
 
 **MapRI Initiative**
 
@@ -101,11 +101,11 @@ The project aims to: 
 * Strengthen community cohesion, by supporting community members to lead mapping activities.
 * Enable effective lobbying for better service delivery by gathering information about local facilities across the informal settlements, and supporting communities to use these tools for better negotiation for service.
 
-![Screenshot 2023-06-30 1.30.18 AM.png](/uploads/Screenshot%202023-06-30%201.30.18%20AM.png)
+![Screenshot 2023-06-30 1.30.18 AM.png](https://cdn.hotosm.org/website/Screenshot+2023-06-30+1.30.18+AM.png)
 
 ## Building capacity for inclusive data collection for OSM Community in Namibia
 
-![sdfn-logo-184x130.jpg](/uploads/sdfn-logo-184x130.jpg)
+![sdfn-logo-184x130.jpg](https://cdn.hotosm.org/website/sdfn-logo-184x130.jpg)
 
 **Namibia Housing Action Group and The Shack Dwellers Federation of Namibia**
 
@@ -120,11 +120,11 @@ The project aims to:
 * Strengthen the relationship between the SDFN and local stakeholders which will enhance the usage and adoption of participatory and inclusive methods in data collection
 * Make data available for local authorities to better inform the implementation of the local land information system. This has the potential to improve efficiency in land administration. 
 
-![Screenshot 2023-06-30 1.30.48 AM.png](/uploads/Screenshot%202023-06-30%201.30.48%20AM.png)
+![Screenshot 2023-06-30 1.30.48 AM.png](https://cdn.hotosm.org/website/Screenshot+2023-06-30+1.30.48+AM.png)
 
 ## Mapping Ruboni village tourism attractions; accommodations, tourist trails, and tourism centers, on OpenStreetMap to enhance their visitation and competitiveness in the regional tourism market - Uganda
 
-![rubonilogo-146x92.png](/uploads/rubonilogo-146x92.png)
+![rubonilogo-146x92.png](https://cdn.hotosm.org/website/rubonilogo-146x92.png)
 
 **Ruboni Community Conservation and Development Program (RCCDP)**
 
@@ -140,11 +140,11 @@ The project aims to: 
 * Train community members (tourist guides and community-based tourism enterprises) on the collection, interpretation, and data management of Rwenzori gateway tourism attractions on OSM.
 * Directly impact the increase of tourism in the area through OSM data collection and use
 
-![Screenshot 2023-06-30 1.30.00 AM.png](/uploads/Screenshot%202023-06-30%201.30.00%20AM.png)
+![Screenshot 2023-06-30 1.30.00 AM.png](https://cdn.hotosm.org/website/Screenshot+2023-06-30+1.30.00+AM.png)
 
 ## Climate resilience planning with digital mapping - Zambia
 
-![daniel_logo1-300x168-300x168.jpg](/uploads/daniel_logo1-300x168-300x168.jpg)
+![daniel_logo1-300x168-300x168.jpg](https://cdn.hotosm.org/website/daniel_logo1-300x168-300x168.jpg)
 
 **Zambia Road Safety Trust**
 
@@ -163,11 +163,11 @@ Through this project, ZRST will:
 * Develop a holistic approach for empowering vulnerable groups of people in flood-risk areas by including their needs regarding infrastructure design, health, and climate resilience.
 * Expand dissemination and demonstration activities to cover communities not directly involved in the project, thus promoting the adoption of climate resilience initiatives.
 
-![Screenshot 2023-06-30 1.31.18 AM.png](/uploads/Screenshot%202023-06-30%201.31.18%20AM.png)
+![Screenshot 2023-06-30 1.31.18 AM.png](https://cdn.hotosm.org/website/Screenshot+2023-06-30+1.31.18+AM.png)
 
 ## Mapping Contraceptive Access in the Newly Formed Cities in Northern Uganda
 
-![amara-hub-sml-146x146.png](/uploads/amara-hub-sml-146x146.png)
+![amara-hub-sml-146x146.png](https://cdn.hotosm.org/website/amara-hub-sml-146x146.png)
 
 **Amara Hub**
 
@@ -181,11 +181,11 @@ The project aims to: 
 * Build the capacity of 30 volunteer community health workers to be able to use open-source tools to map access to contraceptive health services
 * Share an interactive crowdsourcing tool for community members to receive timely updates and give anonymous feedback directly to the city and health officials. This will empower citizens and authorities to make better use of data and transform it into useful information that drives local action.
 
-![Screenshot 2023-06-30 1.29.37 AM.png](/uploads/Screenshot%202023-06-30%201.29.37%20AM.png)
+![Screenshot 2023-06-30 1.29.37 AM.png](https://cdn.hotosm.org/website/Screenshot+2023-06-30+1.29.37+AM.png)
 
 ## Mapping Cyclone Ana in the most affected districts of Malawi for early recovery of affected communities - Malawi
 
-![malawi-red-cross-logo-400x400.png](/uploads/malawi-red-cross-logo-400x400.png)
+![malawi-red-cross-logo-400x400.png](https://cdn.hotosm.org/website/malawi-red-cross-logo-400x400.png)
 
 **Malawi Red Cross**
 
@@ -195,4 +195,4 @@ In this project, Malawi Red Cross will provide updated GeoSpatial information ab
 
 Malawi Red Cross will train at least 60 women and 60 men from the affected district on disaster risk management and the use of geospatial data for recovery and response. And will share the project with an anticipated one million people (the majority of whom have been affected by the cyclone) via local radio and TV channels. The project also expects to train at least 30 community-based organizations (CBOs) on mapping, and the use of geospatial data so that the project is sustainable.
 
-![Screenshot 2023-06-30 1.30.32 AM.png](/uploads/Screenshot%202023-06-30%201.30.32%20AM.png)
+![Screenshot 2023-06-30 1.30.32 AM.png](https://cdn.hotosm.org/website/Screenshot+2023-06-30+1.30.32+AM.png)

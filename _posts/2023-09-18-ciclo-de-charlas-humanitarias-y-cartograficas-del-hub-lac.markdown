@@ -14,7 +14,7 @@ tags:
 Summary Text: El Hub de mapeo abierto de América Latina y el Caribe (LAC) ha organizado
   un ciclo de charlas mensuales que muestren el aporte que el mapeo abierto y colaborativo
   puede hacer al trabajo humanitario y al desarrollo sustentable.
-Feature Image: "/uploads/charla1.jpg"
+Feature Image: https://cdn.hotosm.org/website/charla1.jpg
 Person: Juan Arellano Valdivia
 ---
 
@@ -24,7 +24,7 @@ Por eso en el Hub de mapeo abierto de América Latina y el Caribe (LAC) decidimo
 
 En tal sentido, el pasado jueves 17 de agosto inauguramos este ciclo de conversaciones con la charla: "**El desafío del humanitarismo digital en Latinoamérica y el Caribe**". Nuestros invitados fueron: [Catalina Jaime](https://www.climatecentre.org/staff/catalina-jaime/), Head of climate and conflict en Red Cross Red Crescent Climate Centre y [Simone Lucatello](https://www.institutomora.edu.mx/Investigacion/SimoneLucatello/SitePages/Inicio.aspx), Director del programa de investigación en el Instituto de Investigaciones Dr. José María Luis Mora. Nuestro Director, [Fabrizio Scrollini Mendez](https://www.hotosm.org/people/fabrizio-scrollini/), fue el conductor de la sesión.
 
-![Ciclo de charlas - 1.png](/uploads/Ciclo%20de%20charlas%20-%201.png)
+![Ciclo de charlas - 1.png](https://cdn.hotosm.org/website/Ciclo+de+charlas+-+1.png)
 
 Algunas citas de lo que los invitados dijeron en sus intervenciones son las siguientes:
 
@@ -47,7 +47,7 @@ En esta ocasión participarán Juan Manuel Berdeja - Director de Planeación y P
 
 La transmisión podrá ser vista en vivo por [nuestro canal](https://www.youtube.com/@hubmapeoabiertoALC/streams) de YouTube. No se la pierdan!
 
-![photo_4915984413150523191_y.jpg](/uploads/photo_4915984413150523191_y.jpg)
+![photo_4915984413150523191_y.jpg](https://cdn.hotosm.org/website/photo_4915984413150523191_y.jpg)
 .
 
 *Conoce también [cómo colaboramos](https://www.hotosm.org/updates/openstreetmap-y-las-cartografias-oficiales/) con los Institutos Nacionales de Geografía.*

@@ -13,7 +13,7 @@ Summary Text: Con un Fenómeno del Niño en desarrollo para este 2023-2024, el m
   preventivo de desastres se vuelve una herramienta crucial para minimizar daños y
   victimas en los territorios. Y eso es lo que estamos haciendo en Ecuador junto a
   la Secretaría de Riesgos.
-Feature Image: "/uploads/F6bSRsKW8AAuB7O.jpg"
+Feature Image: https://cdn.hotosm.org/website/F6bSRsKW8AAuB7O.jpg
 Person: Céline Jacquin
 Country:
 - Ecuador
@@ -35,7 +35,7 @@ La colaboración tiene además el objetivo secundario de desarrollar un tejido c
 
 En consecuencia, el 12 de septiembre pasado [se lanzó](https://twitter.com/mapeoabierto_la/status/1701663347802870119) el **Riesgotón**, un conjunto de actividades de mapeo (talleres, mapatones) con la finalidad de prevenir los desastres que pudieran ocurrir debido al fenómeno del Niño en Ecuador. Se puede apreciar la transmisión del lanzamiento en [este enlace](https://www.facebook.com/watch/live/?ref=watch_permalink&v=4235125880045790&_rdc=1&_rdr) de Facebook (adelantar al minuto 3.50 para iniciar).
 
-![riesgoton1-c549e4.jpg](/uploads/riesgoton1-c549e4.jpg)
+![riesgoton1-c549e4.jpg](https://cdn.hotosm.org/website/riesgoton1-c549e4.jpg)
 
 Desde sus propias prioridades y acompañada por el Equipo Humanitario de OpenStreetMap - HOT, la Secretaría definió un conjunto de áreas prioritarias, con las cuales se realizó un análisis de vulnerabilidad, involucrando a un equipo multidisciplinario de estudiantes de la Universidad de las Fuerzas Armadas ESPE en el desarrollo del estudio y en la creación de [proyectos de mapeo](https://tasks.hotosm.org/explore?text=riesgos\+Ecuador) en el Tasking Manager de HOT.
 
@@ -53,7 +53,7 @@ Contribuidores en Mapswipe: 124
 
 Participantes de las actividades en línea hasta el momento: 296
 
-![33-17be42.jpg](/uploads/33-17be42.jpg)
+![33-17be42.jpg](https://cdn.hotosm.org/website/33-17be42.jpg)
 
 *(https://mapswipe.org/en/projects/-Nes80bNu__CBhTzhB4Z/)*
 

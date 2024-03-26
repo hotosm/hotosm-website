@@ -8,7 +8,7 @@ Page Contact:
 layout: page
 ---
 
-![LAC_landingpage_Portuguese.jpeg](/uploads/LAC_landingpage_Portuguese.jpeg)
+![LAC_landingpage_Portuguese.jpeg](https://cdn.hotosm.org/website/LAC_landingpage_Portuguese.jpeg)
 
 Lea este post [en castellano](https://www.hotosm.org/hubs/hub-mapeo-abierto-latam-caribe).
 

@@ -6,7 +6,7 @@ Page Link:
   Label: Submit your 3rd Party Event here
 ---
 
-![banner3rdparty.png](/uploads/banner3rdparty.png)
+![banner3rdparty.png](https://cdn.hotosm.org/website/banner3rdparty.png)
 
 ## Selection Criteria for 3rd Party Events
 

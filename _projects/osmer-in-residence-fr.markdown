@@ -33,11 +33,11 @@ L'impact de ce programme est déjà évident du point de vue de la MSF et de la 
 
 **Jorieke**, conseiller en SIG et coordinateur des cartes manquantes, qui travaille en étroite collaboration avec le centre sur ce programme, a décrit l'utilité de cette collaboration pour eux. 
 
-![Jorieke-OSMer](/uploads/Jorieke_French.png)
+![Jorieke-OSMer](https://cdn.hotosm.org/website/Jorieke_French.png)
 
 **Yves Emmanuel** a également fait part de la manière dont ce programme renforce ses capacités techniques au-delà de son expertise OSM.
 
-![Yves-OSMer](/uploads/Yves%20Emmanuel%20French.png)
+![Yves-OSMer](https://cdn.hotosm.org/website/Yves+Emmanuel+French.png)
 
 À la fin du programme, début 2024, des données permettant de combler des lacunes critiques dans le secteur de la santé figureront déjà dans OSM. Ces données ne soutiendront pas seulement les opérations de MSF mais serviront d'outil pour les communautés et les acteurs locaux de la région. 
 

@@ -12,7 +12,7 @@ tags:
 Summary Text: HOT and CDEMA -the Caribbean Disaster Emergency Management Agency- have
   signed a collaboration agreement to strengthen CDEMA's geospatial technological
   capabilities. Learn the details.
-Feature Image: "/uploads/photo_4987937622303288424_y.jpg"
+Feature Image: https://cdn.hotosm.org/website/photo_4987937622303288424_y.jpg
 Person: Juan Arellano Valdivia
 ---
 

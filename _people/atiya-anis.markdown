@@ -1,7 +1,7 @@
 ---
 title: Atiya Anis
 date: 2024-01-04 10:05:00 Z
-Photo: "/uploads/Atiya1.jpg"
+Photo: https://cdn.hotosm.org/website/Atiya1.jpg
 Member Type:
   Is Staff: true
 Job Title: Senior Communications Manager

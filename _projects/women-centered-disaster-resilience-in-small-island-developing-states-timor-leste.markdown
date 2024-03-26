@@ -4,7 +4,7 @@ date: 2024-03-06 19:30:00 Z
 Project Summary Text: In this project, members of Feto Enginhera, women engineers
   of Timor-Leste, gained open mapping skills for resilience, which they communicated
   with different community members.
-Feature Image: "/uploads/SIDS-TimorLesteDataAnalysis.jpg"
+Feature Image: https://cdn.hotosm.org/website/SIDS-TimorLesteDataAnalysis.jpg
 Country:
 - Timor-Leste
 Impact Area:
@@ -35,13 +35,13 @@ As part of the Women-Centered Disaster Resilience in Small Island Developing Sta
 The project organizers designed a two-phase capacity-building program for members of Feto Enginhera. During the first phase, they worked with [the Association of Geographic Information System Group (G-SIG)](https://gis.tl/berita/detail/the-association-of-geographic-information-system-group-gsig) and [HOT's Asia-Pacific Open Mapping Hub](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) to organize a series of workshops on OpenStreetMap (OSM), HOT's [Tasking Manager](https://tasks.hotosm.org/),  data visualization, OSM data use for Disaster Risk Reduction and Management, and general Gender and Project Management topics. 
 
 
-![SIDS-TimorLesteWorkshop.jpg](/uploads/SIDS-TimorLesteWorkshop.jpg)
+![SIDS-TimorLesteWorkshop.jpg](https://cdn.hotosm.org/website/SIDS-TimorLesteWorkshop.jpg)
 *First workshop: OSM Training - Remote Data Collection*
 
 For the second phase, the participants engaged in outreach activities in a school, three different communities in Timor-Leste, and a public workshop. During those sessions, the team distributed pre-assembled ["Dignity Bags"](https://www.unfpa.org/resources/unfpa-basic-dignity-kit), which contain products helpful for women and girls during emergencies, and shared information regarding Feto Enginhera and the challenges women face in engineering, women-centered Disaster Risk Reduction (DRR), OSM, and emergency preparedness and response skills. Additionally, they engaged in a 3-day field data collection and analysis exercise, which allowed them to add 151 data entries to OpenStreetMap and to create maps identifying evacuation centers, building capacity, and infrastructure at risk for flooding. Finally, they presented the results of this analysis to eighteen participating communities.
 
 
-![SIDS-TimorLesteOutreach2.jpg](/uploads/SIDS-TimorLesteOutreach2.jpg)
+![SIDS-TimorLesteOutreach2.jpg](https://cdn.hotosm.org/website/SIDS-TimorLesteOutreach2.jpg)
 *Feto Enginhera members developed their public speaking skills by presenting the knowledge they gained during the workshops to members of different communities*
 
 
@@ -71,13 +71,13 @@ As a result of this project, there were:
 <p style="margin: 50px"><em>&mdash; Mateus I. da Costa (Chief of Village Metiaut)</em></p>
 
 
-![SIDS-TimorLesteResults.jpg](/uploads/SIDS-TimorLesteResults.jpg)
+![SIDS-TimorLesteResults.jpg](https://cdn.hotosm.org/website/SIDS-TimorLesteResults.jpg)
 *Feto Enginhera reported the outcomes of the data collection activity to the Chief of the Village*
 
 ## What Happens Next?
 
 As a result of this project, Feto Enginhera has identified the need to continue collaborative work to map Timor-Leste and invest in women's skills to increase resilience in the face of climate impacts. They also identified key areas of improvement for similar projects, especially in assigning more time for the project's overall duration and for workshops and training, which will allow for in-depth engagement and proficiency in the subject matter.
 
-![SIDS-TimorLesteFinal.jpg](/uploads/SIDS-TimorLesteFinal.jpg)
+![SIDS-TimorLesteFinal.jpg](https://cdn.hotosm.org/website/SIDS-TimorLesteFinal.jpg)
 
 *Photos by Feto Enginhera*

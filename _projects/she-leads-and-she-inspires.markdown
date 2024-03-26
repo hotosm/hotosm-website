@@ -9,7 +9,7 @@ Project Summary Text: 'The AP Hub’s  flagship project, "She Leads & She Inspir
   Equity.
 
 '
-Feature Image: "/uploads/SLSI%201.png"
+Feature Image: https://cdn.hotosm.org/website/SLSI+1.png
 Country:
 - Asia-Pacific
 - Bangladesh
@@ -71,7 +71,7 @@ The Open Mapping Hub Asia Pacific (the AP Hub) is committed to supporting the em
 
 > **The program was designed with, by, and for women in (or hoping to step into!) leadership roles within their communities.**
 
-![SLSI 2.png](/uploads/SLSI%202.png)
+![SLSI 2.png](https://cdn.hotosm.org/website/SLSI+2.png)
 
 
 The background to our approach was to identify the social problem, the data gap and the vibrancy of the ecosystem. 
@@ -135,7 +135,7 @@ Through the SLSI program, valuable lessons have been learned showcasing the rema
 From disaster response to healthcare access and beyond, their dedication and resilience have been instrumental in driving impactful projects forward. Importantly, the program has underscored the transformative power of inclusive leadership, empowering women to take charge and enact meaningful societal change. As these leaders continue to navigate challenges and leverage their skills, they serve as inspiration for future generations, embodying the spirit of innovation, collaboration, and empowerment.
 
 **SELECTED PROJECTS**
-![slsi-project-winners-1-1080x1080-551b40.png](/uploads/slsi-project-winners-1-1080x1080-551b40.png)
+![slsi-project-winners-1-1080x1080-551b40.png](https://cdn.hotosm.org/website/slsi-project-winners-1-1080x1080-551b40.png)
 
 The projects address a range of local challenges related to Disaster Resilience, Environment, Gender Equality, Health, Heritage, Inclusion, and Sustainable Cities, adding value to local action in Asia Pacific
 

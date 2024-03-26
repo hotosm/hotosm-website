@@ -6,7 +6,7 @@ Summary Text: Explore the Amazonian Mapping initiative, a project by the Open Ma
   in the Amazon region. Discover key projects in Colombia, Ecuador, Brazil, and Peru
   to strengthen prevention, emergency management, sustainable forest management, and
   community resilience.
-Feature Image: "/uploads/Amazonian%20Mappings%20-%20English.jpg"
+Feature Image: https://cdn.hotosm.org/website/Amazonian+Mappings+-+English.jpg
 Person: LAC Hub Team
 Country:
 - Brazil
@@ -19,7 +19,7 @@ Country:
 
 Few things represent a region as iconically as the Amazon: eight countries share the care of an area where 20% of the world's freshwater reserves are found. The diversity, richness, and development potential of this region are a source of hope for the communities that inhabit it, as well as a source of conflicts and challenges common to the region and the world. Here, we face situations that jeopardize biodiversity, subsistence, and the security of local communities. Deforestation, climate change, and economic pressures have created a complex landscape that demands understanding and action.
 
-![Amazon river in Brazil.jpg](/uploads/Amazon%20river%20in%20Brazil.jpg)
+![Amazon river in Brazil.jpg](https://cdn.hotosm.org/website/Amazon+river+in+Brazil.jpg)
 
 It is crucial to recognize that the preservation, restoration, and sustainability of the Amazon region are not only vital for Latin America but also represent a critical challenge on a global scale in the fight against climate change. The Amazon is home to communities whose survival is closely linked to the rainforest. The forest is an integrated ecosystem, and humans are part of it, with their activity capable of either promoting sustainable development worldwide or contributing to its disappearance.
 
@@ -65,7 +65,7 @@ In this regard, we are interested in strengthening our relationships with local 
 This is a continuous and systematic effort that will allow us to provide more effective, anticipatory, and community-focused responses to the challenges presented by risk management in Latin America. We do not adopt a one-off strategy but establish connections throughout the region individually and systematically. We are committed to working together to ensure the safety and well-being of our communities throughout the region.
 
 ## **Anticipatory Mapping of Risk Areas in the Amazon**
-![Tasking Manager - English.jpg](/uploads/Tasking%20Manager%20-%20English.jpg)
+![Tasking Manager - English.jpg](https://cdn.hotosm.org/website/Tasking+Manager+-+English.jpg)
 
 In coordination with the authorities responsible for risk management in Ecuador, Colombia, and Brazil, we have identified the most vulnerable areas in the first quarter of 2024 for these countries, many of which are related to extreme droughts caused by the El Niño phenomenon in forested areas. Therefore, [we have launched mapping projects on the HOT Tasking Manager](https://bit.ly/MapeosAmazonicos).
 
@@ -92,7 +92,7 @@ In addition to detailed mapping of populated areas on the Tasking Manager, we ha
 We invite anyone who wants to contribute to mapping from their cell phone in their free time to install the [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US) application and search for Amazonian projects there.
 
 ## **Community Projects in Development**
-![Johnattan Rupire - Mapeos Amazonicos.png](/uploads/Johnattan%20Rupire%20-%20Mapeos%20Amazonicos.png)
+![Johnattan Rupire - Mapeos Amazonicos.png](https://cdn.hotosm.org/website/Johnattan+Rupire+-+Mapeos+Amazonicos.png)
 
 In addition to remote mapping of the Amazon carried out by global OSM communities in collaboration with other organizations, we are conducting several community projects with local allies.
 

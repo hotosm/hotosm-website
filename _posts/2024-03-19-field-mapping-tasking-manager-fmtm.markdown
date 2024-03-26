@@ -8,7 +8,7 @@ Summary Text: Collaboration and communication among key players are critical to 
   tools, such as the Field Mapping Tasking Manager (FMTM), can significantly enhance
   coordination and streamline communication among team members, improving field survey
   efforts and making them more efficient and accurate.
-Feature Image: "/uploads/FMTM-Monrovia.jpg"
+Feature Image: https://cdn.hotosm.org/website/FMTM-Monrovia.jpg
 Person: Ivan Buendía Gayton
 ---
 
@@ -24,7 +24,7 @@ Particularly when working with large groups of mappers in dense settings, it can
  
 With these challenges in mind, HOT's Tech team, along with our partner in Nepal, [NAXA](https://naxa.com.np/), and contributors from all around the world, have developed the Field Mapping Tasking Manager (FMTM).
 
-![FMTM-FieldMapping1.jpg](/uploads/FMTM-FieldMapping1.jpg)
+![FMTM-FieldMapping1.jpg](https://cdn.hotosm.org/website/FMTM-FieldMapping1.jpg)
 *Using OpenDataKit Collect to gather data from local residents in an informal settlement in Monrovia*
 
 ## What is FMTM?
@@ -35,7 +35,7 @@ The FMTM is a standalone mobile and web application that was designed and built 
 
 The FMTM allows mapping coordinators to create campaigns that assign individual areas and/or features to different field mappers, keep track of their contributions, and manage the resulting data. It helps field mappers know which areas and features they are responsible for covering and avoid missing or duplicating features.
 
-![FMTM-Explanation.jpg](/uploads/FMTM-Explanation.jpg)
+![FMTM-Explanation.jpg](https://cdn.hotosm.org/website/FMTM-Explanation.jpg)
 *A project manager who has just created an FMTM project on their laptop demonstrates to a field mapper how they can select their assigned buildings on their phone*
 
 Using the FMTM, each mapper using ODK Collect on their mobile device can select —or be assigned— a single area at a time to map, with a specific set of features (such as buildings) to visit. They can easily see where they must go and which features they must visit to complete their “*tasked*” area. Since each task area is specifically defined by a boundary and/or a set of features, it’s easy to avoid missed areas or duplication (whereby more than one person visits the same structure).
@@ -46,7 +46,7 @@ FMTM has been tested in several mapping campaigns in  Zanzibar, Rwanda, Dar es S
 
 FMTM was successfully used in Janakpur Sub-Metropolitan City, Nepal, to conduct a 15-day field survey of approximately 3400 buildings for the digital metric addressing system project implemented by NAXA with financial assistance from The Asia Foundation. A total of fifteen local enumerators (seven men and eight women) learned how to log in to FMTM, assign tasks for themselves, download QR codes, and collect data via ODK Collect. Despite the initial challenge of the enumerators lacking proficiency in spatial knowledge, this deployment was considered an achievement.
 
-![FMTM-MappingAndCell.jpeg](/uploads/FMTM-MappingAndCell.jpeg)
+![FMTM-MappingAndCell.jpeg](https://cdn.hotosm.org/website/FMTM-MappingAndCell.jpeg)
 *Field mappers navigate using their phones (in this case, high-quality drone imagery makes it particularly easy to see where they are going) and select buildings to survey*
 
 ## How can I try the FMTM?

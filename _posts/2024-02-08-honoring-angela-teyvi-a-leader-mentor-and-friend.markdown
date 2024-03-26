@@ -2,7 +2,7 @@
 title: Honoring Angela Teyvi, a Leader, Mentor, and Friend
 date: 2024-02-08 17:46:00 Z
 Summary Text: Today, I celebrate a leader, mentor, and a friend, Angela Teyvi.
-Feature Image: "/uploads/Teyvi1.jpg"
+Feature Image: https://cdn.hotosm.org/website/Teyvi1.jpg
 Person: Arnalie Vicario
 Working Group:
 - Community
@@ -16,7 +16,7 @@ As [Mentorship Month (January)](https://www.awarenessdays.com/awareness-days-cal
 
 The HOT Community Working Group initiated a Mentorship Program to provide peer-to-peer learning and knowledge exchange in the humanitarian and open mapping space. We built upon the knowledge and efforts of other mapping communities in conducting their mentorship program, most specifically [Women+ in Geospatial (W+G) Mentorship Programme](https://womeningeospatial.org/mentorship-programme).
 
-![Mentorship_onboarding1_27May2023 (1)-3d7665.png](/uploads/Mentorship_onboarding1_27May2023%20(1)-3d7665.png)
+![Mentorship_onboarding1_27May2023 (1)-3d7665.png](https://cdn.hotosm.org/website/Mentorship_onboarding1_27May2023+(1)-3d7665.png)
 
 The Program was inspired by Angela during the Community Working Group [Ask Me Anything (AMA) Session in March 2022](https://www.youtube.com/watch?v=x4EckEvVA0I) where she is the guest speaker. Angela shared how mentorship has played a major role in her career development and capability in humanitarian open mapping. You can [watch the recording here](https://www.youtube.com/watch?v=x4EckEvVA0I).
 
@@ -36,5 +36,5 @@ Angela is passing the baton for the next Mentorship Team Lead this 2023. The 202
 
 I am honored to have worked and met with such an incredible person. You have inspired me (and a lot of people in the humanitarian open mapping movement) more than you will ever know. Love and respect. Thank you and we wish you success and happiness in your new journey ahead. 🚀❣️💫
 
-![Mentors Appreciation.png](/uploads/Mentors%20Appreciation.png)
+![Mentors Appreciation.png](https://cdn.hotosm.org/website/Mentors+Appreciation.png)
 

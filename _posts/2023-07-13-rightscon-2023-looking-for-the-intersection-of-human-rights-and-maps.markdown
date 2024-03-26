@@ -11,7 +11,7 @@ tags:
 Summary Text: RightsCon, the global event that brings together activists and organizations
   working for human rights, took place last June, and the LAC Hub was present in search
   of maps and mappers!
-Feature Image: "/uploads/RightsCon%20General%20Promotion%20-%20Twitter%20header.png"
+Feature Image: https://cdn.hotosm.org/website/RightsCon+General+Promotion+-+Twitter+header.png
 Person: Juan Arellano Valdivia
 ---
 
@@ -21,7 +21,7 @@ From June 5 to 8, a new edition of RightsCon was held in San José, Costa Rica. 
 
 Since an event of this magnitude was hosted in the region, in the [Open Mapping Hub](https://www.hotosm.org/hubs/latam-hub) of Latin America and the Caribbean, we estimated that the assistance of organizations and activists from the region would be considerable, so it was important to attend as well and take stock of the event from our own "cartographic" perspective.
 
-![WhatsApp Image 2023-06-20 at 10.41.21 PM.jpg](/uploads/WhatsApp%20Image%202023-06-20%20at%2010.41.21%20PM.jpg)
+![WhatsApp Image 2023-06-20 at 10.41.21 PM.jpg](https://cdn.hotosm.org/website/WhatsApp+Image+2023-06-20+at+10.41.21+PM.jpg)
 
 *Brett Solomon, ED of Access Now, gives the keynote address and mentions Alaa Abd El Fattah, the currently jailed Egyptian blogger who gave the keynote speech in RightsCon 2011.*
 
@@ -42,7 +42,7 @@ However, something that struck me was that of all those 600 scheduled events, [o
 
 What I did find was various people interested in mapping projects: organizations and individuals wanting to map surveillance cameras in the region, feminisms, communities made invisible on official maps, rights, territories, and above all, I found former and expert collaborators of the Central American OSM community that are eager to get back together and contribute to common projects.
 
-![conf3.jpg](/uploads/conf3.jpg)
+![conf3.jpg](https://cdn.hotosm.org/website/conf3.jpg)
 
 *Various talks at RightsCon*
 

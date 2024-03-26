@@ -6,7 +6,7 @@ Summary Text: Each quarter, we’re featuring one of our all-star staff members 
   their superb performance and values-driven work. This quarter, we’re spotlighting
   Honey Fombuena, our Geographic Information Systems (GIS) Analyst for the Asia Pacific
   Open Mapping Hub.
-Feature Image: "/uploads/StaffSpotlight-Honey1.jpg"
+Feature Image: https://cdn.hotosm.org/website/StaffSpotlight-Honey1.jpg
 Person: Dana Gallaty
 ---
 
@@ -29,7 +29,7 @@ I currently serve as a GIS Analyst at the [AP Hub](https://www.hotosm.org/hubs/o
 My passion lies in producing impactful and inclusive map products that enhance the lives of their users. Additionally, I aim to showcase the AP Hub's impact by narrating stories through maps, aligning with our target outcomes.
 
 
-![StaffSpotlight-Honey4.jpg](/uploads/StaffSpotlight-Honey4.jpg)
+![StaffSpotlight-Honey4.jpg](https://cdn.hotosm.org/website/StaffSpotlight-Honey4.jpg)
 *Honey graduated from the University of the Philippines Diliman with a Bachelor of Science degree in Geodetic Engineering. She is passionate about utilizing GIS and Remote Sensing (RS) to create geospatial products that will be beneficial to the community.*
 
 ## What fulfills you most about your role?
@@ -48,7 +48,7 @@ One of the top destinations on my travel bucket list was South Korea, and I was 
 
 I enjoyed binge-watching the live-action adaptation of Avatar: The Last Airbender on Netflix. Give it a watch! 
 
-![StaffSpotlight-Honey5.jpg](/uploads/StaffSpotlight-Honey5.jpg)
+![StaffSpotlight-Honey5.jpg](https://cdn.hotosm.org/website/StaffSpotlight-Honey5.jpg)
 *Honey presenting at FOSS4G Asia 2023 in Seoul.*
 
 *Learn more about Honey [here](https://www.hotosm.org/people/honey-grace-fombuena/).*

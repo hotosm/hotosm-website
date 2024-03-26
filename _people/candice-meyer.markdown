@@ -1,7 +1,7 @@
 ---
 title: Candice Meyer
 date: 2024-01-04 10:38:00 Z
-Photo: "/uploads/IMG_4113.jpeg"
+Photo: https://cdn.hotosm.org/website/IMG_4113.jpeg
 Member Type:
   Is Staff: true
 Job Title: Fundraising Specialist - West and Northern Africa Hub

@@ -9,7 +9,7 @@ tags:
 Summary Text: El Hub de Mapeo Abierto LAC apoyó en las labores de respuesta al desastre
   provocado por las inundaciones en Esmeraldas, Ecuador en coordinación con la Secretaria
   de Gestión de Riesgos de Ecuador.
-Feature Image: "/uploads/inundacion%20esmeraldas.jpg"
+Feature Image: https://cdn.hotosm.org/website/inundacion+esmeraldas.jpg
 Person:
 - Juan Melo Luna
 - Juan Arellano Valdivia
@@ -33,13 +33,13 @@ En el caso de Esmeraldas se decidió generar proyectos específicos a través de
 
 * la capa con las parroquias afectadas por la emergencia
 
-![3 en 1.jpg](/uploads/3%20en%201.jpg)
+![3 en 1.jpg](https://cdn.hotosm.org/website/3+en+1.jpg)
 
 *- Puntos de inundación en Esmeraldas - Mapa de susceptibilidad de la región - Parroquias Afectadas*
 
 Con el propósito de determinar las áreas prioritarias que requieren mayor atención por parte de las autoridades y que necesitan una cartografía actualizada, se analizó la mayor cantidad de variables que permitieran tener un concepto más claro de las zonas que podrían estar en riesgo. En tal sentido se determinaron tres elementos principales; la cercanía a los puntos de inundación, la cercanía a los centros poblados y el grado de susceptibilidad de inundación.
 
-![4.jpg](/uploads/4.jpg)
+![4.jpg](https://cdn.hotosm.org/website/4.jpg)
 
 *Centros poblados de la región*
 
@@ -51,7 +51,7 @@ Tomando como referencia las tres variables previamente mencionadas se procedió 
 
 * Determinar las zonas en las que intervenían de manera crítica las tres variables.
 
-![5.jpg](/uploads/5.jpg)
+![5.jpg](https://cdn.hotosm.org/website/5.jpg)
 
 *Áreas definidas para los proyectos dentro del TM*
 
@@ -59,13 +59,13 @@ Estas zonas fueron las que finalmente se utilizaron para crear las tareas de map
 
 Con el primer grupo de tareas listo para ser trabajadas a partir del día ocho de junio empezamos a difundirlas por nuestras redes sociales ([Instagram](https://www.instagram.com/p/CtR2Vm-uydP/?img_index=1), [Twitter](https://twitter.com/mapeoabierto_la/status/1667174214518841347), [Facebook](https://www.facebook.com/permalink.php?story_fbid=580064027634034&id=100068913258326)) convocando a mapeadores y validadores de todo el mundo a colaborar con el [mapeo por Esmeraldas](https://tasks.hotosm.org/explore?text=ECUADOR%3A\+FLOODS).
 
-![esmeraldasTM.jpg](/uploads/esmeraldasTM.jpg)
+![esmeraldasTM.jpg](https://cdn.hotosm.org/website/esmeraldasTM.jpg)
 
 **Resultados obtenidos hasta el momento**
 
 Estando a 45 días de iniciadas las labores de mapeo de emergencia estos son los resultados en lo que corresponde a los diez proyectos creados:
 
-![stats esmeraldas.jpg](/uploads/stats%20esmeraldas.jpg)
+![stats esmeraldas.jpg](https://cdn.hotosm.org/website/stats+esmeraldas.jpg)
 
 En resumen, a mitad de julio, siete de los diez proyectos ya fueron completados al 100% para un avance total del proyecto del 92% (mapeo y validación). Habiéndose mapeado hasta el momento 498 kilómetros de carreteras y 25,765 construcciones.
 

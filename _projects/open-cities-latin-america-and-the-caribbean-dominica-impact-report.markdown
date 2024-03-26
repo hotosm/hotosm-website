@@ -11,7 +11,7 @@ Project Summary Text: "\"The Nature Isle,\" Dominica, faces the ongoing threat o
   data use. Lessons learned emphasize mobile-friendly mapping and overcoming challenges
   for future climate resilience projects. Dominica emerges as a pioneer, showcasing
   adaptability in the face of climate hazards."
-Feature Image: "/uploads/LAC-202301-DC-OCD-MD-001.png"
+Feature Image: https://cdn.hotosm.org/website/LAC-202301-DC-OCD-MD-001.png
 Country:
 - Dominica
 Impact Area:

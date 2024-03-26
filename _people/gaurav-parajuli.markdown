@@ -1,7 +1,7 @@
 ---
 title: Gaurav Parajuli
 date: 2023-12-21 02:09:00 Z
-Photo: "/uploads/_MG_1127%20-%20Gaurav%20Parajuli.jpg"
+Photo: https://cdn.hotosm.org/website/_MG_1127+-+Gaurav+Parajuli.jpg
 Member Type:
   Is Voting Member: true
 Country: Nepal

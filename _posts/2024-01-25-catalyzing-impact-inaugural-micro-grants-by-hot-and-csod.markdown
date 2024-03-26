@@ -6,7 +6,7 @@ Summary Text: Uncover the impact of transformative geospatial initiatives with H
   projects addressing critical community issues in Guyana and Jamaica, and celebrate
   the innovation as it propels sustainable change, from rice cultivation to climate
   resilience.
-Feature Image: "/uploads/HOT%20-%20CSoD.png"
+Feature Image: https://cdn.hotosm.org/website/HOT+-+CSoD.png
 Country:
 - Jamaica
 - Guyana
@@ -33,7 +33,7 @@ The Farm Data project team from Guyana provides insight into the significance of
 
 
 
-![HOT and CSoD - Carlson Wickham, Sanjana Persaud, Anellie Bailey-Burnett-8553c2.png](/uploads/HOT%20and%20CSoD%20-%20Carlson%20Wickham,%20Sanjana%20Persaud,%20Anellie%20Bailey-Burnett-8553c2.png)
+![HOT and CSoD - Carlson Wickham, Sanjana Persaud, Anellie Bailey-Burnett-8553c2.png](https://cdn.hotosm.org/website/HOT+and+CSoD+-+Carlson+Wickham,+Sanjana+Persaud,+Anellie+Bailey-Burnett-8553c2.png)
 
 
 
@@ -41,7 +41,7 @@ Team Farm Data encapsulates the essence of their FARMDATA project.
 
 
 
-![HOT and CSoD - Team Farm Data.png](/uploads/HOT%20and%20CSoD%20-%20Team%20Farm%20Data.png)
+![HOT and CSoD - Team Farm Data.png](https://cdn.hotosm.org/website/HOT+and+CSoD+-+Team+Farm+Data.png)
 
 
 
@@ -51,7 +51,7 @@ On the other hand, the Jamaican awardees, Team Climate Resilience, shed light on
 
 
 
-![HOT and CSoD - Romario Moncrieiffe, Deana- Lee Blidgen, Khamille Malcolm and Janor Campbell.png](/uploads/HOT%20and%20CSoD%20-%20Romario%20Moncrieiffe,%20Deana-%20Lee%20Blidgen,%20Khamille%20Malcolm%20and%20Janor%20Campbell.png)
+![HOT and CSoD - Romario Moncrieiffe, Deana- Lee Blidgen, Khamille Malcolm and Janor Campbell.png](https://cdn.hotosm.org/website/HOT+and+CSoD+-+Romario+Moncrieiffe,+Deana-+Lee+Blidgen,+Khamille+Malcolm+and+Janor+Campbell.png)
 
 
 

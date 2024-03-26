@@ -1,7 +1,7 @@
 ---
 title: Raelene Dugger
 date: 2024-03-12 06:25:00 Z
-Photo: "/uploads/Raelene%20Page_Profile%20Picture-4b290d.png"
+Photo: https://cdn.hotosm.org/website/Raelene+Page_Profile+Picture-4b290d.png
 Member Type:
   Is Staff: true
 Job Title: Major Gifts Officer

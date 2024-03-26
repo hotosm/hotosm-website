@@ -9,7 +9,7 @@ Project Summary Text: HOT's peer-to-peer learning projects aim to foster knowled
   OpenMap Development Tanzania, and OSM Somalia. Through training sessions, workshops,
   and experiential learning, the initiative aimed to build bridges between OSM communities,
   fostering long-term benefits for all involved.
-Feature Image: "/uploads/ESA_Informal%20SettlementsUganda2.jpeg"
+Feature Image: https://cdn.hotosm.org/website/ESA_Informal+SettlementsUganda2.jpeg
 Country:
 - Democratic Republic of the Congo
 - Somalia

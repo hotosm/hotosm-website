@@ -1,7 +1,7 @@
 ---
 title: Shabani Magawila
 date: 2023-09-12 16:07:00 Z
-Photo: "/uploads/DSC_0330%20-%20Shabani%20Magawila%20(MyProjectLab).jpg"
+Photo: https://cdn.hotosm.org/website/DSC_0330+-+Shabani+Magawila+(MyProjectLab).jpg
 Member Type:
   Is Voting Member: true
 Project:
