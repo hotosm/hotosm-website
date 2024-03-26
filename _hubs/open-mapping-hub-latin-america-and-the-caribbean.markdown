@@ -77,8 +77,9 @@ Our efforts in the Caribbean have focused on establishing a strong presence and 
 4. [Women-Centered Disaster Resilience In Small Island Developing States](https://www.hotosm.org/projects/women-centered-disaster-resilience-in-small-island-developing-states-trinidad-and-tobago/)
 
 # Our stories / news
+![Blog - Open Mapping Hub Latin America and the Caribbean.jpg](/uploads/Blog%20-%20Open%20Mapping%20Hub%20Latin%20America%20and%20the%20Caribbean.jpg)
 
-Check out our latests developments and impact stories [here](https://www.hotosm.org/projects/publications/).
+### Check out our latests developments and impact stories [here](https://www.hotosm.org/projects/publications/).
 
 # Follow us on social media
 
