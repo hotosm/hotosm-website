@@ -10,13 +10,13 @@ layout: page
 
 ![LAC_landingpage_English.png](https://cdn.hotosm.org/website/LAC_landingpage_English.png)
 
-### Enhancing resilient communities through social impact mapping in Latin America and the Caribbean
+## Enhancing resilient communities through social impact mapping in Latin America and the Caribbean
 
 In Latin America and the Caribbean (LAC), we face disasters caused by natural hazards, along with many other challenges to our environment and sustainable development, within the framework of diversity and pronounced inequality. The Humanitarian OpenStreetMap Team (HOT) aims to be a positive catalyst in this situation to make sure the power of open geographic data is fully leveraged in supporting data-driven public policies that foster inclusive, sustainable, and transparent societies. At the core of our approach is the active promotion and utilization of social impact mapping practices, ensuring that our efforts contribute to a shared and meaningful development.
 
 The LAC Hub was established in 2023 with the intention to locate actions advancing social impact mapping practices among diverse groups. Our firm belief is that social impact mapping can be a catalyst for social and economic change in the LAC region. We focus on actively involving communities in collaborative mapping efforts, granting everyone the opportunity to access and contribute to the map. Our emphasis lies in embedding a culture that cultivates a participatory approach that permeates our collaborative work ethic.
 
-**We are committed to prioritizing three critical components:**
+### **We are committed to prioritizing three critical components:**
 
 1. **Natural Hazard Resilience:** Leveraging OpenStreetMap (OSM) and open mapping tools, we strengthen resilient communities to take proactive measures in preventing and responding to disasters caused by the impacts of climate change.
 
@@ -78,8 +78,10 @@ Our efforts in the Caribbean have focused on establishing a strong presence and 
 
 4. **[Women-Centered Disaster Resilience In Small Island Developing States](https://www.hotosm.org/projects/women-centered-disaster-resilience-in-small-island-developing-states-trinidad-and-tobago/)**
 
-Join us in charting a better future! Together, let's harness the collective power of social impact mapping to build inclusive, sustainable, and open societies in the LAC region.
+### Our stories / news
 
-### Follow us on social media:
+Check out our latests developments and impact stories [here](https://www.hotosm.org/projects/publications/).
+
+### Follow us on social media
 
 [Twitter](https://twitter.com/openmapping_esa) |  [Instagram](https://www.instagram.com/maphublac/) | [Facebook](https://www.facebook.com/MapHubLAC) | [LinkedIn](https://www.linkedin.com/showcase/maphublac)
