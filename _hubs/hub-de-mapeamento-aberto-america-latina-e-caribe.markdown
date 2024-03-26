@@ -52,7 +52,7 @@ Liderando o monitoramento de base e promovendo interações entre populações n
 
 O Programa Amazônia é uma iniciativa multifacetada que aborda lacunas cartográficas e promove o mapeamento de impacto social na região. As parcerias com autoridades de proteção civil visam preencher lacunas cartográficas e melhorar a gestão de riscos. O mapeamento antecipado identifica áreas vulneráveis para melhorar o planejamento e a resposta. Os projetos comunitários ensinam cartografia e apoiam o monitoramento ambiental em várias cidades amazônicas do Brasil, Equador e Peru, promovendo o engajamento local e a posse de dados abertos.
 
-1. [Mapeamentos Amazônicos para uma Amazônia Inclusiva e Sustentável](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/)
+1. [Mapeamentos Amazônicos para uma Amazônia Inclusiva e Sustentável](https://www.hotosm.org/updates/mapeamentos-amazonicos-para-uma-amazonia-inclusiva-e-sustentavel/
 
 2. [Mapeamento Colaborativo e Inclusivo do Médio Solimões, Amazonas](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)
 
@@ -82,7 +82,7 @@ Nossos esforços no Caribe têm se concentrado em estabelecer uma presença sól
 
 # Nossas Histórias / Notícias
 
-### Confira nossos últimos desenvolvimentos e histórias de impacto [aqui](https://www.hotosm.org/projects/publicaciones/).
+### Confira nossos últimos desenvolvimentos e histórias de impacto [aqui](https://www.hotosm.org/projects/publicacoes/).
 
 # Siga-nos nas redes sociais
 
