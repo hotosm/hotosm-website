@@ -9,7 +9,6 @@ layout: page
 
 ![LAC_landingpage_Español.jpg](/uploads/LAC_landingpage_Espan%CC%83ol.jpg)
 
-
 En América Latina y el Caribe (LAC), enfrentamos desastres causados por riesgos naturales, junto con otros desafíos para nuestro medio ambiente y desarrollo sostenible, dentro del marco de la diversidad y la pronunciada desigualdad. El equipo de Humanitarian OpenStreetMap (HOT) tiene como objetivo ser un catalizador positivo en esta situación para asegurar que el poder de los datos geográficos abiertos se aproveche plenamente en el apoyo a políticas públicas basadas en datos que fomenten sociedades inclusivas, sostenibles y transparentes. En el centro de nuestro enfoque está la promoción activa y el uso de prácticas de mapeo de impacto social, asegurando que nuestros esfuerzos contribuyan a un desarrollo compartido y significativo.
 
 El LAC Hub fue establecido en 2023 con la intención de ubicar acciones que promuevan prácticas de mapeo de impacto social entre grupos diversos. Nuestra firme creencia es que el mapeo de impacto social puede ser un catalizador para el cambio social y económico en la región de América Latina y el Caribe. Nos enfocamos en involucrar activamente a las comunidades en esfuerzos de mapeo colaborativo, otorgando a todas las personas la oportunidad de acceder y contribuir al mapa. Nuestro énfasis radica en la incorporación de una cultura que fomente un enfoque participativo que impregna nuestra ética de trabajo colaborativo.
@@ -52,7 +51,7 @@ El Programa Amazonia es una iniciativa multifacética que aborda brechas cartogr
 
 1. [Mapeos Amazónicos para una Amazonía Inclusiva y Sostenible](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/)
 
-2. [Collaborative and Inclusive Mapping of the Middles Solimões, Amazon](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)
+2. [Mapeo Colaborativo e Inclusivo del Medio Solimões, Amazonas](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)
 
 # Open Mapping for All
 
@@ -78,8 +77,7 @@ Nuestros esfuerzos en el Caribe se han centrado en establecer una sólida presen
 
 # Nuestras historias / noticias
 
-### Consulta nuestros últimos desarrollos e historias de impacto
- [aquí](https://www.hotosm.org/projects/publicaciones/).
+### Consulta nuestros últimos desarrollos e historias de impacto [aquí](https://www.hotosm.org/projects/publicaciones/).
 
 # Síguenos en redes sociales
 ![Social Media - Hub de Mapeo Abierto en América Latina y el Caribe vf-f1eae3.jpg](/uploads/Social%20Media%20-%20Hub%20de%20Mapeo%20Abierto%20en%20Ame%CC%81rica%20Latina%20y%20el%20Caribe%20vf-f1eae3.jpg)
