@@ -10,7 +10,7 @@ layout: page
 
 ![LAC_landingpage_Portuguese.jpeg](https://cdn.hotosm.org/website/LAC_landingpage_Portuguese.jpeg)
 
-> **[English Version](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/)** / **[Spanish Version](https://www.hotosm.org/hubs/hub-mapeo-abierto-latam-caribe/)**
+> **[English Version](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/)** / **[Spanish Version](https://www.hotosm.org/hubs/hub-mapeo-abierto-latam-caribe/)** 
 
 Na América Latina e no Caribe (LAC), enfrentamos desastres causados por riscos naturais, juntamente com outros desafios para nosso meio ambiente e desenvolvimento sustentável, dentro do contexto da diversidade e da marcada desigualdade. A equipe do Humanitarian OpenStreetMap (HOT) tem como objetivo ser um catalisador positivo nessa situação para assegurar que o poder dos dados geográficos abertos seja plenamente aproveitado no apoio a políticas públicas baseadas em dados que promovam sociedades inclusivas, sustentáveis e transparentes. No centro de nossa abordagem está a promoção ativa e o uso de práticas de mapeamento de impacto social, garantindo que nossos esforços contribuam para um desenvolvimento compartilhado e significativo.
 
