@@ -17,6 +17,9 @@ Impact Area:
 Partner:
 - Map Nigeria
 - OSM Côte d'Ivoire
+- Federation of Liberia Urban Poor Savers (FOLUPS)
+- Slum Dwellers International (SDI)
+- Humanitarian enhanced Platform for Development (HePD)
 Tools:
 - tool: Tasking Manager
   link: https://tasks.hotosm.org/
@@ -73,7 +76,6 @@ The projects will generate datasets on building footprints and attributes, roads
 
 ### Eco-Smart Cities
 * A minimum of eight (8) secondary and populated cities across two countries are mapped, and data is publicly available to city authorities and added to OSM for development purposes.
-* The project outcomes will pave the way for accurate ground-truthing activities leading to amenities and street view mapping. 
 * New partnerships are established with city authorities in eight or more cities in two countries.
 * Over five (5) million buildings' footprints are reflected on OpenStreetMap.
 * Over 5,000 kilometers of roads and waterways are added to OSM.
@@ -81,7 +83,6 @@ The projects will generate datasets on building footprints and attributes, roads
 * Map an area home to over 10 million people.
 * Over 100 Communities, zones, and town names across several cities are added to the OpenStreetMap geospatial database.
 * Map contributors are trained using AI tools for improved and accurate remote mapping activities.
-* Upgraded and expanded spatial data on urban infrastructure, including building layouts and footprints, road networks, waterways, land use, and settlement names on public maps, are available, leading to better service delivery and quality of life for residents and commuters to city authorities.
 * Existing datasets are combined with remote mapping datasets to provide maps of cities with an emphasis on air quality-impacted areas. 
 * Analysis of air quality, population, and causes will be presented in visualized formats. 
 
@@ -90,6 +91,11 @@ The projects will generate datasets on building footprints and attributes, roads
 * Slum communities and NGO partners with skills and experience of using open mapping software to accelerate and improve mapping / data collection for local impact.
 
 ## Expected Impact
+
+### Eco-Smart Cities
+* The project outcomes will pave the way for accurate ground-truthing activities leading to amenities and street view mapping. 
+* Upgraded and expanded spatial data on urban infrastructure, including building layouts and footprints, road networks, waterways, land use, and settlement names on public maps, are available, leading to better service delivery and quality of life for residents and commuters to city authorities.
+* The project will combine satellite data, ground-based sensor data, and OSM data to identify pollution hotspots and at-risk communities. This data will be critical for stakeholders to make data-driven decisions for air quality management that promotes public health.
 
 ### Know Your City
 * Liberia: Integration of community data and perspectives in climate adaptation planning and implementation in Monrovia. 
