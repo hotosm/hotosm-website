@@ -12,10 +12,7 @@ Intro Text: "HOT collaborates with a wide range of organizations to leverage ope
   of disaster in 94 countries. There are many ways we can work together to achieve
   this!\n<br>\n<br>\nHOT has a growing community of partners, including:\n<br>\n<br>\n<a
   href=\"https://aws.amazon.com/what-is-cloud-computing\"><img src=\"https://d0.awsstatic.com/logos/powered-by-aws.png\"
-  alt=\"Powered by AWS Cloud Computing\"></a>\n\n<br>\n<br>\nHOT has a growing community
-  of partners, including:\n<a href=\"https://aws.amazon.com/what-is-cloud-computing\"><img
-  src=\"https://d0.awsstatic.com/logos/powered-by-aws.png\" alt=\"Powered by AWS Cloud
-  Computing\"></a>"
+  alt=\"Powered by AWS Cloud Computing\"></a>"
 Page Contact:
   Label: Partner with us
   Text: Interested in partnering with HOT?
