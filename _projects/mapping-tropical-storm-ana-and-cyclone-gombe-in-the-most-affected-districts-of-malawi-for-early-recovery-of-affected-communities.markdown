@@ -49,4 +49,5 @@ The team also delineated flood water extents for flooding events since 2019 in C
 The infrastructure data and flood extents will act as baseline data to help the councils in future flooding events as they know the number of key infrastructures such as buildings before and after the disaster. The community based organizations have been trained on the relevance of spatial data in disaster preparedness and response. 
 
 ![ESA_MappingStormsMalawi6.png](/uploads/ESA_MappingStormsMalawi6.png)
+
 *Flood water maps for major flooding (in red) in Nsanje and Chikwawa since 2019, with (a) representing Cyclone Freddy, (b) Cyclone Gombe, (c) Cyclone Ana and (d) Cyclone Idai.Yellow are administrative boundaries.*
