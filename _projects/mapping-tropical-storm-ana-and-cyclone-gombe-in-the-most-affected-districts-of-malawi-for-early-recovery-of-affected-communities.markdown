@@ -45,6 +45,8 @@ Despite challenges, such as a lack of experienced mappers in the country, many s
 The project through Participatory mapping has enabled the communities to understand their hazards, capacities and vulnerabilities. Mapping floods with satellite imagery and local observations proved useful to compliment each other. In the future, online mapathons would be useful to reach a wider audience and Youth Mappers will be more engaged.  
 
 The team also delineated flood water extents for flooding events since 2019 in Chikwawa and Nsanje districts using Google Earth Engine. A map box was developed and using the capabilities of ESRI’s Africa Geospatial Portal tool interactive maps were developed and shared on a GitHub page for OpenStreetMap Malawi and it is accessible here: https://osm-malawi.github.io/floodmapping/
- 
 
 The infrastructure data and flood extents will act as baseline data to help the councils in future flooding events as they know the number of key infrastructures such as buildings before and after the disaster. The community based organizations have been trained on the relevance of spatial data in disaster preparedness and response. 
+
+![ESA_MappingStormsMalawi6.png](/uploads/ESA_MappingStormsMalawi6.png)
+*Flood water maps for major flooding (in red) in Nsanje and Chikwawa since 2019, with (a) representing Cyclone Freddy, (b) Cyclone Gombe, (c) Cyclone Ana and (d) Cyclone Idai.Yellow are administrative boundaries.
