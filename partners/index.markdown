@@ -10,7 +10,10 @@ Intro Text: "HOT collaborates with a wide range of organizations to leverage ope
   data. \n<br>\n<br>\nOver the next five years HOT will engage one million volunteers
   to map places home to one billion people who are living in poverty or at high risk
   of disaster in 94 countries. There are many ways we can work together to achieve
-  this!\n<br>\n<br>\nHOT has a growing community of partners, including:\n<a href=\"https://aws.amazon.com/what-is-cloud-computing\"><img
+  this!\n<br>\n<br>\nHOT has a growing community of partners, including:\n<br>\n<br>\n<a
+  href=\"https://aws.amazon.com/what-is-cloud-computing\"><img src=\"https://d0.awsstatic.com/logos/powered-by-aws.png\"
+  alt=\"Powered by AWS Cloud Computing\"></a>\n\n<br>\n<br>\nHOT has a growing community
+  of partners, including:\n<a href=\"https://aws.amazon.com/what-is-cloud-computing\"><img
   src=\"https://d0.awsstatic.com/logos/powered-by-aws.png\" alt=\"Powered by AWS Cloud
   Computing\"></a>"
 Page Contact:
