@@ -27,11 +27,12 @@ Duration:
 
 The primary goal of this project was to develop effective mechanisms for mitigating climate change-related disasters by generating geospatial data critical for disaster recovery, planning, and decision-making. Active community participation is a key component of this project to ensure that the actual areas are accurately displayed on the map. Baseline studies were conducted through Focus Group Discussions to identify the hotspots of damage caused by Tropical Storm Ana and Cyclone Gombe.
 
+
 To better understand the challenges faced by the affected communities, the project conducted induction meetings with local councils in Chikwawa and Nsanje districts. During the induction meeting, the project successfully engaged 110 members, who participated in the study area identification and awareness.
 
-![ESA_MappingStormsMalawi6.png](https://cdn.hotosm.org/website/ESA_MappingStormsMalawi6.png)
-
 During the Focus Group Discussions, the project team gathered valuable insights on the detrimental effects of climate change-related disasters on local communities, with several stories being cited. For instance, in Nthumba, a community in Chikwawa, floods had occurred for the first time, leaving a student from Nthumba primary school unable to attend school for over three months due to unsafe travel conditions and flooded school blocks. 
+
+![ESA_MappingStormsMalawi5.jpeg](https://cdn.hotosm.org/website/ESA_MappingStormsMalawi5.jpeg)
 
 Moreover, the floods also affected a school for the blind in Nsanje, making it challenging for students to find shelter. According to the chairman of the Nsanje VCPC, over 5,000 households were affected and destroyed by the water in Nsanje.
 
@@ -44,7 +45,3 @@ Despite challenges, such as a lack of experienced mappers in the country, many s
 The project through Participatory mapping has enabled the communities to understand their hazards, capacities and vulnerabilities. Mapping floods with satellite imagery and local observations proved useful to compliment each other. In the future, online mapathons would be useful to reach a wider audience and Youth Mappers will be more engaged.   
 
 The infrastructure data and flood extents will act as baseline data to help the councils in future flooding events as they know the number of key infrastructures such as buildings before and after the disaster. The community based organizations have been trained on the relevance of spatial data in disaster preparedness and response. 
-
-
-![ESA_MappingStormsMalawi5.jpeg](https://cdn.hotosm.org/website/ESA_MappingStormsMalawi5.jpeg)
-
