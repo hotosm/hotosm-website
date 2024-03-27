@@ -25,8 +25,6 @@ Duration:
   End Date: 2023-11-20 00:00:00 Z
 ---
 
-![ESA_MappingStormsMalawi2.jpeg](https://cdn.hotosm.org/website/ESA_MappingStormsMalawi2.jpeg)
-
 The primary goal of this project was to develop effective mechanisms for mitigating climate change-related disasters by generating geospatial data critical for disaster recovery, planning, and decision-making. Active community participation is a key component of this project to ensure that the actual areas are accurately displayed on the map. Baseline studies were conducted through Focus Group Discussions to identify the hotspots of damage caused by Tropical Storm Ana and Cyclone Gombe.
 
 To better understand the challenges faced by the affected communities, the project conducted induction meetings with local councils in Chikwawa and Nsanje districts. During the induction meeting, the project successfully engaged 110 members, who participated in the study area identification and awareness.
