@@ -1,8 +1,10 @@
 ---
 title: Crowd-Source Mapping for Disaster Management (Timor Leste)
 date: 2023-05-16 20:41:00 Z
-Project Summary Text: Equipping local communities with the ability to use OSM for
-  decision-making and providing relevant information/attributes for disaster management.
+Project Summary Text: 'Equipping local communities with the ability to use OpenStreetMap
+  for decision-making and providing relevant information/attributes for disaster management.
+  Training activities resulted in more than 47,000 buildings, 350 km of road networks,
+  and 700 amenities added to OpenStreetMap. '
 Feature Image: https://cdn.hotosm.org/website/AP_DisasterManagement_TimorLeste_1.jpeg
 Country:
 - Timor-Leste
@@ -14,17 +16,19 @@ Partner:
 Duration:
   Start Date: 2022-07-15 00:00:00 Z
   End Date: 2022-08-11 00:00:00 Z
+Tools:
+- tool: inaSAFE
 ---
 
 As part of the Open Mapping Hub Asia Pacific's dedication to strengthening data usage and promoting disaster resilience throughout the Asia-Pacific Region, we are collaborating with local communities and partners in Timor-Leste to provide training on OSM for Disaster Management. In collaboration with World Vision Timor-Leste, Simile Timor-Leste, and other local agencies, the training program was launched with a virtual session, followed by an in-person session where several community members and INGOs participated.
 
 ![AP_DisasterManagement_TimorLeste_2.jpeg](https://cdn.hotosm.org/website/AP_DisasterManagement_TimorLeste_2.jpeg)
 
-**AP Hub launched the virtual introductory session on 15 July 2022, and the in-person training on remote-mapping from 2-4 August, field mapping on 6-9 August, and concluded the training on 11 August with data analysis with InaSAFE.**
+**AP Hub launched the virtual introductory session on 15 July 2022, and the in-person training on remote-mapping from 2-4 August, field mapping on 6-9 August, and concluded the training on 11 August with data analysis with [InaSAFE](https://inasafe.org/home/index.html), a free software that uses spatial data to produce post-disaster scenarios for  better planning, preparedness and response activities.**
 
 The training started with an introduction to OSM, where participants started their OSM mapping journey, and also included intensive discussion among participants about data protection and privacy as well as defining form questions for the field survey in those areas. They also activated [three tasking manager projects](https://tasks.hotosm.org/explore?text=crowd)) to complete the mapping of building footprints and road networks.
  
-The training also included a mapathon and field mapping. 
+The training also included a mapathon and field mapping of amenities and building information for disaster risk reduction. 
 
 ![AP_DisasterManagement_TimorLeste_13.jpeg](https://cdn.hotosm.org/website/AP_DisasterManagement_TimorLeste_13.jpeg)
 
