@@ -17,8 +17,15 @@ intro-text: |-
   <h4><a href="https://2023.stateofthemap.africa/">State of the Map Africa</a>, Yaounde, Cameroon: November 31 - December 02, 2023</h4><br>
   <h4><a href="https://wiki.openstreetmap.org/wiki/State_of_the_Map_Ethiopia_2023">State of the Map Ethiopia</a>, Addis Ababa, Ethiopia: December 15 - 16, 2023</h4><br>
   <h4><a href="https://pgrsc.org/pacific-gis-rs-users-confrence/">Pacific Islands GIS & Remote Sensing Users Conference</a>, Suva, Fiji: November 27 - December 02, 2023</h4><br>
-  <h4><a href="https://blog.okfn.org/2024/02/28/and-the-winners-of-the-open-data-day-2024-mini-grants-are/">Open Data Day</a>, Multiple Locations: March 08, 2024</h4><br>
+  <h4><a href="https://blog.okfn.org/2024/02/28/and-the-winners-of-the-open-data-day-2024-mini-grants-are/">Open Data Day</a>, Multiple Locations: March 02-08, 2024</h4>
   <br>
+  <h4><a href="https://www.climatejusticecamp.com/">Climate Justice Camp</a>, Sint Maarten: March 28-30, 2024</h4>
+  <br>
+  <h4>Education and Empowerment: A Practical Way of Eliminating Female Genital Mutilation and Accelerating Gender Equality, Nigeria: March 30, 2024</h4>
+  <br>
+  <h4><a href="https://sotm2024.geoar-tech.com/">State of the Map Madagascar</a>, Madagascar: April 29-30, 2024</h4>
+  <br>
+  <h4>State of the Map Malawi, Malawi: June 05-07, 2024</h4>
   <br>
 
   <h3>If you are interested in becoming a sponsor of the HOT OpenSummit, <a href="http://www.hotosm.orghttps://cdn.hotosm.org/website/OpenSummit+Sponsorship.pdf">click here for more information.</h4>
