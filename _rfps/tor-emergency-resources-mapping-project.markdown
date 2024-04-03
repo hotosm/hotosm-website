@@ -2,7 +2,7 @@
 title: 'Call for Proposals: Emergency Resources Mapping Project'
 date: 2024-03-12 19:16:00 Z
 Deadline Date: 2024-04-08 23:59:00 Z
-Apply Form Link: https://drive.google.com/file/d/1-sHrN5qXFr9rWga6fQ9-fuknOD8DF-H9/view?usp=sharing
+Apply Form Link: https://drive.google.com/file/d/1LC16MMyulYGar0ZRWskRsUx8Lw48rBOW/view?usp=drive_link
 Page Contact:
   Contact Email: hublac@hotosm.org
   Label: Submission Email
