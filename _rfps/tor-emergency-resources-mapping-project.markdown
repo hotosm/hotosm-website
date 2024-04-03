@@ -31,7 +31,7 @@ The primary outcome of this project is to develop a comprehensive map/database o
 The terms of reference are available **[here](https://drive.google.com/file/d/1aDf_uKZZABgnSfEafNgfFXVCQzNDJiNt/view)**.
 
 ## TO APPLY
-1. Send your CV, technical proposal (max. 10 pages) and financial proposal (max. 2 pages) to: caribbean@hotosm.org
+1. Send your CV, technical proposal (max. 10 pages) and financial proposal (max. 2 pages) to: [hublac@hotosm.org](mailto:hublac@hotosm.org)
 
 2. Technical proposal should be submitted in the following format:
 * Section A. Background: Briefly describe the background and organization of yourself/ firm/organization and any sub-consultants that your organization proposes to engage for this assignment. 
