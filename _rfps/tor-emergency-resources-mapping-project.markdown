@@ -4,7 +4,7 @@ date: 2024-03-12 19:16:00 Z
 Deadline Date: 2024-04-08 23:59:00 Z
 Apply Form Link: https://drive.google.com/file/d/1-sHrN5qXFr9rWga6fQ9-fuknOD8DF-H9/view?usp=sharing
 Page Contact:
-  Contact Email: caribbean@hotosm.org
+  Contact Email: hublac@hotosm.org
   Label: Submission Email
 ---
 
@@ -46,4 +46,4 @@ The terms of reference are available **[here](https://drive.google.com/file/d/1a
 * Annex 3: Budget (should not exceed USD 15,000$). 
 * The financial proposal should not exceed USD 15,000
 
-Applications should be submitted by March 31st to the email address: caribbean@hotosm.org
+Applications should be submitted by March 31st to the email address: hublac@hotosm.org
