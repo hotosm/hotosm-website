@@ -2,10 +2,10 @@
 title: Women Centered Disaster Resilience in Small Island Developing States - Montserrat
 date: 2024-03-06 19:32:00 Z
 published: false
-Project Summary Text: Female high-school students from Trinidad and Tobago were trained
-  on GIS concepts and applications, open mapping tools and techniques, risk management,
-  and gender-based disaster resilience. They then mapped the flood-prone area around
-  the school and created their own Dignity Bag for disaster preparedness.
+Project Summary Text: 'Young women from Montserrat were trained on how to use HOT
+  Tasking Manager and participated in a mapathon to map critical facilities on the
+  island that are vulnerable to climate change impacts. '
+Feature Image: "/uploads/SIDS-Montserrat3.jpg"
 Country:
 - Montserrat
 Impact Area:
@@ -21,70 +21,64 @@ Tools:
 - tool: Tasking Manager
 ---
 
-## Background: The gendered effects of flood risks in Trinidad and Tobago
+## Background: A budding OSM community in Montserrat
 
-Trinidad and Tobago, a small island developing state (SIDS) in the Caribbean region, experiences major flooding events throughout the country during its rainy season, which has had a significant economic and social impact on its population. Among those impacts, we find that there are unequal distributions in terms of gender, as women and girls are less likely than men to have life-saving skills during a natural disaster, little attention is paid to their needs in emergency relief attempts regarding privacy, personal hygiene, and sanitation, and their capacities to respond to events and to be drivers of risk reduction are less recognized.
+After the creation of the OpenStreetMap (OSM) Caribbean Chapter in Barbados, Lavern Ryan, founder & CEO of [LRR Geospatial Consultancy](https://lavernrogersryan.com/), saw the opportunity to expand the community in Montserrat by introducing OSM to interested young girls from the Montserrat Secondary School (MSS) and the Montserrat Community College (MCC), as well as other women in the population. The goal was to add critical facilities on the island to OSM using the [HOT Tasking Manager](https://tasks.hotosm.org/), considering that Montserrat, like other islands in the Caribbean, is vulnerable to many climate-driven impacts.
 
-With this in mind, the GIS Society of Trinidad and Tobago (GISSTT) launched the Women-Centered Disaster Resilience in SIDS (WCDR in SIDS) Program to educate a female-led organization in using GIS (Geographic Information Systems) technology and concepts, with the goal of increasing their capacity to respond to natural disasters and other crises.
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-62.75802612304688%2C16.43213361652822%2C-61.800155639648445%2C16.929391324813995&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=11/16.6809/-62.2791">View Larger Map</a></small>
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-63.30322265625001%2C9.318990192397917%2C-59.75738525390626%2C12.114522771118361&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=9/10.7200/-61.5303">View Larger Map</a></small>
+## Approach: Finding women mappers
 
-## Approach: Education for capacity building
+The first part of the project involved recruiting young women interested in learning OSM for climate resilience in Montserrat. This was done through various means: social media posts, flyers hung on Montserrat’s Secondary School, live interviews on a radio show, and directly contacting Geography and Environmental Science teachers and students at the Montserrat Community College. 
 
-For the implementation of the project, GISSTT collaborated with the Parvati Girls Hindu College (PGHC), an all-female high school in the Penal–Debe region, which is located in an area susceptible to flooding. A total of seventeen students between the ages of 15 and 17 participated in WCDR in SIDS. The project consisted of two main phases: training and remote mapping.
+After the recruitment phase, a two-day event was held. Although 14 persons had originally registered,  a total of 20 persons assisted to the events. The first day focused on training the attendees, during which each created an OSM account, explored projects in the HOT Tasking Manager, and started working on tasks for this project. The second day consisted of a full-on Mapathon. After its conclusion, attendees received a certificate of participation, and a prize-giving ceremony was held.
 
-For the training phase, the WCDR in SIDS project team, comprised of GIS and disaster management professionals, developed a comprehensive and targeted curriculum covering basic GIS concepts and applications, open mapping tools and techniques, risk management, and gender-based disaster resilience concepts. Every Saturday from April 29th to June 3rd, the project team, comprising Rayna Sookdeo, Cassie Roopnarine, and Curmira Gulston, delivered 4.5-hour-long in-person lectures at the PGHC. Each week, the trainees completed the curriculum's modules via the Caribbean School of Data’s (CSOD) online Learning Management System (LMS). Their performance was monitored by the Project Lead via the CSOD’s off-platform dashboard.
+![MontserratWebTM.jpg](/uploads/MontserratWebTM.jpg)
+*Snapshot of the HOT Tasking Manager project that was created for use during the mapathon*
 
+The project organizers also requested participant feedback and created a What’s App group called “Montserrat Mappers,” where future training opportunities and online events will be shared. 
 
-![teaching.jpeg](https://cdn.hotosm.org/website/teaching.jpeg)
-*Priya Harnarine, GISSTT's Projects and Special Initiatives Officer, guides two students from Parvati Girls Hindu College*
+![SIDS-Montserrat1.jpg](/uploads/SIDS-Montserrat1.jpg)
+*Mapathon attendees working on the tasks assigned by the organizers*
 
-
-After the training phase, the selected students had a 3-hour workshop to apply their local knowledge of Penal/Debe to identify and map infrastructure and available resources within the project area using [HOT’s Tasking Manager](https://tasks.hotosm.org/). GISSTT President Shane Ragbir introduced the project to the trainees and guided them through the mapping. He then led a data validation exercise to validate the mapped points. The trainees also performed a brief field mapping exercise. Once the workshop was completed, the students received a Dignity Bag for disaster preparedness, inspired by their proposed designs, which included several personal hygiene items like sanitary pads, panty liners, and deodorant.
-
-![bag.jpeg](https://cdn.hotosm.org/website/bag.jpeg)
-*Close up of a "Dignity Bag" that was given to the participants, based on their proposed designs*
-
-Upon conclusion of the Project, all trainees were made honorary Student Members of the GISSTT and can access information and resources to assist them in their School Based Assessments (SBAs) and future projects.
-
-## Impact: Women's geospatial skills increase disaster resilience
+## Impact
 
 As a result of this project, there were:
 
 <table style="font-weight: bold;">
 <tr style="color:#D73F3F; border-bottom: 1px solid #ddd; text-align:center;">
-<td>17</td>
-<td style="border-left: 1px solid black">1481</td>
-<td style="border-left: 1px solid black">32</td>
-<td style="border-left: 1px solid black">1719</td>
+<td>16</td>
+<td style="border-left: 1px solid black">4</td>
+<td style="border-left: 1px solid black">159</td>
 </tr>
 <tr style="text-align:center; border-bottom: 0px">
-<td>Girls trained</td>
-<td style="border-left: 1px solid black">Buildings Mapped</td>
-<td style="border-left: 1px solid black">Km of Roads</td>
-<td style="border-left: 1px solid black">OpenStreetMap Edits</td>
+<td>Women trained on OSM </td>
+<td style="border-left: 1px solid black">Men trained on OSM</td>
+<td style="border-left: 1px solid black">OSM changesets</td>
 </tr>
 </table>
 
-<p style="margin: 50px; background-color: #f0efef"> "I enjoyed learning how to use the software and mapping the actual buildings and houses, etc., on the map. The physical activities were very engaging, and  <strong> I hope the information we mapped can help in minimizing the effects of floods.</strong>"</p>
+This project focused on mapping critical facilities (structures) to aid in disaster relief and recovery. The team considered mapping structures using polygons to be more suitable as introductory training for the participants' current skill level.
 
-<p style="margin: 50px"><em>&mdash; Testimony from one of the trainees</em></p>
+<p style="margin: 50px; background-color: #f0efef"> "Learning this new skill was very fun for me, being able to contribute to this initiative that will help with identifying areas on Montserrat that are vulnerable to impacts of various systems is very fulfilling."</p>
 
-![allparticipants.jpeg](https://cdn.hotosm.org/website/allparticipants.jpeg)
-*The GISSTT team poses along the students and faculty of Parvati Girls Hindu College*
+<p style="margin: 50px"><em>&mdash; Feedback from one of the trainees</em></p>
 
-## What Happens Next?
+<p style="margin: 50px; background-color: #f0efef"> "A very interesting event as working with the environment is a major part of my career, being able to contribute to GIS on Montserrat is something I often think about and this training has made it possible to delve a bit more into the field. Definitely looking forward to more events like this."</p>
 
-Following the conclusion of this project, the PGHC aims to establish a “train the trainer” program in which more teachers from the school will be trained in GIS applications and HOT’s Tasking Manager, with the intention of incorporating GIS into the school’s curriculum.
+<p style="margin: 50px"><em>&mdash; Feedback from one of the trainees</em></p>
 
-Moreover, GISSTT, our implementing partner for this project, identified several areas of opportunity if this project is to be replicated in other schools in the region:
+![SIDS Montserrat 4.jpg](/uploads/SIDS%20Montserrat%204.jpg)
+*Trainees show the customized shirts designed for the project*
 
-* Consider executing the program earlier in the semester or during the two-month July/August vacation period to ensure that the training does not conflict with the school’s examination period.
+## Learning from experience
 
-* Since field mapping was only briefly addressed during the second phase of this program but was very well received by the students, the implementing partner recommends incorporating this aspect of open mapping in the curriculum. Considerations about consent should be taken in case a field mapping component is added.
+Following the conclusion of this project, LRR Geospatial identified the following recommendations:
 
-* On-boarding for the chosen Learning Management System platform should be done earlier, and a test should be performed beforehand to ensure that there are no technical issues on either end.
+* The event duration (in terms of the number of days and hours) could have been extended by another day to allow participants to fully complete the tasks without feeling rushed.
 
-![jumping.jpeg](https://cdn.hotosm.org/website/jumping.jpeg)
+* Other tools for updating OpenStreetMap can be employed in another iteration. 
 
-*Photos by The GIS Society of Trinidad and Tobago (GISSTT)*
+* Persons unable to attend physically can be engaged via a virtual mapathon.
+
+*Photos by LRR Geospatial*
