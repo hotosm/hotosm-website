@@ -1,7 +1,6 @@
 ---
 title: Women Centered Disaster Resilience in Small Island Developing States - Montserrat
 date: 2024-03-06 19:32:00 Z
-published: false
 Project Summary Text: 'Young women from Montserrat were trained on how to use HOT
   Tasking Manager and participated in a mapathon to map critical facilities on the
   island that are vulnerable to climate change impacts. '
