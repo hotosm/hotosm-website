@@ -4,28 +4,31 @@ date: 2018-05-01 05:01:00 Z
 permalink: "/programs/mapping-for-climate-ready-cities"
 position: 88
 Feature Image: "/uploads/Ramani-Huria-Dar-es-Salaam-v3-2.jpg"
-Feature-Image: "/uploads/Ramani-Huria-Dar-es-Salaam-v3.jpg"
 Country:
 - Bangladesh
 - Nepal
 - Ethiopia
-- Democratic Republic of Congo
 - Nigeria
 - Ivory Coast
-- South America
 - Kenya
 - Democratic Republic of Congo
 - Sierra Leone
 - Liberia
+- Brazil
+- Mexico
+- Chile
+- Ecuador
 Impact Area:
 - Sustainable Cities & Communities
 Partner:
 - UN-Habitat
 - Start Network
 - Save the Children UK
+- 
 Duration:
   Start Date: 2024-01-01 00:00:00 Z
   End Date: 2025-12-31 00:00:00 Z
+Feature-Image: "/uploads/Ramani-Huria-Dar-es-Salaam-v3.jpg"
 Event Promo:
   Event Name: Mapping For Climate-Ready Cities
   Description: "<a style='color: white; font-weight: bold;'>Climate crises are inherently
@@ -159,7 +162,7 @@ Project-text:
     develop solutions. More, better and up-to-date data means that locals, advocates
     and decision-makers can make more rapid and better decisions.</li></ul>"
   Outcomes: 
-project_extent: ''
+project_extent: 
 Project-1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
