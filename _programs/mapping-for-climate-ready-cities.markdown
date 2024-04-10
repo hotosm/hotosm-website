@@ -11,7 +11,7 @@ Country:
 - Nigeria
 - Ivory Coast
 - Kenya
-- Democratic Republic of Congo
+- Democratic Republic of the Congo
 - Sierra Leone
 - Liberia
 - Brazil
