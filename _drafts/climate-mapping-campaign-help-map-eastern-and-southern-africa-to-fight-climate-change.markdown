@@ -55,3 +55,4 @@ Mappers who take part from the start until the end of the campaign will receive 
 
 
 ![ESA Climate Campaign Lead Image.jpg](/uploads/ESA%20Climate%20Campaign%20Lead%20Image.jpg)
+<figcaption align = "left"><h6>Caption aligned left</h6></figcaption>
