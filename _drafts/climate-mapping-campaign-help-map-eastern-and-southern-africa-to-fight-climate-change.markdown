@@ -51,8 +51,8 @@ Mappers who take part from the start until the end of the campaign will receive 
 *If you are interested in partnering or collaborating with the Open Mapping Hub—Eastern and Southern Africa in a different way, send an email to esahub@hotosm.org. You can also follow us on our social media accounts: [Twitter](https://twitter.com/openmapping_esa), [LinkedIn](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/), and [Facebook](https://www.facebook.com/openmapping.esa).*
 
 ![ESA Climate Campaign Lead Image.jpg](/uploads/ESA%20Climate%20Campaign%20Lead%20Image.jpg)
-*Caption*
+*XYZ*
 
 
 ![ESA Climate Campaign Lead Image.jpg](/uploads/ESA%20Climate%20Campaign%20Lead%20Image.jpg)
-<figcaption align = "left"><h6>Caption aligned left</h6></figcaption>
+<figcaption align = "left"><h6>XYZ</h6></figcaption>
