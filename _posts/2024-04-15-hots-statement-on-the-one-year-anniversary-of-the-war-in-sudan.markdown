@@ -1,7 +1,6 @@
 ---
 title: HOT's statement on the one-year anniversary of the war in Sudan
 date: 2024-04-15 18:00:00 Z
-published: false
 Feature Image: "/uploads/Sudan%20(1400%20x%20788%20px).jpg"
 ---
 
