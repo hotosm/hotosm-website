@@ -35,7 +35,7 @@ Together, we will map critical infrastructure (buildings, roads) in vulnerable a
 
 Mappers from all over the world are welcome to participate in this campaign and support us through mapping and validating projects. 
 
-**Here is how to Join **
+**Here is how to Join**
 
 1. Register using [this form](https://forms.gle/aHEdRStRNFnv6g3o8). Registering will help to easily stay in touch with everyone contributing to these campaigns.
 2. Log into [Tasking Manager](https://tasks.hotosm.org/) to access the [mapping projects](https://tasks.hotosm.org/explore?campaign=OMH-ESA%20Climate%20Campaign&omitMapResults=1). 
@@ -49,10 +49,3 @@ If you’re new to mapping and want to learn, or want to advance your mapping sk
 Mappers who take part from the start until the end of the campaign will receive a certificate, t-shirts, and the top mappers will receive a SWAG pack. The weekly top mappers will receive recognition.
 
 *If you are interested in partnering or collaborating with the Open Mapping Hub—Eastern and Southern Africa in a different way, send an email to esahub@hotosm.org. You can also follow us on our social media accounts: [Twitter](https://twitter.com/openmapping_esa), [LinkedIn](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/), and [Facebook](https://www.facebook.com/openmapping.esa).*
-
-![ESA Climate Campaign Lead Image.jpg](/uploads/ESA%20Climate%20Campaign%20Lead%20Image.jpg)
-*XYZ*
-
-
-![ESA Climate Campaign Lead Image.jpg](/uploads/ESA%20Climate%20Campaign%20Lead%20Image.jpg)
-<figcaption align = "left"><h6>XYZ</h6></figcaption>
