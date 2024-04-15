@@ -14,6 +14,7 @@ We join the global humanitarian community in a call for a peaceful resolution to
 
 Images on the cover:
 * ["Inheriting life"](https://commons.wikimedia.org/wiki/File:Inheriting_life.png), by Joodahmed, CC BY-SA 4.0
+* ["Sudanese people going home after work (public transport)"](https://commons.wikimedia.org/wiki/File:Sudan_-_the_black_pharaohs_(3505306406).jpg), by Retlaw Snellac Photography, CC BY 2.0
 * ["A group editing session for the Sudan Wikimedia community on the Africa Wiki Challenge"](https://commons.wikimedia.org/wiki/File:Wikimedia_Sudan_Community_Editorial_Session_03.jpg) by Hassan Hassoon, CC BY-SA 4.0
 * ["Sudan Northern State Merowe Nuri Terej Island"](https://commons.wikimedia.org/wiki/File:Transportation_in_Sudan_in_the_northern_state.jpg), by كابوالحوت, CC BY-SA 4.0
 * ["Simple music"](https://commons.wikimedia.org/wiki/File:Simple_music.jpg), by Ebrahim Al-Hajj, CC BY-SA 4.0
