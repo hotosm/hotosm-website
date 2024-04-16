@@ -2,6 +2,11 @@
 title: 'Climate Mapping Campaign: Help Map Eastern and Southern Africa to Fight Climate
   Change!'
 date: 2024-04-15 12:38:00 Z
+tags:
+- disaster resilience
+- disaster response
+- OpenStreetMap
+- open data
 Summary Text: The Climate Mapping Campaign uses OpenStreetMap to map critical infrastructure
   in Eastern and Southern Africa to aid disaster response for communities facing climate-related
   disasters. Join the campaign to map and help communities prepare, respond, and recover!
