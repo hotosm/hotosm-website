@@ -53,6 +53,6 @@ If you’re new to mapping and want to learn, or want to advance your mapping sk
 
 Mappers who take part from the start until the end of the campaign will receive a certificate, and t-shirts, and the top mappers will receive a SWAG pack. The weekly top mappers will receive recognition
 
-Read more about the [Climate Campaign ](https://www.canva.com/design/DAGCg8MOj90/4Kkt7eayiPKzz4s_TWnSzA/view?utm_content=DAGCg8MOj90&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+**Read more about the Climate Campaign** 
 
 *If you are interested in partnering or collaborating with the Open Mapping Hub—Eastern and Southern Africa differently, send an email to esahub@hotosm.org. You can also follow us on our social media accounts: [Twitter](https://twitter.com/openmapping_esa), [LinkedIn](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/), and [Facebook](https://www.facebook.com/openmapping.esa).*
