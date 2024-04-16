@@ -1,5 +1,6 @@
 ---
-title: 'Climate Campaign: Help map Eastern & Southern Africa to fight climate change!'
+title: 'Climate Mapping Campaign: Help map Eastern & Southern Africa to fight climate
+  change!'
 date: 2024-04-16 07:05:00 Z
 tags:
 - open data
