@@ -1,6 +1,11 @@
 ---
 title: Climate Mapping Campaign
 date: 2024-04-16 07:05:00 Z
+tags:
+- open data
+- OpenStreetMap
+- disaster
+- cyclone
 Summary Text: 'The devastating impacts of climate change, from intense cyclones to
   prolonged droughts, are threatening the lives and livelihoods of millions in Eastern
   and Southern Africa. At HOT''s Open Mapping Hub (OMH-ESA), we are dedicated to advancing
