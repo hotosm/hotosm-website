@@ -4,9 +4,8 @@ title: 'Climate Mapping Campaign: Help Map Eastern and Southern Africa to Fight 
 date: 2024-04-16 07:05:00 Z
 Summary Text: 'The devastating impacts of climate change, from intense cyclones to
   prolonged droughts, are threatening the lives and livelihoods of millions in Eastern
-  and Southern Africa. At HOT''s Open Mapping Hub (OMH-ESA), we stand firm in our
-  belief: Dedicated to advancing open mapping solutions for community development
-  and social impact
+  and Southern Africa. At HOT''s Open Mapping Hub (OMH-ESA), we are dedicated to advancing
+  open mapping solutions for community development and social impact.
 
 '
 Feature Image: "/uploads/MAL_8295%20(1).jpg"
