@@ -25,7 +25,7 @@ Country:
 
 That's why we're launching the Climate Mapping Campaign, a critical initiative to empower communities across Eastern and Southern Africa. With the power of Open Street Maps, we aim to create vital data that will be instrumental in supporting preparedness, response, and early recovery efforts for those facing climate-related disasters.
 
-The campaign runs from April 11th to the end of July 2024.
+The campaign runs from April 18th to the end of September 2024.
 
 **How it works:**
 
