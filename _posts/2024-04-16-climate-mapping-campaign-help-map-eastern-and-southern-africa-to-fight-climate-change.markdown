@@ -1,15 +1,14 @@
 ---
 title: 'Climate Mapping Campaign: Help Map Eastern and Southern Africa to Fight Climate
   Change!'
-date: 2024-04-15 12:38:00 Z
-tags:
-- disaster resilience
-- disaster response
-- OpenStreetMap
-- open data
-Summary Text: The Climate Mapping Campaign uses OpenStreetMap to map critical infrastructure
-  in Eastern and Southern Africa to aid disaster response for communities facing climate-related
-  disasters. Join the campaign to map and help communities prepare, respond, and recover!
+date: 2024-04-16 07:05:00 Z
+Summary Text: 'The devastating impacts of climate change, from intense cyclones to
+  prolonged droughts, are threatening the lives and livelihoods of millions in Eastern
+  and Southern Africa. At HOT''s Open Mapping Hub (OMH-ESA), we stand firm in our
+  belief: Dedicated to advancing open mapping solutions for community development
+  and social impact
+
+'
 Feature Image: "/uploads/MAL_8295%20(1).jpg"
 Person:
 - Wilson Munyaradzi
@@ -18,11 +17,7 @@ Country:
 - Mozambique
 - Zambia
 - Kenya
-Project:
-- DISASTER
 ---
-
-The devastating impacts of climate change, from intense cyclones to prolonged droughts, are threatening the lives and livelihoods of millions in Eastern and Southern Africa. At HOT's Open Mapping Hub (OMH-ESA), we stand firm in our belief: Dedicated to advancing open mapping solutions for community development and social impact
 
 That's why we're launching the Climate Mapping Campaign, a critical initiative to empower communities across Eastern and Southern Africa. With the power of Open Street Maps, we aim to create vital data that will be instrumental in supporting preparedness, response, and early recovery efforts for those facing climate-related disasters.
 
