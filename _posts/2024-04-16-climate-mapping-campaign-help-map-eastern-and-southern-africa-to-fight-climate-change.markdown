@@ -1,6 +1,5 @@
 ---
-title: 'Climate Mapping Campaign: Help Map Eastern and Southern Africa to Fight Climate
-  Change!'
+title: Climate Mapping Campaign
 date: 2024-04-16 07:05:00 Z
 Summary Text: 'The devastating impacts of climate change, from intense cyclones to
   prolonged droughts, are threatening the lives and livelihoods of millions in Eastern
