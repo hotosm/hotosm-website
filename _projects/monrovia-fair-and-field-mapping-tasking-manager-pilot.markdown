@@ -6,12 +6,13 @@ tags:
 - tech
 - fmtm
 - fair
-Project Summary Text: "We are using fAIr to digitize an area in Monrovia, Liberia
-  in collaboration with the local Liberian team and WNAH, from drone imagery that
-  we’re acquiring immediately in advance of a household enumeration project using
-  the HOT Field Mapping Tasking Manager by a partner, Slum Dwellers International.
-  \n\nThis is a key example of the End-to-End (E2E) community mapping process in which
-  all aspects of the mapping are done by the community using locally-accessible tools."
+- e2e
+Project Summary Text: HOT is currently employing fAIr technology to digitize a specific
+  area within Monrovia, Liberia. This effort is conducted in partnership with the
+  local Liberian team and WNAH. The digitization process utilizes drone imagery that
+  we are promptly acquiring in preparation for a household enumeration project. This
+  project is facilitated through the HOT Field Mapping Tasking Manager, administered
+  by our partner, Slum Dwellers International.
 Feature Image: "/uploads/fair-fmtm-monrovia-osm-footprints.jpg.jpg"
 Country:
 - Liberia
@@ -36,11 +37,6 @@ Covering an area of 1.5 square kilometers, the targeted region encompasses appro
 
 <h3>Need for Digitization</h3>
 
-The Liberian team is doing household enumeration surveys, and have been trained using the FMTM to locate each precise building on the map, select it, and complete a detailed form that resembles a long-form census. There is a lot of value in the addition of the building selection; it ties the data to a specific structure, vastly reduces (practically to the point of elimination) duplication and missed structures, and creates a powerful advocacy tool for the local residents seeking better recognition and services for their community. 
-
-![Monrovia AOI](/uploads/fair-fmtm-monrovia-aoi-zoom.jpg.jpg)
-*Undigitized area at 1:300 scale; most of the AOI looks a lot like this and needs digitization*
-
 Selecting a discrete building from typical OSM digitization is difficult; most of the time there’s not a great 1:1 correspondence between building footprints and actual structures. With the digitization seen above, the local mappers are—for the most part—easily and accurately locating and selecting the appropriate buildings.
 
 However, there’s a lot more area still to be covered, and this is a great opportunity to use fAIr in collaboration with a local community.
@@ -53,14 +49,25 @@ Buildings are quite visible and clear in the drone imagery. When we overlay the 
 ![Monrovia AOI OSM Footprints](/uploads/fair-fmtm-monrovia-osm-footprints.jpg.jpg)
 *The existing digitization of Monrovia’s informal areas in OpenStreetMap is not fit for purpose for field mapping. The correspondence between structures and polygons is not close enough.*
 
-
 We do not often have sets of similarly-georeferenced, high-resolution imagery from different times in exactly the same location. Urban changesets are a product in massive demand from many data users (not to mention donors) and we have very few practical opportunities to generate them at this high a resolution and quality level (note that the 2014 imagery was acquired using a cheap DJI Mavic 2 belonging to a local person, not with an expensive mapping-specific drone, but it was done using the best practices from HOT’s experience gather local drone imagery with inexpensive devices). 
+
+![FMTM-Explanation.jpg](https://cdn.hotosm.org/website/FMTM-Explanation.jpg)
+*A project manager who has just created an FMTM project on their laptop demonstrates to a field mapper how they can select their assigned buildings on their phone*
+
+<h3>Implementation</3>
+
+<h4>FMTM</h4>
+
+The Liberian team is doing household enumeration surveys, and have been trained using the FMTM to locate each precise building on the map, select it, and complete a detailed form that resembles a long-form census. There is a lot of value in the addition of the building selection; it ties the data to a specific structure, vastly reduces (practically to the point of elimination) duplication and missed structures, and creates a powerful advocacy tool for the local residents seeking better recognition and services for their community. 
+
+![Monrovia AOI](/uploads/fair-fmtm-monrovia-aoi-zoom.jpg.jpg)
+*Undigitized area at 1:300 scale; most of the AOI looks a lot like this and needs digitization*
+
+<h4>fAIr</h4>
+
+A model was trained from the more recent 2024 imagery, and another from the building footprints on the 2019 imagery, giving us what will likely be one of the first practical uses of AI to quantify change in informal urban areas. 
 
 ![Monrovia Timelaps](/uploads/fair-fmtm-monrovia-timelaps.gif)
 *There’s a great deal of change in 5 years. In this typical small area of New Kru Town in Monrovia, six structures have been demolished, five have been newly constructed, and most have changed some or all of their roofing material.*
 
-Once a model is trained from the more recent 2024 imagery, it can almost certainly be run again to generate building footprints on the 2019 imagery with no modifications at all (it’s literally mostly the same buildings), giving us what will likely be one of the first practical uses of AI to quantify change in informal urban areas. 
 
-
-![FMTM-Explanation.jpg](https://cdn.hotosm.org/website/FMTM-Explanation.jpg)
-*A project manager who has just created an FMTM project on their laptop demonstrates to a field mapper how they can select their assigned buildings on their phone*
