@@ -35,22 +35,7 @@ The project will address data gaps with partners, local communities, and stakeho
 
 The data collection and awareness-building efforts will be supported by stakeholder training, workshops, and upskilling efforts focusing on data collection and data use for decision-making. 
 
-See this [OSM Diary from Brazil Singh](https://www.openstreetmap.org/user/Brazil%20Singh/diary/403790) for a community member perspective on the team's April 2024 field mapping and data collection trip to Dhaka. 
-
 ### Datasets Collected
-* Base data (roads, buildings, water bodies, land use) 
-* A more detailed data model to be developed with co-creation workshops with local stakeholders
-
-## Expected Outcome and Impact
-By catalyzing a vibrant, sustainable, multi-actor open data ecosystem in the cities, the AP Hub aims to create comprehensive and up-to-date geospatial data on OSM that will empower humanitarian organizations, local authorities, and grassroots communities to better understand, plan for, and respond to various challenges, including the effects of climate change, natural hazards, public health emergencies, and other urban development needs.
-
-## Tools Used
-* Tasking Manager - To complete the base data (roads, buildings, water bodies) of Dhaka North with the support and contribution of OSM collaborators worldwide. 
-* OpenAerialMap - To host and serve high resolution drone imagery made available by Dhaka North City Corporation (DNCC)
-* Mapillary - To collect high resolution street-level imagery from the slums and informal settlements of Mirpur. 
-* ODK/FMTM - To collect thematic data at hyper-local level on the field with data collectors and community volunteers
-
-## Datasets to be Collected
 Based on previously held discussions, workshops, and consultations, the overarching themes are focused on utilizing the improved base datasets on OpenStreetMap include (but are not limited with): Climate resilience, waste management, fire hazard risk management, waterlogging and flood risk management, disease management (dengue), heat & green cover, and open & safe spaces. 
 
 In this initial phase, AP Hub will work with local partners and stakeholders in developing an accessible and reliable geospatial database, comprising the following prioritized datasets:
@@ -60,4 +45,16 @@ In this initial phase, AP Hub will work with local partners and stakeholders in 
 * Amenities - commercial services (shops)
 * WASH facilities 
 * Street-Level Imagery - Mapillary
+
+### Expected Outcome and Impact
+By catalyzing a vibrant, sustainable, multi-actor open data ecosystem in the cities, the AP Hub aims to create comprehensive and up-to-date geospatial data on OSM that will empower humanitarian organizations, local authorities, and grassroots communities to better understand, plan for, and respond to various challenges, including the effects of climate change, natural hazards, public health emergencies, and other urban development needs.
+
+### Tools Used
+* Tasking Manager - To complete the base data (roads, buildings, water bodies) of Dhaka North with the support and contribution of OSM collaborators worldwide. 
+* OpenAerialMap - To host and serve high resolution drone imagery made available by Dhaka North City Corporation (DNCC)
+* Mapillary - To collect high resolution street-level imagery from the slums and informal settlements of Mirpur. 
+* ODK/FMTM - To collect thematic data at hyper-local level on the field with data collectors and community volunteers
+
+Want more? See this [OSM Diary from Brazil Singh](https://www.openstreetmap.org/user/Brazil%20Singh/diary/403790) for a community member perspective on the team's April 2024 field mapping and data collection trip to Dhaka. 
+
 
