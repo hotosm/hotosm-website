@@ -1,5 +1,6 @@
 ---
-title: Monrovia - fAIr & Field Mapping Tasking Manager Pilot
+title: Monrovia - Improving Map Quality using fAIr & Field Mapping Tasking Manager
+  - Pilot
 date: 2024-04-17 09:33:00 Z
 published: false
 tags:
