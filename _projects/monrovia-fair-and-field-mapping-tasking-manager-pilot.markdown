@@ -17,6 +17,8 @@ Country:
 - Liberia
 Impact Area:
 - Disasters & Climate Resilience
+Person:
+- Ivan Buendía Gayton
 Partner:
 - sdi
 Tools:
