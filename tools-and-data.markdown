@@ -33,12 +33,8 @@ Block 2:
   Text: HOT is developing a technical stack to assist the open mapping community. This includes remote mapping, field data collection, and data access. To learn more, check out our tech stack and access our repository.
   Image: "https://cdn.hotosm.org/website/GAL+Group+for+Mapping+Tips+Post.jpg"
   Tools:
-  - Name: LearnOSM
-    URL: https://learnosm.org
-  - Name: OpenStreetMap
-    URL: https://openstreetmap.org
-  - Name: GitHub repositories
-    URL: https://github.com/hotosm
+  - Name: View More
+    URL: "https://github.com/hotosm"
 Block 1111:
   Header: Open Source
   Text: Open source is at the heart of the HOT Community. We create and build open

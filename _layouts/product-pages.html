@@ -38,7 +38,7 @@ layout: default
             <h1 style="font-weight: bold; color: black; font-size: 1.25rem; line-height: 1.3;">{{ page['Block 1'].Header }}</h1>
             <br>
             <br>
-            <p>{{ page['Block 1'].Text }}</p>
+            <p>{{ page['Block 1'].Text | markdownify }}</p>
             <br>
           </div>
           <!-- Uses and Icons -->
@@ -55,17 +55,17 @@ layout: default
                 <div>
                     <h1 style="color: black; font-weight: bolder;"><i class="{{ page['Block 2'].Rectangle-1.Icon }}" style="color: #D73F3F;"></i>&nbsp;  {{ page['Block 2'].Rectangle-1.Header }} </h1>
                     <br>
-                    <p>{{ page['Block 2'].Rectangle-1.Highlight }}</p>
+                    <p>{{ page['Block 2'].Rectangle-1.Highlight | markdownify}}</p>
                 </div>
                 <div>
                   <h1 style="color: black; font-weight: bolder;"><i class="{{ page['Block 2'].Rectangle-2.Icon }}" style="color: #D73F3F;"></i>&nbsp;  {{ page['Block 2'].Rectangle-2.Header }} </h1>
                   <br>
-                    <p>{{ page['Block 2'].Rectangle-2.Highlight }}</p>
+                    <p>{{ page['Block 2'].Rectangle-2.Highlight | markdownify}}</p>
                 </div>
                 <div>
                   <h1 style="color: black; font-weight: bolder;"><i class="{{ page['Block 2'].Rectangle-3.Icon }}" style="color: #D73F3F;"></i>&nbsp;  {{ page['Block 2'].Rectangle-3.Header }} </h1>
                   <br>
-                    <p>{{ page['Block 2'].Rectangle-3.Highlight }}</p>
+                    <p>{{ page['Block 2'].Rectangle-3.Highlight | markdownify}}</p>
                 </div>
                 
             </div>
@@ -86,7 +86,7 @@ layout: default
                       <h2 style="font-size: 2.5rem;" >{{  page['Block 3'].Header }}</h2>
                         <h4 style="font-weight: bolder; font-size: 1.25rem;">{{ page['Block 3'].Highlight }}</h4>
                         <br>
-                        <p>{{ page['Block 3'].Text }}</p>
+                        <p>{{ page['Block 3'].Text | markdownify }}</p>
                   </div>
                           <div class="block-options">
                             <ul>
@@ -160,13 +160,14 @@ layout: default
 
 
                                       {% assign recent_projects = site.projects | sort:"date" | reverse %}
+                                      {% assign page_title = page.title %}
                                       {% assign project_count1 = 0 %}
                                         {% for project in recent_projects %}
                                         {% assign project_count1 = project_count1 | plus: 1 %}
 
                                           {% if project.Tools[0].tool %}
                                             {% for tool in project.Tools %}
-                                              {% if tool.tool contains 'Tasking Manager' %}
+                                              {% if tool.tool contains page_title %}
 
                                                 {% unless project.title == sorted_projects[0].title or project.title == sorted_projects[1].title or project.title == sorted_projects[2].title  %}
                                             
@@ -205,7 +206,7 @@ layout: default
 
 
                         <!-- <div style="margin: 30px 0 0px "></div> -->
-                        <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.25rem; color: black;">TECH NEWS</h2>
+                        <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.25rem; color: black;">RELATED NEWS</h2>
                         <div class="hr-h" style="margin: 10px 0 40px "></div>
 
                             <div class="project-index-all" style="background-color: whitesmoke; padding-left: 2%; padding-bottom: 1%;">
@@ -215,8 +216,9 @@ layout: default
 
                               {% assign recent_projects = site.tech-blog | concat: site.posts | sort: 'date' | reverse %}
                               {% assign project_count = 0 %}
+                              {% assign page_title = page.title %}
                               {% for project in recent_projects %}
-                                {% if project.tags contains 'tech' %}
+                                {% if project.title contains page_title %}
 
                                 {% unless project.title == sorted_projects[0].title or project.title == sorted_projects[1].title or project.title == sorted_projects[2].title  %}
                         

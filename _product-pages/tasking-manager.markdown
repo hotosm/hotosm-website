@@ -33,7 +33,7 @@ Block 3:
   Header: "How does it work?"
   Highlight: Tasking Manager allows multiple individuals to work simultaneously on the same overall area, enabling rapid completion of the project.
   Text: "The Tasking Manager's role involves presenting a specific geographic region and dividing it into small mapping areas known as 'tasks'. These tasks can be assigned to a mapper to prevent others from mapping the same objects, introducing duplicate data, or encountering conflicts. Once the mapping is finished in a particular area, the mapper marks the 'task' as done in the Tasking Manager. Mappers can then choose a new task to continue contributing to OpenStreetMap.<br><br>Experienced mappers review each task to ensure the quality of the data added to OpenStreetMap meets the required standards. They may either validate the task or return it to the mappers with guidance on how to enhance it."
-  Image: "https://cdn.hotosm.org/website/ESRI44309.gif" 
+  Image: "https://www.hotosm.org/uploads/TM-grid.gif" 
   Tools:
   - Name: Website
     URL: https://tasks.hotosm.org/

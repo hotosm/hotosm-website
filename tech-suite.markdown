@@ -40,6 +40,6 @@ Block 5:
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Learn More
-    URL: https://fmtm.hotosm.org/
+    URL: "/tech-suite/field-mapping-tasking-manager/"
 layout: tech-suite
 ---
