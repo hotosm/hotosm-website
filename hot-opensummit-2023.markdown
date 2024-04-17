@@ -28,7 +28,7 @@ intro-text: |-
   <h4>State of the Map Malawi, Malawi: June 05-07, 2024</h4>
   <br>
 
-  <h3>If you are interested in becoming a sponsor of the HOT OpenSummit, <a href="http://www.hotosm.orghttps://cdn.hotosm.org/website/OpenSummit+Sponsorship.pdf">click here for more information.</h4>
+  <h3>If you are interested in becoming a sponsor of the HOT OpenSummit, <a href="https://cdn.hotosm.org/website/OpenSummit+Sponsorship.pdf" target="_blank">click here for more information.</h4>
 
   <br>
 block-0:
