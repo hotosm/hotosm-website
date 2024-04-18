@@ -29,7 +29,7 @@ Block 1:
   - Name: Access our repositories
     URL: https://github.com/hotosm
 Block 2:
-  Header: HOT's Tech Stack
+  Header: TECH PRODUCT SUITE
   Text: HOT is developing a technical stack to assist the open mapping community. This includes remote mapping, field data collection, and data access. To learn more, check out our tech stack and access our repository.
   Image: "https://cdn.hotosm.org/website/GAL+Group+for+Mapping+Tips+Post.jpg"
   Tools:
