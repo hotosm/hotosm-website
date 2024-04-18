@@ -59,6 +59,6 @@ By catalyzing a vibrant, sustainable, multi-actor open data ecosystem in the cit
 * Mapillary - To collect high resolution street-level imagery from the slums and informal settlements of Mirpur. 
 * ODK/FMTM - To collect thematic data at hyper-local level on the field with data collectors and community volunteers
 
-**Want more? See this [OSM Diary from Brazil Singh]**(https://www.openstreetmap.org/user/Brazil%20Singh/diary/403790) **for a community member perspective on the team's April 2024 field mapping and data collection trip to Dhaka. **
+**Want more? See this [OSM Diary from Brazil Singh](https://www.openstreetmap.org/user/Brazil%20Singh/diary/403790) for a community member perspective on the team's April 2024 field mapping and data collection trip to Dhaka. **
 
 
