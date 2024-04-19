@@ -14,7 +14,7 @@ Country:
 
 Join the Open Mapping Hub - Eastern and Southern Africa (OMHESA) and the Food and Agriculture Organisation (FAO), a UN body working towards saving lives of people across the globe through striving towards a sustainable and food-secure world for all, in a mapping campaign to create datasets in OpenStreetMap to be used in an impact based early warning system to inform early action, for the much anticipated El Niño.
 
-[El Niño](https://public.wmo.int/en/media/press-release/wmo-update-prepare-el-ni%C3%B1o) is a naturally occurring climate pattern associated with warming of the ocean surface temperatures in the central and eastern tropical Pacific Ocean. It occurs on average every two to seven years, and episodes usually last nine to 12 months.
+[El Niño](https://wmo.int/topics/el-nino-la-nina) is a naturally occurring climate pattern associated with warming of the ocean surface temperatures in the central and eastern tropical Pacific Ocean. It occurs on average every two to seven years, and episodes usually last nine to 12 months.
 
 The effects of El Niño can be catastrophic for flood-prone areas, and the local people who live there. Excessive rains can cause flooding, landslides, and large-scale destruction of infrastructure, people’s homes, and livelihoods.
 
