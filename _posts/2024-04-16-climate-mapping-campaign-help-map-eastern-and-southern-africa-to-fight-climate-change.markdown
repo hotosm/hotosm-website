@@ -23,7 +23,7 @@ Country:
 - Kenya
 ---
 
-That's why we're launching the Climate Mapping Campaign, a critical initiative to empower communities across Eastern and Southern Africa. With the power of Open Street Maps, we aim to create vital data that will be instrumental in supporting preparedness, response, and early recovery efforts for those facing climate-related disasters.
+That's why we're launching the Climate Mapping Campaign, a critical initiative to empower communities across Eastern and Southern Africa. With the power of OpenStreetMap, we aim to create vital data that will be instrumental in supporting preparedness, response, and early recovery efforts for those facing climate-related disasters.
 
 The campaign runs from April 18th to the end of September 2024.
 
