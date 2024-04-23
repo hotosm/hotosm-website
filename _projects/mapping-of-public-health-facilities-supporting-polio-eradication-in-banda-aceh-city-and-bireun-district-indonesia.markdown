@@ -45,19 +45,20 @@ A critical challenge was the absence of spatial data, particularly at the villag
 
 To tackle these challenges, the "Mapping of Public Health Facilities and Children's Polio Immunization Status in Banda Aceh City and Bireun District, Indonesia'' could provide a solution. This project aims to address the lack of spatial data and maps as decision-making tools for health staff and for the distribution of immunization services.
 
-Approach
+**Approach**
 
 The project followed a dual-phase approach, combining online and in-person training activities. Online training sessions were designed to equip beginner users with fundamental OpenStreetMap (OSM) skills and to conduct Mapathons aimed at mapping unmapped buildings in the Bireuen district. Conversely, in-person training sessions were conducted in Banda Aceh and Bireuen, focusing on introducing OSM and conducting field surveys to gather essential data in targeted villages.
 
 During the online phase, participants engaged in Mapathons, contributing to the mapping of previously unmapped buildings in the Bireuen district. This collective effort expanded the spatial data available for the region, enhancing the accuracy and completeness of maps crucial for effective healthcare planning and implementation.
 In the in-person phase, participants received hands-on training in OSM and conducted field surveys to collect additional data, including information on buildings, pathways, and healthcare facilities. This field data complemented the online mapping efforts, providing detailed insights into the local infrastructure and facilitating targeted interventions to improve Polio immunization coverage and overall healthcare access in the region.
 
-Impact and Outcomes
+**Impact and Outcomes**
 
+Grantees growth and development 
+> 
 “The health facility coverage analysis map can be used to prioritize and determine areas for mobilizing health promotion efforts, especially targeted towards mothers with children” - Sheila Amalia Burhanudin
 
-Personal Growth
-Sheila highlights, “Personally, the SLSI project adds hands-on project management experience, reinforcing my role as an Information Management (IM) officer in the public health program. During implementation, the health coordinator recognized my efforts, allowing me to travel to Aceh without taking additional leaves. Also, I had a chance to directly collaborate with village volunteers and expand my professional network in Aceh.”
+Sheila highlights, > “Personally, the SLSI project adds hands-on project management experience, reinforcing my role as an Information Management (IM) officer in the public health program. During implementation, the health coordinator recognized my efforts, allowing me to travel to Aceh without taking additional leaves. Also, I had a chance to directly collaborate with village volunteers and expand my professional network in Aceh.”
 
 Data Use by Indonesian Red Cross
 The project has the potential to be a game-changer for health outcomes in the villages. PMI utilized the gathered data to assess polio immunization progress, providing valuable insights for program evaluation and reporting to donors upon concluding the Polio Preparedness Program in 2023.
@@ -66,10 +67,10 @@ Moreover, the project's success has paved the way for broader applications, with
 
 As the project progresses, the pivotal role of women in its success becomes increasingly apparent. Their remarkable skill and dedication have been instrumental thus far, and their ongoing contributions will be vital in advancing health outcomes for the Aceh community.
 
-Impact in numbers
-90,334 buildings mapped
-961 km roads added
-82 amenities mapped (including 26 healthcare facilities)
+**Impact in numbers**
+* 90,334 buildings mapped
+* 961 km roads added
+* 82 amenities mapped (including 26 healthcare facilities)
 
 The success of this project was highlighted by the strong network of partnerships and communities. Establishing strong connections and collaborations within the community is essential for smooth program implementation. 
 
