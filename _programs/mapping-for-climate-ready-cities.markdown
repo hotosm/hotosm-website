@@ -59,7 +59,7 @@ Program-summary:
     climate data gaps by working with local communities and partners to take anticipatory
     action. We ensure their realities are represented on the map and that communities
     are involved in climate-related decisions that will affect them.**</a>"
-Image-leading: https://cdn.hotosm.org/website/climate-ready-cities-map.png
+Image-leading: "/uploads/climate-ready-cities-map.png"
 Figcaption: Through our <strong>Mapping for Climate-Ready Cities program</strong>,
   we are mapping cities in four priority regions of the world and developing a thriving
   ecosystem to create, interpret, and use maps to respond to and reduce climate risks
