@@ -49,7 +49,7 @@ A critical challenge was the absence of spatial data, particularly at the villag
 
 To tackle these challenges, the "Mapping of Public Health Facilities and Children's Polio Immunization Status in Banda Aceh City and Bireun District, Indonesia'' could provide a solution. This project aims to address the lack of spatial data and maps as decision-making tools for health staff and for the distribution of immunization services.
 
-[IMG_1022-63e5fc.HEIC](/uploads/IMG_1022-63e5fc.HEIC)
+[IMG_1022-63e5fc-6ba373.HEIC](/uploads/IMG_1022-63e5fc-6ba373.HEIC)
 
 **Approach**
 
