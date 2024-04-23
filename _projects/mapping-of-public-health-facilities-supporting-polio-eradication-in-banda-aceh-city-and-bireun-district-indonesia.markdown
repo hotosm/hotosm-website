@@ -62,13 +62,14 @@ In the in-person phase, participants received hands-on training in OSM and condu
 
 **Impact and Outcomes**
 
-Grantees growth and development 
-> 
-“The health facility coverage analysis map can be used to prioritize and determine areas for mobilizing health promotion efforts, especially targeted towards mothers with children” - Sheila Amalia Burhanudin
+**Grantees growth and development** 
 
-Sheila highlights, > “Personally, the SLSI project adds hands-on project management experience, reinforcing my role as an Information Management (IM) officer in the public health program. During implementation, the health coordinator recognized my efforts, allowing me to travel to Aceh without taking additional leaves. Also, I had a chance to directly collaborate with village volunteers and expand my professional network in Aceh.”
+> “The health facility coverage analysis map can be used to prioritize and determine areas for mobilizing health promotion efforts, especially targeted towards mothers with children” - Sheila Amalia Burhanudin
 
-Data Use by Indonesian Red Cross
+Sheila highlights, 
+> “Personally, the SLSI project adds hands-on project management experience, reinforcing my role as an Information Management (IM) officer in the public health program. During implementation, the health coordinator recognized my efforts, allowing me to travel to Aceh without taking additional leaves. Also, I had a chance to directly collaborate with village volunteers and expand my professional network in Aceh.”
+
+**Data Use by Indonesian Red Cross**
 The project has the potential to be a game-changer for health outcomes in the villages. PMI utilized the gathered data to assess polio immunization progress, providing valuable insights for program evaluation and reporting to donors upon concluding the Polio Preparedness Program in 2023.
 
 Moreover, the project's success has paved the way for broader applications, with the Indonesian Red Cross (PMI) utilizing the maps as foundational data for interventions beyond polio preparedness, including disaster risk mapping initiatives.
