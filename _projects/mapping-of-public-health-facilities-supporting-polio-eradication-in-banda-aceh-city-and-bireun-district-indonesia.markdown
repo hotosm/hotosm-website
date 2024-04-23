@@ -8,7 +8,7 @@ Project Summary Text: "The project in Indonesia has transformed lives by trainin
   efforts. This has empowered communities and improved access to essential services,
   making a tangible difference in people's daily lives. \n\n\n\n\n"
 Feature Image: "/uploads/IMG-20221130-WA0027.jpg"
-Is image top aligned: true
+Is image top aligned: false
 Is Community-Led: true
 Country:
 - Indonesia
@@ -48,6 +48,7 @@ To support this program, supplementary data in the form of maps is crucial. This
 A critical challenge was the absence of spatial data, particularly at the village level in Banda Aceh and Bireuen. This encompassed data on buildings, pathways, and amenities, including healthcare facilities. In contrast to Java, the growth of OpenStreetMap (OSM) data in Sumatra, as indicated by OSM building statistics, has not been as extensive. Additionally, PMI, playing an active role in the community (specifically PMI Banda Aceh and Bireuen), had limited knowledge of participatory mapping.
 
 To tackle these challenges, the "Mapping of Public Health Facilities and Children's Polio Immunization Status in Banda Aceh City and Bireun District, Indonesia'' could provide a solution. This project aims to address the lack of spatial data and maps as decision-making tools for health staff and for the distribution of immunization services.
+
 [IMG_1022-63e5fc.HEIC](/uploads/IMG_1022-63e5fc.HEIC)
 
 **Approach**
