@@ -29,5 +29,11 @@ Duration:
   Start Date: 2022-09-08 00:00:00 Z
   End Date: 2023-10-31 00:00:00 Z
 Google Drive: https://drive.google.com/drive/folders/1y4PmzjSPnoL3r1ZflIHwKH_eSdOk4ghw
+Data:
+- buildings mapped: '90,334 buildings mapped
+
+'
+Tools:
+- tool: mobile apps
 ---
 
