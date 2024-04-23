@@ -44,6 +44,7 @@ To support this program, supplementary data in the form of maps is crucial. This
 A critical challenge was the absence of spatial data, particularly at the village level in Banda Aceh and Bireuen. This encompassed data on buildings, pathways, and amenities, including healthcare facilities. In contrast to Java, the growth of OpenStreetMap (OSM) data in Sumatra, as indicated by OSM building statistics, has not been as extensive. Additionally, PMI, playing an active role in the community (specifically PMI Banda Aceh and Bireuen), had limited knowledge of participatory mapping.
 
 To tackle these challenges, the "Mapping of Public Health Facilities and Children's Polio Immunization Status in Banda Aceh City and Bireun District, Indonesia'' could provide a solution. This project aims to address the lack of spatial data and maps as decision-making tools for health staff and for the distribution of immunization services.
+
 ![IMG_1143.jpg](/uploads/IMG_1143.jpg)
 
 **Approach**
@@ -52,6 +53,7 @@ The project followed a dual-phase approach, combining online and in-person train
 
 During the online phase, participants engaged in Mapathons, contributing to the mapping of previously unmapped buildings in the Bireuen district. This collective effort expanded the spatial data available for the region, enhancing the accuracy and completeness of maps crucial for effective healthcare planning and implementation.
 In the in-person phase, participants received hands-on training in OSM and conducted field surveys to collect additional data, including information on buildings, pathways, and healthcare facilities. This field data complemented the online mapping efforts, providing detailed insights into the local infrastructure and facilitating targeted interventions to improve Polio immunization coverage and overall healthcare access in the region.
+
 ![IMG_1125.jpg](/uploads/IMG_1125.jpg)
 
 **Impact and Outcomes**
@@ -66,6 +68,7 @@ Data Use by Indonesian Red Cross
 The project has the potential to be a game-changer for health outcomes in the villages. PMI utilized the gathered data to assess polio immunization progress, providing valuable insights for program evaluation and reporting to donors upon concluding the Polio Preparedness Program in 2023.
 
 Moreover, the project's success has paved the way for broader applications, with the Indonesian Red Cross (PMI) utilizing the maps as foundational data for interventions beyond polio preparedness, including disaster risk mapping initiatives.
+
 ![IMG_1058.jpg](/uploads/IMG_1058.jpg)
 
 As the project progresses, the pivotal role of women in its success becomes increasingly apparent. Their remarkable skill and dedication have been instrumental thus far, and their ongoing contributions will be vital in advancing health outcomes for the Aceh community.
