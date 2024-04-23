@@ -1,6 +1,7 @@
 ---
 title: Mapping of public health facilities supporting Polio Eradication in  Indonesia
 date: 2024-04-23 08:04:00 Z
+published: false
 Project Summary Text: "The project in Indonesia has transformed lives by training
   over 90 individuals and mapping 900+ kilometers of roads, 90,000 buildings, and
   targeting 200+ households for polio immunization. This data enabled the Indonesian
