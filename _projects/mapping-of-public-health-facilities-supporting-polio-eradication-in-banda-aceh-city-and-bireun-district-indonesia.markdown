@@ -7,6 +7,8 @@ Project Summary Text: "The project in Indonesia has transformed lives by trainin
   Red Cross to analyze polio immunization progress and prioritize health promotion
   efforts. This has empowered communities and improved access to essential services,
   making a tangible difference in people's daily lives. \n\n\n\n\n"
+Feature Image: "/uploads/IMG-20221130-WA0027.jpg"
+Is image top aligned: true
 Is Community-Led: true
 Country:
 - Indonesia
@@ -39,13 +41,14 @@ In 2018, Southeast Asia was rattled by the emergence of Polio cases, including o
 
 The Polio Preparedness Program set out to collect data on the target areas related to Polio and its challenges, completing an initial baseline survey involving over 1000 local respondents from 36 villages across 9 districts. The findings revealed that 41% of respondents lacked information about Polio immunization in the last six months. Furthermore, 30% of respondents in Aceh declined vaccination for their children, citing personal perceptions of safety or halal concerns.
 
+![IMG_1143.jpg](/uploads/IMG_1143.jpg)
+
 To support this program, supplementary data in the form of maps is crucial. This aids in more focused interventions, assessing accessibility to vaccination centers, promoting health in targeted villages, and monitoring the ongoing immunization progress.
 
 A critical challenge was the absence of spatial data, particularly at the village level in Banda Aceh and Bireuen. This encompassed data on buildings, pathways, and amenities, including healthcare facilities. In contrast to Java, the growth of OpenStreetMap (OSM) data in Sumatra, as indicated by OSM building statistics, has not been as extensive. Additionally, PMI, playing an active role in the community (specifically PMI Banda Aceh and Bireuen), had limited knowledge of participatory mapping.
 
 To tackle these challenges, the "Mapping of Public Health Facilities and Children's Polio Immunization Status in Banda Aceh City and Bireun District, Indonesia'' could provide a solution. This project aims to address the lack of spatial data and maps as decision-making tools for health staff and for the distribution of immunization services.
-
-![IMG_1143.jpg](/uploads/IMG_1143.jpg)
+[IMG_1022-63e5fc.HEIC](/uploads/IMG_1022-63e5fc.HEIC)
 
 **Approach**
 
