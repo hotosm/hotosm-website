@@ -6,6 +6,7 @@ Summary Text: HOT envisions an ecosystem of open mapping technology that enables
   and in particular vulnerable communities, to make the right open map data available
   in order to use that to make a positive impact on people’s lives.
 Feature Image: "/uploads/E2EL.jpg"
+Person: Leen D'hondt
 ---
 
 To work towards that vision, HOT’s Tech & Data team have for the past years been working jointly with volunteers and partners on closing key gaps in the open mapping ecosystem. 
@@ -56,3 +57,21 @@ First in the office, we elaborated a survey collection form with specific questi
 
 ![E2E6.png](/uploads/E2E6.png)
 <figcaption align = "center"><h6>Addition of amount of people residing in a building in the village while mapping in the field with FMTM</h6></figcaption> 
+
+**STEP 4 - Make map data accessible** 
+
+We trained the staff on HOT’s Export Tool and geospatial formats.
+
+![E2E7.jpg](/uploads/E2E7.jpg)
+<figcaption align = "center"><h6>Training on HOT’s tools in office</h6></figcaption>
+
+**STEP 5 - Analyze map data for impact**
+
+We trained the staff in using an open GIS (QGIS), for visualizing new data alongside various other open datasets. The BPBD staff were enthusiastic about learning how to use QGIS; in particular they felt that the 3D visualization capacity would help them identify vulnerable areas where more disaster risk assessment would be needed. They also realized that they had a great deal of geospatial data that they weren’t able to use, and were excited to learn how they could make use of the data they already had! We agreed that HOT will continue supporting the BPBD with GIS training using QGIS through our OSM Guru program.
+
+![E2E8.jpg](/uploads/E2E8.jpg)
+<figcaption align = "center"><h6>A 3D map generated in QGIS showing the mountainous, disaster-prone areas of Karangasem Regency. Mount Agung, a highly active volcano that produced a series of disastrous eruptions between 2017 and 2019, can be seen in the background.</h6></figcaption>
+
+During this process, we were able to both train the BPBD officers but also learn a lot from them. We discovered practical barriers when working with our tools in remote environments as well as challenges our team further needs to focus on, both on an individual tool level and for ensuring the complete end user experience is smooth and adapted to the local context.
+
+We would like to thank the BPBD Office of Karangasem for this first test, which will not be our last however. We are ideating with them on how we can build a center of excellence for open mapping for disaster response in Karangasem. It’s a great pleasure to have such a proactive, engaged, and capable local disaster management partner to work with HOT and the open mapping community to improve community resilience!
