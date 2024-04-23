@@ -74,7 +74,10 @@ Impact in numbers
 961 km roads added
 82 amenities mapped (including 26 healthcare facilities)
 
-The success of this project was highlighted by the strong network of partnerships and communities. Establishing strong connections and collaborations within the community is essential for smooth program implementation. The Indonesian Red Cross (PMI) branches in Banda Aceh city and Bireuen district were invaluable partners, greatly facilitating my activities in each region. PMI's close ties to the local community and their extensive volunteer network made it significantly easier to engage with locals.
+The success of this project was highlighted by the strong network of partnerships and communities. Establishing strong connections and collaborations within the community is essential for smooth program implementation. 
+
+The Indonesian Red Cross (PMI) branches in Banda Aceh city and Bireuen district were invaluable partners, greatly facilitating
+activities in each region. PMI's close ties to the local community and their extensive volunteer network made it significantly easier to engage with the local community.
 
 
 
