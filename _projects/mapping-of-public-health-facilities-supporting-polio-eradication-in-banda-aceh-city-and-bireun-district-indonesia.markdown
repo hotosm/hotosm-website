@@ -1,16 +1,12 @@
 ---
-title: Mapping of public health facilities supporting Polio Eradication in Banda Aceh
-  city and Bireun district, Indonesia
+title: Mapping of public health facilities supporting Polio Eradication in  Indonesia
 date: 2024-04-23 08:04:00 Z
 Project Summary Text: "The project in Indonesia has transformed lives by training
   over 90 individuals and mapping 900+ kilometers of roads, 90,000 buildings, and
   targeting 200+ households for polio immunization. This data enabled the Indonesian
   Red Cross to analyze polio immunization progress and prioritize health promotion
   efforts. This has empowered communities and improved access to essential services,
-  making a tangible difference in people's daily lives. \n\n“The health facility coverage
-  analysis map can be used to prioritize and determine areas for mobilizing health
-  promotion efforts, especially targeted towards mothers with children” - Sheila Amalia
-  Burhanudin\n\n"
+  making a tangible difference in people's daily lives. \n\n\n\n\n"
 Is Community-Led: true
 Country:
 - Indonesia
@@ -58,9 +54,10 @@ In the in-person phase, participants received hands-on training in OSM and condu
 
 Impact and Outcomes
 
+“The health facility coverage analysis map can be used to prioritize and determine areas for mobilizing health promotion efforts, especially targeted towards mothers with children” - Sheila Amalia Burhanudin
+
 Personal Growth
 Sheila highlights, “Personally, the SLSI project adds hands-on project management experience, reinforcing my role as an Information Management (IM) officer in the public health program. During implementation, the health coordinator recognized my efforts, allowing me to travel to Aceh without taking additional leaves. Also, I had a chance to directly collaborate with village volunteers and expand my professional network in Aceh.”
-
 
 Data Use by Indonesian Red Cross
 The project has the potential to be a game-changer for health outcomes in the villages. PMI utilized the gathered data to assess polio immunization progress, providing valuable insights for program evaluation and reporting to donors upon concluding the Polio Preparedness Program in 2023.
