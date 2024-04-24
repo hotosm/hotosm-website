@@ -59,7 +59,7 @@ The project followed a dual-phase approach, combining online and in-person train
 During the online phase, participants engaged in Mapathons, contributing to the mapping of previously unmapped buildings in the Bireuen district. This collective effort expanded the spatial data available for the region, enhancing the accuracy and completeness of maps crucial for effective healthcare planning and implementation.
 In the in-person phase, participants received hands-on training in OSM and conducted field surveys to collect additional data, including information on buildings, pathways, and healthcare facilities. This field data complemented the online mapping efforts, providing detailed insights into the local infrastructure and facilitating targeted interventions to improve Polio immunization coverage and overall healthcare access in the region.
 
-![IMG_1125.jpg](/uploads/IMG_1125.jpg)
+[IMG_1022-63e5fc-277d99.HEIC](/uploads/IMG_1022-63e5fc-277d99.HEIC)
 
 **Impact and Outcomes**
 
