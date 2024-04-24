@@ -50,8 +50,6 @@ A critical challenge was the absence of spatial data, particularly at the villag
 
 To tackle these challenges, the "Mapping of Public Health Facilities and Children's Polio Immunization Status in Banda Aceh City and Bireun District, Indonesia'' could provide a solution. This project aims to address the lack of spatial data and maps as decision-making tools for health staff and for the distribution of immunization services.
 
-[IMG_1022-63e5fc-6ba373.HEIC](/uploads/IMG_1022-63e5fc-6ba373.HEIC)
-
 **Approach**
 
 The project followed a dual-phase approach, combining online and in-person training activities. Online training sessions were designed to equip beginner users with fundamental OpenStreetMap (OSM) skills and to conduct Mapathons aimed at mapping unmapped buildings in the Bireuen district. Conversely, in-person training sessions were conducted in Banda Aceh and Bireuen, focusing on introducing OSM and conducting field surveys to gather essential data in targeted villages.
