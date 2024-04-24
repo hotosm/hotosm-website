@@ -115,6 +115,8 @@ Block 7:
   Text: HOT Resources and Learning Center is your starting point to learn more about OpenStreetMap and the open mapping movement. Access our learning resources and join our online learning platform to learn about open mapping.
   Image: https://cdn.hotosm.org/website/IMG-20230121-WA0005.jpg
   Tools:
+  - Name: HOT Toolbox
+    URL: https://toolbox.hotosm.org/pages/introduction/how_to_use_toolbox/
   - Name: LearnOSM
     URL: https://learnosm.org
 Block 8:
