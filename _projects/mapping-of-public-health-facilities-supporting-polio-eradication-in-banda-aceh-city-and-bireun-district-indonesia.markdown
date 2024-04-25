@@ -60,8 +60,6 @@ During the online phase, participants engaged in Mapathons, contributing to the 
 
 In the **in-person training** phase, participants received hands-on training in OSM and conducted field surveys to collect additional data, including information on buildings, pathways, and healthcare facilities. 
 
-[IMG_1022-63e5fc-277d99.HEIC](/uploads/IMG_1022-63e5fc-277d99.HEIC)
-
 This field data complemented the online mapping efforts, providing detailed insights into the local infrastructure and facilitating targeted interventions to improve Polio immunization coverage and overall healthcare access in the region.
 
 **Impact and Outcomes**
