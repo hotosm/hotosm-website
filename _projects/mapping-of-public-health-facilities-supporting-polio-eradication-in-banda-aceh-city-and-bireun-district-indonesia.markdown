@@ -58,9 +58,11 @@ The project followed a dual-phase approach, combining online and in-person train
 
 During the online phase, participants engaged in Mapathons, contributing to the mapping of previously unmapped buildings in the Bireuen district. This collective effort expanded the spatial data available for the region, enhancing the accuracy and completeness of maps crucial for effective healthcare planning and implementation.
 
-In the **in-person training** phase, participants received hands-on training in OSM and conducted field surveys to collect additional data, including information on buildings, pathways, and healthcare facilities. This field data complemented the online mapping efforts, providing detailed insights into the local infrastructure and facilitating targeted interventions to improve Polio immunization coverage and overall healthcare access in the region.
+In the **in-person training** phase, participants received hands-on training in OSM and conducted field surveys to collect additional data, including information on buildings, pathways, and healthcare facilities. 
 
 [IMG_1022-63e5fc-277d99.HEIC](/uploads/IMG_1022-63e5fc-277d99.HEIC)
+
+This field data complemented the online mapping efforts, providing detailed insights into the local infrastructure and facilitating targeted interventions to improve Polio immunization coverage and overall healthcare access in the region.
 
 **Impact and Outcomes**
 
@@ -89,6 +91,8 @@ The success of this project was highlighted by the strong network of partnership
 
 The Indonesian Red Cross (PMI) branches in Banda Aceh city and Bireuen district were invaluable partners, greatly facilitating
 activities in each region. PMI's close ties to the local community and their extensive volunteer network made it significantly easier to engage with the local community.
+
+[IMG_1022-63e5fc-2e21fb.HEIC](/uploads/IMG_1022-63e5fc-2e21fb.HEIC)
 
 
 
