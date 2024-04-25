@@ -69,7 +69,7 @@ Fmtm:
     URL: https://fmtm.hotosm.org/
   - Name: Dev Docs
     URL: https://docs.hotosm.org/
-  - Name: Github
+  - Name: GitHub
     URL: https://github.com/hotosm/fmtm
 Fair:
   Header: 
@@ -80,7 +80,7 @@ Fair:
     URL: https://fair-dev.hotosm.org/
   - Name: Dev Docs
     URL: https://docs.hotosm.org/
-  - Name: Github
+  - Name: GitHub
     URL: https://github.com/hotosm/fAIr
 Odk:
   Header: 
@@ -98,7 +98,7 @@ Organic-maps:
   Tools:
   - Name: Website
     URL: https://organicmaps.app/
-  - Name: Github
+  - Name: GitHub
     URL: https://github.com/organicmaps/organicmaps
 Osmand:
   Header: 
@@ -107,7 +107,7 @@ Osmand:
   Tools:
   - Name: Website
     URL: https://osmand.net/
-  - Name: Github
+  - Name: GitHub
     URL: https://github.com/osmandapp
 Streetcomplete:
   Header: 
@@ -116,7 +116,7 @@ Streetcomplete:
   Tools:
   - Name: Website
     URL: https://streetcomplete.app/
-  - Name: Github
+  - Name: GitHub
     URL: https://github.com/streetcomplete/streetcomplete
 Ushahidi:
   Header: 
@@ -149,6 +149,161 @@ Rapid:
     URL: https://github.com/facebook/Rapid
   - Name: Editor
     URL: https://rapideditor.org/edit
+Maproulette:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://maproulette.org/
+  - Name: GitHub
+    URL: https://github.com/maproulette
+Mapswipe:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://mapswipe.org/en/index.html
+  - Name: Data
+    URL: https://mapswipe.org/en/data/
+  - Name: GitHub
+    URL: https://github.com/mapswipe
+QGIS:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://qgis.org/en/site/
+  - Name: Docs
+    URL: https://qgis.org/en/docs/index.html
+  - Name: GitHub
+    URL: https://github.com/qgis/
+Disaster-ninja:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://mapswipe.org/en/index.html
+  - Name: Data
+    URL: https://mapswipe.org/en/data/
+  - Name: GitHub
+    URL: https://github.com/mapswipe
+Kepler:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://mapswipe.org/en/index.html
+  - Name: Data
+    URL: https://mapswipe.org/en/data/
+  - Name: GitHub
+    URL: https://github.com/mapswipe
+Observable-framework:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://mapswipe.org/en/index.html
+  - Name: Data
+    URL: https://mapswipe.org/en/data/
+  - Name: GitHub
+    URL: https://github.com/mapswipe
+D3:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://mapswipe.org/en/index.html
+  - Name: Data
+    URL: https://mapswipe.org/en/data/
+  - Name: GitHub
+    URL: https://github.com/mapswipe
+Healthsites:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://mapswipe.org/en/index.html
+  - Name: Data
+    URL: https://mapswipe.org/en/data/
+  - Name: GitHub
+    URL: https://github.com/mapswipe
+Mapbox:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://mapswipe.org/en/index.html
+  - Name: Data
+    URL: https://mapswipe.org/en/data/
+  - Name: GitHub
+    URL: https://github.com/mapswipe
+Maplibre:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://mapswipe.org/en/index.html
+  - Name: Data
+    URL: https://mapswipe.org/en/data/
+  - Name: GitHub
+    URL: https://github.com/mapswipe
+Umap:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://mapswipe.org/en/index.html
+  - Name: Data
+    URL: https://mapswipe.org/en/data/
+  - Name: GitHub
+    URL: https://github.com/mapswipe
+Export-tool:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://export.hotosm.org/v3/
+  - Name: Docs
+    URL: https://docs.hotosm.org/
+  - Name: GitHub
+    URL: https://github.com/hotosm/osm-export-tool
+Raw-api:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: hotosm.github.io/raw-data-api
+  - Name: Docs
+    URL: https://hotosm.github.io/raw-data-api/
+  - Name: GitHub
+    URL: github.com/hotosm/raw-data-api
+Hdx:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://data.humdata.org/
+Overpass-turbo:
+  Header: 
+  Text: 
+  Image: 
+  Tools:
+  - Name: Website
+    URL: https://overpass-turbo.eu/
 Block 0:
   Header: What is OpenStreetMap
   Text: Explore the tools on the open source ecosystem that enables everyone, and in particular vulnerable communities, to make the right open map data available in order to use that to make a positive impact on people’s lives.
@@ -195,10 +350,10 @@ Block 5:
 layout: open-mapping-tools
 Block 7:
   Header: HOT and Open Source
-  Text: "HOT’s role is to address ecosystem gaps on the technical categories of humanitarian projects (imagery, data collection, analysis, data access, and visualisation) , streamlining user-friendly open mapping workflows, offering technical support for community implementation, establishing transparent communication platforms for knowledge sharing, and fostering community and partnership growth in open mapping technology.
+  Text: "HOT’s role is to address ecosystem gaps on the technical categories of humanitarian projects (imagery, data collection, analysis, data access, and visualization) , streamlining user-friendly open mapping workflows, offering technical support for community implementation, establishing transparent communication platforms for knowledge sharing, and fostering community and partnership growth in open mapping technology.
   <br>
   <br>
-  Explore the tools below that you can use or help develope that you can use in every step of your project."
+  Explore the tools below that you can use or help develop that you can use in every step of your project."
   Point1: We provide technological solutions to enable everyone to create and use open mapping data, and focus on how we can lower the barrier to entry for everyone to do so.
   Point2: We do not build alone. We collaborate with volunteers, universities, Research Institutions, SMEs, internships, contractors and even large corporations.
   Point3: We focus on key gaps in the current ecosystem that block community members in our target countries to map and use map data.
