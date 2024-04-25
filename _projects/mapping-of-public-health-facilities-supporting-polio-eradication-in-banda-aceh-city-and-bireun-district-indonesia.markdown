@@ -71,7 +71,7 @@ This field data complemented the online mapping efforts, providing detailed insi
 > “The health facility coverage analysis map can be used to prioritize and determine areas for mobilizing health promotion efforts, especially targeted towards mothers with children” - Sheila Amalia Burhanudin
 
 Sheila highlights, 
-> “Personally, the SLSI project adds hands-on project management experience, reinforcing my role as an Information Management (IM) officer in the public health program. During implementation, the health coordinator recognized my efforts, allowing me to travel to Aceh without taking additional leaves. Also, I had a chance to directly collaborate with village volunteers and expand my professional network in Aceh.”
+> > “Personally, the SLSI project adds hands-on project management experience, reinforcing my role as an Information Management (IM) officer in the public health program. During implementation, the health coordinator recognized my efforts, allowing me to travel to Aceh without taking additional leaves. Also, I had a chance to directly collaborate with village volunteers and expand my professional network in Aceh.”
 
 **Data Use by Indonesian Red Cross**
 The project has the potential to be a game-changer for health outcomes in the villages. PMI utilized the gathered data to assess polio immunization progress, providing valuable insights for program evaluation and reporting to donors upon concluding the Polio Preparedness Program in 2023.
