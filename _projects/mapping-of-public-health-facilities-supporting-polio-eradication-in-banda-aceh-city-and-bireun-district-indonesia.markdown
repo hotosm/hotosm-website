@@ -66,7 +66,7 @@ This field data complemented the online mapping efforts, providing detailed insi
 
 **Grantees growth and development** 
 
-> “The health facility coverage analysis map can be used to prioritize and determine areas for mobilizing health promotion efforts, especially targeted towards mothers with children” - Sheila Amalia Burhanudin
+The health facility coverage analysis map can be used to prioritize and determine areas for mobilizing health promotion efforts, especially targeted towards mothers with children.
 
 Sheila highlights, 
 
