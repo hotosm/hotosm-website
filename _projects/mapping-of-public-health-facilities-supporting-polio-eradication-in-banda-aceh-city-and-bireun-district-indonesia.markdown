@@ -36,7 +36,7 @@ Tools:
 - tool: mobile apps
 ---
 
-To prepare for and to prevent Polio outbreaks in Indonesia, Palang Merah Indonesia (PMI) led the Polio Preparedness Program. PMI faced challenges as health staff urgently needed to increase awareness on the importance of polio immunization in the regions. However, there was limited spatial data and maps helpful for decision-making on healthcare planning and implementation.
+To prepare for and to prevent Polio outbreaks in Indonesia, Palang Merah Indonesia (PMI) led the Polio Preparedness Program. PMI faced challenges as health staff urgently needed to increase awareness on the importance of Polio immunization in the regions. However, there was limited spatial data and maps helpful for decision-making on healthcare planning and implementation.
 
 In 2018, Southeast Asia was rattled by the emergence of Polio cases, including one in Papua province, Indonesia. The Polio Preparedness Program, initiated by Indonesia Red Cross/Palang Merah Indonesia (PMI), strives to boost Polio immunization coverage with backing from USAID through the International Federation of Red Cross and Red Crescent (IFRC).
 
