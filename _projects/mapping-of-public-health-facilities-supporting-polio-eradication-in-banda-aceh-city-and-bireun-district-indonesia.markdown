@@ -90,11 +90,3 @@ The success of this project was highlighted by the strong network of partnership
 
 The Indonesian Red Cross (PMI) branches in Banda Aceh city and Bireuen district were invaluable partners, greatly facilitating
 activities in each region. PMI's close ties to the local community and their extensive volunteer network made it significantly easier to engage with the local community.
-
-
-
-
-
-
-
-
