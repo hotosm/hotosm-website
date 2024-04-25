@@ -52,10 +52,13 @@ To tackle these challenges, the "Mapping of Public Health Facilities and Childre
 
 **Approach**
 
-The project followed a dual-phase approach, combining online and in-person training activities. Online training sessions were designed to equip beginner users with fundamental OpenStreetMap (OSM) skills and to conduct Mapathons aimed at mapping unmapped buildings in the Bireuen district. Conversely, in-person training sessions were conducted in Banda Aceh and Bireuen, focusing on introducing OSM and conducting field surveys to gather essential data in targeted villages.
+The project followed a dual-phase approach, combining online and in-person training activities. 
+
+**Online training** sessions were designed to equip beginner users with fundamental OpenStreetMap (OSM) skills and to conduct Mapathons aimed at mapping unmapped buildings in the Bireuen district. Conversely, in-person training sessions were conducted in Banda Aceh and Bireuen, focusing on introducing OSM and conducting field surveys to gather essential data in targeted villages.
 
 During the online phase, participants engaged in Mapathons, contributing to the mapping of previously unmapped buildings in the Bireuen district. This collective effort expanded the spatial data available for the region, enhancing the accuracy and completeness of maps crucial for effective healthcare planning and implementation.
-In the in-person phase, participants received hands-on training in OSM and conducted field surveys to collect additional data, including information on buildings, pathways, and healthcare facilities. This field data complemented the online mapping efforts, providing detailed insights into the local infrastructure and facilitating targeted interventions to improve Polio immunization coverage and overall healthcare access in the region.
+
+In the **in-person training** phase, participants received hands-on training in OSM and conducted field surveys to collect additional data, including information on buildings, pathways, and healthcare facilities. This field data complemented the online mapping efforts, providing detailed insights into the local infrastructure and facilitating targeted interventions to improve Polio immunization coverage and overall healthcare access in the region.
 
 [IMG_1022-63e5fc-277d99.HEIC](/uploads/IMG_1022-63e5fc-277d99.HEIC)
 
