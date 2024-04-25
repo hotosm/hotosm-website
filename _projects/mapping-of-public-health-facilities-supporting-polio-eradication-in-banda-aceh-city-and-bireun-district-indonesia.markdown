@@ -50,7 +50,7 @@ A critical challenge was the absence of spatial data, particularly at the villag
 
 To tackle these challenges, the "Mapping of Public Health Facilities and Children's Polio Immunization Status in Banda Aceh City and Bireun District, Indonesia'' could provide a solution. This project aims to address the lack of spatial data and maps as decision-making tools for health staff and for the distribution of immunization services.
 
-**Approach**
+**Approach and Implementation**
 
 The project followed a dual-phase approach, combining online and in-person training activities. 
 
@@ -73,6 +73,7 @@ Sheila highlights,
 > “Personally, the SLSI project adds hands-on project management experience, reinforcing my role as an Information Management (IM) officer in the public health program. During implementation, the health coordinator recognized my efforts, allowing me to travel to Aceh without taking additional leaves. Also, I had a chance to directly collaborate with village volunteers and expand my professional network in Aceh.”
 
 **Data Use by Indonesian Red Cross**
+
 The project has the potential to be a game-changer for health outcomes in the villages. PMI utilized the gathered data to assess polio immunization progress, providing valuable insights for program evaluation and reporting to donors upon concluding the Polio Preparedness Program in 2023.
 
 Moreover, the project's success has paved the way for broader applications, with the Indonesian Red Cross (PMI) utilizing the maps as foundational data for interventions beyond polio preparedness, including disaster risk mapping initiatives.
