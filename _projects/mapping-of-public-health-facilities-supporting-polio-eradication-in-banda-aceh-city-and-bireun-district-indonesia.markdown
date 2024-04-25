@@ -62,6 +62,8 @@ In the **in-person training** phase, participants received hands-on training in 
 
 This field data complemented the online mapping efforts, providing detailed insights into the local infrastructure and facilitating targeted interventions to improve Polio immunization coverage and overall healthcare access in the region.
 
+![IMG_20221129_093209_384.jpg](/uploads/IMG_20221129_093209_384.jpg)
+
 **Impact and Outcomes**
 
 **Grantees growth and development** 
