@@ -323,7 +323,7 @@ Block 2:
   - Name: Learn More
     URL: https://fair-dev.hotosm.org/
 Block 3:
-  Header: HOT Export Tools
+  Header: HOT Export Tool
   Text: The HOT Export Tool is an open service that creates customized extracts of up-to-date OSM data in various file formats, such as ESRI shapefiles (.shapefile), google KML (.kml), GeoPackage (.gpkg) dan MBTiles (.mbtiles).
   Image: https://cdn.hotosm.org/website/WG4A0327.jpg
   Tools:
@@ -350,7 +350,7 @@ Block 5:
 layout: open-mapping-tools
 Block 7:
   Header: HOT and Open Source
-  Text: "HOT’s role is to address ecosystem gaps on the technical categories of humanitarian projects (imagery, data collection, analysis, data access, and visualization) , streamlining user-friendly open mapping workflows, offering technical support for community implementation, establishing transparent communication platforms for knowledge sharing, and fostering community and partnership growth in open mapping technology.
+  Text: "All tools below are either open source, meaning the application’s use and development are freely available for any use, or relating to the promotion of open data. OpenStreetMap (OSM) and other recommended open geospatial tools are included to promote open and free mapping in all contexts, including limited resourced environments. HOT’s tools, which fill a niche in end to end mapping workflows, are marked. 
   <br>
   <br>
   Explore the tools below that you can use or help develop that you can use in every step of your project."
