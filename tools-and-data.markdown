@@ -16,24 +16,26 @@ Block 999:
   <br>
   Check out the resources available within LearnOSM, to get started on OSM or use the many tools available to edit or use the open data.<br>
   If you are interested in contributing or repurposing our tools, you can access all our code, documentation, and other resources on GitHub.'
-  Image: https://cdn.hotosm.org/website/52100358553_94c50062d2_k.jpg
+  Image: https://cdn.hotosm.org/website/HOT+Staff.jpeg
   Tools:
-  - Name: Access our repositories
-    URL: https://github.com/hotosm
+  - Name: GitHub Repo
+    URL: "https://github.com/hotosm"
+  - Name: HOT Docs Index
+    URL: https://docs.hotosm.org/
 Block 1:
   Header: Open Mapping Tools
   Text: "Join the global movement towards free and open geographic data! <br> We have compiled a list of tools that can empower communities at every stage of open mapping. 
    <br>"
-  Image: https://cdn.hotosm.org/website/WG4A0327.jpg
+  Image: https://cdn.hotosm.org/website/52100358553_94c50062d2_k.jpg
   Tools:
-  - Name: Access our repositories
-    URL: https://github.com/hotosm
+  - Name: Explore the tools
+    URL: "/open-mapping-tools"
 Block 2:
   Header: TECH PRODUCT SUITE
   Text: HOT is developing a technical stack to assist the open mapping community. This includes remote mapping, field data collection, and data access. To learn more, check out our tech stack and access our repository.
   Image: "https://cdn.hotosm.org/website/GAL+Group+for+Mapping+Tips+Post.jpg"
   Tools:
-  - Name: View More
+  - Name: Explore the tools
     URL: "https://github.com/hotosm"
 Block 1111:
   Header: Open Source
@@ -43,7 +45,7 @@ Block 1111:
     and other resources on GitHub.
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
-  - Name: Access our repositories
+  - Name: Explore the Tools
     URL: https://github.com/hotosm
 Block 222:
   Header: Learn about OpenStreetMap
@@ -125,20 +127,20 @@ Block 8:
   Image: https://cdn.hotosm.org/website/MapUganda.jpg
   Tools:
   - Name: Learn More
-    URL: https://tasks.hotosm.org/
+    URL: "/tech-suite/tasking-manager/"
 Block 9:
   Header: Field Mapping Tasking Manager
   Text: "Coordinated field data collection: Similar to HOT’s remote Tasking Manager, FMTM reduces duplication of efforts and avoids missing areas. The FMTM facilitates collaborative mapping by supporting and extending existing ODK-based mature tools."
   Image: https://www.hotosm.org/uploads/image-bc9f4a.png
   Tools:
   - Name: Learn More
-    URL: https://fmtm.hotosm.org/
+    URL: "/tech-suite/field-mapping-tasking-manager/"
 Block 10:
   Header: fAIr
   Text: AIr is an open AI-assisted mapping service developed by the HOT that aims to improve the efficiency and accuracy of mapping efforts for humanitarian purposes.
   Image: https://cdn.hotosm.org/website/FMTM-Monrovia.jpg
   Tools:
   - Name: Learn More
-    URL: https://fair-dev.hotosm.org/
+    URL: "/tech-suite/fair/"
 layout: tools-and-data
 ---
