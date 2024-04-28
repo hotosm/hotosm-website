@@ -11,11 +11,11 @@ Section-field:
 Section-remote:
   Image: https://cdn.hotosm.org/website/FMTM-Explanation.jpg
 Section-analysis:
-  Image: https://cdn.hotosm.org/website/Screen+Shot+2021-12-16+at+12.26.52+pm-de2129.png
+  Image: https://cdn.hotosm.org/website/tm-ml-project-creation-auto.gif
 Section-visualization:
-  Image: https://cdn.hotosm.org/website/OpenCities+Guatemala.png
+  Image: https://cdn.hotosm.org/website/Map_Final.jpg
 Section-data-access:
-  Image: https://cdn.hotosm.org/website/OpenCities+Guatemala.png
+  Image: https://cdn.hotosm.org/website/Export+Tool+Blog+2.png
 Oam:
   Header: 
   Text: 
