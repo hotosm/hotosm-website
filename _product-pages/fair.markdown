@@ -38,20 +38,22 @@ Block 3:
   fAIr seek to solve three foreseen problems:
   <br>
   <br>
-  - **1. AI models openness:** AI-assisted mapping for humanitarian purposed feels like a black box. Useful open-source results coming from AI exists (e.g. [META's global roads dataset](https://mapwith.ai/) available in RapiD). However, the models (code) are currently not open-sourced.<br><br>
-  - **2. Model bias:** Having model biases means predicting over satellite imagery would be biassed toward the training dataset used to teach the AI model and the nature and quality of imagery is very different across the globe. Here are three different images from Asia and Africa show totally different nature of imagery:<br><br>
+  **1. AI models openness:** AI-assisted mapping for humanitarian purposed feels like a black box. Useful open-source results coming from AI exists (e.g. [META's global roads dataset](https://mapwith.ai/) available in RapiD). However, the models (code) are currently not open-sourced.<br><br>
+  **2. Model bias:** Having model biases means predicting over satellite imagery would be biassed toward the training dataset used to teach the AI model and the nature and quality of imagery is very different across the globe. Here are three different images from Asia and Africa show totally different nature of imagery:<br><br>
   ![OAM pics.png](https://cdn.hotosm.org/website/OAM+pics.png)
   Source: [OpenAerialMap](https://openaerialmap.org/)<br><br><br>
-  - **3. Lack of feedback:** There is no enhancement applied easily on the intelligence and accuracy of the AI models and humans are out of the loop when building the AI models, this due to AI models being either closed source or were built once and made available to end users so enhancements would require repeating the process from scratch..
+  **3. Lack of feedback:** There is no enhancement applied easily on the intelligence and accuracy of the AI models and humans are out of the loop when building the AI models, this due to AI models being either closed source or were built once and made available to end users so enhancements would require repeating the process from scratch..
   <br>
   <br>
   "
-  Image: "/uploads/fair-diagram.png" 
+  Image: "/uploads/fair-fmtm-monrovia-digitizing.jpg" 
   Tools:
   - Name: Website
     URL: https://fair-dev.hotosm.org/
   - Name: fAIr GitHub
     URL: https://github.com/hotosm/fAIr
+  - Name: HOT Docs
+    URL: https://docs.hotosm.org/
 Block 4:
   Header: Open Aerial Map (OAM)
   Text: OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services. Download or contribute imagery to the growing commons of openly licensed imagery.

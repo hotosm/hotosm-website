@@ -39,8 +39,8 @@ Block 3:
     URL: https://tasks.hotosm.org/
   - Name: TM GitHub
     URL: https://github.com/hotosm/tasking-manager
-  - Name: Learn More
-    URL: https://tasks.hotosm.org/
+  - Name: HOT Docs
+    URL: https://docs.hotosm.org/
 Block 4:
   Header: Open Aerial Map (OAM)
   Text: OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services. Download or contribute imagery to the growing commons of openly licensed imagery.

@@ -54,12 +54,14 @@ Block 3:
   **4. Select the format for download or APO**
 
   Select from formats like GeoJSON, Shapefile, Geopackage, Google Earth KML, Flatgeobuf, and CSV or use the API for faster outputs for those selected file formats and to connect to other applications."
-  Image: "/uploads/export-tool-madagascar.png" 
+  Image: "https://www.hotosm.org/uploads/export-tool-example.png" 
   Tools:
   - Name: Website
     URL: https://export.hotosm.org/v3/
   - Name: GitHub
     URL: https://github.com/hotosm/osm-export-tool
+  - Name: HOT Docs
+    URL: https://docs.hotosm.org/
 Block 4:
   Header: Open Aerial Map (OAM)
   Text: OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services. Download or contribute imagery to the growing commons of openly licensed imagery.

@@ -35,12 +35,14 @@ Block 3:
   Highlight: OpenAerialMap (OAM) is a set of tools for searching, sharing, and using openly licensed satellite and unmanned aerial vehicle (UAV) imagery.
   Text: "OpenAerialMap creates a place for mappers to store and share their work with the rest of the community. Through this database, everyone has a go to point to start helping out, whether it's drone pilots in areas of crisis, or mappers who want to trace from home.
   If you're a provider of aerial imagery and would like to get involved, get started contribute." 
-  Image: "https://docs.openaerialmap.org/content/browser/grid.png" 
+  Image: "https://www.hotosm.org/uploads/open-aerial-map-screenshot.png" 
   Tools:
   - Name: Website
     URL: https://openaerialmap.org/
   - Name: GitHub
     URL: https://github.com/hotosm/OpenAerialMap
+  - Name: HOT Docs
+    URL: https://docs.hotosm.org/
 Block 4:
   Header: Open Aerial Map (OAM)
   Text: OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services. Download or contribute imagery to the growing commons of openly licensed imagery.
