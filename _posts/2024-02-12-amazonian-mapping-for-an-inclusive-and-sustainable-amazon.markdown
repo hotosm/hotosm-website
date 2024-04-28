@@ -6,7 +6,7 @@ Summary Text: Explore the Amazonian Mapping initiative, a project by the Open Ma
   in the Amazon region. Discover key projects in Colombia, Ecuador, Brazil, and Peru
   to strengthen prevention, emergency management, sustainable forest management, and
   community resilience.
-Feature Image: https://cdn.hotosm.org/website/Amazonian+Mappings+-+English.jpg
+Feature Image: "/uploads/Amazonian%20Mappings%20English.jpg"
 Person: LAC Hub Team
 Country:
 - Brazil
