@@ -1,6 +1,9 @@
 ---
 title: Our End-to-End Mapping Solution - Mapping exercise at CliGeos Summer School
 date: 2024-04-30 10:43:00 Z
+tags:
+- e2e
+- tech
 Summary Text: "This summer school was jointly organized by the Center for Space Science
   and Geomatics Studies (CSSGS) at Tribhuvan University, the University of Udine in
   Italy, and LJ University in India The primary goal was to train participants from
@@ -17,6 +20,7 @@ Summary Text: "This summer school was jointly organized by the Center for Space 
   rainfall area in Nepal and relies on its hilly terrain with beautiful views.\n\n<img
   src=\"https://cdn.hotosm.org/website/EN+-+Mapeo+Participativo+-+San+Antonio+de+Prado.jpg\">\n<center>test</center>\n\n![StaffSpotlight-Honey5.jpg](https://cdn.hotosm.org/website/StaffSpotlight-Honey5.jpg)\n*Honey
   presenting at FOSS4G Asia 2023 in Seoul.*"
+Person: Kshitij Sharma
 ---
 
 In April 2024, we had the opportunity to demonstrate the power of open mapping tools and workflows at the CLImbing for CLImate GEOspatial School (CLIGEOS-2024) in Annapurna-3, Lumle-Pokhara, Nepal. 
