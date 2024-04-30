@@ -4,7 +4,7 @@ date: 2018-02-06 15:16:00 Z
 position: 4
 Block 0:
   Header: What is OpenStreetMap
-  Text: HOT continues to develop a strong technical foundation to involve and empower communities, which has had a substantial impact in open mapping ecosystem.
+  Text: "We develop open-source products, to address ecosystem gaps in the use of geospatial technology in humanitarian projects."
   Image: "https://cdn.hotosm.org/website/Ramani+Huria+TZ+2-5d464a.jpg"
 tasking-manager:
   Header: Tasking Manager

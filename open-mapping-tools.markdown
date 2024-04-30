@@ -2,6 +2,16 @@
 title: Open Mapping Tools
 date: 2018-02-06 15:16:00 Z
 position: 4
+Intro:
+  Header: HOT and Open Source
+  Text: "In this page, you can explore those tools and identify which will work for your projects. All tools below are either open source, meaning the application’s use and development are freely available for any use, or relating to the promotion of open data. OpenStreetMap (OSM) and other recommended open geospatial tools are included to promote open and free mapping in all contexts, including limited resourced environments. HOT’s tools, which fill a niche in end to end mapping workflows, are marked."
+  Point1: We provide technological solutions to enable everyone to create and use open mapping data, and focus on how we can lower the barrier to entry for everyone to do so.
+  Point2: We do not build alone. We collaborate with volunteers, universities, Research Institutions, SMEs, internships, contractors and even large corporations.
+  Point3: We focus on key gaps in the current ecosystem that block community members in our target countries to map and use map data.
+  Image: https://docs.hotosm.org/techdoc/overview/HOTInformationFlow.png
+  Tools:
+  - Name: Learn More
+    URL: "/tech-suite/field-mapping-tasking-manager/"
 Field-mapping-image: https://cdn.hotosm.org/website/FMTM-Explanation.jpg
 Field-mapping-image-alternative: https://cdn.hotosm.org/website/Ramani+Huria+TZ+2-5d464a.jpg
 Section-imagery:
@@ -11,7 +21,7 @@ Section-field:
 Section-remote:
   Image: https://cdn.hotosm.org/website/FMTM-Explanation.jpg
 Section-analysis:
-  Image: https://cdn.hotosm.org/website/tm-ml-project-creation-auto.gif
+  Image: https://cdn.hotosm.org/website/1_3FHXUekE4B7a90ZFaGUu7Q.png
 Section-visualization:
   Image: https://cdn.hotosm.org/website/Map_Final.jpg
 Section-data-access:
@@ -304,62 +314,5 @@ Overpass-turbo:
   Tools:
   - Name: Website
     URL: https://overpass-turbo.eu/
-Block 0:
-  Header: What is OpenStreetMap
-  Text: Explore the tools on the open source ecosystem that enables everyone, and in particular vulnerable communities, to make the right open map data available in order to use that to make a positive impact on people’s lives.
-  Image: "https://cdn.hotosm.org/website/Ramani+Huria+TZ+2-5d464a.jpg"
-Block 1:
-  Header: Tasking Manager
-  Text: The HOT Tasking Manager is a mapping tool designed and built for the Humanitarian OpenStreetMap Team’s collaborative mapping process in OpenStreetMap. Contribute to OSM collaboratively with the global open mapping community using the Tasking Manager.
-  Image: https://cdn.hotosm.org/website/open-source.png
-  Tools:
-  - Name: Learn More
-    URL: https://tasks.hotosm.org/
-Block 2:
-  Header: fAIr
-  Text: fAIr is an open AI-assisted mapping service developed by the Humanitarian OpenStreetMap Team (HOT) that aims to improve the efficiency and accuracy of mapping efforts for humanitarian purposes.
-  Image: https://cdn.hotosm.org/website/52100358553_94c50062d2_k.jpg
-  Tools:
-  - Name: Learn More
-    URL: https://fair-dev.hotosm.org/
-Block 3:
-  Header: HOT Export Tool
-  Text: The HOT Export Tool is an open service that creates customized extracts of up-to-date OSM data in various file formats, such as ESRI shapefiles (.shapefile), google KML (.kml), GeoPackage (.gpkg) dan MBTiles (.mbtiles).
-  Image: https://cdn.hotosm.org/website/WG4A0327.jpg
-  Tools:
-  - Name: Learn More
-    URL: https://export.hotosm.org/en/v3/
-  - Name: Learn More
-    URL: https://export.hotosm.org/en/v3/
-  - Name: Learn More
-    URL: https://export.hotosm.org/en/v3/
-Block 4:
-  Header: Open Aerial Map (OAM)
-  Text: OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services. Download or contribute imagery to the growing commons of openly licensed imagery.
-  Image: "https://cdn.hotosm.org/website/GAL+Group+for+Mapping+Tips+Post.jpg"
-  Tools:
-  - Name: Learn More
-    URL: https://openaerialmap.org/
-Block 5:
-  Header: Field Mapping Tasking Manager (FMTM)
-  Text: The FMTM is a standalone mobile and web application that works using OpenDataKit (ODK), a powerful data collection platform that leverages commonly-available mobile Android devices to enable people to input information including geospatial data in the field.
-  Image: https://cdn.hotosm.org/website/open-source.png
-  Tools:
-  - Name: Learn More
-    URL: "/tech-suite/field-mapping-tasking-manager/"
-layout: open-mapping-tools
-Block 7:
-  Header: HOT and Open Source
-  Text: "All tools below are either open source, meaning the application’s use and development are freely available for any use, or relating to the promotion of open data. OpenStreetMap (OSM) and other recommended open geospatial tools are included to promote open and free mapping in all contexts, including limited resourced environments. HOT’s tools, which fill a niche in end to end mapping workflows, are marked. 
-  <br>
-  <br>
-  Explore the tools below that you can use or help develop that you can use in every step of your project."
-  Point1: We provide technological solutions to enable everyone to create and use open mapping data, and focus on how we can lower the barrier to entry for everyone to do so.
-  Point2: We do not build alone. We collaborate with volunteers, universities, Research Institutions, SMEs, internships, contractors and even large corporations.
-  Point3: We focus on key gaps in the current ecosystem that block community members in our target countries to map and use map data.
-  Image: https://docs.hotosm.org/techdoc/overview/HOTInformationFlow.png
-  Tools:
-  - Name: Learn More
-    URL: "/tech-suite/field-mapping-tasking-manager/"
 layout: open-mapping-tools
 ---

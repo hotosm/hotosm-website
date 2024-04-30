@@ -35,10 +35,10 @@ layout: default
 
 
               <div >
-                <div  style="padding: 12px 32px 32px;">
-                  <h3 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2rem; color: black;">Open Source Tools and Development</h3>
+                <div  style="padding: 12px 140px 32px;">
+                  <h4 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.5rem; color: black;">At HOT, we use a combination of internally and externally developed tools to create, access, manage, analyze, and share open map data that serves our partners and local communities.</h4>
                   <br>
-                  <p>{{ page['Block 7'].Text }}</p>
+                  <p>{{ page.Intro.Text }}</p>
                   <br>
                 </div>
                 <div >
@@ -102,11 +102,11 @@ layout: default
                               </a>
                               <br>
                               <div style="padding-top: 1%; padding-bottom: 1%; padding-left: 4%; padding-right: 4%; font-size: 14px; color: #6B7280;">
-                                  <a>Imagery, remote sensing, and other earth observation datasets encompasses information obtainable through diverse platforms for capturing real-world reference data.<br>
+                                  <a>Sensor data encompasses information obtainable through diverse platforms for capturing real-wold reference data.<br>
                                     <ul style="list-style: square; padding-left: 3%;">
                                       <li><strong>Satellite-borne data</strong>, primarily beneficial for large-scale solutions. <br></li>
                                       <li><strong>Drone or aircraft data</strong>, presents promising opportunities for community-based initiatives through drone imagery. <br></li>
-                                      <li><strong>Ground-based data</strong>, sourced from phones, cars, etc., sourced from phones, cars, etc., serves as input for mapping purposes, exemplified by datasets like Mapillary data and phone pictures.</li>
+                                      <li><strong>Ground-based data</strong>, sourced from phones, cars, etc., serves as input for mapping purposes, exemplified by datasets like Mapillary data and phone pictures.</li>
                                     </ul>
                                   </a>
                               </div>
@@ -368,6 +368,257 @@ layout: default
 
                             <!-- </div> -->
                           </div>
+                          <h3 id="accordion-collapse-heading-2">
+                            <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-2" aria-expanded="false" aria-controls="accordion-collapse-body-2">
+                              <span style="display: block;"><h3><strong style="font-weight: 900;">Data Collection:</strong> Remote</h3> </span>
+                              <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
+                              </svg>
+                            </button>
+                          </h3>
+                          <div id="accordion-collapse-body-2" class="hidden" aria-labelledby="accordion-collapse-heading-2">
+                            <!-- <div class="p-5 border border-b-0 border-gray-200 dark:border-gray-700"> -->
+                             
+
+                              <a class="home-highlight4" style="padding-bottom: 1%;">
+                                <div>
+                                  <img src="{{ page.Section-remote.Image }}"  style="max-width: 140%; filter: brightness(70%); padding: 2%">
+                                </div>
+                              </a>
+                               
+
+                              <br>
+                              <div style="padding-top: 1%; padding-bottom: 1%; padding-left: 4%; padding-right: 4%; font-size: 14px; color: #6B7280;">
+                                  <a ><strong style="color: black;">Remote mapping allows for data creation of an area of interest from anywhere in the world. </strong> Users use base imagery to identify features like buildings, roads, waterways, etc., and incorporate them into geospatial databases, like OpenStreetMap. Remote mapping can cover wide areas effectively and efficiently, and the information identified informs decision-making on the ground. Multiple tools connected to OpenStreetMap allow for organized collaboration and crowdsourcing of massive data collection and creation, as well as data improvement efforts.<br>
+                                  </a>
+                              </div>
+
+
+                              <div class="md:flex" style="padding: 2%">
+                                      <div class="border-gray-200 dark:border-gray-700">
+
+                                        <ul class="flex-column space-y space-y-4 text-sm font-medium text-gray-500 dark:text-gray-400 md:me-4 mb-4 md:mb-0" id="default-styled-tab" data-tabs-toggle="#default-styled-tab-content" data-tabs-active-classes="text-purple-600 hover:text-purple-600 dark:text-purple-500 dark:hover:text-purple-500 border-purple-600 dark:border-purple-500" data-tabs-inactive-classes="dark:border-transparent text-gray-500 hover:text-gray-600 dark:text-gray-400 border-gray-100 hover:border-gray-300 dark:border-gray-700 dark:hover:text-gray-300" role="tablist">
+                                  
+                                          
+                                            <li class=" w-full " role="presentation">
+                                              <a id="profile-styled-tab" data-tabs-target="#tasking-manager" type="button" role="tab" aria-controls="profile" aria-selected="true" class="inline-flex items-center px-4 py-3 rounded-lg hover:text-gray-900 bg-gray-50 hover:bg-gray-100 w-full dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                                  <svg width="10%"  viewBox="0 0 80 48" style="padding-right: 2%;"><g fill="#D73F3F" fill-rule="evenodd"><path d="M37.02656,20.77496 C37.02656,20.29096 37.12976,19.85896 37.33616,19.48616 C37.54096,19.11176 37.81296,18.80696 38.15056,18.56376 C38.48656,18.32136 38.86496,18.13736 39.28576,18.01336 C39.70496,17.89016 40.12736,17.82776 40.55376,17.82776 C40.97856,17.82776 41.40256,17.89016 41.82336,18.01336 C42.24176,18.13736 42.62016,18.32136 42.95616,18.56376 C43.29456,18.80696 43.56576,19.11176 43.77216,19.48616 C43.97856,19.85896 44.08096,20.29096 44.08096,20.77496 L44.08096,27.14696 C44.08096,27.64136 43.97856,28.07496 43.77216,28.44216 C43.56576,28.81096 43.29456,29.11416 42.95616,29.35736 C42.62016,29.60136 42.24176,29.78616 41.82336,29.90856 C41.40256,30.03176 40.97856,30.09336 40.55376,30.09336 C40.12736,30.09336 39.70496,30.03176 39.28576,29.90856 C38.86496,29.78616 38.48656,29.60136 38.15056,29.35736 C37.81296,29.11416 37.54096,28.81096 37.33616,28.44216 C37.12976,28.07496 37.02656,27.64136 37.02656,27.14696 L37.02656,20.77496 Z M39.05136,27.15016 C39.05136,27.56536 39.28256,27.87496 39.56576,28.07176 C39.84736,28.27016 40.18096,28.37496 40.56576,28.37496 C40.94896,28.37496 41.28416,28.27016 41.56656,28.07176 C41.84736,27.87496 42.00816,27.56536 42.00816,27.15016 L42.00816,20.77816 C42.00816,20.36136 41.84736,20.05256 41.56656,19.85576 C41.28416,19.65816 40.94896,19.52536 40.56576,19.52536 C40.18096,19.52536 39.84736,19.65816 39.56576,19.85576 C39.28256,20.05256 39.05136,20.36136 39.05136,20.77816 L39.05136,27.15016 Z"/><polygon points="33.379 17.815 33.379 22.99 30.152 22.99 30.152 17.815 28.387 17.815 28.387 30.1 30.152 30.1 30.152 24.923 33.379 24.923 33.379 30.1 35.278 30.1 35.278 17.815"/><polygon points="52.431 17.815 45.426 17.815 45.426 19.622 48.015 19.622 47.985 30.1 49.847 30.1 49.847 19.622 52.431 19.622"/><path d="M65.42344,28.7668 L79.67944,28.7668 L71.15544,19.1684 L62.66904,9.57 L54.18104,0.000400000001 L11.53944,0.000400000001 L20.02584,9.57 L5.73784,9.57 L14.22584,19.1684 L14.29144,19.2332 L0.000239999999,19.2332 L8.52184,28.8316 L17.01304,38.43 L25.50024,48.0004 L68.14184,48.0004 L59.65064,38.43 L59.58824,38.3364 L73.87864,38.3364 L65.42344,28.7668 Z M39.83944,39.9492 C30.31864,39.9492 22.60104,32.8084 22.60104,24.0012 C22.60104,15.1908 30.31864,8.05 39.83944,8.05 C49.36104,8.05 57.07944,15.1908 57.07944,24.0012 C57.07944,32.8084 49.36104,39.9492 39.83944,39.9492 Z"/></g></svg>
+                                                Tasking Manager
+                                            </a>     
+                                          </li>
+                                          <li class=" w-full " role="presentation">
+                                            <a id="dashboard-styled-tab" data-tabs-target="#fair" type="button" role="tab" aria-controls="dashboard" aria-selected="false" class="inline-flex items-center px-4 py-3 rounded-lg hover:text-gray-900 bg-gray-50 hover:bg-gray-100 w-full dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                                <svg width="10%"  viewBox="0 0 80 48" style="padding-right: 2%;"><g fill="#D73F3F" fill-rule="evenodd"><path d="M37.02656,20.77496 C37.02656,20.29096 37.12976,19.85896 37.33616,19.48616 C37.54096,19.11176 37.81296,18.80696 38.15056,18.56376 C38.48656,18.32136 38.86496,18.13736 39.28576,18.01336 C39.70496,17.89016 40.12736,17.82776 40.55376,17.82776 C40.97856,17.82776 41.40256,17.89016 41.82336,18.01336 C42.24176,18.13736 42.62016,18.32136 42.95616,18.56376 C43.29456,18.80696 43.56576,19.11176 43.77216,19.48616 C43.97856,19.85896 44.08096,20.29096 44.08096,20.77496 L44.08096,27.14696 C44.08096,27.64136 43.97856,28.07496 43.77216,28.44216 C43.56576,28.81096 43.29456,29.11416 42.95616,29.35736 C42.62016,29.60136 42.24176,29.78616 41.82336,29.90856 C41.40256,30.03176 40.97856,30.09336 40.55376,30.09336 C40.12736,30.09336 39.70496,30.03176 39.28576,29.90856 C38.86496,29.78616 38.48656,29.60136 38.15056,29.35736 C37.81296,29.11416 37.54096,28.81096 37.33616,28.44216 C37.12976,28.07496 37.02656,27.64136 37.02656,27.14696 L37.02656,20.77496 Z M39.05136,27.15016 C39.05136,27.56536 39.28256,27.87496 39.56576,28.07176 C39.84736,28.27016 40.18096,28.37496 40.56576,28.37496 C40.94896,28.37496 41.28416,28.27016 41.56656,28.07176 C41.84736,27.87496 42.00816,27.56536 42.00816,27.15016 L42.00816,20.77816 C42.00816,20.36136 41.84736,20.05256 41.56656,19.85576 C41.28416,19.65816 40.94896,19.52536 40.56576,19.52536 C40.18096,19.52536 39.84736,19.65816 39.56576,19.85576 C39.28256,20.05256 39.05136,20.36136 39.05136,20.77816 L39.05136,27.15016 Z"/><polygon points="33.379 17.815 33.379 22.99 30.152 22.99 30.152 17.815 28.387 17.815 28.387 30.1 30.152 30.1 30.152 24.923 33.379 24.923 33.379 30.1 35.278 30.1 35.278 17.815"/><polygon points="52.431 17.815 45.426 17.815 45.426 19.622 48.015 19.622 47.985 30.1 49.847 30.1 49.847 19.622 52.431 19.622"/><path d="M65.42344,28.7668 L79.67944,28.7668 L71.15544,19.1684 L62.66904,9.57 L54.18104,0.000400000001 L11.53944,0.000400000001 L20.02584,9.57 L5.73784,9.57 L14.22584,19.1684 L14.29144,19.2332 L0.000239999999,19.2332 L8.52184,28.8316 L17.01304,38.43 L25.50024,48.0004 L68.14184,48.0004 L59.65064,38.43 L59.58824,38.3364 L73.87864,38.3364 L65.42344,28.7668 Z M39.83944,39.9492 C30.31864,39.9492 22.60104,32.8084 22.60104,24.0012 C22.60104,15.1908 30.31864,8.05 39.83944,8.05 C49.36104,8.05 57.07944,15.1908 57.07944,24.0012 C57.07944,32.8084 49.36104,39.9492 39.83944,39.9492 Z"/></g></svg>
+                                              fAIr
+                                          </a> 
+                                          </li>
+                                          <li class=" w-full " role="presentation">
+                                            <a id="dashboard-styled-tab" data-tabs-target="#rapid" type="button" role="tab" aria-controls="dashboard" aria-selected="false" class="inline-flex items-center px-4 py-3 rounded-lg hover:text-gray-900 bg-gray-50 hover:bg-gray-100 w-full dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                              <svg width="10%" style="padding-right: 2%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 776 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M384 96V320H64L64 96H384zM64 32C28.7 32 0 60.7 0 96V320c0 35.3 28.7 64 64 64H181.3l-10.7 32H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H352c17.7 0 32-14.3 32-32s-14.3-32-32-32H277.3l-10.7-32H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm464 0c-26.5 0-48 21.5-48 48V432c0 26.5 21.5 48 48 48h64c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48H528zm16 64h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H544c-8.8 0-16-7.2-16-16s7.2-16 16-16zm-16 80c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H544c-8.8 0-16-7.2-16-16zm32 160a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>                                                  
+                                              Rapid
+                                            </a> 
+                                        </li>
+                                            <li class=" w-full " role="presentation">
+                                                    <a id="dashboard-styled-tab" data-tabs-target="#maproulette" type="button" role="tab" aria-controls="dashboard" aria-selected="false" class="inline-flex items-center px-4 py-3 rounded-lg hover:text-gray-900 bg-gray-50 hover:bg-gray-100 w-full dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                                      <svg width="10%" style="padding-right: 2%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 776 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M384 96V320H64L64 96H384zM64 32C28.7 32 0 60.7 0 96V320c0 35.3 28.7 64 64 64H181.3l-10.7 32H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H352c17.7 0 32-14.3 32-32s-14.3-32-32-32H277.3l-10.7-32H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm464 0c-26.5 0-48 21.5-48 48V432c0 26.5 21.5 48 48 48h64c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48H528zm16 64h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H544c-8.8 0-16-7.2-16-16s7.2-16 16-16zm-16 80c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H544c-8.8 0-16-7.2-16-16zm32 160a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>                                                  
+                                                      MapRoulette
+                                                  </a> 
+                                            </li>
+                                            <li class=" w-full " role="presentation">
+                                              <a id="dashboard-styled-tab" data-tabs-target="#mapswipe" type="button" role="tab" aria-controls="dashboard" aria-selected="false" class="inline-flex items-center px-4 py-3 rounded-lg hover:text-gray-900 bg-gray-50 hover:bg-gray-100 w-full dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                                <svg width="10%" style="padding-right: 2%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 776 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M384 96V320H64L64 96H384zM64 32C28.7 32 0 60.7 0 96V320c0 35.3 28.7 64 64 64H181.3l-10.7 32H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H352c17.7 0 32-14.3 32-32s-14.3-32-32-32H277.3l-10.7-32H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm464 0c-26.5 0-48 21.5-48 48V432c0 26.5 21.5 48 48 48h64c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48H528zm16 64h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H544c-8.8 0-16-7.2-16-16s7.2-16 16-16zm-16 80c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H544c-8.8 0-16-7.2-16-16zm32 160a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>                                                  
+                                                MapSwipe 
+                                            </a> 
+                                      </li>
+                                        </ul>
+                                      </div>
+
+                                  <div class=" bg-gray-50 text-medium text-gray-500 dark:text-gray-400 dark:bg-gray-800 rounded-lg w-full">
+
+
+
+                                              <div class="p-6 rounded-lg w-full" id="tasking-manager" role="tabpanel" aria-labelledby="profile-tab">
+                                                <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">Tasking Manager</h3>
+                                                <div style="font-size: 0.8125rem;">
+                                                  <p>
+                                                    Join a global community that is mapping the places most vulnerable to disaster and poverty in order to support humanitarian aid and sustainable development across the world.</p> 
+                                                  </p> 
+                                                  <p>
+                                                    <br>
+                                                    <p style="color: black; padding-bottom: 3%;"><strong>About</strong></p>
+                                                    Each year, disasters around the world kill nearly 100,000 and affect or displace 200 million people. Mapping can help change this. Organizations use Tasking Manager to create mapping projects for areas around the world where data is needed to help save or improve lives. 
+                                                  </p>
+                                                  <p>
+                                                    <br>
+                                                    <p style="color: black; padding-bottom: 3%;"><strong>Features</strong></p>
+                                                    <ul style="list-style-type: square;">
+                                                      <li><strong>Mapping:</strong> Volunteers use satellite imagery from OpenStreetMap to trace buildings, roadways, and other features.<br></li>
+                                                      <li><strong>Validation:</strong> Experienced volunteers check the map data to ensure it is high quality.<br></li>
+                                                      <li><strong>Using the data:</strong> Humanitarian organizations use the map data to plan for disaster response and other life saving activities.<br></li>
+                                                    </ul>
+                                                  </p>
+                                                  <div class="block-options">
+                                                    <ul style="display: inline-flex; padding-top: 5%;">
+                                                      {% for tool in page['Tasking-manager'].Tools %}
+                                                        <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
+                                                      {% endfor %}
+                                                    </ul>
+                                                  </div>
+                                                </div>
+                                            </div>
+
+
+
+                                            <div class="p-6 rounded-lg w-full" id="fair" role="tabpanel" aria-labelledby="profile-tab">
+                                              <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">fAIr: AI Assisted Mapping</h3>
+                                              <div style="font-size: 0.8125rem;">
+                                                <p>
+                                                  <ul style="list-style-type: square;">
+                                                    <li><strong>f:</strong> for freedom and free and open-source software<br></li>
+                                                    <li><strong>AI:</strong> for Artificial Intelligence<br></li>
+                                                    <li><strong>r:</strong> for resilience and our responsibility for our communities and the role we play within humanitarian mapping<br></li>
+                                                  </ul>
+                                                </p>                                       
+                                                <p>
+                                                  <br>
+                                                  <p style="color: black; padding-bottom: 3%;"><strong>About</strong></p>               
+                                                  fAIr is an open AI-assisted mapping service developed by the Humanitarian OpenStreetMap Team (HOT) that aims to improve the efficiency and accuracy of mapping efforts for humanitarian purposes. The service uses AI models, specifically computer vision techniques, to detect objects such as buildings, roads, waterways, and trees from satellite and UAV imagery.
+                                                  <a style="font-style: italic;">(source: website)</a>
+                                                      <br>                                          
+                                                </p>
+                                                <p>
+                                                  <br>
+                                                  <p style="color: black; padding-bottom: 3%;"><strong>Features</strong></p>
+                                                  <ul style="list-style-type: square;">
+                                                    <li> <strong>Goal is to provide AI-assisted mapping across mobile and in-browser editors</strong> using community-created models, enhancing relevance to improve living conditions<br></li>
+                                                    <li><strong> Utilizes open-source AI models trained by local communities</strong><br></li>
+                                                    <li> Uses <strong>open-source satellite and UAV imagery</strong> from HOT's OpenAerialMap (OAM) for feature detection and suggestions to OpenStreetMap (OSM)<br></li>
+                                                    <li> Offers free and open-source service, allowing <strong>OSM community members to create and train their own AI models</strong> for mapping<br></li>
+                                                    <li> Receives <strong>constant feedback from local communities to progressively refine models</strong>, suggesting detected features for addition to OSM while avoiding mass imports. Corrections made by OSM mappers further enhance model accuracy.<br></li>
+                                                  </ul>
+                                                </p>
+                                                <div class="block-options">
+                                                  <ul style="display: inline-flex; padding-top: 5%;">
+                                                    {% for tool in page['Fair'].Tools %}
+                                                      <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
+                                                    {% endfor %}
+                                                  </ul>
+                                                </div>
+                                              </div>
+                                          </div>
+
+
+                                          <div class="p-6 rounded-lg w-full" id="rapid" role="tabpanel" aria-labelledby="profile-tab">
+                                            <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">Rapid</h3>
+                                            <div style="font-size: 0.8125rem;">
+                                              <p>
+                                                Rapid is a web-based modern editor for OpenStreetMap. Rapid integrates advanced mapping tools, authoritative geospatial open data, and cutting-edge technology to empower mappers at all levels to get started quickly, making accurate and fresh edits to maps.
+                                              </p> 
+                                              <p>
+                                                <br>
+                                                <p style="color: black; padding-bottom: 3%;"><strong>About</strong></p>
+                                                Rapid is enhanced with authoritative open data sources and AI-generated roads from the Facebook Map With AI service + buildings from Microsoft open buildings dataset to make adding and editing roads, buildings, and more quick and simple.
+                                                <br>
+                                                Rapid also includes data integrity checks to ensure that new map edits are consistent and accurate. To learn about all the enhanced features Rapid provides, please check out our Change Log and training document.
+                                                  <a style="font-style: italic;">(source: website)</a>
+                                              </p>
+                                              <p>
+                                                <br>
+                                                <p style="color: black; padding-bottom: 3%;"><strong>Features</strong></p>
+                                                <ul style="list-style-type: square;">
+                                                  <li><strong>Map Faster: </strong>The new Rapid editor saves you the effort of manually drawing map geometry by tapping into open data or predicted features identified by artificial intelligence. <br></li>
+                                                  <li><strong>Map Better: </strong>AI-analyzed satellite imagery gives you a high-level overview of unmapped and missing data around the globe.<br></li>
+                                                  <li><strong>Machine Learning: </strong>Rapid displays open map data and machine learning detections<br></li>
+                                                </ul>
+                                              </p>
+                                              <div class="block-options">
+                                                <ul style="display: inline-flex; padding-top: 5%;">
+                                                  {% for tool in page['Rapid'].Tools %}
+                                                    <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
+                                                  {% endfor %}
+                                                </ul>
+                                              </div>
+                                            </div>
+                                        </div>                                        
+
+
+                                        <div class="p-6 rounded-lg w-full" id="maproulette" role="tabpanel" aria-labelledby="profile-tab">
+                                          <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">MapRoulette</h3>
+                                          <div style="font-size: 0.8125rem;">
+                                            <p>
+                                              Thousands of people just like you edit OpenStreetMap every day                                            </p> 
+                                            <p>
+                                              <br>
+                                              <p style="color: black; padding-bottom: 3%;"><strong>About</strong></p>
+                                              MapRoulette has dozens of mapping Challenges that are created by experienced mappers. Each Challenge is about improving OSM in one very specific way. Do you want to add pedestrian crossings? Fix bridges? Add opening times for shops? There’s a challenge for it. Each challenge has many tasks, perhaps even thousands.
+                                              <br>
+                                              Do as few or as many as you want. If a challenge is too easy or too hard for you, just jump into something else, knowing that every time you click ‘I fixed it!’, you have made a meaningful contribution to the world’s maps.
+                                              <a style="font-style: italic;">(source: website)</a>
+                                            </p>
+                                            <p>
+                                              <br>
+                                              <p style="color: black; padding-bottom: 3%;"><strong>Features</strong></p>
+                                              <ul style="list-style-type: square;">
+                                                <li>Work at your own level, from novice to expert<br></li>
+                                                <li>Find mapping tasks that are important to you<br></li>
+                                                <li>Create tasks for others to improve OSM together<br></li>
+                                              </ul>
+                                            </p>
+                                            <div class="block-options">
+                                              <ul style="display: inline-flex; padding-top: 5%;">
+                                                {% for tool in page['Maproulette'].Tools %}
+                                                  <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
+                                                {% endfor %}
+                                              </ul>
+                                            </div>
+                                          </div>
+                                      </div>   
+
+
+
+
+                                      <div class="p-6 rounded-lg w-full" id="mapswipe" role="tabpanel" aria-labelledby="profile-tab">
+                                        <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">MapSwipe</h3>
+                                        <div style="font-size: 0.8125rem;">
+                                          <p>
+                                            Volunteer from your phone. Make a difference worldwide.                                           </p> 
+                                          <p>
+                                            <br>
+                                            <p style="color: black; padding-bottom: 3%;"><strong>About</strong></p>
+                                            MapSwipe harnesses the collective strength of volunteers to actively contribute to geospatial data projects. From identifying infrastructure to tracking environmental changes and validating map data, MapSwipers help improve map data across the world.
+                                            <br>
+                                            As a result, our MapSwipe partners are better equipped and informed to engage and support communities globally.
+                                            <a style="font-style: italic;">(source: website)</a>
+                                          </p>
+                                          <p>
+                                            <br>
+                                            <p style="color: black; padding-bottom: 3%;"><strong>Features</strong></p>
+                                            <ul style="list-style-type: square;">
+                                              <li><strong>Find: </strong> Swipe through satellite images to identify & select those that contain the requested features such as buildings, roadways, waterways and more.<br></li>
+                                                <li><strong>Compare: </strong>Review before and after satellite images to detect changes in the environment that help inform damage assessment, climate change, or inaccurate data.<br></li>
+                                                <li><strong>Validate: </strong>Assess building footprints for accuracy where buildings have been previously traced by remote mappers or through AI to identify where remapping is needed.<br></li>
+                                            </ul>
+                                          </p>
+                                          <div class="block-options">
+                                            <ul style="display: inline-flex; padding-top: 5%;">
+                                              {% for tool in page['Mapswipe'].Tools %}
+                                                <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
+                                              {% endfor %}
+                                            </ul>
+                                          </div>
+                                        </div>
+                                    </div>  
+
+
+                                       
+                                  </div>   
+                               </div>    
+
+
+
+
+                            <!-- </div> -->
+                          </div>
                           <h3 id="accordion-collapse-heading-1">
                             <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-1" aria-expanded="false" aria-controls="accordion-collapse-body-1">
                               <span style="display: block;"><h3><strong style="font-weight: 900;">Data Collection:</strong> Field</h3> </span>
@@ -387,7 +638,7 @@ layout: default
                                       <br>
                                       <div style="padding-top: 1%; padding-bottom: 1%; padding-left: 4%; padding-right: 4%; font-size: 14px; color: #6B7280;">
                                           <a>
-                                            <strong style="color: black;">Field, or ground based direct observation data, allows for the capture of local knowledge tied to a location on a map.</strong> Organizations, community groups, and individuals can utilize various mobile mapping tools such as ODK/Kobo, or coordinate through platforms like Field Mapping Tasking Manager, leveraging existing open technology to cover broader areas on the ground effectively. Other tools promote crowdsourcing of local information. 
+                                            <strong style="color: black;">Add depth to extracted data by incorporating critical local knowledge, which is often absent in sensor data and requires human input for accuracy. </strong> For instance, details like doctor availability in hospitals or vulnerability to disasters are best verified locally. Local field mapping plays a pivotal role in prioritizing community involvement.
                                             <br>
                                           </a>
                                       </div>
@@ -679,257 +930,7 @@ layout: default
                                           </div>   
                                        </div>           
                           </div>
-                          <h3 id="accordion-collapse-heading-2">
-                            <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-2" aria-expanded="false" aria-controls="accordion-collapse-body-2">
-                              <span style="display: block;"><h3><strong style="font-weight: 900;">Data Collection:</strong> Remote</h3> </span>
-                              <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
-                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
-                              </svg>
-                            </button>
-                          </h3>
-                          <div id="accordion-collapse-body-2" class="hidden" aria-labelledby="accordion-collapse-heading-2">
-                            <!-- <div class="p-5 border border-b-0 border-gray-200 dark:border-gray-700"> -->
-                             
-
-                              <a class="home-highlight4" style="padding-bottom: 1%;">
-                                <div>
-                                  <img src="{{ page.Section-remote.Image }}"  style="max-width: 140%; filter: brightness(70%); padding: 2%">
-                                </div>
-                              </a>
-                               
-
-                              <br>
-                              <div style="padding-top: 1%; padding-bottom: 1%; padding-left: 4%; padding-right: 4%; font-size: 14px; color: #6B7280;">
-                                  <a ><strong style="color: black;">Remote mapping (data collection) allows for data creation of an area of interest from anywhere in the world.</strong> Remote mapping can cover wide areas effectively and efficiently, and the information identified informs decision making on the ground. Multiple tools connected to OpenStreetMap allow for organized collaboration and crowdsourcing of massive data collection and creation, as well as data improvement efforts.<br>
-                                  </a>
-                              </div>
-
-
-                              <div class="md:flex" style="padding: 2%">
-                                      <div class="border-gray-200 dark:border-gray-700">
-
-                                        <ul class="flex-column space-y space-y-4 text-sm font-medium text-gray-500 dark:text-gray-400 md:me-4 mb-4 md:mb-0" id="default-styled-tab" data-tabs-toggle="#default-styled-tab-content" data-tabs-active-classes="text-purple-600 hover:text-purple-600 dark:text-purple-500 dark:hover:text-purple-500 border-purple-600 dark:border-purple-500" data-tabs-inactive-classes="dark:border-transparent text-gray-500 hover:text-gray-600 dark:text-gray-400 border-gray-100 hover:border-gray-300 dark:border-gray-700 dark:hover:text-gray-300" role="tablist">
-                                  
-                                          
-                                            <li class=" w-full " role="presentation">
-                                              <a id="profile-styled-tab" data-tabs-target="#tasking-manager" type="button" role="tab" aria-controls="profile" aria-selected="true" class="inline-flex items-center px-4 py-3 rounded-lg hover:text-gray-900 bg-gray-50 hover:bg-gray-100 w-full dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
-                                                  <svg width="10%"  viewBox="0 0 80 48" style="padding-right: 2%;"><g fill="#D73F3F" fill-rule="evenodd"><path d="M37.02656,20.77496 C37.02656,20.29096 37.12976,19.85896 37.33616,19.48616 C37.54096,19.11176 37.81296,18.80696 38.15056,18.56376 C38.48656,18.32136 38.86496,18.13736 39.28576,18.01336 C39.70496,17.89016 40.12736,17.82776 40.55376,17.82776 C40.97856,17.82776 41.40256,17.89016 41.82336,18.01336 C42.24176,18.13736 42.62016,18.32136 42.95616,18.56376 C43.29456,18.80696 43.56576,19.11176 43.77216,19.48616 C43.97856,19.85896 44.08096,20.29096 44.08096,20.77496 L44.08096,27.14696 C44.08096,27.64136 43.97856,28.07496 43.77216,28.44216 C43.56576,28.81096 43.29456,29.11416 42.95616,29.35736 C42.62016,29.60136 42.24176,29.78616 41.82336,29.90856 C41.40256,30.03176 40.97856,30.09336 40.55376,30.09336 C40.12736,30.09336 39.70496,30.03176 39.28576,29.90856 C38.86496,29.78616 38.48656,29.60136 38.15056,29.35736 C37.81296,29.11416 37.54096,28.81096 37.33616,28.44216 C37.12976,28.07496 37.02656,27.64136 37.02656,27.14696 L37.02656,20.77496 Z M39.05136,27.15016 C39.05136,27.56536 39.28256,27.87496 39.56576,28.07176 C39.84736,28.27016 40.18096,28.37496 40.56576,28.37496 C40.94896,28.37496 41.28416,28.27016 41.56656,28.07176 C41.84736,27.87496 42.00816,27.56536 42.00816,27.15016 L42.00816,20.77816 C42.00816,20.36136 41.84736,20.05256 41.56656,19.85576 C41.28416,19.65816 40.94896,19.52536 40.56576,19.52536 C40.18096,19.52536 39.84736,19.65816 39.56576,19.85576 C39.28256,20.05256 39.05136,20.36136 39.05136,20.77816 L39.05136,27.15016 Z"/><polygon points="33.379 17.815 33.379 22.99 30.152 22.99 30.152 17.815 28.387 17.815 28.387 30.1 30.152 30.1 30.152 24.923 33.379 24.923 33.379 30.1 35.278 30.1 35.278 17.815"/><polygon points="52.431 17.815 45.426 17.815 45.426 19.622 48.015 19.622 47.985 30.1 49.847 30.1 49.847 19.622 52.431 19.622"/><path d="M65.42344,28.7668 L79.67944,28.7668 L71.15544,19.1684 L62.66904,9.57 L54.18104,0.000400000001 L11.53944,0.000400000001 L20.02584,9.57 L5.73784,9.57 L14.22584,19.1684 L14.29144,19.2332 L0.000239999999,19.2332 L8.52184,28.8316 L17.01304,38.43 L25.50024,48.0004 L68.14184,48.0004 L59.65064,38.43 L59.58824,38.3364 L73.87864,38.3364 L65.42344,28.7668 Z M39.83944,39.9492 C30.31864,39.9492 22.60104,32.8084 22.60104,24.0012 C22.60104,15.1908 30.31864,8.05 39.83944,8.05 C49.36104,8.05 57.07944,15.1908 57.07944,24.0012 C57.07944,32.8084 49.36104,39.9492 39.83944,39.9492 Z"/></g></svg>
-                                                Tasking Manager
-                                            </a>     
-                                          </li>
-                                          <li class=" w-full " role="presentation">
-                                            <a id="dashboard-styled-tab" data-tabs-target="#fair" type="button" role="tab" aria-controls="dashboard" aria-selected="false" class="inline-flex items-center px-4 py-3 rounded-lg hover:text-gray-900 bg-gray-50 hover:bg-gray-100 w-full dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
-                                                <svg width="10%"  viewBox="0 0 80 48" style="padding-right: 2%;"><g fill="#D73F3F" fill-rule="evenodd"><path d="M37.02656,20.77496 C37.02656,20.29096 37.12976,19.85896 37.33616,19.48616 C37.54096,19.11176 37.81296,18.80696 38.15056,18.56376 C38.48656,18.32136 38.86496,18.13736 39.28576,18.01336 C39.70496,17.89016 40.12736,17.82776 40.55376,17.82776 C40.97856,17.82776 41.40256,17.89016 41.82336,18.01336 C42.24176,18.13736 42.62016,18.32136 42.95616,18.56376 C43.29456,18.80696 43.56576,19.11176 43.77216,19.48616 C43.97856,19.85896 44.08096,20.29096 44.08096,20.77496 L44.08096,27.14696 C44.08096,27.64136 43.97856,28.07496 43.77216,28.44216 C43.56576,28.81096 43.29456,29.11416 42.95616,29.35736 C42.62016,29.60136 42.24176,29.78616 41.82336,29.90856 C41.40256,30.03176 40.97856,30.09336 40.55376,30.09336 C40.12736,30.09336 39.70496,30.03176 39.28576,29.90856 C38.86496,29.78616 38.48656,29.60136 38.15056,29.35736 C37.81296,29.11416 37.54096,28.81096 37.33616,28.44216 C37.12976,28.07496 37.02656,27.64136 37.02656,27.14696 L37.02656,20.77496 Z M39.05136,27.15016 C39.05136,27.56536 39.28256,27.87496 39.56576,28.07176 C39.84736,28.27016 40.18096,28.37496 40.56576,28.37496 C40.94896,28.37496 41.28416,28.27016 41.56656,28.07176 C41.84736,27.87496 42.00816,27.56536 42.00816,27.15016 L42.00816,20.77816 C42.00816,20.36136 41.84736,20.05256 41.56656,19.85576 C41.28416,19.65816 40.94896,19.52536 40.56576,19.52536 C40.18096,19.52536 39.84736,19.65816 39.56576,19.85576 C39.28256,20.05256 39.05136,20.36136 39.05136,20.77816 L39.05136,27.15016 Z"/><polygon points="33.379 17.815 33.379 22.99 30.152 22.99 30.152 17.815 28.387 17.815 28.387 30.1 30.152 30.1 30.152 24.923 33.379 24.923 33.379 30.1 35.278 30.1 35.278 17.815"/><polygon points="52.431 17.815 45.426 17.815 45.426 19.622 48.015 19.622 47.985 30.1 49.847 30.1 49.847 19.622 52.431 19.622"/><path d="M65.42344,28.7668 L79.67944,28.7668 L71.15544,19.1684 L62.66904,9.57 L54.18104,0.000400000001 L11.53944,0.000400000001 L20.02584,9.57 L5.73784,9.57 L14.22584,19.1684 L14.29144,19.2332 L0.000239999999,19.2332 L8.52184,28.8316 L17.01304,38.43 L25.50024,48.0004 L68.14184,48.0004 L59.65064,38.43 L59.58824,38.3364 L73.87864,38.3364 L65.42344,28.7668 Z M39.83944,39.9492 C30.31864,39.9492 22.60104,32.8084 22.60104,24.0012 C22.60104,15.1908 30.31864,8.05 39.83944,8.05 C49.36104,8.05 57.07944,15.1908 57.07944,24.0012 C57.07944,32.8084 49.36104,39.9492 39.83944,39.9492 Z"/></g></svg>
-                                              fAIr
-                                          </a> 
-                                          </li>
-                                          <li class=" w-full " role="presentation">
-                                            <a id="dashboard-styled-tab" data-tabs-target="#odk" type="button" role="tab" aria-controls="dashboard" aria-selected="false" class="inline-flex items-center px-4 py-3 rounded-lg hover:text-gray-900 bg-gray-50 hover:bg-gray-100 w-full dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
-                                              <svg width="10%" style="padding-right: 2%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 776 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M384 96V320H64L64 96H384zM64 32C28.7 32 0 60.7 0 96V320c0 35.3 28.7 64 64 64H181.3l-10.7 32H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H352c17.7 0 32-14.3 32-32s-14.3-32-32-32H277.3l-10.7-32H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm464 0c-26.5 0-48 21.5-48 48V432c0 26.5 21.5 48 48 48h64c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48H528zm16 64h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H544c-8.8 0-16-7.2-16-16s7.2-16 16-16zm-16 80c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H544c-8.8 0-16-7.2-16-16zm32 160a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>                                                  
-                                              Rapid
-                                            </a> 
-                                        </li>
-                                            <li class=" w-full " role="presentation">
-                                                    <a id="dashboard-styled-tab" data-tabs-target="#maproulette" type="button" role="tab" aria-controls="dashboard" aria-selected="false" class="inline-flex items-center px-4 py-3 rounded-lg hover:text-gray-900 bg-gray-50 hover:bg-gray-100 w-full dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
-                                                      <svg width="10%" style="padding-right: 2%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 776 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M384 96V320H64L64 96H384zM64 32C28.7 32 0 60.7 0 96V320c0 35.3 28.7 64 64 64H181.3l-10.7 32H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H352c17.7 0 32-14.3 32-32s-14.3-32-32-32H277.3l-10.7-32H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm464 0c-26.5 0-48 21.5-48 48V432c0 26.5 21.5 48 48 48h64c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48H528zm16 64h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H544c-8.8 0-16-7.2-16-16s7.2-16 16-16zm-16 80c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H544c-8.8 0-16-7.2-16-16zm32 160a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>                                                  
-                                                      MapRoulette
-                                                  </a> 
-                                            </li>
-                                            <li class=" w-full " role="presentation">
-                                              <a id="dashboard-styled-tab" data-tabs-target="#mapswipe" type="button" role="tab" aria-controls="dashboard" aria-selected="false" class="inline-flex items-center px-4 py-3 rounded-lg hover:text-gray-900 bg-gray-50 hover:bg-gray-100 w-full dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
-                                                <svg width="10%" style="padding-right: 2%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 776 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M384 96V320H64L64 96H384zM64 32C28.7 32 0 60.7 0 96V320c0 35.3 28.7 64 64 64H181.3l-10.7 32H96c-17.7 0-32 14.3-32 32s14.3 32 32 32H352c17.7 0 32-14.3 32-32s-14.3-32-32-32H277.3l-10.7-32H384c35.3 0 64-28.7 64-64V96c0-35.3-28.7-64-64-64H64zm464 0c-26.5 0-48 21.5-48 48V432c0 26.5 21.5 48 48 48h64c26.5 0 48-21.5 48-48V80c0-26.5-21.5-48-48-48H528zm16 64h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H544c-8.8 0-16-7.2-16-16s7.2-16 16-16zm-16 80c0-8.8 7.2-16 16-16h32c8.8 0 16 7.2 16 16s-7.2 16-16 16H544c-8.8 0-16-7.2-16-16zm32 160a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>                                                  
-                                                MapSwipe 
-                                            </a> 
-                                      </li>
-                                        </ul>
-                                      </div>
-
-                                  <div class=" bg-gray-50 text-medium text-gray-500 dark:text-gray-400 dark:bg-gray-800 rounded-lg w-full">
-
-
-
-                                              <div class="p-6 rounded-lg w-full" id="tasking-manager" role="tabpanel" aria-labelledby="profile-tab">
-                                                <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">Tasking Manager</h3>
-                                                <div style="font-size: 0.8125rem;">
-                                                  <p>
-                                                    Join a global community that is mapping the places most vulnerable to disaster and poverty in order to support humanitarian aid and sustainable development across the world.</p> 
-                                                  </p> 
-                                                  <p>
-                                                    <br>
-                                                    <p style="color: black; padding-bottom: 3%;"><strong>About</strong></p>
-                                                    Each year, disasters around the world kill nearly 100,000 and affect or displace 200 million people. Mapping can help change this. Organizations use Tasking Manager to create mapping projects for areas around the world where data is needed to help save or improve lives. 
-                                                  </p>
-                                                  <p>
-                                                    <br>
-                                                    <p style="color: black; padding-bottom: 3%;"><strong>Features</strong></p>
-                                                    <ul style="list-style-type: square;">
-                                                      <li><strong>Mapping:</strong> Volunteers use satellite imagery from OpenStreetMap to trace buildings, roadways, and other features.<br></li>
-                                                      <li><strong>Validation:</strong> Experienced volunteers check the map data to ensure it is high quality.<br></li>
-                                                      <li><strong>Using the data:</strong> Humanitarian organizations use the map data to plan for disaster response and other life saving activities.<br></li>
-                                                    </ul>
-                                                  </p>
-                                                  <div class="block-options">
-                                                    <ul style="display: inline-flex; padding-top: 5%;">
-                                                      {% for tool in page['Tasking-manager'].Tools %}
-                                                        <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
-                                                      {% endfor %}
-                                                    </ul>
-                                                  </div>
-                                                </div>
-                                            </div>
-
-
-
-                                            <div class="p-6 rounded-lg w-full" id="fair" role="tabpanel" aria-labelledby="profile-tab">
-                                              <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">fAIr: AI Assisted Mapping</h3>
-                                              <div style="font-size: 0.8125rem;">
-                                                <p>
-                                                  <ul style="list-style-type: square;">
-                                                    <li><strong>f:</strong> for freedom and free and open-source software<br></li>
-                                                    <li><strong>AI:</strong> for Artificial Intelligence<br></li>
-                                                    <li><strong>r:</strong> for resilience and our responsibility for our communities and the role we play within humanitarian mapping<br></li>
-                                                  </ul>
-                                                </p>                                       
-                                                <p>
-                                                  <br>
-                                                  <p style="color: black; padding-bottom: 3%;"><strong>About</strong></p>               
-                                                  fAIr is an open AI-assisted mapping service developed by the Humanitarian OpenStreetMap Team (HOT) that aims to improve the efficiency and accuracy of mapping efforts for humanitarian purposes. The service uses AI models, specifically computer vision techniques, to detect objects such as buildings, roads, waterways, and trees from satellite and UAV imagery.
-                                                  <a style="font-style: italic;">(source: website)</a>
-                                                      <br>                                          
-                                                </p>
-                                                <p>
-                                                  <br>
-                                                  <p style="color: black; padding-bottom: 3%;"><strong>Features</strong></p>
-                                                  <ul style="list-style-type: square;">
-                                                    <li> <strong>Goal is to provide AI-assisted mapping across mobile and in-browser editors</strong> using community-created models, enhancing relevance to improve living conditions<br></li>
-                                                    <li><strong> Utilizes open-source AI models trained by local communities</strong><br></li>
-                                                    <li> Uses <strong>open-source satellite and UAV imagery</strong> from HOT's OpenAerialMap (OAM) for feature detection and suggestions to OpenStreetMap (OSM)<br></li>
-                                                    <li> Offers free and open-source service, allowing <strong>OSM community members to create and train their own AI models</strong> for mapping<br></li>
-                                                    <li> Receives <strong>constant feedback from local communities to progressively refine models</strong>, suggesting detected features for addition to OSM while avoiding mass imports. Corrections made by OSM mappers further enhance model accuracy.<br></li>
-                                                  </ul>
-                                                </p>
-                                                <div class="block-options">
-                                                  <ul style="display: inline-flex; padding-top: 5%;">
-                                                    {% for tool in page['Fair'].Tools %}
-                                                      <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
-                                                    {% endfor %}
-                                                  </ul>
-                                                </div>
-                                              </div>
-                                          </div>
-
-
-                                          <div class="p-6 rounded-lg w-full" id="rapid" role="tabpanel" aria-labelledby="profile-tab">
-                                            <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">Rapid</h3>
-                                            <div style="font-size: 0.8125rem;">
-                                              <p>
-                                                Rapid is a web-based modern editor for OpenStreetMap. Rapid integrates advanced mapping tools, authoritative geospatial open data, and cutting-edge technology to empower mappers at all levels to get started quickly, making accurate and fresh edits to maps.
-                                              </p> 
-                                              <p>
-                                                <br>
-                                                <p style="color: black; padding-bottom: 3%;"><strong>About</strong></p>
-                                                Rapid is enhanced with authoritative open data sources and AI-generated roads from the Facebook Map With AI service + buildings from Microsoft open buildings dataset to make adding and editing roads, buildings, and more quick and simple.
-                                                <br>
-                                                Rapid also includes data integrity checks to ensure that new map edits are consistent and accurate. To learn about all the enhanced features Rapid provides, please check out our Change Log and training document.
-                                                  <a style="font-style: italic;">(source: website)</a>
-                                              </p>
-                                              <p>
-                                                <br>
-                                                <p style="color: black; padding-bottom: 3%;"><strong>Features</strong></p>
-                                                <ul style="list-style-type: square;">
-                                                  <li><strong>Map Faster: </strong>The new Rapid editor saves you the effort of manually drawing map geometry by tapping into open data or predicted features identified by artificial intelligence. <br></li>
-                                                  <li><strong>Map Better: </strong>AI-analyzed satellite imagery gives you a high-level overview of unmapped and missing data around the globe.<br></li>
-                                                  <li><strong>Machine Learning: </strong>Rapid displays open map data and machine learning detections<br></li>
-                                                </ul>
-                                              </p>
-                                              <div class="block-options">
-                                                <ul style="display: inline-flex; padding-top: 5%;">
-                                                  {% for tool in page['Rapid'].Tools %}
-                                                    <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
-                                                  {% endfor %}
-                                                </ul>
-                                              </div>
-                                            </div>
-                                        </div>                                        
-
-
-                                        <div class="p-6 rounded-lg w-full" id="maproulette" role="tabpanel" aria-labelledby="profile-tab">
-                                          <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">MapRoulette</h3>
-                                          <div style="font-size: 0.8125rem;">
-                                            <p>
-                                              Thousands of people just like you edit OpenStreetMap every day                                            </p> 
-                                            <p>
-                                              <br>
-                                              <p style="color: black; padding-bottom: 3%;"><strong>About</strong></p>
-                                              MapRoulette has dozens of mapping Challenges that are created by experienced mappers. Each Challenge is about improving OSM in one very specific way. Do you want to add pedestrian crossings? Fix bridges? Add opening times for shops? There’s a challenge for it. Each challenge has many tasks, perhaps even thousands.
-                                              <br>
-                                              Do as few or as many as you want. If a challenge is too easy or too hard for you, just jump into something else, knowing that every time you click ‘I fixed it!’, you have made a meaningful contribution to the world’s maps.
-                                              <a style="font-style: italic;">(source: website)</a>
-                                            </p>
-                                            <p>
-                                              <br>
-                                              <p style="color: black; padding-bottom: 3%;"><strong>Features</strong></p>
-                                              <ul style="list-style-type: square;">
-                                                <li>Work at your own level, from novice to expert<br></li>
-                                                <li>Find mapping tasks that are important to you<br></li>
-                                                <li>Create tasks for others to improve OSM together<br></li>
-                                              </ul>
-                                            </p>
-                                            <div class="block-options">
-                                              <ul style="display: inline-flex; padding-top: 5%;">
-                                                {% for tool in page['Maproulette'].Tools %}
-                                                  <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
-                                                {% endfor %}
-                                              </ul>
-                                            </div>
-                                          </div>
-                                      </div>   
-
-
-
-
-                                      <div class="p-6 rounded-lg w-full" id="mapswipe" role="tabpanel" aria-labelledby="profile-tab">
-                                        <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">MapSwipe</h3>
-                                        <div style="font-size: 0.8125rem;">
-                                          <p>
-                                            Volunteer from your phone. Make a difference worldwide.                                           </p> 
-                                          <p>
-                                            <br>
-                                            <p style="color: black; padding-bottom: 3%;"><strong>About</strong></p>
-                                            MapSwipe harnesses the collective strength of volunteers to actively contribute to geospatial data projects. From identifying infrastructure to tracking environmental changes and validating map data, MapSwipers help improve map data across the world.
-                                            <br>
-                                            As a result, our MapSwipe partners are better equipped and informed to engage and support communities globally.
-                                            <a style="font-style: italic;">(source: website)</a>
-                                          </p>
-                                          <p>
-                                            <br>
-                                            <p style="color: black; padding-bottom: 3%;"><strong>Features</strong></p>
-                                            <ul style="list-style-type: square;">
-                                              <li><strong>Find: </strong> Swipe through satellite images to identify & select those that contain the requested features such as buildings, roadways, waterways and more.<br></li>
-                                                <li><strong>Compare: </strong>Review before and after satellite images to detect changes in the environment that help inform damage assessment, climate change, or inaccurate data.<br></li>
-                                                <li><strong>Validate: </strong>Assess building footprints for accuracy where buildings have been previously traced by remote mappers or through AI to identify where remapping is needed.<br></li>
-                                            </ul>
-                                          </p>
-                                          <div class="block-options">
-                                            <ul style="display: inline-flex; padding-top: 5%;">
-                                              {% for tool in page['Mapswipe'].Tools %}
-                                                <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
-                                              {% endfor %}
-                                            </ul>
-                                          </div>
-                                        </div>
-                                    </div>  
-
-
-                                       
-                                  </div>   
-                               </div>    
-
-
-
-
-                            <!-- </div> -->
-                          </div>
+                         
                           <h3 id="accordion-collapse-heading-3">
                             <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-3" aria-expanded="false" aria-controls="accordion-collapse-body-3">
                               <span style="display: block;"><h3><strong style="font-weight: 900;">Data Analysis</strong> and OSM Insights</h3> </span>
@@ -950,7 +951,7 @@ layout: default
 
                               <br>
                               <div style="padding-top: 1%; padding-bottom: 1%; padding-left: 4%; padding-right: 4%; font-size: 14px; color: #6B7280;">
-                                  <a ><strong style="color: black;">Connecting data to real world decisions</strong> comes through data manipulation and exploration. The tools below allow for the application of data to real world questions, as well as exploration on the content and availability of OpenStreetMap data. <br>
+                                  <a ><strong style="color: black;">Connecting data to real-world decisions comes through data manipulation and exploration. </strong> The tools below allow users to examine the content and availability of OpenStreetMap data, and to analyze it to solve current local challenges.<br>
                                   </a>
                               </div>
 
@@ -1138,7 +1139,7 @@ layout: default
 
                               <br>
                               <div style="padding-top: 1%; padding-bottom: 1%; padding-left: 4%; padding-right: 4%; font-size: 14px; color: #6B7280;">
-                                  <a ><strong style="color: black;">All data tells a story, through visualization that story turns into a message.</strong> Data visualization communicates complex spatial dynamics to inform real world decisions. The below cartographic and other visualization tools allow data to be connected with those decision makers. <br>
+                                  <a ><strong style="color: black;">All data tells a story, and through visualization, that story turns into a message. </strong>Data visualization communicates complex spatial dynamics to inform realworld decisions. The cartographic and other visualization tools featured here allow data to be more clearly communicated to key decision makers.<br>
                                   </a>
                               </div>
 
@@ -1353,7 +1354,8 @@ layout: default
                                
                               <br>
                               <div style="padding-top: 1%; padding-bottom: 1%; padding-left: 4%; padding-right: 4%; font-size: 14px; color: #6B7280;">
-                                  <a ><strong style="color: black;">OpenStreetMap provides an open community created dataset with global coverage. </strong>Accessing OSM data in an easy to use format is accessible through the following tools. <br>
+                                  <a ><strong style="color: black;">Accessing and using pre-existing geospatial datasets can be challenging due to the different sources and use licenses associated with them.</strong> Projects like OpenStreetMap (OSM), a global, open, and crowdsourced dataset, allow users to access their data and utilize it for a variety of purposes. Accessing OSM data in an easy to use format is accessible through the following tools.
+                                    <br>
                                   </a>
                               </div>
 
@@ -1554,75 +1556,10 @@ layout: default
             </div>
 
 
-            <!-- <div class="hr-h"></div> 
-
-            
-            <div class="container container-tools" >
-              <h2 class="partner-subtitle" style="opacity: 0.1;"> </h2>
-        
-                  <div class="module-group-tools top-image" style="margin-bottom: 1px">
-                      <a class="module " href="/tech-suite/export-tool/" id="support-programs">
-                        <div class="block-screenshot-wrap" style="padding: 3%; background-color: white;">
-                          <img src="{{ page['Block 3'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
-                        </div>
-                        <div class="module-details">
-                          <h2 >{{  page['Block 3'].Header }}</h2>
-                          <p>{{ page['Block 3'].Text }}</p>
-                          {% for tool in page['Block 3'].Tools %}
-                          <p class="module-cta" href="www.hotosm.org">{{ tool.Name }}</p>
-                          {% endfor %}
-                        </div>
-                      </a>
-                      <a class="module " href="/tech-suite/open-aerial-map/" id="support-programs">
-                        <div class="block-screenshot-wrap" style="padding: 3%; background-color: white;">
-                          <img src="{{ page['Block 4'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
-                        </div>
-                        <div class="module-details">
-                          <h2 >{{  page['Block 4'].Header }}</h2>
-                          <p>{{ page['Block 4'].Text }}</p>
-                          {% for tool in page['Block 4'].Tools %}
-                          <p class="module-cta">{{ tool.Name }}</p>
-                          {% endfor %}
-                        </div>
-                      </a>
-                    
-                  </div>
-              </div>
-            </div> -->
-<!-- Resources and learning center -->
 
       <div class="hr-h"></div> 
 
              
-            <!-- <div class="module">
-
-                  <div class="container container-tools" >
-
-                    <div class="half-block-tools right" style="background-color: white;">
-                      <div class="block-details">
-                        <div class="block-info">
-                          <h2 >{{  page['Block 5'].Header }}</h2>
-                          <p>{{ page['Block 5'].Text }}</p>
-                          </div>
-                              <div class="block-options">
-                                <ul>
-                                  {% for tool in page['Block 5'].Tools %}
-                                    <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
-                                  {% endfor %}
-                                </ul>
-                              </div>
-                          </div>
-                            <div class="" style="padding: 5%; background-color: white;">
-                                <div class="block-screenshot-wrap" >
-                                  <img style="display: block; height: 110%; width: 100%; object-fit: cover;" src="{{ page['Block 5'].Image }}">
-                                </div>
-                            </div>
-                        </div>
-                      </div>
-                    </div>    
-                  </div>
-                
-             </div> -->
 
              <article class="container-body-program project-item" style="padding-top: 3%;">
 
@@ -1638,65 +1575,6 @@ layout: default
               </div>
             
             </article>
-            
-<!-- Highlited tools -->
-<!-- <div class="hr-h"></div> -->
-
-
-             <!-- <div class="program-body" style="padding-top: 0.1px">
-              <section class="article">
-      
-
-                                <div style="margin: 30px 0 0px "></div>
-                                <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1rem; color: black;">Recent Updates</h2>
-                                <div class="hr-h" style="margin: 10px 0 40px "></div>
-
-                                <div class="project-index-all">
-            
-
-
-
-                                  {% assign recent_projects = site.tech-blog | concat: site.posts | sort: 'date' | reverse %}
-                                  {% assign project_count = 0 %}
-                                  {% for project in recent_projects %}
-                                    {% if project.tags contains 'tech' %}
-
-                                    {% unless project.title == sorted_projects[0].title or project.title == sorted_projects[1].title or project.title == sorted_projects[2].title  %}
-                            
-                                      {% assign project_count = project_count | plus: 1 %}
-                                      {% include blocks/project-thumb.html %}
-                                      
-                                      {% if project_count > 2 %}
-                                      
-                                        {% break %}
-                                        
-                                      {% endif %}
-                                      
-                            
-                                    {% endunless %}
-                                    {% endif %}
-
-                                  {% endfor %}
-                            
-                                </div>
-
-                                <article class="container-body-program project-item" style="padding-top: 1%; padding-bottom: 1%;">
-
-                                  <div class="next"><a href="/tech-blog/index.html" style="    text-align: right; font-weight: bolder; font-size: large;">Older posts →</a></div>
-                              
-                              </article>
-                            
-                                <div class="hr-h"></div>
-                                     
-              </section>
-          </div>     -->
-
-
-
-<!-- Tech blog and news -->
-
-
-
 
 
 </div>
