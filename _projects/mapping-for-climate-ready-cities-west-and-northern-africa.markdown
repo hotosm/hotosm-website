@@ -42,7 +42,7 @@ The West and Northern Africa region is currently undergoing unprecedented popula
 
 The fast-paced urbanization is putting tremendous pressure on the current infrastructure, which has led to insufficient housing and transportation, poor air quality, inadequate healthcare, and subpar management of solid waste. This, in turn, has resulted in negative consequences, such as inadequate city planning, public service delivery, and infrastructure development. The unchecked growth of cities has also led to environmental degradation, which continues to impact the quality of life for urban dwellers.
 
-City authorities have struggled to address various challenges due to limited resources, skills, and tools. With this in mind, the Eco-Smart Cities and KYC projects aims to tackle these issues by offering reliable open data and visual analysis to city authorities, community groups, and other stakeholders. They will also provide capacity building and follow an open and participatory approach to collaborate with the private sector for sustainable urban development.
+City authorities have struggled to address various challenges due to limited resources, skills, and tools. With this in mind, the Eco-Smart Cities and [Know Your City ](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-liberia-and-sierra-leone/)(KYC) projects aims to tackle these issues by offering reliable open data and visual analysis to city authorities, community groups, and other stakeholders. They will also provide capacity building and follow an open and participatory approach to collaborate with the private sector for sustainable urban development.
 
 ## Approach
 
