@@ -1,7 +1,6 @@
 ---
 title: Mapping for Climate Ready Cities - Liberia and Sierra Leone
 date: 2024-04-30 12:20:00 Z
-published: false
 Project Summary Text: "Through our Mapping for Climate Ready Cities program, HOT is
   supporting the development of a thriving ecosystem focused on the creation, interpretation,
   and use of maps to respond to and reduce climate risks in urban areas across four

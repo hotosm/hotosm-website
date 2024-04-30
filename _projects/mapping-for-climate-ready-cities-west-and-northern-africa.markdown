@@ -6,7 +6,7 @@ Project Summary Text: |-
 
 
   This project page highlights our work in Nigeria and Ivory Coast.
-Feature Image: "/uploads/IMG_0352.HEIC"
+Feature Image: "/uploads/IMG_0352.jpg"
 Country:
 - Nigeria
 - Ivory Coast
