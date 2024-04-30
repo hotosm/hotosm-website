@@ -2,6 +2,9 @@
 title: 'Our End-to-End Mapping Solution: Training the Balinese Disaster Response Team
   in Karangasem'
 date: 2024-04-23 20:45:00 Z
+tags:
+- tech
+- e2e
 Summary Text: HOT envisions an ecosystem of open mapping technology that enables everyone,
   and in particular vulnerable communities, to make the right open map data available
   in order to use that to make a positive impact on people’s lives.
