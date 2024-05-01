@@ -4374,6 +4374,14 @@ div.mapboxgl-popup-content .project__details {
   }
 }
 
+.home-highlight-title3 {
+  margin: 32px 560px 64px 0px;
+  @media (max-width: $screen-sm) {
+    margin: 32px 20px 44px 0px;
+  }
+  @media (max-width: $screen-xs) {
+  }
+}
 
 /* Style the tab */
 .tab {
