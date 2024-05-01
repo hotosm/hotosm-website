@@ -1,9 +1,10 @@
 ---
 title: Amadou Roufaye Issaka
 date: 2022-02-09 05:31:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/250-0-2.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Senior Manager, Partnership and Fundraising - West and Northern Africa
   Hub
 Team: West and Northern Africa Hub
