@@ -4,7 +4,7 @@ date: 2018-02-06 15:16:00 Z
 position: 4
 Block 0:
   Header: 
-  Text: fAIr is an open AI-assisted mapping service developed by the Humanitarian OpenStreetMap Team (HOT) that aims to improve the efficiency and accuracy of mapping efforts for humanitarian purposes.
+  Text: An open AI-assisted mapping service that aims to improve the efficiency and accuracy of mapping efforts
   Image: "https://cdn.hotosm.org/website/OAM+pics.png"
 Block 1:
   Section: What is it?
