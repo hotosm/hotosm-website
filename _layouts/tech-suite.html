@@ -53,7 +53,7 @@ layout: default
                           <img src="{{ page['Fair'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
                         </div>
                         <div class="module-details">
-                          <h2 >{{  page['Fair'].Header }}</h2>
+                          <h2 style="text-transform: none">{{  page['Fair'].Header }}</h2>
                           <p>{{ page['Fair'].Text }}</p>
                           {% for tool in page['Fair'].Tools %}
                           <p class="module-cta">{{ tool.Name }}</p>
