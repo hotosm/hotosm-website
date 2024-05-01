@@ -23,13 +23,13 @@ Block 999:
   - Name: HOT Docs Index
     URL: https://docs.hotosm.org/
 Block 1:
-  Header: Open Mapping Tools
+  Header: Open Data Solutions
   Text: "Join the global movement towards free and open geographic data! <br> We have compiled a list of tools that can empower communities at every stage of open mapping. 
    <br>"
   Image: https://cdn.hotosm.org/website/52100358553_94c50062d2_k.jpg
   Tools:
-  - Name: Explore the tools
-    URL: "/open-mapping-tools"
+  - Name: Learn More
+    URL: "/open-data-solutions"
 Block 2:
   Header: HOT TECH PRODUCT SUITE
   Text: HOT is developing a technical stack to assist the open mapping community. This includes remote mapping, field data collection, and data access. To learn more, check out our tech stack and access our repository.

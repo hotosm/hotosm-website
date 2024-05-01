@@ -230,7 +230,8 @@ layout: default
                                             <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">Planet</h3>
                                             <div style="font-size: 0.8125rem;">
                                               <p>
-                                                Planet provides geospatial insights at the speed of change, equipping organizations with the data necessary to make informed, timely decisions. With best-in-class imagery, you can monitor areas of interest, validate information on the ground, and discover trends relevant to your organization.                                              </p> 
+                                                Planet provides geospatial insights at the speed of change, equipping organizations with the data necessary to make informed, timely decisions. With best-in-class imagery, you can monitor areas of interest, validate information on the ground, and discover trends relevant to your organization.                                              
+                                              </p> 
                                               <p>
                                                 <br>
                                                 <p style="color: black; padding-bottom: 3%;"><strong>About</strong></p>
@@ -933,7 +934,7 @@ layout: default
                          
                           <h3 id="accordion-collapse-heading-3">
                             <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-3" aria-expanded="false" aria-controls="accordion-collapse-body-3">
-                              <span style="display: block;"><h3><strong style="font-weight: 900;">Data Analysis</strong> and OSM Insights</h3> </span>
+                              <span style="display: block;"><h3><strong style="font-weight: 900;">Data Analysis</strong> and Open Data Insights</h3> </span>
                               <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
                               </svg>
@@ -1120,7 +1121,7 @@ layout: default
 
                           <h3 id="accordion-collapse-heading-4">
                             <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-4" aria-expanded="false" aria-controls="accordion-collapse-body-4">
-                              <span style="display: block;"><h3><strong style="font-weight: 900;">Data Insights:</strong> Visualization</h3> </span>
+                              <span style="display: block;"><h3><strong style="font-weight: 900;">Data Visualization</strong></h3></span>
                               <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
                               </svg>
@@ -1336,7 +1337,7 @@ layout: default
 
                           <h3 id="accordion-collapse-heading-5">
                             <button type="button" class="flex items-center justify-between w-full p-5 font-medium rtl:text-right text-gray-500 border border-b-0 border-gray-200 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-800 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-800 gap-3" data-accordion-target="#accordion-collapse-body-5" aria-expanded="false" aria-controls="accordion-collapse-body-5">
-                              <span style="display: block;"><h3><strong style="font-weight: 900;">OSM Data Access </strong>& Sharing</h3> </span>
+                              <span style="display: block;"><h3><strong style="font-weight: 900;">Open Data Access </strong>& Sharing</h3> </span>
                               <svg data-accordion-icon class="w-3 h-3 rotate-180 shrink-0" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5 5 1 1 5"/>
                               </svg>
@@ -1557,7 +1558,57 @@ layout: default
 
 
 
-      <div class="hr-h"></div> 
+      <!-- <div class="hr-h"></div>  -->
+
+
+      <div class="program-body" > 
+        <section class="article">
+
+
+                          <div style="margin: 30px 0 0px "></div>
+                          <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.25rem; color: black;">OPEN SOURCE WORKFLOWS EXAMPLES</h2>
+                          <div class="hr-h" style="margin: 10px 0 40px "></div>
+
+                              <div class="project-index-all">
+          
+
+
+                                {% assign recent_projects = site.tech-blog | concat: site.posts | sort: 'date' | reverse %}
+                                {% assign project_count = 0 %}
+                                {% assign page_title = page.title %}
+                                {% for project in recent_projects %}
+                                  {% if project.tags contains 'e2e' %}
+  
+                                  {% unless project.title == sorted_projects[0].title or project.title == sorted_projects[1].title or project.title == sorted_projects[2].title  %}
+                          
+                                    {% assign project_count = project_count | plus: 1 %}
+                                    {% include blocks/project-thumb.html %}  
+                                    
+                                    {% if project_count > 8 %}
+                                    
+                                      {% break %}
+                                      
+                                    {% endif %}
+                                    
+                          
+                                  {% endunless %}
+                                  {% endif %}
+  
+                                {% endfor %}
+
+
+                          
+                              </div>
+
+                        <article class="container-body-program project-item" style="padding-top: 1%; padding-bottom: 0%;">
+
+                            <div class="next"><a href="/our-work" style="    text-align: right; font-weight: bolder; font-size: large;">Explore Other Posts →</a></div>
+                        
+                        </article>
+                      
+                               
+        </section>
+    </div>  
 
              
 

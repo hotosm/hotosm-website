@@ -1,5 +1,5 @@
 ---
-title: Open Mapping Tools
+title: Open Data Solutions
 date: 2018-02-06 15:16:00 Z
 position: 4
 Intro:
@@ -314,5 +314,5 @@ Overpass-turbo:
   Tools:
   - Name: Website
     URL: https://overpass-turbo.eu/
-layout: open-mapping-tools
+layout: open-data-solutions
 ---
