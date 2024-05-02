@@ -19,16 +19,16 @@ Tools:
 ---
 
 ## Summary
-Start Network Nepal ([FOREWARN Nepal](https://startnetwork.org/funds/disaster-risk-financing-support/forewarn)) and the [Open Mapping Hub-Asia Pacific](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) will collaborate with communities and non-profit organizations to transfer technical knowledge and utilize data from OpenStreetMap to comprehensively understand and mitigate future climate risks. 
+Start Network Nepal ([FOREWARN Nepal](https://startnetwork.org/funds/disaster-risk-financing-support/forewarn)) and the [Open Mapping Hub-Asia Pacific](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) will collaborate with communities and non-profit organizations to transfer technical knowledge and utilize data from OpenStreetMap to comprehensively understand and mitigate future risks regarding climate change. 
 
-Our collaborative effort aims to enhance the capacity of at-risk communities through sustainable data generation and knowledge transfer. By fostering proper interaction between knowledge producers and users, we will promote accessibility of information among START Network members and other humanitarian actors. 
+Our collaborative effort aims to enhance the capacity of at-risk communities through sustainable data generation and knowledge transfer. By fostering proper interaction between knowledge producers and users, we will promote accessibility of information among START Network members and other humanitarian actors especially during wet seasons. 
 
 ## Background
 The road network plays a crucial role in economic and humanitarian activities. Accurate data on OpenStreetMap is vital for reliable navigation because it helps users avoid delays and hazards and enables real-time updates for better routing. 
 
-Although road mapping in Nepal has experienced significant growth on OpenStreetMap, there is still incomplete coverage, especially in the more remote rural regions of the country. Moreover, issues related to data quality, particularly in routing, have surfaced within the existing road network data. 
+Although road mapping in Nepal has experienced significant growth on OpenStreetMap, there is still incomplete coverage, especially in the more remote rural regions of the country. Moreover, within the existing road network data, issues related to data quality - particularly in routing - have surfaced especially in terms of road accessibility status during wet seasons. It is imperative to implement a validation strategy to address these concerns promptly. 
 
-It is imperative to implement a validation strategy to address these concerns promptly. Poor quality road data in OpenStreetMap can cause users to become lost or choose inefficient paths. Additionally, during times of crisis, inaccurate and inaccessible information can be detrimental, affecting the speed at which aid and rescue services can be delivered. 
+Poor quality or out-of-date road data in OpenStreetMap can cause users to become lost or choose inefficient paths. Additionally, during times of crisis, inaccurate and inaccessible information can be detrimental, affecting the speed at which aid and rescue services can be delivered. 
 
 Another pressing concern is accessibility to remote and potentially uncharted areas. If road data quality issues are not resolved, specific locations or routes may be inaccessible or impractical to access when using OpenStreetMap, posing challenges for rural communities connecting to the rest of Nepal.
 
@@ -44,8 +44,8 @@ Another pressing concern is accessibility to remote and potentially uncharted ar
 * Roads, buildings, and critical infrastructures such as health posts, water sources, schools, and evacuation centers. 
 
 ## Expected Outcome and Impact
-* Humanitarian and development actors utilize open data to reach communities that were previously uncharted on the map while community members and local stakeholders can actively participate in mapping and validation. 
-* Consolidate data and local knowledge with the related actors in this project, including Start Fund Network members, local NGOs, communities, government agencies, and universities. 
+* Humanitarian and development actors utilize open data to enhance their effectiveness in reaching communities that were previously uncharted on the map. Community members and local stakeholders acquire necessary skills and actively participate in mapping and validation activities, especially to reflect changes in the road network accessibility during wet seasons. 
+* Consolidation of data and local knowledge with the related actors in this project, including Start Fund Networks members, local NGOs, community, government, and universities, to discuss and identify needs and addressable gaps for effective operations planning during wet seasons. 
 * Mobilization of OSM experts nationally to support data quality and validation efforts. 
 
 ## Next Steps
