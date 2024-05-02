@@ -180,17 +180,6 @@ layout: default
                                               </div>  
                                             </div>
 
-
-                                            <!-- <div class="p-6 bg-gray-50 text-medium text-gray-500 dark:text-gray-400 dark:bg-gray-800 rounded-lg w-full" id="open-aerial-map" role="tabpanel" aria-labelledby="dashboard-tab">
-                                              <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-2">Open Aerial Map</h3>
-                                              <p class="mb-2">The open collection of aerial imagery.</p>
-                                              <p>OpenAerialMap is an open service to provide access to a commons of openly licensed imagery and map layer services. Download or contribute imagery to the growing commons of openly licensed imagery.</p> 
-                                              <p>OpenAerialMap creates a place for mappers to store and share their work with the rest of the community. Through this database, everyone has a go to point to start helping out, whether it's drone pilots in areas of crisis, or mappers who want to trace from home.
-                                                <br>
-                                                If you're a provider of aerial imagery and would like to get involved, get started contribute.</p> 
-
-                                            </div> -->
-
                                             <div class="p-6 rounded-lg w-full" id="maxar" role="tabpanel" aria-labelledby="profile-tab">
                                                 <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">Maxar Open Data Program</h3>
                                               <div style="font-size: 0.8125rem;">
@@ -1161,12 +1150,7 @@ layout: default
                                                 Healthsites
                                             </a> 
                                             </li>
-                                            <li class=" w-full " role="presentation">
-                                              <a id="dashboard-styled-tab" data-tabs-target="#mapbox" type="button" role="tab" aria-controls="dashboard" aria-selected="false" class="inline-flex items-center px-4 py-3 rounded-lg hover:text-gray-900 bg-gray-50 hover:bg-gray-100 w-full dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
-                                                <svg width="10%" style="padding-right: 2%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm96 288H448c17.7 0 32-14.3 32-32V251.8c0-7.6-2.7-15-7.7-20.8l-65.8-76.8c-12.1-14.2-33.7-15-46.9-1.8l-21 21c-10 10-26.4 9.2-35.4-1.6l-39.2-47c-12.6-15.1-35.7-15.4-48.7-.6L135.9 215c-5.1 5.8-7.9 13.3-7.9 21.1v84c0 17.7 14.3 32 32 32z"/></svg>                                                  
-                                                Mapbox
-                                            </a> 
-                                            </li>
+                                            
                                             <li class=" w-full " role="presentation">
                                               <a id="dashboard-styled-tab" data-tabs-target="#maplibre" type="button" role="tab" aria-controls="dashboard" aria-selected="false" class="inline-flex items-center px-4 py-3 rounded-lg hover:text-gray-900 bg-gray-50 hover:bg-gray-100 w-full dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
                                                 <svg width="10%" style="padding-right: 2%;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--!Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M64 64c0-17.7-14.3-32-32-32S0 46.3 0 64V400c0 44.2 35.8 80 80 80H480c17.7 0 32-14.3 32-32s-14.3-32-32-32H80c-8.8 0-16-7.2-16-16V64zm96 288H448c17.7 0 32-14.3 32-32V251.8c0-7.6-2.7-15-7.7-20.8l-65.8-76.8c-12.1-14.2-33.7-15-46.9-1.8l-21 21c-10 10-26.4 9.2-35.4-1.6l-39.2-47c-12.6-15.1-35.7-15.4-48.7-.6L135.9 215c-5.1 5.8-7.9 13.3-7.9 21.1v84c0 17.7 14.3 32 32 32z"/></svg>                                                  
@@ -1239,26 +1223,6 @@ layout: default
                                                       </div>
                                                     </div>
                                                 </div>  
-
-                                           
-                                                <div class="p-6 rounded-lg w-full" id="mapbox" role="tabpanel" aria-labelledby="profile-tab">
-                                                  <h3 class="text-lg font-bold mb-2" style="color: #d63f3f; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em;">Mapbox</h3>
-                                                  <div style="font-size: 0.8125rem;">
-                                                    <p>
-                                                      AI-powered location technology for automakers, mobile app developers, and logistics services                                                    <p>
-                                                      <br>
-                                                      <p style="color: black; padding-bottom: 3%;"><strong>About</strong></p>
-                                                       Mapbox (mapbox.com) offers commercial mapping services. Many of them use OpenStreetMap data and involve large open-source efforts. Mapbox is a main contributor to the Mapnik renderer project, it helped create the new web editor iD and it created Tilemill, the software used to design the OpenStreetMap map style. Mapbox employs a data team actively improving the map.                                                      <a style="font-style: italic;">(source: website)</a>
-                                                    </p>
-                                                    <div class="block-options">
-                                                      <ul style="display: inline-flex; padding-top: 5%;">
-                                                        {% for tool in page['Mapbox'].Tools %}
-                                                          <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
-                                                        {% endfor %}
-                                                      </ul>
-                                                    </div>
-                                                  </div>
-                                                  </div>  
 
                                       
                                                   <div class="p-6 rounded-lg w-full" id="maplibre" role="tabpanel" aria-labelledby="profile-tab">
