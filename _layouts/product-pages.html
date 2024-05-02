@@ -160,14 +160,15 @@ layout: default
 
 
                                       {% assign recent_projects = site.projects | sort:"date" | reverse %}
-                                      {% assign page_title = page.title %}
+                                      {% assign page_title = page.Tool-name %}
                                       {% assign project_count1 = 0 %}
                                         {% for project in recent_projects %}
-                                        {% assign project_count1 = project_count1 | plus: 1 %}
 
                                           {% if project.Tools[0].tool %}
                                             {% for tool in project.Tools %}
                                               {% if tool.tool contains page_title %}
+                                              {% assign project_count1 = project_count1 | plus: 1 %}
+
 
                                                 {% unless project.title == sorted_projects[0].title or project.title == sorted_projects[1].title or project.title == sorted_projects[2].title  %}
                                             
@@ -178,7 +179,7 @@ layout: default
                                               {% endif %}
                                               
                                             {% endfor %}
-                                            {% if project_count1 > 3 %}
+                                            {% if project_count1 > 2 %}
                                               {% break %}
                                             {% endif %}
                                           {% endif %}
@@ -216,13 +217,14 @@ layout: default
 
                               {% assign recent_projects = site.tech-blog | concat: site.posts | sort: 'date' | reverse %}
                               {% assign project_count = 0 %}
-                              {% assign page_title = page.title %}
+                              {% assign page_title = page.Tool-name %}
                               {% for project in recent_projects %}
                                 {% if project.title contains page_title %}
 
                                 {% unless project.title == sorted_projects[0].title or project.title == sorted_projects[1].title or project.title == sorted_projects[2].title  %}
                         
                                   {% assign project_count = project_count | plus: 1 %}
+                                  
                                   {% include blocks/news-overflow.html %}
                                   
                                   {% if project_count > 8 %}
