@@ -3,34 +3,31 @@ title: HOT OpenSummit '23-24
 date: 2023-07-18 20:29:00 Z
 permalink: opensummit23-24
 summit-image: https://cdn.hotosm.org/website/opensummit-banner-2023-2024.png
-intro-text: |-
-  <h2>The HOT OpenSummit is excited to join:</h2><br>
-  <br>
-  <h4><a href="https://2023.stateofthemapnigeria.org/">State of the Map Nigeria</a>, Abuja, Nigeria: October 11-14, 2023</h4><br>
-  <h4><a href="https://2023.foss4g-oceania.org/">FOSS4G + SotM Oceania</a>, Auckland, New Zealand: October 16-20, 2023</h4><br>
-  <h4><a href="https://2023.abrelatam.org/">AbreLatam and ConDatos</a>, Montevideo, Uruguay. October 31 - November 03, 2023</h4><br>
-  <h4><a href="https://wiki.openstreetmap.org/wiki/OSM_Kerala_Community_Meetup_2022">OSM Kerala Annual Meet</a>, Kozhikode, India: November 04-05, 2023</h4><br>
-  <h4><a href="https://gisday.rootgis.org/">GIS Day Dar es Salaam</a>, Tanzania: November 15-16, 2023</h4><br>
-  <h4><a href="https://stateofthemap.asia/">FOSS4G Thailand + SotM Asia</a>, Bangkok, Thailand: November 16-18, 2023</h4><br>
-  <h4><a href="https://pistangmapa.org/2023/">Pista ng Mapa</a>, Tacloban City, Philippines: November 21-23, 2023</h4><br>
-  <h4><a href="https://foss4g.asia/2023/">FOSS4G Asia</a>, Seoul, Korea: November 28 - December 02, 2023</h4><br>
-  <h4><a href="https://2023.stateofthemap.africa/">State of the Map Africa</a>, Yaounde, Cameroon: November 31 - December 02, 2023</h4><br>
-  <h4><a href="https://wiki.openstreetmap.org/wiki/State_of_the_Map_Ethiopia_2023">State of the Map Ethiopia</a>, Addis Ababa, Ethiopia: December 15 - 16, 2023</h4><br>
-  <h4><a href="https://pgrsc.org/pacific-gis-rs-users-confrence/">Pacific Islands GIS & Remote Sensing Users Conference</a>, Suva, Fiji: November 27 - December 02, 2023</h4><br>
-  <h4><a href="https://blog.okfn.org/2024/02/28/and-the-winners-of-the-open-data-day-2024-mini-grants-are/">Open Data Day</a>, Multiple Locations: March 02-08, 2024</h4>
-  <br>
-  <h4><a href="https://www.climatejusticecamp.com/">Climate Justice Camp</a>, Sint Maarten: March 28-30, 2024</h4>
-  <br>
-  <h4>Education and Empowerment: A Practical Way of Eliminating Female Genital Mutilation and Accelerating Gender Equality, Nigeria: March 30, 2024</h4>
-  <br>
-  <h4><a href="https://sotm2024.geoar-tech.com/">State of the Map Madagascar</a>, Madagascar: April 29-30, 2024</h4>
-  <br>
-  <h4>State of the Map Malawi, Malawi: June 05-07, 2024</h4>
-  <br>
-
-  <h3>If you are interested in becoming a sponsor of the HOT OpenSummit, <a href="https://cdn.hotosm.org/website/s3://hotosm-cdn/website/OpenSummit+Sponsorship+Deck+Story+Board.pdf" target="_blank">click here for more information.</h4>
-
-  <br>
+intro-text: "<h2>The HOT OpenSummit is excited to join:</h2><br>\n<br> \n<h5>State
+  of the Map Malawi, Malawi: June 05-07, 2024</h5>\n<br>\n<h5><a href=\"https://sotm2024.geoar-tech.com/\">State
+  of the Map Madagascar</a>, Madagascar: April 29-30, 2024</h5>\n<br>\n<h5>Education
+  and Empowerment: A Practical Way of Eliminating Female Genital Mutilation and Accelerating
+  Gender Equality, Nigeria: March 30, 2024</h5>\n<br>\n<h5><a href=\"https://www.climatejusticecamp.com/\">Climate
+  Justice Camp</a>, Sint Maarten: March 28-30, 2024</h5>\n<br>\n<h5><a href=\"https://blog.okfn.org/2024/02/28/and-the-winners-of-the-open-data-day-2024-mini-grants-are/\">Open
+  Data Day</a>, Multiple Locations: March 02-08, 2024</h5>\n<br>\n<h5><a href=\"https://pgrsc.org/pacific-gis-rs-users-confrence/\">Pacific
+  Islands GIS & Remote Sensing Users Conference</a>, Suva, Fiji: November 27 - December
+  02, 2023</h5><br>\n<h5><a href=\"https://wiki.openstreetmap.org/wiki/State_of_the_Map_Ethiopia_2023\">State
+  of the Map Ethiopia</a>, Addis Ababa, Ethiopia: December 15 - 16, 2023</h5><br>\n<h5><a
+  href=\"https://2023.stateofthemap.africa/\">State of the Map Africa</a>, Yaounde,
+  Cameroon: November 31 - December 02, 2023</h5><br>\n<h5><a href=\"https://foss4g.asia/2023/\">FOSS4G
+  Asia</a>, Seoul, Korea: November 28 - December 02, 2023</h5><br>\n<h5><a href=\"https://pistangmapa.org/2023/\">Pista
+  ng Mapa</a>, Tacloban City, Philippines: November 21-23, 2023</h5><br>\n<h5><a href=\"https://stateofthemap.asia/\">FOSS4G
+  Thailand + SotM Asia</a>, Bangkok, Thailand: November 16-18, 2023</h5><br>\n<h5><a
+  href=\"https://gisday.rootgis.org/\">GIS Day Dar es Salaam</a>, Tanzania: November
+  15-16, 2023</h5><br>\n<h5><a href=\"https://wiki.openstreetmap.org/wiki/OSM_Kerala_Community_Meetup_2022\">OSM
+  Kerala Annual Meet</a>, Kozhikode, India: November 04-05, 2023</h5><br>\n<h5><a
+  href=\"https://2023.abrelatam.org/\">AbreLatam and ConDatos</a>, Montevideo, Uruguay.
+  October 31 - November 03, 2023</h5><br>\n<h5><a href=\"https://2023.foss4g-oceania.org/\">FOSS4G
+  + SotM Oceania</a>, Auckland, New Zealand: October 16-20, 2023</h5><br>\n<h5><a
+  href=\"https://2023.stateofthemapnigeria.org/\">State of the Map Nigeria</a>, Abuja,
+  Nigeria: October 11-14, 2023</h5><br>\n\n<h3>If you are interested in becoming a
+  sponsor of the HOT OpenSummit, <a href=\"https://cdn.hotosm.org/website/s3://hotosm-cdn/website/OpenSummit+Sponsorship+Deck+Story+Board.pdf\"
+  target=\"_blank\">click here for more information.</h4>\n\n<br>"
 block-0:
   Title: About HOT OpenSummit '23-24
   Text: "HOT's OpenSummit ‘23-24 is ON! \n\nGet ready for a year of global events
