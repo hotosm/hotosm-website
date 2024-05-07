@@ -40,6 +40,11 @@ Expanding on the comprehensive approach established in the Tefé project, the Co
 
 ![Imágenes blog (7).jpg](/uploads/Ima%CC%81genes%20blog%20(7).jpg)
 
+## **OUTCOME AND IMPACT**
+The aerial data collection has enhanced the monitoring of OSM's outdated data, particularly in the São Luís do Macarí community, which undergoes frequent landslides causing constant changes in its maps. Training local students has facilitated regular area monitoring, improving access for public bodies. This is crucial as children in this community, lacking a local school, must trek over 2 km through the forest during the dry season to reach their study location. The community has long suffered from landslides, making field data essential for analyzing and monitoring these events.
+
+Additionally, Brazilian researchers have developed and deployed low-cost GNSS technology to tackle outdated cartography issues, especially in remote regions like the Amazon. Supported by the Humanitarian OpenStreetMap Team and in collaboration with the Centro de Estudos Superiores de Tefé and Universidad do Estado do Amazonas, this technology provides millimeter-accurate data essential for drone mapping and cost-effective mapping projects. Despite challenges such as internet access in remote areas, these innovative methods show significant potential for local professionals and researchers to update geographic databases, enhance detailed mapping of erosion-prone areas, and engage communities in environmental management and disaster prevention. This technological progress strengthens local resilience and capacities.
+
 ## **LEASSONS LEARNED**
 The Collaborative Mapping Project of the Middle Solimões reiterates the significance of local engagement and collaboration to overcome cartographic challenges in the Brazilian Amazon. By employing innovative technologies and leveraging the OSM platform, the project not only aims to fill cartographic gaps but also seeks to empower local communities, preserve cultural and environmental diversity, and contribute to sustainable development in the region.
 
