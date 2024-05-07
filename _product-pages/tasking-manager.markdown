@@ -25,7 +25,7 @@ Block 2:
   Rectangle-2:
     Icon: fa-solid fa-download
     Header: Data Quality Assurance
-    Highlight:  It data quality by including a validation mechanism from experienced mappers, ensuring data completeness and accuracy.
+    Highlight:  The TM improves data quality by including a validation mechanism from experienced mappers, ensuring data completeness and accuracy.
   Rectangle-3:
     Icon: fa-solid fa-magnifying-glass-chart
     Header: Data Accessibility
