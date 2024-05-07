@@ -1,14 +1,15 @@
 ---
 title: Mapping for Climate Ready Cities - Latin America
 date: 2024-02-08 18:14:00 Z
-Project Summary Text: |-
-  Through our Mapping for Climate Ready Cities program, HOT is supporting the development of a thriving ecosystem focused on the creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions.
-
-
-  This page highlights our work in Latin America.
+Project Summary Text: Through the Mapping for Climate Resilient Cities Programme,
+  HOT is supporting the development of a thriving ecosystem focused on the creation,
+  interpretation, and use of maps to respond to and reduce climate risks in urban
+  areas across four priority regions in Latin America. In collaboration with the Open
+  Government Partnership (OGP), we are working with six municipalities and states
+  in Mexico, Ecuador, Chile, and Brazil.
+Feature Image: https://cdn.hotosm.org/website/Jamaica.JPG
 Impact Area:
 - Sustainable Cities & Communities
-Feature Image: https://cdn.hotosm.org/website/Jamaica.JPG
 Partner:
 - Open Government Partnership
 - GEOID
@@ -28,12 +29,37 @@ Tools:
 ---
 
 ## Summary
-This project builds upon HOT's work over the past two years with municipal and national governments in Latin America. We've collaboratively expanded local map data and technical competencies in government agencies, organizations, and universities, and installed support networks with universities. This project will focus on offering training for selected municipal governments throughout the region in partnership with the [Open Government Partnership](https://www.opengovpartnership.org/) (OGP) network. 
+This project builds upon HOT-LAC's previous two years of work, collaborating with local and national governments in Latin America. Its aim is to foster cooperation between these governments and civil society, universities, and citizens to gather data in a sustainable way. In this collaboration, we have expanded local cartographic data and technical skills across various institutions, and established support networks with universities.
+
+The main focus of this project will be to train selected local  governments across the region, in partnership with the [Open Government Partnership (OGP)](https://www.opengovpartnership.org/). We will use public engagement, data collection, and systemic changes to create strong networks around the data in these cities. These networks will be pivotal for inclusive planning aimed at improving environmental conditions and quality of life in previously underserved communities.
 
 This project will use public participation, data creation, and systemic reforms to generate experienced networks in these cities that will be the basis for inclusive planning for improving the living conditions in many communities that have been ignored until now.
 
 ## Background
-Most countries in the Latin America region have official national cartographic data sets that are incomplete, outdated, and unequal across their territory. This means that many of the localities that tend to be the most vulnerable and isolated are not represented on official maps. This, in turn, impedes evidence-based public planning, as well as the development of public policies to benefit these underrepresented communities.
+Most countries in Latin America face the challenge of having incomplete, outdated, and unequal national cartographic datasets, resulting in the exclusion of many vulnerable populations and isolated localities from official maps. This lack hampers evidence-based planning and the development of innovative and sustainable public policies to address the impacts of climate change on these underserved communities. Reasons are too wide gaps in territorial information, fast changes of land uses, and lack of resources, and technical capacities.
+
+The Climate Cities project in LAC is based on a solid experience in training and technical assistance to local governments in Latin America, focusing on data management for more efficient and resilient local policies. Long-term initiatives such as Open Cities in Tulum,  Mexico, and [Chimaltenango, Guatemala](https://www.hotosm.org/projects/opencities-guatemala-EN/) have laid the groundwork, followed in 2023 by the development of a comprehensive practical teaching method for municipalities in collaboration with Mexico's Ministry of Agrarian, Territorial, and Urban Development (SEDATU).
+
+In 2024, a collaboration was established with a new network of organizations and governments, the Open Government Partnership-Local, which issued a call for local governments to participate in similar training until achieving integrated results in current public policy processes and urban planning.
 
 ## Approach
-The [Latin America and Caribbean Hub](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/) (LAC Hub) will create a network with an initial group of selected municipalities within the Open Government Partnership network. The municipalities will be selected based on their level of need and priority for disaster risk issues, their commitment to follow an intensive one-term training curriculum, and their previous linkages with local universities in order to build a permanent relationship of support for students in careers related to territorial management.
+Through an open call in the OGP-Local network of local governments, the Latin America and the Caribbean Hub (LAC Hub) selected an initial group of municipalities based on their urgency in disaster risk and climate change adaptation issues, commitment to an intensive training program, and ability to involve a diverse government team.
+
+The Hub offers this training for free with the aim of formalizing the program and continuing its implementation through external funding. The training focus is on defining the specific needs of each municipality in terms of new geographic data and their effective management for local decision-making. A personalized training plan is developed for each locality, using open technologies from the OpenStreetMap ecosystem and promoting collaboration with local universities.
+
+At the end of the program, each municipality will have developed open information for  a real policy process, data communication methods, and analysis capabilities, resulting in a replicable model throughout the territory in relation to sustainable development policies. In addition to dissemination in government networks, the program acts as a breeding ground for ideas and methodologies to address municipal issues.
+
+## Expected Outcomes and Impacts
+Through the Mapping for Climate Resilient Cities Programme, our team aims to raise awareness and develop specific mapping technical skills in six local governments in Chile, Brazil, Ecuador, and Mexico. This will establish strong competencies that will endure in the administration and professional trajectories of its members in the government sector.
+
+We will start the construction or consolidation of beneficial relationships between these administrations and local universities through data collection practices. We seek to form a community that is trained and interested in keeping their local territorial data updated, which will continue to be promoted through ongoing contacts, such as public OpenStreetMap workshops and similar tools in the future.
+
+Currently, we are collaborating with six local governments as follows:
+* Chihuahua, Mexico: To be defined.
+* Quintana Roo, Mexico: Will map shelters during contingencies and over crucial infrastructure.
+* Quito, Ecuador: Will address the state of buildings in seismic contexts, conducting fieldwork to identify building cracks, affected areas, and collecting cadastral information.
+* Santo Domingo Tsáchilas, Ecuador: Will focus on diagnosing public services infrastructure in a remote and vulnerable locality, training staff to collect and process field data.
+* Maipú, Chile: Will conduct diagnostics on heat islands in the city and plan parks, aiming to improve air quality in cities and visualize this information in urban infrastructure.
+* Santa Catarina, Brazil: Will gather socioeconomic information  and access to health services. Training is underway on the use of the Kobo platform.
+
+The approach by working with these governments is to co-design each project and custom the testing and accompaniment through diagnostic sessions.
