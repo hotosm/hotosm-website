@@ -6099,7 +6099,22 @@ th, td {
   }
 }
 
+.block-data-solutions {
+  margin: 32px 150px 64px 150px;
+  @media (max-width: $screen-sm) {
+    margin: 0px 15px 0px 15px;
+  }
+}
 
+.block-data-solutions-title {
+  left: 100px;
+  @media (max-width: $screen-sm) {
+    left: 100px;
+  }
+  @media (max-width: $screen-xs) {
+    left: 0px;
+  }
+}
 
 .home-highlight4 {
   display: block;
