@@ -15,6 +15,9 @@ Impact Area:
 - Disasters & Climate Resilience
 Person:
 - Marina Aragão Santos
+Duration:
+  Start Date: 2023-01-15 00:00:00 Z
+  End Date: 2024-02-15 00:00:00 Z
 Tools:
 - tool: Tasking Manager
 - link: 

@@ -1,6 +1,6 @@
 ---
 title: Mapeamento Colaborativo e Inclusivo do Médio Solimões, Amazônia
-date: 2024-05-07 17:16:00 Z
+date: 2024-03-07 18:17:00 Z
 Project Summary Text: O Projeto de Mapeamento Colaborativo e Inclusivo do Médio Solimões
   é uma iniciativa desenvolvida em parceria entre pesquisadores da Universidade Federal
   de São João del-Rei, do Centro de Estudos Superiores de Tefé da Universidade do
@@ -18,6 +18,9 @@ Partner:
 - Federal University of São João del-Rei
 - The Higher Studies Center of Tefé at the University of the State of Amazonas
 - Civil Defense of Tefé
+Duration:
+  Start Date: 2023-01-15 00:00:00 Z
+  End Date: 2024-02-15 00:00:00 Z
 ---
 
 English version 
