@@ -34,7 +34,7 @@ Block 2:
     Highlight: "fAIr uses AI models by humanitarian OSM mappers to detect map features from open-source satellite and UAV imagery. It suggests additions to OSM without mass import, providing accurate feedback loops to enhance model intelligence through corrections by OSM mappers."
 Block 3:
   Header: "Why fAIr?"
-  Highlight: Tasking Manager allows multiple individuals to work simultaneously on the same overall area, enabling rapid completion of the project.
+  Highlight: f(AI)r puts control of the AI models and training directly at the hands of the mappers that use them for better and faster data creation
   Text: "HOT sees that mappers can, on average, map between 1000-1500 buildings per working day without AI assistance. During an AI-assisted mapping pilot (2019-2020) supported by Microsoft, 18 million building footprints were extracted from satellite imagery for all of Tanzania and Uganda. HOT discovered during this pilot that this **average mapping nearly doubled** to 2500-3000 buildings being added to OSM per day with the assistance of high-quality AI open-source datasets.
   fAIr seek to solve three foreseen problems:
   <br>
