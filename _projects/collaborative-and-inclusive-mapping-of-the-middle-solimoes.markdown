@@ -22,6 +22,8 @@ Tools:
 - link: 
 ---
 
+Versión en portugués
+
 ## **CONTEXT**
 Brazil, renowned for its vast territory and diverse ecosystems, houses the globally significant Amazon, a biodiversity reservoir. However, the Amazon's immense size leads to cartographic challenges, resulting in cartographic invisibility. This phenomenon has profound implications, impacting territorial rights, humanitarian aid distribution, and route planning efficiency.
 

@@ -20,6 +20,8 @@ Partner:
 - Civil Defense of Tefé
 ---
 
+English version 
+
 ## **CONTEXTO**
 O Brasil, conhecido por seu vasto território e ecossistemas diversos, abriga a Amazônia, um reservatório de biodiversidade de importância global. No entanto, o tamanho imenso da Amazônia gera desafios cartográficos, resultando em invisibilidade cartográfica. Esse fenômeno tem implicações profundas, afetando direitos territoriais, distribuição de ajuda humanitária e eficiência no planejamento de rotas.
 
