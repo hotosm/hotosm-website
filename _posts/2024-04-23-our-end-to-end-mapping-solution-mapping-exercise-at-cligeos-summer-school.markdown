@@ -169,7 +169,7 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 <div class="center">
     <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-fAIr.png" alt="fAIr results">
 </div>
-<figcaption align = "center"><h6>A HOT Staff member, Kshitij demonstrating how drone work <br> and how to capture imagery.</h6></figcaption><br>
+<figcaption align = "center"><h6>Localized AI Model created for the area <br> and how to capture imagery.</h6></figcaption><br>
 <br>
 
 
@@ -224,7 +224,7 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 <div class="center">
     <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-export-tool.png" alt="Export tool">
 </div>
-<figcaption align = "center"><h6>Export containing the data from the field survey</h6></figcaption><br>
+<figcaption align = "center"><h6>Export of the area of Interest</h6></figcaption><br>
 <br>
 
 
