@@ -10,7 +10,7 @@ Block 0:
 Block 1:
   Section: What is it?
   Header: The Field Mapping Tasking Manager (FMTM) helps teams add local knowledge to map features by coordinating mapping in the field.
-  Text: FMTM facilitates collaborative mapping by supporting and extending existing mature tools. The FMTM is a standalone mobile and web application that works using OpenDataKit (ODK), a powerful data collection platform that leverages commonly-available mobile Android devices to enable people to input information including geospatial data in the field.
+  Text: FMTM facilitates collaborative mapping by supporting and extending existing mature tools. The FMTM is a standalone mobile and web application that works using OpenDataKit (ODK), a powerful data collection platform that leverages commonly-available mobile Android devices to enable people to input information, including geospatial data in the field.
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Learn More
@@ -25,14 +25,14 @@ Block 2:
   Rectangle-2:
     Icon: fa-solid fa-magnifying-glass-chart
     Header: Data Quality Assurance
-    Highlight: Tasking Manager improves data quality by including a <strong>validation mechanism from the experienced mapper</strong>, that ensures data completeness and accuracy.
+    Highlight: FMTM improves data quality by including a validation mechanism that ensures data completeness and in﻿teroperability.
   Rectangle-3:
     Icon: fa-solid fa-download
-    Header: Data Accessibility
-    Highlight: FMTM improves data quality by including a validation mechanism, that ensures data completeness and in﻿teroperability.
+    Header: Field Data Collection
+    Highlight: "Unlike other ODK based platforms, FMTM is intended for adding attributes to existing geographical features such as buildings or Points of Interest (POIs)."
 Block 3:
   Header: "How does it work?"
-  Highlight: Mobile data collection and mapping works well with Open Data Kit (ODK), but coordination is challenging
+  Highlight: "Mobile data collection and mapping works well with Open Data Kit (ODK), but field coordination is challenging and FMTM addresses this issue"
   Text: "The FMTM was designed and built to facilitate mapping by large teams to cover urban areas effectively, efficiently, and with good quality. 
   <br>
   Using the FMTM, each mapper using ODK Collect on their mobile device can select—or be assigned—a single area at a time to map, with a specific set of features (such as buildings) to visit. They can easily see where they must go and which features they must visit to complete their “tasked” area. Since each task area is specifically defined by a boundary and/or a set of features, it’s easy to avoid missed areas or duplication (whereby more than one person visits the same structure)."
