@@ -4,10 +4,20 @@ date: 2018-02-06 15:16:00 Z
 position: 4
 Intro:
   Header: HOT and Open Source
-  Text: "In this page, you can explore those tools and identify which will work for your projects. All tools below are either open source, meaning the application’s use and development are freely available for any use, or relating to the promotion of open data. OpenStreetMap (OSM) and other recommended open geospatial tools are included to promote open and free mapping in all contexts, including limited resourced environments. HOT’s tools, which fill a niche in end to end mapping workflows, are marked."
-  Point1: We provide technological solutions to enable everyone to create and use open mapping data, and focus on how we can lower the barrier to entry for everyone to do so.
-  Point2: We do not build alone. We collaborate with volunteers, universities, Research Institutions, SMEs, internships, contractors and even large corporations.
-  Point3: We focus on key gaps in the current ecosystem that block community members in our target countries to map and use map data.
+  Text: In this page, you can explore those tools and identify which will work for
+    your projects. All tools below are either open source, meaning the application’s
+    use and development are freely available for any use, or relating to the promotion
+    of open data. OpenStreetMap (OSM) and other recommended open geospatial tools
+    are included to promote open and free mapping in all contexts, including limited
+    resourced environments. HOT’s tools, which fill a niche in end to end mapping
+    workflows, are marked.
+  Point1: We provide technological solutions to enable everyone to create and use
+    open mapping data, and focus on how we can lower the barrier to entry for everyone
+    to do so.
+  Point2: We do not build alone. We collaborate with volunteers, universities, Research
+    Institutions, SMEs, internships, contractors and even large corporations.
+  Point3: We focus on key gaps in the current ecosystem that block community members
+    in our target countries to map and use map data.
   Image: https://docs.hotosm.org/techdoc/overview/HOTInformationFlow.png
   Tools:
   - Name: Learn More
@@ -316,3 +326,4 @@ Overpass-turbo:
     URL: https://overpass-turbo.eu/
 layout: open-data-solutions
 ---
+

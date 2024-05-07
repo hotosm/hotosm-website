@@ -39,10 +39,6 @@ collections:
     title: Impact Areas
     output: true
     permalink: "/impact-areas/:path/"
-  product-pages:
-    title: Product Pages
-    output: true
-    permalink: "/tech-suite/:path/"
   jobs:
     title: Jobs
     output: true
@@ -65,6 +61,10 @@ collections:
     title: Press Releases
     output: true
     permalink: press-releases/:path/
+  product-pages:
+    title: Product Pages
+    output: true
+    permalink: "/tech-suite/:path/"
   programs:
     title: Programs
     output: true
