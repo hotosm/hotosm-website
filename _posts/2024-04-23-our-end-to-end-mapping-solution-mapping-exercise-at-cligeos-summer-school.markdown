@@ -1,6 +1,6 @@
 ---
 title: Our End-to-End Mapping Solution , Mapping exercise at CliGeos Summer School
-date: 2024-04-23 20:45:00 Z
+date: 2024-05-06 20:45:00 Z
 tags:
 - tech
 - e2e
