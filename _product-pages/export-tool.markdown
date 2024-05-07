@@ -9,8 +9,8 @@ Block 0:
   Image: "https://raw.githubusercontent.com/hotosm/osm-export-tool/master/ui/app/images/osm-buildings.png"
 Block 1:
   Section: What is it?
-  Header:  "The Export Tool is an open service that creates customized extracts of up-to-date OSM data in various file formats. Download and use the data simply by crediting the OpenStreetMap contributors."
-  Text: "Created by the Humanitarian OpenStreetMap Team (HOT) and Geofabrik, with funding from USAID and the World Bank, the tool enables users to more easily obtain access to OSM data. The HOT Exports tool has been utilized and shared all over the world, however there are a limited set of regions available for exporting data, designed roughly to encompass areas of the world where HOT and humanitarian aid users are most active."  
+  Header:  "The Export Tool is an open service that creates customized extracts of up-to-date OpenStreetMap (OSM) data in various file formats. Download and use the data simply by crediting the OSM contributors."
+  Text: "Created by the Humanitarian OpenStreetMap Team (HOT) and Geofabrik, with funding from USAID and the World Bank, the HOT Export Tool enables users to more easily obtain access to OSM data. It has been utilized and shared all over the world."  
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Learn More
@@ -21,15 +21,15 @@ Block 2:
   Rectangle-1:
     Icon: fa-solid fa-circle-nodes
     Header: Download the data
-    Highlight: Access up-to-date geospatial information from OpenStreetMap’s 1.3 million. Export and download maps in a variety of formats including OSM, ESRI Shapfile, SQLite, and Google Earth. Google Earth is a free downloadable program that anyone can use to access and customize existing geographic data. 
+    Highlight: "Access up-to-date geospatial information from OpenStreetMap’s 1.3 million users. Export and download maps in a variety of formats including OSM, ESRI Shapfile, SQLite, and Google Earth."
   Rectangle-2:
     Icon: fa-solid fa-download
     Header: OSM Features
-    Highlight: Customize your downloads to select from the thousands of features like roads, buildings, education, emergency, telecomunications, etc or download everything in an area. 
+    Highlight: Customize your downloads to select from the thousands of features like roads, buildings, education, emergency, telecommunications, etc. or download everything in an area. 
   Rectangle-3:
     Icon: fa-solid fa-circle-nodes
     Header: Data Accessibility
-    Highlight: Use the API for more flexibility, and connect your applications and software to OSM data directly to our database or simply download the data to use in your preferred GIS application. 
+    Highlight: Use the API for more flexibility and connect your applications and software to OSM data directly to our database. Or simply download the data to use in your preferred GIS application.
 Block 3:
   Header: "How does it work?"
   Highlight: "Export tool allows you to access data in less than 5 minutes by following the steps below:"
@@ -41,7 +41,7 @@ Block 3:
   <br>
   **2. Select the data**
 
-  You can select specific features, otherwise download all available OSM features within the area. You can utilize this Download all OSM data checkbox listed in the Data tab. This will include all tags in the attributes, allowing you to filter the data you need or create a basemap out of exported features. 
+  You can select specific features, or otherwise download all available OSM features within the area. You can utilize the“Download all OSM data” checkbox listed in the Data tab. This will include all tags in the attributes, allowing you to filter the data you need or create a basemap out of exported features. 
   <br>
   <br>
 
@@ -50,11 +50,12 @@ Block 3:
   <br>
   **3. Data quality**
 
-  The export tool has some metrics such as data completeness which gives you a quick peek about the area where you are planning to export! <br>
+  The export tool has  metrics such as data completeness, which gives you a quick peek of the area that you are planning to export!
+  <br>
   <br>  
-  **4. Select the format for download or APO**
+  **4. Select the format for download**
 
-  Select from formats like GeoJSON, Shapefile, Geopackage, Google Earth KML, Flatgeobuf, and CSV or use the API for faster outputs for those selected file formats and to connect to other applications."
+  Select from formats like GeoJSON, Shapefile, Geopackage, Google Earth KML, Flatgeobuf, and CSV or use the API for faster outputs and to connect to other applications."
   Image: "https://www.hotosm.org/uploads/export-tool-example.png" 
   Tools:
   - Name: Website
