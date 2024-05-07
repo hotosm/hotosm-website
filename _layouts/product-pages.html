@@ -1,0 +1,220 @@
+---
+layout: default
+---
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<div class="tools">
+
+
+  <!-- Banner -->
+
+                <a class="home-highlight4" style="padding-bottom: 2%;">
+                      <div>
+                        <img src="{{ page['Block 0'].Image }}"  style="max-width: 140%; filter: brightness(70%);">
+                      </div>
+                    <div class="home-highlight-title2" style="bottom: 50px; left: 100px;">
+                      <div class="container">
+                          <header class="tools-header header-subnav home-highlight-title3">
+                            <h1 style="color: white; font-family: Barlow Condensed, sans-serif; font-weight: bold; letter-spacing: .045em; line-height: 1.15; font-size: 4rem; text-transform: none;">{{ page.title }}</h1>
+                            <p style="font-size: 1.375rem;" >{{ page['Block 0'].Text }}</p>
+                          </header>
+                      </div>
+                    </div>
+                </a>
+
+
+
+
+  
+
+    <div class="program-body" style="padding-top: 1px">
+      <section class="article">
+        <h2 style="font-family: Barlow Condensed, sans-serif; font-size: 2.5rem;font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15;color: #D73F3F;" >{{  page['Block 1'].Section }}</h2>
+
+          <!-- Intro -->
+          <div style="padding-right: 35%;">
+
+            <h1 style="font-weight: bold; color: black; font-size: 1.25rem; line-height: 1.3;">{{ page['Block 1'].Header }}</h1>
+            <br>
+            <br>
+            <p>{{ page['Block 1'].Text | markdownify }}</p>
+            <br>
+          </div>
+          <!-- Uses and Icons -->
+
+          <div style="margin: 30px 0 0px; padding-top: 1px "></div>
+          <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2.5rem;">MAIN FEATURES</h2>
+              <div class="hr-h" style="margin: 10px 0 40px "></div>
+
+
+
+
+              <div class="project-index-all">
+
+                <div>
+                    <h1 style="color: black; font-weight: bolder;"><i class="{{ page['Block 2'].Rectangle-1.Icon }}" style="color: #D73F3F;"></i>&nbsp;  {{ page['Block 2'].Rectangle-1.Header }} </h1>
+                    <br>
+                    <p>{{ page['Block 2'].Rectangle-1.Highlight | markdownify}}</p>
+                </div>
+                <div>
+                  <h1 style="color: black; font-weight: bolder;"><i class="{{ page['Block 2'].Rectangle-2.Icon }}" style="color: #D73F3F;"></i>&nbsp;  {{ page['Block 2'].Rectangle-2.Header }} </h1>
+                  <br>
+                    <p>{{ page['Block 2'].Rectangle-2.Highlight | markdownify}}</p>
+                </div>
+                <div>
+                  <h1 style="color: black; font-weight: bolder;"><i class="{{ page['Block 2'].Rectangle-3.Icon }}" style="color: #D73F3F;"></i>&nbsp;  {{ page['Block 2'].Rectangle-3.Header }} </h1>
+                  <br>
+                    <p>{{ page['Block 2'].Rectangle-3.Highlight | markdownify}}</p>
+                </div>
+                
+            </div>
+          
+      </section>
+    </div>    
+
+<!-- <div class="hr-h"></div>  -->
+
+    <div class="module">
+
+      <div class="container container-tools" >
+
+        <div class="half-block-tools right" style="background-color: white;">
+          <div class="block-details">
+
+                  <div class="block-info">
+                      <h2 style="font-size: 2.5rem;" >{{  page['Block 3'].Header }}</h2>
+                        <h4 style="font-weight: bolder; font-size: 1.25rem;">{{ page['Block 3'].Highlight }}</h4>
+                        <br>
+                        <p>{{ page['Block 3'].Text | markdownify }}</p>
+                  </div>
+                          <div class="block-options">
+                            <ul>
+                              {% for tool in page['Block 3'].Tools %}
+                                <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
+                              {% endfor %}
+                            </ul>
+                          </div>
+                      </div>
+                        <div class="" style="padding: 5%; background-color: white;">
+                            <div class="block-screenshot-wrap" >
+                              <img style="display: block; height: 110%; width: 100%; object-fit: cover;" src="{{ page['Block 3'].Image }}">
+                            </div>
+                        </div>
+
+          </div>
+        </div>    
+      </div>
+    </div>
+
+
+             <div class="program-body" style="padding-top: 0.1px">
+              <section class="article">
+      
+
+                                <div style="margin: 30px 0 0px "></div>
+                                <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.25rem; color: black;">HIGHLITED PROJECTS</h2>
+                                <div class="hr-h" style="margin: 10px 0 40px "></div>
+
+                                    <div class="project-index-all">
+                
+
+
+
+                                      {% assign recent_projects = site.projects | sort:"date" | reverse %}
+                                      {% assign page_title = page.Tool-name %}
+                                      {% assign project_count1 = 0 %}
+                                        {% for project in recent_projects %}
+
+                                          {% if project.Tools[0].tool %}
+                                            {% for tool in project.Tools %}
+                                              {% if tool.tool contains page_title %}
+                                              {% assign project_count1 = project_count1 | plus: 1 %}
+
+
+                                                {% unless project.title == sorted_projects[0].title or project.title == sorted_projects[1].title or project.title == sorted_projects[2].title  %}
+                                            
+                                                        {% include blocks/project-thumb.html %}  
+                                            
+                                                {% endunless %}
+                                              
+                                              {% endif %}
+                                              
+                                            {% endfor %}
+                                            {% if project_count1 > 2 %}
+                                              {% break %}
+                                            {% endif %}
+                                          {% endif %}
+                                        {% endfor %}
+                                
+                                    </div>
+
+                              <article class="container-body-program project-item" style="padding-top: 1%; padding-bottom: 0%;">
+
+                                  <div class="next"><a href="/our-work" style="    text-align: right; font-weight: bolder; font-size: large;">Explore Other Projects →</a></div>
+                              
+                              </article>
+                            
+                                     
+              </section>
+          </div>    
+
+
+
+<!-- Tech blog and news -->
+
+
+    <div class="program-body" style="padding-top: 0px">
+      <section class="article">
+
+
+                        <!-- <div style="margin: 30px 0 0px "></div> -->
+                        <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.25rem; color: black;">RELATED NEWS</h2>
+                        <div class="hr-h" style="margin: 10px 0 40px "></div>
+
+                            <div class="project-index-all" style="background-color: whitesmoke; padding-left: 2%; padding-bottom: 1%;">
+
+
+
+
+                              {% assign recent_projects = site.tech-blog | concat: site.posts | sort: 'date' | reverse %}
+                              {% assign project_count = 0 %}
+                              {% assign page_title = page.Tool-name %}
+                              {% for project in recent_projects %}
+                                {% if project.title contains page_title %}
+
+                                {% unless project.title == sorted_projects[0].title or project.title == sorted_projects[1].title or project.title == sorted_projects[2].title  %}
+                        
+                                  {% assign project_count = project_count | plus: 1 %}
+                                  
+                                  {% include blocks/news-overflow.html %}
+                                  
+                                  {% if project_count > 8 %}
+                                  
+                                    {% break %}
+                                    
+                                  {% endif %}
+                                  
+                        
+                                {% endunless %}
+                                {% endif %}
+
+                              {% endfor %}
+                        
+                            </div>
+
+                        <article class="container-body-program project-item" style="padding-top: 1%; padding-bottom: 1%;">
+
+                          <div class="next"><a href="/tech-blog/index.html" style="text-align: right; font-weight: bolder; font-size: large;">Tech News Archive →</a></div>
+                      
+                      </article>
+                    
+                        <div class="hr-h"></div>
+                            
+      </section>
+    </div>  
+
+
+</div>
+
+<script src="https://kit.fontawesome.com/aa48057ccd.js" crossorigin="anonymous"></script>
