@@ -126,7 +126,7 @@ layout: default
 
     <div class="news-index-list">
 
-      {% for post in tech-blog offset:2 %}
+      {% for post in tech-blog offset:1 %}
       {% if post.tags contains 'tech' %}
       {% assign highlight_count_right = highlight_count_right | plus: 1 %}
 
