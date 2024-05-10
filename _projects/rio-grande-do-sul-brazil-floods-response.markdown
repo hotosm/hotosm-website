@@ -1,6 +1,9 @@
 ---
 title: Rio Grande do Sul, Brazil Floods Response
 date: 2024-05-10 03:20:00 Z
+Project Summary Text: The OSM Brazil Community, in coordination with the LAC Hub,
+  launched an activation to support response efforts after the natural hazard disaster
+  in Rio Grande do Sul, Brazil.
 Feature Image: "/uploads/05.05.2024_-_Sobrevoo_das_a%CC%81reas_afetadas_pelas_chuvas_em_Canoas_-_53700500641.jpg-9667a9.webp"
 Is image top aligned: false
 Is Community-Led: true
