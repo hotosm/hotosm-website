@@ -32,7 +32,7 @@ We also have opportunities to support field projects, both volunteer (remote) su
 <div class="anchor" id="software-engineers"></div>
 <h2>Software Engineers</h2>
 
-HOT builds and maintains over ten open source mapping tools. If you are a new or experienced software engineer, you can get involved in these open source projects. A good place to start is our [Tech repo](https://github.com/hotosm/tech) which serves as the coordinating place for technical activity across our tools. 
+HOT builds and maintains over ten open source mapping tools. If you are a new or experienced software engineer, you can get involved in these open source projects. A good place to start is is looking for "Good First issues" under our product repositories on [Github](https://github.com/hotosm/tech) which serves as the coordinating place for technical activity across our tools. 
 
 <a href="https://github.com/hotosm" class="btn btn-primary btn-lg btn-chevron">Access our GitHub page</a>
 
