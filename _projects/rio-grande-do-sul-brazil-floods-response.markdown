@@ -4,7 +4,7 @@ date: 2024-05-10 03:20:00 Z
 Project Summary Text: The OSM Brazil Community, in coordination with the LAC Hub,
   launched an activation to support response efforts after the natural hazard disaster
   in Rio Grande do Sul, Brazil.
-Feature Image: "/uploads/05.05.2024_-_Sobrevoo_das_a%CC%81reas_afetadas_pelas_chuvas_em_Canoas_-_53700500641.jpg-9667a9.webp"
+Feature Image: "/uploads/Rio%20Grande%20do%20Sul%20Floods%20Response%20in%20Brazil.jpg"
 Is image top aligned: false
 Is Community-Led: true
 Country:
