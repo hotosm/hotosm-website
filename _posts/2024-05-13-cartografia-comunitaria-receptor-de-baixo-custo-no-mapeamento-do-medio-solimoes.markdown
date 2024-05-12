@@ -13,7 +13,7 @@ Project:
 - Mapeamento Colaborativo e Inclusivo do Médio Solimões, Amazônia
 ---
 
-Em um mundo onde a precisão geográfica se torna cada vez mais vital, a iniciativa de Mapeamento Colaborativo do Médio Solimões destaca-se por sua abordagem inovadora e inclusiva. Desenvolvido em colaboração entre a Universidade Federal de São João del-Rei, o Centro de Estudos Superiores de Tefé na Universidade do Estado do Amazonas e o LAC Hub da HOT, este projeto utiliza a tecnologia GNSS de baixo custo para superar os desafios cartográficos da região.
+Em um mundo onde a precisão geográfica se torna cada vez mais vital, a iniciativa de Mapeamento Colaborativo do Médio Solimões destaca-se por sua abordagem inovadora e inclusiva. Desenvolvido em colaboração entre a [Universidade Federal de São João del-Rei](https://www.ufsj.edu.br/), o [Centro de Estudos Superiores de Tefé na Universidade do Estado do Amazonas](https://avauea.uea.edu.br/course/index.php?categoryid=210) e o LAC Hub da HOT, este projeto utiliza a tecnologia GNSS de baixo custo para superar os desafios cartográficos da região.
 
 Neste blog final, nossas pesquisadoras Silvia Elena Ventorini, Ana Luísa Teixeira e Rafael Quetz Oliveira compartilham insights valiosos sobre as metodologias empregadas e os resultados obtidos, iluminando o caminho para futuras iniciativas de mapeamento colaborativo na Amazônia.
 
