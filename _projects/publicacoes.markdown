@@ -18,6 +18,8 @@ Impact Area:
 
 Eles vão do mais recente para o mais antigo.
 
+13/05/2024 - [Cartografia Comunitária: Receptor de baixo custo no mapeamento do Médio Solimões](https://www.hotosm.org/updates/cartografia-comunitaria-receptor-de-baixo-custo-no-mapeamento-do-medio-solimoes/)
+
 29/11/2023 - [Canoa de Tolda no Fórum de Paz de Paris 2023](https://www.hotosm.org/updates/canoa-de-tolda-no-forum-de-paz-de-paris-2023/)
 
 28/09/2023 - [De la reacción a la prevención: Mapeo de riesgos en Ecuador](https://www.hotosm.org/updates/de-la-reaccion-a-la-prevencion-mapeo-de-riesgos-en-ecuador/)
