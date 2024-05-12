@@ -13,6 +13,8 @@ Project:
 - Collaborative and Inclusive Mapping of the Middle Solimões, Amazon
 ---
 
+> [Versão em Português](https://www.hotosm.org/updates/cartografia-comunitaria-receptor-de-baixo-custo-no-mapeamento-do-medio-solimoes/) / [English version](https://www.hotosm.org/updates/community-cartography-low-cost-gnss-receiver-in-the-mapping-of-medio-solimoes/)
+
 En un mundo donde la precisión geográfica se vuelve cada vez más vital, la iniciativa de Mapeo Colaborativo del Medio Solimões se destaca por su enfoque innovador e inclusivo. Desarrollado en colaboración entre la [Universidad Federal de São João del-Rei](https://www.ufsj.edu.br/), el [Centro de Estudios Superiores de Tefé en la Universidad del Estado de Amazonas](https://avauea.uea.edu.br/course/index.php?categoryid=210) y el LAC Hub de HOT, este proyecto utiliza tecnología GNSS de bajo costo para superar los desafíos cartográficos de la región.
 
 En este blog final, nuestras investigadoras Silvia Elena Ventorini, Ana Luísa Teixeira y Rafael Quetz Oliveira comparten valiosos insights sobre las metodologías empleadas y los resultados obtenidos, iluminando el camino para futuras iniciativas de mapeo colaborativo en la Amazonia.
