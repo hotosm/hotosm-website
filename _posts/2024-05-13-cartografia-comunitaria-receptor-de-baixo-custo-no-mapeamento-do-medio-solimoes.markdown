@@ -7,6 +7,10 @@ Summary Text: Explore como a tecnologia GNSS de baixo custo está revolucionando
   participativa, melhorando a gestão de recursos e a resiliência das comunidades ribeirinhas
   na Amazônia Brasileira.
 Feature Image: "/uploads/Mapeamento%20do%20Me%CC%81dio%20Solimo%CC%83es.jpg"
+Person:
+- Silvia Elena Ventorini
+- Ana Luísa Teixeira
+- Rafael Quetz Oliveira
 Country:
 - Brazil
 Project:
@@ -14,7 +18,6 @@ Project:
 ---
 
 > [English version](https://www.hotosm.org/updates/community-cartography-low-cost-gnss-receiver-in-the-mapping-of-medio-solimoes/) / [Versión en Español](https://www.hotosm.org/updates/cartografia-comunitaria-receptor-de-bajo-costo-en-el-mapeo-del-medio-solimoes/)
-
 
 Em um mundo onde a precisão geográfica se torna cada vez mais vital, a iniciativa de Mapeamento Colaborativo do Médio Solimões destaca-se por sua abordagem inovadora e inclusiva. Desenvolvido em colaboração entre a [Universidade Federal de São João del-Rei](https://www.ufsj.edu.br/), o [Centro de Estudos Superiores de Tefé na Universidade do Estado do Amazonas](https://avauea.uea.edu.br/course/index.php?categoryid=210) e o LAC Hub da HOT, este projeto utiliza a tecnologia GNSS de baixo custo para superar os desafios cartográficos da região.
 

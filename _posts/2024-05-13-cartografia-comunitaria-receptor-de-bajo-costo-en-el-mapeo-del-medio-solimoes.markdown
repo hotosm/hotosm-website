@@ -7,6 +7,10 @@ Summary Text: Explora cómo la tecnología GNSS de bajo costo está revolucionan
   participativa, mejorando la gestión de recursos y la resiliencia de las comunidades
   ribereñas en la Amazonía Brasileña.
 Feature Image: "/uploads/Mapeamento%20do%20Me%CC%81dio%20Solimo%CC%83es.jpg"
+Person:
+- Silvia Elena Ventorini
+- " Ana Luísa Teixeira"
+- Rafael Quetz Oliveira
 Country:
 - Brazil
 Project:
