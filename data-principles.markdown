@@ -8,35 +8,15 @@ Intro Text: HOT's Community Microgrant program provides support for OpenStreetMa
   implement their mapping activities, improve the availability and quality of map
   data in OSM, aid the development of leadership and technology skills, and help communities
   with disaster response efforts.
-Intro:
-  Header: HOT and Open Source
-  Bold: "At HOT, open mapping communities and program teams face unique challenges in how we work with data"
-  Text: ""
-  Point1: We provide technological solutions to enable everyone to create and use
-    open mapping data, and focus on how we can lower the barrier to entry for everyone
-    to do so.
-  Point2: We do not build alone. We collaborate with volunteers, universities, Research
-    Institutions, SMEs, internships, contractors and even large corporations.
-  Point3: We focus on key gaps in the current ecosystem that block community members
-    in our target countries to map and use map data.
-  Image: https://docs.hotosm.org/techdoc/overview/HOTInformationFlow.png
-  Tools:
-  - Name: Learn More
-    URL: "/tech-suite/field-mapping-tasking-manager/"
-Field-mapping-image: https://cdn.hotosm.org/website/FMTM-Explanation.jpg
-Field-mapping-image-alternative: https://cdn.hotosm.org/website/Ramani+Huria+TZ+2-5d464a.jpg
-Section-imagery:
-  Image: https://cdn.hotosm.org/website/Map+Makoko+1.jpeg
-Section-field:
-  Image: https://cdn.hotosm.org/website/DataCollection.jpeg
-Section-remote:
-  Image: https://cdn.hotosm.org/website/FMTM-Explanation.jpg
-Section-analysis:
-  Image: https://cdn.hotosm.org/website/1_3FHXUekE4B7a90ZFaGUu7Q.png
-Section-visualization:
-  Image: https://cdn.hotosm.org/website/Map_Final.jpg
-Section-data-access:
-  Image: https://cdn.hotosm.org/website/Export+Tool+Blog+2.png
+Leading-image: https://cdn.hotosm.org/website/OpenCities+Guatemala.png
+Open-accessible:
+  Image: https://cdn.hotosm.org/website/odk+training.jpg
+Useful-usable:
+  Image: https://cdn.hotosm.org/website/Accra+Lead+Image+Larger.JPG
+Inclusive-representative:
+  Image: https://cdn.hotosm.org/website/OpenCities+Guatemala.png
+Ethical-data-protection:
+  Image: https://cdn.hotosm.org/website/Open+Cities+Guatemala+Community+Field+Trip.jpg
 layout: data-principles
 ---
 At HOT, open mapping communities and program teams face  unique challenges in how we work with data:
