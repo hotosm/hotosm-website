@@ -19,6 +19,8 @@ Impact Area:
 
 **Posts are in reverse chronological order**
 
+13/05/2024 - [Community Cartography: Low-Cost GNSS Receiver in the Mapping of Medio Solimões](https://www.hotosm.org/updates/community-cartography-low-cost-gnss-receiver-in-the-mapping-of-medio-solimoes/)
+
 25/03/2024 - [Coordination and Action: The Articulation of Humanitarian Mapping Response after Hurricane Otis](https://www.hotosm.org/updates/coordination-and-action-the-articulation-of-humanitarian-mapping-response-after-hurricane-otis/)
 
 07/03/2024 - [Mapping Our Community: Paula dos Santos Silva's Journey in the Amazon](https://www.hotosm.org/updates/mapping-our-community-paula-dos-santos-silvas-journey-in-the-amazon/)

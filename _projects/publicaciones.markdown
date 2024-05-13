@@ -19,6 +19,8 @@ Impact Area:
 
 Van de la más reciente a la más antigua.
 
+13/05/2024 - [Cartografía Comunitaria: Receptor de Bajo Costo en el Mapeo del Medio Solimões](https://www.hotosm.org/updates/cartografia-comunitaria-receptor-de-bajo-costo-en-el-mapeo-del-medio-solimoes/)
+
 25/03/2024 - [Coordinación y Acción: La Articulación de la Respuesta de Mapeo Humanitario tras el Huracán Otis](https://www.hotosm.org/updates/coordinacion-y-accion-la-articulacion-de-la-respuesta-de-mapeo-humanitario-tras-el-huracan-otis/)
 
 07/03/2024 - [Mapeando nuestra comunidad: el viaje de Paula dos Santos Silva en la Amazonía](https://www.hotosm.org/updates/mapeando-nuestra-comunidad-el-viaje-de-paula-dos-santos-silva-en-la-amazonia/)
