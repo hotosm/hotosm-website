@@ -8,7 +8,7 @@ Intro Text: HOT's Community Microgrant program provides support for OpenStreetMa
   implement their mapping activities, improve the availability and quality of map
   data in OSM, aid the development of leadership and technology skills, and help communities
   with disaster response efforts.
-Leading-image: https://cdn.hotosm.org/website/OpenCities+Guatemala.png
+Leading-image: https://cdn.hotosm.org/website/Mapillary+Imagery+Liberia.png
 Open-accessible:
   Image: https://cdn.hotosm.org/website/odk+training.jpg
 Useful-usable:
