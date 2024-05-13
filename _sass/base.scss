@@ -2746,6 +2746,17 @@ $bg-color: rgb(100,100,100);
       }
     }
   }
+  .program-summary {
+    grid-column: 1 / -1;
+    margin-bottom: 16px;
+    p {
+      font-size: 1.25rem;
+      color: $black;
+      @media (min-width: $screen-sm) {
+        font-size: 1.5rem;
+      }
+    }
+  }
   .project-feature-image {
     grid-column: 1 / -1;
     width: 100%;
@@ -3032,6 +3043,11 @@ h7 {
       margin-bottom: 14px;
     }
   }
+}
+
+.program-countries {
+  display: inline;
+  margin-left: 4px;
 }
 
 .iframe-container{

@@ -119,13 +119,13 @@ layout: default
             </p>
 
             <!--** Coverage -->
-            <div class="project-header-meta">
+            <div class="project-header-meta" style="margin-bottom: 14px;">
 
                 <p class="project-involvement" style="color: #D73F3F;">
                      Coverage
                 </p>
                 {% if page.Country[0] != '' %}
-                <p class="project-countries">
+                <p class="program-countries">
 
                     {% for page-country in page.Country %} {% for country in site.where-we-work %}
                     {% if page-country == country.title %}
@@ -148,7 +148,7 @@ layout: default
                      Impact Areas
                 </p>
                 {% if page.impact-area [0] != '' %}
-                <p class="project-countries">
+                <p class="program-countries">
                     {% for area in page['Impact Area'] %} {% for impact-area in site.impact-areas %}
                     {% if area == impact-area.title %}
                     <span class="project-country"><a href="{{ impact-area.url }}">{{ impact-area.title }}</a></span> {% endif %}
@@ -168,10 +168,10 @@ layout: default
                     <p class="project-involvement" style="color: #D73F3F;">
                         Partners
                     </p>
-                    <p class="project-countries">
+                    <p class="program-countries">
 
                             {% for page-partner in page.Partner %} 
-                            <span >{{ page-partner }} - </span>
+                            <span class="project-country" style="color:#4c4f56;">{{ page-partner }} </span>
                             {% endfor %} 
                     </p>
                     {% else %}
@@ -237,7 +237,7 @@ layout: default
         
                 
                     <div class="pro-summary-wrap">
-                        <div class="project-summary" style="color: black;">
+                        <div class="program-summary" style="color: black;">
                             {% if page.Narrative-section.Narrative-intro-text %}
                             {{ page.Narrative-section.Narrative-intro-text | markdownify }}
                         </div>

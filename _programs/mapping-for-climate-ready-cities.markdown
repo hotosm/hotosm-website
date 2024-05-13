@@ -24,7 +24,6 @@ Partner:
 - UN-Habitat
 - Start Network
 - Save the Children UK
-- 
 Duration:
   Start Date: 2024-01-01 00:00:00 Z
   End Date: 2025-12-31 00:00:00 Z
@@ -66,10 +65,10 @@ Figcaption: Through our <strong>Mapping for Climate-Ready Cities program</strong
   in densely populated urban areas.
 Narrative-section:
   Narrative-title: Map Data for Anticipatory Action
-  Narrative-intro-text: <a>Anticipatory action serves as a crucial link between long-term
+  Narrative-intro-text: Anticipatory action serves as a crucial link between long-term
     disaster risk reduction and immediate humanitarian response, particularly amidst
-    the compounded threats of climate change and disasters.</a> <a href="https://www.fao.org/documents/card/en/c/cb7145en">According
-    to the Food and Agriculture Organization (FAO)<a>, every dollar invested in anticipatory
+    the compounded threats of climate change and disasters. <a href="https://www.fao.org/documents/card/en/c/cb7145en">According
+    to the Food and Agriculture Organization (FAO)</a>, every dollar invested in anticipatory
     action could give families seven dollars in benefits and avoid losses. However,
     **anticipatory action efforts in vulnerable areas are hindered by a lack of data.**
   Narrative-text: "**HOT’s Mapping for Climate-Ready Cities program** will make open
