@@ -18,7 +18,7 @@ Block 1:
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Learn More
-    URL: https://fmtm.dev/
+    URL: https://tasks.hotosm.org/
 Block 2:
   Header: 
   Text: 
