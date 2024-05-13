@@ -108,7 +108,18 @@ layout: default
     <div class="project-index-highlights">
 
       {% assign sorted_projects = site.projects | sort:"position" %}
-      {% for project in sorted_projects limit:3 %}
+      {% for project in sorted_projects limit:2 %}
+        {% include blocks/project-highlight.html %}
+      {% endfor %}
+
+    </div>
+
+    <h6>Highlighted Projects</h6>
+
+    <div class="project-index-highlights">
+
+      {% assign sorted_projects = site.programs | sort:"position" %}
+      {% for project in sorted_projects limit:1 %}
         {% include blocks/project-highlight.html %}
       {% endfor %}
 
