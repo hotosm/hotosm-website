@@ -27,7 +27,7 @@ Fair:
   - Name: Learn More
     URL: https://fair-dev.hotosm.org/
 Export-tool:
-  Header: HOT Export Tools
+  Header: HOT Export Tool
   Text: The HOT Export Tool is an open service that creates customized extracts of
     up-to-date OSM data in various file formats, such as ESRI shapefiles (.shapefile),
     google KML (.kml), GeoPackage (.gpkg) dan MBTiles (.mbtiles).

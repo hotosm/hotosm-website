@@ -6099,6 +6099,60 @@ th, td {
   }
 }
 
+.half-block-tools-data-principles {
+  display: grid;
+  @media (max-width: $screen-sm) {
+    display: inline;
+    padding-bottom: 0px;
+  }
+  @media (max-width: $screen-xs) {
+    display: inline;
+    padding-bottom: 0px;
+  }
+  .block-details-data-principles {
+    padding: 20px;
+    grid-row: 1 / -1;
+    @media (max-width: $screen-sm) {
+      padding: 64px;
+    }
+    @media (max-width: $screen-xs) {
+      padding: 32px;
+    }
+  }
+}
+
+.block-data-solutions {
+  margin: 32px 150px 64px 150px;
+  @media (max-width: $screen-sm) {
+    margin: 0px 15px 0px 15px;
+  }
+}
+
+.data-principles-right-block {
+  padding-bottom: 20%;
+  padding-top: 30%;
+  @media (max-width: $screen-sm) {
+    padding-bottom: 0%;
+    padding-top: 0%;
+  }
+  @media (max-width: $screen-xs) {
+    padding-bottom: 0%;
+    padding-top: 0%;
+  }
+}
+
+.data-principles-left-block {
+  padding-bottom: 20%;
+  @media (max-width: $screen-sm) {
+    padding-bottom: 0%;
+    padding-top: 0%;
+  }
+  @media (max-width: $screen-xs) {
+    padding-bottom: 0%;
+    padding-top: 0%;
+  }
+}
+
 .block-data-solutions {
   margin: 32px 150px 64px 150px;
   @media (max-width: $screen-sm) {

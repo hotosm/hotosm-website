@@ -33,8 +33,8 @@ Block 999:
   Tools:
   - Name: GitHub Repo
     URL: https://github.com/hotosm
-  - Name: HOT Docs Index
-    URL: https://docs.hotosm.org/
+  - Name: Data Principles
+    URL: "/tools-and-data/data-principles/"
 Block 1:
   Header: Open Data Solutions
   Text: Join the global movement towards free and open geographic data! <br> We have

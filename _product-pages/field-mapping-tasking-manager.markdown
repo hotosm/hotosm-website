@@ -19,7 +19,7 @@ Block 1:
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Learn More
-    URL: https://tasks.hotosm.org/
+    URL: https://fmtm.dev/
 Block 2:
   Header: Field Data Collection
   Text: Unlike other ODK based platforms, FMTM is intended for adding attributes to
@@ -55,7 +55,7 @@ Block 3:
   Image: https://cdn.hotosm.org/website/FMTM-Explanation.jpg
   Tools:
   - Name: Website
-    URL: https://tasks.hotosm.org/
+    URL: https://fmtm.hotosm.org/
   - Name: TM GitHub
     URL: https://github.com/hotosm/tasking-manager
   - Name: Learn More
