@@ -19,6 +19,7 @@ Ethical-data-protection:
   Image: https://cdn.hotosm.org/website/Open+Cities+Guatemala+Community+Field+Trip.jpg
 layout: data-principles
 ---
+
 At HOT, open mapping communities and program teams face  unique challenges in how we work with data:
 
 - Using the OpenStreetMap platform allows for greater reach and accessibility of data, which is at the heart of our work. However, this can  lead to unintended exposure to risk and the potential for misuse of data. As a result,  we need to identify and mitigate any potential risks and harm.
