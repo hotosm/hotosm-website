@@ -327,7 +327,7 @@ layout: default
                             <!-- Carousel wrapper -->
                             <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
 
-                                {% for project in page['Block 2'].Project limit:2 %}
+                                {% for project in page['Block 2'].Project limit:3 %}
                                     {% comment %}
                                     {% endcomment %}
 
@@ -402,7 +402,7 @@ layout: default
                 <div class="hr-h" style="margin: 10px 0 40px "></div>
 
                 <div class="project-index-all">
-                        {% for project in page['Block 2'].Project offset:2 %}
+                        {% for project in page['Block 2'].Project offset:3 %}
                             {% comment %}{% endcomment %}
 
                                 {% for p in site.projects %}
