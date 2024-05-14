@@ -5,6 +5,7 @@ date: 2022-08-24 10:05:00 Z
 tags:
 - ODK
 - Tasking Manager
+- tech
 Summary Text: Field mapping by local people is key to the future of open mapping.
   However, the tools available for field mapping—despite many being of high quality—do
   not form a coherent ecosystem to unleash the potential of community field mapping.

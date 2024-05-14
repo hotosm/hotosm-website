@@ -22,7 +22,7 @@ tm_campaigns:
 - https://tasks.hotosm.org/explore?campaign=2024+Rio+Grande+do+Sul+Floods
 ---
 
-### Mapping projects for this activation](https://tasks.hotosm.org/explore?campaign=2024+Rio+Grande+do+Sul+Floods)
+### [Mapping projects for this activation](https://tasks.hotosm.org/explore?campaign=2024+Rio+Grande+do+Sul+Floods)
 
 ### [Wiki page for this activation](https://wiki.openstreetmap.org/wiki/2024_Rio_Grande_do_Sul_Floods)
 
