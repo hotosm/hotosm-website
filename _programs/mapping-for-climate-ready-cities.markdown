@@ -49,7 +49,8 @@ Block 2:
   Figcaption: Crowdsourcing Non-Camp Refugee Services Data - March 2018
   Project:
   - Mapping for Climate Ready Cities - Latin America
-  - Mapping for Climate Ready Cities - West and Northern Africa
+  - Mapping for Climate Ready Cities - Liberia and Sierra Leone
+  - Mapping for Climate Ready Cities - Nigeria and Ivory Coast
   - Mapping for Climate Ready Cities - East and Southern Africa
   - Mapping for Climate Ready Cities - Dhaka
   - Mapping for Climate Ready Cities - Jumla
