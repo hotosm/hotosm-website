@@ -28,7 +28,7 @@ Participando en el concurso, tendrás acceso a capacitaciones, acompañamiento y
 
 Conoce algunos de los proyectos educativos que han formado parte e, ¡inspírate!
 
-## Argentina
+# Argentina
 ### CEI San Ignacio, Junín de los Andes
 ![CEI - San Ignacio.jpg](/uploads/CEI%20-%20San%20Ignacio.jpg)
 
@@ -39,7 +39,7 @@ Utilizamos la herramienta iD Editor para editar en OpenStreetMap, la Wikipedia d
 
 Los estudiantes han utilizado la herramienta Kobo Toolbox para recopilar datos de los visitantes en el Parque Nacional Nahuel Huapi, apoyando decisiones operativas y ofreciendo experiencia práctica en turismo y gestión de datos.
 
-## Perú
+# Perú
 ### GAL School, Cusco
 ![GAL School.jpg](/uploads/GAL%20School.jpg)
 
