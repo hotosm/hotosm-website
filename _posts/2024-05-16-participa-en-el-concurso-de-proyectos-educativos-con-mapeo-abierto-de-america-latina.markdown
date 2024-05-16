@@ -55,9 +55,7 @@ A través de nuestra experiencia, hay algunas dudas comunes que surgen al empeza
 
 ¡No! Te garantizamos que estas herramientas están diseñadas para ser sencillas y adecuadas para todo tipo de público. Contarás con nuestro apoyo para guiarte paso a paso, resolver tus dudas y crear vínculos humanos durante el proceso. Este concurso no solo ofrece una oportunidad única para tus estudiantes, sino que también permite a los docentes ser parte de una red educativa que trasciende fronteras geográficas.
 
-Para más información y para comenzar un diálogo sin compromisos, completa el siguiente formulario (toma máximo 5 minutos):
-
-> https://forms.gle/Siqg4L5ZrxoAzUMW9
+Para más información y para comenzar un diálogo sin compromisos, completa el siguiente formulario (toma máximo 5 minutos): *[https://forms.gle/Siqg4L5ZrxoAzUMW9](https://forms.gle/Siqg4L5ZrxoAzUMW9)*
 
 # ¡Conoce todo sobre el proyecto!
 
