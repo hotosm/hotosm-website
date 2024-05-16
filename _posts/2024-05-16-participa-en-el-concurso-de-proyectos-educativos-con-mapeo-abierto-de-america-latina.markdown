@@ -11,6 +11,8 @@ Person:
 - Tim DeWinter
 - Constanza Petrazzini
 - Mariana Marín
+Country:
+- América Latina y el Caribe
 Project:
 - Open Mapping for All
 Project-2:
