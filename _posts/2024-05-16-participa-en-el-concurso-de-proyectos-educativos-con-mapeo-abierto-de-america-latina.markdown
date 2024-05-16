@@ -13,6 +13,9 @@ Person:
 - Mariana Marín
 Project:
 - Open Mapping for All
+Project-2:
+  Call to Action: Register
+  URL: https://forms.gle/Siqg4L5ZrxoAzUMW9
 ---
 
 A través del programa [Open Mapping for All](https://www.hotosm.org/projects/open-mapping-for-all/), te invitamos a explorar nuevas formas de captar la atención de tus estudiantes utilizando herramientas de mapeo abierto, que son sencillas, divertidas e interactivas. Este enfoque permite abordar una variedad de temas locales de manera autónoma y creativa.
