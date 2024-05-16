@@ -1,5 +1,21 @@
 ---
-title: Rio Grande do Sul, Brazil Floods
+title: 2024 Rio Grande do Sul Floods
+Glide:
+- FL-2024-000063-BRA
+GDACS: FL 1102592
+Event Name: "Brazil: Floods - Jan 2024"
+Country: Brazil
+Event type: Fl Flood
+Summary Text: This is an activation led by Lac Hub for the Brazul Floods of 2024.
+Feature Image: Fl Flood
+Post-type: timeline
+Campaign: <a href="https://tasks.hotosm.org/explore?campaign=2024%20Rio%20Grande%20do%20Sul%20Floods&omitMapResults=1">Brazil</a>
+Tracking: 2024_brrs_floods
+Report: available
+HDX: ' <a href="https://data.humdata.org/organization/hot?q=brazil&ext_page_size=25">Brazil</a>'
+Resources: N/A
+Status: size-up
+Wiki: https://wiki.openstreetmap.org/wiki/2024_Rio_Grande_do_Sul_Floods
 date: 2024-05-09 21:13:00 Z
 ---
 
