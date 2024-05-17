@@ -14,7 +14,7 @@ HDX: <a href="https://data.humdata.org/organization/hot?q=philippines">Philippin
 Resources: N/A
 Campaign: Tropical Cyclone Odette 2021
 Status: size-up
-Timeline: '16 December 2021 - 21 February 2021'
+Timeline: 16 December 2021 - 21 February 2021
 Size-up: https://www.hotosm.org/disaster-services/tropical-cyclone-odette-slash-rai-size-up/
 Wiki-page: N/A
 GDACS ID: TC 1000853

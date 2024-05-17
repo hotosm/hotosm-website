@@ -39,7 +39,6 @@ GDACS Alert Lvl.: Orange (1.8)
 Report: available
 ---
 
-
 <h2>Context</h2>
 
 "A magnitude 6.6 earthquake hit western province of İzmir, Turkey on Friday October 30, 2:51 pm local time. The European-Mediterranean Seismological Centre said the quake had an epicentre 13 km northeast of the Greek island of Samos. The quake has left severe damage to the structures and infrastructures in different areas of Bornova and Bayraklı regions of the city, pushing the residents to flee in panic into the streets. At least 17 buildings have been reported collapsed and several others damaged. Turkish Interior Ministry announced that earthquake caused 21 lives and injured 799 others."
