@@ -1,7 +1,6 @@
 ---
 title: Public Health (Sunnu Wer Gi Yaram)
 date: 2024-05-17 16:53:00 Z
-published: false
 Project Summary Text: In partnership with Marie Stopes Senegal, the project worked
   with the Matam regional health authority to map out maternity healthcare services.
   Healthcare partners in Senegal have been facing challenges in accessing reliable
@@ -52,3 +51,39 @@ What methodologies did we use?
 * Data analysis and map product development
 * Capacity building of technical stakeholders and local community youth
 
+What tools were used:
+* Tasking Manager - was used for remote mapping activity
+* Central Server - ODK Central server was used to authenticate store data
+* JOSM- was used for data cleaning and validation
+* Quantum GIS - QGIS was used for data analysis and visualization
+* Open DataKit - was used for field data collection
+What datasets were collected, etc.
+
+What datasets were collected:
+Maternity information (drug distribution, patients, doctors, schedules)
+Health facilities  (building, type, power, water, management, solid waste management, etc)
+infrastructure (clinics, pharmacies, health boxes, health posts, hospitals)
+ Place names
+Roads and waterways
+
+Based on the data use cases and needs, information related to maternity treatment were collected. These datasets were cleaned, analyzed, and provided to Marie Stopes and the Health Authority of the Matam Region. Only non-identifiable datasets were uploaded to OSM and included in the general maps developed.
+
+## Outcome and Impact
+
+The project contributed:
+* 93,286 buildings, 
+* 1,803 KM2 of roads
+* 2 hospitals, 
+* 6 health centers
+* 104 health posts
+* 68 health boxes
+* 2 clinics
+* 28 pharmacies
+
+![Senegal20223.png](/uploads/Senegal20223.png)
+
+## Next Steps and Lessons Learned
+
+Marie Stopes and the Regional health authority of Matam are supporting the regional healthcare programs based on the datasets and information provided by the project.
+
+The success of this project was mainly due to Marie Stopes's involvement as a key healthcare provider and the buy-in from the local healthcare authority. Crucial factors for achieving success include planning, executing, and communicating promptly. All stakeholders took on some form of responsibility for the project and supported every aspect of its implementation.
