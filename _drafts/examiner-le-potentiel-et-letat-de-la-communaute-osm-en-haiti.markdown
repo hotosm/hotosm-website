@@ -1,12 +1,13 @@
 ---
 title: Examiner le potentiel et l'état de la communauté OSM en Haïti
-date: 2024-05-18 01:41:00 Z
+date: 2024-05-20 01:41:00 Z
 Summary Text: Explorez le potentiel et l'état actuel de la communauté OpenStreetMap
   (OSM) en Haïti à travers ce rapport de 2024. Il met en lumière l'évolution des communautés
   OSM en Haïti et les défis significatifs auxquels elles sont confrontées. Les recommandations
   pour la durabilité soulignent la nécessité de partenariats solides et de conférences
   annuelles pour soutenir l'action humanitaire et la réponse aux crises en utilisant
   des données géospatiales ouvertes.
+Feature Image: "/uploads/HAITI%20OSM%20(1).jpg"
 Person: Louise Mathurin Serieux
 Country:
 - Haiti
@@ -16,7 +17,7 @@ Project:
 
 **English Version**
 
-L'achèvement en 2024 d'une étude sur l'état de la communauté OpenStreetMap (OSM) en Haïti a produit le rapport financé par Humanitarian OpenStreetMap (HOT) sur les** acteurs humanitaires et les parties prenantes intéressés par les données géospatiales ouvertes**, complété par Wendy DELVA. Originaire d'Haïti, il travaille comme cartographe et contributeur OSM depuis 2013. Wendy a contribué de manière significative à l'évolution des communautés OSM en Haïti, occupant divers rôles tels que coordinateur de COSMHANNE (Communauté OpenStreetMap Haïti Nord et Nord-Est), coordinateur de formation, formateur et éditeur de projet. Tout au long de son parcours, il a collaboré avec des institutions telles que HOT, la Croix-Rouge américaine, Chemonics et d'autres.
+L'achèvement en 2024 d'une étude sur l'état de la communauté OpenStreetMap (OSM) en Haïti a produit le rapport financé par Humanitarian OpenStreetMap (HOT) sur les\*\* acteurs humanitaires et les parties prenantes intéressés par les données géospatiales ouvertes\*\*, complété par Wendy DELVA. Originaire d'Haïti, il travaille comme cartographe et contributeur OSM depuis 2013. Wendy a contribué de manière significative à l'évolution des communautés OSM en Haïti, occupant divers rôles tels que coordinateur de COSMHANNE (Communauté OpenStreetMap Haïti Nord et Nord-Est), coordinateur de formation, formateur et éditeur de projet. Tout au long de son parcours, il a collaboré avec des institutions telles que HOT, la Croix-Rouge américaine, Chemonics et d'autres.
 
 Ce blog partage certaines des conclusions de ce rapport qui comprend des recommandations sur la façon dont OSM en Haïti pourrait garantir sa continuité malgré les nombreux défis passés et actuels.
 
@@ -46,4 +47,4 @@ Le rapport a souligné le rôle du partenariat avec les acteurs et parties prena
 
 > «L’organisation d'une conférence annuelle serait l'occasion idéale de fournir des informations relatives à la cartographie des données ouvertes sur tout le territoire d'Haïti afin de mesurer l'impact des SIG sur le développement durable. Chaque année, en fonction des besoins des partenaires et des exigences de la réponse aux crises et du travail humanitaire, l'événement peut migrer vers d'autres régions du pays.»
 
-Voir le rapport complet \[ici\].
+**Voir le rapport complet [ici](https://drive.google.com/file/d/1ZMhoioUYSrBNk4F0_9SBsHjD7I3hq5pa/view?usp=drive_link).**

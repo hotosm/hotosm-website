@@ -1,11 +1,12 @@
 ---
-title: Report Examining the Potential and State of the OSM Community in Haiti
-date: 2024-05-18 01:32:00 Z
+title: Examining the Potential and State of the OSM Community in Haiti
+date: 2024-05-20 01:32:00 Z
 Summary Text: Explore the potential and current state of the OpenStreetMap (OSM) Community
   in Haiti through this 2024 report. It highlights the evolution of OSM communities
   in Haiti and the significant challenges they face. Recommendations for sustainability
   emphasize the need for strong partnerships and annual conferences to support humanitarian
   action and crisis response using open geospatial data.
+Feature Image: "/uploads/HAITI%20OSM%20(1).jpg"
 Person: Louise Mathurin Serieux
 Country:
 - Haiti
@@ -45,4 +46,4 @@ The report highlighted the importance of forming partnerships with open source a
 
 > *«The organization of an annual conference would provide an ideal platform to disseminate information about open data mapping across Haiti, aiming to assess the impact of the Geographical Information System on sustainable development. Depending on partners' needs and the requirements of crisis response and humanitarian work, the event could be held in different regions of the country each year.»*
 
-See full report \[**here**\].
+**See full report [here](https://drive.google.com/file/d/1ZMhoioUYSrBNk4F0_9SBsHjD7I3hq5pa/view?usp=drive_link).**
