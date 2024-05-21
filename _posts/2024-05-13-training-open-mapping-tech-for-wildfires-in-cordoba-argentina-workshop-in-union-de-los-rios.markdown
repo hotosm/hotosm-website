@@ -3,7 +3,7 @@ title: 'Training Open Mapping Tech for Wildfires in Córdoba, Argentina: Worksho
   Unión de Los Ríos'
 date: 2024-05-13 18:33:00 Z
 tags:
-- Tech
+- tech
 Summary Text: 'On April 1 2024, we did a workshop called “Open Mapping for Inclusive
   and Sustainable Development. Mapping Tech in Wildland Areas: Forest Fires Edition”
   in Unión de Los Ríos, Córdoba, Argentina.'

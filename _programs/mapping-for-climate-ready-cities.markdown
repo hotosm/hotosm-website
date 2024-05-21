@@ -24,6 +24,7 @@ Partner:
 - UN-Habitat
 - Start Network
 - Save the Children UK
+- Open Government Partnership (OGP)
 Duration:
   Start Date: 2024-01-01 00:00:00 Z
   End Date: 2025-12-31 00:00:00 Z
