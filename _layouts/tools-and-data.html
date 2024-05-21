@@ -32,12 +32,12 @@ layout: default
       <div class="half-block-tools right" style="background-color: white;">
         <div class="block-details">
           <div class="block-info">
-            <h2 >{{  page['Block 999'].Header }}</h2>
-            <p>{{ page['Block 999'].Text-alternate }}</p>
+            <h2 >{{  page['Block 0'].Header }}</h2>
+            <p>{{ page['Block 0'].Text | markdownify }}</p>
             </div>
                 <div class="block-options">
                   <ul>
-                    {% for tool in page['Block 999'].Tools %}
+                    {% for tool in page['Block 0'].Tools %}
                       <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
                     {% endfor %}
                   </ul>
@@ -45,7 +45,7 @@ layout: default
             </div>
               <div class="" style="padding: 5%; background-color: white;">
                   <div class="block-screenshot-wrap" >
-                    <img style="display: block; height: 110%; width: 100%; object-fit: cover;" src="{{ page['Block 999'].Image }}">
+                    <img style="display: block; height: 110%; width: 100%; object-fit: cover;" src="{{ page['Block 0'].Image }}">
                   </div>
               </div>
           </div>
@@ -104,12 +104,12 @@ layout: default
                     <div class="half-block-tools right" style="background-color: white;">
                       <div class="block-details">
                         <div class="block-info">
-                          <h2 >{{  page['Block 7'].Header }}</h2>
-                          <p>{{ page['Block 7'].Text }}</p>
+                          <h2 >{{  page['Block 3'].Header }}</h2>
+                          <p>{{ page['Block 3'].Text }}</p>
                           </div>
                               <div class="block-options">
                                 <ul>
-                                  {% for tool in page['Block 7'].Tools %}
+                                  {% for tool in page['Block 3'].Tools %}
                                     <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
                                   {% endfor %}
                                 </ul>
@@ -117,7 +117,7 @@ layout: default
                           </div>
                             <div class="" style="padding: 5%; background-color: white;">
                                 <div class="block-screenshot-wrap" >
-                                  <img style="display: block; height: 110%; width: 100%; object-fit: cover;" src="{{ page['Block 7'].Image }}">
+                                  <img style="display: block; height: 110%; width: 100%; object-fit: cover;" src="{{ page['Block 3'].Image }}">
                                 </div>
                             </div>
                         </div>
