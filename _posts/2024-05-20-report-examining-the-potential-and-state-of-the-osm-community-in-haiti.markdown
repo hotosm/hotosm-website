@@ -14,7 +14,7 @@ Project:
 - 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 ---
 
-**Version française**
+**[Version française](https://www.hotosm.org/updates/examiner-le-potentiel-et-letat-de-la-communaute-osm-en-haiti)**
 
 The 2024 completion of a study of the state of the OpenStreetMap (OSM) Community in Haiti produced the Humanitarian OpenStreetMap (HOT) funded **Report on Humanitarian Actors and Stakeholders with an Interest In Open Geospatial Data**, completed by Wendy DELVA. From Haiti, he has worked as a Mapper and OSM Contributor since 2013. Wendy has significantly contributed to the evolution of OSM communities in Haiti, serving in various roles such as Coordinator of COSMHANNE (OpenStreetMap Haiti North and North East Community), training coordinator, trainer, and project editor. Throughout his journey, he has collaborated with institutions such as HOT, the American Red Cross, Chemonics, and others.
 
