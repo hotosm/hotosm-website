@@ -74,7 +74,7 @@ What datasets were collected:
 
 The project obtained boundary shapefiles from the Liberia Institute for Geo-Information Services (LIGIS) and flood hazard data from Fathom Global. Additionally, we acquired qualitative data from the inhabitants of the project area through Focus Group Discussions and from stakeholders through data needs and use case surveys.
 
-## Impact
+## Outcome and Impact
 
 Data Added to OSM:
 * Buildings (Remote mapping covers all five districts; previous mapping was done during the COVID-19 Rapid Response project = (18,922 new buildings added)
