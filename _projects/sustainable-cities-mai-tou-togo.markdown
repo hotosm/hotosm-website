@@ -1,5 +1,5 @@
 ---
-title: Sustainable Cities in Mai Tou Togo
+title: 'Sustainable Cities: Mai Tou Togo'
 date: 2024-05-17 15:30:00 Z
 Project Summary Text: This project, which has received a national award, is providing
   crucial information to urban planners and policymakers in Togo. The data collected
