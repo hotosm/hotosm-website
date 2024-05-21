@@ -47,4 +47,4 @@ Le rapport a souligné le rôle du partenariat avec les acteurs et parties prena
 
 > «L’organisation d'une conférence annuelle serait l'occasion idéale de fournir des informations relatives à la cartographie des données ouvertes sur tout le territoire d'Haïti afin de mesurer l'impact des SIG sur le développement durable. Chaque année, en fonction des besoins des partenaires et des exigences de la réponse aux crises et du travail humanitaire, l'événement peut migrer vers d'autres régions du pays.»
 
-**Voir le rapport complet [ici](https://drive.google.com/file/d/1ZMhoioUYSrBNk4F0_9SBsHjD7I3hq5pa/view?usp=drive_link).**
+**Voir le rapport complet [ici](https://drive.google.com/file/d/1ZMhoioUYSrBNk4F0_9SBsHjD7I3hq5pa/view?usp=drive_link).** 

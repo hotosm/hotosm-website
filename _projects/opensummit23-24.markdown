@@ -8,9 +8,9 @@ summit-image: https://cdn.hotosm.org/website/Website+MainBanner-51e09d.png
 intro-text: |-
   <h2>The HOT OpenSummit is excited to join:</h2><br>
   <br>
-  <h5>[State of the Map Latam 2024](https://wiki.openstreetmap.org/wiki/LatAm/Events/State_of_the_Map_Latam_2024), Brazil: December 02-06, 2024</h5>
+  <h5>[https://wiki.openstreetmap.org/wiki/LatAm/Events/State_of_the_Map_Latam_2024](State of the Map Latam 2024), Brazil: December 02-06, 2024</h5>
   <br>
-  <h5> [State of the Map 2024](https://2024.stateofthemap.org/), Nairobi: September 06-08, 2024</h5>
+  <h5> [https://2024.stateofthemap.org/](State of the Map 2024), Nairobi: September 06-08, 2024</h5>
   <br>
   <h5>State of the Map Malawi, Malawi: June 05-07, 2024</h5>
   <br>
