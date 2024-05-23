@@ -29,8 +29,8 @@ layout: default
 
   
 
-    <div class="program-body" style="padding-top: 1px">
-      <section class="article">
+    <div class="program-body" style="padding-top: 1px; margin-bottom: 0px;">
+      <section class="article" style="margin-bottom: 0px;">
         <h2 style="font-family: Barlow Condensed, sans-serif; font-size: 2.5rem;font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15;color: #D73F3F;" >{{  page['Block 1'].Section }}</h2>
 
           <!-- Intro -->
@@ -44,7 +44,7 @@ layout: default
           </div>
           <!-- Uses and Icons -->
 
-          <div style="margin: 30px 0 0px; padding-top: 1px "></div>
+          <div style="margin: 30px 0 0px; padding-top: 1px; "></div>
           <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2.5rem;">MAIN FEATURES</h2>
               <div class="hr-h" style="margin: 10px 0 40px "></div>
 
@@ -108,6 +108,18 @@ layout: default
       </div>
     </div>
 
+            {% if page.Show-content == "yes" %}
+
+                <div class="program-body" style="padding-top: 1px">
+                  <section class="article">
+
+                        {{ content }}
+
+                  </section>
+                </div>  
+            {% endif %}
+
+            {% if page.Show-projects == "yes" %}
 
              <div class="program-body" style="padding-top: 0.1px">
               <section class="article">
@@ -119,8 +131,6 @@ layout: default
 
                                     <div class="project-index-all">
                 
-
-
 
                                       {% assign recent_projects = site.projects | sort:"date" | reverse %}
                                       {% assign page_title = page.Tool-name %}
@@ -147,7 +157,8 @@ layout: default
                                             {% endif %}
                                           {% endif %}
                                         {% endfor %}
-                                
+
+
                                     </div>
 
                               <article class="container-body-program project-item" style="padding-top: 1%; padding-bottom: 0%;">
@@ -160,10 +171,12 @@ layout: default
               </section>
           </div>    
 
+          {% endif %}
 
 
 <!-- Tech blog and news -->
 
+    {% if page.Show-news == "yes" %}
 
     <div class="program-body" style="padding-top: 0px">
       <section class="article">
@@ -215,6 +228,7 @@ layout: default
       </section>
     </div>  
 
+    {% endif %}
 
 </div>
 
