@@ -1,5 +1,5 @@
 ---
-title: Sustainable Cities (Mai Tou Togo)
+title: 'Sustainable Cities: Mai Tou Togo'
 date: 2024-05-17 15:30:00 Z
 Project Summary Text: This project, which has received a national award, is providing
   crucial information to urban planners and policymakers in Togo. The data collected
@@ -61,7 +61,7 @@ What datasets were collected:
 
 Various data on city planning, service delivery, transport, solid waste, electricity, and more were collected based on specific use cases and needs. These datasets were cleaned, analyzed, and shared with commune authorities and other stakeholders. Only non-identifiable datasets were uploaded to OSM and included in the general maps developed.
 
-## Outcomes: 
+## Outcomes and Impact: 
 
 The project contributed:
 * 109,012  Buildings

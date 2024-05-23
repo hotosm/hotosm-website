@@ -1,5 +1,5 @@
 ---
-title: Public Health (Sunnu Wer Gi Yaram)
+title: 'Public Health: Sunnu Wer Gi Yaram'
 date: 2024-05-17 16:53:00 Z
 Project Summary Text: In partnership with Marie Stopes Senegal, the project worked
   with the Matam regional health authority to map out maternity healthcare services.

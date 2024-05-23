@@ -15,7 +15,7 @@ Project:
 - 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 ---
 
-**English Version**
+**[English Version](https://www.hotosm.org/updates/report-examining-the-potential-and-state-of-the-osm-community-in-haiti)**
 
 L'achèvement en 2024 d'une étude sur l'état de la communauté OpenStreetMap (OSM) en Haïti a produit le rapport financé par Humanitarian OpenStreetMap (HOT) sur les\*\* acteurs humanitaires et les parties prenantes intéressés par les données géospatiales ouvertes\*\*, complété par Wendy DELVA. Originaire d'Haïti, il travaille comme cartographe et contributeur OSM depuis 2013. Wendy a contribué de manière significative à l'évolution des communautés OSM en Haïti, occupant divers rôles tels que coordinateur de COSMHANNE (Communauté OpenStreetMap Haïti Nord et Nord-Est), coordinateur de formation, formateur et éditeur de projet. Tout au long de son parcours, il a collaboré avec des institutions telles que HOT, la Croix-Rouge américaine, Chemonics et d'autres.
 
@@ -23,7 +23,7 @@ Ce blog partage certaines des conclusions de ce rapport qui comprend des recomma
 
 ## OSM Haïti: une lutte sans merci pour la survie
 
-![HAITI (3).jpg](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/HAITI%20(3).jpg?download)
+![HAITI (3).jpg](/uploads/HAITI%20(3).jpg)
 
 Le rapport examine le lien entre l'émergence des premières communautés OSM en Haïti et la réponse au tremblement de terre dévastateur de magnitude 7,2 survenu le 12 janvier 2010 dans ce pays, soulignant l'importance de la cartographie pendant cette crise sans précédent. Il a en outre retracé le développement de ce groupe à partir des jeunes formés par HOT pour soutenir une réponse efficace à la crise grâce à l'utilisation de données cartographiques ouvertes.
 
@@ -31,7 +31,7 @@ Le rapport examine le lien entre l'émergence des premières communautés OSM en
 
 ## La lutte pour des communautés durables
 
-![HAITI (4).jpg](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/HAITI%20(4).jpg?download)
+![HAITI (4).jpg](/uploads/HAITI%20(4).jpg)
 
 La recherche comprenait des entretiens avec les dirigeants tels que les Maires de Limonade, de Quartier Morin, de Caracol, ainsi que des responsable du Bureau de la Protection Civile et d’autres membres fondateurs (Adler, Schneider, Westner) de la communauté OSM en Haïti pour obtenir un aperçu de leurs expériences actuelles antérieures au sein de leurs organisations et dans l'écosystème général. Le rapport révèle que malgré les meilleurs efforts des dirigeants et champions de la communauté OSM, ils n’arrivent à relever le défi d’acquérir les ressources matérielles nécessaires pour assurer la continuité et le niveau d’activité minimum d’une communauté OSM florissante.
 
@@ -41,7 +41,7 @@ La recherche comprenait des entretiens avec les dirigeants tels que les Maires d
 
 ## L’importance de partenariats solides
 
-![HAITI (5).jpg](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/HAITI%20(5).jpg?download)
+![HAITI (5).jpg](/uploads/HAITI%20(5).jpg)
 
 Le rapport a souligné le rôle du partenariat avec les acteurs et parties prenantes de l'open source pour des communautés OSM durables. Cela a été examiné comme une relation symbiotique, dans laquelle les parties prenantes qui utilisent des données cartographiques voient l'intérêt de collaborer de manière continue avec les communautés OSM qui mettent activement à jour ces données. Réunir ces parties prenantes et acteurs de l’open source autour d’une même table crée une opportunité de réseautage et de compréhension. Ainsi, les principales recommandations du rapport incluaient la nécessité d'une conférence annuelle liée à l'action humanitaire, à la réponse aux crises, aux données cartographiques et aux données ouvertes, dans une série d'ateliers, de présentations et de formations pour faciliter le partage d'expériences.
 
