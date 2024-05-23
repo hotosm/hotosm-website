@@ -274,6 +274,17 @@ em {
   }
 }
 
+.hr-h-red {
+  min-width: 100%;
+  width: 100%;
+  height: 2px;
+  background-color: #d73f3f;
+  margin: 40px 0 40px;
+  @media (max-width: $screen-sm) {
+    margin: 24px 0 24px;
+  }
+}
+
 .highlight-hr {
   width: 40px;
   height: 2px;
@@ -1278,6 +1289,90 @@ em {
     }
   }
 }
+
+.project-index-all-alt {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-auto-rows: min-content;
+  grid-gap: 16px;
+  @media (min-width: $screen-xs) {
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 70px;
+    margin-bottom: 40px;
+  }
+  .project-module {
+    display: grid;
+    grid-template-rows: auto 240px;
+    margin-bottom: 0;
+    box-shadow: $default-box-shadow;
+    &:hover {
+      box-shadow: $hover-box-shadow;
+    }
+    .module-details {
+      padding: 20px 24px;
+      h3 {
+        @media (min-width: $screen-sm) {
+          font-size: 1.5rem;
+        }
+      }
+      @media (max-width: $screen-xs) {
+        padding: 14px 16px;
+      }
+    }
+    .module-text {
+      padding-right: 0;
+      margin-bottom: 0;
+    }
+    .module-image {
+      max-height: 240px;
+      position: relative;
+      &:after {
+        content: '';
+        display: block;
+        // float: right;
+        position: absolute;
+        right: 16px;
+        bottom: 16px;
+        height: 40px;
+        width: 40px;
+        background-image: url(../images/chevron-white.svg);
+        background-color: $red;
+        background-repeat: no-repeat;
+        background-position: left 17px center;
+        border-radius: 20px;
+        box-shadow: $default-box-shadow;
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+      }
+    }
+    &:hover {
+      .module-image {
+        &:after {
+          opacity: 1;
+        }
+      }
+    }
+  }
+}
+
+
+.project-index-all-text {
+  display: grid;
+  grid-template-columns: repeat(10, 1fr);
+  grid-auto-rows: min-content;
+  grid-gap: 16px;
+  margin-bottom: 40px;
+  @media (max-width: $screen-xs) {
+    display: inline;
+    margin-bottom: 40px;
+  }
+  @media (max-width: $screen-sm) {
+    display: inline;
+    grid-gap: 0px;
+    margin-bottom: 40px;
+  }
+}
+
 
 .archive-header {
   background-color: $tan;

@@ -2,6 +2,9 @@
 title: OPEN AERIAL MAP
 date: 2018-02-06 15:16:00 Z
 position: 4
+Show-projects: "yes"
+Show-news: "yes"
+Show-content: "no"
 Tool-name: OpenAerialMap
 Block 0:
   Header: 

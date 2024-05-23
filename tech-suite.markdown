@@ -4,8 +4,8 @@ date: 2018-02-06 15:16:00 Z
 position: 4
 Block 0:
   Header: What is OpenStreetMap
-  Text: We develop open-source products, to address ecosystem gaps in the use of geospatial
-    technology in humanitarian projects.
+  Text: We develop open-source products, to address ecosystem gaps in the use of geospatial technology in development and humanitarian projects. 
+  Text-alt: 'We develop open-source products to address ecosystem gaps in the use of geospatial technology in development and humanitarian projects, aiming for a world where everyone has access to the right technology to use open map data for social change. Our guiding principles, informed by HOT’s values and aligned with the <a href="https://digitalprinciples.org/">Principles for Digital Development</a>, act as a compass for HOT’s technology work.'
   Image: https://cdn.hotosm.org/website/Ramani+Huria+TZ+2-5d464a.jpg
 tasking-manager:
   Header: Tasking Manager
@@ -54,6 +54,24 @@ Fmtm:
   Tools:
   - Name: Learn More
     URL: "/tech-suite/field-mapping-tasking-manager/"
+Dtm:
+  Header: Drone Tasking Manager (DTM)
+  Text: 'An open-source drone tasking platform to coordinate aerial survey activities for target project areas among multiple pilots, incorporating tools and processes to ensure coordinated flight plans for imagery acquisition, and a seamless pipeline for processing and dissemination.'
+  Image: "https://cdn.hotosm.org/website/WhatsApp+Image+2022-07-04+at+15.16.14+(2)+(1).jpeg"
+  Tools:
+  - Name: Learn More
+    URL: "/tech-suite/Drone-tasking-manager/"
+Project-Principles:
+  Principle1: "Put people first"
+  Principles-title-1: 'We prioritize <span style=" font-weight: bolder;">understanding human problems</span> deeply before devising solutions, working closely with local mapping communities to grasp their unique challenges and environmental factors, including technical, cultural, legal, and political aspects.'
+  Principle2: "Collaborate for impact"
+  Principles-title-2: 'HOT collaborates globally to advance open <span style=" font-weight: bolder;">geospatial tech for social good</span>, engaging contributors through open groups, mentorship, and documentation to improve existing technologies.'
+  Principle3: "Work in the open"
+  Principles-title-3: '<span style=" font-weight: bolder;"> All of our products are publicly accessible open source</span>. We share our work through open collaboration channels, webinars, conferences, and open training sessions. '
+  Principle4: "Build for inclusivity"
+  Principles-title-4: 'Our aim is to enable <span style=" font-weight: bolder;">EVERYONE</span> to interact with our technology. We aim to lower the technical barrier so that everyone can participate.'
+
+
 layout: tech-suite
 ---
 
