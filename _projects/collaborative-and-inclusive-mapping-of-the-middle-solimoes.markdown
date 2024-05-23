@@ -20,14 +20,15 @@ Duration:
   End Date: 2024-02-15 00:00:00 Z
 Tools:
 - tool: Tasking Manager
-- tool: OpenStreetMap
+- link: 
+  tool: OpenStreetMap
 - tool: SW Maps
 - tool: GNSS
 - tool: Drone
 - tool: 
 ---
 
-[Versión en portugués](https://www.hotosm.org/projects/mapeamento-colaborativo-e-inclusivo-do-medio-solimoes-amazonia/)**
+**[Versão em português](https://www.hotosm.org/projects/mapeamento-colaborativo-e-inclusivo-do-medio-solimoes-amazonia/)**
 
 ## **CONTEXT**
 Brazil, renowned for its vast territory and diverse ecosystems, houses the globally significant Amazon, a biodiversity reservoir. However, the Amazon's immense size leads to cartographic challenges, resulting in cartographic invisibility. This phenomenon has profound implications, impacting territorial rights, humanitarian aid distribution, and route planning efficiency.
