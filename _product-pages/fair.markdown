@@ -2,6 +2,9 @@
 title: fAIr
 date: 2018-02-06 15:16:00 Z
 position: 4
+Show-projects: "no"
+Show-news: "yes"
+Show-content: "no"
 Tool-name: fAIr
 Block 0:
   Header: 
