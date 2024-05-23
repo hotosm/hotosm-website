@@ -54,6 +54,13 @@ Fmtm:
   Tools:
   - Name: Learn More
     URL: "/tech-suite/field-mapping-tasking-manager/"
+Dtm:
+  Header: Drone Tasking Manager (DTM)
+  Text: 'An open-source drone tasking platform to coordinate aerial survey activities for target project areas among multiple pilots, incorporating tools and processes to ensure coordinated flight plans for imagery acquisition, and a seamless pipeline for processing and dissemination.'
+  Image: "https://cdn.hotosm.org/website/WhatsApp+Image+2022-07-04+at+15.16.14+(2)+(1).jpeg"
+  Tools:
+  - Name: Learn More
+    URL: "/tech-suite/Drone-tasking-manager/"
 Project-Principles:
   Principle1: "Put people first"
   Principles-title-1: 'We prioritize <span style=" font-weight: bolder;">understanding human problems</span> deeply before devising solutions, working closely with local mapping communities to grasp their unique challenges and environmental factors, including technical, cultural, legal, and political aspects.'
