@@ -2,9 +2,9 @@
 title: DRONE TASKING MANAGER
 date: 2018-02-06 15:16:00 Z
 position: 4
-Show-projects: "no"
-Show-news: "no"
-Show-content: "no"
+Show-projects: 'no'
+Show-news: 'no'
+Show-content: 'no'
 Tool-name: Drone Tasking Manager
 Block 0:
   Header: 
@@ -12,8 +12,13 @@ Block 0:
   Image: "/uploads/drone-tm-main.png"
 Block 1:
   Section: What is it?
-  Header: "A user-friendly, inclusive application suite enabling anyone with access to a drone, even an inexpensive consumer or DIY drone, to contribute easily and effectively to a global free and open aerial imagery repository."
-  Text: "Local people with low-cost, consumer-type drones can choose areas to fly and receive flight plans that automate precision aerial imagery collection missions, seamlessly combining the efforts of multiple operators into high­quality coverage of 2D and 3D imagery. "
+  Header: A user-friendly, inclusive application suite enabling anyone with access
+    to a drone, even an inexpensive consumer or DIY drone, to contribute easily and
+    effectively to a global free and open aerial imagery repository.
+  Text: 'Local people with low-cost, consumer-type drones can choose areas to fly
+    and receive flight plans that automate precision aerial imagery collection missions,
+    seamlessly combining the efforts of multiple operators into high­quality coverage
+    of 2D and 3D imagery. '
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Learn More
@@ -26,25 +31,34 @@ Block 2:
   Rectangle-1:
     Icon: fa-solid fa-paper-plane
     Header: Use Low-Cost Drones
-    Highlight: 'DTM empowers local communities to produce their own aerial imagery by enabling local <strong>use of safe. affordable, lightly-regulated drones</strong> to create high-quality, high­resolution 2D and 3D images and base layers.'
+    Highlight: DTM empowers local communities to produce their own aerial imagery
+      by enabling local <strong>use of safe. affordable, lightly-regulated drones</strong>
+      to create high-quality, high­resolution 2D and 3D images and base layers.
   Rectangle-2:
     Icon: fa-solid fa-group-arrows-rotate
     Header: Coordinate Efforts
-    Highlight: "Current commercial drone platforms don't enable multiple operators to collaborate to cover a large area. <strong>DTM empowers communities to work together to image their own environment seamlessly and at scale.</strong>"
+    Highlight: Current commercial drone platforms don't enable multiple operators
+      to collaborate to cover a large area. <strong>DTM empowers communities to work
+      together to image their own environment seamlessly and at scale.</strong>
   Rectangle-3:
     Icon: fa-solid fa-circle-nodes
     Header: AI & Field Mapping
-    Highlight: "We're all excited about the potential for Al and field mapping tools to power greater community mapping efforts. But <strong>Al and field mappers need imagery!</strong> DTM empowers communities to create those imagery inputs themselves."
+    Highlight: We're all excited about the potential for Al and field mapping tools
+      to power greater community mapping efforts. But <strong>Al and field mappers
+      need imagery!</strong> DTM empowers communities to create those imagery inputs
+      themselves.
 Block 3:
-  Header: Why DTM? 
-  Highlight: Aerial imagery is critical for mapping, but we have been dependent on satellites or large, expensive, dangerous drones (usually operated by contractors from abroad).
-  Text: "DATM empowers local communities to create high­quality aerial imagery by combining the efforts of multiple people with small, safe, accessible drones. <br><br>
-  <strong>Social Impact:</strong><br>
-  &nbsp;- <u>Collaboration</u>, Communities working together to create local aerial imagery at scale. <br> 
-  &nbsp;- <u>Independence</u>, People can generate their own data for use with Al and field mapping tools. <br>
-  &nbsp;- <u>Empowerment</u>, Community led aerial imagery creation. <br><br>
-  "
-  Image: "https://cdn.hotosm.org/website/Code+for+Africa+2019+Microgrant.jpg"
+  Header: Why DTM?
+  Highlight: Aerial imagery is critical for mapping, but we have been dependent on
+    satellites or large, expensive, dangerous drones (usually operated by contractors
+    from abroad).
+  Text: 'DATM empowers local communities to create high­quality aerial imagery by
+    combining the efforts of multiple people with small, safe, accessible drones.
+    <br><br> <strong>Social Impact:</strong><br> &nbsp;- <u>Collaboration</u>, Communities
+    working together to create local aerial imagery at scale. <br> &nbsp;- <u>Independence</u>,
+    People can generate their own data for use with Al and field mapping tools. <br>
+    &nbsp;- <u>Empowerment</u>, Community led aerial imagery creation. <br><br> '
+  Image: https://cdn.hotosm.org/website/Code+for+Africa+2019+Microgrant.jpg
   Tools:
   - Name: DTM Research GitHub
     URL: https://github.com/hotosm/datm-research
