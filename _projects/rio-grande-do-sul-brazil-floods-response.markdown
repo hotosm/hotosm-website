@@ -20,6 +20,9 @@ Duration:
   End Date: Ongoing
 tm_campaigns:
 - https://tasks.hotosm.org/explore?campaign=2024+Rio+Grande+do+Sul+Floods
+Data:
+- title: HDX
+- link: https://data.humdata.org/organization/hot?q=brazil&ext_page_size=25
 ---
 
 ### [Mapping projects for this activation](https://tasks.hotosm.org/explore?campaign=2024+Rio+Grande+do+Sul+Floods)
