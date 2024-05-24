@@ -7,7 +7,7 @@ GDACS: FL 1102592
 Event Name: 'Brazil: Floods - Jan 2024'
 Country: Brazil
 Event type: Fl Flood
-Summary Text: This is an activation led by Lac Hub for the Brazul Floods of 2024.
+Summary Text: This is an activation led by Lac Hub for the Brazil Floods of 2024.
 Feature Image: Fl Flood
 Post-type: timeline
 Campaign: <a href="https://tasks.hotosm.org/explore?campaign=2024%20Rio%20Grande%20do%20Sul%20Floods&omitMapResults=1">Brazil</a>
@@ -19,14 +19,11 @@ Status: size-up
 Wiki: https://wiki.openstreetmap.org/wiki/2024_Rio_Grande_do_Sul_Floods
 ---
 
-### [Mapping projects for this activation.
-](https://tasks.hotosm.org/explore?campaign=2024+Rio+Grande+do+Sul+Floods)
+### [Mapping projects for this activation](https://tasks.hotosm.org/explore?campaign=2024+Rio+Grande+do+Sul+Floods)
 
-### [Wiki page for this activation.
-](https://wiki.openstreetmap.org/wiki/2024_Rio_Grande_do_Sul_Floods)
+### [Wiki page for this activation](https://wiki.openstreetmap.org/wiki/2024_Rio_Grande_do_Sul_Floods)
 
 ## CONTEXT
-
 After two weeks of intense rain, gales, and hail in Rio Grande do Sul, Brazil, the collapse of the curtain of the July 14th hydroelectric dam has exacerbated an already critical situation, resulting in more than 100  deaths and 100 missing. More than one million people are affected. Nearly 70,000 have been evacuated and over one million homes are without drinking water. Additionally, 421,000 households lack electricity, and 115 municipalities are without telephone and internet services. There are 61 blocked roads and the Porto Alegre airport remains closed. The Guaíba River has reached record levels, flooding the historic center of Porto Alegre. The current estimated river level is 5,33 meters.
 
 This event marks the second significant disaster in less than a year for the state, following a cyclone in September 2023 that left at least 31 dead. Climate change, along with the El Niño phenomenon, has intensified extreme weather conditions in the region.
