@@ -78,41 +78,41 @@ layout: product-pages
             <img style="height: 87%; width: 100%; object-fit: cover; padding-right: 1%; padding-left: 1%; padding-bottom: 1%; padding-top: 12%;background-image: url(/images/dot-pattern.svg);" src="https://cdn.hotosm.org/website/IMG_1654+(1).jpg">
         </div>
         <div class="intro-text">
-                <h1 style="color: black; font-family: Barlow Condensed, sans-serif; margin-top:5%;"><i class="fa-solid fa-users-gear" style="color: #D73F3F;font-size: x-large;"></i> User Management</h1>
+                <h1 class="dtm-box-title"><i class="fa-solid fa-users-gear" style="color: #D73F3F;font-size: x-large;"></i> User Management</h1>
             <br>
-            <p style="line-height: 1.35; color: #68707F; font-size: 1.125rem;">Simplifies the onboarding process, enhances security with role-based access, and facilitates efficient management of participant activities.</p>
+            <p class="dtm-box-paragraph">Simplifies the onboarding process, enhances security with role-based access, and facilitates efficient management of participant activities.</p>
         </div>
         <div class="intro-text">
-            <h1 style="color: black; font-family: Barlow Condensed, sans-serif; margin-top:5%"><i class="fa-solid fa-pen-to-square" style="color: #D73F3F;font-size: x-large;"></i> Survey Projects Creation</h1>
+            <h1 class="dtm-box-title"><i class="fa-solid fa-pen-to-square" style="color: #D73F3F;font-size: x-large;"></i> Survey Projects Creation</h1>
             <br>
-            <p style="line-height: 1.35; color: #68707F; font-size: 1.125rem;">Streamlines project setup, allows for custom project specifications, and ensures all participants have clear guidelines and objectives.</p>
+            <p class="dtm-box-paragraph">Streamlines project setup, allows for custom project specifications, and ensures all participants have clear guidelines and objectives.</p>
         </div>
         <div class="intro-text">
-            <h1 style="color: black; font-family: Barlow Condensed, sans-serif; margin-top:5%"><i class="fa-solid fa-table-cells-large" style="color: #D73F3F;font-size: x-large;"></i> Data/Flight Plan Upload</h1>
+            <h1 class="dtm-box-title"><i class="fa-solid fa-table-cells-large" style="color: #D73F3F;font-size: x-large;"></i> Data/Flight Plan Upload</h1>
             <br>
-            <p style="line-height: 1.35; color: #68707F; font-size: 1.125rem;">Ensures consistency and accuracy in flight plans, maximizes area coverage, and minimizes data gaps.</p>
+            <p class="dtm-box-paragraph">Ensures consistency and accuracy in flight plans, maximizes area coverage, and minimizes data gaps.</p>
         </div>
-         <div class="intro-text" style="background-color: white; background-image: url(/images/dot-pattern-blue.svg); margin-top: 10%; margin-bottom: 17%;  ">
-        </div>
-        <div class="intro-text">
-            <h1 style="color: black; font-family: Barlow Condensed, sans-serif; margin-top:5%"><i class="fa-solid fa-triangle-exclamation" style="color: #D73F3F;font-size: x-large;"></i> Notifications/ Status Mgmt.</h1>
-            <br>
-            <p style="line-height: 1.35; color: #68707F; font-size: 1.125rem;">Keeps all users informed and engaged, ensures timely responses to project needs, and enhances collaborative efforts.</p>
+         <div class="intro-text" style="background-color: white; background-image: url(/images/dot-pattern-blue.svg); margin-top: 10%; margin-bottom: 17%;">
         </div>
         <div class="intro-text">
-            <h1 style="color: black; font-family: Barlow Condensed, sans-serif; margin-top:5%"><i class="fa-solid fa-chart-pie" style="color: #D73F3F;font-size: x-large;"></i> Data Visualization</h1>
+            <h1 class="dtm-box-title"><i class="fa-solid fa-triangle-exclamation" style="color: #D73F3F;font-size: x-large;"></i> Notifications/ Status Mgmt.</h1>
             <br>
-            <p style="line-height: 1.35; color: #68707F; font-size: 1.125rem;">Aids in better understanding and interpretation of the data, supports decision-making processes, and enhances the presentation of findings.</p>
+            <p class="dtm-box-paragraph">Keeps all users informed and engaged, ensures timely responses to project needs, and enhances collaborative efforts.</p>
         </div>
         <div class="intro-text">
-            <h1 style="color: black; font-family: Barlow Condensed, sans-serif; margin-top:5%"><i class="fa-solid fa-scale-balanced" style="color: #D73F3F;font-size: x-large;"></i> Local Regulations & Compliance</h1>
+            <h1 class="dtm-box-title"><i class="fa-solid fa-chart-pie" style="color: #D73F3F;font-size: x-large;"></i> Data Visualization</h1>
             <br>
-            <p style="line-height: 1.35; color: #68707F; font-size: 1.125rem;">Reduces legal risks, promotes safe flying practices, and enhances community trust and acceptance of drone operations.</p>
+            <p class="dtm-box-paragraph">Aids in better understanding and interpretation of the data, supports decision-making processes, and enhances the presentation of findings.</p>
         </div>
         <div class="intro-text">
-            <h1 style="color: black; font-family: Barlow Condensed, sans-serif; margin-top:5%"><i class="fa-solid fa-file-lines" style="color: #D73F3F;font-size: x-large;"></i> Reporting</h1>
+            <h1 class="dtm-box-title"><i class="fa-solid fa-scale-balanced" style="color: #D73F3F;font-size: x-large;"></i> Local Regulations & Compliance</h1>
             <br>
-            <p style="line-height: 1.35; color: #68707F; font-size: 1.125rem;">Offers valuable insights for project evaluation, supports transparency, and aids in continuous improvement of operations.</p>
+            <p class="dtm-box-paragraph">Reduces legal risks, promotes safe flying practices, and enhances community trust and acceptance of drone operations.</p>
+        </div>
+        <div class="intro-text">
+            <h1 class="dtm-box-title"><i class="fa-solid fa-file-lines" style="color: #D73F3F;font-size: x-large;"></i> Reporting</h1>
+            <br>
+            <p class="dtm-box-paragraph">Offers valuable insights for project evaluation, supports transparency, and aids in continuous improvement of operations.</p>
         </div>
 </div>
 
