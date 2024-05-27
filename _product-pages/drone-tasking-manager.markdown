@@ -12,13 +12,8 @@ Block 0:
   Image: "/uploads/drone-tm-main.png"
 Block 1:
   Section: What is it?
-  Header: A user-friendly, inclusive application suite enabling anyone with access
-    to a drone, even an inexpensive consumer or DIY drone, to contribute easily and
-    effectively to a global free and open aerial imagery repository.
-  Text: 'Local people with low-cost, consumer-type drones can choose areas to fly
-    and receive flight plans that automate precision aerial imagery collection missions,
-    seamlessly combining the efforts of multiple operators into high­quality coverage
-    of 2D and 3D imagery. '
+  Header: "A user-friendly, inclusive application suite enabling anyone with access to a drone, even an inexpensive consumer or DIY drone, to contribute easily and effectively to a global free and open aerial imagery repository."
+  Text: "Local people with low-cost, consumer-type drones can choose areas to fly and receive flight plans that automate precision aerial imagery collection missions, seamlessly combining the efforts of multiple operators into high­quality coverage of 2D and 3D imagery. "
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Learn More
@@ -31,19 +26,19 @@ Block 2:
   Rectangle-1:
     Icon: fa-solid fa-paper-plane
     Header: Use Low-Cost Drones
-    Highlight: 'DTM empowers local communities to produce their own aerial imagery by enabling local <strong>use of safe. affordable, lightly-regulated drones</strong> to create high-quality, high­resolution 2D and 3D images and base layers.'
+    Highlight: 'DroneTM empowers local communities to produce their own aerial imagery by enabling local <strong>use of safe. affordable, lightly-regulated drones</strong> to create high-quality, high­resolution 2D and 3D images and base layers.'
   Rectangle-2:
     Icon: fa-solid fa-group-arrows-rotate
     Header: Coordinate Efforts
-    Highlight: "Current commercial drone platforms don't enable multiple operators to collaborate to cover a large area. <strong>DTM empowers communities to work together to image their own environment seamlessly and at scale.</strong>"
+    Highlight: "Current commercial drone platforms don't enable multiple operators to collaborate to cover a large area. <strong>DroneTM empowers communities to work together to image their own environment seamlessly and at scale.</strong>"
   Rectangle-3:
     Icon: fa-solid fa-circle-nodes
     Header: AI & Field Mapping
-    Highlight: "We're all excited about the potential for Al and field mapping tools to power greater community mapping efforts. But <strong>Al and field mappers need imagery!</strong> DTM empowers communities to create those imagery inputs themselves."
+    Highlight: "We're all excited about the potential for Al and field mapping tools to power greater community mapping efforts. But <strong>Al and field mappers need imagery!</strong> DroneTM empowers communities to create those imagery inputs themselves."
 Block 3:
-  Header: Why DTM? 
+  Header: Why DroneTM? 
   Highlight: Aerial imagery is critical for mapping, but we have been dependent on satellites or large, expensive, dangerous drones (usually operated by contractors from abroad).
-  Text: "DATM empowers local communities to create high­quality aerial imagery by combining the efforts of multiple people with small, safe, accessible drones. <br><br>
+  Text: "DroneTM empowers local communities to create high­quality aerial imagery by combining the efforts of multiple people with small, safe, accessible drones. <br><br>
   <strong>Social Impact:</strong><br>
   &nbsp;- <u>Collaboration</u>, Communities working together to create local aerial imagery at scale. <br> 
   &nbsp;- <u>Independence</u>, People can generate their own data for use with Al and field mapping tools. <br>
@@ -77,10 +72,10 @@ layout: product-pages
 
 
 
-<div class="DroneTM-grid">
-        <div class="intro-text DroneTM-photo" style="">
+<div class="dtm-grid">
+        <div class="intro-text dtm-photo" style="">
             <h1 style="font-weight: bolder; margin-top:3%; margin-left:0%; justify-content: center; font-family: Barlow Condensed, sans-serif; margin-bottom:2%">TECHNICAL FEATURES OF DroneTM</h1>
-            <img style="height: 87%; width: 100%; object-fit: cover; padding-right: 1%; padding-left: 1%; padding-bottom: 1%; padding-top: 12%;background-image: url(/images/dot-pattern.svg);" src="https://cdn.hotosm.org/website/2019+Microgrants+3.jpg">
+            <img style="height: 87%; width: 100%; object-fit: cover; padding-right: 1%; padding-left: 1%; padding-bottom: 1%; padding-top: 12%;background-image: url(/images/dot-pattern.svg);" src="https://cdn.hotosm.org/website/IMG_1654+(1).jpg">
         </div>
         <div class="intro-text">
                 <h1 style="color: black; font-family: Barlow Condensed, sans-serif; margin-top:5%;"><i class="fa-solid fa-users-gear" style="color: #D73F3F;font-size: x-large;"></i> User Management</h1>
