@@ -4,8 +4,15 @@ date: 2018-02-06 15:16:00 Z
 position: 4
 Intro:
   Header: HOT and Open Source
-  Opening: "AT HOT, WE USE A COMBINATION OF OPEN MAPPING TOOLS DEVELOPED BY THE OPEN SOURCE COMMUNITY TO CREATE, ACCESS, MANAGE, ANALYZE, AND SHARE OPEN MAP DATA THAT SERVES OUR PARTNERS AND LOCAL COMMUNITIES."
-  Text: Below you can explore tools for your data workflows and mapping projects from start to finish. All tools below are either open source or relating to the promotion of open data. OpenStreetMap (OSM) and other open geospatial tools are included to promote open and free mapping in all contexts, including limited resourced environments. HOT’s tools, which fill a niche in end to end mapping workflows, are marked. 
+  Opening: AT HOT, WE USE A COMBINATION OF OPEN MAPPING TOOLS DEVELOPED BY THE OPEN
+    SOURCE COMMUNITY TO CREATE, ACCESS, MANAGE, ANALYZE, AND SHARE OPEN MAP DATA THAT
+    SERVES OUR PARTNERS AND LOCAL COMMUNITIES.
+  Text: Below you can explore tools for your data workflows and mapping projects from
+    start to finish. All tools below are either open source or relating to the promotion
+    of open data. OpenStreetMap (OSM) and other open geospatial tools are included
+    to promote open and free mapping in all contexts, including limited resourced
+    environments. HOT’s tools, which fill a niche in end to end mapping workflows,
+    are marked.
   Point1: We provide technological solutions to enable everyone to create and use
     open mapping data, and focus on how we can lower the barrier to entry for everyone
     to do so.
