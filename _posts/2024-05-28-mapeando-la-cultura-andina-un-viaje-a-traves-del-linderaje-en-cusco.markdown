@@ -42,6 +42,8 @@ En el linderaje de Chincheros, participaron 18 estudiantes. Llegaron un día ant
 
 El día del linderaje, a pesar de que se esperaba un recorrido ligero por la zona baja de Chincheros, el trayecto fue más exigente, incluyendo ascensos y descensos por cerros, lo cual fue un reto para todas las personas participantes, especialmente para los estudiantes de aproximadamente quince años.
 
+![Linderaje Cusco - GAL School.jpg](/uploads/Linderaje%20Cusco%20-%20GAL%20School.jpg)
+
 Paola explica que la tradición requiere que antes de comenzar el linderaje, los participantes acompañen las casas de liderazgos importantes de la comunidad para recibir bendiciones, comida y bebida, un gesto de hospitalidad y respeto. Este ritual se repite en varias casas antes de converger en un punto central donde oficialmente comienza la tradición. Durante el recorrido, se realizan paradas estratégicas para rezar y colocar banderas que marcan el progreso.
 
 Durante la festividad, las comunidades celebran la vida y refuerzan los límites territoriales, fortaleciendo los lazos sociales bajo el liderazgo de autoridades tradicionales. Las wifalas, conocidas como danzas con banderas blancas, añaden vitalidad al ritual, marcando el territorio de manera pacífica con símbolos como la bandera blanca. Los líderes comunitarios preparan a los jóvenes para roles de liderazgo, generando un vínculo comunitario basado en el respeto y la colaboración.
@@ -68,7 +70,7 @@ Paola concluye que el mayor impacto de las aplicaciones de mapeo abierto es su c
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/es/map/linderaje_1034183?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/es/map/linderaje_1034183?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver pantalla completa</a></p>
 
-\*Mapa de los recorridos realizados por estudiantes del GAL School elaborado por Gilmar Vergara en [uMap](https://umap.openstreetmap.fr/es/).\*
+***Mapa de los recorridos realizados por estudiantes del GAL School elaborado por Gilmar Vergara en [uMap](https://umap.openstreetmap.fr/es/).***
 
 # Reflexiones sobre el Aprendizaje para Alumnos
 
@@ -80,7 +82,7 @@ Al preguntarle sobre las observaciones a los estudiantes, sobre por qué vivir e
 
 > Al principio del proyecto el año pasado, muchos de ellos consideraban esta práctica como algo obsoleto en la era moderna, dado que ahora contamos con tecnología avanzada para abordar cuestiones geográficas o para regularlas mediante leyes. Sin embargo, al participar en la actividad, se dieron cuenta de la importancia de esta tradición, ya que les permitió recorrer y reconocer el territorio, y sentirse parte integral de él.
 
-Aunque el territorio pertenece a la comunidad en su totalidad, los estudiantes sienten que cada parte de ella les pertenece también.
+Aunque el territorio pertenece a la comunidad en su totalidad, los estudiantes sienten que, a través de este ejercicio, cada parte de ella les pertenece también.
 
 Esta experiencia inmersiva y desafiante no sólo permitió a los estudiantes emplear diversas herramientas para un aprendizaje práctico, sino que también fortaleció su conexión con el patrimonio cultural y comunitario.
 
