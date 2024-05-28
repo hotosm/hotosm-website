@@ -58,13 +58,13 @@ Los estudiantes emplearon diversas herramientas digitales para documentar la exp
 
 Entre las herramientas empleadas, destacan:
 
-* [Organic Maps](https://organicmaps.app/es/): se usó para recolectar trazas GPS precisas antes del linderaje.
+* **[Organic Maps](https://organicmaps.app/es/)**: se usó para recolectar trazas GPS precisas antes del linderaje.
 
-* [OSM Tracker](https://wiki.openstreetmap.org/wiki/ES:OSMTracker_(Android)): permitió agregar fotos, vídeos y notas en cada punto del recorrido.
+* **[OSM Tracker](https://wiki.openstreetmap.org/wiki/ES:OSMTracker_(Android))**: permitió agregar fotos, vídeos y notas en cada punto del recorrido.
 
-* [AllTrails](http://AllTrails): utilizado para navegar y ofrecer diferentes opciones de documentación visual.
+* **[AllTrails](http://AllTrails)**: utilizado para navegar y ofrecer diferentes opciones de documentación visual.
 
-* [uMap](https://umap.openstreetmap.fr/es/) y [Relive](https://www.relive.cc/?hl=es): facilitaron la creación de relatos visuales combinando trazas con fotos y vídeos.
+* **[uMap](https://umap.openstreetmap.fr/es/)** y **[Relive](https://www.relive.cc/?hl=es)**: facilitaron la creación de relatos visuales combinando trazas con fotos y vídeos.
 
 Paola concluye que el mayor impacto de las aplicaciones de mapeo abierto es su capacidad para organizar de manera eficiente la información que los estudiantes recopilan. Estas herramientas digitales facilitan la toma de fotos, grabación de vídeos y registro automático de rutas, optimizando la organización y recopilación de datos durante las actividades educativas. Este aspecto ha sido particularmente impactante e impresionante para los estudiantes.
 
