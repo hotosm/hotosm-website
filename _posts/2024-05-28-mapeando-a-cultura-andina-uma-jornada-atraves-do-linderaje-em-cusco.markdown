@@ -50,7 +50,7 @@ Durante a festividade, as comunidades celebram a vida e reforçam os limites ter
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/6wz9QCQHYqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Implementando ferramentas de mapeamento aberto no linderaje
+# **Implementando ferramentas de mapeamento aberto no linderaje**
 
 Os alunos usaram várias ferramentas digitais para documentar a experiência, garantindo que cada aspecto do linderaje fosse capturado e que pudessem coletar todos os dados assim que retornassem a Cusco. Durante o exercício, utilizaram ferramentas para traçar o percurso, tirar fotos e marcar pontos geográficos.
 
@@ -58,13 +58,13 @@ Os alunos usaram várias ferramentas digitais para documentar a experiência, ga
 
 Entre as ferramentas utilizadas, destacam-se:
 
-* **[Organic Maps](https://organicmaps.app/es/)**: foi usada para coletar rastros de GPS precisos antes do linderaje.
+* **[Organic Maps](https://organicmaps.app/es)**: foi usada para coletar rastros de GPS precisos antes do linderaje.
 
 * **[OSM Tracker](https://wiki.openstreetmap.org/wiki/ES:OSMTracker_(Android))**: permitiu adicionar fotos, vídeos e notas em cada ponto do percurso.
 
 * **[AllTrails](http://AllTrails)**: utilizado para navegação e oferecendo diferentes opções de documentação visual.
 
-* **[uMap](https://umap.openstreetmap.fr/es/)** e **[Relive](https://www.relive.cc/?hl=es)**: facilitaram a criação de relatos visuais combinando rastros com fotos e vídeos.
+* **[uMap](https://umap.openstreetmap.fr/es/) e [Relive](https://www.relive.cc/?hl=es)**: facilitaram a criação de relatos visuais combinando rastros com fotos e vídeos.
 
 Paola conclui que o maior impacto das aplicações de mapeamento aberto é sua capacidade de organizar eficientemente as informações que os alunos coletam. Essas ferramentas digitais facilitam a captura de fotos, gravação de vídeos e registro automático de rotas, otimizando a organização e coleta de dados durante as atividades educacionais. Este aspecto tem sido particularmente impactante e impressionante para os alunos.
 
@@ -80,7 +80,7 @@ Mery destaca que após a experiência, os alunos compreendem melhor como as comp
 
 Quando perguntados sobre as observações dos alunos, sobre por que viver essa experiência de linderaje se já existem mapas, Mery responde que sim, surgiram debates na sala de aula sobre esse tema.
 
-No início do projeto no ano passado, muitos deles consideravam essa prática como algo obsoleto na era moderna, dado que agora contamos com tecnologia avançada para abordar questões geográficas ou regulá-las por meio de leis. No entanto, ao participar da atividade, perceberam a importância dessa tradição, pois lhes permitiu percorrer e reconhecer o território e sentir-se parte integrante dele.
+> No início do projeto no ano passado, muitos deles consideravam essa prática como algo obsoleto na era moderna, dado que agora contamos com tecnologia avançada para abordar questões geográficas ou regulá-las por meio de leis. No entanto, ao participar da atividade, perceberam a importância dessa tradição, pois lhes permitiu percorrer e reconhecer o território e sentir-se parte integrante dele.
 
 Embora o território pertença à comunidade como um todo, os alunos sentem que, por meio desse exercício, cada parte dela também lhes pertence.
 
