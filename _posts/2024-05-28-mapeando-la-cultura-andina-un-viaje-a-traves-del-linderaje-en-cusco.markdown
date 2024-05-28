@@ -68,7 +68,7 @@ Paola concluye que el mayor impacto de las aplicaciones de mapeo abierto es su c
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/es/map/linderaje_1034183?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/es/map/linderaje_1034183?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver pantalla completa</a></p>
 
-\*Mapa elaborado de los recorridos por Gilmar Vergara en [uMap](https://umap.openstreetmap.fr/es/). \*
+\*Mapa de los recorridos realizados por estudiantes del GAL School elaborado por Gilmar Vergara en [uMap](https://umap.openstreetmap.fr/es/).\*
 
 # Reflexiones sobre el Aprendizaje para Alumnos
 
