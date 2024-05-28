@@ -36,7 +36,9 @@ intro-text: |-
   <h5><a href="https://2023.foss4g-oceania.org/">FOSS4G + SotM Oceania</a>, Auckland, New Zealand: October 16-20, 2023</h5><br>
   <h5><a href="https://2023.stateofthemapnigeria.org/">State of the Map Nigeria</a>, Abuja, Nigeria: October 11-14, 2023</h5><br>
 
-  <h3>If you are interested in becoming a sponsor of the HOT OpenSummit, <a href="https://cdn.hotosm.org/website/OpenSummit+Sponsorship+Deck+Story+Board.pdf" target="_blank">click here for more information.</h3>
+  <h4>If you are interested in becoming a sponsor of the HOT OpenSummit, <a href="https://cdn.hotosm.org/website/OpenSummit+Sponsorship+Deck+Story+Board.pdf" target="_blank">click here for more information.</h4>
+
+  <br>
 block-0:
   Title: About HOT OpenSummit '23-24
   Text: "HOT's OpenSummit ‘23-24 is ON! \n\nGet ready for a year of global events
