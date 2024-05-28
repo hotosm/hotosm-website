@@ -52,7 +52,7 @@ Durante la festividad, las comunidades celebran la vida y refuerzan los límites
 
 Los estudiantes emplearon diversas herramientas digitales para documentar la experiencia, asegurándose de que cada aspecto del linderaje fuera capturado y pudiesen recolectar todos los datos una vez regresaran a Cusco. Durante el ejercicio, utilizaron herramientas para trazar el recorrido, tomar fotos y marcar puntos geográficos.
 
-<iframe width="700" height="500" src="https://www.youtube.com/watch?v=LSsJaC-09V0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/LSsJaC-09V0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Entre las herramientas empleadas, destacan:
 
@@ -68,7 +68,7 @@ Paola concluye que el mayor impacto de las aplicaciones de mapeo abierto es su c
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/es/map/linderaje_1034183?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/es/map/linderaje_1034183?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">Ver pantalla completa</a></p>
 
-*Mapa elaborado de los recorridos por Gilmar Vergara en [uMap](https://umap.openstreetmap.fr/es/). *
+\*Mapa elaborado de los recorridos por Gilmar Vergara en [uMap](https://umap.openstreetmap.fr/es/). \*
 
 # Reflexiones sobre el Aprendizaje para Alumnos
 
