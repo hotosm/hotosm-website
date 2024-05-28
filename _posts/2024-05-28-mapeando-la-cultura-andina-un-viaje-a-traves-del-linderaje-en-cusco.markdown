@@ -52,7 +52,7 @@ Durante la festividad, las comunidades celebran la vida y refuerzan los límites
 
 Los estudiantes emplearon diversas herramientas digitales para documentar la experiencia, asegurándose de que cada aspecto del linderaje fuera capturado y pudiesen recolectar todos los datos una vez regresaran a Cusco. Durante el ejercicio, utilizaron herramientas para trazar el recorrido, tomar fotos y marcar puntos geográficos.
 
-<iframe width="700" height="500" src="https://youtu.be/LSsJaC-09V0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/watch?v=LSsJaC-09V0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Entre las herramientas empleadas, destacan:
 
