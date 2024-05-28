@@ -30,7 +30,7 @@ Paola Araujo, psicóloga e professora, acompanha alunos dos níveis inicial, pri
 
 Os professores compartilham que na escola se emprega uma metodologia de ensino ativa que promove o pensamento crítico, aprendizagens contextuais e experiências experimentais dos alunos. Portanto, a rica tradição cultural de Cusco tem sido aproveitada para enriquecer as experiências educacionais diretamente no campo.
 
-# **Vivenciando o Linderaje em Chincheros, Cusco**
+# **Vivenciando o Linderaje em Chinchero, Cusco**
 
 ![Linderaje 1.jpg](/uploads/Linderaje%201.jpg)
 

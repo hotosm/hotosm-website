@@ -29,7 +29,7 @@ Paola Araujo, a psychologist and teacher, accompanies students at the initial, p
 
 Teachers share that the school employs an active teaching methodology that promotes critical thinking, contextual learning, and experiential experiences for students. Therefore, the rich cultural tradition of Cusco has been used to enrich educational experiences directly in the field.
 
-# **Experiencing Linderaje in Chincheros, Cusco**
+# **Experiencing Linderaje in Chinchero, Cusco**
 
 ![Linderaje 1.jpg](/uploads/Linderaje%201.jpg)
 

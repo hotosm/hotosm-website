@@ -30,7 +30,7 @@ Paola Araujo, psicóloga y docente, acompaña a estudiantes de los niveles inici
 
 Las personas docentes comparten que en el colegio se emplea una metodología de enseñanza activa que promueve el pensamiento crítico, los aprendizajes contextuales, y las vivencias experimentales de estudiantes. Por ello, se ha aprovechado la rica tradición cultural de Cusco para enriquecer las experiencias educativas directamente en el campo.
 
-# **Viviendo el Linderaje en Chincheros, Cusco**
+# **Viviendo el Linderaje en Chinchero, Cusco**
 
 ![Linderaje 1.jpg](/uploads/Linderaje%201.jpg)
 
