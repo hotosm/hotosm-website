@@ -46,13 +46,13 @@ Paola explica que la tradición requiere que antes de comenzar el linderaje, los
 
 Durante la festividad, las comunidades celebran la vida y refuerzan los límites territoriales, fortaleciendo los lazos sociales bajo el liderazgo de autoridades tradicionales. Las wifalas, conocidas como danzas con banderas blancas, añaden vitalidad al ritual, marcando el territorio de manera pacífica con símbolos como la bandera blanca. Los líderes comunitarios preparan a los jóvenes para roles de liderazgo, generando un vínculo comunitario basado en el respeto y la colaboración.
 
-<iframe width="1000" height="700" src="https://www.youtube.com/embed/6wz9QCQHYqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://www.youtube.com/embed/6wz9QCQHYqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Implementando herramientas de mapeo abierto en el linderaje
 
 Los estudiantes emplearon diversas herramientas digitales para documentar la experiencia, asegurándose de que cada aspecto del linderaje fuera capturado y pudiesen recolectar todos los datos una vez regresaran a Cusco. Durante el ejercicio, utilizaron herramientas para trazar el recorrido, tomar fotos y marcar puntos geográficos.
 
-<iframe width="1000" height="700" src="https://youtu.be/LSsJaC-09V0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="500" src="https://youtu.be/LSsJaC-09V0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Entre las herramientas empleadas, destacan:
 
