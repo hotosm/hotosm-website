@@ -39,8 +39,21 @@
                               </div>
                             </header>
                           </div>
+                          <!-- <p>
+                            {{ project.title }}
+                          </p> -->
+                          <!-- <p><span>
+                            {% if project.Country.size < 3 %}
+                              {% for country in project.Country %}
+                                <i>{{ country }}</i>
+                              {% endfor %}
+                            {% else %}
+                              {{ project.Country.size }} Countries
+                            {% endif %}
+                          </span></p> -->
                         </div>
                       </a>
+                    <!-- {% endif %} -->
                   {% endfor %}
                 {% endfor %}
                 {% for home-news in page.News limit:3 %}
@@ -53,7 +66,13 @@
                             {{ project.title }} 
                           </p>
                           <p><span>
+                            <!-- {% if project.Country.size < 3 %}
+                              {% for country in project.Country %} -->
                                 <i>{{ project['Summary Text'] }}</i>
+                              <!-- {% endfor %}
+                            {% else %}
+                              {{ project.Country.size }} Countries
+                            {% endif %} -->
                           </span></p>
                         </div>
                       </a>
@@ -67,6 +86,15 @@
 
             <div class="container">
               <header class="home-header">
+                <!-- <h1>{{ content }}</h1>
+                <div class="home-cta">
+                  <a href="/what-we-do" class="btn btn-primary btn-lg btn-chevron btn-block">
+                    Learn about what we do
+                  </a>
+                  <a href="https://tasks.hotosm.org/explore" class="btn btn-info btn-lg btn-chevron btn-block class start-mapping-btn ttu font-headline">
+                    Start mapping
+                  </a>
+                </div> -->
               </header>
             </div>
   
@@ -80,8 +108,6 @@
 
           <div class="container home-stats">
             <div class="home-stat">
-              <!-- <center><p class="loader"></p></center> -->
-              <!-- <p class="stat-number" id="Community-Mappers"></p> -->
               <p class="stat-number">491K</p>
               <p class="stat-title">Total Mappers<sup>&#9432;</sup>
                 <span class="tooltiptext">Total number of Mappers using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a>  - as of May 2024</span>
@@ -89,8 +115,6 @@
             </div>
             <div class="hr-v"></div>
             <div class="home-stat">
-              <!-- <center><p class="loader"></p></center>
-              <p class="stat-number" id="Total-Map-Edits"></p> -->
               <p class="stat-number">260M</p>
               <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
                 <span class="tooltiptext">Total number of edits mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> - as of May 2024</span>
@@ -98,8 +122,6 @@
             </div>
             <div class="hr-v hide-sm"></div>
             <div class="home-stat">
-              <!-- <center><p class="loader"></p></center>
-              <p class="stat-number" id="Buildings-Mapped"></p> -->
               <p class="stat-number">156.4M</p>
               <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
                 <span class="tooltiptext">Total number of buildings mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a>  - as of May 2024</span>
@@ -107,8 +129,6 @@
             </div>
             <div class="hr-v"></div>
             <div class="home-stat">
-              <!-- <center><p class="loader"></p></center> -->
-              <!-- <p class="stat-number" id="Roads-Mapped"></p> -->
               <p class="stat-number">3.4M</p>
               <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
                 <span class="tooltiptext">Total length of roads mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> - as of May 2024</span>
