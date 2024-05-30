@@ -48,7 +48,7 @@ Block 2:
       need imagery!</strong> DroneTM empowers communities to create those imagery
       inputs themselves.
 Block 3:
-  Header: Why DroneTM?
+  Header: WHY DroneTM?
   Highlight: Aerial imagery is critical for mapping, but we have been dependent on
     satellites or large, expensive, dangerous drones (usually operated by contractors
     from abroad).
