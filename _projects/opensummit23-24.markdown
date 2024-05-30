@@ -33,8 +33,12 @@ intro-text: |-
   <h5><a href="https://gisday.rootgis.org/">GIS Day Dar es Salaam</a>, Tanzania: November 15-16, 2023</h5><br>
   <h5><a href="https://wiki.openstreetmap.org/wiki/OSM_Kerala_Community_Meetup_2022">OSM Kerala Annual Meet</a>, Kozhikode, India: November 04-05, 2023</h5><br>
   <h5><a href="https://2023.abrelatam.org/">AbreLatam and ConDatos</a>, Montevideo, Uruguay. October 31 - November 03, 2023</h5><br>
-  <h5><a href="https://2023.foss4g-oceania.org/">FOSS4G \+ SotM Oceania</a>, Auckland, New Zealand: October 16-20, 2023</h5><br>
+  <h5><a href="https://2023.foss4g-oceania.org/">FOSS4G + SotM Oceania</a>, Auckland, New Zealand: October 16-20, 2023</h5><br>
   <h5><a href="https://2023.stateofthemapnigeria.org/">State of the Map Nigeria</a>, Abuja, Nigeria: October 11-14, 2023</h5><br>
+
+  <h4>If you are interested in becoming a sponsor of the HOT OpenSummit, <a href="https://cdn.hotosm.org/website/OpenSummit+Sponsorship+Deck+Story+Board.pdf" target="_blank">click here for more information.</h4>
+
+  <br>
 block-0:
   Title: About HOT OpenSummit '23-24
   Text: "HOT's OpenSummit ‘23-24 is ON! \n\nGet ready for a year of global events
