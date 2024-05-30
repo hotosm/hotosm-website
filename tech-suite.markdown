@@ -62,8 +62,11 @@ Fmtm:
     URL: "/tech-suite/field-mapping-tasking-manager/"
 Dtm:
   Header: Drone Tasking Manager (DroneTM)
-  Text: 'An open-source drone tasking platform to coordinate aerial survey activities for target project areas among multiple pilots, incorporating tools and processes to ensure coordinated flight plans for imagery acquisition, and a seamless pipeline for processing and dissemination.'
-  Image: "https://cdn.hotosm.org/website/WhatsApp+Image+2022-07-04+at+15.16.14+(2)+(1).jpeg"
+  Text: An open-source drone tasking platform to coordinate aerial survey activities
+    for target project areas among multiple pilots, incorporating tools and processes
+    to ensure coordinated flight plans for imagery acquisition, and a seamless pipeline
+    for processing and dissemination.
+  Image: https://cdn.hotosm.org/website/WhatsApp+Image+2022-07-04+at+15.16.14+(2)+(1).jpeg
   Tools:
   - Name: Learn More
     URL: "/tech-suite/Drone-tasking-manager/"
