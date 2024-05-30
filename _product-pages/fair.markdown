@@ -4,7 +4,7 @@ date: 2018-02-06 15:16:00 Z
 position: 4
 Show-projects: 'no'
 Show-news: 'yes'
-Show-content: 'no'
+Show-content: 'yes'
 Tool-name: fAIr
 Block 0:
   Header: 
@@ -101,3 +101,9 @@ Block 5:
 layout: product-pages
 ---
 
+<div class="container">
+        <div class="intro-text dtm-photo" style="">
+            <h1 style="font-weight: bolder; margin-top:3%; margin-left:0%; justify-content: center; font-family: Barlow Condensed, sans-serif; margin-bottom:2%">SHOWCASING fAIr</h1>
+            <p style="font-weight: normal; margin-top:3%; margin-left:0%; justify-content: center; margin-bottom:2%">Ths GIF demonstrates how fast fAIr is for predicting building footprints on aerial images, and how intuitive the interface is. Users can easily control quality by clicking on images that seem inaccurate, ensuring precise results.<br> </p>
+            <img style="height: 87%; width: 100%; object-fit: cover; padding-right: 1%; padding-left: 1%; padding-bottom: 1%; padding-top: 1%;background-image: url(/images/dot-pattern.svg);" src="https://www.hotosm.org/uploads/image6.gif">
+</div>
