@@ -49,7 +49,7 @@ Block 2:
       the [GitHub repository](https://github.com/hotosm/OpenAerialMap) to learn more
       about the design and how to get involved in the project.
 Block 3:
-  Header: How does it work?
+  Header: HOW DOES IT WORK?
   Highlight: OpenAerialMap (OAM) is a set of tools for searching, sharing, and using
     openly licensed satellite and unmanned aerial vehicle (UAV) imagery.
   Text: OpenAerialMap creates a place for mappers to store and share their work with
