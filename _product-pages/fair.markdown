@@ -62,7 +62,7 @@ Block 3:
     coming from AI exists (e.g. [META''s global roads dataset](https://mapwith.ai/)
     available in RapiD). However, the models (code) are currently not open-sourced.<br><br>
     **2. Model bias:** Having model biases means predicting over satellite imagery
-    would be biassed toward the training dataset used to teach the AI model and the
+    would be biased toward the training dataset used to teach the AI model and the
     nature and quality of imagery is very different across the globe. Here are three
     different images from Asia and Africa show totally different nature of imagery:<br><br>
     ![OAM pics.png](https://cdn.hotosm.org/website/OAM+pics.png) Source: [OpenAerialMap](https://openaerialmap.org/)<br><br><br>
