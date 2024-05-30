@@ -44,7 +44,7 @@ Block 2:
       software to OSM data directly to our database. Or simply download the data to
       use in your preferred GIS application.
 Block 3:
-  Header: How does it work?
+  Header: HOW DOES IT WORK?
   Highlight: 'Export tool allows you to access data in less than 5 minutes by following
     the steps below:'
   Text: |2-

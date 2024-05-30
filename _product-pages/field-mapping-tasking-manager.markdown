@@ -44,7 +44,7 @@ Block 2:
     Highlight: Unlike other ODK based platforms, FMTM is intended for adding attributes
       to existing geographical features such as buildings or Points of Interest (POIs).
 Block 3:
-  Header: How does it work?
+  Header: HOW DOES IT WORK?
   Highlight: Mobile data collection and mapping works well with Open Data Kit (ODK),
     but field coordination is challenging and FMTM addresses this issue
   Text: The FMTM was designed and built to facilitate mapping by large teams to cover
