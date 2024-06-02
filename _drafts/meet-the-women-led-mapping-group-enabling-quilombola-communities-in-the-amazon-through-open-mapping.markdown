@@ -16,18 +16,20 @@ Recognizing the critical role of mapping for these communities, especially in th
 \
 In this blog, we had the opportunity to talk to Tatiana Pará, Director of Meninas da Geo. Her work focuses on collaborative mapping in the state of Pará, contributing to the advancement of knowledge and sustainable practices in the Amazon region. She shared insights about the project's impact and the ongoing efforts to support these communities.
 
-# \
+# 
+
 **Meninas da Geo: Enabling Women in Geotechnologies**
 
 \
-Tatiana, a professor at the Federal Institute of Pará (IFPA) in Belém, leads Meninas da Geo. With expertise in Agronomy, Geotechnologies, and Amazon Development, Tatiana focuses on research and community projects.\
+Tatiana, a professor at the Federal Institute of Pará (IFPA) in Belém, leads Meninas da Geo. With expertise in Agronomy, Geotechnologies, and Amazon Development, Tatiana focuses on research and community projects.
 
-Founded in 2019, Meninas da Geo has been enabling women for five years by teaching geotechnological skills. They engage in humanitarian mapping and regional activities in the Amazon, connecting with communities and gaining real-world insights. This hands-on approach bridges the gap between academic learning and practical application. Meninas da Geo offers courses, training, project development opportunities, and mapping research across the region.\
+Founded in 2019, Meninas da Geo has been enabling women for five years by teaching geotechnological skills. They engage in humanitarian mapping and regional activities in the Amazon, connecting with communities and gaining real-world insights. This hands-on approach bridges the gap between academic learning and practical application. Meninas da Geo offers courses, training, project development opportunities, and mapping research across the region.
 
 Beyond training, Meninas da Geo benefits numerous women and communities throughout the Amazon. Members, often from rural areas where family farming is predominant, are strengthened to apply their skills and contribute meaningfully to their communities.
 
-# \
-**Building a Collaborative Future with the Quilombola Community**\
+# 
+
+**Building a Collaborative Future with the Quilombola Community**\\
 
 Tatiana's relationship with Moju and the project began in January 2020. Meninas da Geo secured funding, including support from the Ministry of Women, to train in vulnerable regions of Pará, reaching Quilombola areas, indigenous territories, family farmers, and riverine communities. The pandemic limited access to these communities, but dialogue was maintained through 2020 and 2021. In 2022, they resumed in-person activities to understand community needs.
 
@@ -38,11 +40,11 @@ Quilombola communities in Pará, including Moju-PA, face historic struggles for 
 Tatiana said, “We discovered the community faced issues with a Palm Oil company trying to buy their land. In 2023, the Perpetuar team taught the community to use maps and conduct technical recognition of their territory. Community leaders invited us to present our proposal, leading us to collaborative mapping as the best strategy.”
 
 \
-Quilombola territories' invisibility on digital maps weakens their fight for recognition. Financial motives often drive the absence of geographic information, making it easier to falsely claim the land is empty. This hampers recognizing their identity and documenting their history.\
+Quilombola territories' invisibility on digital maps weakens their fight for recognition. Financial motives often drive the absence of geographic information, making it easier to falsely claim the land is empty. This hampers recognizing their identity and documenting their history.\\
 
-The community wanted to understand satellite imagery and recognize their space. They noted their invisibility on maps, even on Google Maps. Meninas da Geo identified and added these roads to the Open Future Maps platform. Working with the Roth and LATAM teams, they mapped the area on the Tasking Manager platform, demonstrating geotechnology is accessible and user-friendly.\
+The community wanted to understand satellite imagery and recognize their space. They noted their invisibility on maps, even on Google Maps. Meninas da Geo identified and added these roads to the Open Future Maps platform. Working with the Roth and LATAM teams, they mapped the area on the Tasking Manager platform, demonstrating geotechnology is accessible and user-friendly.
 
-# Counter-Mapping and Challenging Dominant Mapping Practices\
+# Counter-Mapping and Challenging Dominant Mapping Practices\\
 
 Counter-cartography enables communities to control their own mapping. As Tatiana explains, "Community leaders decide which routes to map and disclose, and which to keep hidden for security reasons." Traditional mapping by large entities or AI can overlook these preferences. The project engages freely and consensually with communities, ensuring they manage their information to maintain safety and privacy.
 
@@ -55,9 +57,9 @@ The goal is to change the mentality, advocating for the use of accessible tools 
 \
 This approach goes beyond standard mapping practices and international norms, reflecting local realities and values. By doing so, communities enable themselves and enhance our understanding of their space, fostering deeper collaboration and reciprocity. This mutual strengthening cultivates stronger bonds and more inclusive, meaningful mapping practices.
 
-# Enabling Communities Through Participatory Geospatial Mapping\
+# Enabling Communities Through Participatory Geospatial Mapping
 
-In essence, the Meninas da Geo group's work with Quilombola communities in Pará exemplifies how participatory geospatial mapping can drive positive change, allowing communities to control their information and shape their narratives and futures. This initiative is significantly advancing the mapping of Quilombola territories and access roads, enhancing visibility and supporting conservation efforts. 
+In essence, the Meninas da Geo group's work with Quilombola communities in Pará exemplifies how participatory geospatial mapping can drive positive change, allowing communities to control their information and shape their narratives and futures. This initiative is significantly advancing the mapping of Quilombola territories and access roads, enhancing visibility and supporting conservation efforts.
 
 \
 As Tatiana says, “This project goes beyond mere mapping; it aims to enable communities through workshops on mapping platforms and tools. The collaborative mapping effort aids in territorial demarcation and fosters a sense of ownership, agency, and resilience among the Quilombola communities of Jambuaçu.”
