@@ -64,7 +64,7 @@ At the end of the program, each municipality will have developed open informatio
 
 * **Quintana Roo, Mexico:** The project maps the geographic locations of temporary shelters in OpenStreetMap (OSM). It collects detailed shelter conditions using KoboToolbox, including area, capacity, services, accessibility, safety measures, and operational duration.\
 
-* **Santa Catarina, Brazil:** The project gathers data on housing and environmental conditions, such as location, services, building materials, and access. The data integrates with the e-SUS APS system to improve health and well-being services.\
+* **Santa Catarina, Brazil:** The project gathers data on housing and environmental conditions, such as location, services, building materials, and access. The data integrates with the e-SUS APS system to improve health and well-being services.
 
 ## Expected Outcomes and Impacts
 
