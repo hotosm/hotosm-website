@@ -56,15 +56,15 @@ At the end of the program, each municipality will have developed open informatio
 
 **Datasets Collected**
 
-* Maipú, Chile: The project in Maipú focuses on identifying various areas (plazas, parks, green spaces), assessing surface types, and special elements like monuments. It evaluates physical accessibility, space usage, and facilities such as playgrounds and trash bins. Observations include makeshift shelters, vandalism, and accidents, with photographic documentation of grass and trees.
+* **Maipú, Chile:** The project in Maipú focuses on identifying various areas (plazas, parks, green spaces), assessing surface types, and special elements like monuments. It evaluates physical accessibility, space usage, and facilities such as playgrounds and trash bins. Observations include makeshift shelters, vandalism, and accidents, with photographic documentation of grass and trees.\
 
-* Quito, Ecuador: The project centers on detailed mapping of buildings to support urban planning and management.
+* **Quito, Ecuador:** The project centers on detailed mapping of buildings to support urban planning and management.\
 
-* Santo Domingo, Ecuador: This project assesses road conditions (state, surface, extent) using Mapillary for street-level mapping. It georeferences government works in Valle Hermoso and completes the street map, identifying points of interest.
+* **Santo Domingo, Ecuador:** This project assesses road conditions (state, surface, extent) using Mapillary for street-level mapping. It georeferences government works in Valle Hermoso and completes the street map, identifying points of interest.\
 
-* Quintana Roo, Mexico: The project maps the geographic locations of temporary shelters in OpenStreetMap (OSM). It collects detailed shelter conditions using KoboToolbox, including area, capacity, services, accessibility, safety measures, and operational duration.
+* **Quintana Roo, Mexico:** The project maps the geographic locations of temporary shelters in OpenStreetMap (OSM). It collects detailed shelter conditions using KoboToolbox, including area, capacity, services, accessibility, safety measures, and operational duration.\
 
-* Santa Catarina, Brazil: The project gathers data on housing and environmental conditions, such as location, services, building materials, and access. The data integrates with the e-SUS APS system to improve health and well-being services.
+* **Santa Catarina, Brazil:** The project gathers data on housing and environmental conditions, such as location, services, building materials, and access. The data integrates with the e-SUS APS system to improve health and well-being services.\
 
 ## Expected Outcomes and Impacts
 
@@ -74,17 +74,17 @@ We will start the construction or consolidation of beneficial relationships betw
 
 Currently, we are collaborating with six local governments as follows:
 
-* **Chihuahua, Mexico: **To be defined.\
+* **Chihuahua, Mexico:** To be defined.\
 
 * **Quintana Roo, Mexico:** Located in the Caribbean, Quintana Roo faces significant climate risks due to its high susceptibility to hurricanes and tropical storms. These events can cause widespread damage to infrastructure and necessitate the use of shelters. Heavy rainfall associated with these storms often leads to significant flooding, impacting crucial infrastructure and requiring robust emergency preparedness and response measures. To address these risks, we will lead the government to collaboratively map shelters for contingencies and crucial infrastructure in at least the capital city Chetumal.\
 
-* **Quito, Ecuador: **Quito is located in a seismically active region, making it vulnerable to earthquakes. This necessitates a focus on building safety and structural integrity to minimize damage and ensure public safety. Additionally, heavy rainfall can trigger landslides, particularly in areas with steep terrain, further exacerbating the risks associated with seismic activity. We will address the state of buildings in seismic contexts by accompañying the team in conducting fieldwork to identify building cracks, affected areas, and collecting cadastral information.\
+* **Quito, Ecuador:** Quito is located in a seismically active region, making it vulnerable to earthquakes. This necessitates a focus on building safety and structural integrity to minimize damage and ensure public safety. Additionally, heavy rainfall can trigger landslides, particularly in areas with steep terrain, further exacerbating the risks associated with seismic activity. We will address the state of buildings in seismic contexts by accompañying the team in conducting fieldwork to identify building cracks, affected areas, and collecting cadastral information.\
 
-* **Santo Domingo Tsáchilas, Ecuador: **Public services infrastructure is often less resilient to climate impacts such as extreme weather events (e.g., heavy rains, floods) and gradual changes (e.g., increased temperature, changing precipitation patterns). Limited accessibility to essential services during emergencies can further exacerbate the population's vulnerability. We will lead the local team to diagnose public services infrastructure in these areas and training staff to collect and process field data.\
+* **Santo Domingo Tsáchilas, Ecuador:** Public services infrastructure is often less resilient to climate impacts such as extreme weather events (e.g., heavy rains, floods) and gradual changes (e.g., increased temperature, changing precipitation patterns). Limited accessibility to essential services during emergencies can further exacerbate the population's vulnerability. We will lead the local team to diagnose public services infrastructure in these areas and training staff to collect and process field data.\
 
-* **Maipú, Chile: **Maipú experiences higher temperatures in urban areas due to the concentration of buildings and asphalt, known as urban heat islands, which can lead to increased energy consumption, health issues, and reduced air quality. Additionally, poor air quality, exacerbated by high temperatures and urban pollution, poses significant health risks to residents. We will lead the local team in conducting diagnostics on heat islands in the city and planning parks to improve air quality and visualize this information in urban infrastructure.\
+* **Maipú, Chile:** Maipú experiences higher temperatures in urban areas due to the concentration of buildings and asphalt, known as urban heat islands, which can lead to increased energy consumption, health issues, and reduced air quality. Additionally, poor air quality, exacerbated by high temperatures and urban pollution, poses significant health risks to residents. We will lead the local team in conducting diagnostics on heat islands in the city and planning parks to improve air quality and visualize this information in urban infrastructure.\
 
-* **Santa Catarina, Brazil: **Socioeconomic factors, including poverty and limited access to health services, can amplify the impacts of climate-related events such as floods, storms, and extreme heat. Ensuring adequate access to health services is critical, especially in the face of climate-induced health risks like heatwaves and vector-borne diseases. We will train the team to gather socioeconomic information and data on access to health services, through  Kobo platform.
+* **Santa Catarina, Brazil:** Socioeconomic factors, including poverty and limited access to health services, can amplify the impacts of climate-related events such as floods, storms, and extreme heat. Ensuring adequate access to health services is critical, especially in the face of climate-induced health risks like heatwaves and vector-borne diseases. We will train the team to gather socioeconomic information and data on access to health services, through  Kobo platform.
 
 The approach by working with these governments is to co-design each project and custom the testing and accompaniment through diagnostic sessions.
 
