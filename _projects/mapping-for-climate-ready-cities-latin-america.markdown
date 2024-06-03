@@ -1,12 +1,10 @@
 ---
 title: Mapping for Climate Ready Cities - Latin America
 date: 2024-02-08 18:14:00 Z
-Project Summary Text: Through the Mapping for Climate Resilient Cities Programme,
-  HOT is supporting the development of a thriving ecosystem focused on the creation,
-  interpretation, and use of maps to respond to and reduce climate risks in urban
-  areas across four priority regions in Latin America. In collaboration with the Open
-  Government Partnership (OGP), we are working with six municipalities and states
-  in Mexico, Ecuador, Chile, and Brazil.
+Project Summary Text: Through our Mapping for Climate Ready Cities program, HOT is
+  supporting the development of a thriving ecosystem focused on the creation, interpretation,
+  and use of maps to respond to and reduce climate risks in urban areas across four
+  priority regions. This project page highlights our work in Latin America.
 Feature Image: https://cdn.hotosm.org/website/Jamaica.JPG
 Impact Area:
 - Sustainable Cities & Communities
@@ -34,13 +32,11 @@ This project builds upon HOT-LAC's previous two years of work, collaborating wit
 
 The main focus of this project will be to train selected local  governments across the region, in partnership with the [Open Government Partnership (OGP)](https://www.opengovpartnership.org/). We will use public engagement, data collection, and systemic changes to create strong networks around the data in these cities. These networks will be pivotal for inclusive planning aimed at improving environmental conditions and quality of life in previously underserved communities.
 
-This project will use public participation, data creation, and systemic reforms to generate experienced networks in these cities that will be the basis for inclusive planning for improving the living conditions in many communities that have been ignored until now.
-
 ## Background
 
-Most countries in Latin America face the challenge of having incomplete, outdated, and unequal national cartographic datasets, resulting in the exclusion of many vulnerable populations and isolated localities from official maps. This lack hampers evidence-based planning and the development of innovative and sustainable public policies to address the impacts of climate change on these underserved communities. Reasons are too wide gaps in territorial information, fast changes of land uses, and lack of resources, and technical capacities.
+Most countries in Latin America face the challenge of having incomplete, outdated, and unequal national cartographic datasets, resulting in the exclusion of many vulnerable populations and isolated localities from official maps. This lack of data hampers evidence-based planning and the development of innovative and sustainable public policies to address the impacts of climate change on these underserved communities. Some of the reasons for this include broad gaps in territorial information, fast changes of land uses, and lack of resources and technical capacities.
 
-The Climate Cities project in LAC is based on a solid experience in training and technical assistance to local governments in Latin America, focusing on data management for more efficient and resilient local policies. Long-term initiatives such as Open Cities in Tulum,  Mexico, and [Chimaltenango, Guatemala](https://www.hotosm.org/projects/opencities-guatemala-EN/) have laid the groundwork, followed in 2023 by the development of a comprehensive practical teaching method for municipalities in collaboration with Mexico's Ministry of Agrarian, Territorial, and Urban Development (SEDATU).
+The Climate Cities project in LAC is based on the team's solid experience in training and technical assistance to local governments in Latin America, focusing on data management for more efficient and resilient local policies. Long-term initiatives such as Open Cities in Tulum,  Mexico, and [Chimaltenango, Guatemala](https://www.hotosm.org/projects/opencities-guatemala-EN/) have laid the groundwork, followed in 2023 by the development of a comprehensive practical teaching method for municipalities in collaboration with Mexico's Ministry of Agrarian, Territorial, and Urban Development (SEDATU).
 
 In 2024, a collaboration was established with a new network of organizations and governments, the Open Government Partnership-Local, which issued a call for local governments to participate in similar training until achieving integrated results in current public policy processes and urban planning.
 
@@ -71,9 +67,9 @@ We will start the construction or consolidation of beneficial relationships betw
 Currently, we are collaborating with six local governments as follows:
 
 * **Chihuahua, Mexico:** To be defined.
-* **Quintana Roo, Mexico:** Located in the Caribbean, Quintana Roo faces significant climate risks due to its high susceptibility to hurricanes and tropical storms. These events can cause widespread damage to infrastructure and necessitate the use of shelters. Heavy rainfall associated with these storms often leads to significant flooding, impacting crucial infrastructure and requiring robust emergency preparedness and response measures. To address these risks, we will lead the government to collaboratively map shelters for contingencies and crucial infrastructure in at least the capital city Chetumal.
-* **Quito, Ecuador:** Quito is located in a seismically active region, making it vulnerable to earthquakes. This necessitates a focus on building safety and structural integrity to minimize damage and ensure public safety. Additionally, heavy rainfall can trigger landslides, particularly in areas with steep terrain, further exacerbating the risks associated with seismic activity. We will address the state of buildings in seismic contexts by accompañying the team in conducting fieldwork to identify building cracks, affected areas, and collecting cadastral information.
-* **Santo Domingo Tsáchilas, Ecuador:** Public services infrastructure is often less resilient to climate impacts such as extreme weather events (e.g., heavy rains, floods) and gradual changes (e.g., increased temperature, changing precipitation patterns). Limited accessibility to essential services during emergencies can further exacerbate the population's vulnerability. We will lead the local team to diagnose public services infrastructure in these areas and training staff to collect and process field data.
+* **Quintana Roo, Mexico:** Located in the Caribbean, Quintana Roo faces significant climate risks due to its high susceptibility to hurricanes and tropical storms. These events can cause widespread damage to infrastructure and necessitate the use of shelters. Heavy rainfall associated with these storms often leads to significant flooding, impacting crucial infrastructure and requiring robust emergency preparedness and response measures. To address these risks, we will lead the government to collaboratively map shelters for contingencies and crucial infrastructure in at least the capital city of Chetumal.
+* **Quito, Ecuador:** Quito is located in a seismically active region, making it vulnerable to earthquakes. This necessitates a focus on building safety and structural integrity to minimize damage and ensure public safety. Additionally, heavy rainfall can trigger landslides, particularly in areas with steep terrain, further exacerbating the risks associated with seismic activity. We will address the state of buildings in seismic contexts by accompanying the team in conducting fieldwork to identify building cracks, affected areas, and collecting cadastral information.
+* **Santo Domingo Tsáchilas, Ecuador:** Public services infrastructure is often less resilient to climate impacts such as extreme weather events (e.g., heavy rains, floods) and gradual changes (e.g. increased temperature, changing precipitation patterns). Limited accessibility to essential services during emergencies can further exacerbate the population's vulnerability. We will lead the local team to diagnose public services infrastructure in these areas and training staff to collect and process field data.
 * **Maipú, Chile:** Maipú experiences higher temperatures in urban areas due to the concentration of buildings and asphalt, known as urban heat islands, which can lead to increased energy consumption, health issues, and reduced air quality. Additionally, poor air quality, exacerbated by high temperatures and urban pollution, poses significant health risks to residents. We will lead the local team in conducting diagnostics on heat islands in the city and planning parks to improve air quality and visualize this information in urban infrastructure.
 * **Santa Catarina, Brazil:** Socioeconomic factors, including poverty and limited access to health services, can amplify the impacts of climate-related events such as floods, storms, and extreme heat. Ensuring adequate access to health services is critical, especially in the face of climate-induced health risks like heatwaves and vector-borne diseases. We will train the team to gather socioeconomic information and data on access to health services, through Kobo platform.
 
