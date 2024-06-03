@@ -20,7 +20,7 @@ Recognizing the critical role of mapping for these communities, especially in th
 
 In this blog, we had the opportunity to talk to Tatiana Pará, Director of Meninas da Geo. Her work focuses on collaborative mapping in the state of Pará, contributing to the advancement of knowledge and sustainable practices in the Amazon region. She shared insights about the project's impact and the ongoing efforts to support these communities.
 
-**Meninas da Geo: Enabling Women in Geotechnologies**
+# Meninas da Geo: Enabling Women in Geotechnologies
 
 ![Quilombolas - Meninas da Geo.jpg](/uploads/Quilombolas%20-%20Meninas%20da%20Geo.jpg)
 *Photo description: Tatiana Pará stands alongside the women members of Meninas da Geo.*
@@ -31,10 +31,9 @@ Founded in 2019, Meninas da Geo has been enabling women for five years by teachi
 
 Beyond training, Meninas da Geo benefits numerous women and communities throughout the Amazon. Members, often from rural areas where family farming is predominant, are strengthened to apply their skills and contribute meaningfully to their communities.
 
-**Building a Collaborative Future with the Quilombola Community**
+# Building a Collaborative Future with the Quilombola Community
 
 ![Quilombolas - Tatiana Pará - Meninas da Geo.jpg](/uploads/Quilombolas%20-%20Tatiana%20Para%CC%81%20-%20Meninas%20da%20Geo.jpg)
-
 *Photo description: Tatiana Pará is presenting the project to community leaders in Moju, Pará.*
 
 Tatiana's relationship with Moju and the project began in January 2020. Meninas da Geo secured funding, including support from the Ministry of Women, to train in vulnerable regions of Pará, reaching Quilombola areas, indigenous territories, family farmers, and riverine communities. The pandemic limited access to these communities, but dialogue was maintained through 2020 and 2021. In 2022, they resumed in-person activities to understand community needs.
