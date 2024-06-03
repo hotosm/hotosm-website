@@ -37,7 +37,7 @@
         autoSlideInterval = setInterval(() => {
           currentIndex = (currentIndex + 1) % slides.length;
           navigateToSlide(currentIndex);
-        }, 5000);
+        }, 8000);
       }
   
       // Arrow navigation functionality
