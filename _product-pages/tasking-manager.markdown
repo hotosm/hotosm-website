@@ -45,7 +45,7 @@ Block 2:
     Highlight: TM enables users to effortlessly access OSM data directly from the
       task project.
 Block 3:
-  Header: How does it work?
+  Header: HOW DOES IT WORK?
   Highlight: Tasking Manager allows multiple individuals to work simultaneously on
     the same overall area, enabling rapid completion of the project.
   Text: hrough the TM, organizations create projects in which a specific geographic

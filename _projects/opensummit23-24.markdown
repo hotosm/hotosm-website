@@ -1,7 +1,7 @@
 ---
 title: HOT OpenSummit 23-24
 date: 2023-07-17 20:29:00 Z
-Feature Image: https://cdn.hotosm.org/website/opensummit-banner-2023-2024.png
+Feature Image: https://cdn.hotosm.org/website/SOTMTanzaniaUnSummit.jpeg
 Summary Text: HOT OpenSummit 23-24 and open our call for collaborations so more communities
   and organizations around the world bring their events as part of this global movement.
 summit-image: https://cdn.hotosm.org/website/Website+MainBanner-51e09d.png
