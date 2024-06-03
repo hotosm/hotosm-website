@@ -18,12 +18,12 @@ In the region of Moju-PA, Brazil, lie the Quilombolas communities of Jambuaçu. 
 
 Recognizing the critical role of mapping for these communities, especially in the ongoing recognition and land titling processes in Pará, the [Meninas da Geo](https://meninas.sbc.org.br/portfolio-3/meninas-da-geotecnologia/) (meaning Girls of Geo in English) group has spearheaded remote and collaborative mapping actions in Moju-PA with the support of the [Open Mapping Hub in Latin America and the Caribbean (LAC Hub)](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/).
 
-In this blog, we had the opportunity to talk to Tatiana Pará, Director of Meninas da Geo. Her work focuses on collaborative mapping in the state of Pará, contributing to the advancement of knowledge and sustainable practices in the Amazon region. She shared insights about the project's impact and the ongoing efforts to support these communities.\\
+In this blog, we had the opportunity to talk to Tatiana Pará, Director of Meninas da Geo. Her work focuses on collaborative mapping in the state of Pará, contributing to the advancement of knowledge and sustainable practices in the Amazon region. She shared insights about the project's impact and the ongoing efforts to support these communities.
 
 **Meninas da Geo: Enabling Women in Geotechnologies**
 
-![Quilombolas - Meninas da Geo.jpg](/uploads/Quilombolas%20-%20Meninas%20da%20Geo.jpg)*\
-Photo description: Tatiana Pará stands alongside the women members of Meninas da Geo.*
+![Quilombolas - Meninas da Geo.jpg](/uploads/Quilombolas%20-%20Meninas%20da%20Geo.jpg)
+*Photo description: Tatiana Pará stands alongside the women members of Meninas da Geo.*
 
 Tatiana, a professor at the Federal Institute of Pará (IFPA) in Belém, leads Meninas da Geo. With expertise in Agronomy, Geotechnologies, and Amazon Development, Tatiana focuses on research and community projects.
 
@@ -45,7 +45,6 @@ Tatiana said:
 
 ![Quilombolas - Palm Oil Plantation.jpg](/uploads/Quilombolas%20-%20Palm%20Oil%20Plantation.jpg)
 
-\
 Quilombola territories' invisibility on digital maps weakens their fight for recognition. Financial motives often drive the absence of geographic information, making it easier to falsely claim the land is empty. This hampers recognizing their identity and documenting their history.
 
 The community wanted to understand satellite imagery and recognize their space. They noted their invisibility on maps, even on Google Maps. Meninas da Geo identified and added these roads to the Open Future Maps platform. Working with the Roth and LATAM teams, they mapped the area on the Tasking Manager platform, demonstrating geotechnology is accessible and user-friendly.
@@ -53,7 +52,6 @@ The community wanted to understand satellite imagery and recognize their space. 
 # Counter-Mapping and Challenging Dominant Mapping Practices
 
 ![Quilombolas - Meninas da Geo - Projecto Perpetuar.jpg](/uploads/Quilombolas%20-%20Meninas%20da%20Geo%20-%20Projecto%20Perpetuar.jpg)
-
 *Photo description: On the right, Tatiana Pará is seen looking at Samilly Valadares, the leader of the Perpetuar Project, both engaged in a focused conversation. On the left, Quilombola community leaders pose with the Meninas da Geo group for a picture.*
 
 Counter-cartography enables communities to control their own mapping. As Tatiana explains, "Community leaders decide which routes to map and disclose, and which to keep hidden for security reasons." Traditional mapping by large entities or AI can overlook these preferences. The project engages freely and consensually with communities, ensuring they manage their information to maintain safety and privacy.
