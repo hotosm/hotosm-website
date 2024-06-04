@@ -4,6 +4,8 @@ date: 2024-06-04 02:07:00 Z
 Summary Text: Explore the transformative impact of the OpenCities project in San José
   Poaquil, Guatemala, where geospatial data and community engagement are enabling
   indigenous forest management, and helping communities adapt to climate change.
+Feature Image: "/uploads/Strengthening%20Indigenous%20Forest%20Management%20with%20Open%20Mapping%20in%20Guatemala-0abff0.jpg"
+Person: Carlos Duarte
 Country:
 - Guatemala
 Project:
