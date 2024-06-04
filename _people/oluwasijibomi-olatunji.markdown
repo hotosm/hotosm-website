@@ -7,7 +7,7 @@ Member Type:
 Job Title: Global Human Resources Manager
 Team: Global
 Social Media (Full URL):
-  OSM: https://www.openstreetmap.org/user/Sijibomi%20Olatunji
+  OSM: https://www.openstreetmap.org/user/sijibom
 ---
 
 Sijibomi joins as the Global Human Resources Manager and will be responsible for leading decisions on policy and performance management, compliance, and compensation within the HOT team.
