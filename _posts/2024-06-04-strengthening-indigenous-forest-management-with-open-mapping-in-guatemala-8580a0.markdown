@@ -20,7 +20,7 @@ The [OpenCities project in San José Poaquil](https://www.hotosm.org/projects/op
 
 In this blog, Carlos Duarte, Director of Geotecnológica in Central America and the implementing partner of [OpenCities Guatemala](https://www.hotosm.org/projects/opencities-guatemala-EN/), shares his field experiences, and strategies for ensuring long-term sustainability of the project and community participation. He explores the efforts of the [indigenous Brotherhood of San José Poaquil](https://www.hotosm.org/projects/opencities-guatemala-EN/) in managing communal lands and forests, the role of geospatial data in sustainable management, and the integration of local culture and traditional knowledge.
 
-<iframe width="800" height="450" src="https://youtu.be/ULafrC2psRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ULafrC2psRM?si=5l80TxZpKGL_bYAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # The OpenCities Project in San José Poaquil, Guatemala
 
@@ -28,7 +28,7 @@ San José Poaquil is a municipality in the Chimaltenango Department, made up of 
 
 The OpenCities Project in San José Poaquil focused on developing a concept called ["Community Forest Management Model supported by geospatial data."](https://www.hotosm.org/updates/indigenous-worldview-in-community-forestry-management-through-open-data/) The central idea behind this concept is to promote and support the formulation of projects and initiatives for forest conservation, forest restoration, and sustainable forest management at the community level, through a capacity-building process for the generation and use of geospatial data and the creation of an information platform that contributes to planning, monitoring, and decision-making on sustainable forest management projects in the community of San José Poaquil.
 
-<iframe width="800" height="450" src="https://www.youtube.com/watch?v=zYn3gQutegY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zYn3gQutegY?si=-gSAVi0dPbP38XAQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The project created local capacities to generate geospatial data that improved the effectiveness of forest management in San José Poaquil. Participatory and remote mapping activities focused on creating key data for the formulation, implementation, and monitoring of the forest management plan, such as delineating the communal forest area according to legal documentation, mapping the different forest strata in community lands, the natural and cultural value attributes of the forest such as water sources for the municipal headwaters, sites of importance for gathering medicinal plants, sacred sites for the Kaqchikel people, sites with ecotourism potential, etc. Threats to the forest, such as agricultural frontier, sites with forest fire incidence, and illicit extraction of forest products were also mapped.
 
@@ -36,7 +36,7 @@ The Project developed a set of mobile applications designed to continuously moni
 
 The project anticipates that the production of basic cartography to formulate a community forest management plan, tools for continuous monitoring of forest threats, and the strong commitment of the guild as a local counterpart will help achieve an effective and long-term contribution to the conservation of the community forest. This will be a cornerstone in community resilience to climate change, as these forests are not only a source of water for human consumption and agriculture, but also supports livelihoods directly.
 
-<iframe width="800" height="450" src="https://www.youtube.com/watch?v=32RGIkQPbkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/32RGIkQPbkQ?si=QserPSvhARzCDnLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Challenges and Sustainability
 
