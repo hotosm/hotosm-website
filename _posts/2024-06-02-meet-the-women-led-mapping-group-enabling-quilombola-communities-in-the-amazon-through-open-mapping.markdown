@@ -48,7 +48,7 @@ Tatiana said:
 
 Quilombola territories' invisibility on digital maps weakens their fight for recognition. Financial motives often drive the absence of geographic information, making it easier to falsely claim the land is empty. This hampers recognizing their identity and documenting their history.
 
-The community wanted to understand satellite imagery and recognize their space. They noted their invisibility on maps, even on Google Maps. Meninas da Geo identified and added these roads to the Open Future Maps platform. Working with the Roth and LATAM teams, they mapped the area on the Tasking Manager platform, demonstrating geotechnology is accessible and user-friendly.
+The community wanted to understand satellite imagery and recognize their space. They noted their invisibility on maps, even on Google Maps. Meninas da Geo identified and added these roads to the Open Future Maps platform. Working with the LAC Hub and OSM Latin America Community, they mapped the area on the Tasking Manager platform, demonstrating geotechnology is accessible and user-friendly.
 
 # Counter-Mapping and Challenging Dominant Mapping Practices
 
