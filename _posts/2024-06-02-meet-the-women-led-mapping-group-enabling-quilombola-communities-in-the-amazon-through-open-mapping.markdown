@@ -22,8 +22,8 @@ In this blog, we had the opportunity to talk to Tatiana Pará, Director of Menin
 
 # Meninas da Geo: Enabling Women in Geotechnologies
 
-![Quilombolas - Meninas da Geo.jpg](/uploads/Quilombolas%20-%20Meninas%20da%20Geo.jpg)
-*Photo description: Tatiana Pará stands alongside the women members of Meninas da Geo.*
+![Quilombolas - Meninas da Geo - Projecto Perpetuar v1.jpg](/uploads/Quilombolas%20-%20Meninas%20da%20Geo%20-%20Projecto%20Perpetuar%20v1.jpg)
+*Photo description: From left to right standing: Isabela, Malu, Mariane, Bianca, Vanessa, Fabiola, Nayara, Thayná, and Gleiciane. From left to right seated: Juliana, Nathália,  Tatiana, Marcela, Luciana, and Jessica.*
 
 Tatiana, a professor at the Federal Institute of Pará (IFPA) in Belém, leads Meninas da Geo. With expertise in Agronomy, Geotechnologies, and Amazon Development, Tatiana focuses on research and community projects.
 
