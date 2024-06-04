@@ -14,7 +14,9 @@ Country:
 - Brazil
 ---
 
-In the region of Moju-PA, Brazil, lie the Quilombolas communities of Jambuaçu. These communities, part of the Northeast Region which houses 69.19% of Brazil's Quilombolas, are fighting for their land rights against formidable challenges, particularly from the palm oil industry. Quilombolas in Brazil are Afro-descendants who live in communities reminiscent of the ancient quilombos (the word for “settlement” in the Angolan language of *Kimbundu*)—originally formed by people who escaped slavery during the colonial era, and kept African ways of living and culture alive. Known for their agricultural activities, these communities are marked by their ongoing political and territorial struggles.
+In the region of Moju-PA, Brazil, lie the Quilombolas communities of Jambuaçu. These communities, part of the Northeast Region which houses 69.19% of Brazil's Quilombolas, are fighting for their land rights against formidable challenges, particularly from the industrial enterprises pressure in the region.
+
+Quilombolas in Brazil are Afro-descendants who live in communities reminiscent of the ancient quilombos (the word for “settlement” in the Angolan language of *Kimbundu*)—originally formed by people who escaped slavery during the colonial era, and kept African ways of living and culture alive. Known for their agricultural activities, these communities are marked by their ongoing political and territorial struggles.
 
 Recognizing the critical role of mapping for these communities, especially in the ongoing recognition and land titling processes in Pará, the [Meninas da Geo](https://meninas.sbc.org.br/portfolio-3/meninas-da-geotecnologia/) (meaning Girls of Geo in English) group has spearheaded remote and collaborative mapping actions in Moju-PA with the support of the [Open Mapping Hub in Latin America and the Caribbean (LAC Hub)](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/).
 
