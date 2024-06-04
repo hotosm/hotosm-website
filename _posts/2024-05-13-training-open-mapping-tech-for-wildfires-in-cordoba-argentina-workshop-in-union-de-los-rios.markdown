@@ -7,7 +7,7 @@ tags:
 Summary Text: 'On April 1 2024, we did a workshop called “Open Mapping for Inclusive
   and Sustainable Development. Mapping Tech in Wildland Areas: Forest Fires Edition”
   in Unión de Los Ríos, Córdoba, Argentina.'
-Feature Image: "/uploads/ArgentinaWildfires10.png"
+Feature Image: "/uploads/union-de-los-rios-e2e.png"
 Person: Emilio Mariscal
 Country:
 - Argentina
