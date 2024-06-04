@@ -4,6 +4,7 @@ date: 2024-06-04 15:47:00 Z
 Summary Text: Hi everyone,  we are nearly halfway through 2024 and are excited to
   share some updates of HOT's AI-assisted mapping service (fAIr) - specifically the
   successful fAIr production release on 31st May 2024!
+Feature Image: "/uploads/fAIrJune2024A.png"
 ---
 
 fAIr production release is a crucial milestone in fAIr’s roadmap in 2024. It means that main testing and verification has taken place, any major blockers have been fixed and fAIr is now available for wider OSM communities on the production url https://fair.hotosm.org/.  You can explore more about the roadmap in the public link in Asana, here. 
