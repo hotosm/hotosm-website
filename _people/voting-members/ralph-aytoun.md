@@ -22,7 +22,7 @@ Project:
 - Nepal 2015 Earthquake Response
 - Field Papers
 Country: United Kingdom
-Team: UK Global
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/RAytoun
   Twitter: https://twitter.com/RalphAytoun1

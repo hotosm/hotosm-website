@@ -9,95 +9,157 @@
       {% include nav.html %}
       <div class="page-content">
 
-        <div class="home">
 
-          <div class="container">
-            <header class="home-header">
-              <h1>{{ content }}</h1>
-              <div class="home-cta">
-                <a href="/what-we-do" class="btn btn-primary btn-lg btn-chevron btn-block">
-                  Learn about what we do
-                </a>
-                <a href="https://tasks.hotosm.org/explore" class="btn btn-info btn-lg btn-chevron btn-block class start-mapping-btn ttu font-headline">
-                  Start mapping
-                </a>
-              </div>
-            </header>
-          </div>
-
-          <div class="home-highlights-controls">
-
-            <div class="home-controls">
-              <div class="control" id="control-left">Left</div>
-              <div class="control" id="control-right">Right</div>
+  <section class="container-carrousel">
+    <!-- controls -->
+    <div class="slider-wrapper">
+      <!-- images -->
+      <div class="slider">
+        <div class="slide">
+          <img id="slide-1" src="https://cdn.hotosm.org/website/0_AtsGVCWwFktmTjCQ.jpg" alt="HOT IS AN INTERNATIONAL TEAM DEDICATED TO HUMANITARIAN ACTION AND COMMUNITY DEVELOPMENT THROUGH OPEN MAPPING."/>
+          <div class="overlay">
+            <div class="overlay-text">
+              <h3 class="home-carrousel-title" style="background-color: #D73F3F; padding: 2%; color: white;">HOT IS AN INTERNATIONAL TEAM DEDICATED TO HUMANITARIAN ACTION AND COMMUNITY DEVELOPMENT THROUGH OPEN MAPPING.</h3>
             </div>
-
-            <div class="home-highlights">
-
-              <div class="home-highlights-wrapper piwikTrackContent">
-
-                {% for home-project in page.Project %}
-                  {% for project in site.projects %}
-                    {% if home-project == project.title %}
-                      <a href="{{ project.url }}" class="home-highlight">
-                        <img src="{{ project['Feature Image'] }}">
-                        <div class="home-highlight-title">
-                          <p>
-                            {{ project.title }}
-                          </p>
-                          <p><span>
-                            {% if project.Country.size < 3 %}
-                              {% for country in project.Country %}
-                                <i>{{ country }}</i>
-                              {% endfor %}
+            <div class="overlay-buttons">
+              <a href="/what-we-do" class="btn btn-primary btn-lg btn-chevron btn-block font-headline" style="background-color: rgba(255, 255, 255, 0.75); color: black;">
+                LEARN WHAT WE DO&nbsp; &nbsp; 
+              </a>
+              <a href="https://tasks.hotosm.org/explore" class="btn btn-info btn-lg btn-chevron btn-block class start-mapping-btn ttu font-headline">
+                Start mapping&nbsp; &nbsp;
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="slide">
+          {% assign recent_projects = site.projects | sort:"date" | reverse %}
+          {% assign project_count = 0 %}
+          {% for project in recent_projects offset:18 %}
+          {% assign project_count = project_count | plus: 1 %}
+          <img id="slide-2" src="{{ project['Feature Image'] }}" alt="{{ project.title }}"/>
+          <div class="overlay-alt">
+            <div class="overlay-text">
+              <h3 class="home-carrousel-projects" style="background-color: white; padding: 2%;">PROJECT: <a  style="color: black;" href="{{ project.url }}">{{ project.title }}</a></h3>
+              {% if project_count > 0 %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+            </div>  
+          </div>
+        </div>
+        <div class="slide">
+          {% for post in site.programs limit:1 %}
+          <img id="slide-3" src="{{ post['Feature Image'] }}" alt="slide3" />
+          <div class="overlay-alt">
+            <div class="overlay-text">
+              <h3 class="home-carrousel-projects" style="background-color: white; padding: 2%;">PROGRAM: <a  style="color: black;" href="{{ post.url }}">{{ post.title }} -  
+                {% if post.Country != '' %}
+                    {% for country in post.Country %}
+                          {% if country != '' %}
+                                {% if post.Country.size <= 3 %}
+                                    {{ country }}{% unless forloop.last %},{% endunless %}
+                                  {% else %}
+                                    {% assign count = post.Country.size %}
+                                      {{post.Country[0]}} and {{ count | minus:1 }} other countries
+                                    {% break %}
+                                {% endif %}
                             {% else %}
-                              {{ project.Country.size }} Countries
-                            {% endif %}
-                          </span></p>
-                        </div>
-                      </a>
-                    {% endif %}
-                  {% endfor %}
-                {% endfor %}
+                              Global
+                          {% endif %}
+                    {% endfor %}
+                {% endif %}
+              {% endfor %}
+              </a>  
+            </h3>
+            </div>  
+          </div>  
+        </div>
+        <div class="slide">
 
-              </div>
-            </div>
+
+          {% assign recent_projects = site.tech-blog | concat: site.posts | sort: 'date' | reverse %}
+            {% assign project_count = 0 %}
+                {% for project in recent_projects %}
+                  {% if project.tags contains 'tech' %}          
+                    {% assign project_count = project_count | plus: 1 %}
+                  <img id="slide-4" src="{{ project['Feature Image'] }}" alt="{{ project.title }}"/>
+                  <div class="overlay-alt">
+                    <div class="overlay-text">
+                      <h3 class="home-carrousel-projects" style="background-color: white; padding: 2%;">TECH UPDATE: <a  style="color: black;" href="{{ project.url }}">{{ project.title }}</a></h3>
+                  {% if project_count > 0 %}                          
+                  {% break %}    
+                {% endif %}
+              {% endif %}
+              {% endfor %}
+            </div>  
           </div>
+        </div>
+        <div class="slide">
+          {% for home-news in page.News limit:3 %}
+                  {% for project in site.projects %}
+                  {% if home-news == project.title %}
+          <img id="slide-5" src="{{ project['Feature Image'] }}" alt="{{ project.title }}"/>
+          <div class="overlay-alt">
+            <div class="overlay-text">
+              <h3 class="home-carrousel-projects" style="background-color: white; padding: 2%;">EVENTS: <a style="color: black;" href="{{ project.url }}">{{ project['Summary Text'] }}</a></h3>
+              {% endif %}
+              {% endfor %}
+          {% endfor %}
+            </div>  
+          </div>
+        </div>
+      </div>
+
+      <div class="slider-nav">
+        <a href="#slide-1" data-slide="0"></a>
+        <a href="#slide-2" data-slide="1"></a>
+        <a href="#slide-3" data-slide="2"></a>
+        <a href="#slide-4" data-slide="3"></a>
+        <a href="#slide-5" data-slide="4"></a>
+      </div>
+
+      <!-- Arrows for navigation -->
+      <button class="arrow left">&lt;</button>
+      <button class="arrow right">&gt;</button>
+    </div>
+  </section>
+
+  <script src="/js/carrousel-homepage.js"></script>
+  
+
+
+
+        
+
+
+
 
           <div class="container home-stats">
             <div class="home-stat">
-              <!-- <center><p class="loader"></p></center> -->
-              <!-- <p class="stat-number" id="Community-Mappers"></p> -->
-              <p class="stat-number">468K</p>
+              <p class="stat-number">491K</p>
               <p class="stat-title">Total Mappers<sup>&#9432;</sup>
-                <span class="tooltiptext">Total number of Mappers using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a>  - As of Dec. 2023</span>
+                <span class="tooltiptext">Total number of Mappers using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a>  - as of May 2024</span>
               </p>
             </div>
             <div class="hr-v"></div>
             <div class="home-stat">
-              <!-- <center><p class="loader"></p></center>
-              <p class="stat-number" id="Total-Map-Edits"></p> -->
-              <p class="stat-number">246.7M</p>
+              <p class="stat-number">260M</p>
               <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
-                <span class="tooltiptext">Total number of edits mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> - As of Dec. 2023</span>
+                <span class="tooltiptext">Total number of edits mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> - as of May 2024</span>
               </p>
             </div>
             <div class="hr-v hide-sm"></div>
             <div class="home-stat">
-              <!-- <center><p class="loader"></p></center>
-              <p class="stat-number" id="Buildings-Mapped"></p> -->
-              <p class="stat-number">147.5M</p>
+              <p class="stat-number">156.4M</p>
               <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
-                <span class="tooltiptext">Total number of buildings mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a>  - As of Dec. 2023</span>
+                <span class="tooltiptext">Total number of buildings mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a>  - as of May 2024</span>
               </p>
             </div>
             <div class="hr-v"></div>
             <div class="home-stat">
-              <!-- <center><p class="loader"></p></center> -->
-              <!-- <p class="stat-number" id="Roads-Mapped"></p> -->
-              <p class="stat-number">2.7M</p>
+              <p class="stat-number">3.4M</p>
               <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
-                <span class="tooltiptext">Total length of roads mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> - As of Dec. 2023</span>
+                <span class="tooltiptext">Total length of roads mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> - as of May 2024</span>
               </p>
             </div>
           </div>
@@ -219,5 +281,7 @@
     </div>
 
     <div id="optout-form"></div>
+    <script src="/js/carrousel-homepage.js"></script>
+
   </body>
 </html>

@@ -1,7 +1,6 @@
 ---
 title: Claire Halleux
 date: 2013-02-11 14:11:00 Z
-published: false
 Photo: https://cdn.hotosm.org/website/142-0-2.jpeg
 Member Type:
   Is Staff: false

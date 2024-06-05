@@ -1,6 +1,8 @@
 ---
 title: 'Hacktoberfest: A Call for Contributing to Social Impact Projects'
 date: 2018-10-04 13:29:00 Z
+tags:
+- tech
 Summary Text: Join in the celebration of open source software by contributing to the
   Tasking Manager or other open source projects maintained by HOT.
 Feature Image: https://cdn.hotosm.org/website/tm-hot-id-team.JPG

@@ -10,7 +10,7 @@ tags:
 Summary Text: El Festival de Datos realizado recientemente en Uruguay fue la oportunidad
   para que el Hub de Mapeo Abierto presentara ante organizaciones e instituciones
   las aplicaciones de la cartografía abierta y su enfoque humanitario.
-Feature Image: "/uploads/202311_Festival%20Datos%20Uruguay_closing%20Session%20Rebecca%20Firth%2003.jpg"
+Feature Image: https://cdn.hotosm.org/website/202311_Festival+Datos+Uruguay_closing+Session+Rebecca+Firth+03.jpg
 Person: Juan Arellano Valdivia
 ---
 
@@ -28,7 +28,7 @@ Para esta edición si bien estos objetivos subsistían, se hizo énfasis en otro
 
 > Para alcanzar los Objetivos de Desarrollo Sostenible se necesitan rápidas innovaciones tecnológicas y una oportuna recopilación, acceso y uso de los datos. Sin embargo, la revolución de los datos también plantea tensiones fundamentales en torno al poder, la privacidad y la participación. El Festival de Datos tiene como objetivo fortalecer las comunidades de datos y nuestra capacidad colectiva para desbloquear el valor de los datos para todos mientras nos esforzamos por lograr la Agenda 2030.
 
-![Eventos.jpg](/uploads/Eventos.jpg)
+![Eventos.jpg](https://cdn.hotosm.org/website/Eventos.jpg)
 
 El [programa](https://www.data4sdgs.org/es/festivaldedatos/programa) del Festival de datos consistió en una mezcla diversa de mesas redondas, presentaciones, charlas relámpago, talleres y espacios para el networking. Desde el Hub de mapeo abierto, quisimos responder a esta diversidad de actividades maximizando la interacción con actores regionales. Presentamos sesiones enfocadas en el diálogo, intercambio de experiencia, brainstorming, y la interactividad con los asistentes para demostrar los usos y aplicaciones de la cartografía abierta y sus herramientas.
 
@@ -36,13 +36,13 @@ Tuvimos por ejemplo, una sesión "simulacro" de **Mapeo Humanitario en reacción
 
 Otra de nuestras sesiones fue una **inducción al mapeo abierto con aplicaciones móviles** open source para luego mapear elementos al exterior de la sala de conferencias, a modo de una actividad de concientización del acto cartográfico. Los asistentes se familiarizaron con las aplicaciones y regresaron a compartir impresiones y dudas, y sobre posibles usos en su campo profesional ligado a la política pública o a la investigación.
 
-![ninos.jpg](/uploads/ninos.jpg)
+![ninos.jpg](https://cdn.hotosm.org/website/ninos.jpg)
 
 Realizamos ademas un par de actividades orientadas a niños, una con mapeo básico y otra con manejo y vuelo de drones. como pueden apreciar en las fotos, los chicos no solo aprendieron sino que se divirtieron en el proceso.
 
 Adicionalmente organizamos un desayuno conversatorio con representantes de institutos nacionales de estadísticas de Paraguay, Colombia, Chile, Uruguay, Costa Rica, Rep. Dominicana, Surinam y Jamaica. El objetivo era discutir los retos en términos de acceso a cartografías básicas para sus ejercicios censales y de monitoreo de dinámicas poblacionales. Discutimos también de los posibles aportes de OpenStreetMap a nivel general.
 
-![Booth.jpg](/uploads/Booth.jpg)
+![Booth.jpg](https://cdn.hotosm.org/website/Booth.jpg)
 
 También contamos con una caseta en el hall principal que se transformó en nuestro centro de operaciones y a donde acudían los interesados en la cartografía abierta y nuestros proyectos, lo que nos permitió (re)conectar con muchos colegas. Todo esto estuvo realzado con la presencia y activa participación de nuestro director regional Fabrizio Scrollini y nuestra Directora Ejecutiva Rebecca Firth, quien fue entrevistada para varias organizaciones:
 
@@ -58,7 +58,7 @@ Finalmente, hablando de la IA, mencionó a [fAIr](https://www.hotosm.org/tech-bl
 
 En resumen, quedamos muy contentos por nuestra participación en el Festival de datos. Nos quedan muchas conversaciones por reanudar, y esperamos que quienes nos vieron y pensaron en ideas nuevas pero no conversaron con nosotros, nos puedan contactar también... Siempre apoyamos un acceso a más y mejores datos espaciales para los actores locales y el bienestar de las personas. Nos vemos en el próximo Festival de Datos!
 
-## ![FdDgrupal.jpg](/uploads/FdDgrupal.jpg)
+## ![FdDgrupal.jpg](https://cdn.hotosm.org/website/FdDgrupal.jpg)
 
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: Why is it important for youth to create data and manage information?
 date: 2019-01-26 19:08:00 Z
+tags:
+- tech
 Summary Text: Guest blog by Abril Gomez, student at GAL School Cusco, Peru. Aged 15.
 Feature Image: https://cdn.hotosm.org/website/image1-4b6026.jpg
 Country:

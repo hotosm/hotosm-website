@@ -1,6 +1,8 @@
 ---
 title: hot_tech team in Florence, August 2022
 date: 2022-08-11 11:46:00 Z
+tags:
+- tech
 Summary Text: "\nWe are excited to meet the community and share all that’s happening
   with the hot_tech team at State of the Map and FOSS4G starting next week! "
 Feature Image: https://cdn.hotosm.org/website/hot_tech.jfif

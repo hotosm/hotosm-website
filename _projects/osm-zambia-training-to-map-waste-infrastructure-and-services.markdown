@@ -2,6 +2,7 @@
 title: 'OSM Zambia: Training to map waste infrastructure and services'
 date: 2020-11-10 14:51:00 Z
 position: 25
+Feature Image: https://cdn.hotosm.org/website/Ramani+Huria+TZ+2.jpg
 Is Community-Led: true
 Country:
 - Zambia

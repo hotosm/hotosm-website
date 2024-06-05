@@ -12,7 +12,7 @@ tags:
 Summary Text: Únete a la Brigada de Mapeo Humanitario del HUB LAC y fortalece capacidades
   locales en Latinoamérica y el Caribe. Participa en respuestas efectivas a emergencias
   y promueve una cultura activa de mapeo humanitario.
-Feature Image: "/uploads/WhatsApp%20Image%202023-12-20%20at%209.12.24%20PM.jpeg"
+Feature Image: https://cdn.hotosm.org/website/WhatsApp+Image+2023-12-20+at+9.12.24+PM.jpeg
 ---
 
 Para potenciar el alcance y respuesta humanitaria en las activaciones de mapeo de emergencia y prevención de la región, el Humanitarian OpenStreetMap Team (HOT) y el HUB de Mapeo Abierto de América Latina y el Caribe introducirán un nuevo modelo de trabajo comunitario a favor del mapeo de emergencia y de anticipación: la **Brigada de Mapeo Humanitario**. Este grupo selecto de máximo 30 personas mapeadoras altamente comprometidas y técnicamente capacitadas participará en proyectos específicos, dedicando parte de su tiempo para mapear durante emergencias. Este mapeo será retribuido por el tiempo dedicado según la cantidad de participación.

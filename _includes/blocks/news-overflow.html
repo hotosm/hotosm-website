@@ -1,0 +1,36 @@
+<a class="project-archived" href="{{ project.url }}">
+
+  <div class="module-details">
+
+    <div class="module-text">
+
+      <h3 style="font-weight:900; text-transform: capitalize; font-size: 1.15rem; font-family: Archivo, sans-serif;">{{ project.title }}</h3>
+
+      <p style="display: inline-block;">
+        {% capture project.Person %}{% endcapture %}
+          {% if project.Person %}
+            {% for person in project.Person %}
+              {% assign author = site.people | where: "title", person | first %}
+              {% if person == author.title %}
+                <span class="project-involvement" style="color: grey;">{{ author.title }}</span>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+      </p>
+
+
+        <p class="project-involvement" style="color: rgba(214, 63, 63, 1); font-weight: 400;">
+         {{ project.date | date:'%e %B, %Y' }}
+        </p>
+
+    </div>
+
+  </div>
+
+  <!-- <div class="module-image">
+    {% if project['Feature Image'] %}
+      <img src="{{ project['Feature Image']}}">
+    {% endif %}
+  </div> -->
+
+</a>

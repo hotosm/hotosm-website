@@ -1,6 +1,8 @@
 ---
 title: Tasking Manager gets a makeover
 date: 2020-04-22 17:30:00 Z
+tags:
+- tech
 Summary Text: The latest software version 4 of Tasking Manager has just been released
   with a number of enhancements that will improve users’ experience of collaborative
   mapping in OpenStreetMap.

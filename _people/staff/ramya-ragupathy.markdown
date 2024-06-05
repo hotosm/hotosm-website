@@ -1,7 +1,7 @@
 ---
 title: Ramya Ragupathy
 date: 2018-09-15 09:47:00 Z
-Photo: https://cdn.hotosm.org/website/Screen+Shot+2018-09-15+at+12.59.35.png
+Photo: https://cdn.hotosm.org/website/Ramya-Kenya.jpg
 Member Type:
   Is Staff: true
 Job Title: Product Manager
@@ -14,12 +14,13 @@ Languages:
 - English
 - Tamil
 Country: India
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/ramyaragupathy
   Twitter: https://twitter.com/ramya_ragupathy
   LinkedIn: https://www.linkedin.com/in/ramyaragupathy/
 ---
 
-Ramya Ragupathy joined us as a backend developer, contributing to nearly all of HOT's in-house built software solutions. She led the development of [Galaxy](https://galaxy.hotosm.org/) range of products for generating multiple OpenStreetMap Data Outputs. Currently, as the Product Manager for [Tasking Manager](https://tasks.hotosm.org) she owns the product vision, strategy, and roadmap for the tool. 
+Ramya Ragupathy comes with a rich background in both technical development and product strategy within the OpenStreetMap (OSM) ecosystem. Starting as a backend developer, she played a pivotal role in shaping HOT's in-house software solutions and led the development of the Galaxy range of products, aimed at generating multiple OpenStreetMap Data Outputs. Currently, as the Product Manager for [Tasking Manager](https://tasks.hotosm.org/), she spearheads the product vision, strategy, and roadmap for the tool, driving innovation and user-centric design.
 
-Ramya has been involved with the OpenStreetMap ecosystem in different capacities since 2015 and has been an active open source contributor since 2008. She is committed to creating diverse and inclusive data-for-good communities, and she enjoys making fun maps, recording GPS tracks of her journeys, discussing languages, and fielding movie trivias. 
+With over a decade of involvement in the OpenStreetMap community, Ramya has been an active open-source contributor since 2008. Her dedication to creating diverse and inclusive data-for-good communities is evident in her work, where she fosters collaboration and champions accessibility in mapping initiatives. Beyond her professional commitments, Ramya finds joy in crafting fun maps, documenting her journeys through GPS tracks, and engaging in discussions about languages and movie trivia.

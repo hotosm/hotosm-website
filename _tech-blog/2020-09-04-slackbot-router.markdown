@@ -1,6 +1,8 @@
 ---
 title: 'Introducing the Slackbot Router: Bringing HOT tools right in our Slack channel'
 date: 2020-09-04 13:00:00 Z
+tags:
+- tech
 Summary Text: As part of the 2020 Outreachy summer program, we developed a Slackbot
   Router project that utilises slash commands to deliver information on different
   HOT tools to the user. This allows the community to more efficiently access and

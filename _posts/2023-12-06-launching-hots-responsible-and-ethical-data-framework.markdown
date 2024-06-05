@@ -1,10 +1,12 @@
 ---
 title: Launching HOT’s responsible and ethical data framework
 date: 2023-12-06 23:21:00 Z
+tags:
+- tech
 Summary Text: 'At the Humanitarian OpenStreetMap Team, we promote open and accessible
   data. What happens, though, when open data inadvertently brings attention to the
   location of something that could cause harm to the people in that area? '
-Feature Image: "/uploads/DataCollection.jpeg"
+Feature Image: https://cdn.hotosm.org/website/DataCollection.jpeg
 Person:
 - Jessica Pechmann
 - Paul Uithol

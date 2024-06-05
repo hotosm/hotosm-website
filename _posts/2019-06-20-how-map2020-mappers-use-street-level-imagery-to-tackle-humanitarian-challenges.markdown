@@ -1,6 +1,8 @@
 ---
 title: 'How #Map2020 Mappers Use Street-Level Imagery to Tackle Humanitarian Challenges'
 date: 2019-06-20 08:00:00 Z
+tags:
+- tech
 Summary Text: 'From Ghana to Zambia to the Philippines, we take a look at some of
   the 33 mapping projects that are taking part in #map2020 to build better maps in
   undermapped regions. The mapping participants are collecting street-level imagery

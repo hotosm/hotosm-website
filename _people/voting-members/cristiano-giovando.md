@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/cristiano.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Senior Technical Product Owner - Imagery Services
+Job Title: Senior Technical Product Owner (Imagery Services)
 Working Group:
 - Communications
 - Activation
@@ -19,6 +19,7 @@ Project:
 - Nepal 2015 Earthquake Response
 - HOT Training Center
 Country: Italy
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/giovand
   Twitter: https://twitter.com/giovand

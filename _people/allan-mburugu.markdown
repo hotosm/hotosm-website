@@ -1,9 +1,10 @@
 ---
 title: Allan Mburugu
 date: 2023-04-05 08:31:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Allan+Headshot.png
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Fundraising Development Specialist- Eastern and Southern Africa
 Team: Eastern and Southern Africa Hub
 Social Media (Full URL):

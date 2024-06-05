@@ -1,6 +1,8 @@
 ---
 title: HOT Summit at FOSS4G 2018- Combining Communities in Dar es Salaam
 date: 2018-09-17 14:30:00 Z
+tags:
+- tech
 Feature Image: https://cdn.hotosm.org/website/HOT+Summit+2018.jpg
 Person: Sıla Alıcı
 Country:

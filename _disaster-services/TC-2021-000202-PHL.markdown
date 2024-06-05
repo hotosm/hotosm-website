@@ -14,9 +14,10 @@ HDX: <a href="https://data.humdata.org/organization/hot?q=philippines">Philippin
 Resources: N/A
 Campaign: Tropical Cyclone Odette 2021
 Status: size-up
-Timeline: '16 December 2021 - '
+Timeline: 16 December 2021 - 21 February 2021
 Size-up: https://www.hotosm.org/disaster-services/tropical-cyclone-odette-slash-rai-size-up/
 Wiki-page: N/A
+GDACS ID: TC 1000853
 Tracking: odetteph
 Report: available
 ---
@@ -48,3 +49,15 @@ Report: available
 The Tropical Cyclone Odette Response are activities to support the <a href="https://tasks.hotosm.org/organisations/13"> OpenStreetMap Philippines Community</a> in their response to Tropical Cyclone Odette (international name: Rai). 
 
 See their <a href="https://tasks.hotosm.org/explore?campaign=Tropical%20Cyclone%20Odette%202021">Campaign for impacted areas in the central Philippines</a>.
+
+
+<strong>DEBRIEFING</strong><br>
+
+Tropical Cyclone Odette response focused on activities to support OSM Philippines and their efforts to generate map data useful to the response and recovery from <a href="https://en.wikipedia.org/wiki/Typhoon_Rai Typhoon Odette/International"> Typhoon Odette/International Name: Rai. </a>
+
+
+<strong>KEY TAKEAWAYS</strong><br>
+
+- Good response from OSM PH Community when HOT contacted them to initiate the activation.
+- This activation showed the maturity of OSM Community in the context of planning the activation as communication, mapping area and building preferences, mapping and validation process were all led by the community while HOT only supported the coordination and documentation.
+- On the other hand, how the data from the mapping activity used by relevant actors remains a challenge both for OSM PH community and HOT to be prepared in the next activation.

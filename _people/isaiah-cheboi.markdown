@@ -4,7 +4,8 @@ date: 2022-07-19 05:23:00 Z
 Photo: https://cdn.hotosm.org/website/Cheboi+Isaiah+photo.jpg
 Member Type:
   Is Staff: true
-Job Title: Finance Senior Associate- Eastern and Southern Africa
+Job Title: Senior Associate, Finance - Eastern and Southern Africa Hub
+Country: Kenya
 Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Cheboi%20Isaiah

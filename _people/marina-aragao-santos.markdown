@@ -4,7 +4,7 @@ date: 2022-04-28 23:56:00 Z
 Photo: https://cdn.hotosm.org/website/marina+chevening+bio+profile+photo.jpeg
 Member Type:
   Is Staff: true
-Job Title: Project Manager- Latin America and Caribbean
+Job Title: Project Manager -  Latin America and Caribbean Hub
 Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/marinaaragao

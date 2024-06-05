@@ -1,6 +1,8 @@
 ---
 title: 'HOT Tasking Manager Collective: update on the journey so far- July 2022'
 date: 2022-07-25 09:07:00 Z
+tags:
+- tech
 Summary Text: Thank you to all the contributors and participants in the Tasking Manager
   Collective. Hope you enjoy reading some of the highlights since the start of our
   collaboration with the Kathmandu Living Labs team.

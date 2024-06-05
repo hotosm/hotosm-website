@@ -4,159 +4,151 @@ layout: default
 
 <div class="tools">
 
-  <div class="container">
-    <header class="tools-header header-subnav">
-      <h1 class="boxed">{{ page.title }}</h1>
-      <div class="clear">
-        <div class="page-subnav">
-          <nav class="subnav">
-            <h5>Tools we use:</h5>
-            <ul>
-              {% assign sorted-tools = site.tools | sort: 'position' %}
-              {% for tool in sorted-tools %}
-                <li><a href="{{ tool['Tool id'] }}">{{ tool.title }}</a></li>
-              {% endfor %}
-            </ul>
-            <div class="w100">
-              <h5>For technical support: <a href="https://hotosm.atlassian.net/servicedesk/">hot_tech Requests</a></h5>
+
+  <!-- Banner -->
+
+                <a class="home-highlight3" style="padding-bottom: 2%;">
+
+                      <video class="w-100 h-100 object-fit-cover" loop autoplay style="z-index: 0; object-fit: cover; width: 100%; height: 538px; overflow: hidden;">
+                        <source src="https://cdn.hotosm.org/tasking-manager/mapping.mp4" type="video/mp4">
+                      </video>
+                    <div class="home-highlight-title2" style="bottom: 50px; left: 100px;">
+
+                      <div class="container">
+                          <header class="tools-header header-subnav">
+                            <h1 class="boxed">{{ page.title }}</h1>
+                          </header>
+                      </div>
+                    </div>
+                </a>
+
+
+
+  <!-- What is open mapping -->
+
+
+  <div class="container container-tools" >
+
+      <div class="half-block-tools right" style="background-color: white;">
+        <div class="block-details">
+          <div class="block-info">
+            <h2 >{{  page['Block 0'].Header }}</h2>
+            <p>{{ page['Block 0'].Text | markdownify }}</p>
             </div>
-            <div class="w100">
-              <h5>Read our blog for updates: <a href="tech-blog">Tech Blog</a></h5>
+                <div class="block-options">
+                  <ul>
+                    {% for tool in page['Block 0'].Tools %}
+                      <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </div>
             </div>
-          </nav>
+              <div class="" style="padding: 5%; background-color: white;">
+                  <div class="block-screenshot-wrap" >
+                    <img style="display: block; height: 110%; width: 100%; object-fit: cover;" src="{{ page['Block 0'].Image }}">
+                  </div>
+              </div>
+          </div>
         </div>
-      </div>
-    </header>
-  </div>
-
-  <div class="half-blocks">
-
-    <div class="half-block dark left">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 1'].Header }}</h3>
-          <p>{{ page['Block 1'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <ul>
-            {% for tool in page['Block 1'].Tools %}
-              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 1'].Image }}">
-        </div>
-      </div>
+      </div>    
     </div>
 
-    <div class="half-block dark right" id="0">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 2'].Header }}</h3>
-          <p>{{ page['Block 2'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <ul>
-            {% for tool in page['Block 2'].Tools %}
-              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 2'].Image }}">
-        </div>
-      </div>
-    </div>
+      <div class="hr-h"></div> 
 
-    <div class="half-block dark left" id="1">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 3'].Header }}</h3>
-          <p>{{ page['Block 3'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <ul>
-            {% for tool in page['Block 3'].Tools %}
-              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 3'].Image }}">
-        </div>
-      </div>
-    </div>
+  <!-- Two blocks section -->
+    
+            <div class="container container-tools" >
+              <h2 class="partner-subtitle" style="opacity: 0.1;"> </h2>
+        
+                  <div class="module-group-tools top-image" style="margin-bottom: 1px">
+                      <a class="module " href="/open-data-solutions" id="support-programs">
+                        <div class="block-screenshot-wrap" style="padding: 3%; background-color: white;">
+                          <img src="{{ page['Block 1'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                        <div class="module-details">
+                          <h2 >{{  page['Block 1'].Header }}</h2>
+                          <p>{{ page['Block 1'].Text }}</p>
+                          {% for tool in page['Block 1'].Tools %}
+                          <p class="module-cta" href="www.hotosm.org">{{ tool.Name }}</p>
+                          {% endfor %}
+                        </div>
+                      </a>
+                      <a class="module " href="/tech-suite" id="support-programs">
+                        <div class="block-screenshot-wrap" style="padding: 3%; background-color: white;">
+                          <img src="{{ page['Block 2'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                        <div class="module-details">
+                          <h2 >{{  page['Block 2'].Header }}</h2>
+                          <p>{{ page['Block 2'].Text }}</p>
+                          {% for tool2 in page['Block 2'].Tools %}
+                          <p class="module-cta"  href="{{ tool2.URL }}">{{ tool2.Name }}</p>
+                          {% endfor %}
+                        </div>
+                      </a>
+                    
+                  </div>
+              </div>
+            </div>
 
-    <div class="half-block dark right" id="2">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 4'].Header }}</h3>
-          <p>{{ page['Block 4'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <ul>
-            {% for tool in page['Block 4'].Tools %}
-              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 4'].Image }}">
-        </div>
-      </div>
-    </div>
+            
+            
+<!-- Resources and learning center -->
 
-    <div class="half-block dark left" id="3">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 5'].Header }}</h3>
-          <p>{{ page['Block 5'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <ul>
-            {% for tool in page['Block 5'].Tools %}
-              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 5'].Image }}">
-        </div>
-      </div>
-    </div>
+      <div class="hr-h"></div> 
 
-    <!-- <div class="half-block dark right" id="4">
-      <div class="block-details">
-        <div class="block-info">
-          <h3>{{ page['Block 6'].Header }}</h3>
-          <p>{{ page['Block 6'].Text }}</p>
-        </div>
-        <div class="block-options">
-          <ul>
-            {% for tool in page['Block 6'].Tools %}
-              <li><a class="external" href="{{ tool.URL }}">{{ tool.Name }}</a></li>
-            {% endfor %}
-          </ul>
-        </div>
-      </div>
-      <div class="block-screenshot">
-        <div class="block-screenshot-wrap">
-          <img src="{{ page['Block 6'].Image }}">
-        </div>
-      </div>
-    </div> -->
+             
+            <div class="module">
 
-  </div>
+                  <div class="container container-tools" >
+
+                    <div class="half-block-tools right" style="background-color: white;">
+                      <div class="block-details">
+                        <div class="block-info">
+                          <h2 >{{  page['Block 3'].Header }}</h2>
+                          <p>{{ page['Block 3'].Text }}</p>
+                          </div>
+                              <div class="block-options">
+                                <ul>
+                                  {% for tool in page['Block 3'].Tools %}
+                                    <li><a class="external" href="{{ tool.URL }}" style="color: black;">{{ tool.Name }}</a></li>
+                                  {% endfor %}
+                                </ul>
+                              </div>
+                          </div>
+                            <div class="" style="padding: 5%; background-color: white;">
+                                <div class="block-screenshot-wrap" >
+                                  <img style="display: block; height: 110%; width: 100%; object-fit: cover;" src="{{ page['Block 3'].Image }}">
+                                </div>
+                            </div>
+                        </div>
+                      </div>
+                    </div>    
+                  </div>
+
+
+
+
+                
+             </div>
+
+
+
+<!-- Tech blog and news -->
+
+
+    <article class="container-body-program project-item">
+
+                <div class="hr-h"></div>
+
+                <div class="home-newsletter">
+                  <div class="newsletter-signup" style="padding: 12px 32px 32px;">
+                    <h2>Tech News, blog <br>& Product Updates</h2>
+                  </div>
+                  <div class="newsletter-description">
+                    <a href="/tech-blog/index.html" class="btn btn-primary btn-block btn-chevron">View</a>
+                  </div>
+                </div>
+
+    </article>
 
 </div>

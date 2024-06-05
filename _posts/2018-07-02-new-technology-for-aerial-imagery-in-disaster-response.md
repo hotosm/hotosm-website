@@ -2,6 +2,8 @@
 title: 'Fast, Powerful, and Practical: New Technology for Aerial Imagery in Disaster
   Response'
 date: 2018-07-02 06:30:00 Z
+tags:
+- tech
 Summary Text: How rugged, portable AWS servers can be used for post-disaster imagery
   operations.
 Feature Image: https://cdn.hotosm.org/website/sbe.png

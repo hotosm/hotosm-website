@@ -1,9 +1,11 @@
 ---
 title: Crowd-Source Mapping for Disaster Management (Timor Leste)
 date: 2023-05-16 20:41:00 Z
-Project Summary Text: Equipping local communities with the ability to use OSM for
-  decision-making and providing relevant information/attributes for disaster management.
-Feature Image: "/uploads/AP_DisasterManagement_TimorLeste_1.jpeg"
+Project Summary Text: 'Equipping local communities with the ability to use OpenStreetMap
+  for decision-making and providing relevant information/attributes for disaster management.
+  Training activities resulted in more than 47,000 buildings, 350 km of road networks,
+  and 700 amenities added to OpenStreetMap. '
+Feature Image: https://cdn.hotosm.org/website/AP_DisasterManagement_TimorLeste_1.jpeg
 Country:
 - Timor-Leste
 Impact Area:
@@ -14,27 +16,29 @@ Partner:
 Duration:
   Start Date: 2022-07-15 00:00:00 Z
   End Date: 2022-08-11 00:00:00 Z
+Tools:
+- tool: inaSAFE
 ---
 
 As part of the Open Mapping Hub Asia Pacific's dedication to strengthening data usage and promoting disaster resilience throughout the Asia-Pacific Region, we are collaborating with local communities and partners in Timor-Leste to provide training on OSM for Disaster Management. In collaboration with World Vision Timor-Leste, Simile Timor-Leste, and other local agencies, the training program was launched with a virtual session, followed by an in-person session where several community members and INGOs participated.
 
-![AP_DisasterManagement_TimorLeste_2.jpeg](/uploads/AP_DisasterManagement_TimorLeste_2.jpeg)
+![AP_DisasterManagement_TimorLeste_2.jpeg](https://cdn.hotosm.org/website/AP_DisasterManagement_TimorLeste_2.jpeg)
 
-**AP Hub launched the virtual introductory session on 15 July 2022, and the in-person training on remote-mapping from 2-4 August, field mapping on 6-9 August, and concluded the training on 11 August with data analysis with InaSAFE.**
+**AP Hub launched the virtual introductory session on 15 July 2022, and the in-person training on remote-mapping from 2-4 August, field mapping on 6-9 August, and concluded the training on 11 August with data analysis with [InaSAFE](https://inasafe.org/home/index.html), a free software that uses spatial data to produce post-disaster scenarios for  better planning, preparedness and response activities.**
 
 The training started with an introduction to OSM, where participants started their OSM mapping journey, and also included intensive discussion among participants about data protection and privacy as well as defining form questions for the field survey in those areas. They also activated [three tasking manager projects](https://tasks.hotosm.org/explore?text=crowd)) to complete the mapping of building footprints and road networks.
  
-The training also included a mapathon and field mapping. 
+The training also included a mapathon and field mapping of amenities and building information for disaster risk reduction. 
 
-![AP_DisasterManagement_TimorLeste_13.jpeg](/uploads/AP_DisasterManagement_TimorLeste_13.jpeg)
+![AP_DisasterManagement_TimorLeste_13.jpeg](https://cdn.hotosm.org/website/AP_DisasterManagement_TimorLeste_13.jpeg)
 
-![AP_DisasterManagement_TimorLeste_14.jpeg](/uploads/AP_DisasterManagement_TimorLeste_14.jpeg)
+![AP_DisasterManagement_TimorLeste_14.jpeg](https://cdn.hotosm.org/website/AP_DisasterManagement_TimorLeste_14.jpeg)
 
 During the mapathon and field-mapping, participants successfully mapped more than 10,000 buildings and 300 km of road networks. Similarly, during this field survey, they mapped hundreds of critical infrastructures in the survey areas (Baucau, Bobonaro, and Aileu) as well as continued the mapathon to complete the building footprints and road networks in those areas. At the end of the field survey, they mapped more than 47,000 buildings, 350 km of road networks, and 700 amenities.
 
 **The training was concluded with a session** on data analysis using InaSAFE. Using Seroja Flood 2021 as a reference, the training aimed to introduce participants to other free and open-source tools for disaster impact scenarios and combine them with OpenStreetData in the analysis area.
 
-![AP_DisasterManagement_TimorLeste_15.png](/uploads/AP_DisasterManagement_TimorLeste_15.png)
+![AP_DisasterManagement_TimorLeste_15.png](https://cdn.hotosm.org/website/AP_DisasterManagement_TimorLeste_15.png)
 
 Participants also tried to create the map for the analysis results from InaSAFE using the QGIS print layout.
 
@@ -42,17 +46,17 @@ Participants also tried to create the map for the analysis results from InaSAFE 
 
 This project has not only improved the database and the baseline of OSM map data in Timor-Leste, which will benefit the local community in the country, especially those who need spatial data to support their work but also established a local OSM community. The local community is formed of diverse institutions and organizations that can support the sustainability of mapping activities and OSM data use in Timor-Leste by networking with each other and sharing their learnings and knowledge.
 
-![AP_DisasterManagement_TimorLeste_3.jpeg](/uploads/AP_DisasterManagement_TimorLeste_3.jpeg)
+![AP_DisasterManagement_TimorLeste_3.jpeg](https://cdn.hotosm.org/website/AP_DisasterManagement_TimorLeste_3.jpeg)
 *Map of the field survey in Bobonaro Municipality*
 
 Moreover, the community and government have increased awareness and knowledge of using OSM data. Therefore, we hope that they will now be able to use their knowledge and skills in open mapping by generating data to implement and advocate for socio-economic change.
 
-![AP_DisasterManagement_TimorLeste_4.jpeg](/uploads/AP_DisasterManagement_TimorLeste_4.jpeg)
+![AP_DisasterManagement_TimorLeste_4.jpeg](https://cdn.hotosm.org/website/AP_DisasterManagement_TimorLeste_4.jpeg)
 *Map of the field survey in Aileu Municipality*
 
 With the establishment of the [OSM Timor Leste Community](https://www.facebook.com/groups/815552739879158) after this project, we expect that OSM contributors will arise from this project who will conduct regular OSM mapping activities and that the data generated by OSM will be used by various stakeholders and organizations for decision-making in the country.
 
-![AP_DisasterManagement_TimorLeste_5.jpeg](/uploads/AP_DisasterManagement_TimorLeste_5.jpeg)
+![AP_DisasterManagement_TimorLeste_5.jpeg](https://cdn.hotosm.org/website/AP_DisasterManagement_TimorLeste_5.jpeg)
 *Map of the field survey in Baucau Municipality*
 
 In our ongoing mission to support communities and organizations in the region in getting high-quality OSM map data for humanitarian response in the region, we are committed to developing their capacity through workshops, training, and field surveys using free and mapping tools which not only provide the baseline information on the map but also increasing their situational awareness and improving decision-making in disaster management.

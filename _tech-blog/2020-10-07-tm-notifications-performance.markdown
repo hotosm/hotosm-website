@@ -1,6 +1,8 @@
 ---
 title: Improved notifications and better performance on Tasking Manager
 date: 2020-10-07 10:00:00 Z
+tags:
+- tech
 Summary Text: Every two weeks we push a new version of Tasking Manager with new features,
   bug fixes and enhancements. It has been a while since our last update, so let’s
   take a look on what is new on Tasking Manager.

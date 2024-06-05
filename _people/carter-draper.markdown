@@ -4,7 +4,7 @@ date: 2021-06-04 11:43:00 Z
 Photo: https://cdn.hotosm.org/website/Photo1.jpg
 Member Type:
   Is Staff: true
-Job Title: Regional Project Manager - West and Northern Africa
+Job Title: Senior Manager, Program - West and Northern Africa Hub
 Team: West and Northern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/DraperC_18

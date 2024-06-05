@@ -4,8 +4,8 @@ date: 2022-09-22 10:25:00 Z
 Photo: https://cdn.hotosm.org/website/Headshot.jpg
 Member Type:
   Is Staff: true
-Job Title: Junior Support Software Engineer
-Team: Global
+Job Title: Data Analyst - West and Northern Africa Hub
+Team: West and Northern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/afimaamedufie
 ---

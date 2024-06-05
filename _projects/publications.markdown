@@ -19,6 +19,31 @@ Impact Area:
 
 **Posts are in reverse chronological order**
 
+13/05/2024 - [Community Cartography: Low-Cost GNSS Receiver in the Mapping of Medio Solimões](https://www.hotosm.org/updates/community-cartography-low-cost-gnss-receiver-in-the-mapping-of-medio-solimoes/)
+
+25/03/2024 - [Coordination and Action: The Articulation of Humanitarian Mapping Response after Hurricane Otis](https://www.hotosm.org/updates/coordination-and-action-the-articulation-of-humanitarian-mapping-response-after-hurricane-otis/)
+
+07/03/2024 - [Mapping Our Community: Paula dos Santos Silva's Journey in the Amazon](https://www.hotosm.org/updates/mapping-our-community-paula-dos-santos-silvas-journey-in-the-amazon/)
+
+05/03/2024 - [Catalyzing Women in Disaster Response: Insights from Women Mappers in the Caribbean](https://www.hotosm.org/updates/catalyzing-women-in-disaster-response-insights-from-women-mappers-in-the-caribbean/)
+
+26/02/2024 - [Young People Tracing Resilience in San Antonio de Prado, Colombia](https://www.hotosm.org/updates/young-people-tracing-resilience-in-san-antonio-de-prado-colombia/)
+
+22/02/204 - [Data sovereignty, open mapping and indigenous territories](https://www.hotosm.org/updates/data-sovereignty-open-mapping-indigenous-territories/)
+
+25/01/2024 - [Catalyzing Impact: Inaugural Micro-Grants by HOT and Caribbean School of Data](https://www.hotosm.org/updates/catalyzing-impact-inaugural-micro-grants-by-hot-and-csod/)
+
+15/12/2023 - [Data for sustainable development: The Data Festival 2023](https://www.hotosm.org/updates/data-for-sustainable-development-the-data-festival-2023/)
+
+08/12/2023 - [AbreLatam 2023: Integrating open cartography into the open data community](https://www.hotosm.org/updates/abrelatam-2023-integrating-open-cartography-into-the-open-data-community/)
+
+07/12/2023 - [Building Community to Build Resilience - OpenCities Saint Lucia Impact](https://www.hotosm.org/updates/building-community-to-build-resilience-opencities-saint-lucia-impact/)
+
+29/11/2023 - [Canoa de Tolda at the Paris Peace Forum 2023](https://www.hotosm.org/updates/canoa-de-tolda-at-the-paris-peace-forum-2023/)
+
+13/10/2023 - [Participatory waste mapping: a continuing effort for sustainable development
+](https://www.hotosm.org/updates/participatory-waste-mapping-a-continuing-effort-for-sustainable-development/)
+
 28/09/2023 - [From reaction to prevention: Risk mapping in Ecuador](https://www.hotosm.org/updates/from-reaction-to-prevention-risk-mapping-in-ecuador/)
 
 18/09/2023 - [Hub-LAC series of humanitarian and cartographic talks](https://www.hotosm.org/updates/hub-lac-series-of-humanitarian-and-cartographic-talks/)
@@ -82,6 +107,8 @@ Impact Area:
 08/06/2021 - [Practical Action Bolivia Trained Community Members in Mapping Areas Impacted by Forest Fires](https://www.hotosm.org/updates/practical-action-bolivia-trained-community-members-in-mapping-areas-impacted-by-forest-fires/)
 
 24/08/2020 - [Covid-19 Pandemic in Peru: Mapping Health Implications](https://www.hotosm.org/updates/covid-19-pandemic-in-peru-mapping-health-implications/)
+
+26/06/2020 - [#map2020 Results Announced](https://www.hotosm.org/updates/number-map2020-results-announced/)
 
 19/06/2020 - [Four regions, five years, 94 countries, one billion people
 ](https://www.hotosm.org/updates/four-regions-five-years-94-countries-one-billion-people/)

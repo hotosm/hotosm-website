@@ -4,7 +4,7 @@ date: 2023-08-30 16:36:00 Z
 Summary Text: The Anticipatory Response Program (ARP), recently piloted in Zimbabwe,
   incorporates open mapping tools and workflows into disaster response and resilience
   efforts to move from a reactive to a proactive approach.
-Feature Image: "/uploads/CoverZimbabweARP.jpeg"
+Feature Image: https://cdn.hotosm.org/website/CoverZimbabweARP.jpeg
 Is image top aligned: false
 Person: Wilson Munyaradzi
 Country:
@@ -25,13 +25,13 @@ In 2022, the [Open Mapping Hub - Eastern and Southern Africa (OMH-ESA) ](https:/
 Through a consultative workshop, OMH-ESA united various stakeholders, including disaster response organizations, communities, and government representatives, to deliberate on leveraging geospatial data to combat natural disasters. During this workshop, Caritas Zimbabwe, a local NGO, was recognized as a crucial partner for generating data and maps for disaster preparedness. 
 
 
-![Workshop.jpeg](/uploads/Workshop.jpeg)
+![Workshop.jpeg](https://cdn.hotosm.org/website/Workshop.jpeg)
 *Small groups actively discuss the most recent trends and their implications. Photo Courtesy of: Elaine Muigai, ESA Hub*
 
 ### Scoping the Project
 The OMH-ESA needed a location to pilot the ARP program, and in collaboration with Caritas Zimbabwe,we identified two districts as potential candidates: Chimanimani and Muzarabani. Due to its vulnerability to seasonal hazards such as floods, drought, strong winds and disease outbreaks, Muzarabani was selected as the pilot site.
 
-![Map.jpeg](/uploads/Map.jpeg)
+![Map.jpeg](https://cdn.hotosm.org/website/Map.jpeg)
 *Pilot wards in Muzarabani District*
 
 ### Collecting the Data
@@ -39,7 +39,7 @@ Developing a data model was crucial to the project's success. This model outline
 
 Before the data collection, a one-day training workshop was conducted to familiarize participants with the ARP program's goals and objectives, and the importance of mapping exercises in enhancing disaster response systems. The data collectors used motorbikes to access remote locations and regularly met with the team to assess progress and troubleshoot any challenges encountered.
 
-![FieldWork.jpeg](/uploads/FieldWork.jpeg)
+![FieldWork.jpeg](https://cdn.hotosm.org/website/FieldWork.jpeg)
 *A group of dedicated participants in Muzarabani District, marking the culmination of rigorous training during the workshop. Photo Courtesy of: Rachel Chinyanga, Caritas Zimbabwe*
 
 ### Data Analysis and Application

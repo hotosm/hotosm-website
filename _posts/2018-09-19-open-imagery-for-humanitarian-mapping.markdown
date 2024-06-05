@@ -1,6 +1,8 @@
 ---
 title: Open Imagery for Humanitarian Mapping
 date: 2018-09-19 11:13:00 Z
+tags:
+- tech
 Summary Text: Analysis of imagery source use within the Tasking Manager
 Feature Image: https://cdn.hotosm.org/website/ethiopia-wide.png
 Person:

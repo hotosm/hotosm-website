@@ -6,7 +6,7 @@ Page Link:
   Label: Submit your Community Event here
 ---
 
-![bannercommunity.png](/uploads/bannercommunity.png)
+![bannercommunity.png](https://cdn.hotosm.org/website/bannercommunity.png)
 
 ## Selection Criteria for Community Events
 

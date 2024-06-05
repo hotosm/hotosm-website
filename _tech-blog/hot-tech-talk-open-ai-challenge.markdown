@@ -10,6 +10,7 @@ tags:
 - open-ai
 - hot_tech
 - tools
+- tech
 Summary Text: 'Over the past few years, HOT has taken a leadership role in experimenting
   with, and facilitating for, the application of open-source and fair artificial intelligence
   in mapping. What is the status? Well, let me tell you: we are only a few months

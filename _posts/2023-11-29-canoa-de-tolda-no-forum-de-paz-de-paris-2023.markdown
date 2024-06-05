@@ -9,7 +9,7 @@ tags:
 - Canoa de Tolda
 Summary Text: Canoa de Tolda e o LAC Open Mapping Hub estiveram no Fórum de Paz de
   Paris 2023. Saiba como foi nossa participação.
-Feature Image: "/uploads/photo_5131917909751344251_y.jpg"
+Feature Image: https://cdn.hotosm.org/website/photo_5131917909751344251_y.jpg
 Person:
 - Juan Arellano Valdivia
 - Everton Bortolini
@@ -23,11 +23,11 @@ A equipe expositora foi composta por Carlos Eduardo Ribeiro - coordenador do pro
 
 O estande da Canoa de Tolda estava muito bem localizado e foi bastante visto e visitado, incluindo entre os visitantes o diretor/fundador da FPP, [Justin Vaisse](https://en.wikipedia.org/wiki/Justin_Va%C3%AFsse), e a equipe do Ministére des Affaires Etrangéres da França. O ex-ministro [Celso Amorim](https://pt.wikipedia.org/wiki/Celso_Amorim), atual assessor especial para assuntos internacionais da Presidência da República do Brasil, também visitou o estande.
 
-![canoa paris 2.jpg](/uploads/canoa%20paris%202.jpg)
+![canoa paris 2.jpg](https://cdn.hotosm.org/website/canoa+paris+2.jpg)
 
 Participação na Mesa Redonda - [Safeguarding the Trees of Life: Uniting Climate and Biodiversity Agendas](https://www.youtube.com/watch?v=kv0JDu8HNzA), mediada por [Celina Chien](https://www.celinachien.com/), onde Carlos Eduardo Ribeiro dividiu a mesa com representantes de outros projetos do México, China, Peru e França, foi muito positiva, pois foi possível deixar claro que ações de conservação da biodiversidade são necessárias em todos os biomas e ecossistemas e não apenas na Amazônia.
 
-![canoa paris 1.jpg](/uploads/canoa%20paris%201.jpg)
+![canoa paris 1.jpg](https://cdn.hotosm.org/website/canoa+paris+1.jpg)
 
 O professor Igor da Mata nos conta sua perspectiva do evento:
 

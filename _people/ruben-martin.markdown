@@ -1,9 +1,10 @@
 ---
 title: Rubén Martín
 date: 2021-01-04 13:46:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/ruben.jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Community Strategist and Research Lead
 Languages:
 - English

@@ -61,6 +61,26 @@ collections:
     title: Press Releases
     output: true
     permalink: press-releases/:path/
+  product-pages:
+    title: Product Pages
+    output: true
+    permalink: "/tech-suite/:path/"
+  programs:
+    title: Programs
+    output: true
+    permalink: "/programs/:path/"
+    tm_campaigns:
+    - 
+    Map Products:
+    - 
+    Data:
+    - title: 
+      link: 
+    Tools:
+    - tool: 
+      link: 
+    - tool: 
+      link: 
   projects:
     title: Projects
     output: true
@@ -167,6 +187,12 @@ defaults:
     layout: impact-area-item
 - scope:
     path: ''
+    type: product-pages
+  values:
+    permalink: "/tech-suite/:path/"
+    layout: product-pages
+- scope:
+    path: ''
     type: docs
   values:
     layout: page
@@ -254,6 +280,39 @@ defaults:
     - title: ''
     - link: ''
     Tools:
+    - tool: ''
+    - link: ''
+- scope:
+    path: ''
+    type: programs
+  values:
+    layout: program-item
+    Project Summary Text: 
+    Feature Image: 
+    Is image top aligned: 
+    Project Logo Image: 
+    Is Community-Led: 
+    Country:
+    - ''
+    Impact Area:
+    - ''
+    Person:
+    - ''
+    Partner:
+    - ''
+    Duration:
+      Start Date: 
+      End Date: Ongoing
+    tm_campaigns:
+    - ''
+    Google Drive: https://drive.google.com/drive/folders/1p-dGhQsB4SSlucT3Yen1LlhqBj3Yvy-_
+    Map Products:
+    - ''
+    - ''
+    Data:
+    - title: ''
+    - link: ''
+    Tools:
     - title: ''
     - link: ''
 - scope:
@@ -320,3 +379,4 @@ feed:
   - press-releases
   - tech-blog
   - disaster-services
+  - programs

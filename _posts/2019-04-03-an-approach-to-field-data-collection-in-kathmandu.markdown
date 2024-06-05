@@ -1,6 +1,8 @@
 ---
 title: An approach to field data collection in Kathmandu
 date: 2019-04-03 03:47:00 Z
+tags:
+- tech
 Summary Text: Guest blog by Gaurav Thapa from Kathmandu Living Labs. Covering the
   collection process carried out by the team for surveying exposure data in Kathmandu
   Valley, Nepal as part of the METEOR project.

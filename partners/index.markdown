@@ -7,9 +7,12 @@ Intro Text: "HOT collaborates with a wide range of organizations to leverage ope
   and disaster response efforts are able to reach vulnerable areas. Through training,
   shared expertise and large scale volunteering, we help organizations run rapid field
   data collection campaigns, and improve the way they use technology and open map
-  data. \n\nOver the next five years HOT will engage one million volunteers to map
-  places home to one billion people who are living in poverty or at high risk of disaster
-  in 94 countries. There are many ways we can work together to achieve this!"
+  data. \n<br>\n<br>\nOver the next five years HOT will engage one million volunteers
+  to map places home to one billion people who are living in poverty or at high risk
+  of disaster in 94 countries. There are many ways we can work together to achieve
+  this!\n<br>\n<br>\nHOT has a growing community of partners, including:\n<br>\n<br>\n<a
+  href=\"https://aws.amazon.com/what-is-cloud-computing\"><img src=\"https://d0.awsstatic.com/logos/powered-by-aws.png\"
+  alt=\"Powered by AWS Cloud Computing\"></a>"
 Page Contact:
   Label: Partner with us
   Text: Interested in partnering with HOT?

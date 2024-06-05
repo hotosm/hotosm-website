@@ -9,6 +9,7 @@ Languages:
 - English
 - Español
 Country: Panama
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Claudio%20de%20los%20Reyes%20(HOT)
 ---

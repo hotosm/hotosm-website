@@ -1,10 +1,9 @@
 ---
 title: Home
 position: 0
-description: HOT is an international team dedicated to humanitarian action and community
-  development through open mapping.
+description: _
 Banner:
-  Is Activated: true
+  Is Activated: false
   Main Block: Give the Gift of Mapping
   Secondary Block: Donate today!
   Link Copy: 
@@ -12,17 +11,13 @@ Banner:
   Optional Text: 
   Small Block: 
 Project:
-- |-
-  Satellite Imagery for
-  Social Good: Kenya and Nigeria
-- 'Open Cities Guatemala: San José Poaquil, Chimaltenango'
-- |-
-  Crowd-Source Mapping for Disaster Management
-  (Timor Leste)
-- |-
-  Building Capacity for Inclusive Data Collection for the OSM Community
-  in Namibia
-- Missing Maps
+- ''
+- What We Do
+News:
+- ''
+- HOT OpenSummit 23-24
+- ''
+- Building Capacity for Inclusive Data Collection for the OSM Community in Namibia
 Home Module 1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
@@ -31,12 +26,13 @@ Home Module 1:
   Call to Action: View the tools
   URL: "/tools-and-data"
 Home Module 2:
-  Header: Community & Organization
-  Text: Get information about the people behind HOT, how the HOT community is organized,
-    and support available to the community.
-  Image: https://cdn.hotosm.org/website/IMG_1683.jpg
+  Header: Community & Events
+  Text: Learn about the community and the latest events — especially about the Open
+    Summit 2023, a decentralized, year-long program of 13 global, regional, and local
+    conferences.
+  Image: https://cdn.hotosm.org/website/opensummit-banner-2023-2024.png
   Call to Action: Learn more
-  URL: "/community"
+  URL: "/projects/opensummit23-24/"
 Home Module 3:
   Header: Partnerships
   Text: 'Want to know more about ways you can partner with HOT? Start creating and

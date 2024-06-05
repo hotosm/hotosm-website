@@ -1,6 +1,8 @@
 ---
 title: 'Website Update: Powering our maps with data'
 date: 2018-06-29 00:00:00 Z
+tags:
+- tech
 Feature Image: https://cdn.hotosm.org/website/hotosm-dot-org-3-compressor.png
 Person: Ramya Ragupathy
 Working Group:

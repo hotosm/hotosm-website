@@ -1,6 +1,8 @@
 ---
 title: Welcome to the collective, KLL!
 date: 2022-02-08 15:37:00 Z
+tags:
+- tech
 Summary Text: 'It is with great excitement and pleasure that I have the opportunity
   to officially announce the first member of this tech_collective: Kathmandu Living
   Labs, who will be taking on the maintenance of the HOT tasking manager for the next

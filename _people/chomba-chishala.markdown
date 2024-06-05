@@ -4,9 +4,10 @@ date: 2021-05-20 19:52:00 Z
 Photo: https://cdn.hotosm.org/website/6.6.18_YouthMappers+(90+of+155).JPG
 Member Type:
   Is Staff: true
-Job Title: Senior Mapping Supervisor
+  Is Voting Member: true
+Job Title: Senior Mapping Supervisor - Eastern and Southern Africa Hub
 Country: Zambia
-Team: Global
+Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/chomba%20chishala
 ---

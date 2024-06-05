@@ -1,6 +1,8 @@
 ---
 title: OpenAerialMapv2 - Design Testing Phase Results
 date: 2022-07-19 00:00:00 Z
+tags:
+- tech
 Person:
 - Cristiano Giovando
 - DK Benjamin

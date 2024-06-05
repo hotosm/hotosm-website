@@ -1,11 +1,11 @@
 ---
 title: Arnelle Isaac
 date: 2023-07-24 05:27:00 Z
-Photo: "/uploads/ARNELLE.jpg"
+Photo: https://cdn.hotosm.org/website/ARNELLE.jpg
 Member Type:
   Is Staff: true
 Job Title: Disaster Services and Climate Resilience Specialist- Latin America and
-  Caribbean
+  Caribbean Hub
 Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: " https://www.openstreetmap.org/user/Arnelle%20Isaac"

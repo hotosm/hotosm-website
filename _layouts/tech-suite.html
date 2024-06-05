@@ -1,0 +1,286 @@
+---
+layout: default
+---
+
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<div class="tools">
+
+
+  <!-- Banner -->
+
+                <a class="home-highlight4" style="padding-bottom: 2%;">
+                      <div>
+                        <img src="{{ page['Block 0'].Image }}"  style="max-width: 140%; filter: brightness(70%);">
+                      </div>
+                    <div class="home-highlight-title2" style="bottom: 50px; left: 100px;">
+                      <div class="container">
+                          <header class="tools-header header-subnav" style="margin: 32px 460px 34px -30px;">
+                            <h1 style="color: white; font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15;">{{ page.title }}</h1>
+                            <!-- <p >{{ page['Block 0'].Text }}</p> -->
+                          </header>
+                      </div>
+                    </div>
+                </a>
+
+
+
+  <!-- What is open mapping -->
+
+
+  <!-- Two blocks section -->
+    
+            <div class="container container-tools" style="margin-top: 5%;">
+
+
+                <div class="project-index-all-text" style="margin-top: 50px;">
+                  <div style="grid-column: span 6;">
+                    <p style=" color: black; font-weight: 600; font-size: larger; ">{{ page['Block 0'].Text-alt }}</p>
+                  </div>
+                </div>
+              <br>
+              <div class="hr-h" style="margin-top: 0%;"></div>
+
+
+              <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2rem; color: black;">living HOT’s values through tech</h2>
+              <!-- <div class="hr-h" style="margin: 10px 0 40px "></div> -->
+
+                  <!-- <div class="project-index-all-text" style="margin-bottom: 0%;">
+                    <p style=" color: black;">Our Guiding Principles are informed by  HOT’s values and aligned with the Principles for <u href="(https://digitalprinciples.org/)">Digital Development</u>. They  act as a compass for HOT’s technology work:</p>
+                  </div>
+                <br> -->
+          
+                <div class="project-index-all-alt" style="margin-top: 0%; margin-bottom: 0%;">
+                  <div class="hr-h-red" style="margin-top: 4%;"></div>
+                </div>  
+
+
+                  <div class="project-index-all-alt">
+              
+                          <div>
+                              <h4 style="font-weight: bold; color: black;">{{ page.Project-Principles.Principle1 }} </h4>
+                              <!-- <h3>{{ page.Project-Principles.Principle1-highlight }}</h3> -->
+                              <p>{{ page.Project-Principles.Principles-title-1 }}</p>
+                          </div>
+                          <div>
+                              <h4 style="font-weight: bold; color: black;">{{ page.Project-Principles.Principle2 }}</h4>
+                              <!-- <h3>{{ page.Project-Principles.Principle2-highlight }}</h3> -->
+                              <p>{{ page.Project-Principles.Principles-title-2 }}</p>
+                          </div>
+                          <div>
+                              <h4 style="font-weight: bold; color: black;">{{ page.Project-Principles.Principle3 }}</h4>
+                              <!-- <h3>{{ page.Project-Principles.Principle3-highlight }}</h3> -->
+                              <p>{{ page.Project-Principles.Principles-title-3 }}</p>
+                          </div>
+                          <div>
+                            <h4 style="font-weight: bold; color: black;">{{ page.Project-Principles.Principle4 }}</h4>
+                            <!-- <h3>{{ page.Project-Principles.Principle3-highlight }}</h3> -->
+                            <p>{{ page.Project-Principles.Principles-title-4 }}</p>
+                        </div>
+                    
+                  </div>
+              
+          
+              <div class="hr-h" style="margin: 10px 0 40px "></div>
+
+              <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 2rem; color: black;">Product Suite</h2>
+          
+                <div class="project-index-all-alt" style="margin-top: 0%; margin-bottom: 0%;">
+                  <div class="hr-h-red" style="margin-top: 4%; margin-bottom: 0%;"></div>
+                </div>  
+
+              <h2 class="partner-subtitle" style="opacity: 0.1;"> </h2>
+        
+                  <div class="module-group-tools top-image" style="margin-bottom: 1px">
+                      <a class="module " href="/tech-suite/tasking-manager/" id="support-programs">
+                        <div class="block-screenshot-wrap" style="padding: 3%; background-color: white;">
+                          <img src="{{ page['tasking-manager'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                        <div class="module-details">
+                          <h2 >{{  page['tasking-manager'].Header }}</h2>
+                          <p>{{ page['tasking-manager'].Text }}</p>
+                          {% for tool in page['tasking-manager'].Tools %}
+                          <p class="module-cta" href="www.hotosm.org">{{ tool.Name }}</p>
+                          {% endfor %}
+                        </div>
+                      </a>
+                      <a class="module " href="/tech-suite/fair/" id="support-programs">
+                        <div class="block-screenshot-wrap" style="padding: 3%; background-color: white;">
+                          <img src="{{ page['Fair'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                        <div class="module-details">
+                          <h2 style="text-transform: none">{{  page['Fair'].Header }}</h2>
+                          <p>{{ page['Fair'].Text }}</p>
+                          {% for tool in page['Fair'].Tools %}
+                          <p class="module-cta">{{ tool.Name }}</p>
+                          {% endfor %}
+                        </div>
+                      </a>
+                    
+                  </div>
+              </div>
+            </div>
+
+
+
+            
+            <div class="container container-tools" >
+              <div class="hr-h"></div> 
+
+              <h2 class="partner-subtitle" style="opacity: 0.1;"> </h2>
+        
+                  <div class="module-group-tools top-image" style="margin-bottom: 1px">
+                      <a class="module " href="/tech-suite/export-tool/" id="support-programs">
+                        <div class="block-screenshot-wrap" style="padding: 3%; background-color: white;">
+                          <img src="{{ page['Export-tool'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                        <div class="module-details">
+                          <h2 >{{  page['Export-tool'].Header }}</h2>
+                          <p>{{ page['Export-tool'].Text }}</p>
+                          {% for tool in page['Export-tool'].Tools %}
+                          <p class="module-cta" href="www.hotosm.org">{{ tool.Name }}</p>
+                          {% endfor %}
+                        </div>
+                      </a>
+                      <a class="module " href="/tech-suite/open-aerial-map/" id="support-programs">
+                        <div class="block-screenshot-wrap" style="padding: 3%; background-color: white;">
+                          <img src="{{ page['Oam'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                        <div class="module-details">
+                          <h2 >{{  page['Oam'].Header }}</h2>
+                          <p>{{ page['Oam'].Text }}</p>
+                          {% for tool in page['Oam'].Tools %}
+                          <p class="module-cta">{{ tool.Name }}</p>
+                          {% endfor %}
+                        </div>
+                      </a>
+                    
+              </div>
+            </div>
+
+
+
+
+
+
+
+
+
+            <div class="container container-tools" >
+              <div class="hr-h"></div> 
+
+              <h2 class="partner-subtitle" style="opacity: 0.1;"> </h2>
+        
+                  <div class="module-group-tools top-image" style="margin-bottom: 1px">
+                      <a class="module " href="/tech-suite/field-mapping-tasking-manager/" id="support-programs">
+                        <div class="block-screenshot-wrap" style="padding: 3%; background-color: white;">
+                          <img src="{{ page['Fmtm'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                        <div class="module-details">
+                          <h2 >{{  page['Fmtm'].Header }}</h2>
+                          <p>{{ page['Fmtm'].Text }}</p>
+                          {% for tool in page['Fmtm'].Tools %}
+                          <p class="module-cta" href="www.hotosm.org">{{ tool.Name }}</p>
+                          {% endfor %}
+                        </div>
+                      </a>
+                      <a class="module " href="/tech-suite/drone-tasking-manager/" id="support-programs">
+                        <div class="block-screenshot-wrap" style="padding: 3%; background-color: white;">
+                          <img src="{{ page['Dtm'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                        <div class="module-details">
+                          <h2 >{{  page['Dtm'].Header }}</h2>
+                          <p>{{ page['Dtm'].Text }}</p>
+                          {% for tool in page['Dtm'].Tools %}
+                          <p class="module-cta">{{ tool.Name }}</p>
+                          {% endfor %}
+                        </div>
+                      </a>
+                    
+              </div>
+              <div class="hr-h"></div>
+
+            </div>
+
+
+<!-- section of news  -->
+
+
+             <article class="container-body-program project-item" style="padding-top: 3%;">
+
+
+              <div class="home-newsletter">
+                <div class="newsletter-signup" style="padding: 12px 32px 32px;">
+                  <h2>Contribute to Open Source <br>Development</h2>
+                </div>
+                <div class="newsletter-description">
+                  
+                  <a href="https://github.com/hotosm" class="btn btn-primary btn-block btn-chevron" style="font-weight: bold; font-size: 20px;"><i class="fa fa-github" style="font-size:20px; padding-left: 3%;"></i> &nbsp;&nbsp;GitHub Repository</a>
+                </div>
+              </div>
+            
+            </article>
+            
+<!-- Highlited tools -->
+<!-- <div class="hr-h"></div> -->
+
+
+             <div class="program-body" style="padding-top: 0.1px">
+              <section class="article">
+      
+
+                                <div style="margin: 30px 0 0px "></div>
+                                <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1rem; color: black;">Recent Updates</h2>
+                                <div class="hr-h" style="margin: 10px 0 40px "></div>
+
+                                <div class="project-index-all">
+            
+
+
+
+                                  {% assign recent_projects = site.tech-blog | concat: site.posts | sort: 'date' | reverse %}
+                                  {% assign project_count = 0 %}
+                                  {% for project in recent_projects %}
+                                    {% if project.tags contains 'tech' %}
+
+                                    {% unless project.title == sorted_projects[0].title or project.title == sorted_projects[1].title or project.title == sorted_projects[2].title  %}
+                            
+                                      {% assign project_count = project_count | plus: 1 %}
+                                      {% include blocks/project-thumb.html %}
+                                      
+                                      {% if project_count > 2 %}
+                                      
+                                        {% break %}
+                                        
+                                      {% endif %}
+                                      
+                            
+                                    {% endunless %}
+                                    {% endif %}
+
+                                  {% endfor %}
+                            
+                                </div>
+
+                                <article class="container-body-program project-item" style="padding-top: 1%; padding-bottom: 1%;">
+
+                                  <div class="next"><a href="/tech-blog/index.html" style="    text-align: right; font-weight: bolder; font-size: large;">Older posts →</a></div>
+                              
+                              </article>
+                            
+                                <div class="hr-h"></div>
+                                     
+              </section>
+          </div>    
+
+
+
+<!-- Tech blog and news -->
+
+
+
+
+
+</div>
+

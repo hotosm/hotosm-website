@@ -19,6 +19,30 @@ Impact Area:
 
 Van de la más reciente a la más antigua.
 
+13/05/2024 - [Cartografía Comunitaria: Receptor de Bajo Costo en el Mapeo del Medio Solimões](https://www.hotosm.org/updates/cartografia-comunitaria-receptor-de-bajo-costo-en-el-mapeo-del-medio-solimoes/)
+
+25/03/2024 - [Coordinación y Acción: La Articulación de la Respuesta de Mapeo Humanitario tras el Huracán Otis](https://www.hotosm.org/updates/coordinacion-y-accion-la-articulacion-de-la-respuesta-de-mapeo-humanitario-tras-el-huracan-otis/)
+
+07/03/2024 - [Mapeando nuestra comunidad: el viaje de Paula dos Santos Silva en la Amazonía](https://www.hotosm.org/updates/mapeando-nuestra-comunidad-el-viaje-de-paula-dos-santos-silva-en-la-amazonia/)
+
+26/02/2024 - [Jóvenes Trazando Resiliencia en San Antonio de Prado, Colombia](https://www.hotosm.org/updates/jovenes-trazando-resiliencia-en-san-antonio-de-prado-colombia/)
+
+22/02/204 - [Soberanía de datos, mapeo abierto y territorios indígenas](https://www.hotosm.org/updates/soberania-de-datos-mapeo-abierto-territorios-indigenas/)
+
+12/02/2024 - [Mapeos Amazónicos para una Amazonía Inclusiva y Sostenible](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/)
+
+15/12/2024 - [Datos para el desarrollo sostenible: El Festival de Datos 2023](https://www.hotosm.org/updates/festival-de-datos/)
+
+11/12/2023 - [HOT y la Fundación OpenStreetMap llegan a un importante acuerdo](https://www.hotosm.org/updates/hot-y-la-fundacion-openstreetmap-llegan-a-un-importante-acuerdo/)
+
+08/12/2023 - [AbreLatam 2023: Integrando la cartografía abierta en la comunidad de datos abiertos](https://www.hotosm.org/updates/abrelatam-2023/)
+
+29/10/2023 - [Canoa de Tolda en el Foro de París sobre la Paz 2023](https://www.hotosm.org/updates/canoa-paris/)
+
+26/11/2023 - [El mapeo abierto se hará presente en el AbreLatam 2023](https://www.hotosm.org/updates/el-mapeo-abierto-se-hara-presente-en-el-abrelatam-2023/)
+
+12/10/2023 - [Mapeo participativo de desechos: un esfuerzo continuo para el desarrollo sostenible](https://www.hotosm.org/updates/mapeo-participativo-de-desechos-un-esfuerzo-continuo-para-el-desarrollo-sostenible/)
+
 28/09/2023 - [De la reacción a la prevención: Mapeo de riesgos en Ecuador](https://www.hotosm.org/updates/de-la-reaccion-a-la-prevencion-mapeo-de-riesgos-en-ecuador/)
 
 18/09/2023 - [Ciclo de charlas humanitarias y cartográficas del Hub-LAC](https://www.hotosm.org/updates/ciclo-de-charlas-humanitarias-y-cartograficas-del-hub-lac/)
@@ -78,6 +102,8 @@ Van de la más reciente a la más antigua.
 08/06/2021 - [Practical Action Bolivia Trained Community Members in Mapping Areas Impacted by Forest Fires](https://www.hotosm.org/updates/practical-action-bolivia-trained-community-members-in-mapping-areas-impacted-by-forest-fires/)
 
 24/08/2020 - [Covid-19 Pandemic in Peru: Mapping Health Implications](https://www.hotosm.org/updates/covid-19-pandemic-in-peru-mapping-health-implications/)
+
+26/06/2020 - [#map2020 Results Announced](https://www.hotosm.org/updates/number-map2020-results-announced/)
 
 19/06/2020 - [Cuatro regiones, cinco años, 94 países, mil millones de personas](https://www.hotosm.org/updates/cuatro-regiones-cinco-anos-94-paises-mil-millones-de-personas/)
 

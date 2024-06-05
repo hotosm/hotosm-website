@@ -2,7 +2,7 @@
 title: HOT's Data Quality Strategy Open for Comment
 date: 2023-07-02 19:51:00 Z
 Summary Text: Offer your feedback on the draft of HOT's data quality strategy!
-Feature Image: "/uploads/Screen%20Shot%202021-12-16%20at%2012.26.52%20pm-de2129.png"
+Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2021-12-16+at+12.26.52+pm-de2129.png
 Person: Samson Ngumenawe
 Working Group:
 - Quality Control and Assurance

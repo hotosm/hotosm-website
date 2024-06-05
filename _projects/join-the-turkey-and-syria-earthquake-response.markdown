@@ -20,6 +20,7 @@ Partner:
 - Yer Çizenler
 Duration:
   Start Date: 2023-02-07 00:00:00 Z
+  End Date: 2023-06-30 00:00:00 Z
 tm_campaigns:
 - https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
 Data:
@@ -28,13 +29,12 @@ Data:
 - link: https://data.humdata.org/organization/hot?q=syrian&sort=if(gt(last_modified%2Creview_date)%2Clast_modified%2Creview_date)%20desc&ext_page_size=25
   title: Humanitarian Data Exchange (Syrian Arab Republic)
 Tools:
-- title: 
-  tool: Export Tool
-  Key: https://export.hotosm.org/en/v3/
-- link: 
+- tool: Export Tool
+  link: https://export.hotosm.org/en/v3/
+- link: https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
   tool: Tasking Manager
-  Key: https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
-- Wiki Page: "[Turkey and Syria Earthquake Response February 2023 wiki](https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes)"
+- tool: Wiki
+  link: https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes
 - Contact: disasterservices@hotosm.org
 layout: project-item
 ---
@@ -65,4 +65,4 @@ And we have shared numerous other use cases via our blog and OSM diaries:
 * [Using OSM Data in the Turkey and Syria Earthquake Response](https://www.hotosm.org/updates/using-osm-data-for-the-turkey-and-syria-earthquake-response/)
 * [OpenStreetMap data in action: earthquake response](https://www.openstreetmap.org/user/pedrito1414/diary/401009)
 
-![Turkey Syria Activations March 30.png](/uploads/Turkey%20Syria%20Activations%20March%2030.png)
+![Turkey Syria Activations March 30.png](https://cdn.hotosm.org/website/Turkey+Syria+Activations+March+30.png)

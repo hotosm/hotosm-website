@@ -1,25 +1,21 @@
 ---
 title: Using motorcycles to survey in Haiti
-date: 2013-05-28 14:59:22 Z
+date: 2013-05-28 00:00:00 Z
 permalink: updates/2013-05-28_using_motorcycles_to_survey_in_haiti
-Summary Text: Hey All,As part of the CAP103 project, financed by USAID, being run
-  in the North of Haiti right now we have started coordinating motorcycles for survey
-  purposes.[inline:IMG_2619.JPG]The purpose of using the motos is two-fold:1. To be
-  able to transport teams of OSM surveyors to remote locations it would otherwise
-  be difficult to reach.2. To be able to collect a solid network of GPS traces for
-  the area's major and minor ways. Once collected, they can be used as a resource
-  for setting offsets and positions for any aerial imageries.
+Summary Text: As part of the CAP103 project, financed by USAID, being run in the North
+  of Haiti right now we have started coordinating motorcycles for survey purposes.
+  The purpose of using the motos is two-fold. First, to be able to transport teams
+  of OSM surveyors to remote locations it would otherwise be difficult to reach. Second,
+  to be able to collect a solid network of GPS traces for the area's major and minor
+  ways. Once collected, they can be used as a resource for setting offsets and positions
+  for any aerial imageries.
+Feature Image: https://cdn.hotosm.org/website/9213832946_49c3d72231_k-76d6ed.jpg
 Person: Brian Wolford
-Working Group: []
-Project:
-- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 Country:
 - Haiti
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_2619.JPG
 created: 1369753162
 ---
 
-<p>Hey All,</p>
 <p>As part of the CAP103 project, financed by USAID, being run in the North of Haiti right now we have started coordinating motorcycles for survey purposes.<!--break--></p>
 <p><img class="image-large" src="https://s3.amazonaws.com/hotwww/files/old/styles/large/public/IMG_2619_0.JPG?itok=W4ak-JII" alt="" height="360" width="480"></p>
 <p>The purpose of using the motos is two-fold:</p>

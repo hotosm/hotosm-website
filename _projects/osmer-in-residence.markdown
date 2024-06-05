@@ -4,6 +4,7 @@ title: Strengthening Collaboration Between Organizations and Local Communities i
 date: 2023-11-29 14:47:00 Z
 tags:
 - OSMER
+Feature Image: https://cdn.hotosm.org/website/hot_omh_wna_english_logo_rev_colour_with_tagline-1-2240x1115.png
 Impact Area:
 - Public Health
 - Sustainable Cities & Communities
@@ -46,12 +47,14 @@ The impact of this program is already evident from the MSF and the residence per
 
 **Jorieke**, GIS advisor & Missing Maps Coordinator who is working closely with the hub on this program has described how this collaboration is useful for them.
 
-![Jorieke-OSMer](/uploads/OSMer1.png)
+![Jorieke-OSMer](https://cdn.hotosm.org/website/OSMer1.png)
 
 **Yves Emmanuel** has also shared how this program is strengthening his technical capacity beyond his OSM expertise.
 
-![Yves-OSMer](/uploads/OSMer2.png)
+![Yves-OSMer](https://cdn.hotosm.org/website/OSMer2.png)
 
 By the end of the program in early 2024, the program aims to increase coverage of data in OSM through a collaborative import with local communities in two countries. This data will not only support MSF’s operation but fill critical data gaps for communities and local actors in the region.
 
 If you've found value in our work or share in the mission, consider making a [donation](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa/donate/) to support us.
+
+You can read the French version [here](https://www.hotosm.org/projects/osmer-in-residence-fr/).

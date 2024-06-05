@@ -2,6 +2,8 @@
 title: HOT InAWARE Project Relocates to Mapping Lifeline Infrastructures in Semarang
 date: 2018-03-12 03:34:00 Z
 permalink: updates/2018-03-12_hot_inaware_project_relocates_to_mapping_lifeline_infrastructures_in_semarang
+tags:
+- tech
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2018-03-12+at+10.33.16+AM.png
 Person: Biondi Sanda Sima
 Country:

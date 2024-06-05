@@ -1,7 +1,7 @@
 ---
 title: Daniel  Enechojo Akor
 date: 2023-08-30 16:24:00 Z
-Photo: "/uploads/_MEC8433%20-%20Daniel%20Akor.jpg"
+Photo: https://cdn.hotosm.org/website/_MEC8433+-+Daniel+Akor.jpg
 Member Type:
   Is Voting Member: true
 Social Media (Full URL):

@@ -32,9 +32,9 @@ Data:
   title: Humanitarian Data Exchange (Syrian Arab Republic)
 Tools:
 - tool: Export Tool
-  Key: https://export.hotosm.org/en/v3/
+  link: https://export.hotosm.org/en/v3/
 - tool: Tasking Manager
-  Key: https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
+  link: https://tasks.hotosm.org/explore?campaign=Turkey%20and%20Syria%20Earthquake%20Response%20February%202023
 Wiki Page: "[Turkey and Syria Earthquake Response February 2023 wiki](https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes)"
 Contact: disasterservices@hotosm.org
 ---

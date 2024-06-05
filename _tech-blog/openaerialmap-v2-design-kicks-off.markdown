@@ -1,20 +1,19 @@
 ---
 title: OpenAerialMap v2 Design Kicks Off!
 date: 2022-04-20 14:47:00 Z
-Summary Text: 'This year HOT joined with Kontur to take a fresh look at OAM and redesign
+tags:
+- tech
+Summary Text: This year HOT joined with Kontur to take a fresh look at OAM and redesign
   the platform. We will evaluate how OAM could be improved to better support HOT’s
   vision that everyone has access to high quality map data and use that data responsibly
   to improve lives and communities. Read the initial findings in this blog and join
   the user workshops at the end of April.
-
-'
 Person: DK Benjamin
 Project:
 - OpenAerialMap
 Tool:
 - OpenAerialMap
 ---
-
 
 OpenAerialMap.org (OAM) was built in 2015 to serve as a platform and tools for sharing openly licensed satellite and aerial imagery. For the Humanitarian OpenStreetMap Team (HOT) and its partners, open imagery has been critical for disaster response and preparedness mapping projects. Those images have traditionally been difficult to share and access because of the large file sizes and technical skills required to publish them online. Since its inception, OAM provides an easy means of contributing to and accessing a large repository of open imagery, with over 11,000 images added. The OAM browser is designed to easily index, visualize and filter images, while the data itself is stored in Cloud Optimized GeoTIFF (COG) format in the Open Imagery Network, a federated network of highly available imagery buckets from different cloud providers. 
 

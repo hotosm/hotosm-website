@@ -4,8 +4,10 @@ date: 2020-06-05 15:32:00 Z
 Photo: https://cdn.hotosm.org/website/Ben+Dills+Headshot.jpg
 Member Type:
   Is Staff: true
+  Is Voting Member: true
 Job Title: Content Manager
 Country: United States
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/DigiDemoDills
 ---

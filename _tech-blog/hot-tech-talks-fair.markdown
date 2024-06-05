@@ -7,6 +7,7 @@ tags:
 - ai-assisted-mapping
 - ai
 - open-ai
+- tech
 Summary Text: 'Here is all you need to know about HOT’s open AI-assisted mapping service:
   fAIr.'
 Feature Image: https://cdn.hotosm.org/website/fAIr.png

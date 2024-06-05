@@ -4,9 +4,10 @@ date: 2021-05-20 19:40:00 Z
 Photo: https://cdn.hotosm.org/website/DSC_0102.jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Mapping Supervisor
+  Is Voting Member: true
+Job Title: Senior Mapping Supervisor - Eastern and Southern Africa Hub
 Country: Zambia
-Team: Global
+Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Jomokela%20Kennedy
 ---

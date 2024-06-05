@@ -1,6 +1,8 @@
 ---
 title: 'Integrating Machine Learning into the Tasking Manager: Notes on a Direction'
 date: 2018-09-17 16:12:00 Z
+tags:
+- tech
 Summary Text: We're moving towards how we leverage machine learning tools to improve
   data quality and help mappers map. Above is a shot from our design workshop we held
   at the HOT Summit in Dar es Salaam on August 31. Read more below about our ideas

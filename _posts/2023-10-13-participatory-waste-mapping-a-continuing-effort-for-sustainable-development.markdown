@@ -14,7 +14,7 @@ tags:
 Summary Text: Mapping waste in your neighborhood can be a simple activity that is
   both useful and beneficial for our urban environment.Let's see how various teams
   of mappers in Latin America and the Caribbean have been doing it.
-Feature Image: "/uploads/olmmap.jpg"
+Feature Image: https://cdn.hotosm.org/website/olmmap.jpg
 Person:
 - Céline Jacquin
 - Juan Arellano Valdivia
@@ -30,15 +30,15 @@ The data collected through this movement has provided valuable information on th
 
 **Mapping waste in Latin America and the Caribbean**
 
-![WhatsApp Image 2023-10-11 at 9.13.33 AM.jpeg](/uploads/WhatsApp%20Image%202023-10-11%20at%209.13.33%20AM.jpeg)
+![WhatsApp Image 2023-10-11 at 9.13.33 AM.jpeg](https://cdn.hotosm.org/website/WhatsApp+Image+2023-10-11+at+9.13.33+AM.jpeg)
 
 In **Saint Lucia, in the Caribbean**, a virtual training session on OpenLitterMap was held on Monday, September 18, with 21 participants from across the region and the world, thanks to the spreading support of the [CDEMA](https://www.cdema.org/). They were taught how to activate location on their cameras, log into the app and upload data to openlittermap.com. The Saint Lucia Youth Emergency Action Committees ([YEAC](https://www.facebook.com/YEACSLU/)) team emerged as the best mappers of the campaign, with great dedication to improving their communities and building resilience.
 
-![Boliviamap.jpg](/uploads/Boliviamap.jpg)
+![Boliviamap.jpg](https://cdn.hotosm.org/website/Boliviamap.jpg)
 
 In **Bolivia**, participation has been strong, and has occurred through three groups with a total of 140 participants. The La Paz group: [Team Hacklab r00thouse La Paz](https://www.hacklab.org.bo/), which are part of the [Universidad Mayor de San Andrés](https://www.umsa.bo/), but also include students from other universities. In Sucre: students from the [Universidad Pontificia San Francisco Xavier](https://usfx.bo/#gsc.tab=0) with the collaboration of Dr. Scarlett Martínez. In Beni, students from the [Universidad Autónoma José Ballivian](https://www.uabjb.edu.bo/) of Beni, with the support of Engineer Daniel Zubieta.
 
-![cuscolitter2.jpg](/uploads/cuscolitter2.jpg)
+![cuscolitter2.jpg](https://cdn.hotosm.org/website/cuscolitter2.jpg)
 
 In **Cusco, Peru**, various neighborhoods of the city that face the waste problem have been mapped. 40 GAL School students participated, mainly from secondary school, linking curricular content with active learning. The participation and empowerment of students -using open mapping as a tool- has been effective, even raising awareness among passers-by who asked what the objective was sought when mapping the garbage. On the other hand, the use of new technologies and their application has motivated them to collaborate more with society.
 
@@ -50,7 +50,7 @@ Where would it be useful to have a survey of abandoned garbage information? Over
 
 **Thanks**
 
-![teams.jpg](/uploads/teams.jpg)
+![teams.jpg](https://cdn.hotosm.org/website/teams.jpg)
 
 The Humanitarian OpenStreetMap Team appreciates the enthusiasm and dedication with which the teams of mappers participated in this activity. And especially to the campaign leaders who in each country or region took on the selfless challenge of training and guiding their teams in the weeks that the participatory waste mapping lasted. To Dr. Patricia Llanos, Professor Gilmar Vergara and Louise Mathurin-Serieux our deep gratitude.
 

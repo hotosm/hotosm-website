@@ -1,6 +1,8 @@
 ---
 title: OSM Hackfest 2023 - Call for Partnerships
 date: 2022-11-17 13:11:00 Z
+tags:
+- tech
 Summary Text: "Over the past two years, Open Mapping Hub - Asia Pacific (OMH-AP) has
   been working on it’s vision to create a sustainable OpenStreetMap (OSM) ecosystem
   in the Asia-Pacific region. And for this reason, we are planning the OSM Hackfest

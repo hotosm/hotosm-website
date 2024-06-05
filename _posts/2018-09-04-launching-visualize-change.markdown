@@ -1,6 +1,8 @@
 ---
 title: Launching Visualize Change!
 date: 2018-09-04 10:34:00 Z
+tags:
+- tech
 Feature Image: https://cdn.hotosm.org/website/hot-visualize-change-image.png
 Is image top aligned: true
 Person: Nate Smith

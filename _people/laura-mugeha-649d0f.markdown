@@ -1,7 +1,7 @@
 ---
 title: Laura Mugeha
 date: 2023-10-03 16:54:00 Z
-Photo: "/uploads/Laura%20Mugeha%20-%20Headshot%20-%20Mugeha%20Laura.jpg"
+Photo: https://cdn.hotosm.org/website/Laura+Mugeha+-+Headshot+-+Mugeha+Laura.jpg
 Member Type:
   Is Voting Member: true
 Country: Kenya

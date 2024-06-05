@@ -18,6 +18,10 @@ Impact Area:
 
 Eles vão do mais recente para o mais antigo.
 
+13/05/2024 - [Cartografia Comunitária: Receptor de baixo custo no mapeamento do Médio Solimões](https://www.hotosm.org/updates/cartografia-comunitaria-receptor-de-baixo-custo-no-mapeamento-do-medio-solimoes/)
+
+29/11/2023 - [Canoa de Tolda no Fórum de Paz de Paris 2023](https://www.hotosm.org/updates/canoa-de-tolda-no-forum-de-paz-de-paris-2023/)
+
 28/09/2023 - [De la reacción a la prevención: Mapeo de riesgos en Ecuador](https://www.hotosm.org/updates/de-la-reaccion-a-la-prevencion-mapeo-de-riesgos-en-ecuador/)
 
 18/09/2023 - [Ciclo de charlas humanitarias y cartográficas del Hub-LAC](https://www.hotosm.org/updates/ciclo-de-charlas-humanitarias-y-cartograficas-del-hub-lac/)
@@ -77,6 +81,8 @@ Eles vão do mais recente para o mais antigo.
 08/06/2021 - [Practical Action Bolivia Trained Community Members in Mapping Areas Impacted by Forest Fires](https://www.hotosm.org/updates/practical-action-bolivia-trained-community-members-in-mapping-areas-impacted-by-forest-fires/)
 
 24/08/2020 - [Covid-19 Pandemic in Peru: Mapping Health Implications](https://www.hotosm.org/updates/covid-19-pandemic-in-peru-mapping-health-implications/)
+
+26/06/2020 - [#map2020 Results Announced](https://www.hotosm.org/updates/number-map2020-results-announced/)
 
 19/06/2020 - [Cuatro regiones, cinco años, 94 países, mil millones de personas](https://www.hotosm.org/updates/cuatro-regiones-cinco-anos-94-paises-mil-millones-de-personas/)
 
