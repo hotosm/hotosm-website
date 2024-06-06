@@ -6,6 +6,7 @@ Summary Text: When I started at the Humanitarian OpenStreetMap Team (HOT) almost
   systems (GIS) in the public and humanitarian sectors but little —okay, embarrassingly
   little— experience in OpenStreetMap (OSM).
 Feature Image: "/uploads/GISOSMLead.png"
+Person: Jessica Pechmann
 ---
 
 Originally coming from a local government that had been [publishing open geospatial data](https://gis.utah.gov/about/history/) since the early 1980s, when I first heard of OpenStreetMap circa 2012, I didn’t see how it could fit into the GIS world. Fast forward over ten years, and I am excited to be part of the wider adoption of OpenStreetMap by the more “traditional” GIS community, as OpenStreetMap has proven to be a valuable resource for anyone using geospatial data. 
