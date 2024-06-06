@@ -76,7 +76,7 @@ So, with that in mind, I want to share my Five Reasons to use OSM in GIS:
 
 2. OSM’s geographic coverage. Created by the commons, and not solely funded by one source or interest, OSM can be more complete in many parts of the world, and of higher quality as people with direct local knowledge of the area contribute to the data.
 
-3. The human perspective is still important. While AI has increased accuracy in image detection algorithms, accurately identifying everything still requires a human eye. Some information is only available locally, such as the name of a health center or classification of a water supply. OSM offers great crowdsourcing opportunity from global virtual volunteers to local communities. For example, detailed mapping of small internally displaced shelters in Somalia. 
+3. The human perspective is still important. While AI has increased accuracy in image detection algorithms, accurately identifying everything still requires a human eye. Some information is only available locally, such as the name of a health center or classification of a water supply. OSM offers great crowdsourcing opportunity from global virtual volunteers to local communities. For example, here is [detailed mapping](https://www.linkedin.com/posts/humanitarian-openstreetmap-team_osm-missingmaps-activity-7202069928437243904-fQ28?utm_source=share&utm_medium=member_desktop) of small internally displaced shelters in Somalia. 
 
 4. Completely open data means you don’t have to worry about use restrictions. [Learn more](https://www.openstreetmap.org/copyright).  
 
