@@ -68,7 +68,7 @@ You can import tags into an attribute table, but you have to specify which tags 
 Why are the systems so different? That would be for another blog post, but it has to do with the backend of OSM being different and 20 years of grassroots open-source growth. These technological advances have made OSM more usable and accessible than ever. But it wasn’t until I started this job that I had to learn the technical opportunities OSM gives to humanitarian partners. After all, it was my job to promote OSM in the sector. In these conversations, I realized that now it is really easy to access OSM data in a GIS format. In addition, the nature of OSM provides unique opportunities to crowdsource (virtually and by direct observation) data, something that is always needed in the sector. 
 
 ![GISOSM.png](/uploads/GISOSM.png)
-<figcaption align = "left"><h6>Global development of first activities of mappers in OpenStreetMap. Shading ranges from transparent to yellow to indicate the amount of first changesets per cell. From: <a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)</h6></figcaption">De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a>
+<figcaption align = "left"><h6>Global development of first activities of mappers in OpenStreetMap. Shading ranges from transparent to yellow to indicate the amount of first changesets per cell. From: <a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a></h6></figcaption">
 
 So, with that in mind, I want to share my Five Reasons to use OSM in GIS:
 
