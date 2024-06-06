@@ -68,7 +68,7 @@ You can import tags into an attribute table, but you have to specify which tags 
 Why are the systems so different? That would be for another blog post, but it has to do with the backend of OSM being different and 20 years of grassroots open-source growth. These technological advances have made OSM more usable and accessible than ever. But it wasn’t until I started this job that I had to learn the technical opportunities OSM gives to humanitarian partners. After all, it was my job to promote OSM in the sector. In these conversations, I realized that now it is really easy to access OSM data in a GIS format. In addition, the nature of OSM provides unique opportunities to crowdsource (virtually and by direct observation) data, something that is always needed in the sector. 
 
 ![GISOSM.png](/uploads/GISOSM.png)
-<figcaption align = "left"><h6>Global development of first activities of mappers in OpenStreetMap. Shading ranges from transparent to yellow to indicate the amount of first changesets per cell. From: <a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a></h6></figcaption">
+<figcaption align = "left"><h6>Global development of first activities of mappers in OpenStreetMap. Shading ranges from transparent to yellow to indicate the amount of first changesets per cell. From: <a href="https://link.springer.com/article/10.1007/s10708-021-10547-7">De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a></h6></figcaption">
 <br>
 So, with that in mind, I want to share my Five Reasons to use OSM in GIS:
 
@@ -83,10 +83,10 @@ So, with that in mind, I want to share my Five Reasons to use OSM in GIS:
 5. OSM data access in GIS is easier than ever. There are tools that allow you to export data from OSM into GIS format with an attribute table. Some of my favorites are:
 
 <ul>
-  <li>[HOT export tool](https://export.hotosm.org/v3/): best for custom exports worldwide</li>
-  <li>[HDX HOTOSM Exports](https://data.humdata.org/organization/hot?): download OSM data, humanitarian user target audience</li>
-  <li>[ESRI Feature services](https://www.arcgis.com/home/group.html?id=66d66956ab444ae89e8265f008704d4b#overview). You can even add ESRI feature services to [QGIS](https://www.geographyrealm.com/how-to-add-data-from-arcgis-online-to-qgis/).</li>
-<li>[QGIS OSM Plugins](https://gisgeography.com/qgis-openstreetmap/), check out QuickOSM.</li>
+  <li><a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a>[HOT export tool](): best for custom exports worldwide</li>
+  <li><a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a>[HDX HOTOSM Exports](https://data.humdata.org/organization/hot?): download OSM data, humanitarian user target audience</li>
+  <li><a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a>[ESRI Feature services](https://www.arcgis.com/home/group.html?id=66d66956ab444ae89e8265f008704d4b#overview). You can even add ESRI feature services to [QGIS](https://www.geographyrealm.com/how-to-add-data-from-arcgis-online-to-qgis/).</li>
+<li><a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a>[QGIS OSM Plugins](https://gisgeography.com/qgis-openstreetmap/), check out QuickOSM.</li>
 </ul>
 
 <br> 
