@@ -14,7 +14,7 @@ While it's easy to use OSM data in open and proprietary geospatial applications 
 
 But first, here are some definitions to make sure we are all on the same page. 
 
-**OpenStreetMap**, or OSM, is a project to build an open collaborative “map” of the world. This map is built from an extensive open dataset of geospatial data that anyone can add and review. This data can then be queried in multiple ways to be downloaded or viewed as a reference map. 
+**OpenStreetMap**, or OSM, is a project to build an open, collaborative “map” of the world. This map is built from an extensive open dataset of geospatial data that anyone can add and review. This data can then be queried in multiple ways to be downloaded or viewed as a reference map. 
 
 **Geographic Information Systems**, or GIS, broadly speaking, refers to an approach to analyzing geospatial data, but people often use it interchangeably with desktop or web-based viewing and analysis software that applies it. The “system” consists of the application, user, data, and methods. GIS is a core part of the geospatial technology sector and ties many different types of data, use cases, and applications together. Geographers, data analysts, and many decision-makers use various forms of GIS to analyze and view spatial data. 
 
