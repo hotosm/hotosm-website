@@ -80,10 +80,13 @@ So, with that in mind, I want to share my Five Reasons to use OSM in GIS:
 
 4. Completely open data means you don’t have to worry about use restrictions. [Learn more](https://www.openstreetmap.org/copyright).  
 
-5. OSM data access in GIS is easier than ever. There are tools that allow you to export data from OSM into GIS format with an attribute table. Some of my favorites are: 
-* [HOT export tool](https://export.hotosm.org/v3/): best for custom exports worldwide
-* [HDX HOTOSM Exports](https://data.humdata.org/organization/hot?): download OSM data, humanitarian user target audience
-* [ESRI Feature services](https://www.arcgis.com/home/group.html?id=66d66956ab444ae89e8265f008704d4b#overview). You can even add ESRI feature services to [QGIS](https://www.geographyrealm.com/how-to-add-data-from-arcgis-online-to-qgis/). 
-* [QGIS OSM Plugins](https://gisgeography.com/qgis-openstreetmap/), check out QuickOSM.
+5. OSM data access in GIS is easier than ever. There are tools that allow you to export data from OSM into GIS format with an attribute table. Some of my favorites are:
+<ul>
+  <li>[HOT export tool](https://export.hotosm.org/v3/): best for custom exports worldwide</li>
+  <li>[HDX HOTOSM Exports](https://data.humdata.org/organization/hot?): download OSM data, humanitarian user target audience</li>
+  <li>[ESRI Feature services](https://www.arcgis.com/home/group.html?id=66d66956ab444ae89e8265f008704d4b#overview). You can even add ESRI feature services to [QGIS](https://www.geographyrealm.com/how-to-add-data-from-arcgis-online-to-qgis/).</li>
+<li>[QGIS OSM Plugins](https://gisgeography.com/qgis-openstreetmap/), check out QuickOSM.</li>
+</ul>
+<br> 
 
 Are you someone who started in QGIS or ArcGIS and started to learn more about OSM? What surprised you? What am I missing?
