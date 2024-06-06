@@ -72,7 +72,7 @@ Why are the systems so different? That would be for another blog post, but it ha
 <br>
 So, with that in mind, I want to share my Five Reasons to use OSM in GIS:
 
-1. GIS people love data sharing. OSM is one common data source that anyone from any platform, sector, and location can access. The more we as a geospatial community invest and use it, the better for everyone. Check out Rapid to easily edit OSM in ESRI products or the open JOSM application. 
+1. GIS people love data sharing. OSM is one common data source that anyone from any platform, sector, and location can access. The more we as a geospatial community invest and use it, the better for everyone. Check out [Rapid](https://wiki.openstreetmap.org/wiki/Rapid) to easily edit OSM in ESRI products or the open JOSM application. 
 
 2. OSM’s geographic coverage. Created by the commons, and not solely funded by one source or interest, OSM can be more complete in many parts of the world, and of higher quality as people with direct local knowledge of the area contribute to the data.
 
