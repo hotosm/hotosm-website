@@ -21,9 +21,9 @@ tm_campaigns:
 - https://tasks.hotosm.org/explore?campaign=2024%20Belize%20Wildfire
 Tools:
 - tool: MapSwipe
-- link: 
+- link: https://mapswipe.org/en/
 - tool: Tasking Manager
-- link: 
+- link: https://tasks.hotosm.org/explore?campaign=2024%20Belize%20Wildfire
 ---
 
 > [Mapping projects for this activation](https://tasks.hotosm.org/explore?campaign=2024%20Belize%20Wildfire)
