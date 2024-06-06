@@ -87,7 +87,6 @@ So, with that in mind, I want to share my Five Reasons to use OSM in GIS:
   <li><a href="https://data.humdata.org/organization/hot?">HDX HOTOSM Exports</a>: download OSM data, humanitarian user target audience</li>
   <li><a href="https://www.arcgis.com/home/group.html?id=66d66956ab444ae89e8265f008704d4b#overview">ESRI Feature services</a>: You can even add ESRI feature services to <a href="https://www.geographyrealm.com/how-to-add-data-from-arcgis-online-to-qgis/">QGIS</a></li>
 <li><a href="https://gisgeography.com/qgis-openstreetmap/">QGIS OSM Plugins</a>: check out QuickOSM.
-<a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a>
 </ul>
 <br> 
 
