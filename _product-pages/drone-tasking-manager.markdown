@@ -9,7 +9,7 @@ Tool-name: Drone Tasking Manager
 Block 0:
   Header: 
   Text: Open-Source Tool Designed to Contribute to an Open Aerial Imagery Repository
-  Image: "/uploads/Lima-Drone-Flight%20Demo-Cut-1.JPG"
+  Image: "/uploads/Lima-Drone-Flight%20Demo-Cut-2.JPG"
 Block 1:
   Section: What is it?
   Header: A user-friendly, inclusive application suite enabling anyone with access
