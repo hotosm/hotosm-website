@@ -69,7 +69,7 @@ Why are the systems so different? That would be for another blog post, but it ha
 
 ![GISOSM.png](/uploads/GISOSM.png)
 <figcaption align = "left"><h6>Global development of first activities of mappers in OpenStreetMap. Shading ranges from transparent to yellow to indicate the amount of first changesets per cell. From: <a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a></h6></figcaption">
-
+<br>
 So, with that in mind, I want to share my Five Reasons to use OSM in GIS:
 
 1. GIS people love data sharing. OSM is one common data source that anyone from any platform, sector, and location can access. The more we as a geospatial community invest and use it, the better for everyone. Check out Rapid to easily edit OSM in ESRI products or the open JOSM application. 
@@ -81,12 +81,14 @@ So, with that in mind, I want to share my Five Reasons to use OSM in GIS:
 4. Completely open data means you don’t have to worry about use restrictions. [Learn more](https://www.openstreetmap.org/copyright).  
 
 5. OSM data access in GIS is easier than ever. There are tools that allow you to export data from OSM into GIS format with an attribute table. Some of my favorites are:
+
 <ul>
   <li>[HOT export tool](https://export.hotosm.org/v3/): best for custom exports worldwide</li>
   <li>[HDX HOTOSM Exports](https://data.humdata.org/organization/hot?): download OSM data, humanitarian user target audience</li>
   <li>[ESRI Feature services](https://www.arcgis.com/home/group.html?id=66d66956ab444ae89e8265f008704d4b#overview). You can even add ESRI feature services to [QGIS](https://www.geographyrealm.com/how-to-add-data-from-arcgis-online-to-qgis/).</li>
 <li>[QGIS OSM Plugins](https://gisgeography.com/qgis-openstreetmap/), check out QuickOSM.</li>
 </ul>
+
 <br> 
 
 Are you someone who started in QGIS or ArcGIS and started to learn more about OSM? What surprised you? What am I missing?
