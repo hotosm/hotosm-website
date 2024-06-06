@@ -20,50 +20,60 @@ But first, here are some definitions to make sure we are all on the same page.
 
 For those more familiar with either OSM or GIS, it's always good to identify the different ways the same topic is referred to in both. Here are five broad-strokes differences to know between OSM and GIS:
 
-<table style="border-bottom: none">
-	<tr>
-		<th style="border-bottom-width: 2px"><span style="font-weight: bold">Column 1</span></th>
-		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Column 2</span></th>
-		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">Column 3</span></th>
-	</tr>
-	<tr>
-		<td>Row 1</td>
-		<td style="border-left: 1px solid black">Text A</td>
-		<td style="border-left: 1px solid black">Text B</td>
-	</tr>
-	<tr>
-		<td>Row 2</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
-	</tr>
-</table>
-		<td>Row 3</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
-	</tr>
-</table>
-		<td>Row 4</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
-	</tr>
-</table>
-		<td>Row 5</td>
-		<td style="border-left: 1px solid black">Text C</td>
-		<td style="border-left: 1px solid black">Text D</td>
-	</tr>
+<table border="2">
+<tbody>
+<tr>
+<td>Topic</td>
+<td>In OpenStreetMap </td>
+<td>In GIS</td>
+</tr>
+<tr>
+<td>The process of creating spatial data, remotely or by direct observation.</td>
+<td>“Mapping”</td>
+<td>“Data collection” generally, and “Digitization” for remote data creation with an aerial image.</td>
+</tr>
+<tr>
+<td>Types of spatial data that are used to represent the physical world.</td>
+<td>Points (a discrete X & Y coordinate)
+Way (a line segment)
+Area (a figure made up of an enclosed way) 
+Relations (a structured collection of the elements above) </td>
+<td>Points
+Lines
+Polygons
+</td>
+</tr>
+<tr>
+<td>Non spatial information about a location </td>
+<td>Tags. Features can have any number of tags. 
+You can import tags into an attribute table, but you have to specify which tags you are looking for, and some features may not have corresponding tags. 
+</td>
+<td>Tabular. Each feature in a dataset has a corresponding row in an attribute table with a predefined set of columns for various attributes.</td>
+</tr>
+<tr>
+<td>Data hosting and access</td>
+<td>All data is stored in the XML OSM format, and you can access it via different services and export tools. </td>
+<td>There is no one data source, and all data is owned and shared by various entities.</td>
+</tr>
+<tr>
+<td>Governance</td>
+<td>The (primarily online) OSM community monitors and approves tagging structures, organized editing, etc. </td>
+<td>A mix of open and proprietary organizations that manage their own data and the usage of their applications</td>
+</tr>
+</tbody>
 </table>
 <br>
 
 Why are the systems so different? That would be for another blog post, but it has to do with the backend of OSM being different and 20 years of grassroots open-source growth. These technological advances have made OSM more usable and accessible than ever. But it wasn’t until I started this job that I had to learn the technical opportunities OSM gives to humanitarian partners. After all, it was my job to promote OSM in the sector. In these conversations, I realized that now it is really easy to access OSM data in a GIS format. In addition, the nature of OSM provides unique opportunities to crowdsource (virtually and by direct observation) data, something that is always needed in the sector. 
+
+![GISOSM.png](/uploads/GISOSM.png)
+<figcaption align = "left"><h6>Global development of first activities of mappers in OpenStreetMap. Shading ranges from transparent to yellow to indicate the amount of first changesets per cell. From: [De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.](https://link.springer.com/article/10.1007/s10708-021-10547-7)</h6></figcaption> 
 
 So, with that in mind, I want to share my Five Reasons to use OSM in GIS:
 
 1. GIS people love data sharing. OSM is one common data source that anyone from any platform, sector, and location can access. The more we as a geospatial community invest and use it, the better for everyone. Check out Rapid to easily edit OSM in ESRI products or the open JOSM application. 
 
 2. OSM’s geographic coverage. Created by the commons, and not solely funded by one source or interest, OSM can be more complete in many parts of the world, and of higher quality as people with direct local knowledge of the area contribute to the data.
-
-![GISOSM.png](/uploads/GISOSM.png)
-<figcaption align = "left"><h6>Global development of first activities of mappers in OpenStreetMap. Shading ranges from transparent to yellow to indicate the amount of first changesets per cell. From: [De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.](https://link.springer.com/article/10.1007/s10708-021-10547-7)</h6></figcaption> 
 
 3. The human perspective is still important. While AI has increased accuracy in image detection algorithms, accurately identifying everything still requires a human eye. Some information is only available locally, such as the name of a health center or classification of a water supply. OSM offers great crowdsourcing opportunity from global virtual volunteers to local communities. For example, detailed mapping of small internally displaced shelters in Somalia. 
 
