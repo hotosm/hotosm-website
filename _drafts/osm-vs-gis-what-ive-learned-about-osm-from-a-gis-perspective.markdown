@@ -38,7 +38,7 @@ For those more familiar with either OSM or GIS, it's always good to identify the
 <td>Points (a discrete X & Y coordinate)
 Way (a line segment)
 Area (a figure made up of an enclosed way) 
-Relations (a structured collection of the elements above) </td>
+<a href="https://wiki.openstreetmap.org/wiki/Relation">Relations</a> (a structured collection of the elements above) </td>
 <td>Points
 Lines
 Polygons
@@ -46,14 +46,14 @@ Polygons
 </tr>
 <tr>
 <td>Non spatial information about a location </td>
-<td>Tags. Features can have any number of tags. 
+<td>Tags. Features can have any number of <a href="https://wiki.openstreetmap.org/wiki/Tags">tags</a>. 
 You can import tags into an attribute table, but you have to specify which tags you are looking for, and some features may not have corresponding tags. 
 </td>
 <td>Tabular. Each feature in a dataset has a corresponding row in an attribute table with a predefined set of columns for various attributes.</td>
 </tr>
 <tr>
 <td>Data hosting and access</td>
-<td>All data is stored in the XML OSM format, and you can access it via different services and export tools. </td>
+<td>All data is stored in the <a href="https://wiki.openstreetmap.org/wiki/OSM_XML">XML OSM format</a>, and you can access it via different services and <a href="https://export.hotosm.org/v3/">export</a> tools. </td>
 <td>There is no one data source, and all data is owned and shared by various entities.</td>
 </tr>
 <tr>
