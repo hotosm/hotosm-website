@@ -83,12 +83,12 @@ So, with that in mind, I want to share my Five Reasons to use OSM in GIS:
 5. OSM data access in GIS is easier than ever. There are tools that allow you to export data from OSM into GIS format with an attribute table. Some of my favorites are:
 
 <ul>
-  <li><a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a>[HOT export tool](): best for custom exports worldwide</li>
-  <li><a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a>[HDX HOTOSM Exports](https://data.humdata.org/organization/hot?): download OSM data, humanitarian user target audience</li>
-  <li><a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a>[ESRI Feature services](https://www.arcgis.com/home/group.html?id=66d66956ab444ae89e8265f008704d4b#overview). You can even add ESRI feature services to [QGIS](https://www.geographyrealm.com/how-to-add-data-from-arcgis-online-to-qgis/).</li>
-<li><a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a>[QGIS OSM Plugins](https://gisgeography.com/qgis-openstreetmap/), check out QuickOSM.</li>
+  <li><a href="https://export.hotosm.org/v3/">HOT export tool</a>: best for custom exports worldwide</li>
+  <li><a href="https://data.humdata.org/organization/hot?">HDX HOTOSM Exports</a>: download OSM data, humanitarian user target audience</li>
+  <li><a href="https://www.arcgis.com/home/group.html?id=66d66956ab444ae89e8265f008704d4b#overview">ESRI Feature services</a>: You can even add ESRI feature services to <a href="https://www.geographyrealm.com/how-to-add-data-from-arcgis-online-to-qgis/">QGIS</a></li>
+<li><a href="https://gisgeography.com/qgis-openstreetmap/">QGIS OSM Plugins</a>: check out QuickOSM.
+<a href="https://link.springer.com/article/10.1007/s10708-021-10547-7)De/colonizing OpenStreetMap? Local mappers, humanitarian and commercial actors, and the changing modes of collaborative mapping.</a>
 </ul>
-
 <br> 
 
 Are you someone who started in QGIS or ArcGIS and started to learn more about OSM? What surprised you? What am I missing?
