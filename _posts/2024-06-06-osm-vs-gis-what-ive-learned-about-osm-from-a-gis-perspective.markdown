@@ -90,3 +90,5 @@ So, with that in mind, I want to share my Five Reasons to use OSM in GIS:
 <br> 
 <br>
 Are you someone who started in QGIS or ArcGIS and started to learn more about OSM? What surprised you? What am I missing?
+
+***Lead image from [OpenStreetMap](https://www.openstreetmap.org), (C) OpenStreetMap contributors.***
