@@ -1,9 +1,10 @@
 ---
 title: Ana Prada
 date: 2022-01-24 16:07:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/photo.png
 Member Type:
-  Is Staff: true
+  Is Staff: false
 Job Title: Project Associate - Latin America and Caribbean Hub
 Team: Latin America and Caribbean Hub
 Social Media (Full URL):
