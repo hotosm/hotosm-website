@@ -1,6 +1,6 @@
 ---
 title: 'Juntos mapeamos para o bem: construindo o Open Drone Aerial Tasking Manager'
-date: 2024-06-11 03:56:00 Z
+date: 2024-06-11 03:40:00 Z
 Summary Text: Aproveitando drones e crowdsourcing, a DroneTM equipa pilotos locais
   e comunidades propensas a desastres com ferramentas para criar mapas aéreos de alta
   resolução, melhorando a resposta a desastres e a resiliência comunitária.

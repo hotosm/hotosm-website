@@ -1,6 +1,6 @@
 ---
 title: 'Together we map for good: building the Open Drone Aerial Tasking Manager'
-date: 2024-06-10 23:17:00 Z
+date: 2024-06-11 03:56:00 Z
 tags:
 - drone
 Summary Text: Leveraging drones and crowdsourcing, DroneTM equips local pilots and
