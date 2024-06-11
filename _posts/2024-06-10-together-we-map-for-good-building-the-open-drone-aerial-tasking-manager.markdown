@@ -3,10 +3,9 @@ title: 'Together we map for good: building the Open Drone Aerial Tasking Manager
 date: 2024-06-10 23:17:00 Z
 tags:
 - drone
-Summary Text: DroneTM equips disaster-prone communities with tools to create high-resolution
-  aerial maps for effective response and recovery. By leveraging drones and crowdsourcing,
-  DroneTM enables local pilots to capture and share critical geospatial data for disaster
-  response and community resilience.
+Summary Text: Leveraging drones and crowdsourcing, DroneTM equips local pilots and
+  disaster-prone communities with tools to create high-resolution aerial maps, enhancing
+  disaster response and community resilience.
 Feature Image: "/uploads/DroneTM%20-%20Open%20Drone%20Aerial%20Tasking%20Manager.jpg"
 Person: Fabrizio Scrollini
 ---
