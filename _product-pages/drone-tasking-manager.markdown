@@ -15,10 +15,10 @@ Block 1:
   Header: A user-friendly, inclusive application suite enabling anyone with access
     to a drone, even an inexpensive consumer or DIY drone, to contribute easily and
     effectively to a global free and open aerial imagery repository.
-  Text: 'Local people with low-cost, consumer-type drones can choose areas to fly
-    and receive flight plans that automate precision aerial imagery collection missions,
-    seamlessly combining the efforts of multiple operators into high­quality coverage
-    of 2D and 3D imagery. '
+  Text: Local people with low-cost, consumer-type drones can choose areas to fly and
+    receive flight plans that automate precision aerial imagery collection missions,
+    seamlessly combining the efforts of multiple operators into high­-quality coverage
+    of 2D and 3D imagery.
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Learn More
