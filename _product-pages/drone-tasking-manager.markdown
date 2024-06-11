@@ -53,10 +53,10 @@ Block 3:
     satellites or expensive drones.
   Text: 'DroneTM empowers local communities to create high-­quality aerial imagery
     by combining the efforts of multiple people with small, safe, accessible drones.
-    <br><br> <strong>Social Impact:</strong><br> &nbsp;- <u>Collaboration</u>, Communities
-    work together to create local aerial imagery at scale. <br> &nbsp;- <u>Independence</u>,
-    People generate their own data for use with Al and field mapping tools. <br> &nbsp;-
-    <u>Empowerment</u>, Communities lead aerial imagery creation. <br><br> '
+    <br><br> <strong>Social Impact:</strong><br>  - <u>Collaboration</u>: Communities
+    work together to create local aerial imagery at scale. <br>  - <u>Independence</u>:
+    People generate their own data for use with Al and field mapping tools. <br>  -
+    <u>Empowerment</u>: Communities lead aerial imagery creation. <br><br>'
   Image: https://cdn.hotosm.org/website/Code+for+Africa+2019+Microgrant.jpg
   Tools:
   - Name: DroneTM Research GitHub
