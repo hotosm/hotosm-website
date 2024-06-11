@@ -9,7 +9,7 @@ Feature Image: "/uploads/DroneTM%20-%20Open%20Drone%20Aerial%20Tasking%20Manager
 Person: Fabrizio Scrollini
 ---
 
-**> English version / Versão em português**
+**> [English version](https://www.hotosm.org/updates/together-we-map-for-good-building-the-open-drone-aerial-tasking-manager/) / [Versão em português](https://www.hotosm.org/updates/juntos-mapeamos-para-o-bem-construindo-o-open-drone-aerial-tasking-manager/)**
 
 En 2021, cuando las inundaciones severas golpearon el valle del río Melamchi en el centro de Nepal, las autoridades se apresuraron a responder al trágico evento. Las imágenes satelitales del área no estaban disponibles de inmediato, las carreteras estaban bloqueadas y las condiciones climáticas no eran adecuadas para los helicópteros. Las autoridades locales no pudieron evaluar los daños y planificar los próximos pasos inmediatos; por lo tanto, decidieron enviar drones. Con información actualizada y relevante, las autoridades pudieron planificar con anticipación, así como aprovechar el conocimiento de los locales para avanzar en los esfuerzos de respuesta y recuperación. Ejemplos de Malawi, el Huracán Ida en EE.UU., y el Tifón Odette en Filipinas muestran la misma tendencia: los drones se están convirtiendo en herramientas útiles para los esfuerzos de respuesta y recuperación ante desastres. A medida que los drones se despliegan activamente en operaciones humanitarias, ¿está la tecnología que los apoya lista para asegurar una adopción equitativa en todo el mundo?
 
