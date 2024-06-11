@@ -32,8 +32,9 @@ Block 2:
     Icon: fa-solid fa-paper-plane
     Header: Use Low-Cost Drones
     Highlight: DroneTM empowers local communities to produce their own aerial imagery
-      by enabling local <strong>use of safe. affordable, lightly-regulated drones</strong>
-      to create high-quality, high­resolution 2D and 3D images and base layers.
+      by enabling local <strong>use of safe, high resolution, affordable, lightly-regulated
+      drones</strong> to create high-quality, high­resolution 2D and 3D images and
+      base layers.
   Rectangle-2:
     Icon: fa-solid fa-group-arrows-rotate
     Header: Coordinate Efforts
@@ -50,14 +51,13 @@ Block 2:
 Block 3:
   Header: WHY DroneTM?
   Highlight: Aerial imagery is critical for mapping, but we have been dependent on
-    satellites or large, expensive, dangerous drones (usually operated by contractors
-    from abroad).
-  Text: 'DroneTM empowers local communities to create high­quality aerial imagery
+    satellites or expensive drones.
+  Text: 'DroneTM empowers local communities to create high-­quality aerial imagery
     by combining the efforts of multiple people with small, safe, accessible drones.
     <br><br> <strong>Social Impact:</strong><br> &nbsp;- <u>Collaboration</u>, Communities
-    working together to create local aerial imagery at scale. <br> &nbsp;- <u>Independence</u>,
-    People can generate their own data for use with Al and field mapping tools. <br>
-    &nbsp;- <u>Empowerment</u>, Community led aerial imagery creation. <br><br> '
+    work together to create local aerial imagery at scale. <br> &nbsp;- <u>Independence</u>,
+    People generate their own data for use with Al and field mapping tools. <br> &nbsp;-
+    <u>Empowerment</u>, Communities lead aerial imagery creation. <br><br> '
   Image: https://cdn.hotosm.org/website/Code+for+Africa+2019+Microgrant.jpg
   Tools:
   - Name: DroneTM Research GitHub
@@ -95,7 +95,7 @@ layout: product-pages
             <p class="dtm-box-paragraph">Simplifies the onboarding process, enhances security with role-based access, and facilitates efficient management of participant activities.</p>
         </div>
         <div class="intro-text">
-            <h1 class="dtm-box-title"><i class="fa-solid fa-pen-to-square" style="color: #D73F3F;font-size: x-large;"></i> Survey Projects Creation</h1>
+            <h1 class="dtm-box-title"><i class="fa-solid fa-pen-to-square" style="color: #D73F3F;font-size: x-large;"></i> Survey Project Creation</h1>
             <br>
             <p class="dtm-box-paragraph">Streamlines project setup, allows for custom project specifications, and ensures all participants have clear guidelines and objectives.</p>
         </div>
@@ -103,8 +103,6 @@ layout: product-pages
             <h1 class="dtm-box-title"><i class="fa-solid fa-table-cells-large" style="color: #D73F3F;font-size: x-large;"></i> Data/Flight Plan Upload</h1>
             <br>
             <p class="dtm-box-paragraph">Ensures consistency and accuracy in flight plans, maximizes area coverage, and minimizes data gaps.</p>
-        </div>
-         <div class="intro-text" style="background-color: white; background-image: url(/images/dot-pattern-blue.svg); margin-top: 10%; margin-bottom: 17%;">
         </div>
         <div class="intro-text">
             <h1 class="dtm-box-title"><i class="fa-solid fa-triangle-exclamation" style="color: #D73F3F;font-size: x-large;"></i> Notifications/ Status Mgmt.</h1>
