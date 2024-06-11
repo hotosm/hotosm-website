@@ -32,9 +32,8 @@ Block 2:
     Icon: fa-solid fa-paper-plane
     Header: Use Low-Cost Drones
     Highlight: DroneTM empowers local communities to produce their own aerial imagery
-      by enabling local <strong>use of safe, high resolution, affordable, lightly-regulated
-      drones</strong> to create high-quality, high­resolution 2D and 3D images and
-      base layers.
+      by enabling local <strong>use of safe, affordable, lightly-regulated drones</strong>
+      to create high-quality, high­ resolution 2D and 3D images and base layers.
   Rectangle-2:
     Icon: fa-solid fa-group-arrows-rotate
     Header: Coordinate Efforts
