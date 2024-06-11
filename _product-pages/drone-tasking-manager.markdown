@@ -3,13 +3,13 @@ title: DRONE TASKING MANAGER
 date: 2018-02-06 15:16:00 Z
 position: 4
 Show-projects: 'no'
-Show-news: 'no'
+Show-news: 'yes'
 Show-content: 'yes'
-Tool-name: Drone Tasking Manager
+Tool-name: Open Drone Aerial Tasking Manager
 Block 0:
   Header: 
   Text: Open-Source Tool Designed to Contribute to an Open Aerial Imagery Repository
-  Image: "/uploads/Lima-Drone-Flight%20Demo-Cut-2.JPG"
+  Image: "/uploads/droneTM-front.jpg"
 Block 1:
   Section: What is it?
   Header: A user-friendly, inclusive application suite enabling anyone with access
@@ -83,7 +83,7 @@ Block 5:
 layout: product-pages
 ---
 
-<div class="dtm-grid">
+<div class="dtm-grid" style="padding-top: 0px;">
         <div class="intro-text dtm-photo" style="">
             <h1 style="font-weight: bolder; margin-top:3%; margin-left:0%; justify-content: center; font-family: Barlow Condensed, sans-serif; margin-bottom:2%">TECHNICAL FEATURES OF DroneTM</h1>
             <img style="height: 87%; width: 100%; object-fit: cover; padding-right: 1%; padding-left: 1%; padding-bottom: 1%; padding-top: 12%;background-image: url(/images/dot-pattern.svg);" src="https://cdn.hotosm.org/website/IMG_1654+(1).jpg">
@@ -125,7 +125,7 @@ layout: product-pages
         </div>
 </div>
 
-<div class="hr-h"></div>
+<!-- <div class="hr-h"></div> -->
 
 <!-- <div style="padding: 0% 5% 5% 5%; background-color: white; width: 100%;">
           <img style="display: block; height: 110%; width: 100%; object-fit: cover; filter: brightness(70%); border: 2px solid grey; padding: 10px;" src="https://cdn.hotosm.org/website/image1-compressor.jpg">
