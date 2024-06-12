@@ -1,6 +1,6 @@
 ---
-title: 'Juntos mapeamos por el bien: construyendo el Gestor de Tareas Aéreas con Drones
-  Abiertos'
+title: 'Juntos mapeamos por el bien: construyendo el Gestor de Tareas Open Drone Aerial
+  Tasking Manager'
 date: 2024-06-11 03:44:00 Z
 Summary Text: Aprovechando drones y crowdsourcing, DroneTM equipa a pilotos locales
   y comunidades propensas a desastres con herramientas para crear mapas aéreos de
