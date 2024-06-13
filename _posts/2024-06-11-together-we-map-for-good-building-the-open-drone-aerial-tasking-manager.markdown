@@ -7,7 +7,14 @@ Summary Text: Leveraging drones and crowdsourcing, DroneTM equips local pilots a
   disaster-prone communities with tools to create high-resolution aerial maps, enhancing
   disaster response and community resilience.
 Feature Image: "/uploads/DroneTM%20-%20Open%20Drone%20Aerial%20Tasking%20Manager.jpg"
-Person: Fabrizio Scrollini
+Person:
+- Fabrizio Scrollini
+- Paul Uithol
+- Philip Hippolyte
+- Ivan Buendía Gayton
+- Nuala Cowan
+- Pierre Chrzanowski
+- Uttam Pudasaini
 ---
 
 **[Versión en Español](https://www.hotosm.org/updates/juntos-mapeamos-por-el-bien-construyendo-el-gestor-de-tareas-aereas-con-drones-abiertos/) / [Versão em português](https://www.hotosm.org/updates/juntos-mapeamos-para-o-bem-construindo-o-open-drone-aerial-tasking-manager/)**
