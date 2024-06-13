@@ -2,11 +2,26 @@
 title: 'Juntos mapeamos por el bien: construyendo el Gestor de Tareas Open Drone Aerial
   Tasking Manager'
 date: 2024-06-11 03:44:00 Z
+categories:
+- drone
+- UAV
+- tech
+tags:
+- drone
+- UAV
+- Tech
 Summary Text: Aprovechando drones y crowdsourcing, DroneTM equipa a pilotos locales
   y comunidades propensas a desastres con herramientas para crear mapas aéreos de
   alta resolución, mejorando la respuesta a desastres y la resiliencia comunitaria.
 Feature Image: "/uploads/DroneTM%20-%20Open%20Drone%20Aerial%20Tasking%20Manager.jpg"
-Person: Fabrizio Scrollini
+Person:
+- Fabrizio Scrollini
+- Paul Uithol
+- Philip Hippolyte
+- Ivan Buendía Gayton
+- Nuala Cowan
+- Pierre Chrzanowski
+- Uttam Pudasaini
 ---
 
 **[English version](https://www.hotosm.org/updates/together-we-map-for-good-building-the-open-drone-aerial-tasking-manager/) / [Versão em português](https://www.hotosm.org/updates/juntos-mapeamos-para-o-bem-construindo-o-open-drone-aerial-tasking-manager/)**
