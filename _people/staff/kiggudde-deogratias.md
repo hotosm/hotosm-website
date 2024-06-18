@@ -1,6 +1,7 @@
 ---
 title: Kiggudde Deogratias
 date: 2017-05-03 20:43:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/DeogratiasKiggudee.jpg
 Member Type:
   Is Staff: true

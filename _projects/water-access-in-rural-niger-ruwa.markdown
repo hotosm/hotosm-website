@@ -11,7 +11,7 @@ Project Summary Text: The "RUWA Niger" project was initiated to map the water re
   hurdle for humanitarian and response efforts in constructing water points. With
   the data and analysis at hand, local authorities can now easily determine where,
   when, and how to build sustainable water points in the region.
-Feature Image: "/uploads/Niger2022A.jpg"
+Feature Image: "/uploads/RuralNigerWaterLead.jpg"
 Country:
 - Niger
 Impact Area:

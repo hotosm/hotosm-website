@@ -3,22 +3,22 @@ title: DRONE TASKING MANAGER
 date: 2018-02-06 15:16:00 Z
 position: 4
 Show-projects: 'no'
-Show-news: 'no'
+Show-news: 'yes'
 Show-content: 'yes'
-Tool-name: Drone Tasking Manager
+Tool-name: Open Drone Aerial Tasking Manager
 Block 0:
   Header: 
   Text: Open-Source Tool Designed to Contribute to an Open Aerial Imagery Repository
-  Image: "/uploads/drone-tm-main.png"
+  Image: "/uploads/droneTM-front.jpg"
 Block 1:
   Section: What is it?
   Header: A user-friendly, inclusive application suite enabling anyone with access
     to a drone, even an inexpensive consumer or DIY drone, to contribute easily and
     effectively to a global free and open aerial imagery repository.
-  Text: 'Local people with low-cost, consumer-type drones can choose areas to fly
-    and receive flight plans that automate precision aerial imagery collection missions,
-    seamlessly combining the efforts of multiple operators into high­quality coverage
-    of 2D and 3D imagery. '
+  Text: Local people with low-cost, consumer-type drones can choose areas to fly and
+    receive flight plans that automate precision aerial imagery collection missions,
+    seamlessly combining the efforts of multiple operators into high­-quality coverage
+    of 2D and 3D imagery.
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Learn More
@@ -32,8 +32,8 @@ Block 2:
     Icon: fa-solid fa-paper-plane
     Header: Use Low-Cost Drones
     Highlight: DroneTM empowers local communities to produce their own aerial imagery
-      by enabling local <strong>use of safe. affordable, lightly-regulated drones</strong>
-      to create high-quality, high­resolution 2D and 3D images and base layers.
+      by enabling local <strong>use of safe, affordable, lightly-regulated drones</strong>
+      to create high-quality, high­ resolution 2D and 3D images and base layers.
   Rectangle-2:
     Icon: fa-solid fa-group-arrows-rotate
     Header: Coordinate Efforts
@@ -50,14 +50,13 @@ Block 2:
 Block 3:
   Header: WHY DroneTM?
   Highlight: Aerial imagery is critical for mapping, but we have been dependent on
-    satellites or large, expensive, dangerous drones (usually operated by contractors
-    from abroad).
-  Text: 'DroneTM empowers local communities to create high­quality aerial imagery
+    satellites or expensive drones.
+  Text: 'DroneTM empowers local communities to create high-­quality aerial imagery
     by combining the efforts of multiple people with small, safe, accessible drones.
-    <br><br> <strong>Social Impact:</strong><br> &nbsp;- <u>Collaboration</u>, Communities
-    working together to create local aerial imagery at scale. <br> &nbsp;- <u>Independence</u>,
-    People can generate their own data for use with Al and field mapping tools. <br>
-    &nbsp;- <u>Empowerment</u>, Community led aerial imagery creation. <br><br> '
+    <br><br> <strong>Social Impact:</strong><br>  - <u>Collaboration</u>: Communities
+    work together to create local aerial imagery at scale. <br>  - <u>Independence</u>:
+    People generate their own data for use with Al and field mapping tools. <br>  -
+    <u>Empowerment</u>: Communities lead aerial imagery creation. <br><br>'
   Image: https://cdn.hotosm.org/website/Code+for+Africa+2019+Microgrant.jpg
   Tools:
   - Name: DroneTM Research GitHub
@@ -84,7 +83,7 @@ Block 5:
 layout: product-pages
 ---
 
-<div class="dtm-grid">
+<div class="dtm-grid" style="padding-top: 0px;">
         <div class="intro-text dtm-photo" style="">
             <h1 style="font-weight: bolder; margin-top:3%; margin-left:0%; justify-content: center; font-family: Barlow Condensed, sans-serif; margin-bottom:2%">TECHNICAL FEATURES OF DroneTM</h1>
             <img style="height: 87%; width: 100%; object-fit: cover; padding-right: 1%; padding-left: 1%; padding-bottom: 1%; padding-top: 12%;background-image: url(/images/dot-pattern.svg);" src="https://cdn.hotosm.org/website/IMG_1654+(1).jpg">
@@ -95,7 +94,7 @@ layout: product-pages
             <p class="dtm-box-paragraph">Simplifies the onboarding process, enhances security with role-based access, and facilitates efficient management of participant activities.</p>
         </div>
         <div class="intro-text">
-            <h1 class="dtm-box-title"><i class="fa-solid fa-pen-to-square" style="color: #D73F3F;font-size: x-large;"></i> Survey Projects Creation</h1>
+            <h1 class="dtm-box-title"><i class="fa-solid fa-pen-to-square" style="color: #D73F3F;font-size: x-large;"></i> Survey Project Creation</h1>
             <br>
             <p class="dtm-box-paragraph">Streamlines project setup, allows for custom project specifications, and ensures all participants have clear guidelines and objectives.</p>
         </div>
@@ -103,8 +102,6 @@ layout: product-pages
             <h1 class="dtm-box-title"><i class="fa-solid fa-table-cells-large" style="color: #D73F3F;font-size: x-large;"></i> Data/Flight Plan Upload</h1>
             <br>
             <p class="dtm-box-paragraph">Ensures consistency and accuracy in flight plans, maximizes area coverage, and minimizes data gaps.</p>
-        </div>
-         <div class="intro-text" style="background-color: white; background-image: url(/images/dot-pattern-blue.svg); margin-top: 10%; margin-bottom: 17%;">
         </div>
         <div class="intro-text">
             <h1 class="dtm-box-title"><i class="fa-solid fa-triangle-exclamation" style="color: #D73F3F;font-size: x-large;"></i> Notifications/ Status Mgmt.</h1>
@@ -128,7 +125,7 @@ layout: product-pages
         </div>
 </div>
 
-<div class="hr-h"></div>
+<!-- <div class="hr-h"></div> -->
 
 <!-- <div style="padding: 0% 5% 5% 5%; background-color: white; width: 100%;">
           <img style="display: block; height: 110%; width: 100%; object-fit: cover; filter: brightness(70%); border: 2px solid grey; padding: 10px;" src="https://cdn.hotosm.org/website/image1-compressor.jpg">
