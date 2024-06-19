@@ -1,6 +1,7 @@
 ---
 title: Adityo Dwijananto
 date: 2016-01-11 23:46:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/HOT_ID_Staff_Adis.png
 Member Type:
   Is Staff: true
