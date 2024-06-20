@@ -27,4 +27,4 @@ An OSM community advocates for using open mapping data to achieve social and env
 
 The Caribbean Mapping Community Grant Program 2024 aims to create a nurturing environment for the emergence of robust open-mapping groups, ensuring their sustainable growth and increased impact on their communities.
 
-> Check full RFP, and contact caribbean@hotosm.org for technical difficulties before the submission deadline.
+> Check the [full RFP](https://drive.google.com/file/d/1GQGpYSuga7muL1M011YmF03wUFPyotCk/view?usp=sharing), and contact caribbean@hotosm.org for technical difficulties before the submission deadline.
