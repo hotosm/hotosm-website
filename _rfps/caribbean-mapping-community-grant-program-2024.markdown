@@ -19,7 +19,7 @@ HOT is a global community and US-based NGO using maps and open data for humanita
 ## What is an OSM Community?
 An OSM community advocates for using open mapping data to achieve social and environmental goals, such as resilience building, humanitarian response, and sustainable development.
 
-Support for Grantees:
+## Support for Grantees:
 - Technical Training
 - Capacity Building
 - Resources
