@@ -19,35 +19,12 @@ HOT is a global community and US-based NGO using maps and open data for humanita
 ## What is an OSM Community?
 An OSM community advocates for using open mapping data to achieve social and environmental goals, such as resilience building, humanitarian response, and sustainable development.
 
-## Grantee Benefits
-- Technical and capacity-building training
-- Initial assessment findings and report templates
-- Mentorship for project execution and reporting
+Support for Grantees:
+- Technical Training
+- Capacity Building
+- Resources
+- Mentorship
 
-## Eligibility Criteria
-- Open mapping-focused organizations, groups, communities, and individuals in the Caribbean region
-- Organizations focused on community-building, humanitarian efforts, and social good using OSM
-- Legal registration not required but must nominate a legal entity or individual to receive funds
+The Caribbean Mapping Community Grant Program 2024 aims to create a nurturing environment for the emergence of robust open-mapping groups, ensuring their sustainable growth and increased impact on their communities.
 
-## Ineligible Applicants
-- HOT staff, voting members, and board members
-- Preference for community applications over individual applications
-- Multiple applications from the same individual or community are not allowed
-
-## Eligible Costs
-Equipment (e.g., GPS devices, phones, laptops), transportation, internet connectivity, meeting space rental, and event hosting costs
-
-## Ineligible Costs
-Equipment not directly related to mapping project needs or community sustainability (e.g., vehicles)
-
-## Proposal Requirements
-- Budget available: $2000 (USD)
-- Include background, objectives, project description, experience summary, approach, staffing plan, budget, limitations, and CVs of key personnel
-
-## Important Notes
-- Late applications will not be considered
-- Include a proposed budget with the application
-- Participate in informational webinars for quality submissions
-- Only one submission per OSM community/individual; only the latest submission before the deadline will be considered
-
-> Contact caribbean@hotosm.org for technical difficulties before the submission deadline.
+> Check full RFP, and contact caribbean@hotosm.org for technical difficulties before the submission deadline.
