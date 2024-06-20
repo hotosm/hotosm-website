@@ -8,8 +8,7 @@ Page Contact:
   Label: Submission Email
 ---
 
-Caribbean Mapping Community Grant Program 2024
-Application Guidelines
+# Application Guidelines
 
 ## Background
 The HOT Caribbean Mapping Community Grant program supports the growth of open mapping communities in the Caribbean by providing resources, funding, and mentorship to strengthen their community impact.
