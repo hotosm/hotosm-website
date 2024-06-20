@@ -7,7 +7,9 @@ Summary Text: El mapeo humanitario colaborativo mejora la gestión del riesgo en
   Ecuador. La colaboración y los datos abiertos fueron clave para decisiones informadas
   y eficaces.
 Feature Image: "/uploads/Ecuador%20Terremoto%202016%20-%20Mapeo%20Humanitario%20LAC%20Hub%20-%20HOTOSM.jpg"
-Person: Céline Jacquin
+Person:
+- Céline Jacquin
+- Mariana Marín
 Country:
 - Ecuador
 Project:
