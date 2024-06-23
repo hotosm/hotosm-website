@@ -1,7 +1,7 @@
 ---
 title: The Impact of Collaborative Humanitarian Mapping on Disaster Preparedness in
   Ecuador
-date: 2024-06-20 19:54:00 Z
+date: 2024-06-18 19:54:00 Z
 Summary Text: Collaborative humanitarian mapping enhances risk management in Latin
   America and the Caribbean, as demonstrated by the rapid response to the floods in
   Esmeraldas, Ecuador. Collaboration and open data were key to making informed and
