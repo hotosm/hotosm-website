@@ -1,7 +1,7 @@
 ---
 title: O Impacto do Mapeamento Humanitário Colaborativo na Preparação para Desastres
   no Equador
-date: 2024-06-22 19:39:00 Z
+date: 2024-06-18 19:39:00 Z
 Summary Text: O mapeamento humanitário colaborativo aprimora a gestão de riscos na
   América Latina e no Caribe, como demonstrado pela rápida resposta às enchentes em
   Esmeraldas, Equador. A colaboração e os dados abertos foram fundamentais para tomar
