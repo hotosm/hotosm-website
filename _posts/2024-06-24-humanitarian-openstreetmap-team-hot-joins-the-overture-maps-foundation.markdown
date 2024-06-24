@@ -1,7 +1,6 @@
 ---
 title: Humanitarian OpenStreetMap Team (HOT) joins the Overture Maps Foundation
 date: 2024-06-24 18:08:00 Z
-published: false
 Summary Text: After careful consideration, we realized that joining the Overture Maps
   Foundation will enable us to fulfill our role as an organization dedicated to the
   creation and use of open map data for humanitarian action and community development.
