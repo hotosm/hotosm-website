@@ -14,6 +14,8 @@ Project:
 - Open Mapping for All
 ---
 
+[English version](https://www.hotosm.org/updates/mapping-andean-culture-a-journey-through-linderaje-in-cusco/) / [Versão em português](https://www.hotosm.org/updates/mapeando-a-cultura-andina-uma-jornada-atraves-do-linderaje-em-cusco/)
+
 En Cusco, Perú, la antigua práctica del linderaje se remonta a tiempos ancestrales y tiene raíces profundas en la cultura andina. Esta tradición persiste hasta hoy, donde las comunidades se reúnen para llevar a cabo rituales simbólicos y ceremonias que no solo marcan los límites territoriales, sino que también refuerzan los lazos sociales y culturales de manera significativa.
 
 Nuestra historia se desarrolla en este contexto cultural enriquecido. La rica tradición andina converge con el entusiasmo de docentes de [GAL School](https://www.galschool.edu.pe/), quienes han aprendido a integrar herramientas de mapeo abierto en la educación a través de nuestro programa [Open Mapping for All (OM4A)](https://www.hotosm.org/projects/open-mapping-for-all/).
