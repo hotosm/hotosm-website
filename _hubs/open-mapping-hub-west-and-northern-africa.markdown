@@ -15,8 +15,6 @@ layout: page
 
 The Open Mapping Hub - West and Northern Africa (WNA Hub) engages open mapping organizations and communities in the region to facilitate the exchange of ideas and expertise across the region, and provide financial and technical support to massively scale local edits on OpenStreetMap. We stimulate and strengthen the leadership of communities to protect their livelihoods, improve their resilience, and preserve their way of life by promoting social justice in accessing open data and free software for their own purposes.
 
-* ## [Check out all WNAH Projects here](https://www.hotosm.org/projects/wna-projects/) 
-
 * ## [Check out all WNAH Movement Building Initiatives here](https://www.hotosm.org/projects/wna-movement-building/)
 
 # West and Northern Africa Hub Projects Highlights
