@@ -25,7 +25,7 @@ There are three main reasons why we are excited to join as a new member of the O
 **Bring HOT’s priority countries to the forefront:** By being part of Overture, we aim to raise awareness of the importance of using their open map data technologies to improve maps in vulnerable areas and support communities there. Moreover, we want to advocate for the inclusion of community-collected data in products and services based on Overture’s datasets.
 
 ![Best to Use_ Hubs Map v4.png](/uploads/Best%20to%20Use_%20Hubs%20Map%20v4.png)
-*Our priority countries as covered by our four Open Mapping Regional Hubs.*
+*Our priority countries as covered by [our four Open Mapping Regional Hubs](https://www.hotosm.org/hubs/).*
 
 **Focus on humanitarian data:** Currently, Overture is working on data improvements across different themes: Base (a proxy for land use and land cover), Divisions (administrative and named localities data), Buildings, Transportation, and Places. An Address theme will be added in an upcoming release. Data schemas for these themes have been defined by the respective [task forces within Overture](https://overturemaps.org/working-groups/). By joining as a member, we want to bring specific attention to how the data in these themes could be used for humanitarian approaches and aim to improve the use of humanitarian data in Overture Maps. We expect this will increase the usability of humanitarian data by potential Overture Maps users.
 
