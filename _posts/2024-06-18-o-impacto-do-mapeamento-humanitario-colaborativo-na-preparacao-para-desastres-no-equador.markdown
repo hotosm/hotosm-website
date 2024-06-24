@@ -14,6 +14,8 @@ Country:
 - Ecuador
 ---
 
+[English version](https://www.hotosm.org/updates/the-impact-of-collaborative-humanitarian-mapping-on-disaster-preparedness-in-ecuador/) / [Versión en Español](https://www.hotosm.org/updates/el-impacto-del-mapeo-humanitario-colaborativo-en-la-preparacion-para-desastres-en-ecuador/)
+
 Desastres naturais sempre fizeram parte da história humana, e hoje a América Latina e o Caribe estão enfrentando um aumento de furacões e terremotos devido à crise climática e eventos meteorológicos extremos como El Niño e La Niña. Essas crises colocam vidas e recursos em risco, tornando crucial a gestão eficaz de riscos na região. No entanto, essa gestão muitas vezes é dificultada pela falta de recursos geoespaciais atualizados e precisos. Apesar desses desafios, a colaboração e o uso de dados de qualidade de ferramentas de mapeamento aberto e bancos de dados colaborativos, como o OpenStreetMap (OSM), podem melhorar significativamente a prevenção de riscos e a tomada de decisões informadas.
 
 Em junho de 2023, respondendo aos alertas da comunidade OSM no Equador sobre graves inundações na [área de Esmeraldas](https://www.openstreetmap.org/search?query=esmeraldas%20ecuador#map=9/0.8391/-79.3680), iniciou-se um diálogo com a Subsecretaria de Gestão da Informação e Análise de Riscos da [Secretaria de Gestão de Riscos](https://www.gestionderiesgos.gob.ec/). Ao longo de dois anos, houve crescente curiosidade das autoridades sobre a usabilidade dos dados colaborativos. Portanto, a missão inicial foi estabelecer diálogos e realizar projetos piloto para demonstrar a utilidade dessas informações na gestão de desastres.

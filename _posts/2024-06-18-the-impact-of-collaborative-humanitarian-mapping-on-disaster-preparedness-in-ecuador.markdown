@@ -16,6 +16,8 @@ Project:
 - 'Disaster Activation: Ecuador Earthquake 2016'
 ---
 
+[English version](https://www.hotosm.org/updates/the-impact-of-collaborative-humanitarian-mapping-on-disaster-preparedness-in-ecuador/) / [Versão em português](https://www.hotosm.org/updates/o-impacto-do-mapeamento-humanitario-colaborativo-na-preparacao-para-desastres-no-equador/)
+
 Natural disasters have always been a part of human history, and today, Latin America and the Caribbean are facing an increase in hurricanes and earthquakes due to the climate crisis and extreme weather events like El Niño and La Niña. These crises put lives and resources at risk, making effective risk management in the region crucial. However, this management is often hindered by a lack of updated and accurate geospatial resources. Despite these challenges, collaboration and the use of quality data from open mapping tools and collaborative databases like OpenStreetMap (OSM) can significantly enhance risk prevention and informed decision-making.
 
 In June 2023, responding to alerts from the OSM community in Ecuador about severe floods in the [Esmeraldas area](https://www.openstreetmap.org/search?query=esmeraldas%20ecuador#map=9/0.8391/-79.3680), a dialogue was initiated with the Subsecretariat of Information Management and Risk Analysis of the [Risk Management Secretariat](https://www.gestionderiesgos.gob.ec/). Over two years, there has been growing curiosity from authorities about the usability of collaborative data. Therefore, the initial mission was to establish dialogues and carry out pilot projects to demonstrate the usefulness of this information in disaster management.
