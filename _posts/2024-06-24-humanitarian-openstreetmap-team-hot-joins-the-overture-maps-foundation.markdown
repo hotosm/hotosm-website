@@ -29,6 +29,6 @@ There are three main reasons why we are excited to join as a new member of the O
 
 **Focus on humanitarian data:** Currently, Overture is working on data improvements across different themes: Base (a proxy for land use and land cover), Divisions (administrative and named localities data), Buildings, Transportation, and Places. An Address theme will be added in an upcoming release. Data schemas for these themes have been defined by the respective [task forces within Overture](https://overturemaps.org/working-groups/). By joining as a member, we want to bring specific attention to how the data in these themes could be used for humanitarian approaches and aim to improve the use of humanitarian data in Overture Maps. We expect this will increase the usability of humanitarian data by potential Overture Maps users.
 
-We are interested in seeing what other opportunities open up as we become part of this Foundation and look forward to bringing our unique humanitarian perspective to Overture's work.
+### We are interested in seeing what other opportunities open up as we become part of this Foundation and look forward to bringing our unique humanitarian perspective to Overture's work.
 
 Want to learn more about the Overture Maps Foundation? Check out their answers to [Frequently Asked Questions](https://overturemaps.org/about/faq/). And if you are interested in continuing the conversation about our role at Overture, reach out to us at: [media@hotosm.org](media@hotosm.org)
