@@ -49,12 +49,12 @@ We will support data systematization and a participatory campaign for cartograph
 
 So far, our projects have mapped:
 
-* 37,403 buildings 
+* 55,082 buildings
 
-* 1,629 km of roads
+* 1660 km of roads
 
 * 1,228 km²
 
-* 5,396 tasks mapped / 1,989 tasks left to map as of June 10th
+* 8,319 tasks mapped / 0 tasks left to map as of June 26th
 
-* 27 mappers / 6 validators per project on average.
+* 33 mappers / 6 validators per project on average.
