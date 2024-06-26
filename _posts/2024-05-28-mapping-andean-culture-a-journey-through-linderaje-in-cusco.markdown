@@ -21,7 +21,7 @@ Our story unfolds within this enriched cultural context. The rich Andean traditi
 
 Through their curriculum, teachers like Gilmar Vergara, a science and technology teacher, Rosemarie Serrano, a teacher of subjects such as Quechua and Interculturality, and Paola Araujo, an educational psychologist, advocate for social impact mapping to document collaboration and respect for territorial boundaries through personalized training and tools—values that have been fundamental in Peruvian culture for centuries.
 
-# **Integrating Open Mapping into Andean Culture**
+# Integrating Open Mapping into Andean Culture
 
 ![Linderaje 5.jpg](/uploads/Linderaje%205.jpg)
 
@@ -31,7 +31,7 @@ Paola Araujo, a psychologist and teacher, accompanies students at the initial, p
 
 Teachers share that the school employs an active teaching methodology that promotes critical thinking, contextual learning, and experiential experiences for students. Therefore, the rich cultural tradition of Cusco has been used to enrich educational experiences directly in the field.
 
-# **Experiencing Linderaje in Chinchero, Cusco**
+# Experiencing Linderaje in Chinchero, Cusco
 
 ![Linderaje 1.jpg](/uploads/Linderaje%201.jpg)
 
