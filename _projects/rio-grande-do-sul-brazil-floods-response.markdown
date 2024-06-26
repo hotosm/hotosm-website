@@ -57,6 +57,4 @@ So far, our projects have mapped:
 
 * 5,396 tasks mapped / 1,989 tasks left to map as of June 10th
 
-* 27 mappers / 6 validators per project on average
-
-\
+* 27 mappers / 6 validators per project on average.
