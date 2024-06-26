@@ -45,7 +45,7 @@ We will support data systematization and a participatory campaign for cartograph
 
 **OUTCOME AND IMPACT**
 
-19 map tasks on Tasking Manager (see Wiki for more input).
+19 map tasks on Tasking Manager (see [Wiki](https://wiki.openstreetmap.org/wiki/2024_Rio_Grande_do_Sul_Floods) for more input).
 
 So far, our projects have mapped:
 
