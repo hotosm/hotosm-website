@@ -53,7 +53,7 @@ So far, our projects have mapped:
 
 * 1660 km of roads
 
-* 1,228 km²
+* 1,228 km² covered area
 
 * 8,319 tasks mapped / 0 tasks left to map as of June 26th
 
