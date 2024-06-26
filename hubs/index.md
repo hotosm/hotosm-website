@@ -41,17 +41,14 @@ block-1:
   Link: "/hubs/open-mapping-hub-asia-pacific"
 block-4:
   Title: Latin America and the Caribbean
-  Text: "<strong>The Open Mapping Hub - Latin America and the Caribbean</strong> was
-    established in 2023 with the intention to locate actions advancing social impact
-    mapping practices among diverse groups. Our firm belief is that social impact
-    mapping can be a catalyst for social and economic change in the LAC region. Mapping
-    isn't solely about gathering data and plotting it on a map; it's a collaborative
-    journey involving local communities in every step. It's about co-designing - deciding
-    what and how to map, for what purpose, where and when, and with whom. We focus
-    on actively involving communities in collaborative mapping efforts, granting everyone
-    the opportunity to access and contribute to the map. Our emphasis lies in embedding
-    a culture that cultivates a participatory approach that permeates our collaborative
-    work ethic."
+  Text: "<strong>The Open Mapping Hub - Latin America and the Caribbean (LAC) </strong>
+    was established in 2023 with the intention to locate actions advancing social
+    impact mapping practices among diverse groups. We believe that social impact mapping
+    can be a catalyst for social and economic change in the LAC region. Mapping isn’t
+    solely about gathering data and plotting it on a map; it’s a collaborative journey
+    involving local communities in every step, granting everyone the opportunity to
+    access and contribute to the map. It’s about co-designing - deciding what and
+    how to map, for what purpose, where and when, and with whom."
   Action-text: Learn More
   Image: https://cdn.hotosm.org/website/LAC_for_Website_B.png
   Link: "/hubs/open-mapping-hub-latin-america-and-the-caribbean"
