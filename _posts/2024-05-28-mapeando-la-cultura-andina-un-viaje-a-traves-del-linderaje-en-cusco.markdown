@@ -22,7 +22,7 @@ Nuestra historia se desarrolla en este contexto cultural enriquecido. La rica tr
 
 Mediante su currícula, docentes como Gilmar Vergara, profesor de ciencia y tecnología, Rosemarie Serrano, profesora de materias como Quechua e Interculturalidad, y Paola Araujo, psicóloga educativa, apuestan por el mapeo con impacto social para documentar, a través de capacitaciones personalizadas y herramientas, la colaboración y el respeto por los límites territoriales — valores que han sido fundamentales en la cultura peruana a lo largo de los siglos.
 
-# **Integrando el Mapeo Abierto en la Cultura Andina**
+# Integrando el Mapeo Abierto en la Cultura Andina
 
 ![Linderaje 5.jpg](/uploads/Linderaje%205.jpg)
 
@@ -32,7 +32,7 @@ Paola Araujo, psicóloga y docente, acompaña a estudiantes de los niveles inici
 
 Las personas docentes comparten que en el colegio se emplea una metodología de enseñanza activa que promueve el pensamiento crítico, los aprendizajes contextuales, y las vivencias experimentales de estudiantes. Por ello, se ha aprovechado la rica tradición cultural de Cusco para enriquecer las experiencias educativas directamente en el campo.
 
-# **Viviendo el Linderaje en Chinchero, Cusco**
+# Viviendo el Linderaje en Chinchero, Cusco
 
 ![Linderaje 1.jpg](/uploads/Linderaje%201.jpg)
 

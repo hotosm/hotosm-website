@@ -22,7 +22,7 @@ Nossa história se desenrola nesse contexto cultural enriquecido. A rica tradiç
 
 Por meio de seu currículo, professores como Gilmar Vergara, professor de ciência e tecnologia, Rosemarie Serrano, professora de disciplinas como Quechua e Interculturalidade, e Paola Araujo, psicóloga educacional, apostam no mapeamento com impacto social para documentar, através de treinamentos personalizados e ferramentas, a colaboração e o respeito pelos limites territoriais — valores que têm sido fundamentais na cultura peruana ao longo dos séculos.
 
-# **Integrando o Mapeamento Aberto na Cultura Andina**
+# Integrando o Mapeamento Aberto na Cultura Andina
 
 ![Linderaje 5.jpg](/uploads/Linderaje%205.jpg)
 
@@ -32,7 +32,7 @@ Paola Araujo, psicóloga e professora, acompanha alunos dos níveis inicial, pri
 
 Os professores compartilham que na escola se emprega uma metodologia de ensino ativa que promove o pensamento crítico, aprendizagens contextuais e experiências experimentais dos alunos. Portanto, a rica tradição cultural de Cusco tem sido aproveitada para enriquecer as experiências educacionais diretamente no campo.
 
-# **Vivenciando o Linderaje em Chinchero, Cusco**
+# Vivenciando o Linderaje em Chinchero, Cusco
 
 ![Linderaje 1.jpg](/uploads/Linderaje%201.jpg)
 
@@ -52,7 +52,7 @@ Durante a festividade, as comunidades celebram a vida e reforçam os limites ter
 
 <iframe width="700" height="500" src="https://www.youtube.com/embed/6wz9QCQHYqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# **Implementando ferramentas de mapeamento aberto no linderaje**
+# Implementando ferramentas de mapeamento aberto no linderaje
 
 Os alunos usaram várias ferramentas digitais para documentar a experiência, garantindo que cada aspecto do linderaje fosse capturado e que pudessem coletar todos os dados assim que retornassem a Cusco. Durante o exercício, utilizaram ferramentas para traçar o percurso, tirar fotos e marcar pontos geográficos.
 
