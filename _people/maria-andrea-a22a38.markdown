@@ -5,7 +5,7 @@ Photo: "/uploads/Rino,%20Maria%20Andrea%20Joshua%20(2).jpg"
 Member Type:
   Is Staff: true
 Job Title: People Operations Associate -  Asia-Pacific Hub
-Team: " Asia-Pacific Hub"
+Team: Asia Pacific Hub
 ---
 
 Maria Andrea Joshua Rino (Drea) is a development professional and an active youth leader advocating for transparency, accountability, and citizen participation in the Philippines and in Southeast Asia. She has seven (7) years of experience in non-profit management and operations, as well as implementing good governance and social accountability programs and capacity building activities empowering civil society organizations in the Philippines. 
