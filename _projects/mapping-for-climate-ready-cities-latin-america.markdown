@@ -10,7 +10,7 @@ Impact Area:
 - Sustainable Cities & Communities
 Partner:
 - Open Government Partnership
-- GEOID
+- CoMapper
 Tools:
 - tool: Tasking Manager
   link: https://tasks.hotosm.org
