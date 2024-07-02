@@ -10,7 +10,7 @@ Block 0:
   Header: 
   Text: An open AI-assisted mapping service that aims to improve the efficiency and
     accuracy of mapping efforts
-  Image: https://cdn.hotosm.org/website/OAM+pics.png
+  Image: https://cdn.hotosm.org/fair/fair-background.gif
 Block 1:
   Section: What is it?
   Header: 'The service uses AI models, specifically computer vision techniques, to
@@ -22,7 +22,7 @@ Block 1:
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Learn More
-    URL: https://fair-dev.hotosm.org/start-mapping
+    URL: https://fair.hotosm.org/start-mapping
 Block 2:
   Header: 
   Text: 
