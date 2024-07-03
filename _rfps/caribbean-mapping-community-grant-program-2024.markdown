@@ -40,4 +40,4 @@ We will held a Proposal Development Webinars Pre-Submission on **July 10th, 2024
 
 # Request for Proposals
 
-Check the **[full RFP](https://drive.google.com/file/d/17BpKpRO87Y8RUx321NWnjnJ-O_YWPA7V/view?usp=drive_link)**, and contact caribbean@hotosm.org for technical difficulties before the submission deadline.
+Check the **[full RFP](https://drive.google.com/file/d/17BpKpRO87Y8RUx321NWnjnJ-O_YWPA7V/view?usp=drive_link)**, and contact caribbean@hotosm.org for technical difficulties before the **submission deadline on July 16th, 2024**.
