@@ -36,7 +36,7 @@ The Caribbean Mapping Community Micro-Grant Program 2024 aims to create a nurtur
 
 # Grant Proposals Webinar
 
-We will held a Proposal Development Webinars Pre-Submission on July 10th, 2024.
+We will held a Proposal Development Webinars Pre-Submission on **July 10th, 2024**. Register [here](http://bit.ly/3W11zAY).
 
 # Request for Proposals
 
