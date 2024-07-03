@@ -2,7 +2,7 @@
 title: Caribbean Mapping Community Micro-Grant Program 2024
 date: 2024-06-20 17:14:00 Z
 Deadline Date: 2024-07-16 00:00:00 Z
-Apply Form Link: https://drive.google.com/file/d/1VcuG7nHGSl4JkATn-CwSA8INzUipOUO1/view?usp=drive_link
+Apply Form Link: https://drive.google.com/file/d/17BpKpRO87Y8RUx321NWnjnJ-O_YWPA7V/view?usp=drive_link
 Page Contact:
   Contact Email: caribbean@hotosm.org
   Label: Submission Email
@@ -34,4 +34,10 @@ An OSM community advocates for using open mapping data to achieve social and env
 
 The Caribbean Mapping Community Micro-Grant Program 2024 aims to create a nurturing environment for the emergence of robust open-mapping groups, ensuring their sustainable growth and increased impact on their communities.
 
-Check the [full RFP](https://drive.google.com/file/d/1VcuG7nHGSl4JkATn-CwSA8INzUipOUO1/view?usp=drive_link), and contact caribbean@hotosm.org for technical difficulties before the submission deadline.
+# Grant Proposals Webinar
+
+We will held a Proposal Development Webinars Pre-Submission on July 10th, 2024.
+
+# Request for Proposals
+
+Check the **[full RFP](https://drive.google.com/file/d/17BpKpRO87Y8RUx321NWnjnJ-O_YWPA7V/view?usp=drive_link)**, and contact caribbean@hotosm.org for technical difficulties before the submission deadline.
