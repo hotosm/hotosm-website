@@ -1,13 +1,8 @@
 ---
-title: Quintana Roo Hurricanes Response
+title: South Mexico Hurricane Beryl Response
 date: 2024-07-02 04:02:00 Z
 Project Summary Text: Tropical Storm Alberto and Hurricaine Beryl have caused significant
-  disruptions in Quintana Roo, prompting authorities to activate emergency shelters.
-  As part of the Mapping for Climate Ready Cities Program, the Open Mapping Hub in
-  Latin America and the Caribbean, in collaboration with CoMapper and the Quintana
-  Roo Government, is organizing an emergency mapping activation on OpenStreetMap (OSM).
-  This effort seeks intermediate mappers to help map temporary shelters in the affected
-  areas.
+  disruptions in South Mexico, prompting authorities to activate emergency shelters.
 Feature Image: "/uploads/Huracanes%20Alberto%20y%20Beryl%20-%20Mapeo%20de%20Refugios%20en%20Quintana%20Roo.jpg"
 Country:
 - Mexico
@@ -28,8 +23,10 @@ Tools:
 
 ## CONTEXT
 
-As of July 2024, both Tropical Storm Alberto and Hurricane Beryl are significantly impacting the Yucatán Peninsula, particularly in Quintana Roo. These natural hazards have prompted urgent alerts throughout the region, leading authorities to activate emergency shelters.
+As of July 2024, both Tropical Storm Alberto and Hurricane Beryl are significantly impacting South Mexico. These natural hazards have prompted urgent alerts throughout the region, leading authorities to activate emergency shelters.
 
-The combined effects of these hurricanes have caused substantial disruptions. Heavy rains and strong winds have resulted in flooding, causing widespread chaos and significant challenges.
+The combined effects of these natural hazards have caused substantial disruptions. Heavy rains and strong winds have resulted in flooding, causing widespread chaos and significant challenges.
 
-In response, as part of the [Mapping for Climate Ready Cities Program](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-latin-america/), the [Open Mapping Hub in Latin America and the Caribbean Hub](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/) and [CoMapper](https://site.comapper.org/), in collaboration with the Quintana Roo Government, are calling on mappers with intermediate experience to participate in the emergency mapping activation on OpenStreetMap (OSM) in Quintana Roo. The primary objective will be to map temporary shelters following the passage of Tropical Storm Alberto and Hurricane Beryl.
+On July 2nd, as part of the [Mapping for Climate Ready Cities Program](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-latin-america/), the [Open Mapping Hub in Latin America and the Caribbean Hub](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/) and [CoMapper](https://site.comapper.org/), in collaboration with the Quintana Roo Government, are calling on mappers with intermediate experience to participate in the emergency mapping activation on OpenStreetMap (OSM) in Quintana Roo. The primary objective will be to map temporary shelters following the passage of Tropical Storm Alberto and Hurricane Beryl.
+
+On July 4th, the scope of the activation has expanded to include mapping Campeche, Yucatan, Veracruz, and Tamaulipas.
