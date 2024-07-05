@@ -1,5 +1,5 @@
 ---
-title: South Mexico Hurricane Beryl Response
+title: 2024 Hurricane Beryl Response
 date: 2024-07-02 04:02:00 Z
 Project Summary Text: Tropical Storm Alberto and Hurricaine Beryl have caused significant
   disruptions in South Mexico, prompting authorities to activate emergency shelters.
