@@ -1,7 +1,6 @@
 ---
 title: 'Staff Spotlight Series: Carter Draper'
 date: 2024-07-08 21:58:00 Z
-published: false
 Summary Text: Each quarter, we feature one of our all-star staff members in a Staff
   Spotlight Series. Staff featured in this Series have been peer-nominated for their
   superb performance and values-driven work. This quarter, we spotlight Carter Draper,
