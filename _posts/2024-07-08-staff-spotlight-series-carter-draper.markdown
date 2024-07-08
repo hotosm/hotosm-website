@@ -40,4 +40,5 @@ I'm currently reading "Rich Dad, Poor Dad" by Robert T. Kiyosaki. Although the b
 I feel incredibly fortunate to have a truly wonderful family! My beloved wife Zoe and our incredible children Ian, Titus, and Zara bring immense happiness and fulfillment to my life. I deeply cherish every single moment we share, particularly during my leisure time. Whether we engage in entertaining games, share heartfelt laughter, or simply enjoy each other's company, these moments hold an incredibly special place in my heart.
 
 *Learn more about Carter [here](https://www.hotosm.org/people/carter-draper/).*
+
 *Photos courtesy of Carter Draper*
