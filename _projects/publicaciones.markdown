@@ -10,7 +10,6 @@ Feature Image: https://cdn.hotosm.org/website/LAC_PublicationsHeader.png
 Impact Area:
 - Public Health
 - Gender Equality
-- Displacement & Safe Migration
 - Disasters & Climate Resilience
 - Sustainable Cities & Communities
 ---
