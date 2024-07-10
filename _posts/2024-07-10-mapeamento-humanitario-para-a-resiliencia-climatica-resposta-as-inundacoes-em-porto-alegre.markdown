@@ -19,6 +19,8 @@ Project:
 - Rio Grande do Sul, Brazil Floods Response
 ---
 
+**[English version](https://www.hotosm.org/updates/humanitarian-mapping-for-climate-resilience-responding-to-floods-in-porto-alegre/) / [Versión en español](https://www.hotosm.org/updates/mapeo-humanitario-para-la-resiliencia-climatica-la-respuesta-a-las-inundaciones-en-porto-alegre/)**
+
 Em 27 de abril de 2024, após duas semanas de intensas chuvas no Rio Grande do Sul, Brasil, o colapso da represa hidrelétrica de 14 de julho agravou a situação crítica das enchentes históricas em Porto Alegre. Esse evento causou mais de 100 mortos e 100 desaparecidos, afetando mais de um milhão de pessoas. Cerca de 70.000 foram evacuadas e mais de um milhão de residências ficaram sem água potável. Além disso, 421.000 residências ficaram sem eletricidade, 115 municípios sem serviços de telefone e internet, 61 estradas foram bloqueadas e o aeroporto de Porto Alegre foi fechado. O rio Guaíba alcançou níveis recordes, inundando o centro histórico da cidade.
 
 Este evento marcou o segundo desastre significativo em menos de um ano para o estado, após um ciclone em setembro de 2023 que deixou pelo menos 31 mortos. A mudança climática e o fenômeno El Niño têm intensificado as condições climáticas extremas na região.
