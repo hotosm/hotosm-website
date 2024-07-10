@@ -83,7 +83,7 @@ Trabajamos con el BID en el diagnóstico del evento climático en Porto Alegre, 
 
 Juan y Everton señalaron que el objetivo de la misión es desarrollar metodologías con tecnologías libres que interoperan con el gobierno local, creando información alternativa a través de plataformas comunitarias para una recuperación más efectiva. "Estamos mapeando los equipamientos en OpenStreetMap y recopilando resultados cartográficos, utilizando herramientas como Mapillary para ofrecer fotos georreferenciadas del estado actual de la infraestructura”, explicaron. En este [enlace](https://www.mapillary.com/app/org/hotosm_lac?lat=-30.02390654431528&lng=-51.2122723780588&z=15.217550359101017&pKey=1257979585608018&menu=false) podrán revisar el visor de 12,216 imágenes tomadas en campo por el equipo de HOT.
 
-<iframe width="640" height="320" src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1257979585608018&x=0.5&y=0.5&style=split" frameborder="0"></iframe>
+<iframe width="800" height="450" src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1257979585608018&x=0.5&y=0.5&style=split" frameborder="0"></iframe>
 
 Durante la misión, “exploramos puentes entre tecnologías como Mapillary y UMAP, manejadas por la población para generar información secundaria, que se unifica con la oficial para tomar decisiones más precisas y rápidas”, comenta Juan. Everton destacó los avances en la construcción de la infraestructura de datos espaciales de la prefectura y la colaboración para presentar estos datos en visualizaciones accesibles para la población.
 
