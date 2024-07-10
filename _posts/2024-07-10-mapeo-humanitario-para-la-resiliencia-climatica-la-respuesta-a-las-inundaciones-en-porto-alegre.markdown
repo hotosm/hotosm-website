@@ -45,7 +45,7 @@ Céline destacó la importancia de organizar la información para priorizar las 
 
 Durante las visitas a clínicas, escuelas, instalaciones deportivas y centros de triage, el equipo pudo observar el impacto de las inundaciones, que duraron entre 30 y 40 días, creando condiciones insalubres y daños estructurales significativos. La prefectura está publicando datos georreferenciados en su infraestructura de datos espaciales, centralizando la información de cada secretaría para que esté disponible tanto para la población como para la alcaldía. Esto permitirá una mejor coordinación y respuesta en futuros eventos de emergencia.
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/0bnineZYsFA?si=4LlhECxGb_z1JTMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/59ASV_UlAeI?si=oP4CG0i3hzGSXTHG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Este video 360º presenta un recorrido por la Unidad de Salud Vila Elizabeth, mostrando el estado actual de las instalaciones después de una emergencia. Al ingresar, se pueden observar los escombros acumulados, resultado directo del incidente, proporcionando una clara visualización del impacto y las necesidades actuales de la unidad.*
 
