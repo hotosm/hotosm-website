@@ -77,6 +77,8 @@ The HOT team gathering information through the form in KoboToolBox at Triage Cen
 
 Juan and Everton pointed out that the mission's objective is to develop methodologies with free technologies that interoperate with local government, creating alternative information through community platforms for more effective recovery. "We are mapping facilities on OpenStreetMap and collecting cartographic results, using tools like Mapillary to provide georeferenced photos of the current state of infrastructure," they explained. In this link, you can review the viewer of 12,216 images taken in the field by the HOT team.
 
+<iframe width="800" height="450" src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1257979585608018&x=0.5&y=0.5&style=split" frameborder="0"></iframe>
+
 During the mission, "we explored bridges between technologies like Mapillary and UMAP, managed by the population to generate secondary information, which is unified with official data for more precise and rapid decision-making," Juan commented. Everton highlighted advances in building the prefecture's spatial data infrastructure and collaboration to present this data in accessible visualizations for the population.
 
 Juan concluded: "We are compiling surveys and publishing data in the prefecture's infrastructure, importing them into OSM to ensure their correct location and completeness. We also provided technical advice to the prefecture to improve its spatial data infrastructure using GeoNode and open-source technologies."
