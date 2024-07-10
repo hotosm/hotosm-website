@@ -85,8 +85,8 @@ Juan y Everton señalaron que el objetivo de la misión es desarrollar metodolog
 
 <iframe width="640" height="480" src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1257979585608018&x=0.5&y=0.5&style=photo" frameborder="0"></iframe>
 
-Durante la misión, “exploramos puentes entre tecnologías como Mapillary y UMAP, manejadas por la población para generar información secundaria, que se unifica con la oficial para tomar decisiones más precisas y rápidas”, comenta Juan. Everton destacó los avances en la construcción de la infraestructura de datos espaciales de la prefectura y la colaboración para presentar estos datos en visualizaciones accesibles para la población.\
-\
+Durante la misión, “exploramos puentes entre tecnologías como Mapillary y UMAP, manejadas por la población para generar información secundaria, que se unifica con la oficial para tomar decisiones más precisas y rápidas”, comenta Juan. Everton destacó los avances en la construcción de la infraestructura de datos espaciales de la prefectura y la colaboración para presentar estos datos en visualizaciones accesibles para la población.
+
 Juan concluyó: "Estamos compilando encuestas y publicando datos en la infraestructura de la prefectura, importándolos a OSM para asegurar su correcta ubicación y completitud. También asesoramos técnicamente a la prefectura para mejorar su infraestructura de datos espaciales utilizando GeoNode y tecnologías open source."
 
 # Conclusión
