@@ -10,7 +10,9 @@ Summary Text: El 27 de abril de 2024, la represa hidroeléctrica del 14 de julio
   con el BID, se centró en crear datos geográficos de alta calidad y desarrollar herramientas
   útiles para la recuperación.
 Feature Image: "/uploads/Porto%20Alegre%20Floods%20-%20Enchentes%20BID%20-%20HOT%20Response.jpg"
-Person: Mariana Marín
+Person:
+- Mariana Marín
+- Céline Jacquin
 Country:
 - Brasil
 Project:
