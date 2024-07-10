@@ -74,7 +74,7 @@ Trabalhamos com o BID no diagnóstico do evento climático em Porto Alegre, na s
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/jvctCo0iTpM?si=LCGVC4kRIDgaIPoJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-***A equipe da HOT coletando informações por meio do formulário no KoboToolBox nos centros de triagem.***
+*A equipe da HOT coletando informações por meio do formulário no KoboToolBox nos centros de triagem.*
 
 Juan e Everton destacaram que o objetivo da missão é desenvolver metodologias com tecnologias livres que possam operar em parceria com o governo local, criando informações alternativas por meio de plataformas comunitárias para uma recuperação mais eficaz. "Estamos mapeando instalações no OpenStreetMap e coletando resultados cartográficos, usando ferramentas como Mapillary para fornecer fotos georreferenciadas do estado atual da infraestrutura", explicaram. Neste link, você pode revisar o visualizador de 12.216 imagens tiradas no campo pela equipe da HOT.
 
