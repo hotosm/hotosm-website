@@ -25,7 +25,7 @@ This marked the state's second significant disaster in less than a year, followi
 
 On May 9, 2024, in response to this disaster, the Open Mapping Hub in Latin America and the Caribbean (LAC Hub) launched an activation to support response efforts, driven by discussions with the OSM Brazil community.
 
-!\[Edificações.jpg\](/uploads/Edificac%CC%A7o%CC%83es.jpg)
+![Edificações.jpg](/uploads/Edificac%CC%A7o%CC%83es.jpg)
 
 *uMap created by the HOT team to visualize mapped buildings and destroyed structures.*
 
@@ -43,7 +43,9 @@ Céline emphasized the importance of organizing information to prioritize necess
 \
 During visits to clinics, schools, sports facilities, and triage centers, the team observed the impact of the floods, which lasted between 30 and 40 days, creating unsanitary conditions and significant structural damage. The prefecture is publishing georeferenced data on its spatial data infrastructure, centralizing information from each department for availability to both the population and the city hall. This will enable better coordination and response in future emergency events.
 
-This video provides a tour of the Vila Elizabeth Health Unit, showing the current state of the facilities after an emergency. Upon entry, accumulated debris can be seen, a direct result of the incident, providing a clear visualization of the impact and current needs of the unit.
+<iframe width="800" height="450" src="https://www.youtube.com/embed/59ASV_UlAeI?si=oP4CG0i3hzGSXTHG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*This video provides a tour of the Vila Elizabeth Health Unit, showing the current state of the facilities after an emergency. Upon entry, accumulated debris can be seen, a direct result of the incident, providing a clear visualization of the impact and current needs of the unit.*
 
 # **BID Mission Activities Recap in Porto Alegre**
 
@@ -51,7 +53,9 @@ The mission began with an opening meeting with Secretary Schirmer. Subsequently,
 
 The second day included field visits to more areas of Sarandí and the Historic Center, with sectoral teams.
 
-This video offers an inside look at the Ilha da Pintada Municipal School of Early Childhood Education, focusing on the current state of classrooms after an emergency. Accompanied by military personnel who have traveled from Rio de Janeiro to provide support, we explore how the school community is adapting and responding to current circumstances.
+<iframe width="800" height="450" src="https://www.youtube.com/embed/UupoR6dcV9E?si=-eNH1Ocknrm3ZgZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*This video offers an inside look at the Ilha da Pintada Municipal School of Early Childhood Education, focusing on the current state of classrooms after an emergency. Accompanied by military personnel who have traveled from Rio de Janeiro to provide support, we explore how the school community is adapting and responding to current circumstances.*
 
 Céline emphasized that, "electrical facilities have suffered irrecoverable oxidation, and industrial machinery, work equipment, and administrative documentation have been destroyed. Wooden and metal furniture has also been affected, while plastic objects and installations have fared better. Water movement has shattered windows, lightweight structures, and doors."
 
