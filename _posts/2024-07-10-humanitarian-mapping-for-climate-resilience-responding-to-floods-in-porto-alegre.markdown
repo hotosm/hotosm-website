@@ -19,7 +19,7 @@ Project:
 - Rio Grande do Sul, Brazil Floods Response
 ---
 
-**Versión en español / [Versão em português](https://www.hotosm.org/updates/mapeamento-humanitario-para-a-resiliencia-climatica-resposta-as-inundacoes-em-porto-alegre/)**
+**[Versión en español] (https://www.hotosm.org/updates/mapeo-humanitario-para-la-resiliencia-climatica-la-respuesta-a-las-inundaciones-en-porto-alegre/) / [Versão em português](https://www.hotosm.org/updates/mapeamento-humanitario-para-a-resiliencia-climatica-resposta-as-inundacoes-em-porto-alegre/)**
 
 On April 27, 2024, after two weeks of intense rains in Rio Grande do Sul, Brazil, the collapse of the 14 de julio hydroelectric dam worsened the critical situation of historic floods in Porto Alegre. This event resulted in over 100 deaths and 100 missing persons, affecting more than one million people. Approximately 70,000 were evacuated, and over a million homes were left without clean water. Additionally, 421,000 households lost electricity, 115 municipalities lost phone and internet services, 61 roads were blocked, and Porto Alegre's airport was closed. The Guaíba River reached record levels, flooding the city's historic center.
 
