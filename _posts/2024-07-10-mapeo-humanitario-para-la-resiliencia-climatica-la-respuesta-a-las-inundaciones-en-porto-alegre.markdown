@@ -79,7 +79,7 @@ Trabajamos con el BID en el diagnóstico del evento climático en Porto Alegre, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvctCo0iTpM?si=LCGVC4kRIDgaIPoJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-***Equipo de HOT recabando información a través del formulario en KoboToolBox en Centros de Triage.***
+*Equipo de HOT recabando información a través del formulario en KoboToolBox en Centros de Triage.*
 
 Juan y Everton señalaron que el objetivo de la misión es desarrollar metodologías con tecnologías libres que interoperan con el gobierno local, creando información alternativa a través de plataformas comunitarias para una recuperación más efectiva. "Estamos mapeando los equipamientos en OpenStreetMap y recopilando resultados cartográficos, utilizando herramientas como Mapillary para ofrecer fotos georreferenciadas del estado actual de la infraestructura”, explicaron. En este [enlace](https://www.mapillary.com/app/org/hotosm_lac?lat=-30.02390654431528&lng=-51.2122723780588&z=15.217550359101017&pKey=1257979585608018&menu=false) podrán revisar el visor de 12,216 imágenes tomadas en campo por el equipo de HOT.
 
