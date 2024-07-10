@@ -75,9 +75,9 @@ We worked with the IDB on diagnosing the climatic event in Porto Alegre, systema
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/jvctCo0iTpM?si=LCGVC4kRIDgaIPoJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The HOT team gathering information through the form in KoboToolBox at Triage Centers.
+*The HOT team gathering information through the form in KoboToolBox at Triage Centers.*
 
-Juan and Everton pointed out that the mission's objective is to develop methodologies with free technologies that interoperate with local government, creating alternative information through community platforms for more effective recovery. "We are mapping facilities on OpenStreetMap and collecting cartographic results, using tools like Mapillary to provide georeferenced photos of the current state of infrastructure," they explained. In this link, you can review the viewer of 12,216 images taken in the field by the HOT team.
+Juan and Everton pointed out that the mission's objective is to develop methodologies with free technologies that interoperate with local government, creating alternative information through community platforms for more effective recovery. "We are mapping facilities on OpenStreetMap and collecting cartographic results, using tools like Mapillary to provide georeferenced photos of the current state of infrastructure," they explained. In this [link](<iframe width="640" height="320" src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1257979585608018&x=0.5&y=0.5&style=split" frameborder="0"></iframe>), you can review the viewer of 12,216 images taken in the field by the HOT team.
 
 <iframe width="800" height="450" src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1257979585608018&x=0.5&y=0.5&style=split" frameborder="0"></iframe>
 
