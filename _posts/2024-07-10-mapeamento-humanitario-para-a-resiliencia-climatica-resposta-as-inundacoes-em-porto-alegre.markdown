@@ -52,7 +52,7 @@ A missão começou com uma reunião de abertura com o Secretário Schirmer. Post
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/UupoR6dcV9E?si=-eNH1Ocknrm3ZgZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-***Este vídeo oferece uma visão interna da Escola Municipal de Educação Infantil Ilha da Pintada, focando no estado atual das salas de aula após uma emergência. Acompanhados por militares que viajaram do Rio de Janeiro para oferecer suporte, exploramos como a comunidade escolar está se adaptando e respondendo às circunstâncias atuais.***
+*Este vídeo oferece uma visão interna da Escola Municipal de Educação Infantil Ilha da Pintada, focando no estado atual das salas de aula após uma emergência. Acompanhados por militares que viajaram do Rio de Janeiro para oferecer suporte, exploramos como a comunidade escolar está se adaptando e respondendo às circunstâncias atuais.*
 
 Céline enfatizou que: “As instalações elétricas sofreram oxidações irreversíveis, e máquinas industriais, equipamentos de trabalho e documentação administrativa foram destruídos. Móveis de madeira e metal também foram afetados, enquanto objetos e instalações de plástico resistiram melhor. O movimento da água quebrou janelas, estruturas leves e portas."
 
