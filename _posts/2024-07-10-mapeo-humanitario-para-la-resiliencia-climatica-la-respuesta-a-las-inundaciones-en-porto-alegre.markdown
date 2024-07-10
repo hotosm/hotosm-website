@@ -77,7 +77,7 @@ Estamos desarrollando una estrategia colaborativa para monitorear la recuperaci�
 
 Trabajamos con el BID en el diagnóstico del evento climático en Porto Alegre, sistematizando datos y formulando un cuestionario para asistir en las decisiones iniciales sobre la recuperación de infraestructuras públicas. También integramos estos datos en los sistemas de gestión existentes de la prefectura, asegurándonos de su efectividad.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dyA-BF7F3ZU?si=KddbjoBx2-Mozv2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvctCo0iTpM?si=LCGVC4kRIDgaIPoJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ***Equipo de HOT recabando información a través del formulario en KoboToolBox en Centros de Triage.***
 
