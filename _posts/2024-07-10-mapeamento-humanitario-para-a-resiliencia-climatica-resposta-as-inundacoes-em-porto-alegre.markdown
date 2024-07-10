@@ -54,9 +54,7 @@ A missão começou com uma reunião de abertura com o Secretário Schirmer. Post
 
 ***Este vídeo oferece uma visão interna da Escola Municipal de Educação Infantil Ilha da Pintada, focando no estado atual das salas de aula após uma emergência. Acompanhados por militares que viajaram do Rio de Janeiro para oferecer suporte, exploramos como a comunidade escolar está se adaptando e respondendo às circunstâncias atuais.***
 
-Céline enfatizou que: “Embora já tenha passado mais de um mês desde a emergência, a situação não avançou muito. Apenas começaram os trabalhos de limpeza e avaliação da situação. As escolas e clínicas ainda não estão funcionando, e começar a organizar essas informações é o primeiro passo.”
-
-As instalações elétricas sofreram oxidações irreversíveis, e máquinas industriais, equipamentos de trabalho e documentação administrativa foram destruídos. Móveis de madeira e metal também foram afetados, enquanto objetos e instalações de plástico resistiram melhor. O movimento da água quebrou janelas, estruturas leves e portas.
+Céline enfatizou que: “As instalações elétricas sofreram oxidações irreversíveis, e máquinas industriais, equipamentos de trabalho e documentação administrativa foram destruídos. Móveis de madeira e metal também foram afetados, enquanto objetos e instalações de plástico resistiram melhor. O movimento da água quebrou janelas, estruturas leves e portas."
 
 O terceiro dia foi dedicado à sistematização de informações e atualizações com base nas visitas de campo, bem como reuniões com gestores da Unidade de Coordenação de Projetos (UCP) e do BID. À tarde, foi realizada uma reunião de encerramento com o prefeito Sebastião Melo e uma sessão de trabalho no Centro Administrativo Municipal (CAM) para planejar os próximos passos e coordenar a coleta de informações, juntamente com a Secretaria de Planejamento e contrapartes setoriais.
 
