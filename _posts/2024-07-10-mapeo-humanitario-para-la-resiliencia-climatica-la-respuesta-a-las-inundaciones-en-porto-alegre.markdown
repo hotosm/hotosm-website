@@ -47,7 +47,7 @@ Durante las visitas a clínicas, escuelas, instalaciones deportivas y centros de
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0bnineZYsFA?si=4LlhECxGb_z1JTMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Este video presenta un recorrido por la Unidad de Salud Vila Elizabeth, mostrando el estado actual de las instalaciones después de una emergencia. Al ingresar, se pueden observar los escombros acumulados, resultado directo del incidente, proporcionando una clara visualización del impacto y las necesidades actuales de la unidad.*
+*Este video 360º presenta un recorrido por la Unidad de Salud Vila Elizabeth, mostrando el estado actual de las instalaciones después de una emergencia. Al ingresar, se pueden observar los escombros acumulados, resultado directo del incidente, proporcionando una clara visualización del impacto y las necesidades actuales de la unidad.*
 
 # **Recuento de Actividades de la Misión del BID en Porto Alegre**
 
@@ -57,7 +57,7 @@ El segundo día incluyó visitas de campo en más zonas de Sarandí y el Centro 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyA-BF7F3ZU?si=3KNu-GxQENmDCdPh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
-*Este video ofrece una visión interna de la Escola Municipal de Educação Infantil Ilha da Pintada, enfocándose en el estado actual de los salones de clase tras una emergencia. Acompañados por militares que han viajado desde Río de Janeiro para brindar su apoyo, exploramos cómo la comunidad escolar se está adaptando y respondiendo a las circunstancias actuales.*
+*Este video 360º ofrece una visión interna de la Escola Municipal de Educação Infantil Ilha da Pintada, enfocándose en el estado actual de los salones de clase tras una emergencia. Acompañados por militares que han viajado desde Río de Janeiro para brindar su apoyo, exploramos cómo la comunidad escolar se está adaptando y respondiendo a las circunstancias actuales.*
 
 Céline enfatizó que:
 
