@@ -45,7 +45,7 @@ Céline destacó la importancia de organizar la información para priorizar las 
 
 Durante las visitas a clínicas, escuelas, instalaciones deportivas y centros de triage, el equipo pudo observar el impacto de las inundaciones, que duraron entre 30 y 40 días, creando condiciones insalubres y daños estructurales significativos. La prefectura está publicando datos georreferenciados en su infraestructura de datos espaciales, centralizando la información de cada secretaría para que esté disponible tanto para la población como para la alcaldía. Esto permitirá una mejor coordinación y respuesta en futuros eventos de emergencia.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0bnineZYsFA?si=4LlhECxGb_z1JTMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/0bnineZYsFA?si=4LlhECxGb_z1JTMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Este video 360º presenta un recorrido por la Unidad de Salud Vila Elizabeth, mostrando el estado actual de las instalaciones después de una emergencia. Al ingresar, se pueden observar los escombros acumulados, resultado directo del incidente, proporcionando una clara visualización del impacto y las necesidades actuales de la unidad.*
 
@@ -55,7 +55,7 @@ La misión comenzó con una reunión de apertura con el Secretario Schirmer. Pos
 
 El segundo día incluyó visitas de campo en más zonas de Sarandí y el Centro Histórico, con equipos sectoriales.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dyA-BF7F3ZU?si=3KNu-GxQENmDCdPh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
+<iframe width="800" height="450" src="https://www.youtube.com/embed/dyA-BF7F3ZU?si=3KNu-GxQENmDCdPh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
 
 *Este video 360º ofrece una visión interna de la Escola Municipal de Educação Infantil Ilha da Pintada, enfocándose en el estado actual de los salones de clase tras una emergencia. Acompañados por militares que han viajado desde Río de Janeiro para brindar su apoyo, exploramos cómo la comunidad escolar se está adaptando y respondiendo a las circunstancias actuales.*
 
@@ -77,7 +77,7 @@ Estamos desarrollando una estrategia colaborativa para monitorear la recuperaci�
 
 Trabajamos con el BID en el diagnóstico del evento climático en Porto Alegre, sistematizando datos y formulando un cuestionario para asistir en las decisiones iniciales sobre la recuperación de infraestructuras públicas. También integramos estos datos en los sistemas de gestión existentes de la prefectura, asegurándonos de su efectividad.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvctCo0iTpM?si=LCGVC4kRIDgaIPoJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/jvctCo0iTpM?si=LCGVC4kRIDgaIPoJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Equipo de HOT recabando información a través del formulario en KoboToolBox en Centros de Triage.*
 
