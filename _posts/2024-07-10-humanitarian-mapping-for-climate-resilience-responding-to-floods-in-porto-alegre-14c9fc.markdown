@@ -29,11 +29,11 @@ On May 9, 2024, in response to this disaster, the Open Mapping Hub in Latin Amer
 
 *uMap created by the HOT team to visualize mapped buildings and destroyed structures.*
 
-This effort focused on updating the already well-developed map in the hardest-hit areas and negotiating access to post-disaster imagery. To date, 22 mapping projects have been published covering: 55,629 buildings; 2,326 km of roads; 2,062 km² of area mapped, and 8,612 mapped tasks. This effort led to a crucial partnership with the Inter-American Development Bank (IDB). Together, we focused on creating and gathering high-quality geographic data for the Porto Alegre prefecture and aiding in damage assessments of public facilities for rapid recovery. Additionally, we developed new interfaces providing useful tools for the population, facilitating response in the most affected areas.
+This effort focused on updating the already well-developed map in the hardest-hit areas and negotiating access to post-disaster imagery. To date, 22 mapping projects have been published covering: 55,629 buildings; 2,326 km of roads; 2,062 km² of area mapped, and 8,612 mapped tasks. This effort led to a crucial partnership with the Inter-American Development Bank (IADB). Together, we focused on creating and gathering high-quality geographic data for the Porto Alegre prefecture and aiding in damage assessments of public facilities for rapid recovery. Additionally, we developed new interfaces providing useful tools for the population, facilitating response in the most affected areas.
 
 # **Collaboration with the Inter-American Development Bank**
 
-From June 15 to July 15, 2024, the LAC Hub collaborated with the Inter-American Development Bank (IDB) and the departments of education, health, sports, and social assistance of the Porto Alegre government to address flood damages. This collaboration focused on developing and testing an initial georeferenced assessment method for affected facilities and data systematization, proposing a participatory campaign for cartographic monitoring of recovery in the coming months. The main goal is to support local efforts in developing and implementing reconstruction and transformation plans in the most affected areas, promoting community participation and ensuring an inclusive and sustainable approach.
+From June 15 to July 15, 2024, the LAC Hub collaborated with the IADB and the departments of education, health, sports, and social assistance of the Porto Alegre government to address flood damages. This collaboration focused on developing and testing an initial georeferenced assessment method for affected facilities and data systematization, proposing a participatory campaign for cartographic monitoring of recovery in the coming months. The main goal is to support local efforts in developing and implementing reconstruction and transformation plans in the most affected areas, promoting community participation and ensuring an inclusive and sustainable approach.
 
 The HOT team, led by Céline Jacquin, Everton Bortollini, and Juan Melo, developed a survey methodology to diagnose damages to public and social facilities. This tool was co-designed with local officials and civil engineers from the IDB to gather valuable information for both the municipal government and funders. The damages are significant, with buildings submerged up to three meters for over a month, causing severe material and structural damage, and total losses in many cases.
 
@@ -45,7 +45,7 @@ During visits to clinics, schools, sports facilities, and triage centers, the te
 
 This video provides a tour of the Vila Elizabeth Health Unit, showing the current state of the facilities after an emergency. Upon entry, accumulated debris can be seen, a direct result of the incident, providing a clear visualization of the impact and current needs of the unit.
 
-# **BID Mission Activities Recap in Porto Alegre**
+# **IADB Mission Activities Recap in Porto Alegre**
 
 The mission began with an opening meeting with Secretary Schirmer. Subsequently, working sessions were held with counterparts from the educational sector, and the Fundação de Assistência Social e Cidadania (FASC), sectors of the Municipal Secretariat of Sports, Recreation and Youth (SMELJ), and health, the georeferencing team of the Municipality of Porto Alegre, and the Municipal Secretary of Innovation, focused on identifying and georeferencing buildings to diagnose, review previous information and diagnoses, and prioritize missing information, including reviewing the questionnaire for recovery executive plans and works.
 
@@ -67,7 +67,7 @@ We are developing a collaborative strategy to monitor equipment recovery once re
 
 # **Methodology**
 
-We worked with the IDB on diagnosing the climatic event in Porto Alegre, systematizing data, and formulating a questionnaire to assist in initial decisions on the recovery of public infrastructure. We also integrated this data into existing management systems of the prefecture, ensuring its effectiveness.
+We worked with the IADB on diagnosing the climatic event in Porto Alegre, systematizing data, and formulating a questionnaire to assist in initial decisions on the recovery of public infrastructure. We also integrated this data into existing management systems of the prefecture, ensuring its effectiveness.
 
 The HOT team gathering information through the form in KoboToolBox at Triage Centers.
 
@@ -81,6 +81,6 @@ Juan concluded: "We are compiling surveys and publishing data in the prefecture'
 
 Our ultimate goal is to complement and unify data and organizations to provide effective support to the population in this challenging time. We hope that the results of this mission can be applied to other emergencies and, above all, that our work benefits those who need it most now.
 
-In collaboration with the IDB, the prefecture, and third-sector organizations, we seek to provide both public companies and other governments with the most comprehensive view of the situation in Porto Alegre for decision-making and contribute to its improvement.
+In collaboration with the IADB, the prefecture, and third-sector organizations, we seek to provide both public companies and other governments with the most comprehensive view of the situation in Porto Alegre for decision-making and contribute to its improvement.
 
 This mission has demonstrated how collaboration between the OSM community, HOT, and the IDB can lead to effective and coordinated responses in disaster recovery, integrating data and technology to make a lasting impact on the community.
