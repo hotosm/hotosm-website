@@ -42,7 +42,7 @@ The HOT team, led by Céline Jacquin, Everton Bortollini, and Juan Melo, develop
 Céline emphasized the importance of organizing information to prioritize necessary actions:
 
 ![Porto Alegre - Misión BID - HOT - Triage - EN.jpg](/uploads/Porto%20Alegre%20-%20Misio%CC%81n%20BID%20-%20HOT%20-%20Triage%20-%20EN.jpg)\
-\
+
 During visits to clinics, schools, sports facilities, and triage centers, the team observed the impact of the floods, which lasted between 30 and 40 days, creating unsanitary conditions and significant structural damage. The prefecture is publishing georeferenced data on its spatial data infrastructure, centralizing information from each department for availability to both the population and the city hall. This will enable better coordination and response in future emergency events.
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/59ASV_UlAeI?si=oP4CG0i3hzGSXTHG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -79,7 +79,7 @@ We worked with the IDB on diagnosing the climatic event in Porto Alegre, systema
 
 *The HOT team gathering information through the form in KoboToolBox at Triage Centers.*
 
-Juan and Everton pointed out that the mission's objective is to develop methodologies with free technologies that interoperate with local government, creating alternative information through community platforms for more effective recovery. "We are mapping facilities on OpenStreetMap and collecting cartographic results, using tools like Mapillary to provide georeferenced photos of the current state of infrastructure," they explained. In this [link](<iframe width="640" height="320" src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1257979585608018&x=0.5&y=0.5&style=split" frameborder="0"></iframe>), you can review the viewer of 12,216 images taken in the field by the HOT team.
+Juan and Everton pointed out that the mission's objective is to develop methodologies with free technologies that interoperate with local government, creating alternative information through community platforms for more effective recovery. "We are mapping facilities on OpenStreetMap and collecting cartographic results, using tools like Mapillary to provide georeferenced photos of the current state of infrastructure," they explained. In this [link](https://www.mapillary.com/app/org/hotosm_lac?lat=-30.02390654431528&lng=-51.2122723780588&z=15.217550359101017&pKey=1257979585608018&menu=false), you can review the viewer of 12,216 images taken in the field by the HOT team.
 
 <iframe width="800" height="450" src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1257979585608018&x=0.5&y=0.5&style=split" frameborder="0"></iframe>
 
