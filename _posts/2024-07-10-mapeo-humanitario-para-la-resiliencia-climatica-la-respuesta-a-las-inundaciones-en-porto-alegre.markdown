@@ -21,9 +21,9 @@ Project:
 
 El 27 de abril de 2024, tras dos semanas de intensas lluvias en Rio Grande do Sul, Brasil, el colapso de la represa hidroeléctrica del 14 de julio agravó la situación crítica de inundaciones históricas en Porto Alegre. Este evento causó más de 100 muertos y 100 desaparecidos, afectando a más de un millón de personas. Cerca de 70,000 fueron evacuadas, y más de un millón de hogares quedaron sin agua potable. Además, 421,000 viviendas se quedaron sin electricidad, 115 municipios sin servicios de teléfono e internet, 61 carreteras quedaron bloqueadas y el aeropuerto de Porto Alegre cerró. El río Guaíba alcanzó niveles récord, inundando el centro histórico de la ciudad.
 
-Este evento marcó el segundo desastre significativo en menos de un año para el estado, tras un ciclón en septiembre de 2023 que dejó al menos 31 muertos. El cambio climático y el fenómeno de El Niño han intensificado las condiciones climáticas extremas en la región. 
+Este evento marcó el segundo desastre significativo en menos de un año para el estado, tras un ciclón en septiembre de 2023 que dejó al menos 31 muertos. El cambio climático y el fenómeno de El Niño han intensificado las condiciones climáticas extremas en la región.
 
-El 9 de mayo de 2024, en respuesta a este desastre, el Hub de Mapeo Abierto en América Latina y el Caribe (LAC Hub) lanzó una activación para apoyar los esfuerzos de respuesta, impulsada por conversaciones con la comunidad OSM Brasil. 
+El 9 de mayo de 2024, en respuesta a este desastre, el Hub de Mapeo Abierto en América Latina y el Caribe (LAC Hub) lanzó una activación para apoyar los esfuerzos de respuesta, impulsada por conversaciones con la comunidad OSM Brasil.
 
 ![Edificações.jpg](/uploads/Edificac%CC%A7o%CC%83es.jpg)
 
@@ -39,7 +39,7 @@ Del 15 de junio al 15 de julio de 2024, el LAC Hub colaboró con el Banco Intera
 
 El equipo de HOT, liderado por Céline Jacquin, Everton Bortollini y Juan Melo, desarrolló una metodología de encuesta para diagnosticar los daños en equipamientos públicos y sociales. Esta herramienta fue codiseñada con funcionarios locales e ingenieras civiles del BID para obtener información útil tanto para el gobierno municipal como para los financiadores. Los daños son significativos, con edificios sumergidos hasta tres metros durante más de un mes, causando daños materiales y estructurales severos y pérdidas totales en muchos casos.
 
-Céline destacó la importancia de organizar la información para priorizar las acciones necesarias: 
+Céline destacó la importancia de organizar la información para priorizar las acciones necesarias:
 
 ![Porto Alegre - Misión BID - HOT - Triage.jpg](/uploads/Porto%20Alegre%20-%20Misio%CC%81n%20BID%20-%20HOT%20-%20Triage.jpg)
 
@@ -51,7 +51,7 @@ Durante las visitas a clínicas, escuelas, instalaciones deportivas y centros de
 
 # **Recuento de Actividades de la Misión del BID en Porto Alegre**
 
-La misión comenzó con una reunión de apertura con el Secretario Schirmer. Posteriormente, se realizaron sesiones de trabajo con contrapartes del sector educativo, , y el sector Fundación de Asistencia Social y Ciudadanía (FASC), sectores de Secretaría Municipal de Deporte, Recreación y Juventud (por sus siglas en portugués, SMELJ) y salud, el equipo de georreferenciación del Municipio de Porto Alegre y el Secretario Municipal de Innovación, enfocadas en identificar y georreferenciar los edificios a diagnosticar, revisar información y diagnósticos previos, y priorizar información faltante. incluyendo la revisión del cuestionario para los planes ejecutivos de recuperación y obras.
+La misión comenzó con una reunión de apertura con el Secretario Schirmer. Posteriormente, se realizaron sesiones de trabajo con contrapartes del sector educativo, y el sector Fundación de Asistencia Social y Ciudadanía (FASC), sectores de Secretaría Municipal de Deporte, Recreación y Juventud (por sus siglas en portugués, SMELJ) y salud, el equipo de georreferenciación del Municipio de Porto Alegre y el Secretario Municipal de Innovación, enfocadas en identificar y georreferenciar los edificios a diagnosticar, revisar información y diagnósticos previos, y priorizar información faltante. incluyendo la revisión del cuestionario para los planes ejecutivos de recuperación y obras.
 
 El segundo día incluyó visitas de campo en más zonas de Sarandí y el Centro Histórico, con equipos sectoriales.
 
