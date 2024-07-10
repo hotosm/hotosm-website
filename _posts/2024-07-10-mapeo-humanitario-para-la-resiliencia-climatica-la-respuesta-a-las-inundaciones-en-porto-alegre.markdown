@@ -55,7 +55,7 @@ La misión comenzó con una reunión de apertura con el Secretario Schirmer. Pos
 
 El segundo día incluyó visitas de campo en más zonas de Sarandí y el Centro Histórico, con equipos sectoriales.
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/dyA-BF7F3ZU?si=3KNu-GxQENmDCdPh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>.
+<iframe width="800" height="450" src="https://www.youtube.com/embed/UupoR6dcV9E?si=-eNH1Ocknrm3ZgZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Este video 360º ofrece una visión interna de la Escola Municipal de Educação Infantil Ilha da Pintada, enfocándose en el estado actual de los salones de clase tras una emergencia. Acompañados por militares que han viajado desde Río de Janeiro para brindar su apoyo, exploramos cómo la comunidad escolar se está adaptando y respondiendo a las circunstancias actuales.*
 
