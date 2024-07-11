@@ -10,17 +10,16 @@ Project Summary Text: The Humanitarian Mapping Brigade, led by HOT and the LAC H
 Feature Image: "/uploads/Humanitarian%20Mapping%20Brigade%20-%20HOT%20-%20LAC%20Hub.jpg"
 Project Logo Image: "/uploads/Logo%20Brigada%20y%20Laboratorio-7a521c.jpg"
 Country:
-- Brazil
-- Mexico
-- Guatemala
-- Colombia
-- Ecuador
-- Peru
 - Argentina
-- Paraguay
-- Trinidad and Tobago
+- Brazil
+- Colombia
 - Dominican Republic
+- Ecuador
+- Guatemala
 - Mexico
+- Paraguay
+- Peru
+- Trinidad and Tobago
 Person:
 - Juan Melo Luna
 Duration:
