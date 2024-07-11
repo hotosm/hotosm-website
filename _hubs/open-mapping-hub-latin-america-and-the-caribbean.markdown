@@ -87,6 +87,8 @@ Our efforts in the Caribbean have focused on establishing a strong presence and 
 4. [Women-Centered Disaster Resilience In Small Island Developing States](https://www.hotosm.org/projects/women-centered-disaster-resilience-in-small-island-developing-states-trinidad-and-tobago/)
 
 # Urban Resilience Open Data Solutions
+![Mapeo de Transporte Colectivo.jpg](/uploads/Mapeo%20de%20Transporte%20Colectivo.jpg)
+
 We aim to strengthen urban communities through integrated solutions that enhance technical capabilities in using information for various sectors involved in territorial management, both governmental and civic. Our focus spans key areas such as transportation, disaster risk management, and sustainable urban growth, with the purpose of assisting cities in facing and adapting to constantly changing challenges. We work closely with communities and local stakeholders to develop adaptive solutions centered on territorial data management that meet their specific needs.
 
 1. Collaborative Public Transportation Mapping
@@ -97,15 +99,12 @@ The main goal is to enhance the capacities of local administration and the commu
 2. Open Cities Projects
 We implements innovative projects in cities across various regions, aiming to promote resilience and sustainable development. This program brings together a variety of stakeholders, including governments, donor agencies, the private sector, universities, and civil society groups. To achieve its goals, it utilizes community mapping techniques to generate practical information, develop decision-making tools, and strengthen the trust networks necessary for sustainability.
 
-- [OpenCities Guatemala](https://www.hotosm.org/projects/opencities-guatemala-EN/)
-- [OpenCities Dominica](https://www.hotosm.org/projects/open-cities-dominica/)
-- [OpenCities St. Lucia](https://www.hotosm.org/projects/open-cities-saint-lucia/)
-- [OpenCities Mexico](https://www.youtube.com/watch?v=I6UXXUWz9wc&ab_channel=LACHUB-HOT%F0%9F%8C%8E)
-
 3. [Resilient Open Cities - Training for Open Government Partnership (OGP)](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-latin-america/)
+
 We train local governments in collaboration with the Open Government Partnership, aiming to raise awareness and develop mapping skills in six local governments in Chile, Brazil, Ecuador, and Mexico. More info [here](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-latin-america/).
 
 4. Anticipatory Emergency Mapping for Resilient Planning
+
 We employ anticipatory mapping tools to identify and manage emerging risks, with the aim of strengthening the responsiveness and resilience of urban communities to natural disasters and extreme events.
 
 - [Anticipatory Mapping of Temporary Civil Protection Shelters in the Government of Quintana Roo](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-latin-america/)
