@@ -58,6 +58,108 @@ As of July 2024, the Brigade has contributed to:
 - 31,866 buildings mapped
 - 153 km of roads mapped
 
+## PARTICIPANTS
+<table>
+  <tr>
+    <th>Argentina</th>
+    <th>Brasil</th>
+    <th>Colombia</th>
+    <th>Ecuador</th>
+    <th>El Salvador</th>
+    <th>Guatemala</th>
+    <th>México</th>
+    <th>Nicaragua</th>
+    <th>Paraguay</th>
+    <th>Perú</th>
+    <th>República Dominicana</th>
+    <th>Trinidad y Tobago</th>
+  </tr>
+  <tr>
+    <td>Juan Manuel Stagnaro</td>
+    <td>Gustavo Raldi Storck</td>
+    <td>Andrés Gómez Casanova</td>
+    <td>Kevin Armando Pilliza Pinto</td>
+    <td>Ronald Hernan Estrada del Rio</td>
+    <td>Jorge Alberto Aguirre Schaeuffler</td>
+    <td>Alejandro Salazar Méndez</td>
+    <td>Dianne Martínez Jarquín</td>
+    <td>Jorge Martín Cáceres López</td>
+    <td>Karito Kety Tenorio Palomino</td>
+    <td>Isabela Pichardo Velázquez</td>
+    <td>Caitlin Milne</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Jaqueline Lima Amorim</td>
+    <td>Carlos Andres Rios Franco</td>
+    <td>Mishell Catucuamba</td>
+    <td></td>
+    <td></td>
+    <td>Juan Ángel Barajas</td>
+    <td>Oscar Santiago Velásquez Muñoz</td>
+    <td></td>
+    <td>Keen Ferrer Quispe Mamani</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Maria Dolores Reis do Nascimento</td>
+    <td>Johan Sebastian Agudelo Higuita</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Luis Alberto Robledo</td>
+    <td>Yasmila Stephany Sáenz Herrera</td>
+    <td></td>
+    <td>Ordzonhyd Rudyard Tarco Palomino</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Raphael de Assis Jacinto e Silva</td>
+    <td>Luis Miguel Sánchez Zoque</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Maya Camila Lovo Domínguez</td>
+    <td></td>
+    <td></td>
+    <td>Pilar Gabriela Serrano Quispe</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Túllio Morais Franca</td>
+    <td>Luis Sebastian Bravo Chacón</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Verónica Oviedo</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>Zeltzin Lorraine Palacios Rodríguez</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 ## **HIGHLIGHTED PROJECTS**
 
 The Brigade has contributed to better management and response in crisis situations, such as:
