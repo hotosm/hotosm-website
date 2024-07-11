@@ -24,8 +24,8 @@ Duration:
   Start Date: 2023-06-05 00:00:00 Z
   End Date: 2023-11-05 00:00:00 Z
 Map Products:
-  title: Colectivo mujeres y Copacos Comuna 12
-  link: https://umap.openstreetmap.fr/es/map/mapeo-de-zonas-de-residuos-en-colinas-de-calasanz-_979589#18/6.27248/-75.60132
+  title: 
+  link: 
 Tools:
 - tool: OpenStreetMap
 - link: 
