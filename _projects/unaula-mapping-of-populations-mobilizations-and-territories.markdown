@@ -36,6 +36,11 @@ Map Products:
 - https://umap.openstreetmap.fr/es/map/mapeo-de-zonas-de-residuos-en-colinas-de-calasanz-_979589#18/6.27248/-75.60132
 - https://umap.openstreetmap.fr/es/map/mapa-de-intangibles-comunitarios-del-barrio-el-sin_979165#18/6.29272/284.43746
 - https://umap.openstreetmap.fr/en/map/biblioteca-publica-piloto-presencia-y-recursos-de-_953003#12/6.2691/-75.5324
+Tools:
+- tool: OpenStreetMap
+- link: 
+- tool: StreetComplete
+- tool: uMap
 ---
 
 # CONTEXT
