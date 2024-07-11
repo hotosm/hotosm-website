@@ -58,4 +58,9 @@ As of July 2024, the Brigade has contributed to:
 - 31,866 buildings mapped
 - 153 km of roads mapped
 
-Highlighted projects include complementary [mapping of damaged buildings in Acapulco](https://www.hotosm.org/projects/hurricane-otis-2023-response/), [mappings in the Amazon](https://www.hotosm.org/updates/amazonian-mapping-for-an-inclusive-and-sustainable-amazon/), and the validation of mappings done during the [Peru Mapathon with CONIDA](https://wiki.openstreetmap.org/wiki/Mapathon_CONIDA_2023), thereby contributing to better management and response in crisis situations.
+## **HIGHLIGHTED PROJECTS**
+
+The Brigade has contributed to better management and response in crisis situations, such as:
+-  Complementary [mapping of damaged buildings in Acapulco](https://www.hotosm.org/projects/hurricane-otis-2023-response/) after Hurricane Otis.
+- [Mappings in the Amazon](https://www.hotosm.org/updates/amazonian-mapping-for-an-inclusive-and-sustainable-amazon/)
+- Mappings validations done during the [Peru Mapathon with CONIDA](https://wiki.openstreetmap.org/wiki/Mapathon_CONIDA_2023)
