@@ -15,6 +15,7 @@ Partner:
 - Codeando México
 - CoMapper
 - Trufi
+- Municipal Government of Zamora
 Tools:
 - tool: MapMap
 - tool: OSMtracker
