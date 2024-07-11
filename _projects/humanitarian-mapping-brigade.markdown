@@ -29,7 +29,7 @@ Tools:
 - tool: JOSM
 ---
 
-## **CONTEXT**
+## CONTEXT
 The Humanitarian OpenStreetMap Team (HOT) and the LAC Hub have launched the Humanitarian Mapping Brigade, a new community work model to strengthen humanitarian response in emergencies and prevention through mapping. This team will consist of up to 31 highly committed and technically advanced mappers who will map and validate critical Hub projects.
 
 The Brigade will act under specific circumstances, deploying to support collaborative projects at risk of not meeting deadlines necessary for humanitarian response actors. It will focus not only on high-quality mapping but also on validation and the eventual training of local actors. Its main goal is to ensure the timely completion of projects to meet local needs, thus strengthening local capacity and promoting a culture of humanitarian mapping rooted in the region.
@@ -38,14 +38,14 @@ The Humanitarian Mapping Brigade project has made significant progress, refining
 
 ![Brigade EN.jpg](/uploads/Brigade%20EN.jpg)
 
-## **APPROACH**
+## APPROACH
 Mapper selection for the humanitarian brigade prioritized individuals with extensive and proven experience in mapping within the OpenStreetMap platform. Active participation in projects backed by the Humanitarian OpenStreetMap Team (HOT), utilizing the Tasking Manager and other tools provided by the organization, was also highly valued.
 
 In this selection, individuals who have demonstrated a strong interest in humanitarian mapping and are recognized as leaders in their respective countries were considered. While not a mandatory requirement, candidates with experience using the JOSM (Java OpenStreetMap Editor) were preferred, further enhancing their capability and versatility in humanitarian mapping.
 
 This combination of skills and commitment ensures that the brigade comprises individuals who are highly trained and motivated to tackle humanitarian mapping tasks with efficiency and accuracy.
 
-## **OUTCOME AND IMPACT**
+## OUTCOME AND IMPACT
 The Humanitarian Mapping Brigade consists of 31 mappers from 12 countries, as represented on the map:
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/es/map/brigada-de-mapeo-humanitario_1023360?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=true&tilelayersControl=true&embedControl=true&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&locateControl=true&measureControl=true&editinosmControl=true&starControl=true"></iframe><p><a href="//umap.openstreetmap.fr/es/map/brigada-de-mapeo-humanitario_1023360?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=true&tilelayersControl=true&embedControl=true&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true&locateControl=true&measureControl=true&editinosmControl=true&starControl=true">See full screen</a></p>
@@ -59,7 +59,7 @@ As of July 2024, the Brigade has contributed to:
 - 33,659 buildings mapped
 - 183 km of roads mapped
 
-## **HIGHLIGHTED PROJECTS**
+## HIGHLIGHTED PROJECTS
 
 The Brigade has contributed to better management and response in crisis situations, such as:
 -  Complementary [mapping of damaged buildings in Acapulco](https://www.hotosm.org/projects/hurricane-otis-2023-response/) after Hurricane Otis.
