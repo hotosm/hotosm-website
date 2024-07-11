@@ -70,31 +70,6 @@ The mapping projects showcased in this exhibition are the result of learning and
 
 Explore the maps and further project details [here](https://pomotecestudios.unaula.edu.co/mapeo-poblaciones/narrativas-de-mapeo):
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .iframe-container {
-            display: flex;
-            justify-content: space-around; /* Alinea los elementos horizontalmente con espacio alrededor */
-        }
-        .iframe-container iframe {
-            width: 49%; /* Asigna el 49% del ancho a cada iframe para que quepan lado a lado */
-            height: 500px; /* Ajusta la altura según necesites */
-            border: none;
-        }
-    </style>
-</head>
-<body>
-    <div class="iframe-container">
-        <iframe src="//umap.openstreetmap.fr/es/map/mapeo-centro-de-articulacion_979019?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=databrowser&captionBar=false&captionMenus=true" allowfullscreen allow="geolocation"></iframe>
-        <iframe src="//umap.openstreetmap.fr/es/map/mapeo-de-zonas-de-residuos-en-colinas-de-calasanz-_979589?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true" allowfullscreen allow="geolocation"></iframe>
-    </div>
-</body>
-</html>
-
 ## LEASSONS LEARNED
 The experience highlighted the importance of integrating open mapping platforms into social processes to advance the recognition of territorial realities and community initiatives. It underscored the need to continue developing digital mapping to ensure that underrepresented neighborhoods are acknowledged in the city's official cartography. Future efforts will focus on enhancing mapping practices further to support social recognition and inclusion.
 
