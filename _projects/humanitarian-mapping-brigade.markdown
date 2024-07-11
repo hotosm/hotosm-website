@@ -8,6 +8,7 @@ Project Summary Text: The Humanitarian Mapping Brigade, led by HOT and the LAC H
   disaster preparedness and to promote a robust culture of humanitarian mapping in
   the region.
 Feature Image: "/uploads/Humanitarian%20Mapping%20Brigade%20-%20HOT%20-%20LAC%20Hub.jpg"
+Project Logo Image: "/uploads/Logo%20Brigada%20y%20Laboratorio-7a521c.jpg"
 Country:
 - Brazil
 - Mexico
