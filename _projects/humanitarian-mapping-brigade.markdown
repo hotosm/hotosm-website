@@ -62,17 +62,17 @@ As of July 2024, the Brigade has contributed to:
 <table>
   <tr>
     <th>Argentina</th>
-    <th>Brasil</th>
+    <th>Brazil</th>
     <th>Colombia</th>
     <th>Ecuador</th>
     <th>El Salvador</th>
     <th>Guatemala</th>
-    <th>México</th>
+    <th>Mexico</th>
     <th>Nicaragua</th>
     <th>Paraguay</th>
-    <th>Perú</th>
-    <th>República Dominicana</th>
-    <th>Trinidad y Tobago</th>
+    <th>Peru</th>
+    <th>Dominican Republic</th>
+    <th>Trinidad and Tobago</th>
   </tr>
   <tr>
     <td>Juan Manuel Stagnaro</td>
