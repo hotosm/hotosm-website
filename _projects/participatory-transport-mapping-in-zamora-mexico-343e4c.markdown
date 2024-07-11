@@ -52,7 +52,6 @@ The initiative leverages the expertise of OpenStreetMap (through HOT, Co-Mapper,
 # OUTCOME AND IMPACT
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/hNaMCG4eKBE?si=NaVo08biD4hwNoA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 *Video: Evolution of collaborative mapping of public transport routes in Zamora, Michoacán (Mexico) by Óscar Hernández from Codeando México.*
 
 The project will result in the first comprehensive transport database for Zamora and its metropolitan area, including Jacona. This base map will enhance the OSM infrastructure, providing detailed data on streets, names, directions, and key points of interest. Local and state governments will gain new insights for transport system regulation, planning, and improvement.
