@@ -24,18 +24,8 @@ Duration:
   Start Date: 2023-06-05 00:00:00 Z
   End Date: 2023-11-05 00:00:00 Z
 Map Products:
-- https://umap.openstreetmap.fr/es/map/mapeo-centro-de-articulacion_979019#11/6.3225/-75.6340
-- https://umap.openstreetmap.fr/en/map/mapeo-barrio-altos-de-la-torre_979536#18/6.25042/-75.53993
-- https://umap.openstreetmap.fr/es/map/barrio-san-pedro-lovaina_973952#17/6.26623/-75.56095
-- https://umap.openstreetmap.fr/es/map/amigos-y-aliados-del-pbno-lusitania_976086#15/6.2833/-75.6173
-- https://umap.openstreetmap.fr/es/map/organizaciones-comuna-12_975646#18/6.25766/-75.60627
-- https://umap.openstreetmap.fr/es/map/dinamicas-socio-ambientales-en-torno-al-rio-medell_978033?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&captionMenus=true#15/6.2871/-75.5607
-- https://umap.openstreetmap.fr/es/map/espacios-artisticos-de-medellin_975091?scaleControl=false&miniMap=false&scrollWheelZoom=#20/6.25641/-75.57848
-- https://umap.openstreetmap.fr/es/map/iniciativas-de-paz_971908#12/6.2798/-75.5612
-- https://umap.openstreetmap.fr/en/map/circuito-de-murales-y-street-art-el-poblado-medell_979552#18/6.21017/-75.57141
-- https://umap.openstreetmap.fr/es/map/mapeo-de-zonas-de-residuos-en-colinas-de-calasanz-_979589#18/6.27248/-75.60132
-- https://umap.openstreetmap.fr/es/map/mapa-de-intangibles-comunitarios-del-barrio-el-sin_979165#18/6.29272/284.43746
-- https://umap.openstreetmap.fr/en/map/biblioteca-publica-piloto-presencia-y-recursos-de-_953003#12/6.2691/-75.5324
+  title: Colectivo mujeres y Copacos Comuna 12
+  link: https://umap.openstreetmap.fr/es/map/mapeo-de-zonas-de-residuos-en-colinas-de-calasanz-_979589#18/6.27248/-75.60132
 Tools:
 - tool: OpenStreetMap
 - link: 
@@ -69,6 +59,8 @@ The workshop concluded with 15 organizations conducting thematic mappings in the
 The mapping projects showcased in this exhibition are the result of learning and applying digital tools promoted during the workshop. These projects enabled participating organizations to design and execute detailed mappings of their communities, providing valuable insights into their territories' processes, initiatives, and realities. These mappings encompass key aspects such as community participation, peacebuilding, socio-cultural dynamics, environmental issues, human rights, and social cohesion.
 
 Explore the maps and further project details [here](https://pomotecestudios.unaula.edu.co/mapeo-poblaciones/narrativas-de-mapeo):
+
+
 
 ## LEASSONS LEARNED
 The experience highlighted the importance of integrating open mapping platforms into social processes to advance the recognition of territorial realities and community initiatives. It underscored the need to continue developing digital mapping to ensure that underrepresented neighborhoods are acknowledged in the city's official cartography. Future efforts will focus on enhancing mapping practices further to support social recognition and inclusion.
