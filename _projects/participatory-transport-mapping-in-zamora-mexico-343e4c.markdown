@@ -80,8 +80,7 @@ Key lessons from the project include the importance of continuous local engageme
 
 # PARTNERS
 
-* Municipal Governments of Zamora
-
-* Trufi Association
-
 * Codeando México
+* CoMapper
+* Municipal Government of Zamora
+* Trufi Association
