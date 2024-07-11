@@ -23,9 +23,6 @@ Partner:
 Duration:
   Start Date: 2023-06-05 00:00:00 Z
   End Date: 2023-11-05 00:00:00 Z
-Map Products:
-  title: 
-  link: 
 Tools:
 - tool: OpenStreetMap
 - link: 
@@ -60,7 +57,34 @@ The mapping projects showcased in this exhibition are the result of learning and
 
 Explore the maps and further project details [here](https://pomotecestudios.unaula.edu.co/mapeo-poblaciones/narrativas-de-mapeo):
 
-
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mapas Incrustados</title>
+  <style>
+    .map-container {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 20px;
+    }
+    .map-container iframe {
+      width: 48%; /* Ajusta el tamaño según tus necesidades */
+      height: 300px;
+      border: 1px solid #ccc;
+    }
+  </style>
+</head>
+<body>
+  <div class="map-container">
+    <iframe src="//umap.openstreetmap.fr/es/map/mapeo-centro-de-articulacion_979019?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=databrowser&captionBar=false&captionMenus=true" frameborder="0" allowfullscreen></iframe>
+    <iframe src="https://umap.openstreetmap.fr/es/map/iniciativas-de-paz_971908#12/6.2798/-75.5612" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <p><a href="//umap.openstreetmap.fr/es/map/mapeo-centro-de-articulacion_979019?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=databrowser&captionBar=false&captionMenus=true">Ver pantalla completa del primer mapa</a></p>
+  <p><a href="https://umap.openstreetmap.fr/es/map/iniciativas-de-paz_971908#12/6.2798/-75.5612">Ver pantalla completa del segundo mapa</a></p>
+</body>
+</html>
 
 ## LEASSONS LEARNED
 The experience highlighted the importance of integrating open mapping platforms into social processes to advance the recognition of territorial realities and community initiatives. It underscored the need to continue developing digital mapping to ensure that underrepresented neighborhoods are acknowledged in the city's official cartography. Future efforts will focus on enhancing mapping practices further to support social recognition and inclusion.
