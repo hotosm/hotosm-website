@@ -34,6 +34,7 @@ Tools:
 The objective of the UnAula project was to introduce participants to digital mapping and distinguish it from traditional methods, highlighting the contributions of the OpenStreetMap Foundation and the Humanitarian OpenStreetMap Team (HOT). This initiative fostered knowledge exchange and facilitated participation through practical mapping tools, supported by local Youthmappers chapters. It addressed a critical data and technical capacity gap in digital mapping, providing community organizations with tools for social activism and community empowerment in the outskirts of Medellín.
 
 # APPROACH
+![POMOTE UnAula.jpg](/uploads/POMOTE%20UnAula.jpg)
 The training combined theoretical perspectives with practical mapping exercises, fostering a rich dialogue among participants from social movements interested in using digital technology for community empowerment.
 
 The curriculum included:
