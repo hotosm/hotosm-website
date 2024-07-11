@@ -58,12 +58,11 @@ The mapping projects showcased in this exhibition are the result of learning and
 
 Explore the maps and further project details [here](https://pomotecestudios.unaula.edu.co/mapeo-poblaciones/narrativas-de-mapeo):
 
-<!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mapas Incrustados</title>
+  <title>Embedded Maps</title>
   <style>
     .map-container {
       display: flex;
@@ -71,7 +70,7 @@ Explore the maps and further project details [here](https://pomotecestudios.unau
       margin-bottom: 20px;
     }
     .map-container iframe {
-      width: 48%; /* Ajusta el tamaño según tus necesidades */
+      width: 48%; /* Adjust width as needed */
       height: 300px;
       border: 1px solid #ccc;
     }
@@ -82,8 +81,8 @@ Explore the maps and further project details [here](https://pomotecestudios.unau
     <iframe src="//umap.openstreetmap.fr/es/map/mapeo-centro-de-articulacion_979019?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=databrowser&captionBar=false&captionMenus=true" frameborder="0" allowfullscreen></iframe>
     <iframe src="https://umap.openstreetmap.fr/es/map/iniciativas-de-paz_971908#12/6.2798/-75.5612" frameborder="0" allowfullscreen></iframe>
   </div>
-  <p><a href="//umap.openstreetmap.fr/es/map/mapeo-centro-de-articulacion_979019?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=databrowser&captionBar=false&captionMenus=true">Ver pantalla completa del primer mapa</a></p>
-  <p><a href="https://umap.openstreetmap.fr/es/map/iniciativas-de-paz_971908#12/6.2798/-75.5612">Ver pantalla completa del segundo mapa</a></p>
+  <p><a href="//umap.openstreetmap.fr/es/map/mapeo-centro-de-articulacion_979019?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=databrowser&captionBar=false&captionMenus=true">View full screen for the first map</a></p>
+  <p><a href="https://umap.openstreetmap.fr/es/map/iniciativas-de-paz_971908#12/6.2798/-75.5612">View full screen for the second map</a></p>
 </body>
 </html>
 
