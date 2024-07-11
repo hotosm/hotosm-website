@@ -53,109 +53,145 @@ The Humanitarian Mapping Brigade consists of 31 mappers from 12 countries, as re
 The members have successfully completed priority activations within the set deadlines, thereby reinforcing effective humanitarian support. This initiative has significantly improved emergency response and risk prevention capabilities by enhancing baseline cartographic capacity. Additionally, the mapping and validation cycle has been optimized, reducing time and effort, allowing for the production of high-quality mappings from the start and significantly improving the overall map quality by eliminating validation capacity deficiencies.
 
 As of July 2024, the Brigade has contributed to:
-- 3,094 tasks mapped
-- 5,258 tasks validated
-- 31,866 buildings mapped
-- 153 km of roads mapped
+- 38 projects
+- 3,508 tasks mapped
+- 12,012 tasks validated
+- 33,659 buildings mapped
+- 183 km of roads mapped
 
 ## PARTICIPANTS
-Para que la tabla se vea más compacta, podemos eliminar el padding y el margen utilizando CSS en línea. Aquí tienes el código HTML modificado:
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Names by Country</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        .country {
+            margin-bottom: 20px;
+        }
+        .country h2 {
+            margin-bottom: 5px;
+            font-size: 18px;
+        }
+        .country ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .country ul li {
+            margin-bottom: 3px;
+        }
+    </style>
+</head>
+<body>
 
-```html
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <th style="border: 1px solid black; padding: 2px;">Argentina</th>
-    <th style="border: 1px solid black; padding: 2px;">Brazil</th>
-    <th style="border: 1px solid black; padding: 2px;">Colombia</th>
-    <th style="border: 1px solid black; padding: 2px;">Ecuador</th>
-    <th style="border: 1px solid black; padding: 2px;">El Salvador</th>
-    <th style="border: 1px solid black; padding: 2px;">Guatemala</th>
-    <th style="border: 1px solid black; padding: 2px;">Mexico</th>
-    <th style="border: 1px solid black; padding: 2px;">Nicaragua</th>
-    <th style="border: 1px solid black; padding: 2px;">Paraguay</th>
-    <th style="border: 1px solid black; padding: 2px;">Peru</th>
-    <th style="border: 1px solid black; padding: 2px;">Dominican Republic</th>
-    <th style="border: 1px solid black; padding: 2px;">Trinidad and Tobago</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 2px;">Juan Manuel Stagnaro</td>
-    <td style="border: 1px solid black; padding: 2px;">Gustavo Raldi Storck</td>
-    <td style="border: 1px solid black; padding: 2px;">Andrés Gómez Casanova</td>
-    <td style="border: 1px solid black; padding: 2px;">Kevin Armando Pilliza Pinto</td>
-    <td style="border: 1px solid black; padding: 2px;">Ronald Hernan Estrada del Rio</td>
-    <td style="border: 1px solid black; padding: 2px;">Jorge Alberto Aguirre Schaeuffler</td>
-    <td style="border: 1px solid black; padding: 2px;">Alejandro Salazar Méndez</td>
-    <td style="border: 1px solid black; padding: 2px;">Dianne Martínez Jarquín</td>
-    <td style="border: 1px solid black; padding: 2px;">Jorge Martín Cáceres López</td>
-    <td style="border: 1px solid black; padding: 2px;">Karito Kety Tenorio Palomino</td>
-    <td style="border: 1px solid black; padding: 2px;">Isabela Pichardo Velázquez</td>
-    <td style="border: 1px solid black; padding: 2px;">Caitlin Milne</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;">Jaqueline Lima Amorim</td>
-    <td style="border: 1px solid black; padding: 2px;">Carlos Andres Rios Franco</td>
-    <td style="border: 1px solid black; padding: 2px;">Mishell Catucuamba</td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;">Juan Ángel Barajas</td>
-    <td style="border: 1px solid black; padding: 2px;">Oscar Santiago Velásquez Muñoz</td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;">Keen Ferrer Quispe Mamani</td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;">Maria Dolores Reis do Nascimento</td>
-    <td style="border: 1px solid black; padding: 2px;">Johan Sebastian Agudelo Higuita</td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;">Luis Alberto Robledo</td>
-    <td style="border: 1px solid black; padding: 2px;">Yasmila Stephany Sáenz Herrera</td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;">Ordzonhyd Rudyard Tarco Palomino</td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;">Raphael de Assis Jacinto e Silva</td>
-    <td style="border: 1px solid black; padding: 2px;">Luis Miguel Sánchez Zoque</td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;">Maya Camila Lovo Domínguez</td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;">Pilar Gabriela Serrano Quispe</td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;">Túllio Morais Franca</td>
-    <td style="border: 1px solid black; padding: 2px;">Luis Sebastian Bravo Chacón</td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;">Verónica Oviedo</td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;"></td>
-    <td style="border: 1px solid black; padding: 2px;">Zeltzin Lorraine Palacios Rodríguez</td>
-    <td style="border: 1px
+<div class="country">
+    <h2>Argentina:</h2>
+    <ul>
+        <li>Juan Manuel Stagnaro</li>
+    </ul>
+</div>
+
+<div class="country">
+    <h2>Brazil:</h2>
+    <ul>
+        <li>Gustavo Raldi Storck</li>
+        <li>Jaqueline Lima Amorim</li>
+        <li>Maria Dolores Reis do Nascimento</li>
+        <li>Raphael de Assis Jacinto e Silva</li>
+        <li>Túllio Morais Franca</li>
+    </ul>
+</div>
+
+<div class="country">
+    <h2>Colombia:</h2>
+    <ul>
+        <li>Andrés Gómez Casanova</li>
+        <li>Carlos Andres Rios Franco</li>
+        <li>Johan Sebastian Agudelo Higuita</li>
+        <li>Luis Miguel Sánchez Zoque</li>
+        <li>Luis Sebastian Bravo Chacón</li>
+    </ul>
+</div>
+
+<div class="country">
+    <h2>Ecuador:</h2>
+    <ul>
+        <li>Kevin Armando Pilliza Pinto</li>
+        <li>Mishell Catucuamba</li>
+    </ul>
+</div>
+
+<div class="country">
+    <h2>El Salvador:</h2>
+    <ul>
+        <li>Ronald Hernan Estrada del Rio</li>
+    </ul>
+</div>
+
+<div class="country">
+    <h2>Guatemala:</h2>
+    <ul>
+        <li>Jorge Alberto Aguirre Schaeuffler</li>
+    </ul>
+</div>
+
+<div class="country">
+    <h2>Mexico:</h2>
+    <ul>
+        <li>Alejandro Salazar Méndez</li>
+        <li>Juan Ángel Barajas</li>
+        <li>Luis Alberto Robledo</li>
+        <li>Maya Camila Lovo Domínguez</li>
+        <li>Verónica Oviedo</li>
+        <li>Zeltzin Lorraine Palacios Rodríguez</li>
+    </ul>
+</div>
+
+<div class="country">
+    <h2>Nicaragua:</h2>
+    <ul>
+        <li>Dianne Martínez Jarquín</li>
+        <li>Oscar Santiago Velásquez Muñoz</li>
+        <li>Yasmila Stephany Sáenz Herrera</li>
+    </ul>
+</div>
+
+<div class="country">
+    <h2>Paraguay:</h2>
+    <ul>
+        <li>Jorge Martín Cáceres López</li>
+    </ul>
+</div>
+
+<div class="country">
+    <h2>Peru:</h2>
+    <ul>
+        <li>Karito Kety Tenorio Palomino</li>
+        <li>Keen Ferrer Quispe Mamani</li>
+        <li>Ordzonhyd Rudyard Tarco Palomino</li>
+        <li>Pilar Gabriela Serrano Quispe</li>
+    </ul>
+</div>
+
+<div class="country">
+    <h2>Dominican Republic:</h2>
+    <ul>
+        <li>Isabela Pichardo Velázquez</li>
+    </ul>
+</div>
+
+<div class="country">
+    <h2>Trinidad and Tobago:</h2>
+    <ul>
+        <li>Caitlin Milne</li>
+    </ul>
+</div>
+
+</body>
+</html>
 
 ## **HIGHLIGHTED PROJECTS**
 
