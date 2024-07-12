@@ -25,11 +25,8 @@ An OSM community advocates for using open mapping data to achieve social and env
 ## Support for Grantees:
 
 * Technical Training
-
 * Capacity Building
-
 * Resources
-
 * Mentorship
 
 The Caribbean Mapping Community Micro-Grant Program 2024 aims to create a nurturing environment for the emergence of robust open-mapping groups, ensuring their sustainable growth and increased impact on their communities.
@@ -37,6 +34,8 @@ The Caribbean Mapping Community Micro-Grant Program 2024 aims to create a nurtur
 # Grant Proposals Webinar
 
 We held a Proposal Development Webinars Pre-Submission on **July 10th, 2024**. You can check the recording [here](https://youtu.be/jdJdLzcsLHI).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jdJdLzcsLHI?si=c62mYSM8bvvamNvT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Request for Proposals
 
