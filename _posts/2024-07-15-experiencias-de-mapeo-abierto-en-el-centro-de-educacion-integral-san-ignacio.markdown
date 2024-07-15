@@ -72,8 +72,9 @@ Los estudiantes y profesores emplearon diversas herramientas digitales para docu
 
 Estas fueron las herramientas utilizadas:
 
-* \*\*ID Editor: \*\*Se usó para editar información dentro de los mapas ya elaborados.
-  Field Papers: Es una herramienta que permite a los usuarios crear atlas de mapas personalizados en papel, sobre los cuales pueden realizar anotaciones a mano en el campo.
+* **ID Editor:** Se usó para editar información dentro de los mapas ya elaborados.
+
+* **Field Papers:** Es una herramienta que permite a los usuarios crear atlas de mapas personalizados en papel, sobre los cuales pueden realizar anotaciones a mano en el campo.
 
 * **OSMAND:** Es una aplicación de navegación y mapeo que utiliza datos de OpenStreetMap. Ofrece mapas offline y herramientas de navegación GPS, lo que la hace ideal para el uso en áreas sin cobertura de datos móviles.
 
