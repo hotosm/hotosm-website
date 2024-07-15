@@ -96,4 +96,4 @@ Estas herramientas digitales facilitan el almacenamiento, organización y recopi
 
 ## This blog was written by:
 
-![Blog luis Miguel Jaramillo OM4A.jpg](/uploads/Blog%20luis%20Miguel%20Jaramillo%20OM4A.jpg)
+![EN - Luis MIguel Bande Jaramillo.jpg](/uploads/EN%20-%20Luis%20MIguel%20Bande%20Jaramillo.jpg)
