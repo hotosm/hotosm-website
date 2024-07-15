@@ -74,11 +74,17 @@ Os alunos e professores utilizaram diversas ferramentas digitais para documentar
 Estas foram as ferramentas utilizadas:
 
 * **ID Editor:** Usado para editar informações dentro dos mapas já elaborados.
+
 * **Field Papers:** É uma ferramenta que permite aos usuários criar atlas de mapas personalizados em papel, sobre os quais podem fazer anotações à mão no campo.
+
 * **OSMAND:** É um aplicativo de navegação e mapeamento que utiliza dados do OpenStreetMap. Oferece mapas offline e ferramentas de navegação GPS, o que o torna ideal para uso em áreas sem cobertura de dados móveis.
+
 * **OpenAerialMap:** É uma plataforma que fornece acesso a uma coleção de imagens aéreas e de satélite de domínio público.
+
 * **OpenDroneMap:** É um software de código aberto que converte imagens capturadas por drones em modelos 3D e mapas ortomosaicos.
+
 * **Editor Java do OpenStreetMap (JOSM):** Fornece ferramentas de primeira ordem para adicionar dados ao mapa de forma remota.
+
 * **uMap:** Facilita a criação de narrativas visuais combinando traços com fotos e vídeos, e permite a elaboração de mapas.
 
 # Reflexões sobre o Aprendizado utilizando o Mapeamento Aberto
@@ -87,7 +93,7 @@ Estas foram as ferramentas utilizadas:
 
 As ferramentas de Mapeamento Aberto oferecem aos alunos e professores a oportunidade de realizar contribuições significativas para os mapas já estabelecidos, tornando-se um recurso pedagógico inovador e rentável. Essas ferramentas reduzem custos em comparação com opções mais caras. A maior vantagem reside no fato de que os usuários, ao conhecerem perfeitamente a área mapeada, podem enriquecer os mapas com informações precisas, que posteriormente serão validadas por especialistas.
 
-Essas ferramentas digitais facilitam o armazenamento, organização e coleta de novos dados durante atividades educativas. Este aspecto tem sido útil para os alunos, que agora se veem como agentes de mudança dentro da sociedade, podendo fornecer informações que anteriormente eram invisíveis para o coletivo.
+Essas ferramentas digitais facilitam o armazenamento, organização e coleta de novos dados durante atividades educativas. Este aspecto tem sido útil para os alunos, que agora se veem como agentes de mudança dentro da sociedade, podendo fornecer informações que anteriormente eram invisíveis para o coletivo. 
 
 ## Este blog foi escrito por:
 
