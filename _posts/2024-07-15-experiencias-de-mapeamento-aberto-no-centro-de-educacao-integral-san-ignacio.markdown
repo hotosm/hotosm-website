@@ -15,6 +15,8 @@ Project:
 - Open Mapping for All
 ---
 
+[Versión en español](https://www.hotosm.org/updates/experiencias-de-mapeo-abierto-en-el-centro-de-educacion-integral-san-ignacio/) / [Versión en inglés](https://www.hotosm.org/updates/open-mapping-experiences-at-the-comprehensive-education-center-san-ignacio/)
+
 O Centro de Educação Integral "San Ignacio" (CEI) é a primeira escola da Fundação Cruzada Patagônica (FCP) localizada a 10 km de Junín de los Andes, Argentina. O "CEI" ou a "Cruzada", como é comumente chamado, é uma das principais instituições educacionais e de desenvolvimento ao sul de Neuquén.
 
 O CEI oferece educação secundária de forma regular. Tem um programa de educação primária para adultos que vivem nas áreas rurais da Patagônia. Muitas vezes, tanto jovens quanto adultos residem em áreas remotas ou comunidades rurais mapuches, o povo indígena ancestral da Patagônia do norte (Puel Mapu, na língua mapudungun) e da Araucanía chilena. Essas comunidades estão localizadas em áreas remotas, sujeitas às adversidades climáticas tanto do verão quanto do inverno patagônico, distantes ou muitas vezes isoladas, a centenas de quilômetros das cidades mais próximas, hospitais, escolas ou serviços essenciais básicos.
@@ -93,7 +95,7 @@ Estas foram as ferramentas utilizadas:
 
 As ferramentas de Mapeamento Aberto oferecem aos alunos e professores a oportunidade de realizar contribuições significativas para os mapas já estabelecidos, tornando-se um recurso pedagógico inovador e rentável. Essas ferramentas reduzem custos em comparação com opções mais caras. A maior vantagem reside no fato de que os usuários, ao conhecerem perfeitamente a área mapeada, podem enriquecer os mapas com informações precisas, que posteriormente serão validadas por especialistas.
 
-Essas ferramentas digitais facilitam o armazenamento, organização e coleta de novos dados durante atividades educativas. Este aspecto tem sido útil para os alunos, que agora se veem como agentes de mudança dentro da sociedade, podendo fornecer informações que anteriormente eram invisíveis para o coletivo. 
+Essas ferramentas digitais facilitam o armazenamento, organização e coleta de novos dados durante atividades educativas. Este aspecto tem sido útil para os alunos, que agora se veem como agentes de mudança dentro da sociedade, podendo fornecer informações que anteriormente eram invisíveis para o coletivo.
 
 ## Este blog foi escrito por:
 
