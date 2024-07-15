@@ -77,13 +77,13 @@ Estas fueron las herramientas utilizadas:
 
 * **OSMAND:** Es una aplicación de navegación y mapeo que utiliza datos de OpenStreetMap. Ofrece mapas offline y herramientas de navegación GPS, lo que la hace ideal para el uso en áreas sin cobertura de datos móviles.
 
-* \*\*OpenAerialMap: \*\*Es una plataforma que proporciona acceso a una colección de imágenes aéreas y satelitales de dominio público.
+* **OpenAerialMap:** Es una plataforma que proporciona acceso a una colección de imágenes aéreas y satelitales de dominio público.
 
-* \*\*OpenDroneMap: \*\*Es un software de código abierto que convierte imágenes capturadas por drones en modelos 3D y mapas ortomosaicos.
+* **OpenDroneMap:** Es un software de código abierto que convierte imágenes capturadas por drones en modelos 3D y mapas ortomosaicos.
 
-* \*\*Editor Java de OpenStreetMap (JOSM): \*\*Proporciona herramientas de primer orden para agregar datos al mapa de forma remota.
+* **Editor Java de OpenStreetMap (JOSM):** Proporciona herramientas de primer orden para agregar datos al mapa de forma remota.
 
-* \*\*uMap: \*\*Facilita la creación de relatos visuales combinando trazas con fotos y vídeos, y permite la elaboración de los mapas.
+* **uMap:** Facilita la creación de relatos visuales combinando trazas con fotos y vídeos, y permite la elaboración de los mapas.
 
 # Reflexiones sobre el Aprendizaje utilizando el Mapeo Abierto
 
