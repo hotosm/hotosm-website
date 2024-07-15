@@ -99,4 +99,4 @@ Essas ferramentas digitais facilitam o armazenamento, organização e coleta de 
 
 ## Este blog foi escrito por:
 
-![Blog luis Miguel Jaramillo OM4A.jpg](/uploads/Blog%20luis%20Miguel%20Jaramillo%20OM4A.jpg)
+![PT - Luis MIguel Bande Jaramillo.jpg](/uploads/PT%20-%20Luis%20MIguel%20Bande%20Jaramillo.jpg)

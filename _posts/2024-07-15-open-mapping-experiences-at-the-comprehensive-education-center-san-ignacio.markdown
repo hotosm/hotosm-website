@@ -95,6 +95,6 @@ Open Mapping tools offer students and teachers the opportunity to make significa
 
 These digital tools facilitate the storage, organization, and collection of new data during educational activities. This aspect has been useful for students, who now see themselves as agents of change within society, being able to provide information that was previously invisible to the collective.
 
-## This blog was written by:
+## This blog was written by: 
 
 ![EN - Luis MIguel Bande Jaramillo.jpg](/uploads/EN%20-%20Luis%20MIguel%20Bande%20Jaramillo.jpg)

@@ -8,7 +8,6 @@ Summary Text: A través del programa Open Mapping for All, docentes y estudiante
 Feature Image: "/uploads/Experiencias%20de%20Mapeo%20Abierto%20en%20el%20Centro%20de%20Educacio%CC%81n%20Integral%20%E2%80%9CSan%20Ignacio%E2%80%9D.jpg"
 Person:
 - Luis Miguel Bande Jaramillo
-- Mariana Marín
 Country:
 - Argentina
 Project:
