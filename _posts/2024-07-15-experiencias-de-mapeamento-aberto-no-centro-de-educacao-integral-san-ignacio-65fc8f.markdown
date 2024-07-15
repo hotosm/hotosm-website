@@ -74,11 +74,17 @@ Os alunos e professores utilizaram diversas ferramentas digitais para documentar
 Estas foram as ferramentas utilizadas:
 
 * **ID Editor:** Usado para editar informações dentro dos mapas já elaborados.
+
 * **Field Papers:** É uma ferramenta que permite aos usuários criar atlas de mapas personalizados em papel, sobre os quais podem fazer anotações à mão no campo.
+
 * **OSMAND:** É um aplicativo de navegação e mapeamento que utiliza dados do OpenStreetMap. Oferece mapas offline e ferramentas de navegação GPS, o que o torna ideal para uso em áreas sem cobertura de dados móveis.
+
 * **OpenAerialMap:** É uma plataforma que fornece acesso a uma coleção de imagens aéreas e de satélite de domínio público.
+
 * **OpenDroneMap:** É um software de código aberto que converte imagens capturadas por drones em modelos 3D e mapas ortomosaicos.
+
 * **Editor Java do OpenStreetMap (JOSM):** Fornece ferramentas de primeira ordem para adicionar dados ao mapa de forma remota.
+
 * **uMap:** Facilita a criação de narrativas visuais combinando traços com fotos e vídeos, e permite a elaboração de mapas.
 
 # Reflexões sobre o Aprendizado utilizando o Mapeamento Aberto
@@ -91,4 +97,4 @@ Essas ferramentas digitais facilitam o armazenamento, organização e coleta de 
 
 ## Este blog foi escrito por:
 
-![Blog luis Miguel Jaramillo OM4A.jpg](/uploads/Blog%20luis%20Miguel%20Jaramillo%20OM4A.jpg)
+![PT - Luis MIguel Bande Jaramillo.jpg](/uploads/PT%20-%20Luis%20MIguel%20Bande%20Jaramillo.jpg)
