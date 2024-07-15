@@ -58,7 +58,7 @@ Juan Bautista, estudiante de cuarto año, digitalizó en UMap un herbario que ha
 
 Nahuel, alumno de quinto año, mapeo todos los edificios productivos del CEI, detallando las actividades materias se cursan en dichos edificios. En cuatro grandes categorías, agregó descripciones, fotos, videos y datos curiosos como un carnero del colegio que tiene una cuenta de Instagram.
 
-<a href="https://www.instagram.com/tucopito_cei?utm_source=ig_web_button_share_sheet&amp%3Bigsh=ZDNlZDc0MzIxNw%3D%3D" target="_blank">Carnero del CEI</a>
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script> <div class="elfsight-app-25200f60-48a9-4c06-b7c7-f9e7e18b2647" data-elfsight-app-lazy></div>
 
 Este proyecto, completado en tres semanas, se usó en eventos como “Tranqueras Abiertas” y la cumbre de la Federación de Institutos Agrotécnicos Privados de la República Argentina (FEDIAP). y marcando un hito en el uso de las Tecnologías de la Información y las Comunicaciones (TICs) por parte del colegio.
 
