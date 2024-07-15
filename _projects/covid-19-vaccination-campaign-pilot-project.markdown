@@ -38,7 +38,7 @@ East & S. Africa: Somalia, Ethiopia, South Sudan, Sudan, DRC
 Asia-Pacific: Afghanistan, Bangladesh, Yemen
 Other: Syria, Iraq
 
-![map_gim@300x.png](https://www.hotosm.orghttps://cdn.hotosm.org/website/map_gim@300x.png)
+![map_gim@300x.png](https://cdn.hotosm.org/website/map_gim@300x.png)
 *Map showing GIM Initiative priority countries.*
 
 
@@ -51,7 +51,7 @@ However, to test the workflow before scaling, the team focused on South Sudan.
 
 “Through MapSwipe (MS), volunteers pinpoint where critical infrastructure and populations are located, allowing mappers to focus only on areas where they know features need to be mapped.” mapswipe.org*
 
-![map_gim@300x.png](https://www.hotosm.orghttps://cdn.hotosm.org/website/SDN_CV19_MS.png) 
+![map_gim@300x.png](https://cdn.hotosm.org/website/SDN_CV19_MS.png) 
 *Diagram showing the process taken to reduce the Area of Interest in South Sudan.*
 
 
@@ -61,6 +61,6 @@ However, to test the workflow before scaling, the team focused on South Sudan.
 
 Based on MapSwipe results, the team created 21 Tasking Manager projects for Western Equatoria. They are now completely mapped and have produced the following results: 
 
-![map_gim@300x.png](https://www.hotosm.orghttps://cdn.hotosm.org/website/SDN_CV19_results@300x.png)
+![map_gim@300x.png](https://cdn.hotosm.org/website/SDN_CV19_results@300x.png)
 *Infographic showing all projects AOI's and names in Western Equatoria.*
  
