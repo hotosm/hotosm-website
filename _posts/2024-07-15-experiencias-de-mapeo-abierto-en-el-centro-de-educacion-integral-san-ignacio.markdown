@@ -96,6 +96,6 @@ Las herramientas de Mapeo Abierto ofrecen a estudiantes y profesores la oportuni
 
 Estas herramientas digitales facilitan el almacenamiento, organización y recopilación de nuevos datos durante actividades educativas. Este aspecto ha sido útil para los estudiantes, quienes ahora se conciben como agentes de cambio dentro de la sociedad, al poder aportar información que anteriormente resultaba invisible para el colectivo.
 
-## This blog was written by:
+## Este blog fue escrito por:
 
-![EN - Luis MIguel Bande Jaramillo.jpg](/uploads/EN%20-%20Luis%20MIguel%20Bande%20Jaramillo.jpg)
+![Blog luis Miguel Jaramillo OM4A.jpg](/uploads/Blog%20luis%20Miguel%20Jaramillo%20OM4A.jpg)
