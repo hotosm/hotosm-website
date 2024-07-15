@@ -13,6 +13,8 @@ Project:
 - Open Mapping for All
 ---
 
+[Versión en español](https://www.hotosm.org/updates/experiencias-de-mapeo-abierto-en-el-centro-de-educacion-integral-san-ignacio/) / [Versão em português](https://www.hotosm.org/updates/experiencias-de-mapeamento-aberto-no-centro-de-educacao-integral-san-ignacio/)
+
 The Comprehensive Education Center "San Ignacio" (CEI) is the first school of the Patagonian Crusade Foundation (FCP) located 10 km from Junín de los Andes, Argentina. The "CEI" or the "Cruzada," as it is commonly called, is one of the leading educational and development institutions in the south of Neuquén.
 
 The CEI provides regular secondary education. It has a primary education program for adults living in rural Patagonia. Often, both young people and adults reside in remote areas or Mapuche rural communities, the ancestral indigenous people of northern Patagonia (Puel Mapu, in the Mapudungun language) and the Chilean Araucanía. These communities are located in remote areas, subjected to the climatic harshness of both the Patagonian summer and winter, far from or often isolated, hundreds of kilometers away from the nearest towns, hospitals, schools, or basic essential services.
@@ -72,11 +74,17 @@ Students and teachers used various digital tools to document the experience, ens
 These were the tools used:
 
 * **ID Editor:** Used to edit information within already created maps.
+
 * **Field Papers:** A tool that allows users to create customized map atlases on paper, on which they can make handwritten notes in the field.
+
 * **OSMAND:** A navigation and mapping application that uses OpenStreetMap data. It offers offline maps and GPS navigation tools, making it ideal for use in areas without mobile data coverage.
+
 * **OpenAerialMap:** A platform that provides access to a collection of publicly available aerial and satellite imagery.
+
 * **OpenDroneMap:** Open-source software that converts drone-captured images into 3D models and orthomosaic maps.
+
 * **OpenStreetMap Java Editor (JOSM):** Provides first-rate tools for adding data to the map remotely.
+
 * **uMap:** Facilitates creating visual narratives by combining traces with photos and videos and allows the creation of maps.
 
 # Reflections on Learning Using Open Mapping
