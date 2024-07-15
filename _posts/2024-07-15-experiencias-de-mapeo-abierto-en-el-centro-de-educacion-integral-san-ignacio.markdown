@@ -19,7 +19,7 @@ El Centro de Educación Integral “San Ignacio” (CEI)es el primer colegio de 
 
 El CEI brinda educación secundaria de manera regular. Tiene un programa de educación primaria para los adultos que viven en la ruralidad patagónica. Muchas veces, tanto jóvenes como adultos residen en parajes o comunidades rurales mapuches, el pueblo originario ancestral de la Patagonia norte (Puel Mapu, en la lengua mapudungun) y de la Araucanía chilena. Estas comunidades se encuentran en parajes remotos, sometidos a las inclemencias climáticas tanto del verano como del invierno patagónico-cordillerano, alejados o en muchos casos aislados, a cientos de kilómetros de las localidades más cercanas, de los hospitales, de los colegios o de los servicios esenciales básicos.
 
-Nuestra historia se desarrolla en un contexto enriquecido por la agreste naturaleza y la diversidad cultural. En el  Centro de Educación Integral “San Ignacio”, la educación técnica converge con el entusiasmo de docentes y estudiantes de quienes han descubierto grandes oportunidades en el uso de herramientas de mapeo abierto, a través de nuestro programa Open Mapping for All (OM4A). Docentes como Pablo Norambuena y Christian Hick, con el apoyo de Juan Manuel Stagnora, han apostado por el uso de herramientas de mapeo abierto para documentar, a través de capacitaciones personalizadas e instrumentos digitales, tanto las problemáticas de la institución como los intereses individuales de los estudiantes. A continuación, haremos un repaso de este esfuerzo.
+Nuestra historia se desarrolla en un contexto enriquecido por la agreste naturaleza y la diversidad cultural. En el  Centro de Educación Integral “San Ignacio”, la educación técnica converge con el entusiasmo de docentes y estudiantes de quienes han descubierto grandes oportunidades en el uso de herramientas de mapeo abierto, a través de nuestro programa Open Mapping for All (OM4A). Docentes como Pablo Norambuena y Christian Hick, con el apoyo de Juan Manuel Stagnaro, han apostado por el uso de herramientas de mapeo abierto para documentar, a través de capacitaciones personalizadas e instrumentos digitales, tanto las problemáticas de la institución como los intereses individuales de los estudiantes. A continuación, haremos un repaso de este esfuerzo.
 
 # Resolviendo Problemas de Infraestructura Escolar con Mapeo Abierto
 
@@ -93,3 +93,7 @@ Estas fueron las herramientas utilizadas:
 Las herramientas de Mapeo Abierto ofrecen a estudiantes y profesores la oportunidad de poder realizar aportes significativos a los mapas ya establecidos, convirtiéndose en un recurso pedagógico innovador y rentable. Estas herramientas reducen costos en comparación con opciones más caras. La mayor ventaja radica en que los usuarios, al conocer perfectamente la zona mapeada, pueden enriquecer los mapas con información precisa, que posteriormente será validada por expertos.
 
 Estas herramientas digitales facilitan el almacenamiento, organización y recopilación de nuevos datos durante actividades educativas. Este aspecto ha sido útil para los estudiantes, quienes ahora se conciben como agentes de cambio dentro de la sociedad, al poder aportar información que anteriormente resultaba invisible para el colectivo.
+
+## This blog was written by:
+
+![Blog luis Miguel Jaramillo OM4A.jpg](/uploads/Blog%20luis%20Miguel%20Jaramillo%20OM4A.jpg)
