@@ -1,12 +1,13 @@
 ---
 title: Experiências de Mapeamento Aberto no Centro de Educação Integral "San Ignacio"
-date: 2024-07-15 22:10:00 Z
+date: 2024-07-15 20:09:00 Z
 Summary Text: Através do programa Open Mapping for All, docentes e estudantes de uma
   instituição educativa na Patagônia Argentina, empregam ferramentas de Mapeamento
   Aberto para documentar, reconhecer e melhorar a infraestrutura física escolar, ao
   mesmo tempo que se conectam com seu entorno e seus valores culturais.
 Feature Image: "/uploads/Experiencias%20de%20Mapeo%20Abierto%20en%20el%20Centro%20de%20Educacio%CC%81n%20Integral%20%E2%80%9CSan%20Ignacio%E2%80%9D.jpg"
-Person: Luis Miguel Bande Jaramillo
+Person:
+- Luis Miguel Bande Jaramillo
 Country:
 - Argentina
 Project:
@@ -97,4 +98,4 @@ Essas ferramentas digitais facilitam o armazenamento, organização e coleta de 
 
 ## Este blog foi escrito por:
 
-![PT - Luis MIguel Bande Jaramillo.jpg](/uploads/PT%20-%20Luis%20MIguel%20Bande%20Jaramillo.jpg)
+![PT - Luis MIguel Bande Jaramillo.jpg](/uploads/PT%20-%20Luis%20MIguel%20Bande%20Jaramillo.jpg) 
