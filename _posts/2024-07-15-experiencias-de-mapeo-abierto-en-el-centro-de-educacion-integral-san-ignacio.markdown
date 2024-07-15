@@ -48,7 +48,7 @@ La situación anteriormente referida, se convirtió en un sentimiento generaliza
 
 Yamila, una alumna de Paso Aguerre, mapeó su área para planificar futuros  canales de riego y aumentar la productividad agrícola.
 
-Otro ejemplo lo vivieron María y Trinidad, amigas y estudiantes de 5to año. Ambas alumnas son oriundas de Laguna Blanca, un paraje en el centro de la Provincia de Neuquén dentro del Parque Nacional Laguna Blanca. Gran parte de los habitantes de mapuches ancestrales que practican la ganadería trashumante. Es una región extensa e inhóspita, donde las viviendas de los pobladores están muy distanciadas entre sí. María y Trinidad realizaron un mapa exhaustivo donde no dejaron ni un edificio sin georreferenciar, empleando una gran diversidad de etiquetas. Su trabajo no terminó allí, puesto que ellas continuaron con las mismas tareas en el área de la Villa del Puente Picún Leufú, donde demarcaron más edificios. Esto demuestra que muchas localidades merecen ser ubicadas para dejar de ser  “invisibles” ante el mundo.
+Otro ejemplo lo vivieron María y Trinidad, amigas y estudiantes de quinto año. Ambas alumnas son oriundas de Laguna Blanca, un paraje en el centro de la Provincia de Neuquén dentro del Parque Nacional Laguna Blanca. Gran parte de los habitantes de mapuches ancestrales que practican la ganadería trashumante. Es una región extensa e inhóspita, donde las viviendas de los pobladores están muy distanciadas entre sí. María y Trinidad realizaron un mapa exhaustivo donde no dejaron ni un edificio sin georreferenciar, empleando una gran diversidad de etiquetas. Su trabajo no terminó allí, puesto que ellas continuaron con las mismas tareas en el área de la Villa del Puente Picún Leufú, donde demarcaron más edificios. Esto demuestra que muchas localidades merecen ser ubicadas para dejar de ser  “invisibles” ante el mundo.
 
 ![4-1902d9.jpg](/uploads/4-1902d9.jpg)
 
@@ -72,18 +72,18 @@ Los estudiantes y profesores emplearon diversas herramientas digitales para docu
 
 Estas fueron las herramientas utilizadas:
 
-* **ID Editor: **Se usó para editar información dentro de los mapas ya elaborados.
+* \*\*ID Editor: \*\*Se usó para editar información dentro de los mapas ya elaborados.
   Field Papers: Es una herramienta que permite a los usuarios crear atlas de mapas personalizados en papel, sobre los cuales pueden realizar anotaciones a mano en el campo.
 
 * **OSMAND:** Es una aplicación de navegación y mapeo que utiliza datos de OpenStreetMap. Ofrece mapas offline y herramientas de navegación GPS, lo que la hace ideal para el uso en áreas sin cobertura de datos móviles.
 
-* **OpenAerialMap: **Es una plataforma que proporciona acceso a una colección de imágenes aéreas y satelitales de dominio público.
+* \*\*OpenAerialMap: \*\*Es una plataforma que proporciona acceso a una colección de imágenes aéreas y satelitales de dominio público.
 
-* **OpenDroneMap: **Es un software de código abierto que convierte imágenes capturadas por drones en modelos 3D y mapas ortomosaicos.
+* \*\*OpenDroneMap: \*\*Es un software de código abierto que convierte imágenes capturadas por drones en modelos 3D y mapas ortomosaicos.
 
-* **Editor Java de OpenStreetMap (JOSM): **Proporciona herramientas de primer orden para agregar datos al mapa de forma remota.
+* \*\*Editor Java de OpenStreetMap (JOSM): \*\*Proporciona herramientas de primer orden para agregar datos al mapa de forma remota.
 
-* **uMap: **Facilita la creación de relatos visuales combinando trazas con fotos y vídeos, y permite la elaboración de los mapas.
+* \*\*uMap: \*\*Facilita la creación de relatos visuales combinando trazas con fotos y vídeos, y permite la elaboración de los mapas.
 
 # Reflexiones sobre el Aprendizaje utilizando el Mapeo Abierto
 
