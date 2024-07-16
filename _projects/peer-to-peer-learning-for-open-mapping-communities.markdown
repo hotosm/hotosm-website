@@ -16,10 +16,6 @@ Country:
 - Tanzania
 - Uganda
 Impact Area:
-- Displacement & Safe Migration
-- Disasters & Climate Resilience
-- Gender Equality
-- Public Health
 - Sustainable Cities & Communities
 Person:
 - Shazmane Mandjee Rehamtula
