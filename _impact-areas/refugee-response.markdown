@@ -16,6 +16,7 @@ block-1:
     squatting  in urban or rural settings. Women and minors are often disproportionately
     affected. Limited resources for migrants, especially in host communities, require
     accurate geospatial data to ensure efficient support of those in need.
+  intro2: "Understanding our physical environment through daily realities is key to solving global challenges. Open mapping enables informed actions by humanitarian and development organizations.**With over 100 million people displaced, accurate geospatial data supports migrants by locating routes, planning shelters, and tracking essential services.** OSM datasets aid in mapping refugee sites, assessing service gaps, and understanding migration's economic drivers, ensuring efficient support for those in need."
   sub-block:
     title: Open Mapping in Displacement & Safe Migration
     points:

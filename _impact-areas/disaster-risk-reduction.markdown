@@ -15,6 +15,7 @@ block-1:
     impacting vulnerable populations. As communities and organizations work towards
     a more resilient future, Open map data is critical to understanding risk and taking
     anticipatory action to mitigate the impact of disasters, intended-outcomes.
+  intro2: "Open mapping through initiatives like [OpenStreetMap (OSM)](https://www.openstreetmap.org) plays a crucial role in addressing global challenges by bridging personal experiences with broader environmental understanding. It facilitates collaborative efforts among humanitarian, development, and community organizations to make **well-informed, context-specific decisions. Impact Areas such as Disaster and Climate Resilience utilize open mapping to identify and respond to vulnerabilities. By integrating real-world data from OSM, including infrastructure details and population distributions,** these efforts enhance disaster preparedness, response, and recovery. This collaborative approach not only identifies areas at risk from natural hazards but also supports proactive measures to mitigate future impacts, ensuring communities are better equipped to withstand environmental changes."
   sub-block:
     title: Open Mapping in Disasters & Climate Resilience
     points:
