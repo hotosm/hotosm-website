@@ -1,9 +1,9 @@
 ---
 title: 2024 Hurricane Beryl Response
 date: 2024-07-02 04:02:00 Z
-Project Summary Text: Tropical Storm Alberto and Hurricaine Beryl have caused significant
+Project Summary Text: Tropical Storm Alberto and Hurricane Beryl have caused significant
   disruptions in the Caribbean and South Mexico, prompting authorities to activate
-  emergency shelters.
+  emergency shelters, and anticipatory mapping of the damages.
 Feature Image: "/uploads/Huracanes%20Alberto%20y%20Beryl%20-%20Mapeo%20de%20Refugios%20en%20Quintana%20Roo.jpg"
 Country:
 - Mexico
