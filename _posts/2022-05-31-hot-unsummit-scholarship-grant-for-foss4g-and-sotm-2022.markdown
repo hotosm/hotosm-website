@@ -1,6 +1,7 @@
 ---
 title: HOT unSummit Scholarship Grant for FOSS4G & SotM 2022
 date: 2022-05-31 12:20:00 Z
+published: false
 Summary Text: The HOT unSummit is offering travel funding for active HOT and humanitarian
   open mapping / open data contributors and community members to attend two of the
   conferences we are supporting, FOSS4G and SOTM. Apply now!
