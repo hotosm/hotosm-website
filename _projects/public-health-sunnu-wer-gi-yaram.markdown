@@ -13,6 +13,7 @@ Country:
 - Senegal
 Impact Area:
 - Public Health
+Highlight: "Public Health"
 Partner:
 - OSM Senegal
 - Marie Stopes Senegal

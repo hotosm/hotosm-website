@@ -10,6 +10,8 @@ Country:
 - Timor-Leste
 Impact Area:
 - Disasters & Climate Resilience
+- Sustainable Cities & Communities
+Highlight: "Sustainable Cities & Communities"
 Partner:
 - World Vision Timor-Leste
 - Simile Timor-Leste

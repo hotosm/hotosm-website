@@ -12,6 +12,7 @@ Country:
 - Syria
 Impact Area:
 - Disasters & Climate Resilience
+Highlight: "Disasters & Climate Resilience"
 Person:
 - Can Unen
 - Harry Mahardhika Machmud

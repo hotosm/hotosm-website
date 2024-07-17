@@ -7,6 +7,7 @@ Country:
 - Uganda
 Impact Area:
 - Gender Equality
+Highlight: "Gender Equality"
 Partner:
 - The Centre for Life Change
 Duration:
