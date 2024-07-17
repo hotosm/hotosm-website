@@ -15,6 +15,7 @@ block-1:
     and communities to collaborate for more efficient access to basic services. Better
     mapping can lead to informed planning and better and more equitable living conditions
     in communities and informal settlements.
+  intro2: "Solving global challenges at the community level requires understanding our physical environment through daily realities. Open mapping helps develop this understanding, enabling informed, locally-appropriate actions by humanitarian, development, and community organizations. HOT's work in this area, in partnership with local actors and governments connect open map data through [OpenStreetMap (OSM)](https://www.openstreetmap.org) and other platforms with real-world applications, focusing on **supporting decision-making for water, sanitation, transportation, energy, pollution mapping, urban planning, education and addressing service gaps. Accessible maps and spatial data enhance information availability for communities and officials, ensuring effective public services.**"
   sub-block:
     title: Open Mapping in Sustainable Cities & Communities
     points:
