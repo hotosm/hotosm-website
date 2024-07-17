@@ -15,7 +15,7 @@ Page Contact:
 	</tr>
 	<tr>
 		<td>Application close date:</td>
-		<td style="border-left: 1px solid black">31st July 2024</td>
+		<td style="border-left: 1px solid black">July 31st 2024</td>
 	</tr>
 	<tr>
 		<td>Duration of project:</td>
@@ -137,6 +137,6 @@ The maximum budget for this assignment is $25k. Payment is initiated based on an
 
 ## Application Process
 
-Interested developer(s) (individuals, organizations, or teams) can send a maximum 1-page cover letter and CV(s)/portfolio(s) to [tech-data@hotosm.org](tech-data@hotosm.org) and/or [omran.najjar@hotosm.org](omran.najjar@hotosm.org) by 31st July 2024.
+Interested developer(s) (individuals, organizations, or teams) can send a maximum 1-page cover letter and CV(s)/portfolio(s) to [tech-data@hotosm.org](tech-data@hotosm.org) and/or [omran.najjar@hotosm.org](omran.najjar@hotosm.org) by July 31st 2024.
 
 HOT will invite shortlisted applicants for an interview and preserve the right to start interviews on a rolling basis following applications as they are received.
