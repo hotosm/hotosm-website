@@ -1,6 +1,7 @@
 ---
 title: HOT Philippines as of August 2020
 date: 2020-08-27 07:46:00 Z
+published: false
 categories:
 - news
 - philippines

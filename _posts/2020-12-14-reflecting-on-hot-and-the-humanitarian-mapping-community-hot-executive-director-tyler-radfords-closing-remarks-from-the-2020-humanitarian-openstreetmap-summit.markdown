@@ -2,6 +2,7 @@
 title: 'Reflecting on HOT and the Humanitarian Mapping Community: HOT Executive Director
   Tyler Radford''s closing remarks from the 2020 Humanitarian OpenStreetMap Summit'
 date: 2020-12-14 10:50:00 Z
+published: false
 Summary Text: At the HOT Summit, Tyler Radford shared his thoughts on the relationship
   between HOT and the worldwide humanitarian mapping community. This has come as a
   part of an ongoing conversation within HOT and the wider community. He outlined

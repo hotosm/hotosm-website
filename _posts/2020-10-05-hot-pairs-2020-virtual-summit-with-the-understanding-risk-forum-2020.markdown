@@ -1,6 +1,7 @@
 ---
 title: HOT Pairs 2020 Virtual Summit with the Understanding Risk Forum 2020
 date: 2020-10-05 16:52:00 Z
+published: false
 Summary Text: HOT pairs 2020 Virtual Summit with the Understanding Risk Forum 2020
 Feature Image: https://cdn.hotosm.org/website/IMG_0736.JPG
 Is image top aligned: true

@@ -2,6 +2,7 @@
 title: 'Facebook Community Impact Microgrants: Up to $5K available to OSM communities
   in East Africa and Asia'
 date: 2020-12-07 23:57:00 Z
+published: false
 categories:
 - microgrants
 tags:

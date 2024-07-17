@@ -1,6 +1,7 @@
 ---
 title: Voting Membership Elects New Board Member in Special Election
 date: 2020-10-19 16:12:00 Z
+published: false
 ---
 
 Over the past several weeks, the HOT Voting Membership has elected [Maning Sambale](https://www.hotosm.org/people/maning-sambale/) to the HOT Board of Directors, filling the seat vacated by Pete Masters in September. 
