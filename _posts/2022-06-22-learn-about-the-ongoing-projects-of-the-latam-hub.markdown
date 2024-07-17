@@ -1,6 +1,7 @@
 ---
 title: Learn about the ongoing projects of the LATAM hub!
 date: 2022-06-22 03:28:00 Z
+published: false
 categories:
 - Mapping
 tags:
