@@ -1,6 +1,7 @@
 ---
 title: Bourse d'études HOT unSummit pour FOSS4G & SotM 2022
 date: 2022-05-31 00:18:00 Z
+published: false
 Summary Text: Le HOT unSummit offre un financement de voyage aux contributeurs et
   membres de la communauté HOT et aux membres actifs dans le domaine de la cartographie
   et des données ouvertes et humanitaires, afin qu'ils puissent assister à deux des
