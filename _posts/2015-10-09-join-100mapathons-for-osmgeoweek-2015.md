@@ -1,16 +1,16 @@
 ---
 title: 'Join #100mapathons for OSMGeoWeek 2015!'
-date: 2015-10-09 11:59:57 Z
+date: 2015-10-09 11:59:00 Z
 permalink: updates/2015-10-09_join_#100mapathons_for_osmgeoweek_2015!
+published: false
 Summary Text: La semaine internationale de sensibilisation à la géographie (Geography
   Awareness Week) aura lieu du 15 au 21 Novembre. L’équipe HOT (Humanitarian Open
   Street Map Team), en partenariat avec le projet Missing Maps, ont l'intention d'y
   participer massivement cette année !
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mapathon_Bangladesh_Jan15.jpg
 Person: Pete Masters
-Working Group: []
 Project:
 - Missing Maps
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mapathon_Bangladesh_Jan15.jpg
 created: 1444391997
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: HOT launches $50,000 crowdfunding campaign - donate today!
-date: 2015-11-06 15:41:36 Z
+date: 2015-11-06 15:41:00 Z
 permalink: updates/2015-11-06_hot_launches_$50000_crowdfunding_campaign_-_donate_today!
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/twitter-card-large.jpg
 Person: Tyler Radford
-Working Group: []
 Project:
 - Donate to HOT today
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/twitter-card-large.jpg
 created: 1446824496
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: The new OSM Export Tool is Live
-date: 2015-10-06 15:02:45 Z
+date: 2015-10-06 15:02:00 Z
 permalink: updates/2015-10-06_the_new_osm_export_tool_is_live
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/export_tool.png
 Person: Mhairi O'Hara
-Working Group: []
 Project:
 - Export Tool
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/export_tool.png
 created: 1444143765
 ---
 

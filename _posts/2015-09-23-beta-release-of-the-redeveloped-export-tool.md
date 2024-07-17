@@ -1,13 +1,14 @@
 ---
 title: Beta Release of the Redeveloped Export Tool
-date: 2015-09-23 04:45:49 Z
+date: 2015-09-23 04:45:00 Z
 permalink: updates/2015-09-23_beta_release_of_the_redeveloped_export_tool
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/osm.png
 Person: Mhairi O'Hara
 Working Group:
 - Technical
 Project:
 - Export Tool
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/osm.png
 created: 1442983549
 ---
 

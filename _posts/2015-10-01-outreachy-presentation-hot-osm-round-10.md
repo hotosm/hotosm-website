@@ -1,12 +1,12 @@
 ---
 title: Outreachy Presentation | HOT OSM Round 10
-date: 2015-10-01 09:42:44 Z
+date: 2015-10-01 09:42:00 Z
 permalink: updates/2015-10-01_outreachy_presentation_|_hot_osm_round_10
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/youtube.png
 Person: Mhairi O'Hara
-Working Group: []
 Project:
 - Outreachy
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/youtube.png
 created: 1443692564
 ---
 

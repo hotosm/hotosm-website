@@ -1,12 +1,12 @@
 ---
 title: Small UAS for Humanitarian Mapping
-date: 2015-08-13 00:00:36 Z
+date: 2015-08-13 00:00:00 Z
 permalink: updates/2015-08-13_small_uas_for_humanitarian_mapping
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/ebee.png
 Person: Cristiano Giovando
-Working Group: []
 Project:
 - OpenAerialMap
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/ebee.png
 created: 1439424036
 ---
 

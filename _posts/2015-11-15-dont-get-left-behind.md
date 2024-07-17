@@ -1,17 +1,18 @@
 ---
 title: Don't get left behind...
-date: 2015-11-15 18:10:04 Z
+date: 2015-11-15 18:10:00 Z
 permalink: updates/2015-11-15_don't_get_left_behind
+published: false
 Summary Text: 'The buzz of Geography Awareness Week, has reached far corners of the
   world. This year’s  theme “Explore! The Power of Maps” has inspired more than  60
   groups  to join HOT and the Missing Maps partners during November 15 – 21 in support
   of Geography Awareness Week. '
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/ZimbabweRC.png
 Person: Russell Deffner
 Working Group:
 - Community
 Project:
 - Missing Maps
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/ZimbabweRC.png
 created: 1447611004
 ---
 

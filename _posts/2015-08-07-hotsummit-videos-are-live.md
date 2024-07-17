@@ -1,10 +1,9 @@
 ---
 title: "#HOTSummit Videos are Live!"
-date: 2015-08-07 17:55:55 Z
+date: 2015-08-07 17:55:00 Z
 permalink: updates/2015-08-07_#hotsummit_videos_are_live!
+published: false
 Person: Kristen Egermeier
-Working Group: []
-Project: []
 created: 1438970155
 ---
 

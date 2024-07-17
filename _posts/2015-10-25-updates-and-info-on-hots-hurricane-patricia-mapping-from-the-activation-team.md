@@ -1,7 +1,8 @@
 ---
 title: Updates and info on HOT's Hurricane Patricia mapping from the Activation Team
-date: 2015-10-25 13:57:50 Z
+date: 2015-10-25 13:57:00 Z
 permalink: updates/2015-10-25_updates_and_info_on_hot's_hurricane_patricia_mapping_from_the_activation_team
+published: false
 Summary Text: 'HOT, en coordinación con la comunidad mexicana de OSM, ha sido activada
   durante los dos últimos días, atendiendo al progreso del huracán y mapeando las
   áreas vulnerables en su camino. Tenemos dos tareas de mapeado abiertas en el OSM
@@ -10,14 +11,14 @@ Summary Text: 'HOT, en coordinación con la comunidad mexicana de OSM, ha sido a
   pero estamos monitorizando la situación en caso de que deslaves, inundaciones, u
   otros peligros posteriores al huracán generen situaciones humanitarias en las que
   podamos contribuir.'
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/EMSR144-copernicus.jpg
 Person: Blake Girardot
 Working Group:
 - Activation
-Project:
-- 'Disaster Activation: Hurricane Patricia 2015'
 Country:
 - Mexico
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/EMSR144-copernicus.jpg
+Project:
+- 'Disaster Activation: Hurricane Patricia 2015'
 created: 1445781470
 ---
 

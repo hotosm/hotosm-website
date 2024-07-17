@@ -1,12 +1,12 @@
 ---
 title: End of the Outreachy Program Round 10
-date: 2015-08-27 10:35:27 Z
+date: 2015-08-27 10:35:00 Z
 permalink: updates/2015-08-27_end_of_the_outreachy_program_round_10
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/save.png
 Person: Mhairi O'Hara
-Working Group: []
 Project:
 - Outreachy
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/save.png
 created: 1440671727
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: Alpha Release of the Redeveloped Export Tool
-date: 2015-08-31 19:40:27 Z
+date: 2015-08-31 19:40:00 Z
 permalink: updates/2015-08-31_alpha_release_of_the_redeveloped_export_tool_
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/export_tool.png
 Person: Mhairi O'Hara
-Working Group: []
 Project:
 - Export Tool
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/export_tool.png
 created: 1441050027
 ---
 

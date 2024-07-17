@@ -1,12 +1,12 @@
 ---
 title: HOT Announces Tyler Radford as our Executive Director
-date: 2015-10-02 20:22:28 Z
+date: 2015-10-02 20:22:00 Z
 permalink: updates/2015-10-02_hot_announces_tyler_radford_as_our_executive_director
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Tyler+dar+2(1).jpg
 Person: Heather Leson
 Working Group:
 - Community
-Project: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Tyler+dar+2(1).jpg
 created: 1443817348
 ---
 

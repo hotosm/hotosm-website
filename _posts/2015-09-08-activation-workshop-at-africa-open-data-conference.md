@@ -1,18 +1,19 @@
 ---
 title: Activation Workshop at Africa Open Data Conference
-date: 2015-09-08 18:57:51 Z
+date: 2015-09-08 18:57:00 Z
 permalink: updates/2015-09-08_activation_workshop_at_africa_open_data_conference
+published: false
 Summary Text: The first workshop for the HOT Activation Curriculum was held during
   the pre-conference events of the first Africa Open Data Conference. The conference
   facilitated discussion around the benefit of Open Data on the African continent
   including lessons learned from around the globe. HOT is grateful to have been invited
   to participate in the conference and conduct our Activation workshop.
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/activation.jpg
 Person: Russell Deffner
 Working Group:
 - Activation
 Project:
 - HOT Training Center
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/activation.jpg
 created: 1441738671
 ---
 
