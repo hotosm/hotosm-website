@@ -1,6 +1,7 @@
 ---
 title: Getting to grips on tag quality with MapCampaigner
 date: 2018-09-25 08:20:00 Z
+published: false
 tags:
 - tech
 Summary Text: Last year at State of the Map in Boulder we announced a new tool called

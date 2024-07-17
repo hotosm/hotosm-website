@@ -1,6 +1,7 @@
 ---
 title: HOT Conversations at State of the Map 2018
 date: 2018-07-28 09:39:00 Z
+published: false
 Feature Image: https://cdn.hotosm.org/website/IMG_3803-small.JPG
 Person:
 - Nate Smith

@@ -1,6 +1,7 @@
 ---
 title: 'Integrating Machine Learning into the Tasking Manager: Notes on a Direction'
 date: 2018-09-17 16:12:00 Z
+published: false
 tags:
 - tech
 Summary Text: We're moving towards how we leverage machine learning tools to improve

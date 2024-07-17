@@ -1,6 +1,7 @@
 ---
 title: Open Imagery for Humanitarian Mapping
 date: 2018-09-19 11:13:00 Z
+published: false
 tags:
 - tech
 Summary Text: Analysis of imagery source use within the Tasking Manager
