@@ -1,12 +1,12 @@
 ---
 title: Supporting Humanitarian Response with Better Imagery Coordination
-date: 2016-11-23 21:53:28 Z
+date: 2016-11-23 21:53:00 Z
 permalink: updates/2016-11-23_supporting_humanitarian_response_with_better_imagery_coordination
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/imagery-coord-wireframes-compressor+copy.png
 Person: Cristiano Giovando
-Working Group: []
 Project:
 - OpenAerialMap
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/imagery-coord-wireframes-compressor+copy.png
 created: 1479938008
 ---
 

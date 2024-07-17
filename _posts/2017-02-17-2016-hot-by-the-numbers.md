@@ -2,12 +2,12 @@
 title: 2016 HOT by the Numbers
 date: 2017-02-17 06:00:00 Z
 permalink: updates/2017-02-17_2016_hot_by_the_numbers
+published: false
 Summary Text: We've put together some of the 2016 highlights so you can see what we've
   been up to and the amazing impact of the HOT community!
 Person: Rachel VanNice
 Working Group:
 - Communications
-Project: []
 created: 1487311200
 ---
 

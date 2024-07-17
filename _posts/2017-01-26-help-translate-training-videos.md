@@ -1,13 +1,14 @@
 ---
 title: Help Translate Training Videos
-date: 2017-01-26 04:13:51 Z
+date: 2017-01-26 04:13:00 Z
 permalink: updates/2017-01-26_help_translate_training_videos
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-01-25+at+8.11.04+PM.png
 Person: Dale Kunce
 Working Group:
 - Training
 Project:
 - Missing Maps
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-01-25+at+8.11.04+PM.png
 created: 1485404031
 ---
 

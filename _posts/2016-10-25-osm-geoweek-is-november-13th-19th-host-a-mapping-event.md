@@ -1,11 +1,10 @@
 ---
 title: 'OSM GeoWeek is November 13th-19th: Host a Mapping Event!'
-date: 2016-10-25 15:53:49 Z
+date: 2016-10-25 15:53:00 Z
 permalink: updates/2016-10-25_osm_geoweek_is_november_13th-19th_host_a_mapping_event!
-Person: Tyler Radford
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MapOff_GWU.jpg
+Person: Tyler Radford
 created: 1477410829
 ---
 

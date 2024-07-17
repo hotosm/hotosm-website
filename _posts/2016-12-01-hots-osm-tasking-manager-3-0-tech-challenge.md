@@ -1,15 +1,16 @@
 ---
 title: HOT's OSM Tasking Manager 3.0 Tech Challenge
-date: 2016-12-01 18:58:53 Z
+date: 2016-12-01 18:58:00 Z
 permalink: updates/2016-12-01_hot's_osm_tasking_manager_30_tech_challenge
+published: false
 Summary Text: Humanitarian OpenStreetMap Team (HOT) is seeking proposals for the design
   and implementation of the next generation of its OSM Tasking Manager2 (TM2) software.
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2016-12-01_14h49_35.png
 Person: Blake Girardot
 Working Group:
 - Training
 Project:
 - OSM Tasking Manager 3.0 Development
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2016-12-01_14h49_35.png
 created: 1480618733
 ---
 

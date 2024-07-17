@@ -2,6 +2,7 @@
 title: Growing OpenAerialMap with Responsible Imagery
 date: 2017-02-13 10:46:00 Z
 permalink: updates/2017-02-13_growing_openaerialmap_with_responsible_imagery
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen-Shot-2017-02-13-at-1.00.49-PM-compressor.png
 Person: Nate Smith
 Project:

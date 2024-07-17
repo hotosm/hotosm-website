@@ -1,7 +1,8 @@
 ---
 title: HOT's OSM Tasking Manager 3.0 Development Kick-Off!!
-date: 2016-12-01 23:02:59 Z
+date: 2016-12-01 23:02:00 Z
 permalink: updates/2016-12-01_hot's_osm_tasking_manager_30_development_kick-off!!
+published: false
 Person: Blake Girardot
 Working Group:
 - Training
