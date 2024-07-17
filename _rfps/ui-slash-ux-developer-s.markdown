@@ -28,7 +28,7 @@ Page Contact:
 	</tr>
 <tr>
 		<td>Type of contract:</td>
-		<td style= "border-left: 1px solid black">Temporary, contractor, open for individuals, organizations or teams</td>
+		<td style= "border-left: 1px solid black">Temporary contractor. Open for individuals, organizations or teams</td>
 	</tr>
 <tr>
 		<td>Supervision:</td>
@@ -46,13 +46,13 @@ In 2020, the work of the HOT community was recognized by [TED's Audacious Projec
 
 ## Background
 
-HOT has implemented an AI-assisted mapping initiative, [fAIr](https://www.hotosm.org/tech-suite/fair/), that empowers end users to create their own localized AI models (computer vision models). The target end users are humanitarian mappers in HOT's priority countries. Fair is an open-source project, and all source code is available on [GitHub](https://github.com/hotosm/fAIr). The awarded developer(s) would contribute pull requests to the GitHub repository and maintain the credit of their contributions. Currently, the project source code includes a front-end project in ReactJS and a back-end project in GeoDjango to handle the API. Full API documentation is available with redoc, which will be the reference for the developer(s) who will implement the required work.
+HOT has implemented an AI-assisted mapping initiative, [fAIr](https://www.hotosm.org/tech-suite/fair/), that empowers end users to create their own localized AI models (computer vision models). The target end users are humanitarian mappers in HOT's priority countries. fAIr is an open-source project, and all source code is available on [GitHub](https://github.com/hotosm/fAIr). The awarded developer(s) would contribute pull requests to the GitHub repository and maintain the credit of their contributions. Currently, the project source code includes a front-end project in ReactJS and a back-end project in GeoDjango to handle the API. Full API documentation is available with [redoc](https://api-prod.fair.hotosm.org/api/swagger/), which will be the reference for the developer(s) who will implement the required work.
 
 The front end is already developed using ReactJS and Leaflet for maps, so knowledge and experience working with maps are crucial for this assignment.
 
 ## Objective of the Assignment
 
-HOT is aiming to refactor the whole user interface and increase the user experience (UX) based on suggestions from UX suggestions from community members and advice/recommendations from the awarded UI/UX developer(s).
+HOT is aiming to refactor the whole user interface and increase the user experience (UX) based on suggestions from community members and advice/recommendations from the awarded UI/UX developer(s).
 
 ## Scope of Work
 
@@ -74,9 +74,9 @@ University degree(s) in software development, information systems, computer scie
 
 ### Experience
 
-* At least 5 years of professional experience in front-end development;
-* Experience in user interface/user experience design and implementation;
-* Experience in building production-ready projects from scratch using ReactJS, VueJS, NextJS, or other;
+* At least 5 years of professional experience in front-end development
+* Experience in user interface/user experience design and implementation
+* Experience in building production-ready projects from scratch using ReactJS, VueJS, NextJS, or other
 * Experience in working with mapping libraries such as OpenLayers, Leaflet, maplibre, or other open-source libraries is crucial
 * Experience in using geospatial REST APIs
 * Planning/organizational skills
@@ -110,7 +110,7 @@ The maximum budget for this assignment is $25k. Payment is initiated based on an
 <td style="border-left: 1px solid black">$2500</td>
 	</tr>
 	<tr>
-		<td>Approved pull request (PR) with mockups for the navigation among all</td>
+		<td>Approved pull request (PR) with mockups for the navigation among all pages</td>
 		<td style="border-left: 1px solid black">20 days (4 weeks)</td>
 <td style="border-left: 1px solid black">$5000</td>
 	</tr><tr>
