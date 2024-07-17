@@ -1,6 +1,7 @@
 ---
 title: 'HOT: A Love Letter'
 date: 2022-12-06 18:58:00 Z
+published: false
 Summary Text: HOT Executive Director Tyler Radford shares reflections on seven years
   with the organization, how it has evolved, and what he sees in its future.
 Feature Image: https://cdn.hotosm.org/website/State+of+the+Map+2022+Tyler+Post.jpeg
