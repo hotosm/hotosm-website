@@ -1,7 +1,8 @@
 ---
 title: Next Generation HOT Export Tool - Version 3
-date: 2017-03-17 05:20:52 Z
+date: 2017-03-17 05:20:00 Z
 permalink: updates/2017-03-17_next_generation_hot_export_tool_-_version_3
+published: false
 Summary Text: The HOT Export Tool allows users to create custom OpenStreetMap (OSM)
   exports for various regions, by specifying an area of interest and a list of features.
   Within minutes, up-to-date OSM data is extracted for the area and filtered based
@@ -10,13 +11,12 @@ Summary Text: The HOT Export Tool allows users to create custom OpenStreetMap (O
   the OSM community with a tool to meet their data extraction needs. Numerous feature
   enhancements have been requested and an overall update to the software will improve
   its performance.
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-03-17+at+13.26.38.png
 Person: Mhairi O'Hara
-Working Group: []
-Project:
-- 'Disaster Early Warning And Capacity Building: InAWARE'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-03-17+at+13.26.38.png
+Project:
+- 'Disaster Early Warning And Capacity Building: InAWARE'
 created: 1489728052
 ---
 

@@ -1,13 +1,14 @@
 ---
 title: 'HOT Microgrants 2017: Results'
-date: 2017-04-20 17:08:08 Z
+date: 2017-04-20 17:08:00 Z
 permalink: updates/2017-04-20_hot_microgrants_2017_results
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017+microgrants_0.png
 Person: Rebecca Firth
 Working Group:
 - Community
 Project:
 - 'Community development: Microgrants and Device Grants'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017+microgrants_0.png
 created: 1492708088
 ---
 

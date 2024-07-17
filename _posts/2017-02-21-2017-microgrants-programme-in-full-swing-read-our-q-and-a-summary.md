@@ -2,6 +2,7 @@
 title: 2017 Microgrants Programme in full swing - read our Q&A summary
 date: 2017-02-21 19:07:00 Z
 permalink: updates/2017-02-21_2017_microgrants_programme_in_full_swing_-_read_our_q&a_summary
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017+microgrants_0.png
 Person: Rebecca Firth
 Project:

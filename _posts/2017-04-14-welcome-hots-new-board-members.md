@@ -1,10 +1,9 @@
 ---
 title: Welcome HOT's new board members!
-date: 2017-04-14 23:42:22 Z
+date: 2017-04-14 23:42:00 Z
 permalink: updates/2017-04-14_welcome_hot's_new_board_members!_
+published: false
 Person: Rachel VanNice
-Working Group: []
-Project: []
 created: 1492213342
 ---
 

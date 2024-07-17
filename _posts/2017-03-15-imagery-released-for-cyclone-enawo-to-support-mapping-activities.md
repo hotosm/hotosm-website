@@ -1,11 +1,10 @@
 ---
 title: Imagery released for Cyclone Enawo to support mapping activities
-date: 2017-03-15 13:59:24 Z
+date: 2017-03-15 13:59:00 Z
 permalink: updates/2017-03-15_imagery_released_for_cyclone_enawo_to_support_mapping_activities
-Person: Nate Smith
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-03-15+at+12.08.37+PM.png
+Person: Nate Smith
 created: 1489586364
 ---
 

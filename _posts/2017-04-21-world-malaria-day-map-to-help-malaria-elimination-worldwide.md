@@ -1,12 +1,12 @@
 ---
 title: 'World Malaria Day: map to help Malaria elimination worldwide'
-date: 2017-04-21 16:06:41 Z
+date: 2017-04-21 16:06:00 Z
 permalink: updates/2017-04-21_world_malaria_day_map_to_help_malaria_elimination_worldwide
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017-04-21.png
 Person: Rebecca Firth
-Working Group: []
 Project:
 - 'Infectious diseases: Malaria elimination'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017-04-21.png
 created: 1492790801
 ---
 

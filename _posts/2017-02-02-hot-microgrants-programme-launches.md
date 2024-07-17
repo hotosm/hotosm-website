@@ -1,13 +1,14 @@
 ---
 title: HOT Microgrants Programme Launches
-date: 2017-02-02 16:30:07 Z
+date: 2017-02-02 16:30:00 Z
 permalink: updates/2017-02-02_hot_microgrants_programme_launches
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017+microgrants_0.png
 Person: Rebecca Firth
 Working Group:
 - Community
 Project:
 - 'Community development: Microgrants and Device Grants'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017+microgrants_0.png
 created: 1486053007
 ---
 

@@ -2,12 +2,13 @@
 title: This International Women’s Day, show your support by mapping
 date: 2017-03-07 02:47:00 Z
 permalink: updates/2017-03-07_this_international_women’s_day_show_your_support_by_mapping
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-03-06+at+21.58.01.png
 Person: Rebecca Firth
 Working Group:
 - Communications
 Project:
 - Women and Girls in Mapping
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-03-06+at+21.58.01.png
 created: 1488854820
 ---
 

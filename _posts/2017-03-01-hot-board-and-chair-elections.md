@@ -1,10 +1,9 @@
 ---
 title: HOT Board and Chair Elections
-date: 2017-03-01 19:48:55 Z
+date: 2017-03-01 19:48:00 Z
 permalink: updates/2017-03-01_hot_board_and_chair_elections
+published: false
 Person: Mikel Maron
-Working Group: []
-Project: []
 created: 1488397735
 ---
 

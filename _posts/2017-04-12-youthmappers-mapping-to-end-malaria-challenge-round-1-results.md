@@ -1,15 +1,15 @@
 ---
 title: 'YouthMappers ‘Mapping to End Malaria’ Challenge: Round 1 Results'
-date: 2017-04-12 23:32:15 Z
+date: 2017-04-12 23:32:00 Z
 permalink: updates/2017-04-12_youthmappers_‘mapping_to_end_malaria’_challenge_round_1_results
+published: false
 Summary Text: Our first round of the YouthMappers ‘Mapping to end Malaria’ Challenge
   has concluded.  Together, 141 students at 8 universities mapped over 50,000 buildings
   in Zambia and Zimbabwe. Thank you to all the chapters who participated!
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/udea+177.JPG
 Person: Russell Deffner
-Working Group: []
 Project:
 - 'Infectious diseases: Malaria elimination'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/udea+177.JPG
 created: 1492039935
 ---
 

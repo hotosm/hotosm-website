@@ -1,7 +1,8 @@
 ---
 title: Malaria Mapping YouthMappers Challenge
-date: 2017-03-06 15:49:27 Z
+date: 2017-03-06 15:49:00 Z
 permalink: updates/2017-03-06_malaria_mapping_youthmappers_challenge
+published: false
 Summary Text: HOT is managing a mapping project for malaria eradication across seven
   countries in Southern Africa, Southeast Asia and Central America. This project is
   part of the Missing Maps initiative and is backed by DigitalGlobe, the Clinton Health
@@ -9,11 +10,10 @@ Summary Text: HOT is managing a mapping project for malaria eradication across s
   data in OpenStreetMap for a total of over 500,000 square kilometers by April 2017.
   We are starting a YouthMappers competition for the project. Prizes will be given
   to the chapters that contribute the most quality data to this project.
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/YM-HIRES-banner.jpg
 Person: Russell Deffner
-Working Group: []
 Project:
 - 'Infectious diseases: Malaria elimination'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/YM-HIRES-banner.jpg
 created: 1488815367
 ---
 
