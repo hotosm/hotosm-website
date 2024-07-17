@@ -5,7 +5,10 @@ published: false
 Deadline Date: 2024-07-31 23:59:00 Z
 Page Contact:
   Contact Email: tech-data@hotosm.org
-  Label: Submission Email
+  Label: Submission Email 1
+Page Link:
+  Link: omran.najjar@hotosm.org
+  Text: Submission Email 2
 ---
 
  
