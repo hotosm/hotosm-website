@@ -1,6 +1,7 @@
 ---
 title: Tips para mapeadores del Equipo de Datos de HOT
 date: 2023-03-13 21:44:00 Z
+published: false
 categories:
 - Mapping
 - data
