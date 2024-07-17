@@ -1,6 +1,7 @@
 ---
 title: HOT Voting Membership Welcomes 27 New Members
 date: 2020-05-28 11:17:00 Z
+published: false
 Summary Text: 'We are happy to announce that 27 new members have been elected to HOT’s
   Voting Membership! '
 Feature Image: https://cdn.hotosm.org/website/DJI_0007-2.JPG

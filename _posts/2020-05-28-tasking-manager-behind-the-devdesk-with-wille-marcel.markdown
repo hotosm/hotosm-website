@@ -1,6 +1,7 @@
 ---
 title: Tasking Manager | Behind the DevDesk with Wille Marcel
 date: 2020-05-28 14:24:00 Z
+published: false
 tags:
 - tech
 Summary Text: Wille is an experienced frontend engineer focused on rich web map applications

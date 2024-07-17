@@ -1,6 +1,7 @@
 ---
 title: 'HOT Rapid Response Microgrants: COVID-19 – First round of Micrograntees announced'
 date: 2020-05-29 15:19:00 Z
+published: false
 Summary Text: 'We’re excited to announce the first round of awardees for HOT Rapid
   Response Microgrants: COVID-19. Microgrants, which are provided to OpenStreetMap
   communities to support their local response to the pandemic, have been awarded to
