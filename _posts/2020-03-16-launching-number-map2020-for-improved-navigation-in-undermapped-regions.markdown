@@ -1,6 +1,7 @@
 ---
 title: 'Launching #map2020 for Improved Navigation in Undermapped Regions'
 date: 2020-03-16 19:37:00 Z
+published: false
 tags:
 - "#map2020"
 Summary Text: |-

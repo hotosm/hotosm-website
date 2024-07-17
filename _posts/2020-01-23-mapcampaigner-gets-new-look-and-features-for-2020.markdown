@@ -1,6 +1,7 @@
 ---
 title: MapCampaigner Gets New Look and Features for 2020
 date: 2020-01-23 18:22:00 Z
+published: false
 tags:
 - MapCampaigner
 - Tech
