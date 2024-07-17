@@ -1,6 +1,7 @@
 ---
 title: 'Cyclone Idai: how can you help by mapping?'
 date: 2019-04-01 23:27:00 Z
+published: false
 Summary Text: 'Volunteers, we need your help! Over the past few weeks, Cyclone Idai
   has caused widespread destruction across Mozambique and Zimbabwe, destroying homes
   and infrastructure. The situation on the ground is constantly changing and the humanitarian

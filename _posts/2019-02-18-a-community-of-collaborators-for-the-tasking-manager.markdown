@@ -1,6 +1,7 @@
 ---
 title: A community of collaborators for the Tasking Manager
-date: 2019-02-18 11:11:11 Z
+date: 2019-02-18 11:11:00 Z
+published: false
 Summary Text: Workshop with the Open Source community around the Tasking Manager
 Feature Image: https://cdn.hotosm.org/website/2019-02-tm-workshop-2.jpg
 Person: Felix Delattre

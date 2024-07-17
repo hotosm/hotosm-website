@@ -1,6 +1,7 @@
 ---
 title: Microgrants Progress
 date: 2018-11-27 13:07:00 Z
+published: false
 Summary Text: 'Here are a few updates from local communities all around the world
   who have received a Microgrant from HOT in 2018, all the more reason to donate to
   #mapthedifference in 2019!'

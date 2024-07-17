@@ -1,6 +1,7 @@
 ---
 title: 'Hacktoberfest Update: Tasking Manager Improvements and More'
 date: 2018-10-23 11:44:00 Z
+published: false
 Summary Text: Hacktoberfest has been a great success and has helped support many of
   our core open source projects. Check out the progress and continue to get involved
   during the last week of the month.

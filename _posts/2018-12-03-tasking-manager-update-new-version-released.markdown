@@ -1,6 +1,7 @@
 ---
 title: 'Tasking Manager Update: New Version Released!'
 date: 2018-12-03 22:00:00 Z
+published: false
 tags:
 - tech
 Summary Text: As December has started we’ve also released another update to the Tasking
