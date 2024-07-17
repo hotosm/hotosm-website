@@ -1,7 +1,6 @@
 ---
 title: UI/UX Developer(s)
 date: 2024-07-17 16:23:00 Z
-published: false
 Deadline Date: 2024-07-31 23:59:00 Z
 Page Contact:
   Contact Email: tech-data@hotosm.org
@@ -140,4 +139,4 @@ The maximum budget for this assignment is $25k. Payment is initiated based on an
 
 Interested developer(s) (individuals, organizations, or teams) can send a maximum 1-page cover letter and CV(s)/portfolio(s) to [tech-data@hotosm.org](tech-data@hotosm.org) and/or [omran.najjar@hotosm.org](omran.najjar@hotosm.org) by 31st July 2024.
 
-HOT will invite shortlisted applicants for an interview and preserve the right to start interviews on a rolling basis following application submission dates.
+HOT will invite shortlisted applicants for an interview and preserve the right to start interviews on a rolling basis following applications as they are received.
