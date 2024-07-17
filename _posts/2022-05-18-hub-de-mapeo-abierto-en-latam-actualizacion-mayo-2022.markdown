@@ -1,6 +1,7 @@
 ---
 title: Hub de Mapeo Abierto en LATAM - Actualización mayo 2022
 date: 2022-05-18 14:53:00 Z
+published: false
 categories:
 - community
 tags:
