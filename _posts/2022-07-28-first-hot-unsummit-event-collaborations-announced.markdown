@@ -1,6 +1,7 @@
 ---
 title: First HOT unSummit event collaborations announced
 date: 2022-07-28 11:45:00 Z
+published: false
 Summary Text: 'HOT teams up with event organizers across the world to bring humanitarian
   open mapping to new people and places in 2022!
 
