@@ -1,7 +1,8 @@
 ---
 title: 'Faces of HOT:  Emir Hartato, one of HOT´s Indonesian team leaders'
-date: 2013-02-10 10:11:51 Z
+date: 2013-02-10 10:11:00 Z
 permalink: updates/2013-02-10_faces_of_hot__emir_hartato_one_of_hot´s_indonesian_team_leaders
+published: false
 Summary Text: "<b>Emir Hartato</b>,22, has been working on the HOT Indonesian team
   since June 2011.   During his senior year at the <b>University of Indonesia</b>,
   Emir (along with Vasanthi) joined HOT as an intern.  Kate Chapman, Jeff Haack, Vasanthi
@@ -10,13 +11,12 @@ Summary Text: "<b>Emir Hartato</b>,22, has been working on the HOT Indonesian te
   and other humanitarian organizations.  [inline:emr.jpg]Emir lives in the rainy city
   of Bogor (outside Jakarta) and enjoys taking elaborate photos.  Here is what he
   has to say about his work with HOT so far:<b>How did you get involved with HOT/OSM?</b>"
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/emr_0.jpg
 Person: Katrina E.
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/emr_0.jpg
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1360491111
 ---
 

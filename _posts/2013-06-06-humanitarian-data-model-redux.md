@@ -1,16 +1,16 @@
 ---
 title: Humanitarian Data Model - REDUX
-date: 2013-06-06 21:42:45 Z
+date: 2013-06-06 21:42:00 Z
 permalink: updates/2013-06-06_humanitarian_data_model_-_redux
-Summary Text: ''
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/600185_10200894765605830_1568258984_n.jpg
 Person: Brian Wolford
 Working Group:
 - Activation
-Project:
-- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 Country:
 - Haiti
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/600185_10200894765605830_1568258984_n.jpg
+Project:
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1370554965
 ---
 

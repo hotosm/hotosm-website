@@ -1,11 +1,10 @@
 ---
 title: Thank you Lokku and Happy New Year
-date: 2014-01-04 16:49:11 Z
+date: 2014-01-04 16:49:00 Z
 permalink: updates/2014-01-04_thank_you_lokku_and_happy_new_year
-Person: Harry Wood
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/donate.png
+Person: Harry Wood
 created: 1388854151
 ---
 

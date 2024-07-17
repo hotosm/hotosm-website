@@ -1,9 +1,9 @@
 ---
 title: Mapping Request for Carles area (Typhoon Haiyan)
-date: 2013-12-01 10:28:03 Z
+date: 2013-12-01 10:28:00 Z
 permalink: updates/2013-12-01_mapping_request_for_carles_area_(typhoon_haiyan)
+published: false
 Person: Heather Leson
-Working Group: []
 Project:
 - 'Disaster Activation: Typhoon Haiyan 2013'
 created: 1385893683

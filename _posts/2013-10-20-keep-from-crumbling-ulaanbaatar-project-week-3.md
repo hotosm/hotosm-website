@@ -1,13 +1,14 @@
 ---
 title: Keep From Crumbling - Ulaanbaatar Project Week 3
-date: 2013-10-20 12:03:56 Z
+date: 2013-10-20 12:03:00 Z
 permalink: updates/2013-10-20_keep_from_crumbling_-_ulaanbaatar_project_week_3
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_0140.JPG
 Person: Russell Deffner
 Working Group:
 - Training
 Project:
 - 'Smart cities: Mapping Ulaanbaatar'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_0140.JPG
 created: 1382270636
 ---
 

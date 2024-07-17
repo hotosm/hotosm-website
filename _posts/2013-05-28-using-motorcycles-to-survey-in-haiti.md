@@ -2,6 +2,7 @@
 title: Using motorcycles to survey in Haiti
 date: 2013-05-28 00:00:00 Z
 permalink: updates/2013-05-28_using_motorcycles_to_survey_in_haiti
+published: false
 Summary Text: As part of the CAP103 project, financed by USAID, being run in the North
   of Haiti right now we have started coordinating motorcycles for survey purposes.
   The purpose of using the motos is two-fold. First, to be able to transport teams

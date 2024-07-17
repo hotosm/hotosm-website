@@ -1,14 +1,14 @@
 ---
 title: 'Support Haiyan/Yolanda Reconstruction:  Contribute Public Use UaV (Drone)
   Imagery'
-date: 2014-01-27 02:21:15 Z
+date: 2014-01-27 02:21:00 Z
 permalink: updates/2014-01-27_support_haiyan/yolanda_reconstruction__contribute_public_use_uav_(drone)_imagery
+published: false
 Summary Text: 'An unprecedented number of unmanned aerial vehicles (UAVs) -- drones
   -- have been used to collect imagery after typhoon Yolanda/Haiyan. But little coordination
   between projects appears to have occurred. Many types of response and recovery organizations
   can benefit from these "bird''s eye" views of the typhoon affected areas. '
 Person: Kate Chapman
-Working Group: []
 Project:
 - 'Disaster Activation: Typhoon Haiyan 2013'
 created: 1390789275

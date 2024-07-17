@@ -1,7 +1,8 @@
 ---
 title: '"Back" at the OpenGov Hub'
-date: 2014-04-09 19:35:50 Z
+date: 2014-04-09 19:35:00 Z
 permalink: updates/2014-04-09_back_at_the_opengov_hub
+published: false
 Summary Text: 'I reason I say "back" in quotes because since the last time I was at
   HOT''s office in Washington D.C. 7 months ago it was in a completely different building.
   HOT is part of the OpenGov Hub which is a coworking place and center for open government
@@ -9,10 +10,8 @@ Summary Text: 'I reason I say "back" in quotes because since the last time I was
   in conjunction with Ushahidi and the GroundTruth Initiative. The new OpenGov Hub
   space just opened on April 1st of this year. This is one of HOT''s two permanent
   spaces the other we share with Wikimedia Indonesia in Jakarta, Indonesia.  '
-Person: Kate Chapman
-Working Group: []
-Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/1397071620130.jpg
+Person: Kate Chapman
 created: 1397072150
 ---
 

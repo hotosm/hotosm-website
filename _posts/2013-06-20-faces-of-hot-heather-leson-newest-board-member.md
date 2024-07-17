@@ -1,7 +1,8 @@
 ---
 title: 'Faces of HOT: Heather Leson, newest board member'
-date: 2013-06-20 15:15:53 Z
+date: 2013-06-20 15:15:00 Z
 permalink: updates/2013-06-20_faces_of_hot_heather_leson_newest_board_member
+published: false
 Summary Text: This week we caught up with Heather, the newest board member of HOT.  She
   joined the board in March 2013.  For the past few years Heather has been working
   at Ushahidi’s Director of Community Engagement.  Heather stays busy organizing and
@@ -11,10 +12,8 @@ Summary Text: This week we caught up with Heather, the newest board member of HO
   College of Applied Arts and Technology in Toronto.  You can read more about her
   on her <a html="www.textontechs.com">textontechs</a> blog. <b>How did you get involved
   with HOT/OSM? </b>
-Person: Katrina E.
-Working Group: []
-Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Heatherprofile+(Fun).jpg
+Person: Katrina E.
 created: 1371741353
 ---
 

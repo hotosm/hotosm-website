@@ -1,13 +1,14 @@
 ---
 title: Straighten Our Ways – Ulaanbaatar Project Week 5
-date: 2013-11-05 18:44:43 Z
+date: 2013-11-05 18:44:00 Z
 permalink: updates/2013-11-05_straighten_our_ways_–_ulaanbaatar_project_week_5
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCN0225crop_0.JPG
 Person: Russell Deffner
 Working Group:
 - Technical
 Project:
 - 'Smart cities: Mapping Ulaanbaatar'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCN0225crop_0.JPG
 created: 1383677083
 ---
 

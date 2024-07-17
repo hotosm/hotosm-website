@@ -1,10 +1,9 @@
 ---
 title: 2012 Financial Filings Posted
-date: 2013-12-19 20:38:54 Z
+date: 2013-12-19 20:38:00 Z
 permalink: updates/2013-12-19_2012_financial_filings_posted
+published: false
 Person: Schuyler Erle
-Working Group: []
-Project: []
 created: 1387485534
 ---
 

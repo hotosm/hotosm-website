@@ -1,12 +1,12 @@
 ---
 title: Russell's Week One (i.e. project week 2) Ulaanbaatar
-date: 2013-10-13 06:49:17 Z
+date: 2013-10-13 06:49:00 Z
 permalink: updates/2013-10-13_russell's_week_one_(ie_project_week_2)_ulaanbaatar
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/UBTrainingDay1_2.JPG
 Person: Russell Deffner
-Working Group: []
 Project:
 - 'Smart cities: Mapping Ulaanbaatar'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/UBTrainingDay1_2.JPG
 created: 1381646957
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: 'Mapping Guinea: Help Wanted'
-date: 2014-03-26 14:34:38 Z
+date: 2014-03-26 14:34:00 Z
 permalink: updates/2014-03-26_mapping_guinea_help_wanted
+published: false
 Person: Joseph Reeves
-Working Group: []
 Project:
 - 'Disaster Activation: Ebola Epidemic 2014-16'
 created: 1395844478

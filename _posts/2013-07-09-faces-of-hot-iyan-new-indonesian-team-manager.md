@@ -1,7 +1,8 @@
 ---
 title: 'Faces of HOT: Iyan, new Indonesian Team Manager'
-date: 2013-07-09 15:08:36 Z
+date: 2013-07-09 15:08:00 Z
 permalink: updates/2013-07-09_faces_of_hot_iyan_new_indonesian_team_manager
+published: false
 Summary Text: "<b>Yantisa Akhadi</b>, a.k.a Iyan, is the new <b>team manager</b> for
   the Indonesia project.  He has an extensive background with open source software
   and web development through working at the UNDP and IFRC. <br> Iyan grew up in one
@@ -11,13 +12,12 @@ Summary Text: "<b>Yantisa Akhadi</b>, a.k.a Iyan, is the new <b>team manager</b>
   and then move to the UNDP for about 5 years. While working at the UNDP, he became
   interested in web-based mapping.  Thus, he decided to get his Masters in Spatial
   Information Science at the <em>University of Melbourne</em>."
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/iyan.png
 Person: Katrina E.
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/iyan.png
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1373382516
 ---
 

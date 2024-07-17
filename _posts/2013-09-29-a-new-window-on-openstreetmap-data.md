@@ -1,11 +1,10 @@
 ---
 title: A new window on OpenStreetMap data
-date: 2013-09-29 13:52:06 Z
+date: 2013-09-29 13:52:00 Z
 permalink: updates/2013-09-29_a_new_window_on_openstreetmap_data
-Person: Yohan Boniface
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/humanitarian-style.png
+Person: Yohan Boniface
 created: 1380462726
 ---
 

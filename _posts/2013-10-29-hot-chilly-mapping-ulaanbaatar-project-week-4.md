@@ -1,13 +1,14 @@
 ---
 title: HOT Chilly Mapping - Ulaanbaatar Project Week 4
-date: 2013-10-29 17:47:39 Z
+date: 2013-10-29 17:47:00 Z
 permalink: updates/2013-10-29_hot_chilly_mapping_-_ulaanbaatar_project_week_4
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Mongolia_ITOworld_90days_20131027.png
 Person: Séverin Ménard
 Working Group:
 - Technical
 Project:
 - 'Smart cities: Mapping Ulaanbaatar'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Mongolia_ITOworld_90days_20131027.png
 created: 1383068859
 ---
 
