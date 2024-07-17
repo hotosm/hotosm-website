@@ -120,16 +120,16 @@ viewer?embedded=true&url={{ page['Page Link']['Link'] }}" width="100%" height="1
 
     <div class="project-index-highlights">
 
-      {% assign sorted-projects = site.projects | sort:"position" %}
+      {% assign sorted-projects = site.projects | sort:"date" | reverse %}
 
-      {% assign highlight_count = 0 %}
+      <!-- {% assign highlight_count = 0 %} -->
       {% for project in sorted-projects %}
-        {% if project['Impact Area'] contains page.title %}
+        {% if project['Highlight'] contains page.title %}
 
-          {% assign highlight_count = highlight_count | plus: 1 %}
-          {% if highlight_count > 3 %}
+          <!-- {% assign highlight_count = highlight_count | plus: 1 %} -->
+          <!-- {% if highlight_count > 20 %}
             {% break %}
-          {% endif %}
+          {% endif %} -->
 
           {% include blocks/project-highlight.html %}
 
@@ -161,8 +161,8 @@ viewer?embedded=true&url={{ page['Page Link']['Link'] }}" width="100%" height="1
       {% if project['Impact Area'] contains page.title %}
 
         {% assign project_count = project_count | plus: 1 %}
-        {% if project_count > 3 %}
-          {% unless project_count < 4 %}
+        {% if project_count > 0 %}
+          {% unless project_count < 0 %}
             {% include blocks/project-thumb.html %}
           {% endunless %}
 
