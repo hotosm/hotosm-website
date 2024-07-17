@@ -2,6 +2,7 @@
 title: 'PDC PhilAWARE: Field Mapping Completion, the e-Learning Platform, and Map
   Presentation to Stakeholders'
 date: 2021-03-30 23:43:00 Z
+published: false
 tags:
 - tech
 Summary Text: This month, the HOT Philippines team completed the required field work
