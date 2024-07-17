@@ -1,10 +1,9 @@
 ---
 title: End of an Era or at Least Internship
-date: 2011-07-31 17:47:34 Z
+date: 2011-07-31 17:47:00 Z
 permalink: updates/2011-07-31_end_of_an_era_or_at_least_internship
+published: false
 Person: Kate Chapman
-Working Group: []
-Project: []
 created: 1312134454
 ---
 
