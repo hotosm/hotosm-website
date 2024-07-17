@@ -1,12 +1,12 @@
 ---
 title: State of the Map US in DC!
-date: 2014-04-11 19:37:54 Z
+date: 2014-04-11 19:37:00 Z
 permalink: updates/2014-04-11_state_of_the_map_us_in_dc!
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Boy-and-the-world-image-312x500.jpg
 Person: Kate Chapman
 Working Group:
 - Training
-Project: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Boy-and-the-world-image-312x500.jpg
 created: 1397245074
 ---
 
