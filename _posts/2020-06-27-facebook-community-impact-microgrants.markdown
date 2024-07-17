@@ -1,6 +1,7 @@
 ---
 title: Applications Open for Facebook Community Impact Microgrants
 date: 2020-06-27 21:13:00 Z
+published: false
 Summary Text: HOT has opened the application period for Facebook Community Impact
   Microgrants, with a special focus on projects that engage women and girls in mapping.
   Apply today!
