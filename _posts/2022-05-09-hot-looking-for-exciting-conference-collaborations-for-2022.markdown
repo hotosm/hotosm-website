@@ -1,6 +1,7 @@
 ---
 title: HOT looking for exciting conference collaborations for 2022!
 date: 2022-05-09 07:20:00 Z
+published: false
 Summary Text: HOT is actively looking to collaborate on and support conferences that
   bring together communities, partners, collaborators and supporters, committed to
   and active in humanitarian open mapping to learn, share and connect. Can you help

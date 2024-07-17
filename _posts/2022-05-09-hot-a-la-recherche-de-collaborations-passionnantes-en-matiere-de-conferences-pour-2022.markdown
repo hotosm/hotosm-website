@@ -2,6 +2,7 @@
 title: HOT à la recherche de collaborations passionnantes en matière de conférences
   pour 2022 !
 date: 2022-05-09 14:07:00 Z
+published: false
 Summary Text: 'HOT cherche activement à collaborer et à soutenir des conférences qui
   rassemblent des communautés, des partenaires, des collaborateurs et des partisans,
   engagés et actifs dans la cartographie humanitaire ouverte, pour apprendre, partager
