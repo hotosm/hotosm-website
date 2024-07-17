@@ -1,6 +1,7 @@
 ---
 title: Four regions, five years, 94 countries, one billion people
 date: 2020-06-19 15:56:00 Z
+published: false
 Summary Text: 'In 2019, the HOT community developed a Strategic Plan, which stated
   an audacious goal: to map an area home to one billion people in OpenStreetMap. But
   one key question remained: where?'
