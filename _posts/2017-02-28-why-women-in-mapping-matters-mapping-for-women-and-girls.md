@@ -1,9 +1,9 @@
 ---
 title: WHY WOMEN IN MAPPING MATTERS - Mapping for women and girls
-date: 2017-02-28 19:46:50 Z
+date: 2017-02-28 19:46:00 Z
 permalink: updates/2017-02-28_why_women_in_mapping_matters_-_mapping_for_women_and_girls
+published: false
 Person: Gertrude (Trudy Hope) Namitala
-Working Group: []
 Project:
 - Women and Girls in Mapping
 created: 1488311210
