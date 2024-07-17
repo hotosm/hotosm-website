@@ -1,6 +1,7 @@
 ---
 title: A map editor for the Tasking Manager
 date: 2019-07-31 09:00:00 Z
+published: false
 Feature Image: https://cdn.hotosm.org/website/tm-and-id.jpg
 Person: Felix Delattre
 Working Group:

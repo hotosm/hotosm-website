@@ -1,6 +1,7 @@
 ---
 title: User Experience Discovery with the Tasking Manager
 date: 2019-04-30 10:00:00 Z
+published: false
 Summary Text: Conducting design research to evaluate mapping and validation workflows
   within the Tasking Manager.
 Feature Image: https://cdn.hotosm.org/website/major-mapping-userflow.png

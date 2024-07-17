@@ -1,6 +1,7 @@
 ---
 title: Making a New MapCampaigner
 date: 2019-09-23 14:00:00 Z
+published: false
 Summary Text: Kicking off new work to redevelop workflows within MapCampaigner
 Feature Image: https://cdn.hotosm.org/website/mapcampaigner.png
 Person: Russ Biggs

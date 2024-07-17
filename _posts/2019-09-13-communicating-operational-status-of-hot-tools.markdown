@@ -1,6 +1,7 @@
 ---
 title: Communicating Operational Status of HOT Tools
 date: 2019-09-13 10:00:00 Z
+published: false
 tags:
 - tech
 Summary Text: Sharing up to date information about the current status and operation

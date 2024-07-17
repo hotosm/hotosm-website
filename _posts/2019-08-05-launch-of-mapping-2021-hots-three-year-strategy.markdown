@@ -1,6 +1,7 @@
 ---
 title: 'Launch of Mapping 2021: HOT’s Three Year Strategy'
 date: 2019-08-05 10:08:00 Z
+published: false
 categories:
 - Strategy
 tags:

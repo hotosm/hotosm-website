@@ -2,6 +2,7 @@
 title: 'MapSwipe 2.0: Support humanitarian response in five minutes with a mobile
   app'
 date: 2019-10-04 12:20:00 Z
+published: false
 Summary Text: With two new projects types and an improved user experience, MapSwipe
   is making it easier than ever for volunteers to get involved in mapping, one swipe
   at a time.
