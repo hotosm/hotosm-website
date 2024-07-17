@@ -2,6 +2,7 @@
 title: 'YouthMappers ‘Mapping to End Malaria’ Challenge: Round 3 Results'
 date: 2017-06-12 02:25:00 Z
 permalink: updates/2017-06-12_youthmappers_‘mapping_to_end_malaria’_challenge_round_3_results
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20170506_173519.jpg
 Person: Russell Deffner
 Working Group:

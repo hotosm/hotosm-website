@@ -1,14 +1,14 @@
 ---
 title: Organized, distributed OpenStreetMap field mapping
-date: 2017-05-24 14:34:59 Z
+date: 2017-05-24 14:34:00 Z
 permalink: updates/2017-05-24_organized_distributed_openstreetmap_field_mapping
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCF5987-compressor.jpg
 Person: Nate Smith
-Working Group: []
-Project:
-- 'Refugee response: South Sudan and Syria'
 Country:
 - Uganda
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCF5987-compressor.jpg
+Project:
+- 'Refugee response: South Sudan and Syria'
 created: 1495636499
 ---
 

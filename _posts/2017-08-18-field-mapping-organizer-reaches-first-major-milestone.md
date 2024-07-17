@@ -1,14 +1,14 @@
 ---
 title: Field mapping organizer reaches first major milestone
-date: 2017-08-18 11:09:01 Z
+date: 2017-08-18 11:09:00 Z
 permalink: updates/2017-08-18_field_mapping_organizer_reaches_first_major_milestone
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20160119_102604-compressor.jpg
 Person: Nate Smith
-Working Group: []
-Project:
-- 'Refugee response: South Sudan and Syria'
 Country:
 - Uganda
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_20160119_102604-compressor.jpg
+Project:
+- 'Refugee response: South Sudan and Syria'
 created: 1503054541
 ---
 

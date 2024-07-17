@@ -1,11 +1,10 @@
 ---
 title: HOT and Heidelberg Institution for Geoinformation Technology Collaborations
-date: 2017-08-10 02:27:42 Z
+date: 2017-08-10 02:27:00 Z
 permalink: updates/2017-08-10_hot_and_heidelberg_institution_for_geoinformation_technology_collaborations
-Person: Rebecca Firth
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-08-09+at+21.30.45.png
+Person: Rebecca Firth
 created: 1502332062
 ---
 

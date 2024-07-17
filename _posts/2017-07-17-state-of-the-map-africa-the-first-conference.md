@@ -1,12 +1,12 @@
 ---
 title: 'State of the Map Africa: the first conference'
-date: 2017-07-17 21:47:32 Z
+date: 2017-07-17 21:47:00 Z
 permalink: updates/2017-07-17_state_of_the_map_africa_the_first_conference
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/SOTMAfrica.jpg
 Person: Rebecca Firth
 Working Group:
 - Community
-Project: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/SOTMAfrica.jpg
 created: 1500328052
 ---
 

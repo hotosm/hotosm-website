@@ -1,18 +1,18 @@
 ---
 title: OpenStreetMap on the Humanitarian Data Exchange
-date: 2017-05-19 05:57:28 Z
+date: 2017-05-19 05:57:00 Z
 permalink: updates/2017-05-19_openstreetmap_on_the_humanitarian_data_exchange
+published: false
 Summary Text: The Export Tool is now pushing customised OpenStreetMap (OSM) data through
   to the Humanitarian Data Exchange (HDX) platform. Buildings, points of interest,
   roads and waterways datasets for the countries of Senegal, Guinea, Liberia, Sierra
   Leone and Mali are now available as SHP, GPKG, IMG and KML files. The integration
   tool, nicknamed OSM2HDX has the ability to automate data updates at set intervals
   and allows the administrators to select any country for export.
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-05-19+at+14.23.46.png
 Person: Mhairi O'Hara
-Working Group: []
 Project:
 - 'Export Tool 3.0 '
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-05-19+at+14.23.46.png
 created: 1495173448
 ---
 

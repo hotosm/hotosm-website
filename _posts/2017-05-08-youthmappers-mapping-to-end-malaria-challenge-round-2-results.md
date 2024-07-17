@@ -2,6 +2,7 @@
 title: 'YouthMappers ‘Mapping to End Malaria’ Challenge: Round 2 Results'
 date: 2017-05-08 14:40:00 Z
 permalink: updates/2017-05-08_youthmappers_‘mapping_to_end_malaria’_challenge_round_2_results
+published: false
 Summary Text: Over 200 students at 13 universities participated in the second round
   of the YouthMappers ‘Mapping to end Malaria’ Challenge. Together, they mapped almost
   400,000 buildings in Zimbabwe. Thank you to all the chapters who participated!
