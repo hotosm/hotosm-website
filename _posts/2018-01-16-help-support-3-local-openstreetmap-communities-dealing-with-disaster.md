@@ -1,16 +1,17 @@
 ---
 title: Help Support 3 Local OpenStreetMap Communities Dealing With Disaster!
-date: 2018-01-16 21:49:07 Z
+date: 2018-01-16 21:49:00 Z
 permalink: updates/2018-01-16_help_support_3_local_openstreetmap_communities_dealing_with_disaster!
+published: false
 Summary Text: 2018 has taken no time off from disasters and HOT is supporting three
   local OpenStreetMap communities with their response to events in their countries,
   read more to find out how you can help...
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Mayon.PNG
 Person: Russell Deffner
 Working Group:
 - Activation
 Project:
 - HOT Training Center
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Mayon.PNG
 created: 1516139347
 ---
 

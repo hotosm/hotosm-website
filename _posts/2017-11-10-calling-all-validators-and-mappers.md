@@ -1,18 +1,19 @@
 ---
 title: Calling All Validators (and Mappers)!
-date: 2017-11-10 18:44:23 Z
+date: 2017-11-10 18:44:00 Z
 permalink: updates/2017-11-10_calling_all_validators_(and_mappers)!
+published: false
 Summary Text: HOT begins to transition mapping of critical data in response to the
   Mexico Earthquakes, South Asia Floods, Caribbean Hurricanes and West Pacific Volcano
   threats back to local communities. It’s during this crucial time that we ask for
   mappers to become validators, and make an important second look to ensure the mapping
   was done as instructed.
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/CaribbeanHurricanes1109.png
 Person: Russell Deffner
 Working Group:
 - Activation
 Project:
 - 'Disaster Activation: Hurricanes Irma, Maria, Mexico Earthquake, Bangladesh flooding'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/CaribbeanHurricanes1109.png
 created: 1510339463
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: 'We can #mapthedifference together in 2018!'
-date: 2017-11-28 23:06:30 Z
+date: 2017-11-28 23:06:00 Z
 permalink: updates/2017-11-28_we_can_#mapthedifference_together_in_2018!
-Person: Rachel VanNice
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/northern+uganda+bidibidi+(1).jpg
+Person: Rachel VanNice
 created: 1511910390
 ---
 

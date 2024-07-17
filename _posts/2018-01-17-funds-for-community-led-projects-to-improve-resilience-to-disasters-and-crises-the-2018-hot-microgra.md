@@ -1,14 +1,15 @@
 ---
 title: 'Funds for community-led projects to improve resilience to disasters and crises:
   the 2018 HOT Microgrants program'
-date: 2018-01-17 16:08:21 Z
+date: 2018-01-17 16:08:00 Z
 permalink: updates/2018-01-17_funds_for_community-led_projects_to_improve_resilience_to_disasters_and_crises_t
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2018-01-17+at+11.16.24.png
 Person: Rebecca Firth
 Working Group:
 - Community
 Project:
 - 'Community development: Microgrants and Device Grants'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2018-01-17+at+11.16.24.png
 created: 1516205301
 ---
 
