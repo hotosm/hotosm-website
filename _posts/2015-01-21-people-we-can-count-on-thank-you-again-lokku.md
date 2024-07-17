@@ -1,11 +1,10 @@
 ---
 title: 'People we can count on: Thank you again Lokku!'
-date: 2015-01-21 23:08:53 Z
+date: 2015-01-21 23:08:00 Z
 permalink: updates/2015-01-21__people_we_can_count_on_thank_you_again_lokku!
-Person: Blake Girardot
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/lokku_sprite.png
+Person: Blake Girardot
 created: 1421881733
 ---
 

@@ -2,6 +2,7 @@
 title: OpenAerialMap Beta Goes Live
 date: 2015-05-29 02:14:00 Z
 permalink: updates/2015-05-29_openaerialmap_beta_goes_live
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/oam_beta_pre.jpg
 Person: Cristiano Giovando
 Project:

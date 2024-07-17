@@ -1,15 +1,16 @@
 ---
 title: WHO declares Ebola outbreak an 'international public health emergency'
-date: 2014-08-08 20:55:43 Z
+date: 2014-08-08 20:55:00 Z
 permalink: updates/2014-08-08__who_declares_ebola_outbreak_an_'international_public_health_emergency'
+published: false
 Summary Text: L'Équipe humanitaire Humanitarian OpenStreetMap Team hausse le niveau
   de réponse à la demande de l'Organisation mondiale de la santé (OMS).
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/photo-Cosimo-Le-Quaglie-MSF-auto.jpg
 Person: Pierre Béland
 Working Group:
 - Training
 Project:
 - 'Disaster Activation: Ebola Epidemic 2014-16'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/photo-Cosimo-Le-Quaglie-MSF-auto.jpg
 created: 1407531343
 ---
 

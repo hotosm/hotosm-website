@@ -1,12 +1,12 @@
 ---
 title: When Birds of a Feather Map Together
-date: 2014-04-18 15:29:30 Z
+date: 2014-04-18 15:29:00 Z
 permalink: updates/2014-04-18_when_birds_of_a_feather_map_together
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/blog_image.png
 Person: Heather Leson
 Working Group:
 - Activation
-Project: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/blog_image.png
 created: 1397834970
 ---
 

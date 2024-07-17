@@ -1,12 +1,12 @@
 ---
 title: Welcome Tyler!
-date: 2015-04-30 11:31:15 Z
+date: 2015-04-30 11:31:00 Z
 permalink: updates/2015-04-30_welcome_tyler!
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Tyler+(HOT)+April+29,+2015.png
 Person: Heather Leson
 Working Group:
 - Training
-Project: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Tyler+(HOT)+April+29,+2015.png
 created: 1430393475
 ---
 

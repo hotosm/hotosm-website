@@ -1,13 +1,14 @@
 ---
 title: A new version of Tasking Manager
-date: 2014-07-21 20:50:03 Z
+date: 2014-07-21 20:50:00 Z
 permalink: updates/2014-07-21_a_new_version_of_tasking_manager
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/task_manager_v2_screenshot_CAR_example.png
 Person: Mikel Maron
 Working Group:
 - Training
 Project:
 - Tasking Manager
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/task_manager_v2_screenshot_CAR_example.png
 created: 1405975803
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: Be the Executive Director of Humanitarian OpenStreetMap Team
-date: 2015-07-02 14:54:18 Z
+date: 2015-07-02 14:54:00 Z
 permalink: updates/2015-07-02_be_the_executive_director_of_humanitarian_openstreetmap_team
-Person: Heather Leson
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/hot-logo-white-bg+(1)+(1).png
+Person: Heather Leson
 created: 1435848858
 ---
 

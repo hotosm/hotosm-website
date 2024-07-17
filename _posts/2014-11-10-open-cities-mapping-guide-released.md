@@ -1,12 +1,12 @@
 ---
 title: Open Cities Mapping Guide Released
-date: 2014-11-10 18:02:09 Z
+date: 2014-11-10 18:02:00 Z
 permalink: updates/2014-11-10_open_cities_mapping_guide_released
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/wb_guide.png
 Person: Jeff Haack
 Working Group:
 - Community
-Project: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/wb_guide.png
 created: 1415642529
 ---
 

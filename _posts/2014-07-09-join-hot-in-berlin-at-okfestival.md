@@ -1,11 +1,10 @@
 ---
 title: Join HOT in Berlin at OKFestival!
-date: 2014-07-09 18:10:29 Z
+date: 2014-07-09 18:10:00 Z
 permalink: updates/2014-07-09_join_hot_in_berlin_at_okfestival!
-Person: Heather Leson
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/OpenStreetMap_in_Lubumbashi,_Democratic_Republic_of_the_Congo.JPG
+Person: Heather Leson
 created: 1404929429
 ---
 

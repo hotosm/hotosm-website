@@ -1,15 +1,16 @@
 ---
 title: 'Helping to map Nepal: getting started'
-date: 2015-04-30 04:33:21 Z
+date: 2015-04-30 04:33:00 Z
 permalink: updates/2015-04-30_helping_to_map_nepal_getting_started
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/tm+squares+blog.png
 Person: Heather Leson
 Working Group:
 - Activation
-Project:
-- 'Disaster Activation: Nepal Earthquake 2015'
 Country:
 - Nepal
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/tm+squares+blog.png
+Project:
+- 'Disaster Activation: Nepal Earthquake 2015'
 created: 1430368401
 ---
 

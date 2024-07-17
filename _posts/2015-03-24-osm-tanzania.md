@@ -1,14 +1,15 @@
 ---
 title: OSM TANZANIA
-date: 2015-03-24 05:42:36 Z
+date: 2015-03-24 05:42:00 Z
 permalink: updates/2015-03-24_osm_tanzania
+published: false
 Person: Steven Bukulu
 Working Group:
 - Technical
-Project:
-- 'Urban flood resilience: Ramani Huria'
 Country:
 - Tanzania
+Project:
+- 'Urban flood resilience: Ramani Huria'
 created: 1427175756
 ---
 

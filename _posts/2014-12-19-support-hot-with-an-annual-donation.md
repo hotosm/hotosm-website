@@ -1,11 +1,10 @@
 ---
 title: Support HOT with an Annual Donation
-date: 2014-12-19 14:38:50 Z
+date: 2014-12-19 14:38:00 Z
 permalink: updates/2014-12-19_support_hot_with_an_annual_donation
-Person: Heather Leson
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/missing+maps+London++(Dec.+2014).jpg
+Person: Heather Leson
 created: 1418999930
 ---
 

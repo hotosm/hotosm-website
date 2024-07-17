@@ -1,13 +1,13 @@
 ---
 title: 'Nepal Earthquake: A note of thanks to HOT’s aerial imagery providers'
-date: 2015-07-14 13:42:15 Z
+date: 2015-07-14 13:42:00 Z
 permalink: updates/2015-07-14_nepal_earthquake_a_note_of_thanks_to_hot’s_aerial_imagery_providers
+published: false
 Person: Tyler Radford
-Working Group: []
-Project:
-- 'Disaster Activation: Nepal Earthquake 2015'
 Country:
 - Nepal
+Project:
+- 'Disaster Activation: Nepal Earthquake 2015'
 created: 1436881335
 ---
 

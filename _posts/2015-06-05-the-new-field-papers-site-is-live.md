@@ -1,7 +1,8 @@
 ---
 title: The New Field Papers Site is Live!
-date: 2015-06-05 02:58:29 Z
+date: 2015-06-05 02:58:00 Z
 permalink: updates/2015-06-05_the_new_field_papers_site_is_live!
+published: false
 Summary Text: The new Field Papers site has been live for over a week now, as it was
   successfully launched on the 28th of May. Thanks to the team at Stamen Design in
   conjunction with co-funding from the Hewlett Foundation through the Humanitarian
@@ -11,11 +12,10 @@ Summary Text: The new Field Papers site has been live for over a week now, as it
   Português, and Kiswahili. Please contribute towards the internationalisation and
   translation of Field Papers by visiting the Transifex project and joining the team
   of your desired language.
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/FieldPapers.png
 Person: Mhairi O'Hara
-Working Group: []
 Project:
 - Field Papers
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/FieldPapers.png
 created: 1433473109
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: 'Help improve mapping: Take HOT''s community survey'
-date: 2015-05-27 17:03:16 Z
+date: 2015-05-27 17:03:00 Z
 permalink: updates/2015-05-27_help_improve_mapping_take_hot's_community_survey
+published: false
 Person: Tyler Radford
-Working Group: []
-Project:
-- 'Disaster Activation: Nepal Earthquake 2015'
 Country:
 - Nepal
+Project:
+- 'Disaster Activation: Nepal Earthquake 2015'
 created: 1432746196
 ---
 

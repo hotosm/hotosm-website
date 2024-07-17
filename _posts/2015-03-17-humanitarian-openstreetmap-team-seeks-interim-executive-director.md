@@ -1,12 +1,12 @@
 ---
 title: Humanitarian OpenStreetMap Team seeks Interim Executive Director
-date: 2015-03-17 18:10:44 Z
+date: 2015-03-17 18:10:00 Z
 permalink: updates/2015-03-17_humanitarian_openstreetmap_team_seeks_interim_executive_director__
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/120px-Hot_logo.svg_.png
 Person: Heather Leson
 Working Group:
 - Fundraising
-Project: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/120px-Hot_logo.svg_.png
 created: 1426615844
 ---
 

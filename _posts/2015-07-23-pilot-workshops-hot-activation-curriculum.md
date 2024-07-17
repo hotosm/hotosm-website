@@ -1,9 +1,9 @@
 ---
 title: Pilot Workshops - HOT Activation Curriculum
-date: 2015-07-23 08:54:38 Z
+date: 2015-07-23 08:54:00 Z
 permalink: updates/2015-07-23_pilot_workshops_-_hot_activation_curriculum_
+published: false
 Person: Mhairi O'Hara
-Working Group: []
 Project:
 - HOT Training Center
 created: 1437641678

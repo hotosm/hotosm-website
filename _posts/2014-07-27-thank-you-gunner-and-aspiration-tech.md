@@ -1,12 +1,12 @@
 ---
 title: Thank you, Gunner and Aspiration Tech
-date: 2014-07-27 22:53:21 Z
+date: 2014-07-27 22:53:00 Z
 permalink: updates/2014-07-27_thank_you_gunner_and_aspiration_tech
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Gunner+at+HOT+Board+meeting.jpg
 Person: Heather Leson
 Working Group:
 - Communications
-Project: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Gunner+at+HOT+Board+meeting.jpg
 created: 1406501601
 ---
 

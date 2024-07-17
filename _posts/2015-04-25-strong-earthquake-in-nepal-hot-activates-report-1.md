@@ -1,14 +1,15 @@
 ---
 title: 'Strong Earthquake in Nepal - HOT Activates!  Report #1'
-date: 2015-04-25 15:29:02 Z
+date: 2015-04-25 15:29:00 Z
 permalink: updates/2015-04-25_strong_earthquake_in_nepal_-_hot_activates!__report_1
+published: false
 Person: Russell Deffner
 Working Group:
 - Activation
-Project:
-- 'Disaster Activation: Nepal Earthquake 2015'
 Country:
 - Nepal
+Project:
+- 'Disaster Activation: Nepal Earthquake 2015'
 created: 1429975742
 ---
 

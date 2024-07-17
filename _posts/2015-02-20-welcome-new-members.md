@@ -1,10 +1,9 @@
 ---
 title: Welcome New Members!
-date: 2015-02-20 22:59:23 Z
+date: 2015-02-20 22:59:00 Z
 permalink: updates/2015-02-20_welcome_new_members!
+published: false
 Person: Russell Deffner
-Working Group: []
-Project: []
 created: 1424473163
 ---
 

@@ -2,6 +2,7 @@
 title: Cristiano Giovando Joins HOT to Lead OpenAerialMap Efforts
 date: 2015-01-13 20:38:00 Z
 permalink: updates/2015-01-13_cristiano_giovando_joins_hot_to_lead_openaerialmap_efforts
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_8849_Cri.jpg
 Person: Kate Chapman
 Working Group:

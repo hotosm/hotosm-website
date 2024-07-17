@@ -1,10 +1,9 @@
 ---
 title: HOT says Farewell to our Kate
-date: 2015-04-10 03:02:37 Z
+date: 2015-04-10 03:02:00 Z
 permalink: updates/2015-04-10_hot_says_farewell_to_our_kate
+published: false
 Person: Kristen Egermeier
-Working Group: []
-Project: []
 created: 1428634957
 ---
 

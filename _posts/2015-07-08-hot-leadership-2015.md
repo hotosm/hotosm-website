@@ -1,15 +1,14 @@
 ---
 title: HOT Leadership 2015
-date: 2015-07-08 16:24:33 Z
+date: 2015-07-08 16:24:00 Z
 permalink: updates/2015-07-08_hot_leadership_2015
+published: false
 Summary Text: 'This year has presented many challenges to HOT. We have been incredibly
   active and successful in all of our programs: Disaster Mapping, Community Building
   and Technical Projects. However, as many of you know, 2015 has been a year of tremendous
   change in HOT leadership.'
-Person: Russell Deffner
-Working Group: []
-Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/hotlogo.png
+Person: Russell Deffner
 created: 1436372673
 ---
 

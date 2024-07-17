@@ -1,14 +1,13 @@
 ---
 title: Processing Fresh Imagery for Nepal Earthquake Response
-date: 2015-04-29 03:00:03 Z
+date: 2015-04-29 03:00:00 Z
 permalink: updates/2015-04-29_processing_fresh_imagery_for_nepal_earthquake_response
+published: false
 Summary Text: We are heads down on processing imagery from DigitalGlobe, Airbus and
   other major satellite providers to aid the Nepal earthquake response. So far, we
   have processed and made available over 3,000 square kilometers of updated imagery!
-Person: Cristiano Giovando
-Working Group: []
-Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/ab-np-image-1.png
+Person: Cristiano Giovando
 created: 1430276403
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: Typhoon Hagupit (Ruby) Activation Live
-date: 2014-12-05 12:04:23 Z
+date: 2014-12-05 12:04:00 Z
 permalink: updates/2014-12-05_typhoon_hagupit_(ruby)_activation_live
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Umap+of+Imagery+(Hagupit).jpg
 Person: Heather Leson
 Working Group:
 - Community
-Project: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Umap+of+Imagery+(Hagupit).jpg
 created: 1417781063
 ---
 

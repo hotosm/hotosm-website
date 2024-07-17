@@ -1,7 +1,8 @@
 ---
 title: A Warm Welcome to the Outreachy HOT Interns
-date: 2015-05-18 15:45:06 Z
+date: 2015-05-18 15:45:00 Z
 permalink: updates/2015-05-18_a_warm_welcome_to_the_outreachy_hot_interns
+published: false
 Summary Text: 'The Humanitarian OpenStreetMap Team (HOT) and the OpenStreetMap (OSM)
   community would like to welcome the new round of Outreachy interns! The program,
   originally known as the Outreach Program for Women (OPW) is aimed at helping individuals
