@@ -15,7 +15,17 @@ block-1:
     gender of those contributing to OSM affects the information that specifically
     affects or are more relevant to one gender. Increasing inclusion in mapping and
     focusing on gender-sensitive tagging can support more equitable outcomes.
-  intro2: "Individuals' daily experiences vary significantly based on gender identity and expression. In any data, including from [OpenStreetMap (OSM)](https://www.openstreetmap.org), contributors' gender influences the information they prioritize. **Promoting inclusivity and gender-sensitive projects creates a map that better represents our world and fosters equitable outcomes.** Open mapping enables informed, context-appropriate actions by humanitarian, development, and community organizations. HOT's work on gender equality connects open map data with real-world applications, emphasizing gender equality. **By increasing the participation of underrepresented genders and integrating gender-sensitive data, we improve quality of life and create a more representative map, highlighting gender-specific places like maternal healthcare and safe spaces.**"
+  intro2: Individuals' daily experiences vary significantly based on gender identity
+    and expression. In any data, including from [OpenStreetMap (OSM)](https://www.openstreetmap.org),
+    contributors' gender influences the information they prioritize. **Promoting inclusivity
+    and gender-sensitive projects creates a map that better represents our world and
+    fosters equitable outcomes.** Open mapping enables informed, context-appropriate
+    actions by humanitarian, development, and community organizations. HOT's work
+    on gender equality connects open map data with real-world applications, emphasizing
+    gender equality. **By increasing the participation of underrepresented genders
+    and integrating gender-sensitive data, we improve quality of life and create a
+    more representative map, highlighting gender-specific places like maternal healthcare
+    and safe spaces.**
   sub-block:
     title: Open Mapping for Gender Equality
     points:
