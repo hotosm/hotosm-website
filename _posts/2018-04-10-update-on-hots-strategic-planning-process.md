@@ -2,6 +2,7 @@
 title: Update on HOT’s Strategic Planning Process
 date: 2018-04-10 20:45:00 Z
 permalink: updates/2018-04-10_update_on_hot’s_strategic_planning_process
+published: false
 Feature Image: https://cdn.hotosm.org/website/HOT+Board+meeting+2017.jpg
 Person: Tyler Radford
 created: 1523393124
