@@ -1,14 +1,15 @@
 ---
 title: 'Sri Lanka Floods Activation: Sitrep Day 1'
-date: 2016-05-20 06:19:05 Z
+date: 2016-05-20 06:19:00 Z
 permalink: updates/2016-05-20_sri_lanka_floods_activation_sitrep_day_1
+published: false
 Person: Blake Girardot
 Working Group:
 - Activation
-Project:
-- 'Disaster Activation: Sri Lanka Flooding 2016'
 Country:
 - Sri Lanka
+Project:
+- 'Disaster Activation: Sri Lanka Flooding 2016'
 created: 1463725145
 ---
 

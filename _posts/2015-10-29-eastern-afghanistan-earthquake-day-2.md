@@ -2,6 +2,7 @@
 title: Eastern Afghanistan Earthquake Day 2
 date: 2015-10-29 03:45:00 Z
 permalink: updates/2015-10-29_eastern_afghanistan_earthquake_day_2
+published: false
 Summary Text: Since the Humanitarian OpenStreetMap Team (HOT) officially activated
   on the 27th October, the team has been working hard to evaluate the mapping needs
   in response to the Eastern Afghanistan earthquake. There are two Tasking Manager

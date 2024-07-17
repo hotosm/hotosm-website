@@ -2,6 +2,7 @@
 title: HOT Launches New PacDID Drone Imagery Project
 date: 2016-07-21 01:09:00 Z
 permalink: updates/2016-07-21_hot_launches_new_pacdid_drone_imagery_project
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/PacDID-Vanuatu.jpg
 Person: Cristiano Giovando
 Project:

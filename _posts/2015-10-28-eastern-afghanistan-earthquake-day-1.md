@@ -2,6 +2,7 @@
 title: Eastern Afghanistan Earthquake Day 1
 date: 2015-10-28 04:07:00 Z
 permalink: updates/2015-10-28_eastern_afghanistan_earthquake_day_1_
+published: false
 Summary Text: Humanitarian OpenStreetMap Team (HOT) calls upon our community to assist
   those affected by disaster for the second time in under one week
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/AfghanEarthquakeDay1.PNG

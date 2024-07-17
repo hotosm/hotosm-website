@@ -1,10 +1,9 @@
 ---
 title: Same Website, New Look!
-date: 2016-04-22 20:04:46 Z
+date: 2016-04-22 20:04:00 Z
 permalink: updates/2016-04-22_same_website_new_look!
+published: false
 Person: Russell Deffner
-Working Group: []
-Project: []
 created: 1461355486
 ---
 

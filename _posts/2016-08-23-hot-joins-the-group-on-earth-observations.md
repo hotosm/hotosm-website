@@ -1,7 +1,8 @@
 ---
 title: HOT Joins the Group on Earth Observations
-date: 2016-08-23 15:37:12 Z
+date: 2016-08-23 15:37:00 Z
 permalink: updates/2016-08-23_hot_joins_the_group_on_earth_observations
+published: false
 Summary Text: In July, HOT was voted in as a participating organization of the Group
   on Earth Observations (GEO). Forums like GEO that emphasize sharing of free and
   open Earth observation data are critical to evolve the methods and standards to
@@ -9,10 +10,8 @@ Summary Text: In July, HOT was voted in as a participating organization of the G
   System of Systems (GEOSS) to connect the world's environmental and socio-economic
   data sources. Membership in the global data-sharing body brings opportunities for
   HOT to contribute to use of Earth observation data and information for better decision-making.
-Person: Tyler Radford
-Working Group: []
-Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG_7609.JPG
+Person: Tyler Radford
 created: 1471966632
 ---
 

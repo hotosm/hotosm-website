@@ -1,7 +1,8 @@
 ---
 title: 'Latest Update: Earthquakes in Japan and Ecuador'
-date: 2016-04-18 18:01:50 Z
+date: 2016-04-18 18:01:00 Z
 permalink: updates/2016-04-18_latest_update_earthquakes_in_japan_and_ecuador
+published: false
 Summary Text: 'Ecuador: An earthquake of magnitude 7.8 hit the coastal region of Ecuador
   on April 16th. This major event was followed by several aftershocks. HOT is currently
   at "Moderate Event (Local Leadership)" status and is continuing to monitor the situation
@@ -13,11 +14,11 @@ Summary Text: 'Ecuador: An earthquake of magnitude 7.8 hit the coastal region of
 Person: Tyler Radford
 Working Group:
 - Activation
-Project:
-- 'Disaster Activation: Ecuador Earthquake 2016'
 Country:
 - Japan
 - Ecuador
+Project:
+- 'Disaster Activation: Ecuador Earthquake 2016'
 created: 1461002510
 ---
 

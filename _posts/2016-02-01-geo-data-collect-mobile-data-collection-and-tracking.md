@@ -1,14 +1,14 @@
 ---
 title: 'Geo Data Collect: Mobile Data Collection and Tracking'
-date: 2016-02-01 10:11:39 Z
+date: 2016-02-01 10:11:00 Z
 permalink: updates/2016-02-01_geo_data_collect_mobile_data_collection_and_tracking
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/GeoDataCollect.PNG
 Person: Yantisa Akhadi
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/GeoDataCollect.PNG
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1454321499
 ---
 

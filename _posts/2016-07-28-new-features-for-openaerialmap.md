@@ -2,6 +2,7 @@
 title: New Features for OpenAerialMap
 date: 2016-07-28 05:44:00 Z
 permalink: updates/2016-07-28_new_features_for_openaerialmap
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/oam-browser-post-illu-cover.png
 Person: Nate Smith
 Project:

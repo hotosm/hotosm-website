@@ -1,16 +1,15 @@
 ---
 title: HOT and YouthMappers Collaborate to Develop HOT University Clubs
-date: 2016-06-13 20:49:09 Z
+date: 2016-06-13 20:49:00 Z
 permalink: updates/2016-06-13_hot_and_youthmappers_collaborate_to_develop_hot_university_clubs
+published: false
 Summary Text: The Humanitarian OpenStreetMap Team (HOT) and YouthMappers share a common
   vision around engaging young people interested in the use of spatial data for humanitarian
   response and development. YouthMappers and HOT have already collaborated in many
   ways, including through use of HOT’s Tasking Manager, which is the platform used
   for collaborating in groups around mapping projects.
-Person: Cheryl Shaw
-Working Group: []
-Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/6dd283_fd5593dd0aa6412fb57cd6877e9a0065.png
+Person: Cheryl Shaw
 created: 1465850949
 ---
 

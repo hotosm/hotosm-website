@@ -1,7 +1,8 @@
 ---
 title: HOT's Commitment to the Sustainable Development Goals, and How You Can Help
-date: 2016-06-29 22:14:52 Z
+date: 2016-06-29 22:14:00 Z
 permalink: updates/2016-06-29_hot's_commitment_to_the_sustainable_development_goals_and_how_you_can_help
+published: false
 Summary Text: 'When I speak with HOT staff and volunteers in our community, I often
   ask what they''ve heard about the Sustainable Development Goals, or SDGs for short.
   Sometimes, people have heard of the term, or know that the term is somehow related
@@ -15,10 +16,8 @@ Summary Text: 'When I speak with HOT staff and volunteers in our community, I of
   water and sanitation. These projects are all taking place in challenging contexts:
   megacities in developing countries, refugee camps, and unplanned urban and rural
   housing settlements.So what does this have to do with the SDGs?'
-Person: Tyler Radford
-Working Group: []
-Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Chart_of_UN_Sustainable_Development_Goals.png
+Person: Tyler Radford
 created: 1467238492
 ---
 

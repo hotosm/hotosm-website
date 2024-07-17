@@ -1,15 +1,14 @@
 ---
 title: Welcome new HOT Voting Members!
-date: 2016-01-15 21:23:05 Z
+date: 2016-01-15 21:23:00 Z
 permalink: updates/2016-01-15_welcome_new_hot_voting_members!
+published: false
 Summary Text: The Humanitarian OpenStreetMap Team is pleased to welcome eighteen new
   voting members!
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/500px-Hot_logo.png
 Person: Russell Deffner
-Working Group: []
-Project: []
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/500px-Hot_logo.png
 created: 1452892985
 ---
 

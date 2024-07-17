@@ -1,13 +1,13 @@
 ---
 title: 'Jakarta Attacks: HOT Indonesia Team Safe'
-date: 2016-01-14 14:47:27 Z
+date: 2016-01-14 14:47:00 Z
 permalink: updates/2016-01-14_jakarta_attacks_hot_indonesia_team_safe
+published: false
 Person: Tyler Radford
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1452782847
 ---
 

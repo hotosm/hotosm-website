@@ -1,17 +1,17 @@
 ---
 title: 'Ecuador Earthquake: Day 16 Update'
-date: 2016-05-04 01:57:30 Z
+date: 2016-05-04 01:57:00 Z
 permalink: updates/2016-05-04_ecuador_earthquake_day_16_update
+published: false
 Summary Text: 'We want to highlight the amazing work done to date by the wonderful
   volunteers mappers of OpenStreetMap, with 2,300 individuals making close to 3 million
   map changes with the associated #MappingEcuador changeset comment.'
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/blog3_a.png
 Person: Mhairi O'Hara
-Working Group: []
-Project:
-- 'Disaster Activation: Ecuador Earthquake 2016'
 Country:
 - Ecuador
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/blog3_a.png
+Project:
+- 'Disaster Activation: Ecuador Earthquake 2016'
 created: 1462327050
 ---
 

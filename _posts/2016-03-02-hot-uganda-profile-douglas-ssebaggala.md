@@ -1,16 +1,16 @@
 ---
 title: 'HOT Uganda profile: Douglas Ssebaggala'
-date: 2016-03-02 16:06:13 Z
+date: 2016-03-02 16:06:00 Z
 permalink: updates/2016-03-02_hot_uganda_profile_douglas_ssebaggala
+published: false
 Summary Text: 'We have three Ugandan mapping supervisors on the HOT mapping team in
   Uganda: Douglas Ssebaggala, Geoffrey Kateregga and Ketty Adoch. They''ve all been
   involved with OpenStreetMap and HOT for some time, and would like to share their
   story and mapping history. Today, we''re speaking to Douglas.'
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG-20160302-WA0000.jpg
 Person: Paul Uithol
-Working Group: []
 Project:
 - Mapping access to digital financial services
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG-20160302-WA0000.jpg
 created: 1456934773
 ---
 

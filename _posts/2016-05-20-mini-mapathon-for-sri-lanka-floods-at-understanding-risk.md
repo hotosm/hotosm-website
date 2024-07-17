@@ -1,15 +1,16 @@
 ---
 title: Mini-Mapathon for Sri Lanka Floods at Understanding Risk
-date: 2016-05-20 09:55:52 Z
+date: 2016-05-20 09:55:00 Z
 permalink: updates/2016-05-20_mini-mapathon_for_sri_lanka_floods_at_understanding_risk
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Mapping+for+the+Sri+Lanka+Floods+at+Understanding+Risk+(May+2016).jpg
 Person: Heather Leson
 Working Group:
 - Activation
-Project:
-- 'Disaster Activation: Sri Lanka Flooding 2016'
 Country:
 - Sri Lanka
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Mapping+for+the+Sri+Lanka+Floods+at+Understanding+Risk+(May+2016).jpg
+Project:
+- 'Disaster Activation: Sri Lanka Flooding 2016'
 created: 1463738152
 ---
 

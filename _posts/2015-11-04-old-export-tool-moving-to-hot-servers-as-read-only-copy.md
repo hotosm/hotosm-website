@@ -1,12 +1,12 @@
 ---
 title: Old Export Tool Moving to HOT Servers as Read-Only Copy
-date: 2015-11-04 10:14:25 Z
+date: 2015-11-04 10:14:00 Z
 permalink: updates/2015-11-04_old_export_tool_moving_to_hot_servers_as_read-only_copy
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/export_tool.png
 Person: Mhairi O'Hara
-Working Group: []
 Project:
 - Export Tool
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/export_tool.png
 created: 1446632065
 ---
 

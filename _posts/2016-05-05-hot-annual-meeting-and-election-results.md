@@ -1,10 +1,9 @@
 ---
 title: HOT Annual Meeting and Election Results
-date: 2016-05-05 19:54:12 Z
+date: 2016-05-05 19:54:00 Z
 permalink: updates/2016-05-05_hot_annual_meeting_and_election_results
+published: false
 Person: Mikel Maron
-Working Group: []
-Project: []
 created: 1462478052
 ---
 

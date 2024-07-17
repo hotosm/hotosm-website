@@ -1,15 +1,16 @@
 ---
 title: 'Ecuador Earthquake: Day 7 Update'
-date: 2016-04-22 23:59:18 Z
+date: 2016-04-22 23:59:00 Z
 permalink: updates/2016-04-22_ecuador_earthquake_day_7_update
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Capture.JPG
 Person: Mhairi O'Hara
 Working Group:
 - Activation
-Project:
-- 'Disaster Activation: Ecuador Earthquake 2016'
 Country:
 - Ecuador
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Capture.JPG
+Project:
+- 'Disaster Activation: Ecuador Earthquake 2016'
 created: 1461369558
 ---
 

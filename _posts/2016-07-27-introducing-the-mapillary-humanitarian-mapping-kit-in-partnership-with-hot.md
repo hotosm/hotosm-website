@@ -1,11 +1,10 @@
 ---
 title: Introducing the Mapillary Humanitarian Mapping Kit, in Partnership with HOT
-date: 2016-07-27 14:13:45 Z
+date: 2016-07-27 14:13:00 Z
 permalink: updates/2016-07-27_introducing_the_mapillary_humanitarian_mapping_kit_in_partnership_with_hot
-Person: Tyler Radford
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2016-07-27-mapping-kit.png
+Person: Tyler Radford
 created: 1469628825
 ---
 
