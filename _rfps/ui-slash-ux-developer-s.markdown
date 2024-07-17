@@ -3,7 +3,6 @@ title: UI/UX Developer(s)
 date: 2024-07-17 16:23:00 Z
 published: false
 Deadline Date: 2024-07-31 23:59:00 Z
-Apply Form Link: omran.najjar@hotosm.org
 Page Contact:
   Contact Email: tech-data@hotosm.org
   Label: Submission Email
