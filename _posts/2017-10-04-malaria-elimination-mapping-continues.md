@@ -2,6 +2,7 @@
 title: Malaria Elimination Mapping Continues
 date: 2017-10-04 15:00:00 Z
 permalink: updates/2017-10-04_malaria_elimination_mapping_continues
+published: false
 Summary Text: HOT has teamed up with many partners working to eliminate the disease
   malaria. Malaria is preventable and curable and without transmission will cease
   to exist. In order to effectively carry out intervention campaigns, HOT has been

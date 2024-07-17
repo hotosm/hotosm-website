@@ -1,19 +1,20 @@
 ---
 title: 'HOT Activates for Three Disasters: Hurricane Irma, Mexico Earthquake, Bangladesh
   Floods'
-date: 2017-09-09 03:35:14 Z
+date: 2017-09-09 03:35:00 Z
 permalink: updates/2017-09-09_hot_activates_for_three_disasters_hurricane_irma_mexico_earthquake_bangladesh_fl
+published: false
 Summary Text: Cette première semaine de septembre 2017 a vu se produire des catastrophes
   et destructions d’une intensité sans précédent et la Communauté HOT a été activée
   pour y répondre. Les projets et sur la façon de fait pour participer sont détaillés
   ci-dessous. C’est un moment critique pour la vie de millions de personnes dans le
   monde et nous remercions les cartographes volontaires pour leur soutien.
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-09-08+at+22.29.14.png
 Person: Rebecca Firth
 Working Group:
 - Activation
 Project:
 - 'Disaster Activation: Hurricanes Irma, Maria, Mexico Earthquake, Bangladesh flooding'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-09-08+at+22.29.14.png
 created: 1504928114
 ---
 

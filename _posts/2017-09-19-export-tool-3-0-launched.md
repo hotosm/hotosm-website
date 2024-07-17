@@ -1,16 +1,17 @@
 ---
 title: Export Tool 3.0 Launched
-date: 2017-09-19 02:25:17 Z
+date: 2017-09-19 02:25:00 Z
 permalink: updates/2017-09-19_export_tool_30_launched
+published: false
 Summary Text: 'Version 3 of the Export Tool officially LAUNCHED on 18th September
   2017. The new version is now hosted at export.hotosm.org, with Version 2 available
   at old-export.hotosm.org till mid November 2017, when it will be shut down. '
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-09-18+at+22.08.50.png
 Person: Mhairi O'Hara
 Working Group:
 - Technical
 Project:
 - 'Export Tool 3.0 '
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-09-18+at+22.08.50.png
 created: 1505787917
 ---
 

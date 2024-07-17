@@ -1,17 +1,17 @@
 ---
 title: New Tasking Manager 3 Coming Today!
-date: 2017-10-18 07:18:29 Z
+date: 2017-10-18 07:18:00 Z
 permalink: updates/2017-10-18_new_tasking_manager_3_coming_today!
+published: false
 Summary Text: After several months of development work and 20,000+ lines of new code,
   the Humanitarian OpenStreetMap Team is pleased to announce the next generation of
   our venerable OSM Tasking Manager software is about to be launched. The new version
   of the Tasking Manager software will be rolled out to the main HOT servers in the
   next several days, but you can get an introduction and preview of it now.
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017-09-05_20h51_07.png
 Person: Blake Girardot
-Working Group: []
 Project:
 - Tasking Manager
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2017-09-05_20h51_07.png
 created: 1508311109
 ---
 

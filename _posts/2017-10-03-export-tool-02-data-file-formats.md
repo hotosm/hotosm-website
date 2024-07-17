@@ -1,17 +1,17 @@
 ---
 title: Export Tool | 02 Data File Formats
-date: 2017-10-03 20:08:44 Z
+date: 2017-10-03 20:08:00 Z
 permalink: updates/2017-10-03_export_tool_|_02_data_file_formats
+published: false
 Summary Text: 'This blog is the second in a series of ‘Learn Export Tool’ posts and
   focuses on the file formats available for OSM data to be converted to. Following
   the launch of the revamped tool on the 18th September 2017, the first Learn blog
   focused on ‘Selecting Area of Interest’. The other two posts to follow in the series
   will cover how to ‘Customise Map Features’ and examples of ‘Applying Exported Data’. '
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Export+Tool+-+Learn+Series.png
 Person: Mhairi O'Hara
-Working Group: []
 Project:
 - 'Export Tool 3.0 '
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Export+Tool+-+Learn+Series.png
 created: 1507061324
 ---
 

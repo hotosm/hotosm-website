@@ -1,11 +1,10 @@
 ---
 title: 1 MONTH til the HOT Summit 2017 in Ottawa, Ontario!
-date: 2017-08-17 15:15:20 Z
+date: 2017-08-17 15:15:00 Z
 permalink: updates/2017-08-17_1_month_til_the_hot_summit_2017_in_ottawa_ontario!
-Person: Rachel VanNice
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Summit+Blog+1+(6).png
+Person: Rachel VanNice
 created: 1502982920
 ---
 

@@ -1,14 +1,15 @@
 ---
 title: 'Fall 2017 Disaster Response: Calling All Mappers!'
-date: 2017-10-10 18:28:28 Z
+date: 2017-10-10 18:28:00 Z
 permalink: updates/2017-10-10_fall_2017_disaster_response_calling_all_mappers!
+published: false
 Summary Text: HOT continues response to multiple disasters...
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MexicoEarthquakes.PNG
 Person: Russell Deffner
 Working Group:
 - Activation
 Project:
 - 'Disaster Activation: Hurricanes Irma, Maria, Mexico Earthquake, Bangladesh flooding'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/MexicoEarthquakes.PNG
 created: 1507660108
 ---
 

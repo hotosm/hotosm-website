@@ -1,13 +1,14 @@
 ---
 title: 'HOT Activates for five disasters: update'
-date: 2017-09-26 07:14:46 Z
+date: 2017-09-26 07:14:00 Z
 permalink: updates/2017-09-26_hot_activates_for_five_disasters_update
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-09-29+at+12.27.20.png
 Person: Rebecca Firth
 Working Group:
 - Activation
 Project:
 - 'Disaster Activation: Hurricanes Irma, Maria, Mexico Earthquake, Bangladesh flooding'
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-09-29+at+12.27.20.png
 created: 1506410086
 ---
 

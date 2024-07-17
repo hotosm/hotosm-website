@@ -1,11 +1,10 @@
 ---
 title: First Ever YouthMappers Video Challenge
-date: 2017-09-08 21:48:49 Z
+date: 2017-09-08 21:48:00 Z
 permalink: updates/2017-09-08_first_ever_youthmappers_video_challenge_
-Person: Rachel VanNice
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/youthmappers.jpg
+Person: Rachel VanNice
 created: 1504907329
 ---
 

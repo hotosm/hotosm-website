@@ -2,6 +2,7 @@
 title: Export Tool | 01 Selecting Area of Interest
 date: 2017-09-25 21:41:00 Z
 permalink: updates/2017-09-25_export_tool_|_01_selecting_area_of_interest
+published: false
 Summary Text: 'This blog focuses on how to ''Select Area of Interest'', and is the
   first in a series of ‘Learn Export Tool’ posts following the launch of the revamped
   tool on the 18th September 2017. Three more blogs in the series will cover the different
