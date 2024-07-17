@@ -1,6 +1,7 @@
 ---
 title: 'Before-After Maps: Visualizing OSM Mapping Contribution Over Time'
 date: 2021-09-16 09:06:00 Z
+published: false
 tags:
 - tech
 Feature Image: https://cdn.hotosm.org/website/KLL+Before+After+Image.jpg

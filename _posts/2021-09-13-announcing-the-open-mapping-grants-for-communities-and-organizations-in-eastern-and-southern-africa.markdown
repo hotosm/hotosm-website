@@ -2,6 +2,7 @@
 title: Announcing the Open Mapping Grants for communities and organizations in Eastern
   and Southern Africa
 date: 2021-09-13 08:53:00 Z
+published: false
 Summary Text: The Open Mapping Hub Eastern and Southern Africa (ESA) is excited to
   announce the Open Mapping Grants to meet the hub's strategic aim to contribute to
   HOT’s goal of mapping an area home to one billion people in areas vulnerable to
