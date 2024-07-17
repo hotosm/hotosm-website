@@ -1,12 +1,12 @@
 ---
 title: 'Call For Participation: Crowdsourced Damage Assessment'
-date: 2017-06-28 06:11:15 Z
+date: 2017-06-28 06:11:00 Z
 permalink: updates/2017-06-28_call_for_participation_crowdsourced_damage_assessment
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-06-27+at+22.57.42.jpg
 Person: Cristiano Giovando
-Working Group: []
 Project:
 - Rapid post-disaster damage assessment research
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Screen+Shot+2017-06-27+at+22.57.42.jpg
 created: 1498630275
 ---
 

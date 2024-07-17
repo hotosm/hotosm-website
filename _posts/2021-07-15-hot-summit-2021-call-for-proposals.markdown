@@ -1,6 +1,7 @@
 ---
 title: HOT Summit 2021 Call for Proposals
 date: 2021-07-15 12:46:00 Z
+published: false
 Summary Text: "The 2021 HOT Summit Call for Proposals is now open! Submit your ideas
   for panels and talks today! Deadline is 31 August.\n¡La Convocatoria de propuestas
   para la Cumbre HOT 2021 está abierta! Envía tus ideas para paneles y charlas hoy

@@ -1,6 +1,7 @@
 ---
 title: Second Call for applications for Asia-Pacific University Students Clubs Sponsorship!
 date: 2022-11-07 11:27:00 Z
+published: false
 Summary Text: Applications for Asia-Pacific University Students Clubs Sponsorship
   are open again!
 Person: Can Unen

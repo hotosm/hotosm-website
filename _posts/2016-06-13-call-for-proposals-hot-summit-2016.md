@@ -1,14 +1,14 @@
 ---
 title: Call for Proposals - HOT Summit 2016
-date: 2016-06-13 23:11:54 Z
+date: 2016-06-13 23:11:00 Z
 permalink: updates/2016-06-13_call_for_proposals_-_hot_summit_2016
+published: false
 Summary Text: We invite you to submit a proposal to present a topic of interest at
   The Second Annual HOT Summit 2016 to be held in Brussels, Thursday, September 22nd
   at the BTC Conference Center - Espace Jacqmotte the day before State of the Map-International.  This
   year's theme is OpenStreetMap, the Global HOT Community, and Achieving the Sustainable
   Development Goals.
 Person: Cheryl Shaw
-Working Group: []
 Project:
 - HOT Summit 2016
 created: 1465859514

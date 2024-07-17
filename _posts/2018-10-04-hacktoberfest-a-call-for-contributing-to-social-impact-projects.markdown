@@ -1,6 +1,7 @@
 ---
 title: 'Hacktoberfest: A Call for Contributing to Social Impact Projects'
 date: 2018-10-04 13:29:00 Z
+published: false
 tags:
 - tech
 Summary Text: Join in the celebration of open source software by contributing to the
