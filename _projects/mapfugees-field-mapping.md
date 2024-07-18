@@ -12,7 +12,7 @@ Country:
 - France
 Impact Area:
 - Displacement & Safe Migration
-Highlight: "Displacement & Safe Migration"
+Highlight: Displacement & Safe Migration
 Person:
 - Blake Girardot
 - Katja Ulbert

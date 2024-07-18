@@ -32,7 +32,7 @@ Impact Area:
 - Gender Equality
 - Disasters & Climate Resilience
 - Public Health
-Highlight: "Gender Equality"
+Highlight: Gender Equality
 Person:
 - Mikko Tamura
 Duration:

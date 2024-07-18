@@ -12,7 +12,7 @@ Country:
 Impact Area:
 - Disasters & Climate Resilience
 - Sustainable Cities & Communities
-Highlight: "Sustainable Cities & Communities"
+Highlight: Sustainable Cities & Communities
 Partner:
 - iLab Liberia
 Duration:

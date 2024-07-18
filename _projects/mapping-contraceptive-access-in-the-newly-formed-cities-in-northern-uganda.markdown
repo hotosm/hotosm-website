@@ -11,7 +11,7 @@ Country:
 Impact Area:
 - Public Health
 - Gender Equality
-Highlight: "Public Health"
+Highlight: Public Health
 Partner:
 - Uganda Ministry of Health
 - Amara Hub
