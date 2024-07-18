@@ -1,10 +1,9 @@
 ---
 title: Haiti, Mission 2 by Mikel
-date: 2010-05-10 18:18:59 Z
+date: 2010-05-10 18:18:00 Z
 permalink: updates/2010-05-10_haiti_mission_2_by_mikel
+published: false
 Person: Mikel Maron
-Working Group: []
-Project: []
 created: 1273515539
 ---
 

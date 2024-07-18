@@ -1,10 +1,9 @@
 ---
 title: Schuyler Erle's presentation at State Of The Map EU
-date: 2011-07-18 18:46:26 Z
+date: 2011-07-18 18:46:00 Z
 permalink: updates/2011-07-18_schuyler_erle's_presentation_at_state_of_the_map_eu
+published: false
 Person: Harry Wood
-Working Group: []
-Project: []
 created: 1311014786
 ---
 

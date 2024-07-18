@@ -1,10 +1,9 @@
 ---
 title: Pakistan SPOT imagery coverage extended
-date: 2010-09-04 07:54:39 Z
+date: 2010-09-04 07:54:00 Z
 permalink: updates/2010-09-04_pakistan_spot_imagery_coverage_extended
+published: false
 Person: Harry Wood
-Working Group: []
-Project: []
 created: 1283586879
 ---
 

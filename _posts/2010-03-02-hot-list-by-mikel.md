@@ -1,10 +1,9 @@
 ---
 title: HOT List by Mikel
-date: 2010-03-02 20:55:03 Z
+date: 2010-03-02 20:55:00 Z
 permalink: updates/2010-03-02_hot_list_by_mikel
+published: false
 Person: Mikel Maron
-Working Group: []
-Project: []
 created: 1267563303
 ---
 

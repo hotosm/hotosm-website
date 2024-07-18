@@ -1,11 +1,10 @@
 ---
 title: Haiti OSM Mapping for Japan and Libya
-date: 2011-03-15 05:56:59 Z
+date: 2011-03-15 05:56:00 Z
 permalink: updates/2011-03-15_haiti_osm_mapping_for_japan_and_libya
-Person: Mikel Maron
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/5527736750_1ca7155c84.jpg
+Person: Mikel Maron
 created: 1300168619
 ---
 

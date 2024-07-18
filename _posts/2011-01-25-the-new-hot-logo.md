@@ -1,10 +1,9 @@
 ---
 title: The new HOT logo
-date: 2011-01-25 10:47:41 Z
+date: 2011-01-25 10:47:00 Z
 permalink: updates/2011-01-25_the_new_hot_logo
+published: false
 Person: Harry Wood
-Working Group: []
-Project: []
 created: 1295952461
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: Haiti mission 3 - Training Day with Haitian partners of the project WINNER
-date: 2010-06-18 20:27:30 Z
+date: 2010-06-18 20:27:00 Z
 permalink: updates/2010-06-18_haiti_mission_3_-_training_day_with_haitian_partners_of_the_project_winner
+published: false
 Person: Nicolas Chavent
-Working Group: []
-Project: []
 created: 1276892850
 ---
 

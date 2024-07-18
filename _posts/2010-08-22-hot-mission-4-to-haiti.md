@@ -1,12 +1,12 @@
 ---
 title: HOT Mission 4 to Haiti
-date: 2010-08-22 20:18:23 Z
+date: 2010-08-22 20:18:00 Z
 permalink: updates/2010-08-22_hot_mission_4_to_haiti
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/4777521706_9a2f8c222d_m.jpg
 Person: Kate Chapman
 Working Group:
 - Technical
-Project: []
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/4777521706_9a2f8c222d_m.jpg
 created: 1282508303
 ---
 

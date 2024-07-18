@@ -1,11 +1,11 @@
 ---
 title: Haiti mission 3 - First day in the UN logistics base in Port Au Prince
-date: 2010-06-15 20:33:09 Z
+date: 2010-06-15 20:33:00 Z
 permalink: updates/2010-06-15_haiti_mission_3_-_first_day_in_the_un_logistics_base_in_port_au_prince
+published: false
 Person: Nicolas Chavent
 Working Group:
 - Communications
-Project: []
 created: 1276633989
 ---
 

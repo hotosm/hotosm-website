@@ -1,10 +1,9 @@
 ---
 title: HOT in Lombok, Indonesia
-date: 2011-07-10 22:36:35 Z
+date: 2011-07-10 22:36:00 Z
 permalink: updates/2011-07-10_hot_in_lombok_indonesia
+published: false
 Person: Emir Hartato
-Working Group: []
-Project: []
 created: 1310337395
 ---
 

@@ -1,11 +1,10 @@
 ---
 title: Maps for Mozambique
-date: 2010-11-17 18:17:41 Z
+date: 2010-11-17 18:17:00 Z
 permalink: updates/2010-11-17_maps_for_mozambique
-Person: Iván Sánchez Ortega
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/mozambique_visado.jpg
+Person: Iván Sánchez Ortega
 created: 1290017861
 ---
 

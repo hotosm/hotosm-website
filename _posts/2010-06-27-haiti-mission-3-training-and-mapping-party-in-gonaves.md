@@ -1,10 +1,9 @@
 ---
 title: Haiti mission 3 - Training and Mapping Party in GonaÃ¯ves
-date: 2010-06-27 23:11:58 Z
+date: 2010-06-27 23:11:00 Z
 permalink: updates/2010-06-27_haiti_mission_3_-_training_and_mapping_party_in_gonaÃ¯ves
+published: false
 Person: Kate Chapman
-Working Group: []
-Project: []
 created: 1277680318
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: Meeting face-to-face at SOTM Denver
-date: 2011-09-11 22:12:59 Z
+date: 2011-09-11 22:12:00 Z
 permalink: updates/2011-09-11_meeting_face-to-face_at_sotm_denver
+published: false
 Person: Harry Wood
 Working Group:
 - Training
-Project: []
 created: 1315779179
 ---
 

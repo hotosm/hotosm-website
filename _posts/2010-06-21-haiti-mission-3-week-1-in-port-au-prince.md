@@ -1,11 +1,11 @@
 ---
 title: Haiti mission 3 - Week 1 in Port-au-Prince
-date: 2010-06-21 01:53:01 Z
+date: 2010-06-21 01:53:00 Z
 permalink: updates/2010-06-21_haiti_mission_3_-_week_1_in_port-au-prince
+published: false
 Person: Kate Chapman
 Working Group:
 - Training
-Project: []
 created: 1277085181
 ---
 

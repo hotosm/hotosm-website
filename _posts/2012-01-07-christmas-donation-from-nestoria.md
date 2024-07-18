@@ -1,10 +1,9 @@
 ---
 title: Christmas donation from nestoria
-date: 2012-01-07 04:33:15 Z
+date: 2012-01-07 04:33:00 Z
 permalink: updates/2012-01-07_christmas_donation_from_nestoria
+published: false
 Person: Harry Wood
-Working Group: []
-Project: []
 created: 1325910795
 ---
 

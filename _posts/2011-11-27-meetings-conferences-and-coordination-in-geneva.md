@@ -1,11 +1,11 @@
 ---
 title: Meetings, Conferences and Coordination in Geneva
-date: 2011-11-27 22:43:05 Z
+date: 2011-11-27 22:43:00 Z
 permalink: updates/2011-11-27_meetings_conferences_and_coordination_in_geneva
+published: false
 Person: Kate Chapman
 Working Group:
 - Community
-Project: []
 created: 1322433785
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: A Big Thank You to a Few of Our Supporters
-date: 2011-01-26 23:54:33 Z
+date: 2011-01-26 23:54:00 Z
 permalink: updates/2011-01-26_a_big_thank_you_to_a_few_of_our_supporters
+published: false
 Person: robert
-Working Group: []
-Project: []
 created: 1296086073
 ---
 

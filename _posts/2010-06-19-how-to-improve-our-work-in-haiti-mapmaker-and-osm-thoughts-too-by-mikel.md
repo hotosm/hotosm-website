@@ -1,10 +1,9 @@
 ---
 title: How to improve our work in Haiti? MapMaker and OSM thoughts too by Mikel
-date: 2010-06-19 08:33:57 Z
+date: 2010-06-19 08:33:00 Z
 permalink: updates/2010-06-19_how_to_improve_our_work_in_haiti?_mapmaker_and_osm_thoughts_too_by_mikel
+published: false
 Person: Mikel Maron
-Working Group: []
-Project: []
 created: 1276936437
 ---
 

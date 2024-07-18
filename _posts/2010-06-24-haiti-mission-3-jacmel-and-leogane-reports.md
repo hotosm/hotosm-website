@@ -1,10 +1,9 @@
 ---
 title: Haiti mission 3 - Jacmel and Leogane reports
-date: 2010-06-24 20:22:40 Z
+date: 2010-06-24 20:22:00 Z
 permalink: updates/2010-06-24_haiti_mission_3_-_jacmel_and_leogane_reports
+published: false
 Person: Nicolas Chavent
-Working Group: []
-Project: []
 created: 1277410960
 ---
 

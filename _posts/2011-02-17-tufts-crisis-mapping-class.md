@@ -1,10 +1,9 @@
 ---
 title: Tufts Crisis Mapping Class
-date: 2011-02-17 23:25:12 Z
+date: 2011-02-17 23:25:00 Z
 permalink: updates/2011-02-17_tufts_crisis_mapping_class
+published: false
 Person: Mikel Maron
-Working Group: []
-Project: []
 created: 1297985112
 ---
 

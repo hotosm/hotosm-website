@@ -1,10 +1,9 @@
 ---
 title: Bevölkerungsschutz und Katastrophenhilfe
-date: 2011-06-16 18:01:23 Z
+date: 2011-06-16 18:01:00 Z
 permalink: updates/2011-06-16_bevölkerungsschutz_und_katastrophenhilfe
+published: false
 Person: Harry Wood
-Working Group: []
-Project: []
 created: 1308247283
 ---
 

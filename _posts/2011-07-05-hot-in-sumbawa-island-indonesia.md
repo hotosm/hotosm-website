@@ -1,10 +1,9 @@
 ---
 title: HOT in Sumbawa Island, Indonesia
-date: 2011-07-05 22:11:38 Z
+date: 2011-07-05 22:11:00 Z
 permalink: updates/2011-07-05_hot_in_sumbawa_island_indonesia
+published: false
 Person: Emir Hartato
-Working Group: []
-Project: []
 created: 1309903898
 ---
 

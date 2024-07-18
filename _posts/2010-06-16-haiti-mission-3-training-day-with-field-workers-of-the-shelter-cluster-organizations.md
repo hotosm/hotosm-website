@@ -1,10 +1,9 @@
 ---
 title: Haiti mission 3 - Training Day with field workers of the Shelter Cluster organizations
-date: 2010-06-16 20:31:31 Z
+date: 2010-06-16 20:31:00 Z
 permalink: updates/2010-06-16_haiti_mission_3_-_training_day_with_field_workers_of_the_shelter_cluster_organiz
+published: false
 Person: Nicolas Chavent
-Working Group: []
-Project: []
 created: 1276720291
 ---
 

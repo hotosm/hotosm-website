@@ -1,10 +1,9 @@
 ---
 title: HOT thoughts by Trevor
-date: 2010-06-29 01:10:05 Z
+date: 2010-06-29 01:10:00 Z
 permalink: updates/2010-06-29_hot_thoughts_by_trevor
+published: false
 Person: Trevor Ellerman
-Working Group: []
-Project: []
 created: 1277773805
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: 7 Indonesian Students goes to Denver for SotM and FOSS4G!
-date: 2011-09-28 15:00:15 Z
+date: 2011-09-28 15:00:00 Z
 permalink: updates/2011-09-28_7_indonesian_students_goes_to_denver_for_sotm_and_foss4g!
+published: false
 Person: Emir Hartato
-Working Group: []
-Project: []
 created: 1317222015
 ---
 

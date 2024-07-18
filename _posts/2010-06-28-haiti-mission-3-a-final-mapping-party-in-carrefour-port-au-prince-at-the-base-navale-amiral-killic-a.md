@@ -1,11 +1,10 @@
 ---
 title: Haiti mission 3 - A final mapping party in Carrefour (Port Au Prince) at The
   Base Navale Amiral Killic and ADRA.
-date: 2010-06-28 20:15:42 Z
+date: 2010-06-28 20:15:00 Z
 permalink: updates/2010-06-28_haiti_mission_3_-_a_final_mapping_party_in_carrefour_(port_au_prince)_at_the_bas
+published: false
 Person: Nicolas Chavent
-Working Group: []
-Project: []
 created: 1277756142
 ---
 

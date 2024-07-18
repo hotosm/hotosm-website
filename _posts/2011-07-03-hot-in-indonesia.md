@@ -1,11 +1,11 @@
 ---
 title: HOT in Indonesia
-date: 2011-07-03 17:42:56 Z
+date: 2011-07-03 17:42:00 Z
 permalink: updates/2011-07-03_hot_in_indonesia
+published: false
 Person: Kate Chapman
 Working Group:
 - Security
-Project: []
 created: 1309714976
 ---
 

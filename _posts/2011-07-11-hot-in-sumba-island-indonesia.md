@@ -1,10 +1,9 @@
 ---
 title: HOT in Sumba Island, Indonesia
-date: 2011-07-11 20:40:50 Z
+date: 2011-07-11 20:40:00 Z
 permalink: updates/2011-07-11_hot_in_sumba_island_indonesia
+published: false
 Person: Emir Hartato
-Working Group: []
-Project: []
 created: 1310416850
 ---
 

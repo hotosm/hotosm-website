@@ -1,10 +1,9 @@
 ---
 title: Haiti mission 3 - Training Day with the IOM Community Mobilizers
-date: 2010-06-20 06:39:04 Z
+date: 2010-06-20 06:39:00 Z
 permalink: updates/2010-06-20_haiti_mission_3_-_training_day_with_the_iom_community_mobilizers
+published: false
 Person: Kate Chapman
-Working Group: []
-Project: []
 created: 1277015944
 ---
 

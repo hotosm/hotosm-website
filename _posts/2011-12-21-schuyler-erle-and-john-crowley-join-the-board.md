@@ -1,10 +1,9 @@
 ---
 title: Schuyler Erle and John Crowley join the board
-date: 2011-12-21 10:38:32 Z
+date: 2011-12-21 10:38:00 Z
 permalink: updates/2011-12-21_schuyler_erle_and_john_crowley_join_the_board
+published: false
 Person: Harry Wood
-Working Group: []
-Project: []
 created: 1324463912
 ---
 
