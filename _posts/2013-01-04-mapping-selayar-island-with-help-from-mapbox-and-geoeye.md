@@ -1,14 +1,14 @@
 ---
 title: Mapping Selayar Island with Help from MapBox and GeoEye
-date: 2013-01-04 16:16:02 Z
+date: 2013-01-04 16:16:00 Z
 permalink: updates/2013-01-04_mapping_selayar_island_with_help_from_mapbox_and_geoeye
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/selayar.jpg
 Person: Kate Chapman
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/selayar.jpg
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1357316162
 ---
 

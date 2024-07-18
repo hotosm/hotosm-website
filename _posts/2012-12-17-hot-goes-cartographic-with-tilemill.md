@@ -1,14 +1,14 @@
 ---
 title: HOT goes Cartographic with TileMill
-date: 2012-12-17 09:01:06 Z
+date: 2012-12-17 09:01:00 Z
 permalink: updates/2012-12-17_hot_goes_cartographic_with_tilemill
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_296.png
 Person: Katrina E.
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_296.png
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1355734866
 ---
 

@@ -1,19 +1,19 @@
 ---
 title: 'Faces of HOT:  Meet Dewi, Indonesian OSM Trainer'
-date: 2012-11-07 09:19:49 Z
+date: 2012-11-07 09:19:00 Z
 permalink: updates/2012-11-07_faces_of_hot__meet_dewi_indonesian_osm_trainer
+published: false
 Summary Text: 'Since August 2012, the HOT team has included eight Indonesian trainers
   who teach beginning and, soon, intermediate and advanced OSM workshops all over
   Indonesia.  Six of these OSM instructors were hired in August, while two (Emir and
   Va) have been working with Kate since June 2011.   This week, we will meet <strong>Dewi
   Sulistioningrum </strong> (say that ten times fast...).  '
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/dewi2_0.jpg
 Person: Katrina E.
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/dewi2_0.jpg
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1352279989
 ---
 

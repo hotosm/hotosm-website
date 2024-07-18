@@ -2,6 +2,7 @@
 title: OSM FlossManuals in Kreyòl
 date: 2012-12-05 16:31:00 Z
 permalink: updates/2012-12-05_osm_flossmanuals_in_kreyòl
+published: false
 Summary Text: 'This week in Port-au-Prince is happening a booksprint to write a kreyol
   manual of OpenStreetMap.<br>On Saturday December 8, the Haitian community will have
   a manual in its own language.<h2> Floss Manuals ? </h2>Floss Manuals is a platform
@@ -12,7 +13,6 @@ Summary Text: 'This week in Port-au-Prince is happening a booksprint to write a 
   take care of the correction process and have the book published (online and possibly
   on paper format). '
 Person: Anne Goldenberg
-Working Group: []
 Project:
 - OSM FlossManuals in Kreyòl (Creole)
 created: 1354725060

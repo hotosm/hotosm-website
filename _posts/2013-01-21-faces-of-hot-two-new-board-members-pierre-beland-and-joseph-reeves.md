@@ -1,7 +1,8 @@
 ---
 title: 'Faces of HOT:  Two New Board Members, Pierre Beland and Joseph Reeves'
-date: 2013-01-21 07:00:05 Z
+date: 2013-01-21 07:00:00 Z
 permalink: updates/2013-01-21_faces_of_hot__two_new_board_members_pierre_beland_and_joseph_reeves
+published: false
 Summary Text: <p><b>Pierre Béland</b> and <b>Joseph Reeves</b> were voted onto the
   HOT board last week.  Their nominations put the board to a total of seven for this
   year (with continuing five other members being Nicolas Chavent, Schuyler Erle, Mikel
@@ -10,10 +11,8 @@ Summary Text: <p><b>Pierre Béland</b> and <b>Joseph Reeves</b> were voted onto 
   Beland comes from Monteal, Canada.  An economist/programmer in his previous life,  He
   has set up many remote projects, most currently in the DRC with Claire Halleux.  You
   can read about that active project <a href="/updates/2012-12-12_hot_activation_south_and_north_kivu_democratic_republic_of_congo">here</a>.  <p>[inline:jose.jpg]
-Person: Katrina E.
-Working Group: []
-Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/jose_0.jpg
+Person: Katrina E.
 created: 1358751605
 ---
 

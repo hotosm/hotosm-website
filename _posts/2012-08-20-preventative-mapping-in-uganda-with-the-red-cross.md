@@ -1,7 +1,8 @@
 ---
 title: Preventative Mapping in Uganda with the Red Cross
-date: 2012-08-20 17:00:33 Z
+date: 2012-08-20 17:00:00 Z
 permalink: updates/2012-08-20_preventative_mapping_in_uganda_with_the_red_cross
+published: false
 Summary Text: 'HOT has teamed up with the American and Ugandan Red Cross to virtually
   map the cities of <strong>Gulu</strong> and <strong>Lira</strong>.   These two cities
   have expanded rapidly in the last twenty years and currently do not have up-to-date
@@ -12,8 +13,6 @@ Summary Text: 'HOT has teamed up with the American and Ugandan Red Cross to virt
   especially so that response vehicles can identify the quickest routes for fires
   or accidents.    '
 Person: Katrina E.
-Working Group: []
-Project: []
 created: 1345482033
 ---
 

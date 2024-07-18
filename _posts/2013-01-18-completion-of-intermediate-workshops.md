@@ -1,7 +1,8 @@
 ---
 title: Completion of Intermediate Workshops
-date: 2013-01-18 10:53:02 Z
+date: 2013-01-18 10:53:00 Z
 permalink: updates/2013-01-18_completion_of_intermediate_workshops
+published: false
 Summary Text: The six pilot workshops to the BNPB on intermediate OSM skills were
   completed earlier this week.  Our team of eight HOT trainers finished their last
   workshop to members of the Kupang government with an interesting ending.  The day
@@ -10,13 +11,12 @@ Summary Text: The six pilot workshops to the BNPB on intermediate OSM skills wer
   affected areas.   (Though we knew what to expect when heading home, it still was
   a shock to see so many roads flooded and people surrendering their beds and belongings
   to higher ground.  Read more about the Jakarta Floods <a href=“http://www.thejakartapost.com/news/2013/01/17/jakarta-flood-death-toll-increases-five.html“>here</a>.)
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_124.png
 Person: Katrina E.
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_124.png
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1358506382
 ---
 

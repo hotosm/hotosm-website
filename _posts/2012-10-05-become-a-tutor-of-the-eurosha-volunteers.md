@@ -2,6 +2,7 @@
 title: Become a tutor of the Eurosha volunteers!
 date: 2012-10-05 00:13:00 Z
 permalink: updates/2012-10-05_become_a_tutor_of_the_eurosha_volunteers!
+published: false
 Summary Text: Nicolas and I have been training the 25 Eurosha volunteers who will
   be split in 4 four teams for being deployed 6 months in Chad, Central African Republic,
   Burundi and Kenya over the next 6 months, starting within the next 5-10 days. Marion,
@@ -12,11 +13,10 @@ Summary Text: Nicolas and I have been training the 25 Eurosha volunteers who wil
   of them, coming from Czech Republic, Italy, Poland, Chad, Bulgaria, Burundi, France,
   Hungary, Kenya, Belgium, Slovenia and Central African Republic.[inline:P1200042
   1024x768.JPG]
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1200042+1024x768.JPG
 Person: Séverin Ménard
-Working Group: []
 Project:
 - EUROSHA
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1200042+1024x768.JPG
 created: 1349395980
 ---
 

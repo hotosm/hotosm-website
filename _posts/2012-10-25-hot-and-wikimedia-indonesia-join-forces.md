@@ -1,7 +1,8 @@
 ---
 title: HOT and Wikimedia Indonesia join forces
-date: 2012-10-25 05:22:30 Z
+date: 2012-10-25 05:22:00 Z
 permalink: updates/2012-10-25_hot_and_wikimedia_indonesia_join_forces
+published: false
 Summary Text: 'We met at the National Library of Indonesia-- partly for its space
   and partly for its reference materials. Unlike the English wikipedia, Wedimedia
   Indonesia requires two or more sources per page.  Full articles require sources
@@ -12,13 +13,12 @@ Summary Text: 'We met at the National Library of Indonesia-- partly for its spac
   at Wikimedia Australia, Wikimedia Indonesia teams and HOT: Indo.  <strong>What:
   </strong> Learning how to edit wiki road pages, upload pictures on wiki commons
   and link these pages to OSM, and other maps.  '
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_115.png
 Person: Katrina E.
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_115.png
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1351142550
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: OpenIR meets with the Indonesian Team
-date: 2013-02-01 08:27:28 Z
+date: 2013-02-01 08:27:00 Z
 permalink: updates/2013-02-01_openir_meets_with_the_indonesian_team
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_349.png
 Person: Katrina E.
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/Selection_349.png
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1359707248
 ---
 

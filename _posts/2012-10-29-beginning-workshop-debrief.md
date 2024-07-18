@@ -1,20 +1,20 @@
 ---
 title: Beginning Workshop Debrief
-date: 2012-10-29 11:00:03 Z
+date: 2012-10-29 11:00:00 Z
 permalink: updates/2012-10-29_beginning_workshop_debrief
+published: false
 Summary Text: Last week we finished our Beginning OSM workshops for BPBD staff, local
   non-government organizations, and university in six provinces that are high risk
   for disasters. AIFDR and BPBD are mapping in these six provinces (East Java, West
   Java, South Sulawesi, West Papua, South Sumatra and NTT) to see if OpenStreetMap
   can become the platform for gathering valuable information in Indonesia. Here is
   what our team had to say about the beginning workshops
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image.jpg
 Person: Katrina E.
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image.jpg
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1351508403
 ---
 

@@ -1,18 +1,18 @@
 ---
 title: LearnOSM Origin and Relaunch
-date: 2013-03-20 16:06:46 Z
+date: 2013-03-20 16:06:00 Z
 permalink: updates/2013-03-20_learnosm_origin_and_relaunch
+published: false
 Summary Text: 'Today we are excited to announce the relaunch of LearnOSM in conjunction
   with the MapBox team.LearnOSM was originally envisioned by Jeff Haack, it came out
   of necessity from HOT''s work in Indonesia. There are many training materials for
   OpenStreetMap, but few that have been designed in a clear way for beginners. Often
   instructions are buried in a wiki or assume someone already has some indepth technical
   knowledge. '
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/screen_shot_learn.png
 Person: Kate Chapman
-Working Group: []
 Project:
 - LearnOSM
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/screen_shot_learn.png
 created: 1363795606
 ---
 

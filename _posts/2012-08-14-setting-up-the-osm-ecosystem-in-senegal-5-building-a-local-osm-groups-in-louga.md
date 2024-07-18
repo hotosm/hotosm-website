@@ -1,11 +1,10 @@
 ---
 title: 'Setting up the OSM ecosystem in Senegal 5: Building a local OSM groups in
   Louga'
-date: 2012-08-14 13:34:28 Z
+date: 2012-08-14 13:34:00 Z
 permalink: updates/2012-08-14_setting_up_the_osm_ecosystem_in_senegal_5_building_a_local_osm_groups_in_louga
+published: false
 Person: Stephane Goldstein
-Working Group: []
-Project: []
 created: 1344951268
 ---
 

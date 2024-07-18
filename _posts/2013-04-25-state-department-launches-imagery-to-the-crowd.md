@@ -1,7 +1,8 @@
 ---
 title: State Department Launches Imagery to the Crowd
-date: 2013-04-25 17:41:46 Z
+date: 2013-04-25 17:41:00 Z
 permalink: updates/2013-04-25_state_department_launches_imagery_to_the_crowd
+published: false
 Summary Text: The State Department Humanitarian Information Unit has launched <a href="https://hiu.state.gov/ittc/ittc.aspx">Imagery
   to the Crowd</a>![inline:Screen-Shot-2013-04-24-at-2.24.34-PM.png]This is important
   formal recognition of the partnership we've built over the past couple years. The
@@ -12,7 +13,6 @@ Summary Text: The State Department Humanitarian Information Unit has launched <a
 Person: Mikel Maron
 Working Group:
 - Governance
-Project: []
 created: 1366911706
 ---
 

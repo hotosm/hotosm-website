@@ -1,12 +1,12 @@
 ---
 title: 'Setting up the OSM ecosystem in Senegal 1: Reaching out to GIS projects'
-date: 2012-07-31 13:18:20 Z
+date: 2012-07-31 13:18:00 Z
 permalink: updates/2012-07-31_setting_up_the_osm_ecosystem_in_senegal_1_reaching_out_to_gis_projects
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image001_0.jpg
 Person: Nicolas Chavent
-Working Group: []
 Project:
 - Senegal
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image001_0.jpg
 created: 1343740700
 ---
 

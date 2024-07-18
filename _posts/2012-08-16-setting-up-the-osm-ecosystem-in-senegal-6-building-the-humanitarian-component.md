@@ -1,18 +1,18 @@
 ---
 title: 'Setting up the OSM ecosystem in Senegal 6: Building the humanitarian component'
-date: 2012-08-16 14:52:51 Z
+date: 2012-08-16 14:52:00 Z
 permalink: updates/2012-08-16_setting_up_the_osm_ecosystem_in_senegal_6_building_the_humanitarian_component
+published: false
 Summary Text: 'It’s finally time to mention the mapping party HOT and <a href="http://ochaonline.un.org/Default.aspx?alias=ochaonline.un.org/rowca">OCHA-ROWCA</a>
   co-organized at the OCHA Office in Dakar the 30-May where we brought together UN
   IM/GIS from OCHA, <a href="http://www.wfp.org/countries/senegal">World Food Program</a>,
   <a href="http://www.unicef.org/infobycountry/senegal.html">UNICEF</a> and <a href="http://www.icrc.org/eng/where-we-work/africa/senegal/index.jsp">ICRC</a>,
   Karim Sy and Herman Koassy from <a href="http://www.jokkolabs.net/">JokkoLabs</a>
   and HOT. '
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image008_0.jpg
 Person: Nicolas Chavent
-Working Group: []
 Project:
 - Senegal
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/image008_0.jpg
 created: 1345128771
 ---
 

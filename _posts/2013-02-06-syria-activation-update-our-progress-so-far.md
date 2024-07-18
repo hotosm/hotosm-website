@@ -1,7 +1,8 @@
 ---
 title: 'Syria Activation Update: Our progress so far'
-date: 2013-02-06 20:51:28 Z
+date: 2013-02-06 20:51:00 Z
 permalink: updates/2013-02-06_syria_activation_update_our_progress_so_far
+published: false
 Summary Text: After a week and a half of work on the current Syria activation, we
   have made pleasing progress and have seen some fantastic results. Volunteers have
   begun mapping highlighted areas from the available Bing aerial imagery, the first
@@ -11,8 +12,6 @@ Summary Text: After a week and a half of work on the current Syria activation, w
   grateful to anyone that traces areas of Syria not covered by a task. Having said
   that, I've just added the next three jobs to the Tasking Manager:<ul><li><a href="http://tasks.hotosm.org/job/168">Hama</a></li>
 Person: Joseph Reeves
-Working Group: []
-Project: []
 created: 1360183888
 ---
 

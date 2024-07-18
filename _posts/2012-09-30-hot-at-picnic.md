@@ -1,11 +1,10 @@
 ---
 title: HOT at PICNIC
-date: 2012-09-30 16:01:43 Z
+date: 2012-09-30 16:01:00 Z
 permalink: updates/2012-09-30_hot_at_picnic
-Person: Harry Wood
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/HOT-PICNIC-presentation.jpg
+Person: Harry Wood
 created: 1349020903
 ---
 

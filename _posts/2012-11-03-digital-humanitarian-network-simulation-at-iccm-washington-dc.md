@@ -1,10 +1,9 @@
 ---
 title: Digital Humanitarian Network Simulation at ICCM Washington DC
-date: 2012-11-03 08:35:07 Z
+date: 2012-11-03 08:35:00 Z
 permalink: updates/2012-11-03_digital_humanitarian_network_simulation_at_iccm_washington_dc
+published: false
 Person: Séverin Ménard
-Working Group: []
-Project: []
 created: 1351931707
 ---
 

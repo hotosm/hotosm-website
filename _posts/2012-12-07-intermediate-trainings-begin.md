@@ -1,7 +1,8 @@
 ---
 title: Intermediate Trainings Begin
-date: 2012-12-07 04:52:39 Z
+date: 2012-12-07 04:52:00 Z
 permalink: updates/2012-12-07_intermediate_trainings_begin
+published: false
 Summary Text: "Last week, we started intermediate training for the six disaster prone
   provinces that we are piloting. Our intermediate material covers some gaps that
   we did not have time to cover in the beginning workshops, like how to offset imagery
@@ -9,13 +10,12 @@ Summary Text: "Last week, we started intermediate training for the six disaster 
   topics that focused on better OSM editing and validating: 01.  Editing in Detail\t1.5.
   Conflict Resolution02.  Quality Assurance (and the Tasking Manager)03.  Editing
   the Wiki 04.  Creating XML and JOSM presets05.  Private Data Store"
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/inter.jpg
 Person: Katrina E.
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/inter.jpg
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1354855959
 ---
 
