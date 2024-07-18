@@ -8,6 +8,7 @@ Country:
 - Tanzania
 Impact Area:
 - Displacement & Safe Migration
+Highlight: "Displacement & Safe Migration"
 Person:
 - Paul Uithol
 - Sara Amadi

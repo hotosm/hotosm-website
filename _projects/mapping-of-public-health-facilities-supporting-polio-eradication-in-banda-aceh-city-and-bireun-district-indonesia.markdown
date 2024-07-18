@@ -15,6 +15,7 @@ Country:
 - 
 Impact Area:
 - Public Health
+Highlight: "Public Health"
 Person:
 - 
 - 

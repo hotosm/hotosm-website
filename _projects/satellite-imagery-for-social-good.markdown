@@ -14,9 +14,10 @@ Country:
 - - Kenya
   - Nigeria
 Impact Area:
-- Sustainable Cities & Communities
 - Public Health
 - Disasters & Climate Resilience
+- Sustainable Cities & Communities
+Highlight: "Sustainable Cities & Communities"
 Person:
 - - Carter Draper
   - Duncan Kebut

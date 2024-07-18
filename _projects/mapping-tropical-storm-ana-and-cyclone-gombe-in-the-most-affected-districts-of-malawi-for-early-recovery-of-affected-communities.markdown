@@ -16,6 +16,7 @@ Country:
 - Malawi
 Impact Area:
 - Disasters & Climate Resilience
+Highlight: "Disasters & Climate Resilience"
 Partner:
 - Malawi Red Cross Society
 - " Nkhoma University"

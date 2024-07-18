@@ -13,6 +13,7 @@ Country:
 - Uganda
 Impact Area:
 - Displacement & Safe Migration
+Highlight: "Displacement & Safe Migration"
 Person:
 - Mhairi O'Hara
 - Cristiano Giovando

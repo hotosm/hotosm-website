@@ -12,6 +12,7 @@ Country:
 - Mexico
 Impact Area:
 - Disasters & Climate Resilience
+Highlight: "Disasters & Climate Resilience"
 Person:
 - Céline Jacquin
 Duration:
