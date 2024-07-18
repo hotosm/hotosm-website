@@ -1,9 +1,9 @@
 ---
 title: Creating Sustainable Community Mapping Projects Workshop
-date: 2012-03-12 05:00:39 Z
+date: 2012-03-12 05:00:00 Z
 permalink: updates/2012-03-12_creating_sustainable_community_mapping_projects_workshop
+published: false
 Person: Kate Chapman
-Working Group: []
 Project:
 - 'Disaster Management Through Geospatial Data: DMI'
 created: 1331528439

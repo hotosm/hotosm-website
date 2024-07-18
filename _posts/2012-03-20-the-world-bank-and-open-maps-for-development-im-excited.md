@@ -1,11 +1,10 @@
 ---
 title: The World Bank and Open Maps for Development, I'm Excited
-date: 2012-03-20 04:48:49 Z
+date: 2012-03-20 04:48:00 Z
 permalink: updates/2012-03-20_the_world_bank_and_open_maps_for_development_i'm_excited
-Person: Kate Chapman
-Working Group: []
-Project: []
+published: false
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/world_bank_map_cake.jpg
+Person: Kate Chapman
 created: 1332218929
 ---
 

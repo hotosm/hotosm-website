@@ -1,8 +1,9 @@
 ---
 title: 'Out and about in Yogyakarta, Indonesia:  An OSM workshop sponsored by the
   World Bank'
-date: 2012-07-13 08:49:58 Z
+date: 2012-07-13 08:49:00 Z
 permalink: updates/2012-07-13_out_and_about_in_yogyakarta_indonesia__an_osm_workshop_sponsored_by_the_world_ba
+published: false
 Summary Text: My name is Katrina and I am a new addition to the HOT team in Indonesia.  My
   first day of work started out with a morning plane from Jakarta to Yogyakarta, the
   historic and cultural kingdom of Indonesia.  The reason why I call it a kingdom
@@ -11,13 +12,12 @@ Summary Text: My name is Katrina and I am a new addition to the HOT team in Indo
   residences.  Hopefully, we can sneak away next time we visit for an intermediate
   and advanced OSM workshop we will have more time...   I would love to map those
   quarters.  <em> The Participants </em>
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/1_0.jpg
 Person: Katrina E.
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/1_0.jpg
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1342169398
 ---
 

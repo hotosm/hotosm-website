@@ -1,15 +1,16 @@
 ---
 title: Hand over in Saint-Marc, Haiti
-date: 2012-02-20 14:35:11 Z
+date: 2012-02-20 14:35:00 Z
 permalink: updates/2012-02-20_hand_over_in_saint-marc_haiti
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1160118_800px.JPG
 Person: Séverin Ménard
 Working Group:
 - Training
-Project:
-- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 Country:
 - Haiti
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/P1160118_800px.JPG
+Project:
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1329748511
 ---
 

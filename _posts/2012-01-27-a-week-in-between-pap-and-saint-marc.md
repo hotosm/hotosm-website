@@ -1,14 +1,14 @@
 ---
 title: A week in between Pap and Saint Marc
-date: 2012-01-27 02:28:41 Z
+date: 2012-01-27 02:28:00 Z
 permalink: updates/2012-01-27_a_week_in_between_pap_and_saint_marc
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC00057_0.jpg
 Person: Brian Wolford
-Working Group: []
-Project:
-- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 Country:
 - Haiti
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC00057_0.jpg
+Project:
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1327631321
 ---
 

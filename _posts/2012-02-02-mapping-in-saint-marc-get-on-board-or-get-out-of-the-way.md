@@ -1,7 +1,8 @@
 ---
 title: Mapping in Saint Marc. Get on board or get out of the way.
-date: 2012-02-02 03:10:07 Z
+date: 2012-02-02 03:10:00 Z
 permalink: updates/2012-02-02_mapping_in_saint_marc_get_on_board_or_get_out_of_the_way
+published: false
 Summary Text: Hey there, Hi there, Ho there,Checking in from beautiful coastal Saint
   Marc. Everything has been proceeding along here at a terrific pace. Now that the
   team of young people to be trained is organized and ready to go the COSMHA team
@@ -10,8 +11,6 @@ Summary Text: Hey there, Hi there, Ho there,Checking in from beautiful coastal S
   During this time the team finishes up the preparation of any materials for the days
   activities and maybe participates in a training them selves.<img src="http://hot.openstreetmap.org/sites/default/files/DSC00342.jpg"/>
 Person: Brian Wolford
-Working Group: []
-Project: []
 created: 1328152207
 ---
 

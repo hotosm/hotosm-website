@@ -1,7 +1,8 @@
 ---
 title: Back the First Haitian Creole OpenStreetMap Book!
-date: 2012-05-10 13:33:20 Z
+date: 2012-05-10 13:33:00 Z
 permalink: updates/2012-05-10_back_the_first_haitian_creole_openstreetmap_book!
+published: false
 Summary Text: When the January 2010 Earthquake happened in Haiti the OpenStreetMap
   community began mapping. We mapped and mapped until OpenStreetMap was the most detailed
   base map for Port-au-Prince available. In March of that year the handover of the
@@ -11,7 +12,6 @@ Summary Text: When the January 2010 Earthquake happened in Haiti the OpenStreetM
   height="360px" src="http://www.kickstarter.com/projects/wonderchook/first-free-haiti-creole-openstreetmap-book/widget/video.html"
   width="480px"></iframe>
 Person: Kate Chapman
-Working Group: []
 Project:
 - 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1336656800

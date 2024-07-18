@@ -1,7 +1,8 @@
 ---
 title: Graduation for STM020
-date: 2012-04-29 20:09:12 Z
+date: 2012-04-29 20:09:00 Z
 permalink: updates/2012-04-29_graduation_for_stm020
+published: false
 Summary Text: On the evening of April 24th there was a graduation for the young people
   from Saint-Marc who participated in the OSM project. As is customary in Haiti, graduations
   are an important event. And this one was no different. Among those attending were
@@ -11,13 +12,12 @@ Summary Text: On the evening of April 24th there was a graduation for the young 
   addressing the program graduates.<img src="http://hot.openstreetmap.org/sites/default/files/IMG013_0.jpg"/>Friend
   Marc-Henry and USAID communicated how pleased they were with the project and the
   desire to see a program like this happen in the next location.
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG013_0.jpg
 Person: Brian Wolford
-Working Group: []
-Project:
-- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 Country:
 - Haiti
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/IMG013_0.jpg
+Project:
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1335730152
 ---
 

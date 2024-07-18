@@ -1,14 +1,13 @@
 ---
 title: HOT's first days in Senegal
-date: 2012-06-24 18:58:44 Z
+date: 2012-06-24 18:58:00 Z
 permalink: updates/2012-06-24_hot's_first_days_in_senegal_
+published: false
 Summary Text: The first days in Sénégal flew by for the three of us engaged in this
   intense exploratory mission of HOT in Senegal led by Nicholas Chavent along with
   Stephane Goldstein and Will Skora.
-Person: Will Skora
-Working Group: []
-Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSCN0003.JPG
+Person: Will Skora
 created: 1340564324
 ---
 

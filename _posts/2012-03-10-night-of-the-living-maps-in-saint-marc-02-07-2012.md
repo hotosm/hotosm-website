@@ -1,9 +1,9 @@
 ---
 title: Night Of The Living Maps in Saint-Marc, 02/07/2012
-date: 2012-03-10 17:38:41 Z
+date: 2012-03-10 17:38:00 Z
 permalink: updates/2012-03-10_night_of_the_living_maps_in_saint-marc_02/07/2012
+published: false
 Person: Séverin Ménard
-Working Group: []
 Project:
 - 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1331401121

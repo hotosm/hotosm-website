@@ -1,17 +1,16 @@
 ---
 title: Back, back, back to Sumbawa
-date: 2012-01-31 04:01:08 Z
+date: 2012-01-31 04:01:00 Z
 permalink: updates/2012-01-31_back_back_back_to_sumbawa
+published: false
 Summary Text: <p>This week Vasanthi, Emir and I returned to Bima and Dompu. It is
   always interesting when you leave someone with technology alone and then come back
   and see what they have done. Questions often have often built up, but usually some
   solutions as well. People don’t wait for your to return to move forward, they usually
   either abandon what they have been taught or adapt to their own situations and uses.  Bima
   and Dompu were no different.<p><img src="http://hot.openstreetmap.org/sites/default/files/emir_teaching.png"/>
-Person: Kate Chapman
-Working Group: []
-Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/emir_teaching.png
+Person: Kate Chapman
 created: 1327982468
 ---
 

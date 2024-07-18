@@ -1,7 +1,8 @@
 ---
 title: Finishing off the refugee camp mapping
-date: 2012-06-22 23:04:01 Z
+date: 2012-06-22 23:04:00 Z
 permalink: updates/2012-06-22_finishing_off_the_refugee_camp_mapping
+published: false
 Summary Text: Last month <a href="http://hot.openstreetmap.org/updates/2012-05-18_first_use_of_new_imagery_agreement_join_hot_to_trace_refugee_camps_in_kenya_and_e">we
   asked people</a> to help map refugee camps in Kenya and Ethiopia.It was an excercise
   in coordination using the HOT Tasking Manager, but this was initially also an experiment
@@ -11,7 +12,6 @@ Summary Text: Last month <a href="http://hot.openstreetmap.org/updates/2012-05-1
   special aerial imagery from NextView. They wanted to see how, given this imagery
   to trace from, our community could map the refugee camps in a short space of time.
 Person: Harry Wood
-Working Group: []
 Project:
 - 'Disaster Activation: Somalia 2011'
 created: 1340406241

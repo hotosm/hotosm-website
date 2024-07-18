@@ -1,19 +1,19 @@
 ---
 title: Setting Up in Saint Marc, Haiti
-date: 2012-01-28 18:48:19 Z
+date: 2012-01-28 18:48:00 Z
 permalink: updates/2012-01-28_setting_up_in_saint_marc_haiti
+published: false
 Summary Text: Having had a brief moment to get out footing in Saint Marc, we were
   supplied with our next missions to accomplish. The supplies for the team to conduct
   their work and training in Saint Marc arrived and with it came the need to set up,
   inventory, and configure all of the equipment for the next weeks work.<img src="http://hot.openstreetmap.org/sites/default/files/DSC00313_0.jpg"
   />
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC00313_0.jpg
 Person: Brian Wolford
-Working Group: []
-Project:
-- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 Country:
 - Haiti
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/DSC00313_0.jpg
+Project:
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1327776499
 ---
 

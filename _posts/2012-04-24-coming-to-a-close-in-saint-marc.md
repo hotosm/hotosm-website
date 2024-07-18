@@ -1,7 +1,8 @@
 ---
 title: Coming to a close in Saint Marc
-date: 2012-04-24 02:05:35 Z
+date: 2012-04-24 02:05:00 Z
 permalink: updates/2012-04-24_coming_to_a_close_in_saint_marc
+published: false
 Summary Text: Hey kiddoes!Brian checking in from Saint-Marc. We are in the final throws
   of the program here. Hard to believe 3 months is wrapping up. Bananas.The team and
   trainees here has pretty sufficiently mapped the entirety of Saint-Marc. The last
@@ -11,13 +12,12 @@ Summary Text: Hey kiddoes!Brian checking in from Saint-Marc. We are in the final
   meetings of the active youth members in the forming of COSMHA-STM, which will be
   the Saint-Marc chapter of the Community OSM Haiti. Appointments and elections have
   finished, congrats to them.
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2012-01-08.png
 Person: Brian Wolford
-Working Group: []
-Project:
-- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 Country:
 - Haiti
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/2012-01-08.png
+Project:
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1335233135
 ---
 

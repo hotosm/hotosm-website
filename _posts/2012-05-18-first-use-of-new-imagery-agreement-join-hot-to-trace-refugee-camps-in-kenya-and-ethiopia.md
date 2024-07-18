@@ -1,11 +1,10 @@
 ---
 title: 'First Use of New Imagery  Agreement: Join HOT to Trace Refugee Camps in Kenya
   and Ethiopia'
-date: 2012-05-18 14:48:54 Z
+date: 2012-05-18 14:48:00 Z
 permalink: updates/2012-05-18_first_use_of_new_imagery__agreement_join_hot_to_trace_refugee_camps_in_kenya_and
+published: false
 Person: John Crowley
-Working Group: []
-Project: []
 created: 1337352534
 ---
 

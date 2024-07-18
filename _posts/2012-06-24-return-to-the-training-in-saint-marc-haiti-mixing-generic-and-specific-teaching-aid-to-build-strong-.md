@@ -1,8 +1,9 @@
 ---
 title: 'Return to the training in Saint-Marc, Haiti: mixing generic and specific teaching
   aid to build strong OSM mapping capacities'
-date: 2012-06-24 23:35:18 Z
+date: 2012-06-24 23:35:00 Z
 permalink: updates/2012-06-24_return_to_the_training_in_saint-marc_haiti_mixing_generic_and_specific_teaching_
+published: false
 Summary Text: 'Our previous posts about the Saint-Marc, Haiti project did not focus
   really about the training made there, what was one the main activities as the objectives
   were both improving the baseline data and buildings strong local mapping capacities.
@@ -10,13 +11,12 @@ Summary Text: 'Our previous posts about the Saint-Marc, Haiti project did not fo
   documentation whose main version was in French, we had to clean the English original
   version so that it fits with all the changes we made in the French one throughout
   the three months of the program. '
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/STM020_training_Nicolas.jpg
 Person: Séverin Ménard
-Working Group: []
-Project:
-- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 Country:
 - Haiti
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/STM020_training_Nicolas.jpg
+Project:
+- 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1340580918
 ---
 
