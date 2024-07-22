@@ -1,6 +1,6 @@
 ---
 title: Experiencias de Mapeo Abierto en el Centro de Educación Integral “San Ignacio”
-date: 2024-07-15 15:25:00 Z
+date: 2024-05-15 15:25:00 Z
 Summary Text: A través del programa Open Mapping for All, docentes y estudiantes de
   una institución educativa en la Patagonia Argentina, emplean herramientas de Mapeo
   Abierto para documentar, reconocer y mejorar la infraestructura física escolar,
