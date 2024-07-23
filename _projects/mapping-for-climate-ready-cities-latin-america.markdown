@@ -52,6 +52,8 @@ At the end of the program, each municipality will have developed open informatio
 
 **Datasets Collected**
 
+* **Chihuahua, Mexico:** The project in Chihuahua's historical center focuses on modernizing street lighting to reduce energy consumption and minimize light pollution, thereby significantly enhancing the urban environment. This initiative, driven by the goals of improving public safety and stimulating tourism and local business, emphasizes the strategic update of infrastructure to meet the community's needs effectively.
+
 * **Maipú, Chile:** The project in Maipú focuses on identifying various areas (plazas, parks, green spaces), assessing surface types, and special elements like monuments. It evaluates physical accessibility, space usage, and facilities such as playgrounds and trash bins. Observations include makeshift shelters, vandalism, and accidents, with photographic documentation of grass and trees.
 
 * **Quito, Ecuador:** The project centers on detailed mapping of buildings to support urban planning and management.
@@ -70,7 +72,7 @@ We will start the construction or consolidation of beneficial relationships betw
 
 Currently, we are collaborating with six local governments as follows:
 
-* **Chihuahua, Mexico:** To be defined.
+* **Chihuahua, Mexico:** The government of Chihuahua has launched a project to restore streetlights in the historical center of the city, driven by the need to enhance public safety and beautify the area to boost tourism and local commerce. This initiative not only aims to update the lighting but also to promote energy savings and reduce light pollution, which will significantly improve urban quality of life. The project involves collaboration with various municipal departments, including the treasury and the Municipal Planning Institute, to ensure that the infrastructure upgrade meets the needs and expectations of Chihuahua's citizens.
 
 * **Quintana Roo, Mexico:** Located in the Caribbean, Quintana Roo faces significant climate risks due to its high susceptibility to hurricanes and tropical storms. These events can cause widespread damage to infrastructure and necessitate the use of shelters. Heavy rainfall associated with these storms often leads to significant flooding, impacting crucial infrastructure and requiring robust emergency preparedness and response measures. To address these risks, the local government will undertake the mapping and data collection of temporary shelters. The initiative aims to identify the exact geographical location of each shelter, as well as assess their physical conditions, existing infrastructure, accommodation capacity, and other important aspects to consider in these emergency spaces.
 
