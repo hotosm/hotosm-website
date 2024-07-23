@@ -2,6 +2,7 @@
 title: 'Disaster Activation: Hurricane Matthew 2016'
 date: 2016-10-04 04:18:00 Z
 permalink: projects/hurricane_matthew
+published: false
 position: 154
 Project Summary Text: The HOT community activated to support mapping efforts in the
   aftermath of Hurricane Matthew in Haiti

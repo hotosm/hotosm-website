@@ -2,6 +2,7 @@
 title: Ivory Coast
 date: 2011-09-02 21:40:00 Z
 permalink: projects/ivory_coast
+published: false
 position: 121
 Project Summary Text: In 2010 HOT provided remote support to the Icory Coast Presidential
   Election crisis
