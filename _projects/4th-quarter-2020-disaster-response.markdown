@@ -1,6 +1,7 @@
 ---
 title: 4th Quarter 2020 Disaster Response
 date: 2020-11-10 12:13:00 Z
+published: false
 position: 20
 Project Summary Text: Mid-October and into November 2020 has been busy for our disaster
   mapping team. Read more here.
