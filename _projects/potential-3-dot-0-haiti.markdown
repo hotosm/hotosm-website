@@ -2,6 +2,7 @@
 title: 'Potential 3.0: Disaster Preparedness in Haiti'
 date: 2018-05-16 08:12:00 Z
 permalink: projects/potential-3-dot-0-haiti
+published: false
 position: 113
 Project Summary Text: Disaster preparedness planning in Haiti
 Feature Image: https://cdn.hotosm.org/website/Comunity+OSM+Haiti.png

@@ -2,6 +2,7 @@
 title: Rapid post-disaster damage assessment research
 date: 2017-06-28 14:29:00 Z
 permalink: projects/remote_damage_assessment_research
+published: false
 position: 162
 Project Summary Text: This research project focuses on improving how building damage
   information is gathered through crowdsourcing

@@ -1,6 +1,7 @@
 ---
 title: 'OSM Kenya and YouthMappers Kenya: Mapping health facilities in Nairobi'
 date: 2020-11-10 14:57:00 Z
+published: false
 position: 26
 Feature Image: https://cdn.hotosm.org/website/Kenya+OSM.jpg
 Is Community-Led: true
