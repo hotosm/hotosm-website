@@ -1,6 +1,7 @@
 ---
 title: hot_tech attending SoTM& FOSS4G highlights
 date: 2022-09-09 16:48:00 Z
+published: false
 tags:
 - hot_tech
 - sotm

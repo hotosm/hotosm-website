@@ -1,6 +1,7 @@
 ---
 title: Launching the Tech HOT Spot!
 date: 2020-07-01 12:00:00 Z
+published: false
 tags:
 - tech
 Summary Text: 'Welcome to our first blog post! We will be using this space to share

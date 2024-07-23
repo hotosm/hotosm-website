@@ -1,6 +1,7 @@
 ---
 title: 'Welcome to the Tasking Manager Collective: how to join & contribute!'
 date: 2022-03-23 10:47:00 Z
+published: false
 tags:
 - tech
 Feature Image: https://cdn.hotosm.org/website/Tasking+Manager_1-7c798e.PNG

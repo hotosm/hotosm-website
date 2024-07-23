@@ -1,6 +1,7 @@
 ---
 title: OpenAerialMap v2 Design Kicks Off!
 date: 2022-04-20 14:47:00 Z
+published: false
 tags:
 - tech
 Summary Text: This year HOT joined with Kontur to take a fresh look at OAM and redesign

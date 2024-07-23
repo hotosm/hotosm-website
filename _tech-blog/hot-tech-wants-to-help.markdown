@@ -1,6 +1,7 @@
 ---
 title: hot_tech wants to help
 date: 2021-03-12 12:46:00 Z
+published: false
 categories:
 - tech
 tags:

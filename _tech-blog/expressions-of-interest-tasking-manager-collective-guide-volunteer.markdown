@@ -1,6 +1,7 @@
 ---
 title: Expressions of Interest - Tasking Manager Collective Guide (volunteer)
 date: 2022-01-19 15:51:00 Z
+published: false
 categories:
 - tech
 tags:

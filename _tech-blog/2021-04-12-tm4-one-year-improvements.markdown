@@ -1,6 +1,7 @@
 ---
 title: Tasking Manager 4 - a year of improvement!
 date: 2021-04-12 12:00:00 Z
+published: false
 tags:
 - tech
 Summary Text: April marks one year of the launch of Tasking Manager 4.

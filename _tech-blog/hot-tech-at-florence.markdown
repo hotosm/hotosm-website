@@ -1,6 +1,7 @@
 ---
 title: hot_tech team in Florence, August 2022
 date: 2022-08-11 11:46:00 Z
+published: false
 tags:
 - tech
 Summary Text: "\nWe are excited to meet the community and share all that’s happening

@@ -1,6 +1,7 @@
 ---
 title: 'HOT Tasking Manager Collective: update on the journey so far- July 2022'
 date: 2022-07-25 09:07:00 Z
+published: false
 tags:
 - tech
 Summary Text: Thank you to all the contributors and participants in the Tasking Manager

@@ -1,6 +1,7 @@
 ---
 title: Reflections from attending the OpenSourceSummit Europe, September 2022
 date: 2022-10-05 10:43:00 Z
+published: false
 tags:
 - tech
 Summary Text: |
