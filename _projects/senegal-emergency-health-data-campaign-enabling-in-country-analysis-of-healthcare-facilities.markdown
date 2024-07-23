@@ -2,6 +2,7 @@
 title: 'Senegal Emergency Health Data Campaign: Enabling in-country analysis of healthcare
   facilities'
 date: 2020-11-10 16:04:00 Z
+published: false
 position: 32
 Feature Image: https://cdn.hotosm.org/website/HS3-08b100.png
 Is Community-Led: true
