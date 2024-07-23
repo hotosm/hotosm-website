@@ -2,6 +2,7 @@
 title: 'Syria refugee response: Mapfugees'
 date: 2016-11-24 23:55:00 Z
 permalink: projects/mapfugees_field_mapping
+published: false
 position: 156
 Project Summary Text: Mapfugees coordinated digitization of the refugee camps of Calais
   and Grande-Synthe/Dunkirk in Northern France in 2016
@@ -12,13 +13,13 @@ Country:
 - France
 Impact Area:
 - Displacement & Safe Migration
-Highlight: Displacement & Safe Migration
 Person:
 - Blake Girardot
 - Katja Ulbert
 Duration:
   Start Date: 2015-11-25 00:00:00 Z
   End Date: 2017-11-25 00:00:00 Z
+Highlight: Displacement & Safe Migration
 HOT Involvement: Community Development
 Link: https://mapfugees.wordpress.com/
 created: 1480031702
