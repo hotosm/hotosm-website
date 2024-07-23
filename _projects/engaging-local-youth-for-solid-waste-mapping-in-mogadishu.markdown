@@ -1,6 +1,7 @@
 ---
 title: Engaging Local Youth for Solid Waste Mapping in Mogadishu
 date: 2022-04-01 14:55:00 Z
+published: false
 position: 5
 Feature Image: https://cdn.hotosm.org/website/Mogadishu+Skyline.jpg
 Country:
