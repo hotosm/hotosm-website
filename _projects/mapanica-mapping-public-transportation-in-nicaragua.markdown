@@ -2,6 +2,7 @@
 title: MapaNica - Mapping Public Transportation in Nicaragua
 date: 2019-05-02 09:23:00 Z
 permalink: "/projects/mapanica"
+published: false
 position: 63
 Project Summary Text: Mapping public transport networks in Nicaragua
 Feature Image: https://cdn.hotosm.org/website/MapaNica.jpg

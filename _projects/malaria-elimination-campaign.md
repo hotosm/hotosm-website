@@ -2,6 +2,7 @@
 title: 'Infectious diseases: Malaria elimination'
 date: 2017-02-08 02:06:00 Z
 permalink: projects/malaria_elimination_campaign
+published: false
 categories:
 - public health
 position: 158
@@ -40,12 +41,12 @@ Partner:
 Duration:
   Start Date: 2016-12-01 00:00:00 Z
   End Date: 2018-06-04 00:00:00 Z
+tm_campaigns:
+- Malaria Elimination
 Summary Text: HOT has teamed up with many partners to identify and map populated places
   in areas of the globe susceptible to the disease malaria.
 HOT Involvement: Disaster Mapping
 created: 1486519560
-tm_campaigns:
-- Malaria Elimination
 ---
 
 HOT has teamed up with many partners working to eliminate the disease malaria.  Malaria is preventable and curable and without transmission will cease to exist. In order to effectively carry out intervention campaigns, HOT has been asked to help identify and map populated places in some of the most susceptible places. In partnership with DigitalGlobe, HOT mapped an area of interest covering over 560,000 square kilometers in Southern Africa (Botswana, Zambia, Zimbabwe), Southeast Asia (Cambodia, Laos) and Central America (Guatemala, Honduras) to support the Clinton Health Access Initiative (CHAI) <a href="http://www.clintonhealthaccess.org/program/malaria/">malaria program </a>and <span id="docs-internal-guid-cad9e9d3-e4d9-f1f7-70d9-ca3c915e7727">Program for Appropriate Technology in Health (PATH) <a href="http://visualizenomalaria.org/">Visualize No Malaria</a> campaign. From late 2016 until September 2017, 5305 mappers added 3,695,000\+ buildings to OpenStreetMap. 
