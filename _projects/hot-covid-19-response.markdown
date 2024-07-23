@@ -1,6 +1,7 @@
 ---
 title: HOT COVID-19 RESPONSE
 date: 2020-03-26 18:01:00 Z
+published: false
 position: 42
 Project Summary Text: As the world grapples with the global pandemic of COVID-19,
   at HOT we are concerned for vulnerable groups worldwide.
