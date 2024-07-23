@@ -1,8 +1,9 @@
 ---
 title: Nyiragongo Volcano Lava Extent
 date: 2021-05-21 12:00:00 Z
-Event Name: Nyiragongo Volcano Eruption
+published: false
 Glide: VO-2021-000059
+Event Name: Nyiragongo Volcano Eruption
 GDACS-level: 
 Country:
 - Democratic Republic of the Congo

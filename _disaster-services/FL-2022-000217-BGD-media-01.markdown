@@ -1,6 +1,7 @@
 ---
 title: Affected Structures for Bangladesh Flood 2022
 date: 2022-07-13 05:38:00 Z
+published: false
 Glide: FL-2022-000217-BGD
 Event Name: North-eastern Flood in Bangladesh 2022
 Country:

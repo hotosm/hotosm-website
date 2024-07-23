@@ -1,12 +1,13 @@
 ---
 title: Bi-Weekly Update June 16
 date: 2021-06-16 12:30:00 Z
-Country:
-- Democratic Republic of the Congo
-- Rwanda
+published: false
 Glide:
 - TC-2021-000058
 - TC-2021-000056
+Country:
+- Democratic Republic of the Congo
+- Rwanda
 Event type: VO Volcanic Eruption
 Summary Text: The volcano Nyiragongo (a GDACS Orange alert score of 1.5) affected
   the surrounding area of Goma in the Democratic Republic of Congo. The eruption prompted

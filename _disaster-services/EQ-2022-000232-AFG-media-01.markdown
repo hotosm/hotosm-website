@@ -1,6 +1,7 @@
 ---
 title: Affected Buildings of Afghanistan in June 2022
 date: 2022-07-01 06:11:00 Z
+published: false
 Glide: EQ-2022-000232-AFG
 Event Name: M 5.9 in Afghanistan on 21 Jun 2022
 Country:

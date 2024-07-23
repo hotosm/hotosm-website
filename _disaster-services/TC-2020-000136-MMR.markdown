@@ -1,6 +1,7 @@
 ---
 title: Tropical Cyclone Amphan Size-up
 date: 2020-05-22 17:28:00 Z
+published: false
 Glide: TC-2020-000136-MMR
 Event Name: Tropical Cyclone Amphan
 GDACS-level: Red (2.5)

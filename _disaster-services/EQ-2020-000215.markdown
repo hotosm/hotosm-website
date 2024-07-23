@@ -1,6 +1,7 @@
 ---
 title: Izmir Earthquake 2020 Size-up
 date: 2020-10-30 22:21:00 Z
+published: false
 Glide: EQ-2020-000215
 Event Name: 2020 Aegean Sea earthquake
 GDACS-level: Orange (1.8)

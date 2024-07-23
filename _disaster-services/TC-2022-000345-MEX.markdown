@@ -1,6 +1,7 @@
 ---
 title: Hurricane Roslyn 2022 Size-up
 date: 2022-10-23 23:38:00 Z
+published: false
 Glide: TC-2022-000345-MEX
 Event Name: "\tROSLYN-22"
 GDACS ID: TC 1000940

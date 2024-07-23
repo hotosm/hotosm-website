@@ -1,6 +1,7 @@
 ---
 title: Nyiragongo Eruption Size-up
 date: 2021-06-24 12:00:00 Z
+published: false
 Glide: VO-2021-000059
 Event Name: Nyiragongo Eruption
 GDACS-level: RED 2.5

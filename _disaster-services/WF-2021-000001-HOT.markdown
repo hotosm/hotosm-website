@@ -1,6 +1,7 @@
 ---
 title: Marshall Fire 2021 Size-up
 date: 2022-01-05 20:28:00 Z
+published: false
 Glide: WF-2021-000001-HOT
 Event Name: Marshall Fire 2021
 GDACS-level: Green (0.5)

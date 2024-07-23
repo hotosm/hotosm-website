@@ -1,6 +1,7 @@
 ---
 title: Cyclones Ana & Batsirai 2022 Response
 date: 2022-02-10 20:41:00 Z
+published: false
 Glide: ST-2022-000138-MDG
 Event Name: Cyclones Ana & Batsirai 2022
 GDACS ID: TC 1000858

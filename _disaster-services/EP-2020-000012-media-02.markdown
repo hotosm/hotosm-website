@@ -1,6 +1,7 @@
 ---
 title: COVID-19 Vaccination Campaign Pilot Project
 date: 2021-10-01 19:36:00 Z
+published: false
 Glide: EP-2020-000012
 Event Name: COVID-19 Epidemic
 Country:

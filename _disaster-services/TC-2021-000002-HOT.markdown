@@ -1,6 +1,7 @@
 ---
 title: Tropical Cyclone RICK-21 Size-up
 date: 2021-10-24 19:43:00 Z
+published: false
 Glide: TC-2021-000002-HOT
 Event Name: Tropical Cyclone RICK-21
 GDACS ID: TC 1000841

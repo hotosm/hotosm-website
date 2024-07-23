@@ -1,6 +1,7 @@
 ---
 title: 'Haiti 2021 Earthquake: Urban Sprawl Maps and Buildings Count'
 date: 2021-08-14 16:06:00 Z
+published: false
 Glide: EQ-2021-000116-HTI
 Event Name: Haiti Earthquake 2021
 GDACS-level: Red (3.5)

@@ -1,6 +1,7 @@
 ---
 title: Tropical Cyclone Asani 2022 Size-up
 date: 2022-05-11 14:50:00 Z
+published: false
 Glide: TC-2022-000002-HOT
 Event Name: ASANI-22
 GDACS ID: TC 1000883

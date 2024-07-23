@@ -1,6 +1,7 @@
 ---
 title: Typhoon Nanmadol Size-up
 date: 2022-09-19 08:07:00 Z
+published: false
 Glide: TC-2022-000003-HOT
 Event Name: Overall Orange alert Tropical Cyclone for NANMADOL-22
 GDACS ID: TC 1000915

@@ -1,8 +1,9 @@
 ---
 title: Canchaque Mapping Sample
 date: 2021-07-01 12:30:00 Z
-Event Name: Canchaque Landslides
+published: false
 Glide: LS-2021-000001-HOT
+Event Name: Canchaque Landslides
 GDACS-level: 
 Country:
 - Peru
