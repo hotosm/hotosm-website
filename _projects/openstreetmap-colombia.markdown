@@ -2,6 +2,7 @@
 title: 'OSM Colombia: mitigating rural landslides'
 date: 2018-05-16 07:27:00 Z
 permalink: projects/openstreetmap-colombia
+published: false
 position: 109
 Project Summary Text: Building resilience of agricultural communities to disasters
 Feature Image: https://cdn.hotosm.org/website/Mocoa3.jpg

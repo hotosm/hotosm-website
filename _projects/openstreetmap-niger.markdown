@@ -2,6 +2,7 @@
 title: 'OSM Niger: Developing the Community'
 date: 2018-05-16 09:10:00 Z
 permalink: projects/openstreetmap-niger
+published: false
 position: 115
 Project Summary Text: Increasing OSM contributors for sustainable development in Niger
 Feature Image: https://cdn.hotosm.org/website/IMG_20171114_113048.jpg
