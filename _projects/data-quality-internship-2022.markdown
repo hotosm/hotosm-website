@@ -1,6 +1,7 @@
 ---
 title: Data Quality Internship 2022
 date: 2023-05-18 19:09:00 Z
+published: false
 Project Summary Text: Twenty-eight mappers from around the world joined HOT from September
   to November of 2022  to learn a wide range of days quality tools and techniques,
   lessons they can share with their local mapping communities.
