@@ -1,6 +1,7 @@
 ---
 title: HOT's Response to the Turkey & Syria Earthquake
 date: 2023-02-22 12:33:00 Z
+published: false
 Project Summary Text: How HOT is responding to the tragic February 2023 earthquake
   in Turkey and Syria, how to get data, and how that data is being used.
 Feature Image: https://cdn.hotosm.org/website/Turkey+Syria+Map+for+Homepage+B-69e708.png
@@ -12,7 +13,6 @@ Country:
 - Syria
 Impact Area:
 - Disasters & Climate Resilience
-Highlight: Disasters & Climate Resilience
 Person:
 - Can Unen
 - Harry Mahardhika Machmud
@@ -37,6 +37,7 @@ Tools:
 - tool: Wiki
   link: https://wiki.openstreetmap.org/wiki/2023_Turkey_Earthquakes
 - Contact: disasterservices@hotosm.org
+Highlight: Disasters & Climate Resilience
 layout: project-item
 ---
 
