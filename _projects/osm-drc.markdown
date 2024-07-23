@@ -1,6 +1,7 @@
 ---
 title: 'OSM DRC: Creating urban basemaps and highlighting public health services'
 date: 2020-11-10 15:45:00 Z
+published: false
 position: 31
 Feature Image: https://cdn.hotosm.org/website/OSM+DRC+1.jpg
 Is Community-Led: true
