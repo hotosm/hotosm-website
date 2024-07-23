@@ -2,6 +2,7 @@
 title: 'Disaster Activation: Central African Republic 2013'
 date: 2014-05-09 10:25:00 Z
 permalink: projects/central_african_republic_activation
+published: false
 position: 133
 Project Summary Text: In 2012 HOT was involved in a field project and remote mapping
   during the Seleka Rebellion in the Central African Republic
