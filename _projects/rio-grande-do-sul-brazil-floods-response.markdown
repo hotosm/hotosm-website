@@ -46,7 +46,7 @@ After the natural hazard disaster, the OSM Brazil Community, in coordination wit
 
 From June 15 to July 15, 2024, the LAC Hub collaborated with the Inter-American Development Bank (IDB) and the departments of education, health, sports, and social assistance of the Porto Alegre government to address flood damages. This collaboration centered on developing and testing an initial georeferenced assessment method for affected facilities and systematizing data. It also proposed a participatory campaign for cartographic monitoring of recovery efforts in the months ahead. The primary objective was to support local initiatives in crafting and executing reconstruction and transformation plans in the worst-affected areas, emphasizing community involvement and ensuring an inclusive, sustainable approach.
 
-![Porto Alegre - Misión BID - HOT - Triage - EN.jpg](/uploads/Porto%20Alegre%20-%20Misio%CC%81n%20BID%20-%20HOT%20-%20Triage%20-%20EN.jpg)\
+![Misión BID Porto Alegre - HOT.jpg](/uploads/Misio%CC%81n%20BID%20Porto%20Alegre%20-%20HOT.jpg)
 
 Led by Céline Jacquin, Everton Bortolini, and Juan Melo, the HOT team devised a survey methodology to assess damages to public and social infrastructure. This tool was co-designed with local officials and civil engineers from the IDB to gather critical information for municipal authorities and funders alike. The damages were extensive, with buildings submerged up to three meters for over a month, resulting in severe material and structural impairments, and total losses in numerous cases.
 
