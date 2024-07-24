@@ -19,7 +19,7 @@ Project:
 - Rio Grande do Sul, Brazil Floods Response
 ---
 
-**[Versión en español] (https://www.hotosm.org/updates/mapeo-humanitario-para-la-resiliencia-climatica-la-respuesta-a-las-inundaciones-en-porto-alegre/) / [Versão em português](https://www.hotosm.org/updates/mapeamento-humanitario-para-a-resiliencia-climatica-resposta-as-inundacoes-em-porto-alegre/)**
+**\[Versión en español\] (https://www.hotosm.org/updates/mapeo-humanitario-para-la-resiliencia-climatica-la-respuesta-a-las-inundaciones-en-porto-alegre/) / [Versão em português](https://www.hotosm.org/updates/mapeamento-humanitario-para-a-resiliencia-climatica-resposta-as-inundacoes-em-porto-alegre/)**
 
 On April 27, 2024, after two weeks of intense rains in Rio Grande do Sul, Brazil, the collapse of the 14 de julio hydroelectric dam worsened the critical situation of historic floods in Porto Alegre. This event resulted in over 100 deaths and 100 missing persons, affecting more than one million people. Approximately 70,000 were evacuated, and over a million homes were left without clean water. Additionally, 421,000 households lost electricity, 115 municipalities lost phone and internet services, 61 roads were blocked, and Porto Alegre's airport was closed. The Guaíba River reached record levels, flooding the city's historic center.
 
@@ -41,7 +41,7 @@ The HOT team, led by Céline Jacquin, Everton Bortollini, and Juan Melo, develop
 
 Céline emphasized the importance of organizing information to prioritize necessary actions:
 
-![Porto Alegre - Misión BID - HOT - Triage - EN.jpg](/uploads/Porto%20Alegre%20-%20Misio%CC%81n%20BID%20-%20HOT%20-%20Triage%20-%20EN.jpg)\
+![Porto Alegre - Misión BID - HOT - Triage - EN.jpg](/uploads/Porto%20Alegre%20-%20Misio%CC%81n%20BID%20-%20HOT%20-%20Triage%20-%20EN.jpg)
 
 During visits to clinics, schools, sports facilities, and triage centers, the team observed the impact of the floods, which lasted between 30 and 40 days, creating unsanitary conditions and significant structural damage. The prefecture is publishing georeferenced data on its spatial data infrastructure, centralizing information from each department for availability to both the population and the city hall. This will enable better coordination and response in future emergency events.
 
