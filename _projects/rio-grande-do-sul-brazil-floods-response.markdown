@@ -46,11 +46,17 @@ After the natural hazard disaster, the OSM Brazil Community, in coordination wit
 
 From June 15 to July 15, 2024, the LAC Hub collaborated with the Inter-American Development Bank (IDB) and the departments of education, health, sports, and social assistance of the Porto Alegre government to address flood damages. This collaboration centered on developing and testing an initial georeferenced assessment method for affected facilities and systematizing data. It also proposed a participatory campaign for cartographic monitoring of recovery efforts in the months ahead. The primary objective was to support local initiatives in crafting and executing reconstruction and transformation plans in the worst-affected areas, emphasizing community involvement and ensuring an inclusive, sustainable approach.
 
+![Porto Alegre - Misión BID - HOT - Triage - EN.jpg](/uploads/Porto%20Alegre%20-%20Misio%CC%81n%20BID%20-%20HOT%20-%20Triage%20-%20EN.jpg)\
+
 Led by Céline Jacquin, Everton Bortolini, and Juan Melo, the HOT team devised a survey methodology to assess damages to public and social infrastructure. This tool was co-designed with local officials and civil engineers from the IDB to gather critical information for municipal authorities and funders alike. The damages were extensive, with buildings submerged up to three meters for over a month, resulting in severe material and structural impairments, and total losses in numerous cases.
 
 As the initial emergency response transitioned to recovery and rebuilding phases, it became imperative for local authorities to ascertain the current status of infrastructure in education, healthcare, and social services. These facilities had suffered varying degrees of damage, particularly in the most vulnerable urban areas. Detailed facility data was essential for estimating recovery costs, initiating procurement procedures to expedite reconstruction, and establishing monitoring mechanisms. To facilitate accurate on-site assessments and provide tailored support, IDB and HOT joint mission was dispatched to Porto Alegre. Both organizations are exploring ways to sustain this effort beyond the emergency.
 
 **OUTCOME AND IMPACT**
+![Edificações.jpg](/uploads/Edificac%CC%A7o%CC%83es.jpg)
+
+*uMap created by the HOT team to visualize mapped buildings and destroyed structures.*
+
 This effort concentrated on updating the already comprehensive maps in the hardest-hit areas and securing access to post-disaster imagery.
 
 To date, 22 mapping projects have been completed (see [Wiki](https://wiki.openstreetmap.org/wiki/2024_Rio_Grande_do_Sul_Floods) for more input), encompassing 55,629 buildings; 2,326 km of roads; 2,062 km² of mapped area; and 8,612 mapped tasks. This initiative fostered a vital partnership with the Inter-American Development Bank (IDB). Together, we focused on generating and collecting high-quality geographic data for the Porto Alegre prefecture and assisting in the damage assessment of public facilities which will allow development agencies and the local government to target funds to the most relevant needs. Additionally, we are developing new interfaces that offer valuable tools to the community, enhancing response efforts in the most affected areas.
