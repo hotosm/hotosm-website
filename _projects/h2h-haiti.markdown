@@ -1,6 +1,7 @@
 ---
 title: H2H Haiti
 date: 2022-03-02 09:20:00 Z
+published: false
 position: 9
 Feature Image: https://cdn.hotosm.org/website/H2H+Haiti+for+Website.png
 Country:
