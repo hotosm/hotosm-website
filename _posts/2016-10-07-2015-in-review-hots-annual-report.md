@@ -1,16 +1,15 @@
 ---
 title: '2015 in Review: HOT''s Annual Report'
-date: 2016-10-07 15:28:41 Z
+date: 2016-10-07 15:28:00 Z
 permalink: updates/2016-10-07_2015_in_review_hot's_annual_report
+published: false
 Summary Text: 'HOT''s 2015 Annual Report is now online! The report and projects described
   within have been possible because of the commitment and dedication of HOT''s global
   community and partner organizations. A special thanks to the dozens of HOT board
   members, staff, and volunteers who contributed to producing HOT''s first comprehensive
   annual report. '
-Person: Tyler Radford
-Working Group: []
-Project: []
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/HOT_2015_Annual_Report.jpg
+Person: Tyler Radford
 created: 1475854121
 ---
 
