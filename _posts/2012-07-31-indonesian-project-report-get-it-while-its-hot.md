@@ -1,20 +1,20 @@
 ---
 title: 'Indonesian Project Report: Get it while it''s HOT'
-date: 2012-07-31 05:19:56 Z
+date: 2012-07-31 05:19:00 Z
 permalink: updates/2012-07-31_indonesian_project_report_get_it_while_it's_hot
+published: false
 Summary Text: 'Kate Chapman, with assistance from Emir Hartato, her Indonesian teammate,
   and editing assistance from members of HOT and AusAID, officially finished the project
   report for their work earlier in the year (March 2011 to March 2012). The Report:
   Community Mapping for Exposure in Indonesia details details the initial workshops,
   key accomplishments, university competitions, and new software, support and resources
   developed.'
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/cover_image.jpg
 Person: Katrina E.
-Working Group: []
-Project:
-- 'Disaster Management Through Geospatial Data: DMI'
 Country:
 - Indonesia
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/cover_image.jpg
+Project:
+- 'Disaster Management Through Geospatial Data: DMI'
 created: 1343711996
 ---
 

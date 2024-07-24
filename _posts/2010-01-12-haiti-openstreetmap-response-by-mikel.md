@@ -1,10 +1,9 @@
 ---
 title: Haiti OpenStreetMap Response by Mikel
-date: 2010-01-12 17:45:35 Z
+date: 2010-01-12 17:45:00 Z
 permalink: updates/2010-01-12_haiti_openstreetmap_response_by_mikel
-Summary Text: ''
+published: false
 Person: Mikel Maron
-Working Group: []
 Project:
 - 'Disaster Activation: Haiti Post-earthquake response and recovery 2010-11'
 created: 1263318335

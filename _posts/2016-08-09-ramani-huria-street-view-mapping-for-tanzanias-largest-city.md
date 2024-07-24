@@ -1,15 +1,16 @@
 ---
 title: 'Ramani Huria: Street View Mapping for Tanzania''s Largest City'
-date: 2016-08-09 17:02:51 Z
+date: 2016-08-09 17:02:00 Z
 permalink: updates/2016-08-09_ramani_huria_street_view_mapping_for_tanzania's_largest_city
+published: false
+Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20684152284_c282fe75f0_o.jpg
 Person: Innocent Maholi
 Working Group:
 - Community
-Project:
-- 'Urban flood resilience: Ramani Huria'
 Country:
 - Tanzania
-Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/20684152284_c282fe75f0_o.jpg
+Project:
+- 'Urban flood resilience: Ramani Huria'
 created: 1470762171
 ---
 
