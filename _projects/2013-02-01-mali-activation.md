@@ -1,7 +1,7 @@
 ---
 title: Mali Activation
 date: 2013-02-01 17:49:00 Z
-permalink: updates/2013-02-01_mali_activation_
+permalink: projects/2013-02-01_mali_activation_
 Summary Text: This Activation follows discussions between HOT and the United Nations
   Office for the Coordination of Humanitarian Affairs for Mali (UNOCHA-Mali). The
   ungoing efforts to map Mali are very helpfull to humanitarian organizations.  To
