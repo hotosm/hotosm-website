@@ -14,7 +14,6 @@ Person: Pierre Béland
 created: 1359741029
 ---
 
-
 <ul><li>228.920 de personnes sont déplacées à l'intérieur du Mali.</li></ul>
 
 Le 16 janvier 2013, UNOCHA-Mali et ses partenaires humanitaires ont souligné la situation d'urgence complexe au Mali.
