@@ -2,12 +2,13 @@
 title: Mapping Vanuatu Islands
 date: 2015-03-16 05:08:00 Z
 permalink: projects/2015-03-16_mapping_vanuatu_islands
+published: false
 Person: Heather Leson
-Working Group:
-- Activation
 Duration:
   Start Date: 2015-03-16 05:08:00 Z
   End Date: 2015-05-16 05:08:00 Z
+Working Group:
+- Activation
 created: 1426482517
 ---
 
