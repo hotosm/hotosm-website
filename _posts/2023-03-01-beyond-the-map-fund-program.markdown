@@ -2,8 +2,9 @@
 title: Beyond the Map Fund Program
 date: 2023-03-01 00:00:00 Z
 Summary Text: 'Through the program, organizations will be able to work closely with
-  the ESA hub team to improve access to open data sets, build partnerships with organizations
-  and experts, and receive technical assistance, and support training.  '
+  the Eastern and Southern Africa (ESA) hub team to improve access to open data sets,
+  build partnerships with organizations and experts, and receive technical assistance,
+  and support training.  '
 Feature Image: https://cdn.hotosm.org/website/Mogadishu+Skyline.jpg
 ---
 
