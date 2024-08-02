@@ -4,13 +4,13 @@ date: 2021-04-08 05:22:00 Z
 Photo: https://cdn.hotosm.org/website/Screenshot+2021-04-08+at+07.28.40.png
 Member Type:
   Is Staff: true
-Job Title: Senior Associate, MERL - Asia Pacific Hub
-Team: Asia Pacific Hub
+Job Title: 'Senior Associate, MERL '
+Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Dana%20De%20Guzman
 ---
 
-Dana works as the Monitoring, Evaluation, Research & Learning (MERL) Associate for Asia at HOT. She brings in over ten years of experience in areas of Education, Environment, Health, Human Rights, Gender, Public Governance, and Inclusive Innovation.
+Dana works as the Monitoring, Evaluation, Research & Learning (MERL) Associate at HOT. She brings in over ten years of experience in areas of Education, Environment, Health, Human Rights, Gender, Public Governance, and Inclusive Innovation.
 
 Prior to HOT, Dana designed and conducted Monitoring & Evaluation plans and research with government agencies, non-profits, and international organizations. Under the UNIID-Southeast Asia, she helped co-develop Inclusive Innovation Hub, an open education platform with universities and research councils in the region.
  
