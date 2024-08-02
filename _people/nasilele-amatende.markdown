@@ -4,7 +4,7 @@ date: 2021-05-04 14:07:00 Z
 Photo: https://cdn.hotosm.org/website/Nasilele+Amatende.jpeg
 Member Type:
   Is Staff: true
-Job Title: Senior Manager Partnerships & Community
+Job Title: Senior Program Manager
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/N_ama
