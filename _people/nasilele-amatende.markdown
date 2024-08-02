@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/Nasilele+Amatende.jpeg
 Member Type:
   Is Staff: true
 Job Title: Senior Program Manager
-Team: Global
+Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/N_ama
 ---
