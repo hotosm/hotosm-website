@@ -17,3 +17,12 @@ When responding to any humanitarian crisis or disaster, time matters. Users look
 - **OSM exports enhancement**: improve data usability of [HOT’s exports from OSM into the Humanitarian Data Exchange (HDX)](https://data.humdata.org/organization/225b9f7d-e7cb-4156-96a6-44c9c58d31e3), starting with better parsing of multiple language availability in OSM for populated place names, and inclusion of humanitarian unique identifiers ([OCHA p-codes](https://storymaps.arcgis.com/stories/dcf6135fc0e943a9b77823bb069e2578)). 
 - **Data improvements in areas of high humanitarian interest**: improve data coverage and attributes/OSM tagging for populated places and roads in Mozambique, South Sudan, Somalia, Ethiopia, and more. 
 
+## We need your help!
+
+Do you use populated places and/or roads in your humanitarian work? We’d love to hear from you! Tell us what’s most important for you when looking for data quality. Some of the data aspects on our radar are:
+Spatial coverage and accurate geometry
+- Road classifications
+- Populated place names in coordination and local languages
+- Inclusion of pcodes
+
+![OSMRoadCompletness2024.png](/uploads/OSMRoadCompletness2024.png)
