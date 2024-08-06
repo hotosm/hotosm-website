@@ -10,7 +10,7 @@ Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/JessiePechmann/
 ---
 
-Jessie is currently working with HOT as the Global GIS Manager.
+Jessie is currently working with HOT as the Global GIS & IM Lead.
 
 Jessie comes to HOT with over 10 years experience in geospatial technology across the public and humanitarian sectors. Immediately previous to HOT, Jessie worked to build IMPACT Initiatives’s GIS portfolio in the Middle East. In Syria, Jessie brought spatial data analysis and mapping tools to humanitarian and rapid needs assessments in Eastern Ghouta, Idleb, and northeast Syria. Jessie later managed IMPACT’s GIS and data team in Iraq, localizing the team and doubling the team’s capacity. Before IMPACT, Jessie was a GIS Project Manager for local government in the US. 
 

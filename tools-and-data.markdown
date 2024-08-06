@@ -52,6 +52,8 @@ Block 3:
     URL: https://toolbox.hotosm.org/pages/introduction/how_to_use_toolbox/
   - Name: LearnOSM
     URL: https://learnosm.org
+  - Name: Humanitarian Use of OSM Data
+    URL: https://hot.learnworlds.com/course/humanitarian-use-osm
 layout: tools-and-data
 ---
 

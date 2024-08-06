@@ -1,19 +1,14 @@
 ---
 title: Beyond the Map Fund Program
-date: 2023-05-16 19:46:00 Z
-Project Summary Text: Beyond the Map Fund is a new program that provides financial
-  and technical support to community organizations and non-profits seeking to integrate
-  open mapping data to improve their planning and response to development and humanitarian
-  initiatives.
+date: 2023-03-01 00:00:00 Z
+Summary Text: 'Through the program, organizations will be able to work closely with
+  the Eastern and Southern Africa (ESA) hub team to improve access to open data sets,
+  build partnerships with organizations and experts, and receive technical assistance,
+  and support training.  '
 Feature Image: https://cdn.hotosm.org/website/Mogadishu+Skyline.jpg
-Is Community-Led: false
-Impact Area:
-- Sustainable Cities & Communities
-Duration:
-  Start Date: 2023-03-01 00:00:00 Z
 ---
 
-Through the program, organizations will be able to work closely with the ESA hub team to improve access to open data sets, build partnerships with organizations and experts, and receive technical assistance, and support training.  By providing the tools, knowledge, and skills to access, create and use open map data, the Beyond the Map Fund will help organizations to be more effective in their work and to better understand the environment in which they operate.
+By providing the tools, knowledge, and skills to access, create and use open map data, the Beyond the Map Fund will help organizations to be more effective in their work and to better understand the environment in which they operate.
 
 The objective of the fund is to enhance the integration, accessibility, and utilization of open mapping tools and data in organizational workflows through the following means:
 

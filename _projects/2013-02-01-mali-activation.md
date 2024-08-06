@@ -2,6 +2,8 @@
 title: Mali Activation
 date: 2013-02-01 17:49:00 Z
 permalink: projects/2013-02-01_mali_activation_
+published: false
+Person: Pierre Béland
 Summary Text: This Activation follows discussions between HOT and the United Nations
   Office for the Coordination of Humanitarian Affairs for Mali (UNOCHA-Mali). The
   ungoing efforts to map Mali are very helpfull to humanitarian organizations.  To
@@ -10,7 +12,6 @@ Summary Text: This Activation follows discussions between HOT and the United Nat
   the ungoing base mapping and to contribute to the geolocation of existing datasets
   for basic services. On Jan 16 2013, the UNOCHA-Mali and his humanitarian partners
   have highlighted the complex emergency situation in Mali.
-Person: Pierre Béland
 created: 1359740943
 ---
 
