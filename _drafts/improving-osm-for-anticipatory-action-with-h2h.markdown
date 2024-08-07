@@ -1,6 +1,7 @@
 ---
 title: Improving OSM for Anticipatory Action with H2H
 date: 2024-08-06 23:33:00 Z
+Person: Jessica Pechmann
 ---
 
 The Humanitarian OpenStreetMap Team (HOT) is excited to improve the humanitarian usability of open spatial data through OpenStreetMap (OSM) as part of [H2H’s Anticipatory Action Accelerator](
