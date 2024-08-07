@@ -21,7 +21,7 @@ When responding to any humanitarian crisis or disaster, time matters. Users look
 ## We need your help!
 
 Do you use populated places and/or roads in your humanitarian work? We’d love to hear from you! Tell us what’s most important for you when looking for data quality. Some of the data aspects on our radar are:
-Spatial coverage and accurate geometry
+- Spatial coverage and accurate geometry
 - Road classifications
 - Populated place names in coordination and local languages
 - Inclusion of p-codes
