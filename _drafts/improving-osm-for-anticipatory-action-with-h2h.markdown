@@ -25,4 +25,8 @@ Spatial coverage and accurate geometry
 - Populated place names in coordination and local languages
 - Inclusion of pcodes
 
+What are we missing? Please take a few minutes to fill out this [survey](
+https://forms.gle/X32fgneAgFkrWFLi6
+), or get in touch directly with Jessie Pechmann, HOT’s Global GIS Manager, at jessie.pechmann@hotosm.org to send feedback or stay involved.  
+
 ![OSMRoadCompletness2024.png](/uploads/OSMRoadCompletness2024.png)
