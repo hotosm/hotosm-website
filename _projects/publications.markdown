@@ -18,6 +18,18 @@ Impact Area:
 
 **Posts are in reverse chronological order**
 
+15/07/2024 - [Open Mapping Experiences at the Comprehensive Education Center "San Ignacio"](https://www.hotosm.org/updates/open-mapping-experiences-at-the-comprehensive-education-center-san-ignacio/)
+
+18/06/2024 - [The Impact of Collaborative Humanitarian Mapping on Disaster Preparedness in Ecuador](https://www.hotosm.org/updates/the-impact-of-collaborative-humanitarian-mapping-on-disaster-preparedness-in-ecuador/)
+
+11/06/2024 - [Together we map for good: building the Open Drone Aerial Tasking Manager](https://www.hotosm.org/updates/together-we-map-for-good-building-the-open-drone-aerial-tasking-manager/)
+
+04/06/2024 - [Strengthening Indigenous Forest Management with Open Mapping in Guatemala](https://www.hotosm.org/updates/strengthening-indigenous-forest-management-with-open-mapping-in-guatemala-8580a0/)
+
+02/06/2024 - [Meet the Women-Led Mapping Group Enabling Quilombola Communities in the Amazon Through Open Mapping](https://www.hotosm.org/updates/meet-the-women-led-mapping-group-enabling-quilombola-communities-in-the-amazon-through-open-mapping/)
+
+28/05/2024 - [Mapping Andean Culture: A Journey Through Linderaje in Cusco](https://www.hotosm.org/updates/mapping-andean-culture-a-journey-through-linderaje-in-cusco/)
+
 13/05/2024 - [Community Cartography: Low-Cost GNSS Receiver in the Mapping of Medio Solimões](https://www.hotosm.org/updates/community-cartography-low-cost-gnss-receiver-in-the-mapping-of-medio-solimoes/)
 
 25/03/2024 - [Coordination and Action: The Articulation of Humanitarian Mapping Response after Hurricane Otis](https://www.hotosm.org/updates/coordination-and-action-the-articulation-of-humanitarian-mapping-response-after-hurricane-otis/)
