@@ -1,12 +1,12 @@
 ---
-title: Improving OSM for Anticipatory Action with H2H
+title: Humanitarian OpenStreetMap Team joins the H2H Anticipatory Action Accelerator
 date: 2024-08-06 23:33:00 Z
 Person: Jessica Pechmann
 ---
 
 The Humanitarian OpenStreetMap Team (HOT) is excited to improve the humanitarian usability of open spatial data through OpenStreetMap (OSM) as part of [H2H’s Anticipatory Action Accelerator](
 https://h2hnetwork.org/enhancing-h2h-action-for-anticipatory-response/
-). With support from the H2H, HOT will be working on some of the spatial datasets that are most foundational for when a disaster hits:
+). With support from the [H2H Network](https://h2hnetwork.org/), HOT will be working on some of the spatial datasets that are most foundational for when a disaster hits:
 1. Populated places - used to identify the location and scope of affected communities in a humanitarian crisis
 2. Roads -  used to plan access to affected populations and communities
 
@@ -24,10 +24,10 @@ Do you use populated places and/or roads in your humanitarian work? We’d love 
 Spatial coverage and accurate geometry
 - Road classifications
 - Populated place names in coordination and local languages
-- Inclusion of pcodes
+- Inclusion of p-codes
 
 What are we missing? Please take a few minutes to fill out this [survey](
 https://forms.gle/X32fgneAgFkrWFLi6
-), or get in touch directly with Jessie Pechmann, HOT’s Global GIS Manager, at jessie.pechmann@hotosm.org to send feedback or stay involved.  
+), or get in touch directly with Jessie Pechmann, HOT’s Global GIS Manager, at [jessie.pechmann@hotosm.org](mailto:jessie.pechmann@hotosm.org) to send feedback or stay involved.  
 
 ![OSMRoadCompletness2024.png](/uploads/OSMRoadCompletness2024.png)
