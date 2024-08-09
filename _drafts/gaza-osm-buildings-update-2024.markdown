@@ -26,7 +26,7 @@ The updated data is live in OpenStreetMap and available via [HDX](https://data.h
 
 Now that all buildings in Gaza pre-conflict are reflected in OSM, data analysts can track which buildings are functional and which are destroyed. Eventually we will be able to track demolition, and rebuilding when the context allows. 
 
-With increasing complex emergencies displacing a [record](https://www.unhcr.org/us/global-trends) number of people globally, aid organizations are struggling to keep up. HOT’s approach to utilize trained volunteers to gather human-verified data on hard to reach areas is more important than ever. **There are many ways to get involved with our efforts. Contact us at info@hotosm.org to partner, volunteer, or donate to ongoing efforts in conflict affected areas worldwide**. 
+With increasing complex emergencies displacing a [record](https://www.unhcr.org/us/global-trends) number of people globally, aid organizations are struggling to keep up. HOT’s approach to utilize trained volunteers to remotely gather human-verified data on hard to reach areas is more important than ever. **There are many ways to get involved with our efforts. Contact us at info@hotosm.org to partner, volunteer, or donate to ongoing efforts in conflict affected areas worldwide**. 
 
 ![Gaza Update Announcement Aug 2024.png](/uploads/Gaza%20Update%20Announcement%20Aug%202024.png)
 [Pdf version of summary of Gaza Update 2024](https://drive.google.com/file/d/1kwKOQgfyAsU56D7HUAxKvUsDwiWwECmG/view?usp=sharing)
