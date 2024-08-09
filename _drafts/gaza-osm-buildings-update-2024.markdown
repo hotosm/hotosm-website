@@ -13,8 +13,10 @@ Increased conflict since October 2023 has caused a prolonged humanitarian crisis
 
 HOT’s remote and crowdsourced mapping methodology can collect detailed information visible on aerial imagery in hard to reach areas. In areas that are hard to reach due to conflict, HOT always balances data needs with [responsible data practices](https://www.hotosm.org/tools-and-data/data-principles/), based on the context.
 
+Based on consultation with humanitarian and UN actors working on Gaza, HOT began [volunteer based work](https://wiki.openstreetmap.org/wiki/Gaza_Update_2024) in February 2024 to create a complete pre-conflict dataset of all building footprints in Gaza in OpenStreetMap. Work by volunteers to adjust existing buildings and add new buildings was coordinated using [HOT’s Tasking Manager](https://tasks.hotosm.org/). Due to protection and data quality concerns, only expert teams were assigned to map and validate the area. 
 
-The updated data is live in OpenStreetMap and available via [HDX](https://data.humdata.org/dataset/hotosm_pse_buildings?) or HOT’s [Export Tool](https://export.hotosm.org/v3/). 
+
+The updated data is live in OpenStreetMap and available via [HDX](https://data.humdata.org/dataset/hotosm_pse_buildings?) or [HOT’s Export Tool](https://export.hotosm.org/v3/). 
 
 ## What’s next? 
 
