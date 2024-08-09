@@ -1,6 +1,7 @@
 ---
 title: Humanitarian OpenStreetMap Team joins the H2H Anticipatory Action Accelerator
 date: 2024-08-06 23:33:00 Z
+Feature Image: "/uploads/H2H_AA_accelerator_crop.jpg"
 Person: Jessica Pechmann
 ---
 
