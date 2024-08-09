@@ -1,5 +1,5 @@
 ---
-title: Open Mapping Experiences at the Comprehensive Education Center "San Ignacio"
+title: Open Mapping Experiences at the Rural Secondary School "San Ignacio"
 date: 2024-07-15 20:06:00 Z
 Summary Text: Through the Open Mapping for All program, teachers and students at an
   educational institution in Argentine Patagonia use Open Mapping tools to document,
@@ -15,11 +15,11 @@ Project:
 
 [Versión en español](https://www.hotosm.org/updates/experiencias-de-mapeo-abierto-en-el-centro-de-educacion-integral-san-ignacio/) / [Versão em português](https://www.hotosm.org/updates/experiencias-de-mapeamento-aberto-no-centro-de-educacao-integral-san-ignacio/)
 
-The Comprehensive Education Center "San Ignacio" (CEI) is the first school of the Patagonian Crusade Foundation (FCP) located 10 km from Junín de los Andes, Argentina. The "CEI" or the "Cruzada," as it is commonly called, is one of the leading educational and development institutions in the south of Neuquén.
+The Rural Secondary School "San Ignacio" (CEI) is the first school of the Patagonian Crusade Foundation (FCP) located 10 km from Junín de los Andes, Argentina. The "CEI" or the "Cruzada," as it is commonly called, is one of the leading educational and development institutions in the south of Neuquén.
 
 The CEI provides regular secondary education. It has a primary education program for adults living in rural Patagonia. Often, both young people and adults reside in remote areas or Mapuche rural communities, the ancestral indigenous people of northern Patagonia (Puel Mapu, in the Mapudungun language) and the Chilean Araucanía. These communities are located in remote areas, subjected to the climatic harshness of both the Patagonian summer and winter, far from or often isolated, hundreds of kilometers away from the nearest towns, hospitals, schools, or basic essential services.
 
-Our story unfolds in a context enriched by rugged nature and cultural diversity. At the Comprehensive Education Center "San Ignacio," technical education converges with the enthusiasm of teachers and students who have discovered great opportunities in using open mapping tools through our Open Mapping for All (OM4A) program. Teachers like Pablo Norambuena and Christian Hick, supported by Juan Manuel Stagnaro, have embraced the use of open mapping tools to document, through personalized training and digital instruments, both the institution's issues and the individual interests of the students. Next, we will review this effort.
+Our story unfolds in a context enriched by rugged nature and cultural diversity. At the Rural Secondary School "San Ignacio," technical education converges with the enthusiasm of teachers and students who have discovered great opportunities in using open mapping tools through our Open Mapping for All (OM4A) program. Teachers like Pablo Norambuena and Christian Hick, supported by Juan Manuel Stagnaro, have embraced the use of open mapping tools to document, through personalized training and digital instruments, both the institution's issues and the individual interests of the students. Next, we will review this effort.
 
 # Solving School Infrastructure Problems with Open Mapping
 
@@ -63,7 +63,7 @@ Nahuel, a fifth-year student, mapped all the productive buildings at CEI, detail
 
 This project, completed in three weeks, was used at events such as "Tranqueras Abiertas" and the Federation of Private Agricultural Technical Institutes of the Argentine Republic (FEDIAP) summit, marking a milestone in the school's use of Information and Communication Technologies (ICTs).
 
-These examples highlight the learning experiences with Open Mapping at the Comprehensive Education Center "San Ignacio." Currently, the school has QR codes allowing visitors to access each map freely.
+These examples highlight the learning experiences with Open Mapping at the Rural Secondary School "San Ignacio." Currently, the school has QR codes allowing visitors to access each map freely.
 
 # The Utility of Open Mapping Tools
 
