@@ -7,6 +7,9 @@ Summary Text: 'As damage reaches record levels in the Gaza Strip, the need to un
   a 5 month effort to create the most comprehensive building footprints dataset available
   for Gaza pre-October 2023, using OpenStreetMap**. Over 157,000 buildings have been
   added to the dataset, with thousands more improvements to existing data. '
+Person: Jessica Pechmann
+Country:
+- Palestinian Territory
 ---
 
 Increased conflict since October 2023 has caused a prolonged humanitarian crisis in the Gaza Strip, and massive damage is only complicating the situation. For humanitarian data analysts to understand what buildings are and are not damaged, a full understanding of pre-conflict buildings is needed as a baseline. Efforts to utilize AI and existing OSM datasets for this full baseline have been challenging as the datasets were not completely accurate. The area’s buildings were too dense, and information on the ground was impossible to collect safely. 
