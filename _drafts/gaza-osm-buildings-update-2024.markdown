@@ -15,6 +15,7 @@ HOT’s remote and crowdsourced mapping methodology can collect detailed informa
 
 Based on consultation with humanitarian and UN actors working on Gaza, HOT began [volunteer based work](https://wiki.openstreetmap.org/wiki/Gaza_Update_2024) in February 2024 to create a complete pre-conflict dataset of all building footprints in Gaza in OpenStreetMap. Work by volunteers to adjust existing buildings and add new buildings was coordinated using [HOT’s Tasking Manager](https://tasks.hotosm.org/). Due to protection and data quality concerns, only expert teams were assigned to map and validate the area. 
 
+![Example of increased data quality in OpenStreetMap building footprints in Gaza.png](/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza.png)
 
 The updated data is live in OpenStreetMap and available via [HDX](https://data.humdata.org/dataset/hotosm_pse_buildings?) or [HOT’s Export Tool](https://export.hotosm.org/v3/). 
 
@@ -24,4 +25,5 @@ Now that all buildings in Gaza pre-conflict are reflected in OSM, data analysts 
 
 With increasing complex emergencies displacing a [record](https://www.unhcr.org/us/global-trends) number of people globally, aid organizations are struggling to keep up. HOT’s approach to utilize trained volunteers to gather human-verified data on hard to reach areas is more important than ever. **There are many ways to get involved with our efforts. Contact us at info@hotosm.org to partner, volunteer, or donate to ongoing efforts in conflict affected areas worldwide**. 
 
+![Gaza Update Announcement Aug 2024.png](/uploads/Gaza%20Update%20Announcement%20Aug%202024.png)
 (Pdf version of summary of Gaza Update 2024)[https://drive.google.com/file/d/1kwKOQgfyAsU56D7HUAxKvUsDwiWwECmG/view?usp=sharing]
