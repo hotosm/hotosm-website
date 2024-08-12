@@ -3,7 +3,7 @@ title: Gaza OSM Buildings Update 2024
 date: 2024-08-09 21:06:00 Z
 Summary Text: "As damage reaches record levels in the Gaza Strip, the need to understand
   baseline infrastructure in comparison with current damage estimates is critical
-  to inform humanitarian planning. \n\nExpert volunteers for HOT have recently completed
+  to inform humanitarian planning. \n\n\nExpert volunteers for HOT have recently completed
   a 5 month effort to create the most comprehensive building footprints dataset available
   for Gaza pre-October 2023, using OpenStreetMap. Over 157,000 buildings have been
   added to the dataset, with thousands more improvements to existing data."
