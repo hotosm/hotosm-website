@@ -13,6 +13,15 @@ Country:
 - Democratic Republic of the Congo
 Impact Area:
 - Sustainable Cities & Communities
+Partner:
+- OSM Kenya
+- SDI
+- Nakuru City Council
+- Nairobi County
+- OSM Ethiopia
+- OSM DRC
+- iMMAP Ethiopia
+- Terra Firma
 Tools:
 - tool: Tasking Manager
   link: 
