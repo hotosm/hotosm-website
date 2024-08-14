@@ -42,11 +42,11 @@ La iniciativa utiliza la experiencia de OpenStreetMap (a través de HOT, Co-Mapp
 
 6. **Procesamiento de Datos:** Involucrando a estudiantes entrenados en el procesamiento de datos y capacitando a nuevos estudiantes, liderado por Trufi.
 
-7. **Integración: **Incorporando datos en la aplicación Rutómetro, una instancia mexicana de la app Trufi.
+7. **Integración:** Incorporando datos en la aplicación Rutómetro, una instancia mexicana de la app Trufi.
 
-8. **Apoyo Estratégico: **Definiendo mapeos complementarios y escalando a ciudades vecinas.
+8. **Apoyo Estratégico:** Definiendo mapeos complementarios y escalando a ciudades vecinas.
 
-9. Divulgación Pública: Diseminación amplia a gobiernos locales y estatales, y autoridades nacionales de transporte.
+9. **Divulgación Pública:** Diseminación amplia a gobiernos locales y estatales, y autoridades nacionales de transporte.
 
 # RESULTADOS E IMPACTO
 
@@ -60,19 +60,19 @@ La aplicación Rutómetro de Codeando México integrará los datos de Zamora, of
 
 Los objetivos y impactos clave incluyen:
 
-1. **Cartografía Mejorada: **Mejorar la cartografía del municipio en OpenStreetMap, enfocándose en la disposición de calles, direcciones y datos detallados de infraestructura.
+1. **Cartografía Mejorada:** Mejorar la cartografía del municipio en OpenStreetMap, enfocándose en la disposición de calles, direcciones y datos detallados de infraestructura.
 
-2. **Información de Transporte Digitalizada: **Digitalizar la información para 43 rutas de transporte público, incluyendo paradas formales e informales y la infraestructura asociada.
+2. **Información de Transporte Digitalizada:** Digitalizar la información para 43 rutas de transporte público, incluyendo paradas formales e informales y la infraestructura asociada.
 
-3. **Generación de Datos Abiertos: **Generar y abrir datos en formatos estándar para un uso más amplio, incluyendo la publicación en cualquier plataforma popular.
+3. **Generación de Datos Abiertos:** Generar y abrir datos en formatos estándar para un uso más amplio, incluyendo la publicación en cualquier plataforma popular.
 
-4. **Mejora de la Disponibilidad de Datos: **Mejorar la disponibilidad de datos para apoyar una mejor planificación y proporcionar a los ciudadanos información precisa sobre movilidad.
+4. **Mejora de la Disponibilidad de Datos:** Mejorar la disponibilidad de datos para apoyar una mejor planificación y proporcionar a los ciudadanos información precisa sobre movilidad.
 
-5. **Fomento del Uso del Transporte Público: **Promover el transporte público sobre el uso de vehículos privados, beneficiando al medio ambiente y mejorando la calidad de vida. Apoyar al gobierno en la mejora de la prestación de servicios.
+5. **Fomento del Uso del Transporte Público:** Promover el transporte público sobre el uso de vehículos privados, beneficiando al medio ambiente y mejorando la calidad de vida. Apoyar al gobierno en la mejora de la prestación de servicios.
 
-6. **Beneficios Económicos y Sociales a Largo Plazo: **Mejorar el acceso a oportunidades económicas y servicios de la ciudad, beneficiando particularmente a mujeres y jóvenes, los principales usuarios del transporte público.
+6. **Beneficios Económicos y Sociales a Largo Plazo:** Mejorar el acceso a oportunidades económicas y servicios de la ciudad, beneficiando particularmente a mujeres y jóvenes, los principales usuarios del transporte público.
 
-7. **Alineación con el ODS 11 de la ONU: **Apoyar el Objetivo de Desarrollo Sostenible 11 de las Naciones Unidas para hacer las ciudades inclusivas, seguras, resilientes y sostenibles, y el objetivo 11.2 para un transporte seguro, asequible, accesible y sostenible para todos.
+7. **Alineación con el ODS 11 de la ONU:** Apoyar el Objetivo de Desarrollo Sostenible 11 de las Naciones Unidas para hacer las ciudades inclusivas, seguras, resilientes y sostenibles, y el objetivo 11.2 para un transporte seguro, asequible, accesible y sostenible para todos.
 
 # LECCIONES APRENDIDAS
 
