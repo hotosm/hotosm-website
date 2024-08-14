@@ -30,15 +30,15 @@ Zamora, un municipio en el oeste de Michoacán con 150,000 residentes, enfrenta 
 
 La iniciativa utiliza la experiencia de OpenStreetMap (a través de HOT, Co-Mapper, y colaboradores especializados de OSM), Trufi, y Codeando México para crear y utilizar datos comprensivos de transporte. Recolecta, verifica y procesa los datos antes de entregarlos a Trufi para su integración en OSM. El proyecto emplea una metodología de mapeo participativo, involucrando a partes interesadas locales y estudiantes universitarios en los procesos de recolección y validación de datos. La metodología incluye:
 
-1. **Mapeo Preparatorio: **Usando OSM para mapear la infraestructura vial de la ciudad, involucrando a estudiantes especialmente entrenados para la recolección de datos de calidad.
+1. **Mapeo Preparatorio:** Usando OSM para mapear la infraestructura vial de la ciudad, involucrando a estudiantes especialmente entrenados para la recolección de datos de calidad.
 
 2. **Cartografías Complementarias:** Agregando características detalladas de carreteras, ciclovías, carriles especiales, y puntos clave de interés.
 
 3. **Capacitación Pública:** Educando a los participantes en tecnologías móviles para el mapeo de rutas de transporte durante horas pico y no pico.
 
-4. **Coordinación Compartida con Locales: **Nombrando a un líder local conocedor del municipio para supervisar el compromiso del proyecto.
+4. **Coordinación Compartida con Locales:** Nombrando a un líder local conocedor del municipio para supervisar el compromiso del proyecto.
 
-5. **Recolección de Datos de Campo: **Coordinada por líderes locales u organizaciones de apoyo (HOT, Codeando México, Trufi), asegurando la validación de datos.
+5. **Recolección de Datos de Campo:** Coordinada por líderes locales u organizaciones de apoyo (HOT, Codeando México, Trufi), asegurando la validación de datos.
 
 6. **Procesamiento de Datos:** Involucrando a estudiantes entrenados en el procesamiento de datos y capacitando a nuevos estudiantes, liderado por Trufi.
 
@@ -46,7 +46,7 @@ La iniciativa utiliza la experiencia de OpenStreetMap (a través de HOT, Co-Mapp
 
 8. **Apoyo Estratégico: **Definiendo mapeos complementarios y escalando a ciudades vecinas.
 
-9. **Divulgación Pública: **Diseminación amplia a gobiernos locales y estatales, y autoridades nacionales de transporte.
+9. Divulgación Pública: Diseminación amplia a gobiernos locales y estatales, y autoridades nacionales de transporte.
 
 # RESULTADOS E IMPACTO
 
