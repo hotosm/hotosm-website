@@ -32,23 +32,23 @@ Zamora, a municipality in western Michoacán with 150,000 residents, faces signi
 
 The initiative leverages the expertise of OpenStreetMap (through HOT, Co-Mapper, and specialized OSM contributors), Trufi, and Codeando México to create and utilize comprehensive transport data. It collects, verifies, and processes the data before delivering it to Trufi for integration into OSM. The project employs a participatory mapping methodology, involving local stakeholders and university students in data collection and validation processes. The methodology includes:
 
-1. Preparatory Mapping: Using OSM to map the city's road infrastructure, engaging specifically trained students for quality data collection.
+1. **Preparatory Mapping: **Using OSM to map the city's road infrastructure, engaging specifically trained students for quality data collection.
 
-2. Complementary Cartographies: Adding detailed road characteristics, cycling paths, special lanes, and key points of interest.
+2. **Complementary Cartographies:** Adding detailed road characteristics, cycling paths, special lanes, and key points of interest.
 
-3. Public Training: Educating participants in mobile technologies for transport route mapping during peak and off-peak hours.
+3. **Public Training:** Educating participants in mobile technologies for transport route mapping during peak and off-peak hours.
 
-4. Shared Coordination with Locals: Appointing a knowledgeable local leader from the municipality to oversee project commitment.
+4. **Shared Coordination with Locals: **Appointing a knowledgeable local leader from the municipality to oversee project commitment.
 
-5. Field Data Collection: Coordinated by local leaders or supporting organizations (HOT, Codeando México, Trufi), ensuring data validation.
+5. **Field Data Collection:** Coordinated by local leaders or supporting organizations (HOT, Codeando México, Trufi), ensuring data validation.
 
-6. Data Processing: Involving trained students in data processing and training new students, led by Trufi.
+6. **Data Processing: **Involving trained students in data processing and training new students, led by Trufi.
 
-7. Integration: Incorporating data into the Rutómetro app, a Mexican instance of the Trufi-App.
+7. **Integration:** Incorporating data into the Rutómetro app, a Mexican instance of the Trufi-App.
 
-8. Strategic Support: Defining complementary mappings and scaling to neighboring cities.
+8. **Strategic Support:** Defining complementary mappings and scaling to neighboring cities.
 
-9. Public Outreach: Broad dissemination to local and state governments, and national transport authorities.
+9. **Public Outreach: **Broad dissemination to local and state governments, and national transport authorities.
 
 # OUTCOME AND IMPACT
 
@@ -57,23 +57,23 @@ The initiative leverages the expertise of OpenStreetMap (through HOT, Co-Mapper,
 
 The project will result in the first comprehensive transport database for Zamora and its metropolitan area, including Jacona. This base map will enhance the OSM infrastructure, providing detailed data on streets, names, directions, and key points of interest. Local and state governments will gain new insights for transport system regulation, planning, and improvement.
 
-Codeando Mexico's Rutómetro app will integrate data from Zamora, offering an attractive and practical solution for the population that does not exist nowadays. Successful mapping projects in these cities will pave the way for expanding the Rutómetro app to more states, leveraging GIZ funding for broader impact.
+Trufi's Rutómetro app will integrate data from Zamora, offering an attractive and practical solution for the population that does not exist nowadays. Successful mapping projects in these cities will pave the way for expanding the Rutómetro app to more states, leveraging GIZ funding for broader impact.
 
 Key objectives and impacts include:
 
-1. Enhanced Cartography: Improve the municipality's cartography on OpenStreetMap, focusing on street layouts, directions, and detailed infrastructure data.
+1. **Enhanced Cartography: **Improve the municipality's cartography on OpenStreetMap, focusing on street layouts, directions, and detailed infrastructure data.
 
-2. Digitized Transport Information: Digitize information for 43 public transport routes, including both formal and informal stops and associated infrastructure.
+2. **Digitized Transport Information: **Digitize information for 43 public transport routes, including both formal and informal stops and associated infrastructure.
 
-3. Open Data Generation: Generate and open data in standard formats for broader use, including publication on any popular platforms.
+3. **Open Data Generation: **Generate and open data in standard formats for broader use, including publication on any popular platforms.
 
-4. Improved Data Availability: Enhance data availability to support better planning and provide citizens with accurate mobility information.
+4. **Improved Data Availability: **Enhance data availability to support better planning and provide citizens with accurate mobility information.
 
-5. Encouraged Public Transport Use: Promote public transport over private vehicle use, benefiting the environment and enhancing the quality of life. Support the government in improving service delivery.
+5. **Encouraged Public Transport Use: **Promote public transport over private vehicle use, benefiting the environment and enhancing the quality of life. Support the government in improving service delivery.
 
-6. Long-term Economic and Social Benefits: Improve access to economic opportunities and city services, particularly benefiting women and youth, the primary public transport users.
+6. **Long-term Economic and Social Benefits:** Improve access to economic opportunities and city services, particularly benefiting women and youth, the primary public transport users.
 
-7. Alignment with UN SDG 11: Support the United Nations Sustainable Development Goal 11 to make cities inclusive, safe, resilient, and sustainable, and target 11.2 for safe, affordable, accessible, and sustainable transport for all.
+7. **Alignment with UN SDG 11: **Support the United Nations Sustainable Development Goal 11 to make cities inclusive, safe, resilient, and sustainable, and target 11.2 for safe, affordable, accessible, and sustainable transport for all.
 
 # LEASSONS LEARNED
 
@@ -82,6 +82,9 @@ Key lessons from the project include the importance of continuous local engageme
 # PARTNERS
 
 * Codeando México
+
 * CoMapper
+
 * Municipal Government of Zamora
+
 * Trufi Association
