@@ -33,4 +33,6 @@ With increasingly complex emergencies displacing a [record](https://www.unhcr.or
 ![Gaza Update Announcement Aug 2024.png](/uploads/Gaza%20Update%20Announcement%20Aug%202024.png)
 [Pdf version with the summary of Gaza Update 2024](https://drive.google.com/file/d/1kwKOQgfyAsU56D7HUAxKvUsDwiWwECmG/view?usp=sharing)
 
+For information on recent damage in Gaza, visit [UNOSAT’s Gaza Interactive Data Platform](https://experience.arcgis.com/experience/ea5c453e92724c6ba0a7b8a4037129be/page/UNOSAT/?org=unosat&views=Share) or the [Decentralized Damage Mapping Group](https://www.conflict-damage.org/). 
+
 *Cover image: Gaza City in 2006. Public domain.*
