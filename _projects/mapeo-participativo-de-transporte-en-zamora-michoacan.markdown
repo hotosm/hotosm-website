@@ -56,7 +56,7 @@ La iniciativa utiliza la experiencia de OpenStreetMap (a través de HOT, Co-Mapp
 
 El proyecto resultará en la primera base de datos de transporte comprensiva para Zamora y su área metropolitana, incluyendo Jacona. Este mapa base mejorará la infraestructura de OSM, proporcionando datos detallados sobre calles, nombres, direcciones y puntos clave de interés. Los gobiernos locales y estatales ganarán nuevas perspectivas para la regulación, planificación y mejora del sistema de transporte.
 
-La aplicación Rutómetro de Codeando México integrará los datos de Zamora, ofreciendo una solución atractiva y práctica para la población que actualmente no existe. Los proyectos de mapeo exitosos en estas ciudades allanarán el camino para expandir la aplicación Rutómetro a más estados, aprovechando el financiamiento de GIZ para un impacto más amplio.
+La aplicación Rutómetro, una copia personalizada de la Trufi-app, desarrollada por Trufi Association, integrará los datos de Zamora, ofreciendo una solución atractiva y práctica para la población que actualmente no existe. Los proyectos de mapeo exitosos en estas ciudades allanarán el camino para expandir la aplicación Rutómetro a más estados, aprovechando el financiamiento de GIZ para un impacto más amplio.
 
 Los objetivos y impactos clave incluyen:
 
