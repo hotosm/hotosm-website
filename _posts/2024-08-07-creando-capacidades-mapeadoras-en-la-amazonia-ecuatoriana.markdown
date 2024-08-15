@@ -1,5 +1,5 @@
 ---
-title: Creando capacidades mapeadoras en la amazonía ecuatoriana
+title: Creando Capacidades Mapeadoras en la Amazonía Ecuatoriana
 date: 2024-08-07 01:43:00 Z
 Summary Text: Nuestra iniciativa en la Amazonía Ecuatoriana, con el LAC Hub y OpenLabEc,
   capacita a comunidades en mapeo de riesgos de desastres usando OSM y Mapillary.
