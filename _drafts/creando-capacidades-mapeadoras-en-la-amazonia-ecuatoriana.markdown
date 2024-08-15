@@ -7,7 +7,7 @@ La Amazonía ecuatoriana es una región que cíclicamente sufre de inundaciones 
 
 Buena parte de la infraestructura social y económica de la Amazonía ecuatoriana -que consta de un área aproximada de 120.000 km2, 956.000 habitantes y representa casi la mitad de la superficie de Ecuador- está invisibilizada en el mapa de OSM y pocos datos de esta región están disponibles en la cartografía oficial.
 
-Es en este contexto que el Hub, en colaboración con el OpenLabEc desarrollaron -a inicios del presente año- un plan cuyo objetivo principal era dar los primeros pasos hacia el mapeo de riesgo de desastres en algunas de las principales ciudades amazónicas ecuatorianas (Archidona, Tena, Puyo, Macas, Lago Agrio) y sus alrededores.
+Es en este contexto que el Hub, en colaboración con el OpenLabEc desarrollaron -a inicios del presente año- un plan cuyo objetivo principal era dar los primeros pasos hacia el mapeo de riesgo de desastres en algunas de las principales ciudades amazónicas ecuatorianas (Archidona, Tena, Puyo, Macas y Lago Agrio) y sus alrededores.
 
 Al no haber mapeadores locales en la zona, se definió que el primer paso del proyecto sea iniciar un ciclo básico de capacitación para constituir así el capital social que permita mapear problemas locales: calor extremo, sequías, inundaciones, deslizamientos; y su impacto tanto en la vida cotidiana de las personas como en la infraestructura física.
 
