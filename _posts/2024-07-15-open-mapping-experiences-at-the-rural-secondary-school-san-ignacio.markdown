@@ -13,7 +13,7 @@ Project:
 - Open Mapping for All
 ---
 
-[Versión en español](https://www.hotosm.org/updates/experiencias-de-mapeo-abierto-en-el-centro-de-educacion-integral-san-ignacio/) / [Versão em português](https://www.hotosm.org/updates/experiencias-de-mapeamento-aberto-no-centro-de-educacao-integral-san-ignacio/)
+[Versión en español](https://www.hotosm.org/updates/experiencias-de-mapeo-abierto-en-el-centro-de-educacion-integral-san-ignacio/) / [Versão em português ](https://www.hotosm.org/updates/experiencias-de-mapeamento-aberto-no-centro-de-educacao-integral-san-ignacio/)
 
 The Rural Secondary School "San Ignacio" (CEI) is the first school of the Patagonian Crusade Foundation (FCP) located 10 km from Junín de los Andes, Argentina. The "CEI" or the "Cruzada," as it is commonly called, is one of the leading educational and development institutions in the south of Neuquén.
 
@@ -96,6 +96,6 @@ Open Mapping tools offer students and teachers the opportunity to make significa
 
 These digital tools facilitate the storage, organization, and collection of new data during educational activities. This aspect has been useful for students, who now see themselves as agents of change within society, being able to provide information that was previously invisible to the collective.
 
-## This blog was written by: 
+## This blog was written by:
 
 ![EN - Luis MIguel Bande Jaramillo.jpg](/uploads/EN%20-%20Luis%20MIguel%20Bande%20Jaramillo.jpg)

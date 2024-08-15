@@ -13,7 +13,7 @@ Project:
 - Open Mapping for All
 ---
 
-[Versión en español](https://www.hotosm.org/updates/experiencias-de-mapeo-abierto-en-el-centro-de-educacion-integral-san-ignacio/) / [Versión en inglés](https://www.hotosm.org/updates/open-mapping-experiences-at-the-comprehensive-education-center-san-ignacio/)
+[Versión en español](https://www.hotosm.org/updates/experiencias-de-mapeo-abierto-en-el-centro-de-educacion-integral-san-ignacio/) / [Versión en inglés ](https://www.hotosm.org/updates/open-mapping-experiences-at-the-comprehensive-education-center-san-ignacio/)
 
 O Centro de Educação Integral "San Ignacio" (CEI) é a primeira escola da Fundação Cruzada Patagônica (FCP) localizada a 10 km de Junín de los Andes, Argentina. O "CEI" ou a "Cruzada", como é comumente chamado, é uma das principais instituições educacionais e de desenvolvimento ao sul de Neuquén.
 
