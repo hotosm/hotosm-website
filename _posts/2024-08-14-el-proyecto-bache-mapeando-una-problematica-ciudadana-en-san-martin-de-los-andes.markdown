@@ -20,7 +20,7 @@ En la localidad de San Martín de los Andes, Argentina, todo el casco céntrico 
 
 Nuestra historia se desarrolla en esta población. Allí, las fallas en la vialidad pública han despertado la preocupación de una docente y los estudiantes del curso de Medios de Comunicación en el CPEM-13, quienes han aprendido a integrar herramientas de mapeo abierto en la educación, a través de nuestro programa [Open Mapping for All (OM4A)](https://www.hotosm.org/projects/open-mapping-for-all/). Dentro de la asignatura, la profesora y periodista Melisa Sansotta, junto con sus estudiantes, apuestan por el mapeo con impacto social para documentar, a través de capacitaciones personalizadas y el uso de herramientas descargadas en sus equipos móviles, la necesidad de hacer visible una problemática presente en el entorno que habitan.
 
-## **Integrando el mapeo abierto para realizar trabajos colaborativos**
+## Integrando el mapeo abierto para realizar trabajos colaborativos
 
 El Proyecto Bache surge porque existe un grupo de estudiantes del último año de Secundaria a los cuales les gusta resolver problemas de índole social. La docente ha visto la oportunidad perfecta para unir, en una misma idea, el conocimiento sobre medios de comunicación a través del uso de celulares como herramienta de producción, con la posibilidad de desarrollar un proyecto que tiene que ver con la sociedad.
 
