@@ -47,31 +47,26 @@ Entre las principales herramientas de mapeo abierto empleadas, destacan:
 * [uMap](https://umap.openstreetmap.fr/es/): es una herramienta que facilita la creación de relatos visuales combinando trazas con fotos y vídeos, así como la elaboración respectiva del mapa colaborativo.
 
 <!DOCTYPE html>
-<html lang="es">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Videos Lado a Lado</title>
+    <title>Videos lado a lado</title>
     <style>
         .video-container {
-            text-align: center;
+            display: flex;
         }
-
         .video-container iframe {
-            display: inline-block;
-            width: 45%;
-            height: 300px;
-            margin: 10px;
+            width: 50%;
+            height: 315px; /* Ajusta esta altura según la proporción de los videos */
         }
     </style>
 </head>
 <body>
     <div class="video-container">
-        <iframe src="https://www.youtube.com/embed/K-i-8ZN5Xtw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe src="https://www.youtube.com/embed/H91gCYDrFOU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/K-i-8ZN5Xtw" frameborder="0" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/shorts/H91gCYDrFOU" frameborder="0" allowfullscreen></scrip>
     </div>
 </body>
-</html>
+</html> 
 
 ## La experiencia de aprendizaje utilizando el mapeo abierto
 
