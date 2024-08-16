@@ -15,13 +15,15 @@ La Amazonía ecuatoriana es una región que cíclicamente sufre de inundaciones 
 
 Buena parte de la infraestructura social y económica de la Amazonía ecuatoriana —que consta de un área aproximada de 120.000 km2, 956,000 habitantes y representa casi la mitad de la superficie de Ecuador— está invisibilizada en el mapa de OpenStreetMap (OSM) y pocos datos de esta región están disponibles en la cartografía oficial.
 
-En este contexto, el Hub de Mapeo Abierto para América Latina y el Caribe, en colaboración con el [OpenLabEc](https://openlab.ec/) desarrollaron, a inicios del presente año, un plan cuyo objetivo principal era dar los primeros pasos hacia el mapeo de riesgo de desastres en algunas de las principales ciudades amazónicas ecuatorianas (Archidona, Tena, Puyo, Macas y Lago Agrio), y sus alrededores.
+![Mapeos Amazónicos - Ecuador.jpg](/uploads/Mapeos%20Amazo%CC%81nicos%20-%20Ecuador.jpg)
 
-![Blog CEI OM4A (3).jpg](/uploads/Blog%20CEI%20OM4A%20(3).jpg)
+En este contexto, el Hub de Mapeo Abierto para América Latina y el Caribe, en colaboración con el [OpenLabEc](https://openlab.ec/) desarrollaron, a inicios del presente año, un plan cuyo objetivo principal era dar los primeros pasos hacia el mapeo de riesgo de desastres en algunas de las principales ciudades amazónicas ecuatorianas (Archidona, Tena, Puyo, Macas y Lago Agrio), y sus alrededores.
 
 Al no haber personas mapeadoras locales en la zona, se definió que el primer paso del proyecto debía iniciar un ciclo básico de capacitación para constituir así el capital social que permita mapear problemáticas locales, como por ejemplo: calor extremo, sequías, inundaciones, deslizamientos; y su impacto tanto en la vida cotidiana de las personas como en la infraestructura física.
 
 Con estos lineamientos, el OpenlabEc coordinó con instituciones aliadas que pudieran brindar facilidades para dar los talleres. Para ello, se pensó en universidades e institutos superiores de cada ciudad seleccionada.
+
+![Mapeos Amazónicos Perú.jpg](/uploads/Mapeos%20Amazo%CC%81nicos%20Peru%CC%81.jpg)
 
 En el mes de marzo, se realizó el primer grupo de talleres, en las ciudades de Tena y Macas, tal como lo [relata el OpenLabEc en su blog](https://openlab.ec/mapeoamazonia-TenaMorona):
 
@@ -45,6 +47,6 @@ En el mes de abril se continuó la iniciativa con otros dos talleres de mapeo co
 
 Leo Rodríguez, docente participante al taller de Puyo, comentó:
 
-> "*OpenStreetMap* abre posibilidades de utilizar una plataforma abierta para mapeo. Estamos bastante contentos con las aplicaciones prácticas que ofrece. Estos talleres no solo introducen nuevas tecnologías, sino que también promueven conceptos como los "espacios socialmente constituidos"".
+> "*OpenStreetMap* abre posibilidades de utilizar una plataforma abierta para mapeo. Estamos bastante contentos con las aplicaciones prácticas que ofrece. Estos talleres no solo introducen nuevas tecnologías, sino que también promueven conceptos como los "espacios socialmente constituidos".
 
 En nuestro Programa Amazonía, creemos firmemente que las comunidades pueden utilizar los datos geográficos para enriquecer sus vidas, conservar su entorno y defender sus derechos. Sin embargo, para hacer un uso efectivo de estos datos, las comunidades deben estar equipadas con habilidades adecuadas y deben adaptar y sostener tecnologías que generalmente son diseñadas para otros contextos. OpenStreetMap, que representa un verdadero bien público digital, ofrece un recurso invaluable para estos propósitos. Nuestra meta es desarrollar metodologías adaptables que permitan a los habitantes de esta región—tan diversa y rica como desigual—conocer y aprovechar su territorio para establecer una vida resiliente y sostenible. Este es un compromiso a largo plazo en un área llena de desafíos, y sabemos que no podemos hacerlo solos. Aunque todavía estamos en las etapas iniciales, el proyecto avanza y continuaremos trabajando y comunicando nuestros avances.
