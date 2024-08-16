@@ -50,8 +50,6 @@ Estudiantes que participaron en el mapeo nos comparten sus experiencias:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K-i-8ZN5Xtw?si=gQAGvTuIxHfn6l1O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://youtube.com/shorts/H91gCYDrFOU?feature=shared" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 ## La experiencia de aprendizaje utilizando el mapeo abierto
 
 Melisa destaca que, después de la experiencia, una vez que el producto esté generado, el siguiente paso será llevarlo a los medios de comunicación para darle su respectiva difusión pública y hacer, así, que ocurra el acompañamiento respectivo de la gente. A partir de esto, se podrá comenzar a recorrer instituciones; llevar el proyecto a todos los entes que tengan algún tipo de poder de acción; llevar el proyecto a Vialidad Provincial Nacional y los organismos municipales que correspondan para darle visibilidad absoluta y que, así, la problemática tome la relevancia necesaria y comiencen a surgir las posibles soluciones.
