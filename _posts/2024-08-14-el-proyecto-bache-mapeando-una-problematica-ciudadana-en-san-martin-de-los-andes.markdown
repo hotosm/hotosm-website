@@ -54,18 +54,19 @@ Entre las principales herramientas de mapeo abierto empleadas, destacan:
         .video-container {
             display: flex;
         }
-        .video-container iframe {
-            width: 50%;
-            height: 315px; /* Ajusta esta altura según la proporción de los videos */
+
+        @media (max-width: 768px) {
+            .video-container {
+                flex-direction: column;
+            }
+            .video-container iframe {
+                width: 100%;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="video-container">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/K-i-8ZN5Xtw" frameborder="0" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://www.youtube.com/shorts/H91gCYDrFOU" frameborder="0" allowfullscreen></scrip>
-    </div>
-</body>
+    </body>
 </html> 
 
 ## La experiencia de aprendizaje utilizando el mapeo abierto
