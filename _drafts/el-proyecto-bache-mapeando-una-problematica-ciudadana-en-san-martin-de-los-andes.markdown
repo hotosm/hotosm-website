@@ -1,5 +1,5 @@
 ---
-title: 'El Proyecto Bache: mapeando una problemática ciudadana en San Martín de Los
+title: 'El Proyecto Bache: Mapeando una Problemática Ciudadana en San Martín de Los
   Andes'
 date: 2024-08-14 23:32:00 Z
 Summary Text: Estudiantes y docentes de la secundaria del CPEM-13 en San Martín de
@@ -46,9 +46,39 @@ Entre las principales herramientas de mapeo abierto empleadas, destacan:
 
 * [uMap](https://umap.openstreetmap.fr/es/): es una herramienta que facilita la creación de relatos visuales combinando trazas con fotos y vídeos, así como la elaboración respectiva del mapa colaborativo.
 
+<!DOCTYPE html>\
+<html lang="es">\
+<head>\
+    <meta charset="UTF-8">\
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">\
+    <title>Videos Lado a Lado</title>\
+    <style>\
+        .video-container {\
+            display: flex;\
+            justify-content: space-between;\
+            align-items: center;\
+            gap: 20px;\
+        }
+
+        .video-container iframe {\
+            width: 48%;\
+            height: 300px;\
+        }\
+    </style>\
+</head>\
+<body>\
+    <div class="video-container">\
+        <iframe src="https://www.youtube.com/embed/K-i-8ZN5Xtw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
+        <iframe src="https://www.youtube.com/embed/H91gCYDrFOU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>\
+    </div>\
+</body>\
+</html>
+
 ## La experiencia de aprendizaje utilizando el mapeo abierto
 
-Melissa destaca que, después de la experiencia, una vez que el producto esté generado, el siguiente paso será llevarlo a los medios de comunicación para darle su respectiva difusión pública y hacer, así, que ocurra el acompañamiento respectivo de la gente. A partir de esto, se podrá comenzar a recorrer instituciones; llevar el proyecto a todos los entes que tengan algún tipo de poder de acción; llevar el proyecto a Vialidad Provincial Nacional y los organismos municipales que correspondan para darle visibilidad absoluta y que, así, la problemática tome la relevancia necesaria y comiencen a surgir las posibles soluciones.
+Melisa destaca que, después de la experiencia, una vez que el producto esté generado, el siguiente paso será llevarlo a los medios de comunicación para darle su respectiva difusión pública y hacer, así, que ocurra el acompañamiento respectivo de la gente. A partir de esto, se podrá comenzar a recorrer instituciones; llevar el proyecto a todos los entes que tengan algún tipo de poder de acción; llevar el proyecto a Vialidad Provincial Nacional y los organismos municipales que correspondan para darle visibilidad absoluta y que, así, la problemática tome la relevancia necesaria y comiencen a surgir las posibles soluciones.
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/YZ1TgfHdRB4?si=uSJ_CTU_CShonMHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Esperemos a ver cómo se termina de desarrollar esta loable iniciativa con la cual, además, los estudiantes de 5to C del CPEM-13 estarán participando en el concurso MapEdu 2024, organizado por [Open Mapping for All (OM4A)](https://www.hotosm.org/projects/open-mapping-for-all/). Ya les estaremos contando cómo termina esta increíble experiencia.
 
