@@ -46,10 +46,11 @@ Entre las principales herramientas de mapeo abierto empleadas, destacan:
 
 * **[uMap](https://umap.openstreetmap.fr/es/)**: es una herramienta que facilita la creación de relatos visuales combinando trazas con fotos y vídeos, así como la elaboración respectiva del mapa colaborativo.
 
-<div class="video-container">
-<iframe id="video1" width="560" height="315" src="https://www.youtube.com/embed/K-i-8ZN5Xtw" frameborder="0" allowfullscreen></iframe>
-<iframe id="video2" width="560" height="315" src="https://www.youtube.com/shorts/H91gCYDrFOU" frameborder="0" allowfullscreen></iframe>
-</div>
+Estudiantes que participaron en el mapeo nos comparten sus experiencias:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-i-8ZN5Xtw?si=gQAGvTuIxHfn6l1O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://youtube.com/shorts/H91gCYDrFOU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## La experiencia de aprendizaje utilizando el mapeo abierto
 
