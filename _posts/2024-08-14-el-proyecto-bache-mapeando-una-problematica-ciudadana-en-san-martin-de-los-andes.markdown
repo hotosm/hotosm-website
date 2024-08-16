@@ -59,4 +59,14 @@ Melisa destaca que, después de la experiencia, una vez que el producto esté ge
 
 Esperemos a ver cómo se termina de desarrollar esta loable iniciativa con la cual, además, los estudiantes de 5to C del CPEM-13 estarán participando en el concurso MapEdu 2024, organizado por [Open Mapping for All (OM4A)](https://www.hotosm.org/projects/open-mapping-for-all/). Ya les estaremos contando cómo termina esta increíble experiencia.
 
+## Cobertura en las noticias
+
+### Televisión de la capital de provincia de Neuquén N7 
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/bRToDhfAYOE?si=HYwbhY6s1DyWfuWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Notas periodísticas
+
+[Tomar cartas en el asunto: estudiantes preocupados mapean baches para prevenir accidentes](https://realidadsm.com/2024/08/03/tomar-cartas-en-el-asunto-estudiantes-preocupados-mapean-baches-para-prevenir-accidentes/?sfnsn=scwspwa)
+
 ![Blog luis Miguel Jaramillo OM4A.jpg](/uploads/Blog%20luis%20Miguel%20Jaramillo%20OM4A.jpg)
