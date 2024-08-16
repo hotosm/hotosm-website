@@ -64,7 +64,7 @@ Esperemos a ver cómo se termina de desarrollar esta loable iniciativa con la cu
 
 ### Televisión de la capital de provincia de Neuquén N7 
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/bRToDhfAYOE?si=HYwbhY6s1DyWfuWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/bRToDhfAYOE?start=5337&si=HYwbhY6s1DyWfuWH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Notas periodísticas
 
