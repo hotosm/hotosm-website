@@ -42,15 +42,15 @@ Durante la primera fase del proyecto, los estudiantes emplearon diversas herrami
 
 Entre las principales herramientas de mapeo abierto empleadas, destacan:
 
-* [Mapillary](https://organicmaps.app/es/): Se usó para trazar el recorrido, agregar fotos, vídeos y notas en cada punto del trayecto.
+* **[Mapillary](https://organicmaps.app/es/)**: Se usó para trazar el recorrido, agregar fotos, vídeos y notas en cada punto del trayecto.
 
-* [uMap](https://umap.openstreetmap.fr/es/): es una herramienta que facilita la creación de relatos visuales combinando trazas con fotos y vídeos, así como la elaboración respectiva del mapa colaborativo.
+* **[uMap](https://umap.openstreetmap.fr/es/)**: es una herramienta que facilita la creación de relatos visuales combinando trazas con fotos y vídeos, así como la elaboración respectiva del mapa colaborativo.
 
 <div class="video-container">
-    <iframe id="video1" width="560" height="315" src="https://www.youtube.com/embed/K-i-8ZN5Xtw" frameborder="0" allowfullscreen></iframe>
-    <iframe id="video2" width="560" height="315" src="https://www.youtube.com/shorts/H91gCYDrFOU" frameborder="0" allowfullscreen></iframe>
-</div> 
- 
+<iframe id="video1" width="560" height="315" src="https://www.youtube.com/embed/K-i-8ZN5Xtw" frameborder="0" allowfullscreen></iframe>
+<iframe id="video2" width="560" height="315" src="https://www.youtube.com/shorts/H91gCYDrFOU" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## La experiencia de aprendizaje utilizando el mapeo abierto
 
 Melisa destaca que, después de la experiencia, una vez que el producto esté generado, el siguiente paso será llevarlo a los medios de comunicación para darle su respectiva difusión pública y hacer, así, que ocurra el acompañamiento respectivo de la gente. A partir de esto, se podrá comenzar a recorrer instituciones; llevar el proyecto a todos los entes que tengan algún tipo de poder de acción; llevar el proyecto a Vialidad Provincial Nacional y los organismos municipales que correspondan para darle visibilidad absoluta y que, así, la problemática tome la relevancia necesaria y comiencen a surgir las posibles soluciones.
