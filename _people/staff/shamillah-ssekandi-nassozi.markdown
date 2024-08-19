@@ -1,7 +1,6 @@
 ---
 title: Shamillah Ssekandi Nassozi
 date: 2018-06-01 20:59:00 Z
-published: false
 Photo: https://cdn.hotosm.org/website/ShamilahNassozi.jpg
 Member Type:
   Is Staff: false
