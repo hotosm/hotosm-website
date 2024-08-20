@@ -7,14 +7,6 @@ Summary Text: test
 <html lang="en">
 <head>
     <style>
-        /* Ensure the body or parent container has a max-width */
-        body {
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 0 15px;
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
 
         /* Container for images */
         .image-container {
