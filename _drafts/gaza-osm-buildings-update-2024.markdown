@@ -81,7 +81,7 @@ margin: 20px 0;
     <p>With increasingly complex emergencies displacing a <a href="https://www.unhcr.org/us/global-trends">record</a> number of people globally, aid organizations are struggling to keep up. HOT’s approach to coordinating with trained volunteers to remotely gather human-verified data on hard-to-reach areas is more important than ever. <strong>There are many ways to get involved with our efforts. Contact us at data@hotosm.org to partner, volunteer, or donate to ongoing efforts in conflict-affected areas worldwide</strong>.</p>
     
     <div class="image-container2">
-        <img src="/uploads/Gaza%20Update%20Announcement%20Aug%202024.png" alt="Gaza Update Announcement Aug 2024">
+        <img src="/uploads/Gaza-Update-Announcement-Aug-2024.png" alt="Gaza Update Announcement Aug 2024">
     </div>
     
     <p><a href="https://drive.google.com/file/d/1jVjJjji1NhLPCfk7LAf1fXXp6k4YGU0C/view?usp=sharingusp=sharing">Pdf version with the summary of Gaza Update 2024</a></p>
