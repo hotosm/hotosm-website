@@ -55,7 +55,7 @@ Summary Text: "As damage reaches record levels in the Gaza Strip, the need to un
     <p>Increasing AI (machine-learning) detected buildings are a common, quick way to obtain building footprints across large areas. For many use cases, automated datasets created by ML image detection work well. For other use cases, the precision of a human-checked dataset, such as OSM, works better. Not all ML building datasets are the same, but for the sake of comparison and an example of differences to consider when comparing datasets, the below compares OSM to <a href="https://planetarycomputer.microsoft.com/dataset/ms-buildings">Microsoft’s ML building datasets</a> in Gaza. Overall, <strong>OSM has 18% more individual buildings in the Gaza strip</strong> (estimated 330,079 buildings vs 280,112 buildings).</p>
 
     <div class="image-container">
-        <img src="/uploads/Examples%20of%20OSM%20vs%20AI%20in%20Gaza%20August%202024.png" alt="Examples of OSM vs AI in Gaza August 2024">
+        <img src="/uploads/Gaza-AI-vs-OSM.png" alt="Examples of OSM vs AI in Gaza August 2024">
     </div>
 
     <h2>What’s next?</h2>
