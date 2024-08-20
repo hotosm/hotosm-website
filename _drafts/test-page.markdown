@@ -20,7 +20,7 @@ Summary Text: "As damage reaches record levels in the Gaza Strip, the need to un
         }
 
         .image-container img {
-            width: 55%; 
+            width: 65%; 
             height: auto; 
         }
 
@@ -45,7 +45,7 @@ Summary Text: "As damage reaches record levels in the Gaza Strip, the need to un
     <p>Based on consultation with humanitarian and UN actors working in Gaza, HOT decided in February 2024 to create a pre-conflict dataset of all building footprints in OpenStreetMap. HOT’s <a href="https://www.hotosm.org/community/">community of OpenStreetMap volunteers</a> did all the <a href="https://wiki.openstreetmap.org/wiki/Gaza_Update_2024">data work</a>, coordinated through HOT’s <a href="https://tasks.hotosm.org/">Tasking Manager</a>. Volunteers made meticulous data edits to improve existing data and add missing data. Due to protection and data quality concerns, only expert volunteer teams were assigned to map and validate the area.</p>
 
     <div class="image-container">
-        <a target="_blank" src="/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza.png" alt="Example of increased data quality in OpenStreetMap building footprints in Gaza"><img src="/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza.png" alt="Example of increased data quality in OpenStreetMap building footprints in Gaza"></a>
+        <img src="/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza.png" alt="Example of increased data quality in OpenStreetMap building footprints in Gaza">
     </div>
 
     <p>The updated data is live in OpenStreetMap and available via <a href="https://data.humdata.org/dataset/hotosm_pse_buildings?">HDX</a> or <a href="https://export.hotosm.org/v3/">HOT’s Export Tool</a>.</p>
