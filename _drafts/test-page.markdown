@@ -1,13 +1,7 @@
 ---
 title: test-page
 date: 2024-08-20 16:43:00 Z
-Summary Text: "As damage reaches record levels in the Gaza Strip, the need to understand
-  baseline infrastructure in comparison with current damage estimates is critical
-  to inform humanitarian planning. \n\n\nCoordinated through HOT, expert volunteers
-  have recently completed a 5-month effort to create the most comprehensive building
-  footprints dataset available for Gaza pre-October 2023, using OpenStreetMap. Over
-  157,000 buildings have been added to the dataset, with thousands more improvements
-  to existing data."
+Summary Text: test
 ---
 
 <html lang="en">
@@ -16,10 +10,11 @@ Summary Text: "As damage reaches record levels in the Gaza Strip, the need to un
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gaza Update 2024</title>
     <style>
+        /* Make sure the body or parent container has a max-width */
         body {
-            max-width: 1000px; 
+            max-width: 1000px; /* Adjust as needed */
             margin: 0 auto;
-            padding: 0 5px; 
+            padding: 0 15px; /* Optional, for better spacing */
             font-family: Arial, sans-serif;
             line-height: 1.6;
         }
@@ -27,21 +22,23 @@ Summary Text: "As damage reaches record levels in the Gaza Strip, the need to un
         /* Style images */
         img {
             display: block;
-            max-width: 15%;
-            height: auto; 
-            margin: 0 auto; 
-            padding: 10px 0; 
+            max-width: 25%;
+            height: auto; /* Maintain aspect ratio */
+            margin: 0 auto; /* Center align horizontally */
+            padding: 10px 0; /* Optional, for spacing between images and text */
         }
 
+        /* Responsive styling for smaller screens */
         @media (max-width: 768px) {
             img {
-                max-width: 50%; 
+                max-width: 50%; /* Increase image size for medium screens */
             }
         }
 
         @media (max-width: 480px) {
             img {
-                max-width: 75%; 
+                max-width: 75%; /* Increase image size for small screens */
+            }
         }
     </style>
 </head>
