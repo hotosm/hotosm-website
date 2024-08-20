@@ -1,6 +1,6 @@
 ---
 title: 'Update: Mapping pre-conflict buildings in Gaza for humanitarian analysis'
-date: 2024-08-09 21:06:00 Z
+date: 2024-08-20 21:06:00 Z
 Summary Text: "As damage reaches record levels in the Gaza Strip, the need to understand
   baseline infrastructure in comparison with current damage estimates is critical
   to inform humanitarian planning. \n\n\nCoordinated through HOT, expert volunteers
