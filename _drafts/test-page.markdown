@@ -13,32 +13,36 @@ Summary Text: test
     <style>
         /* Ensure the body or parent container has a max-width */
         body {
-            max-width: 1000px; /* Adjust as needed */
+            max-width: 1000px;
             margin: 0 auto;
-            padding: 0 15px; /* Optional, for better spacing */
+            padding: 0 15px;
             font-family: Arial, sans-serif;
             line-height: 1.6;
         }
 
-        /* Style images */
-        img {
-            display: block;
-            max-width: 25%;
+        /* Container for images */
+        .image-container {
+            display: flex;
+            justify-content: center; /* Center horizontally */
+            margin: 20px 0; /* Add space above and below images */
+        }
+
+        /* Style images within the container */
+        .image-container img {
+            width: 25%; /* Set the width to 25% of the container */
             height: auto; /* Maintain aspect ratio */
-            margin: 0 auto; /* Center align horizontally */
-            padding: 10px 0; /* Optional, for spacing between images and text */
         }
 
         /* Responsive styling for smaller screens */
         @media (max-width: 768px) {
-            img {
-                max-width: 50%; /* Increase image size for medium screens */
+            .image-container img {
+                width: 50%; /* Increase image size for medium screens */
             }
         }
 
         @media (max-width: 480px) {
-            img {
-                max-width: 75%; /* Increase image size for small screens */
+            .image-container img {
+                width: 75%; /* Increase image size for small screens */
             }
         }
     </style>
@@ -50,7 +54,9 @@ Summary Text: test
 
     <p>Based on consultation with humanitarian and UN actors working in Gaza, HOT decided in February 2024 to create a pre-conflict dataset of all building footprints in OpenStreetMap. HOT’s <a href="https://www.hotosm.org/community/">community of OpenStreetMap volunteers</a> did all the <a href="https://wiki.openstreetmap.org/wiki/Gaza_Update_2024">data work</a>, coordinated through HOT’s <a href="https://tasks.hotosm.org/">Tasking Manager</a>. Volunteers made meticulous data edits to improve existing data and add missing data. Due to protection and data quality concerns, only expert volunteer teams were assigned to map and validate the area.</p>
 
-    <img src="/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza.png" alt="Example of increased data quality in OpenStreetMap building footprints in Gaza">
+    <div class="image-container">
+        <img src="/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza.png" alt="Example of increased data quality in OpenStreetMap building footprints in Gaza">
+    </div>
 
     <p>The updated data is live in OpenStreetMap and available via <a href="https://data.humdata.org/dataset/hotosm_pse_buildings?">HDX</a> or <a href="https://export.hotosm.org/v3/">HOT’s Export Tool</a>.</p>
 
@@ -58,7 +64,9 @@ Summary Text: test
 
     <p>Increasing AI (machine-learning) detected buildings are a common, quick way to obtain building footprints across large areas. For many use cases, automated datasets created by ML image detection work well. For other use cases, the precision of a human-checked dataset, such as OSM, works better. Not all ML building datasets are the same, but for the sake of comparison and an example of differences to consider when comparing datasets, the below compares OSM to <a href="https://planetarycomputer.microsoft.com/dataset/ms-buildings">Microsoft’s ML building datasets</a> in Gaza. Overall, <strong>OSM has 18% more individual buildings in the Gaza strip</strong> (estimated 330,079 buildings vs 280,112 buildings).</p>
 
-    <img src="/uploads/Examples%20of%20OSM%20vs%20AI%20in%20Gaza%20August%202024.png" alt="Examples of OSM vs AI in Gaza August 2024">
+    <div class="image-container">
+        <img src="/uploads/Examples%20of%20OSM%20vs%20AI%20in%20Gaza%20August%202024.png" alt="Examples of OSM vs AI in Gaza August 2024">
+    </div>
 
     <h2>What’s next?</h2>
 
@@ -66,7 +74,9 @@ Summary Text: test
 
     <p>With increasingly complex emergencies displacing a <a href="https://www.unhcr.org/us/global-trends">record</a> number of people globally, aid organizations are struggling to keep up. HOT’s approach to coordinating with trained volunteers to remotely gather human-verified data on hard-to-reach areas is more important than ever. <strong>There are many ways to get involved with our efforts. Contact us at data@hotosm.org to partner, volunteer, or donate to ongoing efforts in conflict-affected areas worldwide</strong>.</p>
 
-    <img src="/uploads/Gaza%20Update%20Announcement%20Aug%202024.png" alt="Gaza Update Announcement Aug 2024">
+    <div class="image-container">
+        <img src="/uploads/Gaza%20Update%20Announcement%20Aug%202024.png" alt="Gaza Update Announcement Aug 2024">
+    </div>
 
     <p><a href="https://drive.google.com/file/d/1kwKOQgfyAsU56D7HUAxKvUsDwiWwECmG/view?usp=sharing">Pdf version with the summary of Gaza Update 2024</a></p>
 
