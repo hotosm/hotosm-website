@@ -11,7 +11,7 @@ Summary Text: test
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gaza Update 2024</title>
     <style>
-        /* Make sure the body or parent container has a max-width */
+        /* Ensure the body or parent container has a max-width */
         body {
             max-width: 1000px; /* Adjust as needed */
             margin: 0 auto;
@@ -70,6 +70,8 @@ Summary Text: test
 
     <p><a href="https://drive.google.com/file/d/1kwKOQgfyAsU56D7HUAxKvUsDwiWwECmG/view?usp=sharing">Pdf version with the summary of Gaza Update 2024</a></p>
 
-    <p>For information on recent damage in Gaza, visit <a href="https://experience.arcgis.com/experience/ea5c453e92724c6ba0a7b8a4037129be/page/UNOSAT/?org=unosat">UNOSAT’s Gaza Interactive Data Platform</a></p>
+    <p>For information on recent damage in Gaza, visit <a href="https://experience.arcgis.com/experience/ea5c453e92724c6ba0a7b8a4037129be/page/UNOSAT/?org=unosat&views=Share">UNOSAT’s Gaza Interactive Data Platform</a> or the <a href="https://www.conflict-damage.org/">Decentralized Damage Mapping Group</a>.</p>
+
+    <p><em>Cover image: Gaza City in 2006. Public domain.</em></p>
 </body>
 </html>
