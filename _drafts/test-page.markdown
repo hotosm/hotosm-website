@@ -33,18 +33,7 @@ Summary Text: test
             height: auto; /* Maintain aspect ratio */
         }
 
-        /* Responsive styling for smaller screens */
-        @media (max-width: 768px) {
-            .image-container img {
-                width: 50%; /* Increase image size for medium screens */
-            }
-        }
 
-        @media (max-width: 480px) {
-            .image-container img {
-                width: 75%; /* Increase image size for small screens */
-            }
-        }
     </style>
 </head>
 <body>
