@@ -20,6 +20,11 @@ Summary Text: "As damage reaches record levels in the Gaza Strip, the need to un
         }
 
         .image-container img {
+            width: 75%; 
+            height: auto; 
+        }
+
+        .image-container2 img {
             width: 65%; 
             height: auto; 
         }
@@ -64,7 +69,7 @@ Summary Text: "As damage reaches record levels in the Gaza Strip, the need to un
 
     <p>With increasingly complex emergencies displacing a <a href="https://www.unhcr.org/us/global-trends">record</a> number of people globally, aid organizations are struggling to keep up. HOT’s approach to coordinating with trained volunteers to remotely gather human-verified data on hard-to-reach areas is more important than ever. <strong>There are many ways to get involved with our efforts. Contact us at data@hotosm.org to partner, volunteer, or donate to ongoing efforts in conflict-affected areas worldwide</strong>.</p>
 
-    <div class="image-container">
+    <div class="image-container2">
         <img src="/uploads/Gaza%20Update%20Announcement%20Aug%202024.png" alt="Gaza Update Announcement Aug 2024">
     </div>
 
