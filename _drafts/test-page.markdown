@@ -20,8 +20,14 @@ Summary Text: "As damage reaches record levels in the Gaza Strip, the need to un
         }
 
         .image-container img {
-            width: 75%; 
+            width: 80%; 
             height: auto; 
+        }
+
+        .image-container2 {
+            display: flex;
+            justify-content: center; 
+            margin: 20px 0;
         }
 
         .image-container2 img {
