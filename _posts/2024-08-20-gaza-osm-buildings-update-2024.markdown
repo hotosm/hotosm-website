@@ -5,8 +5,8 @@ Summary Text: "As damage reaches record levels in the Gaza Strip, the need to un
   baseline infrastructure in comparison with current damage estimates is critical
   to inform humanitarian planning. \n\n\nCoordinated through HOT, expert volunteers
   have recently completed a 5-month effort to create the most comprehensive building
-  footprints dataset available for Gaza pre-October 2023, using OpenStreetMap. Over
-  157,000 buildings have been added to the dataset, with thousands more improvements
+  footprints dataset available for Gaza pre-October 2023, using OpenStreetMap. A net
+  of 59,223 buildings have been added to the dataset, with thousands more improvements
   to existing data."
 Feature Image: "/uploads/GazaCity.jpg"
 Person: Jessica Pechmann
