@@ -1,6 +1,13 @@
 ---
 title: Mapeos amazónicos para una Amazonía inclusiva y sostenible
 date: 2024-02-12 05:59:00 Z
+tags:
+- amazonia
+- Brasil
+- Peru
+- Colombia
+- Ecuador
+- Bolivia
 Summary Text: Explora la iniciativa Mapeos Amazónicos, un proyecto del Hub de Mapeo
   Abierto enfocado en Latinoamérica, que destaca la importancia del mapeo de impacto
   social en la región amazónica. Descubre proyectos clave en Colombia, Ecuador, Brasil
