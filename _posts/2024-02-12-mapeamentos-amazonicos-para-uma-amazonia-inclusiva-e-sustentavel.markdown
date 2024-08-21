@@ -19,7 +19,9 @@ Country:
 
 Poucas coisas representam tão iconicamente uma região quanto a Amazônia: oito países compartilham a responsabilidade de cuidar de uma área que abriga 20% das reservas de água doce do mundo. A diversidade, riqueza e potencial de desenvolvimento desta região são fontes de esperança para as comunidades que lá vivem, mas também trazem consigo conflitos e desafios comuns à região e ao mundo. Aqui nos deparamos com situações que colocam em risco a biodiversidade, a subsistência e a segurança das comunidades locais. O desmatamento, as mudanças climáticas e as pressões econômicas têm gerado um panorama complexo que exige compreensão e ação.
 
-![Amazon river in Brazil.jpg](https://cdn.hotosm.org/website/Amazon\+river\+in\+Brazil.jpg)
+![Floresta Amazônica no Rio Urubu, Estado do Amazonas, Brasil. Sob licença Creative Commons Attribution 2.0 Generic.](/uploads/800px-Amazonia.jpg)
+
+*Floresta Amazônica no Rio Urubu, Estado do Amazonas, Brasil. Sob licença Creative Commons Attribution 2.0 Generic.*
 
 É crucial reconhecer que a preservação, restauração e sustentabilidade da região amazônica não são apenas vitais para a América Latina, mas também representam um desafio crítico em escala global na luta contra as mudanças climáticas. A Amazônia é o lar de comunidades cuja sobrevivência está intimamente ligada à floresta tropical. A floresta é um ecossistema integrado e os seres humanos fazem parte dele, podendo sua atividade contribuir para o desenvolvimento sustentável do mundo ou para sua destruição.
 
@@ -29,7 +31,7 @@ Os mapas estão vivos, assim como os territórios da selva e sua população. Co
 
 Para enfrentar o "vazio cartográfico", especialmente no que diz respeito à distribuição dessas populações e às ameaças que enfrentam, estamos trabalhando. Por isso, a iniciativa promoverá a troca de conhecimentos e capacitação técnica em mapeamento e uso de dados espaciais entre comunidades e diversos atores comprometidos com a preservação e sustentabilidade da Amazônia. Um mapeamento detalhado e abrangente da região permitirá ampliar a visibilidade e facilitar o acesso a todas as informações para o setor defensor da Amazônia.
 
-No âmbito do Dia Internacional da Amazônia, em 12 de fevereiro, estamos lançando a iniciativa "Mapeamentos Amazônicos", que tem como objetivo fechar a lacuna cartográfica na região, promovendo o uso do mapeamento para o impacto social em prol da região. Esta iniciativa começa neste dia simbólico, mas seu foco está voltado para o longo prazo. Iniciamos com projetos focalizados nas necessidades identificadas das comunidades e governos, como ponto de partida para continuar mapeando toda a região.
+No âmbito do Dia Internacional da Amazônia, em 12 de fevereiro, 2024, nós lançamos a iniciativa "Mapeamentos Amazônicos", que tem como objetivo fechar a lacuna cartográfica na região, promovendo o uso do mapeamento para o impacto social em prol da região. Esta iniciativa começou naquele dia simbólico, mas seu foco está voltado para o longo prazo. Iniciamos com projetos focalizados nas necessidades identificadas das comunidades e governos, como ponto de partida para continuar mapeando toda a região.
 
 # **Conheça nossos Mapeamentos Amazônicos**
 
@@ -56,6 +58,22 @@ Unindo esforços, pesquisadores da Universidade Federal de São João del-Rei, d
 Nossa estratégia inclui seminários, oficinas, coleta de dados de campo e voos com drones, tudo voltado para capturar imagens de alta resolução e coletar dados para melhorar a representação do Médio Solimões nos mapas.
 
 Destacamos o compromisso local e a colaboração como pilares fundamentais para enfrentar os desafios cartográficos na Amazônia brasileira. Além de preencher as lacunas nos mapas, buscamos fortalecer as comunidades locais, preservar a diversidade cultural e ambiental e contribuir para o desenvolvimento sustentável na região. Nosso enfoque envolve o processamento e análise dos dados coletados, a atualização do OSM e a disseminação dos resultados para inspirar iniciativas semelhantes em outras regiões da Amazônia e globalmente.
+
+## **Formação de educadores indígenas em mapeamento aberto, Pucallpa, Peru**
+
+![Jornada_de_mapeo_del_ISPPBY_cartografía_socioambiental](/uploads/Jornada_de_mapeo_del_ISPPBY_cartograf%C3%ADa_socioambiental.jpg)
+
+A questão ambiental é de grande importância na região e principalmente para as comunidades indígenas, que veem seus territórios ancestrais ameaçados pelo desmatamento em decorrência da exploração madeireira ilegal e também pela poluição de diversas fontes que torna os rios e lagoas que os abastecem de água e comida insalubre.
+
+Em Pucallpa, no Peru, estamos lançando as bases para um grupo de educadores locais de comunidades indígenas. Este grupo, em colaboração com a Universidade Nacional Intercultural da Amazônia (UNIA) e organizações locais que trabalham pela preservação da floresta amazônica e pela economia sustentável das comunidades florestais, apoiará o monitoramento ambiental a partir do mapeamento comunitário.
+
+## **[Mapeamento como ferramenta de gestão de riscos na Amazônia equatoriana](https://www.hotosm.org/updates/creando-capacidades-mapeadoras-en-la-amazonia-ecuatoriana/)**
+
+![Mapeos Amazónicos Perú.jpg](/uploads/Mapeos%20Amazo%CC%81nicos%20Peru%CC%81.jpg)
+
+Grande parte da infraestrutura social e económica da Amazónia Equatoriana – que consiste numa área aproximada de 120.000 km2, 956.000 habitantes e representa quase metade da superfície do Equador – é invisível no mapa OSM e poucos dados sobre esta região estão disponíveis na cartografia oficial.
+
+Nossa iniciativa na Amazônia equatoriana, com o apoio do OpenLabEc, treina comunidades no mapeamento de risco de desastres usando OSM e Mapillary. Desta forma, fortaleceremos os esforços de gestão de riscos em cidades amazônicas como Nueva Loja, Tena, Puyo e Macas, através da criação de novas comunidades de mapeadores em colaboração com secretarias locais de gestão de riscos e organizações da sociedade civil.
 
 ## **Avançando nossas parcerias com a Proteção Civil**
 
@@ -107,20 +125,16 @@ Além dos mapeamentos detalhados de áreas povoadas no Tasking Manager, abrimos 
 
 ## **Projetos Comunitários em Desenvolvimento**
 
-![Johnattan Rupire - Mapeos Amazonicos.png](https://cdn.hotosm.org/website/Johnattan\+Rupire\+-\+Mapeos\+Amazonicos.png)
-
 Além do mapeamento remoto da Amazônia realizado pelas comunidades globais de OSM em colaboração com outras organizações, estamos conduzindo vários projetos comunitários com aliados locais.
 
 Nosso objetivo é ensinar o uso da cartografia a comunidades rurais e indígenas da Amazônia, bem como a grupos universitários e à sociedade civil de cidades amazônicas. Trabalharemos com esses grupos para construir mapas adaptados às suas necessidades de gestão territorial.
 
 Em 2024, a HOT desenvolverá uma concessão em colaboração com as [Meninas da GEO](https://www.instagram.com/meninasdageo/?hl=en), um grupo de mulheres mapeadoras do Instituto Federal do Pará (IFPA) e da Universidade Federal Rural da Amazônia (UFRA). O objetivo será mapear a região quilombola de Moju junto com o [Projeto Perpetuar](https://linktr.ee/Projetoperpetuar). As comunidades locais expressaram a necessidade de mapas que reflitam seus interesses e necessidades, como mitigar os impactos de dois grandes projetos desenvolvidos por organizações privadas, o racismo ambiental e a crise climática vivenciada em seus territórios.
 
-Em Pucallpa, Peru, estamos estabelecendo as bases para um grupo de mapeadores locais com a participação de comunidades indígenas. Este grupo, em colaboração com a Universidade Nacional Intercultural da Amazônia (UNIA) e organizações locais que trabalham em prol da preservação da floresta amazônica e da economia sustentável das comunidades florestais, apoiará o monitoramento ambiental por meio da cartografia comunitária.
-
-Da mesma forma, no Equador, fortaleceremos as atividades de gestão de riscos em cidades amazônicas como Nueva Loja, Tena, Puyo e Macas, através da criação de novas comunidades de mapeadores em colaboração com as secretarias de gestão de riscos locais e organizações da sociedade civil.
-
 > ### **Se sua organização faz parte deste setor ou é uma organização comunitária na Amazônia que trabalha em questões de gestão territorial, [entre em contato conosco](mailto:hublac@hotosm.org)!**
 
 ## **Nossa visão de longo prazo**
 
-Este é o início de nosso trabalho sistemático na Amazônia, baseado na premissa de que as comunidades podem usar dados geográficos para melhorar suas condições de vida, preservar seu ambiente e proteger seus direitos. Para acessar esses dados, as comunidades precisam ter as capacidades adequadas, inovar na forma como utilizam ferramentas concebidas para outros contextos e usar de forma sustentável essas ferramentas. O OSM, um verdadeiro bem público digital, pode ser usado para esses fins. Buscamos desenvolver metodologias flexíveis para permitir que as populações desta região, diversa, rica e marcada pela desigualdade, conheçam seu próprio território e usem essas informações para viver de forma resistente e sustentável nele. É um trabalho de longo prazo, em uma região complexa, e não faremos isso sozinhos. Acreditamos e buscamos a cooperação de todas as organizações públicas, privadas e internacionais que acreditam no poder dos dados abertos para contribuir para a proteção e desenvolvimento de uma das áreas mais emblemáticas e importantes de nossa região.
+Este é o início de nosso trabalho sistemático na Amazônia, baseado na premissa de que as comunidades podem usar dados geográficos para melhorar suas condições de vida, preservar seu ambiente e proteger seus direitos. Para acessar esses dados, as comunidades precisam ter as capacidades adequadas, inovar na forma como utilizam ferramentas concebidas para outros contextos e usar de forma sustentável essas ferramentas. O OSM, um verdadeiro bem público digital, pode ser usado para esses fins.
+
+Buscamos desenvolver metodologias flexíveis para permitir que as populações desta região, diversa, rica e marcada pela desigualdade, conheçam seu próprio território e usem essas informações para viver de forma resistente e sustentável nele. É um trabalho de longo prazo, em uma região complexa, e não faremos isso sozinhos. Acreditamos e buscamos a cooperação de todas as organizações públicas, privadas e internacionais que acreditam no poder dos dados abertos para contribuir para a proteção e desenvolvimento de uma das áreas mais emblemáticas e importantes de nossa região.
