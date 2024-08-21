@@ -60,11 +60,15 @@ Destacamos el compromiso local y la colaboración como pilares fundamentales par
 
 ![Jornada_de_mapeo_del_ISPPBY_cartografía_socioambiental](/uploads/Jornada_de_mapeo_del_ISPPBY_cartograf%C3%ADa_socioambiental.jpg)
 
+El tema medioambiental es de gran importancia en la zona y sobre todo para las comunidades indígenas, que ven** amenazados sus territorios ancestrales por la deforestación producto de la tala ilegal y también por la contaminación **de diversas fuentes que torna insalubres los ríos y lagunas que les proveen agua y alimento.
+
 En Pucallpa, Perú, estamos estableciendo las bases para un grupo de educadores locales procedentes de comunidades indígenas. Este grupo, en colaboración con la Universidad Nacional Intercultural de la Amazonía (UNIA) y organizaciones locales que trabajan en pro de la preservación del bosque amazónico y la economía sostenible de las comunidades bosquesinas, apoyará el monitoreo medioambiental desde la cartografía comunitaria.
 
 ## **[El mapeo como herramienta para la gestión de riesgos en la Amazonía ecuatoriana](https://www.hotosm.org/updates/creando-capacidades-mapeadoras-en-la-amazonia-ecuatoriana/)**
 
 ![Mapeos Amazónicos Perú.jpg](/uploads/Mapeos%20Amazo%CC%81nicos%20Peru%CC%81.jpg)
+
+Buena parte de la infraestructura social y económica de la Amazonía ecuatoriana -que consta de un área aproximada de 120.000 km2, 956.000 habitantes y representa casi la mitad de la superficie de Ecuador- está invisibilizada en el mapa de OSM y pocos datos de esta región están disponibles en la cartografía oficial.
 
 Nuestra iniciativa en la Amazonía ecuatoriana, con el apoyo del OpenLabEc, capacita a comunidades en mapeo de riesgos de desastres usando OSM y Mapillary. De esta manera fortaleceremos las labores de gestión de riesgo en ciudades amazónicas como Nueva Loja, Tena, Puyo y Macas, a través de la creación de nuevas comunidades de mapeadores en colaboración con las secretarías de gestión de riesgos locales y organizaciones de la sociedad civil.
 
