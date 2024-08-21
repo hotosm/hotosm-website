@@ -38,7 +38,7 @@ Los mapas están vivos, como los territorios de la selva y su población. A modo
 
 Para enfrentar el “vacío cartográfico”, especialmente en lo que respecta a la distribución de estas poblaciones y las amenazas que enfrentan, estamos trabajando. Por ello, la iniciativa fomentará el intercambio de conocimientos y la capacitación técnica en mapeo y uso de datos espaciales entre comunidades y diversos actores comprometidos en la preservación y sostenibilidad de la Amazonía. Una cartografía detallada y exhaustiva de la región permitirá ampliar la visibilidad y facilitar el acceso a toda la información para el sector defensor de la Amazonía.
 
-En el marco del Día Internacional de la Amazonía, el 12 de febrero, estamos lanzando la iniciativa "Mapeos Amazónicos", que tiene como objetivo cerrar la brecha cartográfica en la región, fomentando el uso del mapeo para el impacto social al servicio de la región. Esta iniciativa arranca en este día simbólico, sin embargo su enfoque se dirige hacia el largo plazo. Iniciamos con proyectos focalizados hacia necesidades identificadas de comunidades y gobiernos, como punto de partida para continuar más adelante hasta mapear toda la región.
+En el marco del Día Internacional de la Amazonía, el 12 de febrero del 2024 lanzamos la iniciativa "Mapeos Amazónicos", que tiene como objetivo cerrar la brecha cartográfica en la región, fomentando el uso del mapeo para el impacto social al servicio de la región. Esta iniciativa arrancó ese día simbólico, sin embargo su enfoque se dirige hacia el largo plazo. Iniciamos con proyectos focalizados hacia necesidades identificadas de comunidades y gobiernos, como punto de partida para continuar más adelante hasta mapear toda la región.
 
 # **Conoce nuestros Mapeos Amazónicos**
 
@@ -69,7 +69,7 @@ Destacamos el compromiso local y la colaboración como pilares fundamentales par
 
 ![Jornada_de_mapeo_del_ISPPBY_cartografía_socioambiental](/uploads/Jornada_de_mapeo_del_ISPPBY_cartograf%C3%ADa_socioambiental.jpg)
 
-El tema medioambiental es de gran importancia en la zona y sobre todo para las comunidades indígenas, que ven** amenazados sus territorios ancestrales por la deforestación producto de la tala ilegal y también por la contaminación **de diversas fuentes que torna insalubres los ríos y lagunas que les proveen agua y alimento.
+El tema medioambiental es de gran importancia en la zona y sobre todo para las comunidades indígenas, que ven amenazados sus territorios ancestrales por la deforestación producto de la tala ilegal y también por la contaminación de diversas fuentes que torna insalubres los ríos y lagunas que les proveen agua y alimento.
 
 En Pucallpa, Perú, estamos estableciendo las bases para un grupo de educadores locales procedentes de comunidades indígenas. Este grupo, en colaboración con la Universidad Nacional Intercultural de la Amazonía (UNIA) y organizaciones locales que trabajan en pro de la preservación del bosque amazónico y la economía sostenible de las comunidades bosquesinas, apoyará el monitoreo medioambiental desde la cartografía comunitaria.
 
