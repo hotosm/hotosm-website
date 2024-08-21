@@ -7,7 +7,7 @@ Member Type:
 Country: United States
 ---
 
-Benjamin Dills is HOT’s Communications Associate and focuses on HOT’s news updates, social media, and newsletter. He first came to HOT as a mapper in 2019 and became an editorial volunteer in early 2020.
+Benjamin Dills first came to HOT as a mapper in 2019 and became an editorial volunteer in early 2020. He served as a member of HOT's Communications Team from 2020-2024.
 
 He was formerly the Digital Editor and Program Assistant for the Wilson Center’s Global Risk and Resilience Program, where his work focused on digital communications and event convening on the intersection of environmental change, natural resources, human security, and peacebuilding.
 
