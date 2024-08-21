@@ -19,7 +19,8 @@ Country:
 
 Few things represent a region as iconically as the Amazon: eight countries share the care of an area where 20% of the world's freshwater reserves are found. The diversity, richness, and development potential of this region are a source of hope for the communities that inhabit it, as well as a source of conflicts and challenges common to the region and the world. Here, we face situations that jeopardize biodiversity, subsistence, and the security of local communities. Deforestation, climate change, and economic pressures have created a complex landscape that demands understanding and action.
 
-![Amazon river in Brazil.jpg](https://cdn.hotosm.org/website/Amazon\+river\+in\+Brazil.jpg)
+![Amazon rainforest on the Urubu river, Amazonas State, Brazil. Bajo licencia Creative Commons Attribution 2.0 Generic.](/uploads/800px-Amazonia.jpg)
+*Amazon rainforest on the Urubu river, Amazonas State, Brazil. Licensed under the Creative Commons Attribution 2.0 Generic license.*
 
 It is crucial to recognize that the preservation, restoration, and sustainability of the Amazon region are not only vital for Latin America but also represent a critical challenge on a global scale in the fight against climate change. The Amazon is home to communities whose survival is closely linked to the rainforest. The forest is an integrated ecosystem, and humans are part of it, with their activity capable of either promoting sustainable development worldwide or contributing to its disappearance.
 
@@ -33,7 +34,7 @@ On the occasion of the International Day of the Amazon, on February 12, we are l
 
 # **Get to Know Our Amazonian Mapping Projects**
 
-## **Flood Risk Monitoring in Tefe**
+## **Flood Risk Monitoring in Tefe, Brazil**
 
 ![Tefe - Mapeos Amazónicos - HOT.jpg](/uploads/Tefe%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
@@ -47,7 +48,7 @@ The Tefe community adopted manuals and guidelines to their local context, using 
 
 On the other hand, teams from the Federal University of São João del-Rei and UEA developed technology that allows obtaining high-quality geographic information using systems that do not depend on internet connection and drones. This information can then be uploaded to OSM and, consequently, improve the quality of maps globally.
 
-## **[Collaborative and Inclusive Mapping in the Middle Solimões](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)**
+## **[Collaborative and Inclusive Mapping in the Middle Solimões, Brazil](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)**
 
 ![Médio Solimões - Mapeos Amazónicos - HOT-1efddc.jpg](/uploads/Me%CC%81dio%20Solimo%CC%83es%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT-1efddc.jpg)
 
