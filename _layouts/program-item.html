@@ -35,36 +35,36 @@ layout: default
                                 <div class="program-stat">
                                     <!-- <center><p class="loader"></p></center> -->
                                     <!-- <p class="stat-number" id="Community-Mappers"></p> -->
-                                    <p class="stat-number">10M</p>
-                                    <p class="stat-title">People to be Mapped<sup>&#9432;</sup>
-                                        <span class="tooltiptext">Expected outcome of an area home to 10 million people mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> </span>
+                                    <p class="stat-number">{{ page['Stats']['stat1'] }}</p>
+                                    <p class="stat-title">{{ page['Stats']['text1'] }}<sup>&#9432;</sup>
+                                        <span class="tooltiptext">{{ page['Stats']['hover1'] }}</span>
                                     </p>
                                 </div>
                                 <div class="hr-v"></div>
                                     <div class="program-stat">
                                         <!-- <center><p class="loader"></p></center>
                                         <p class="stat-number" id="Total-Map-Edits"></p> -->
-                                        <p class="stat-number">1,000</p>
-                                        <p class="stat-title">local mappers to be trained<sup>&#9432;</sup>
-                                            <span class="tooltiptext">With a focus on participatory mapping</span>
+                                        <p class="stat-number">{{ page['Stats']['stat2'] }}</p>
+                                        <p class="stat-title">{{ page['Stats']['text2'] }}<sup>&#9432;</sup>
+                                            <span class="tooltiptext">{{ page['Stats']['hover2'] }}</span>
                                         </p>
                                     </div>
                                             <div class="hr-v hide-sm"></div>
                                     <div class="program-stat">
                                         <!-- <center><p class="loader"></p></center>
                                         <p class="stat-number" id="Buildings-Mapped"></p> -->
-                                        <p class="stat-number">20</p>
-                                        <p class="stat-title">Local Orgs to engage<sup>&#9432;</sup>
-                                            <span class="tooltiptext">Connecting local organizations with local stakeholders and governments</span>
+                                        <p class="stat-number">{{ page['Stats']['stat3'] }}</p>
+                                        <p class="stat-title">{{ page['Stats']['text3'] }}<sup>&#9432;</sup>
+                                            <span class="tooltiptext">{{ page['Stats']['hover3'] }}</span>
                                         </p>
                                     </div>
                                             <div class="hr-v"></div>
                                     <div class="program-stat">
                                         <!-- <center><p class="loader"></p></center> -->
                                         <!-- <p class="stat-number" id="Roads-Mapped"></p> -->
-                                        <p class="stat-number">25K</p>
-                                        <p class="stat-title">Datasets to be Downloaded<sup>&#9432;</sup>
-                                            <span class="tooltiptext">A goal per year that will allow to determine the interest on the data produced.</span>
+                                        <p class="stat-number">{{ page['Stats']['stat4'] }}</p>
+                                        <p class="stat-title">{{ page['Stats']['text4'] }}<sup>&#9432;</sup>
+                                            <span class="tooltiptext">{{ page['Stats']['hover4'] }}</span>
                                         </p>
                                     </div>
                                 </div>
@@ -115,7 +115,7 @@ layout: default
         <section class="article">
             <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 4rem;">PROGRAM HIGHLIGHTS</h2>
             <p style="font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.5rem;">
-                2024 - 2025 Cycle
+                {{ page['Duration']['Timeframe'] }}
             </p>
 
             <!--** Coverage -->
