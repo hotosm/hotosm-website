@@ -1,5 +1,5 @@
 ---
-title: Mapeos Amazónicos para una Amazonía inclusiva y sostenible
+title: Mapeos amazónicos para una Amazonía inclusiva y sostenible
 date: 2024-02-12 05:59:00 Z
 Summary Text: Explora la iniciativa Mapeos Amazónicos, un proyecto del Hub de Mapeo
   Abierto enfocado en Latinoamérica, que destaca la importancia del mapeo de impacto
@@ -19,7 +19,7 @@ Country:
 
 Pocas cosas representan tan icónicamente a una región como la Amazonía: ocho países comparten el cuidado de una superficie donde se encuentra el 20% de las reservas de agua dulce a nivel mundial. La diversidad, riqueza y potencial de desarrollo de esta región es fuente de esperanza para las comunidades que allí la habitan, así como fuente de conflictos y desafíos  comunes a  la región y el mundo. Aquí nos encontramos con situaciones que ponen en riesgo la biodiversidad, la subsistencia y la seguridad de las comunidades locales. La deforestación, el cambio climático y las presiones económicas han generado un panorama complejo que demanda comprensión y acción.
 
-![Amazon river in Brazil.jpg](https://cdn.hotosm.org/website/Amazon\+river\+in\+Brazil.jpg)
+![Selva amazónica en el río Urubu, estado de Amazonas, Brasil. Bajo licencia Creative Commons Attribution 2.0 Generic.](/uploads/800px-Amazonia.jpg)
 
 Es crucial reconocer que la preservación, restauración y sostenibilidad de la región amazónica no solo es vital para América Latina, sino que también representa un desafío crítico a escala global en la lucha contra el cambio climático. La Amazonía es hogar de comunidades cuya supervivencia está estrechamente ligada a la selva tropical. La selva es un ecosistema integrado y los seres humanos son parte del mismo, pudiendo su actividad favorecer al desarrollo sostenible del mundo, o contribuir a su desaparición.
 
