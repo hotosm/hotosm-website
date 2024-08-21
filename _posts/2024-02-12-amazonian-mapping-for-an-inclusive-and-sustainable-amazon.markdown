@@ -31,7 +31,7 @@ Maps are alive, like the territories of the jungle and its population. For examp
 
 To address the "cartographic void," especially regarding the distribution of these populations and the threats they face, we are working. Therefore, the initiative will promote knowledge exchange and technical training in mapping and spatial data use among communities and various actors committed to the preservation and sustainability of the Amazon. Detailed and comprehensive cartography of the region will expand visibility and facilitate access to all information for the Amazon defense sector.
 
-On the occasion of the International Day of the Amazon, on February 12, we are launching the "Amazonian Mapping" initiative, aimed to close the cartographic gap in the region, promoting the use of mapping for social impact in service of the region. This initiative begins on this symbolic day, but its focus is long-term. We start with projects focused on identified needs of communities and governments as a starting point to continue mapping the entire region later on.
+On the occasion of the International Day of the Amazon, on February 12, we launched the "Amazonian Mapping" initiative, aimed to close the cartographic gap in the region, promoting the use of mapping for social impact in service of the region. This initiative began on that symbolic day, but its focus is long-term. We start with projects focused on identified needs of communities and governments as a starting point to continue mapping the entire region later on.
 
 # **Get to Know Our Amazonian Mapping Projects**
 
