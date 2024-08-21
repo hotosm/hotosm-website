@@ -47,7 +47,7 @@ A comunidade de Tefé adaptou manuais e diretrizes ao seu contexto local, utiliz
 
 Por outro lado, as equipes da Universidade Federal de São João del-Rei e da UEA desenvolveram tecnologia que permite obter informações geográficas de alta qualidade, utilizando sistemas que não dependem de conexão com a internet e drones. Essas informações podem ser então incorporadas ao OpenStreetMap e, consequentemente, melhorar a qualidade dos mapas globalmente.
 
-## **[Mapeamento Colaborativo e Inclusivo no Médio Solimões](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)**
+## **[Mapeamento Colaborativo e Inclusivo no Médio Solimões](https://www.hotosm.org/projects/mapeamento-colaborativo-e-inclusivo-do-medio-solimoes-amazonia/)**
 
 ![Médio Solimões - Mapeos Amazónicos - HOT-1efddc.jpg](/uploads/Me%CC%81dio%20Solimo%CC%83es%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT-1efddc.jpg)
 
