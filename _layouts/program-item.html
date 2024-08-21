@@ -286,17 +286,17 @@ layout: default
                 <div class="project-index-all">
 
                     <div>
-                        <h1><i class="fa-regular fa-map"></i> {{ page.Project-objectives.Objective1 }} </h1>
+                        <h1><i class="{{ page.Project-objectives.Icon1 }}"></i> {{ page.Project-objectives.Objective1 }} </h1>
                         <h3>{{ page.Project-objectives.Objective1-highlight }}</h3>
                         <p>{{ page.Project-objectives.Objectives-title-1 }}</p>
                     </div>
                     <div>
-                        <h1><i class="fa-solid fa-chart-line"></i></i> {{ page.Project-objectives.Objective2 }}</h1>
+                        <h1><i class="{{ page.Project-objectives.Icon2 }}"></i></i> {{ page.Project-objectives.Objective2 }}</h1>
                         <h3>{{ page.Project-objectives.Objective2-highlight }}</h3>
                         <p>{{ page.Project-objectives.Objectives-title-2 }}</p>
                     </div>
                     <div>
-                        <h1><i class="fa-solid fa-users-line"></i>{{ page.Project-objectives.Objective3 }}</h1>
+                        <h1><i class="{{ page.Project-objectives.Icon3 }}"></i>{{ page.Project-objectives.Objective3 }}</h1>
                         <h3>{{ page.Project-objectives.Objective3-highlight }}</h3>
                         <p>{{ page.Project-objectives.Objectives-title-3 }}</p>
                     </div>
@@ -397,9 +397,14 @@ layout: default
 
 
                 <div style="margin: 80px 0 0px "></div>
-
+                {% assign project_count = page['Block 2'].Project | size %}
+                {% if project_count > 3 %}                
                 <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1rem; color: black;">Other Projects in This Program</h2>
                 <div class="hr-h" style="margin: 10px 0 40px "></div>
+                    {% else %}
+                    <div class="hr-h" style="margin: 0px 0 0px "></div>
+                {% endif %}
+
 
                 <div class="project-index-all">
                         {% for project in page['Block 2'].Project offset:3 %}
