@@ -1,5 +1,5 @@
 ---
-title: Mapeos Amazónicos para una Amazonía Inclusiva y Sostenible
+title: Mapeos Amazónicos para una Amazonía inclusiva y sostenible
 date: 2024-02-12 05:59:00 Z
 Summary Text: Explora la iniciativa Mapeos Amazónicos, un proyecto del Hub de Mapeo
   Abierto enfocado en Latinoamérica, que destaca la importancia del mapeo de impacto
@@ -17,7 +17,7 @@ Country:
 
 > ### **[Versão em Português](https://www.hotosm.org/updates/mapeamentos-amazonicos-para-uma-amazonia-inclusiva-e-sustentavel/) / [English Version](https://www.hotosm.org/updates/amazonian-mapping-for-an-inclusive-and-sustainable-amazon/)**
 
-Pocas cosas representan tan icónicamente a una región como la Amazonia: ocho países comparten el cuidado de una superficie donde se encuentra el 20% de las reservas de agua dulce a nivel mundial. La diversidad, riqueza y potencial de desarrollo de esta región es fuente de esperanza para las comunidades que allí la habitan, así como fuente de conflictos y desafíos  comunes a  la región y el mundo. Aquí nos encontramos con situaciones que ponen en riesgo la biodiversidad, la subsistencia y la seguridad de las comunidades locales. La deforestación, el cambio climático y las presiones económicas han generado un panorama complejo que demanda comprensión y acción.
+Pocas cosas representan tan icónicamente a una región como la Amazonía: ocho países comparten el cuidado de una superficie donde se encuentra el 20% de las reservas de agua dulce a nivel mundial. La diversidad, riqueza y potencial de desarrollo de esta región es fuente de esperanza para las comunidades que allí la habitan, así como fuente de conflictos y desafíos  comunes a  la región y el mundo. Aquí nos encontramos con situaciones que ponen en riesgo la biodiversidad, la subsistencia y la seguridad de las comunidades locales. La deforestación, el cambio climático y las presiones económicas han generado un panorama complejo que demanda comprensión y acción.
 
 ![Amazon river in Brazil.jpg](https://cdn.hotosm.org/website/Amazon\+river\+in\+Brazil.jpg)
 
@@ -33,7 +33,7 @@ En el marco del Día Internacional de la Amazonía, el 12 de febrero, estamos la
 
 # **Conoce nuestros Mapeos Amazónicos**
 
-## **Monitoreo del riesgo de inundación en Tefe**
+## **Monitoreo del riesgo de inundación en Tef**é\*\*, Brasil\*\*
 
 ![Tefe - Mapeos Amazónicos - HOT.jpg](/uploads/Tefe%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
@@ -46,7 +46,7 @@ La comunidad de Tefé adoptó manuales y pautas a su contexto local, utilizando 
 
 Por otro lado, los equipos de la Universidad Federal de São João del-Rei y la UEA desarrollaron tecnología que permite obtener información geográfica de muy buena calidad, utilizando sistemas que no dependan de su conexión a internet y drones. Esta información puede ser luego volcada a OSM y, consecuentemente, mejorar la calidad de los mapas a nivel global.
 
-## **[Mapeo Colaborativo e Inclusivo en el Medio Solimões](https://www.hotosm.org/projects/mapeo-colaborativo-e-inclusivo-del-medio-solimoes-amazonas/)**
+## **[Mapeo colaborativo e inclusivo en el Medio Solimões, Brasil](https://www.hotosm.org/projects/mapeo-colaborativo-e-inclusivo-del-medio-solimoes-amazonas/)**
 
 ![Médio Solimões - Mapeos Amazónicos - HOT-1efddc.jpg](/uploads/Me%CC%81dio%20Solimo%CC%83es%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT-1efddc.jpg)
 
@@ -55,6 +55,18 @@ Uniendo esfuerzos, investigadores de la Universidad Federal de São João del-Re
 Nuestra estrategia incluye seminarios, talleres, recolección de datos de campo y vuelos con drones, todo dirigido a capturar imágenes de alta resolución y recopilar datos para mejorar la representación del Medio Solimões en los mapas.
 
 Destacamos el compromiso local y la colaboración como pilares fundamentales para abordar los desafíos cartográficos en la Amazonía brasileña. Además de llenar los vacíos en los mapas, buscamos fortalecer a las comunidades locales, preservar la diversidad cultural y ambiental, y contribuir al desarrollo sostenible en la región. Nuestro enfoque implica procesar y analizar los datos recopilados, actualizar el OSM y difundir resultados para inspirar iniciativas similares en otras regiones de la Amazonía y a nivel global.
+
+## **Capacitación de educadores indígenas en el mapeo abierto, Pucallpa, Per**ú
+
+![Johnattan Rupire - Mapeos Amazonicos.png](https://cdn.hotosm.org/website/Johnattan\+Rupire\+-\+Mapeos\+Amazonicos.png)
+
+En Pucallpa, Perú, estamos estableciendo las bases para un grupo de educadores locales procedentes de comunidades indígenas. Este grupo, en colaboración con la Universidad Nacional Intercultural de la Amazonía (UNIA) y organizaciones locales que trabajan en pro de la preservación del bosque amazónico y la economía sostenible de las comunidades bosquesinas, apoyará el monitoreo medioambiental desde la cartografía comunitaria.
+
+## **[El mapeo como herramienta para la gestión de riesgos en la Amazonía ecuatoriana](https://www.hotosm.org/updates/creando-capacidades-mapeadoras-en-la-amazonia-ecuatoriana/)**
+
+![Mapeos Amazónicos Perú.jpg](/uploads/Mapeos%20Amazo%CC%81nicos%20Peru%CC%81.jpg)
+
+Nuestra iniciativa en la Amazonía ecuatoriana, con el apoyo del OpenLabEc, capacita a comunidades en mapeo de riesgos de desastres usando OSM y Mapillary. De esta manera fortaleceremos las labores de gestión de riesgo en ciudades amazónicas como Nueva Loja, Tena, Puyo y Macas, a través de la creación de nuevas comunidades de mapeadores en colaboración con las secretarías de gestión de riesgos locales y organizaciones de la sociedad civil.
 
 ## **Avanzando nuestras alianzas con Protección Civil**
 
@@ -66,7 +78,7 @@ En ese sentido, nos interesa fortalecer nuestras relaciones con aliados locales 
 
 Este es un esfuerzo continuo y con enfoque sistemático que nos permitirá ofrecer respuestas más efectivas, anticipatorias y con visión comunitaria ante los desafíos que presenta la gestión de riesgos en América Latina. No adoptamos una estrategia eventual, sino que establecemos los enlaces en toda la región de manera individual y sistemática. Estamos comprometidos en trabajar juntos para garantizar la seguridad y el bienestar de nuestras comunidades en toda la región.
 
-## **Mapeos Anticipatorios de la Zonas de Riesgo de la Amazonía**
+## **Mapeos anticipatorios de la zonas de riesgo de la Amazonía**
 
 ![Mapeo Amazónico - Español 8.jpg](/uploads/Mapeo%20Amazo%CC%81nico%20-%20Espan%CC%83ol%208.jpg)
 
@@ -106,20 +118,16 @@ Además de los mapeos detallados de zonas pobladas en el Tasking Manager, hemos 
 
 ## **Proyectos Comunitarios en Desarrollo**
 
-![Johnattan Rupire - Mapeos Amazonicos.png](https://cdn.hotosm.org/website/Johnattan\+Rupire\+-\+Mapeos\+Amazonicos.png)
-
 Además del mapeo remoto de la Amazonía realizado por las comunidades globales de OSM en colaboración con otras organizaciones, estamos llevando a cabo varios proyectos comunitarios con aliados locales.
 
 Nuestro objetivo es enseñar el uso de la cartografía a comunidades rurales e indígenas de la Amazonía, así como a grupos universitarios y a la sociedad civil de ciudades amazónicas. Trabajaremos con estos grupos para construir mapas adaptados a sus necesidades de gestión territorial.
 
 Durante 2024, HOT desarrollará un grant en colaboración con [Meninas da GEO](https://www.instagram.com/meninasdageo/), un grupo de mujeres mapeadoras del Instituto Federal do Pará (IFPA) y de la Universidad Federal Rural de la Amazonia (UFRA). El fin será mapear la región quilombola de Moju junto con el [Proyecto Perpetuar](https://linktr.ee/Projetoperpetuar). Las comunidades locales han expresado la necesidad de mapas que reflejen sus intereses y necesidades, como mitigar los impactos de dos grandes proyectos desarrollados por organizaciones privadas, el racismo ambiental y la crisis climática vivida en sus territorios.
 
-En Pucallpa, Perú, estamos estableciendo las bases para un grupo de mapeadores locales con participación de comunidades indígenas. Este grupo, en colaboración con la Universidad Nacional Intercultural de la Amazonia (UNIA) y organizaciones locales que trabajan en pro de la preservación del bosque amazónico y la economía sostenible de las comunidades bosquesinas, apoyará el monitoreo medioambiental desde la cartografía comunitaria.
-
-De manera similar, en Ecuador, fortaleceremos las labores de gestión de riesgo en ciudades amazónicas como Nueva Loja, Tena, Puyo y Macas, a través de la creación de nuevas comunidades de mapeadores en colaboración con las secretarías de gestión de riesgos locales y organizaciones de la sociedad civil.
-
 > ### **Si tu organización forma parte de este sector o es una organización comunitaria en la Amazonía que trabaja en temas de gestión territorial, [¡contáctanos!](mailto:hublac@hotosm.org)**
 
 ## **Nuestra Visión a Largo Plazo**
 
-Este es el comienzo de nuestro trabajo sistemático en la Amazonia, basados en la premisa que las comunidades pueden tomar los datos geográficos para mejorar sus condiciones de vida, preservar su ambiente y proteger sus derechos. Para tomar estos datos, las comunidades necesitan tener las capacidades adecuadas, innovar en la forma en que utilizan herramientas pensadas para otros contextos y utilizar de forma sostenible las mismas. OSM, un auténtico bien público digital, puede ser utilizado con estos fines. Buscamos desarrollar metodologías flexibles para lograr que las poblaciones de esta región, diversa, rica y marcada por la desigualdad, puedan conocer su propio territorio y utilizar esta información para vivir de forma resistente y sostenible en él. Es un trabajo de larga duración, en una región compleja, y que no haremos en soledad. Creemos y buscamos la cooperación con todas las organizaciones públicas, privadas e internacionales que crean en el poder de los datos abiertos para aportar a la protección y desarrollo del área de uno de los lugares más emblemáticos e importantes de nuestra región.
+Este es el comienzo de nuestro trabajo sistemático en la Amazonía, basados en la premisa que las comunidades pueden tomar los datos geográficos para mejorar sus condiciones de vida, preservar su ambiente y proteger sus derechos. Para tomar estos datos, las comunidades necesitan tener las capacidades adecuadas, innovar en la forma en que utilizan herramientas pensadas para otros contextos y utilizar de forma sostenible las mismas. OSM, un auténtico bien público digital, puede ser utilizado con estos fines.
+
+Buscamos desarrollar metodologías flexibles para lograr que las poblaciones de esta región, diversa, rica y marcada por la desigualdad, puedan conocer su propio territorio y utilizar esta información para vivir de forma resistente y sostenible en él. Es un trabajo de larga duración, en una región compleja, y que no haremos en soledad. Creemos y buscamos la cooperación con todas las organizaciones públicas, privadas e internacionales que crean en el poder de los datos abiertos para aportar a la protección y desarrollo del área de uno de los lugares más emblemáticos e importantes de nuestra región.
