@@ -10,7 +10,7 @@ layout: page
 
 ![LAC_landingpage_Portuguese.jpeg](https://cdn.hotosm.org/website/LAC_landingpage_Portuguese.jpeg)
 
-> **[English Version](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/)** / **[Spanish Version](https://www.hotosm.org/hubs/hub-mapeo-abierto-latam-caribe/)** 
+> **[English Version](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/)** / **[Spanish Version](https://www.hotosm.org/hubs/hub-mapeo-abierto-latam-caribe/)**
 
 Na América Latina e no Caribe (LAC), enfrentamos desastres causados por riscos naturais, juntamente com outros desafios para nosso meio ambiente e desenvolvimento sustentável, dentro do contexto da diversidade e da marcada desigualdade. A equipe do Humanitarian OpenStreetMap (HOT) tem como objetivo ser um catalisador positivo nessa situação para assegurar que o poder dos dados geográficos abertos seja plenamente aproveitado no apoio a políticas públicas baseadas em dados que promovam sociedades inclusivas, sustentáveis e transparentes. No centro de nossa abordagem está a promoção ativa e o uso de práticas de mapeamento de impacto social, garantindo que nossos esforços contribuam para um desenvolvimento compartilhado e significativo.
 
@@ -52,9 +52,7 @@ Liderando o monitoramento de base e promovendo interações entre populações n
 
 O Programa Amazônia é uma iniciativa multifacetada que aborda lacunas cartográficas e promove o mapeamento de impacto social na região. As parcerias com autoridades de proteção civil visam preencher lacunas cartográficas e melhorar a gestão de riscos. O mapeamento antecipado identifica áreas vulneráveis para melhorar o planejamento e a resposta. Os projetos comunitários ensinam cartografia e apoiam o monitoramento ambiental em várias cidades amazônicas do Brasil, Equador e Peru, promovendo o engajamento local e a posse de dados abertos.
 
-1. [Mapeamentos Amazônicos para uma Amazônia Inclusiva e Sustentável](https://www.hotosm.org/updates/mapeamentos-amazonicos-para-uma-amazonia-inclusiva-e-sustentavel/
-
-2. [Mapeamento Colaborativo e Inclusivo do Médio Solimões, Amazonas](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)
+Saiba mais sobre o programa [aqui](https://www.hotosm.org/updates/mapeamentos-amazonicos-para-uma-amazonia-inclusiva-e-sustentavel/).
 
 # Open Mapping for All
 
