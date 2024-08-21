@@ -58,9 +58,8 @@ Leading grassroots monitoring and fostering interactions among populations with 
 
 The Amazonia Program is a multifaceted initiative addressing cartographic gaps and promoting social impact mapping in the region. Partnerships with civil protection authorities aim to fill cartographic gaps and improve risk management. Anticipatory mapping identifies vulnerable areas to enhance planning and response. Community projects teach cartography and support environmental monitoring across various Amazonian cities in Brazil, Ecuador, and Peru, fostering local engagement and open data ownership.
 
-1. [Amazonian Mappings Iniciative](https://www.hotosm.org/updates/amazonian-mapping-for-an-inclusive-and-sustainable-amazon/)
+Get to know more about the project [here](https://www.hotosm.org/updates/amazonian-mapping-for-an-inclusive-and-sustainable-amazon/)
 
-2. [Collaborative and Inclusive Mapping of the Middles Solimões, Amazon](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)
 
 # Open Mapping for All
 
