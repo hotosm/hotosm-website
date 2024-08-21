@@ -51,9 +51,7 @@ Liderando la monitorización de base y fomentando interacciones entre poblacione
 
 El Programa Amazonia es una iniciativa multifacética que aborda brechas cartográficas y promueve el mapeo de impacto social en la región. Las asociaciones con autoridades de protección civil tienen como objetivo llenar brechas cartográficas y mejorar la gestión de riesgos. El mapeo anticipado identifica áreas vulnerables para mejorar la planificación y respuesta. Los proyectos comunitarios enseñan cartografía y apoyan la monitorización ambiental en varias ciudades amazónicas de Brasil, Ecuador y Perú, fomentando el compromiso local y la propiedad de datos abiertos.
 
-1. [Mapeos Amazónicos para una Amazonía Inclusiva y Sostenible](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/)
-
-2. [Mapeo Colaborativo e Inclusivo del Medio Solimões, Amazonas](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)
+Conoce más del programa [aquí](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/).
 
 # Open Mapping for All
 
