@@ -60,7 +60,7 @@ Block 2:
     high vulnerability areas where data is scarce, putting an area home to millions
     of people onto the world map in OpenStreetMap.
   Image: https://www.hotosm.org/uploads/SIDS%20Montserrat%204.jpg
-  Figcaption: Crowdsourcing Non-Camp Refugee Services Data - March 2018
+  Figcaption: Trainees show the customized shirts designed for the project in Montserrat
   Project:
   - Women Centered Disaster Resilience in Small Island Developing States - Montserrat
   - Women-Centered Disaster Resilience in Small Island Developing States - Timor-Leste
@@ -68,10 +68,7 @@ Block 2:
 Program-summary:
   Program Summary Text: "<a>**We work with women and girls in Small Island Developing States to help them gain critical mapping skills. This program aims to build local disaster resilience with a gender perspective by fostering collaboration among women leaders.**</a>"
 Image-leading: "https://cdn.hotosm.org/website/SIDS-TimorLesteDataAnalysis.jpg"
-Figcaption: Through our <strong>Mapping for Climate-Ready Cities program</strong>,
-  we are mapping cities in four priority regions of the world and developing a thriving
-  ecosystem to create, interpret, and use maps to respond to and reduce climate risks
-  in densely populated urban areas.
+Figcaption: In this project, members of Feto Enginhera, women engineers of Timor-Leste, gained open mapping skills for resilience, which they communicated with different community members.
 Narrative-section:
   Narrative-title: About
   Narrative-intro-text: According to the UN, most people displaced and who are vulnerable to displacement due to climate change are women in Small Island Developing States (SIDS). **Their unequal decision-making power undermines emergency recovery efforts and development at every level**, which adds to the hardships usually faced in those islands as a result of their shared similarities, including their isolation from the mainland, their reliance on industries like tourism, and their high vulnerability to natural disasters and climate change with inadequate infrastructures to protect their populations. Furthering these challenges is that there are not enough mapping specialists, OpenStreetMap communities are small or nonexistent, and few are women.
@@ -81,28 +78,31 @@ Narrative-section:
 Quote: improving the well-being and increasing the agency and resilience of women and girls who live in SIDS by building their capacity to create, access, and use open map data <br>
 Project-objectives:
   Title: Proposed Program Goals & Objectives
-  Objective1: " Grow mapping communities in SIDS"
+  Icon1: fa-regular fa-map
+  Objective1: " Grow mapping communities"
   Objective1-highlight: 
-  Objectives-title-1: '1.- Increase the presence of OpenStreetMap (OSM) and open-source communities in SIDS that are underrepresented and underserved in these fields.
+  Objectives-title-1: '1.- <strong>Increase the presence of OpenStreetMap (OSM) and open-source communities</strong> in SIDS that are underrepresented and underserved in these fields.
   <br><br>
-  2.- Women communities are trained in core map competencies e.g. project management, Geographic Information Systems mapping, mobile data collection, etc.
+  2.- <strong>Women communities are trained in core map competencies</strong> e.g. project management, Geographic Information Systems mapping, mobile data collection, etc.
   <br><br>
   3.- Open mapping champions and influencers (groups and individuals) are identified and strengthened'
+  Icon2: fa-solid fa-venus
   Objective2: "Women-centered capacity building"
   Objective2-highlight: 
-  Objectives-title-2: "1.- Build out women-centered projects in small island developing states that are faced with disasters.
+  Objectives-title-2: "1.- <strong>Build out women-centered projects</strong> in small island developing states that are faced with disasters.
   <br><br>
   2.- Women communities in SIDS have the knowledge, tools, funding, and geo-data to implement and advocate for socio-economic change. 
   <br><br>
   3.-Women in underrepresented groups in SIDS are connected to tools and are motivated to create geographical data and solutions.
   "
+  Icon3: fa-solid fa-users-line
   Objective3: " Peer-to-peer support"
   Objective3-highlight: 
-  Objectives-title-3: "1.-  Women in SIDS share knowledge and lessons learned from within and across different regions.
+  Objectives-title-3: "1.- <strong>Women in SIDS share knowledge and lessons learned</strong> from within and across different regions.
   <br><br>
   2.- A diverse makeup of women community champions and partners are increasingly networked to each other sharing learning and knowledge.
   <br><br>
-  3.- Women communities in SIDS have an open dialogue and collaborate with local/global actors from all sectors.
+  3.- Women communities in SIDS have an <strong>open dialogue and collaborate with local/global actors from all sectors</strong>.
   "
 Approach-text: For 13 years, HOT has worked in collaboration with local communities
   to put the places they live on the world map. Our global community of 600K+ volunteers
@@ -130,7 +130,7 @@ Project-text:
     Community knowledge, needs, and solutions are at the center, with HOT facilitating
     the end-to-end process of identifying missing data, mapping, analyzing data, and
     using that data effectively.
-  Narrative-title: Program rational and progress 
+  Narrative-title: Program Focus and Implementation
   Narrative-introduction: Anticipatory action serves as a crucial link between long-term
     disaster risk reduction and immediate humanitarian response, particularly amidst
     the compounded threats of climate change and disasters. <a href="https://www.fao.org/documents/card/en/c/cb7145en">According

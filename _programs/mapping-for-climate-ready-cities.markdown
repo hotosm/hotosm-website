@@ -103,11 +103,14 @@ Project-objectives:
   Objective1-highlight: Map 8-10 major cities
   Objectives-title-1: 'across 4 regions by 2025 with a focus on the most vulnerable
     populations in those locations. '
+  Icon1: fa-regular fa-map
   Objective1: " Map"
+  Icon2: fa-solid fa-chart-line
   Objective2-highlight: Increase analytical capacity of stakeholders
   Objectives-title-2: to collect, analyze & use map data to advocate for climate-resilient
     policy and planning decisions.
   Objective2: " DATA USE"
+  Icon3: fa-solid fa-users-line
   Objective3-highlight: Collaborate with local representatives
   Objectives-title-3: to embed open climate data into existing workflows to create
     data-informed policies & climate-action plans.
