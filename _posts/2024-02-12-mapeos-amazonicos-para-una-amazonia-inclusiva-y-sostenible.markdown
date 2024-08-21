@@ -33,11 +33,11 @@ En el marco del Día Internacional de la Amazonía, el 12 de febrero, estamos la
 
 # **Conoce nuestros Mapeos Amazónicos**
 
-## **Monitoreo del riesgo de inundación en Tefé, Brasil\*\*
+## **Monitoreo del riesgo de inundación en Tefé, Brasil**
 
 ![Tefe - Mapeos Amazónicos - HOT.jpg](/uploads/Tefe%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
-Tefé, es una de las últimas ciudades habitadas en las fronteras de la amazonia brasileña. El municipio no es accesible por tierra, y al difícil acceso se suman otros desafíos como la extrema pobreza, la exclusión de los servicios públicos de parte de su población de origen indígena, y los desafíos que plantea el impacto del cambio climático. Buena parte de la comunidad que vive en los alrededores de Tefé, no está representada en los mapas y por ende las autoridades no pueden llegar a ellas. Además, la erosión causada por la deforestación privada es un problema crítico que requiere monitoreo constante.
+Tefé, es una de las últimas ciudades habitadas en las fronteras de la amazonía brasileña. El municipio no es accesible por tierra, y al difícil acceso se suman otros desafíos como la extrema pobreza, la exclusión de los servicios públicos de parte de su población de origen indígena, y los desafíos que plantea el impacto del cambio climático. Buena parte de la comunidad que vive en los alrededores de Tefé, no está representada en los mapas y por ende las autoridades no pueden llegar a ellas. Además, la erosión causada por la deforestación privada es un problema crítico que requiere monitoreo constante.
 En nuestro trabajo en Tefé (aún en marcha), estamos explorando tres formas de trabajo junto a la comunidad de esta región: capacitación para la inclusión, innovación y uso de mapas por parte de las autoridades locales.
 
 Por un lado, capacitamos a estudiantes de dos comunidades: Alvarães, Nogueira y San Luis de Macarí, para crear proyectos específicos utilizando nuestro sistema de Tasking Manager y datos de imágenes de drones. Esto se llevó a cabo en colaboración con la Universidad Federal de São João del-Rei, la Universidad Estadual de la Amazonía (UEA) y la Defensa Civil de Tefé, quienes recibieron capacitación remota de representantes de Canoa de Tolda, otro de nuestros proyectos en Brasil. Durante 10 días de actividades de campo en noviembre de 2023, se recopilaron y procesaron datos específicos utilizando drones en comunidades no representadas en los mapas oficiales.
@@ -56,9 +56,9 @@ Nuestra estrategia incluye seminarios, talleres, recolección de datos de campo 
 
 Destacamos el compromiso local y la colaboración como pilares fundamentales para abordar los desafíos cartográficos en la Amazonía brasileña. Además de llenar los vacíos en los mapas, buscamos fortalecer a las comunidades locales, preservar la diversidad cultural y ambiental, y contribuir al desarrollo sostenible en la región. Nuestro enfoque implica procesar y analizar los datos recopilados, actualizar el OSM y difundir resultados para inspirar iniciativas similares en otras regiones de la Amazonía y a nivel global.
 
-## **Capacitación de educadores indígenas en el mapeo abierto, Pucallpa, Per**ú
+## **Capacitación de educadores indígenas en el mapeo abierto, Pucallpa, Perú**
 
-![Johnattan Rupire - Mapeos Amazonicos.png](https://cdn.hotosm.org/website/Johnattan\+Rupire\+-\+Mapeos\+Amazonicos.png)
+![Jornada_de_mapeo_del_ISPPBY_cartografía_socioambiental](/uploads/Jornada_de_mapeo_del_ISPPBY_cartograf%C3%ADa_socioambiental.jpg)
 
 En Pucallpa, Perú, estamos estableciendo las bases para un grupo de educadores locales procedentes de comunidades indígenas. Este grupo, en colaboración con la Universidad Nacional Intercultural de la Amazonía (UNIA) y organizaciones locales que trabajan en pro de la preservación del bosque amazónico y la economía sostenible de las comunidades bosquesinas, apoyará el monitoreo medioambiental desde la cartografía comunitaria.
 
