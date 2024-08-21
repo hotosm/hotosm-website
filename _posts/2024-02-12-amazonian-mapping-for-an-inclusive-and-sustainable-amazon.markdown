@@ -87,7 +87,7 @@ This is a continuous and systematic effort that will allow us to provide more ef
 
 ## **Anticipatory Mapping of Risk Areas in the Amazon**
 
-![Tasking Manager - English.jpg](https://cdn.hotosm.org/website/Tasking\+Manager\+-\+English.jpg)
+![Tasking Manager - English.jpg](/uploads/Tasking%20Manager%20-%20English.jpg)
 
 In coordination with the authorities responsible for risk management in Ecuador, Colombia, and Brazil, we have identified the most vulnerable areas in the first quarter of 2024 for these countries, many of which are related to extreme droughts caused by the El Niño phenomenon in forested areas. Therefore, [we have launched mapping projects on the HOT Tasking Manager](https://bit.ly/MapeosAmazonicos).
 
