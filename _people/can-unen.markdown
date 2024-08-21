@@ -7,7 +7,7 @@ Member Type:
 Country: Turkey
 ---
 
-Can is the Senior Manager for Community and Partnerships for the Asia-Pacific Regional Hub. Based in Turkey, he got his B.Sc. degree in Civil Engineering from the Middle East Technical University in Ankara, and his Ph.D. in Geomatics from Istanbul Technical University, specializing in GIS-based applications in disaster management and seismic loss assessment. He also spent time at the University of Illinois at Urbana-Champaign (UIUC) as a visiting researcher at the Mid-America Earthquake Center during 2008 and 2009.
+Based in Turkey, Can got his B.Sc. degree in Civil Engineering from the Middle East Technical University in Ankara, and his Ph.D. in Geomatics from Istanbul Technical University, specializing in GIS-based applications in disaster management and seismic loss assessment. He also spent time at the University of Illinois at Urbana-Champaign (UIUC) as a visiting researcher at the Mid-America Earthquake Center during 2008 and 2009.
 
 He was first introduced to OpenStreetMap in 2012 as a side interest along with his main studies. All things OSM have become a priority and a driving force for him since.
 
