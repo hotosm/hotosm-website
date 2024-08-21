@@ -33,7 +33,7 @@ En el marco del Día Internacional de la Amazonía, el 12 de febrero, estamos la
 
 # **Conoce nuestros Mapeos Amazónicos**
 
-## **Monitoreo del riesgo de inundación en Tef**é\*\*, Brasil\*\*
+## **Monitoreo del riesgo de inundación en Tefé, Brasil\*\*
 
 ![Tefe - Mapeos Amazónicos - HOT.jpg](/uploads/Tefe%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
