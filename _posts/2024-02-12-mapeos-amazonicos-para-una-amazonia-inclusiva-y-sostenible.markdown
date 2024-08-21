@@ -19,8 +19,7 @@ Country:
 
 Pocas cosas representan tan icónicamente a una región como la Amazonia: ocho países comparten el cuidado de una superficie donde se encuentra el 20% de las reservas de agua dulce a nivel mundial. La diversidad, riqueza y potencial de desarrollo de esta región es fuente de esperanza para las comunidades que allí la habitan, así como fuente de conflictos y desafíos  comunes a  la región y el mundo. Aquí nos encontramos con situaciones que ponen en riesgo la biodiversidad, la subsistencia y la seguridad de las comunidades locales. La deforestación, el cambio climático y las presiones económicas han generado un panorama complejo que demanda comprensión y acción.
 
-![Amazon river in Brazil.jpg](https://cdn.hotosm.org/website/Amazon+river+in+Brazil.jpg)
-
+![Amazon river in Brazil.jpg](https://cdn.hotosm.org/website/Amazon\+river\+in\+Brazil.jpg)
 
 Es crucial reconocer que la preservación, restauración y sostenibilidad de la región amazónica no solo es vital para América Latina, sino que también representa un desafío crítico a escala global en la lucha contra el cambio climático. La Amazonía es hogar de comunidades cuya supervivencia está estrechamente ligada a la selva tropical. La selva es un ecosistema integrado y los seres humanos son parte del mismo, pudiendo su actividad favorecer al desarrollo sostenible del mundo, o contribuir a su desaparición.
 
@@ -35,9 +34,10 @@ En el marco del Día Internacional de la Amazonía, el 12 de febrero, estamos la
 # **Conoce nuestros Mapeos Amazónicos**
 
 ## **Monitoreo del riesgo de inundación en Tefe**
+
 ![Tefe - Mapeos Amazónicos - HOT.jpg](/uploads/Tefe%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
-Tefé, es una de las últimas ciudades habitadas en las fronteras de la amazonia brasileña. El municipio no es accesible por tierra, y al difícil acceso se suman otros desafíos como la extrema pobreza, la exclusión de los servicios públicos de parte de su población de origen indígena, y los desafíos que plantea el impacto del cambio climático. Buena parte de la comunidad que vive en los alrededores de Tefé, no está representada en los mapas y por ende las autoridades no pueden llegar a ellas. Además, la erosión causada por la deforestación privada es un problema crítico que requiere monitoreo constante. 
+Tefé, es una de las últimas ciudades habitadas en las fronteras de la amazonia brasileña. El municipio no es accesible por tierra, y al difícil acceso se suman otros desafíos como la extrema pobreza, la exclusión de los servicios públicos de parte de su población de origen indígena, y los desafíos que plantea el impacto del cambio climático. Buena parte de la comunidad que vive en los alrededores de Tefé, no está representada en los mapas y por ende las autoridades no pueden llegar a ellas. Además, la erosión causada por la deforestación privada es un problema crítico que requiere monitoreo constante.
 En nuestro trabajo en Tefé (aún en marcha), estamos explorando tres formas de trabajo junto a la comunidad de esta región: capacitación para la inclusión, innovación y uso de mapas por parte de las autoridades locales.
 
 Por un lado, capacitamos a estudiantes de dos comunidades: Alvarães, Nogueira y San Luis de Macarí, para crear proyectos específicos utilizando nuestro sistema de Tasking Manager y datos de imágenes de drones. Esto se llevó a cabo en colaboración con la Universidad Federal de São João del-Rei, la Universidad Estadual de la Amazonía (UEA) y la Defensa Civil de Tefé, quienes recibieron capacitación remota de representantes de Canoa de Tolda, otro de nuestros proyectos en Brasil. Durante 10 días de actividades de campo en noviembre de 2023, se recopilaron y procesaron datos específicos utilizando drones en comunidades no representadas en los mapas oficiales.
@@ -46,7 +46,8 @@ La comunidad de Tefé adoptó manuales y pautas a su contexto local, utilizando 
 
 Por otro lado, los equipos de la Universidad Federal de São João del-Rei y la UEA desarrollaron tecnología que permite obtener información geográfica de muy buena calidad, utilizando sistemas que no dependan de su conexión a internet y drones. Esta información puede ser luego volcada a OSM y, consecuentemente, mejorar la calidad de los mapas a nivel global.
 
-## **Mapeo Colaborativo e Inclusivo en el Medio Solimões**
+## **[Mapeo Colaborativo e Inclusivo en el Medio Solimões](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)**
+
 ![Médio Solimões - Mapeos Amazónicos - HOT-1efddc.jpg](/uploads/Me%CC%81dio%20Solimo%CC%83es%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT-1efddc.jpg)
 
 Uniendo esfuerzos, investigadores de la Universidad Federal de São João del-Rei, el Centro de Estudios Superiores de Tefé y el LAC Hub trabajan para completar los mapas de la región amazónica mediante el uso de la plataforma OpenStreetMap (OSM) y la capacitación de las comunidades locales en tecnologías asequibles para monitorear el cambio climático.
@@ -56,6 +57,7 @@ Nuestra estrategia incluye seminarios, talleres, recolección de datos de campo 
 Destacamos el compromiso local y la colaboración como pilares fundamentales para abordar los desafíos cartográficos en la Amazonía brasileña. Además de llenar los vacíos en los mapas, buscamos fortalecer a las comunidades locales, preservar la diversidad cultural y ambiental, y contribuir al desarrollo sostenible en la región. Nuestro enfoque implica procesar y analizar los datos recopilados, actualizar el OSM y difundir resultados para inspirar iniciativas similares en otras regiones de la Amazonía y a nivel global.
 
 ## **Avanzando nuestras alianzas con Protección Civil**
+
 ![Proteção Civil - Mapeos Amazónicos - HOT.jpg](/uploads/Protec%CC%A7a%CC%83o%20Civil%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
 
 En América Latina, contamos con una variedad de redes y actores dedicados a la gestión de riesgos. Nuestro objetivo es consolidar nuestra posición como un actor confiable en la mejora de la información para la gestión de riesgos y desastres en toda la región y un mapeo progresivo de las áreas vulnerables, que supla las lagunas de la cartografía oficial disponible. Esta información será clave para estas organizaciones y su uso parte de nuestros objetivos centrales.
@@ -65,25 +67,36 @@ En ese sentido, nos interesa fortalecer nuestras relaciones con aliados locales 
 Este es un esfuerzo continuo y con enfoque sistemático que nos permitirá ofrecer respuestas más efectivas, anticipatorias y con visión comunitaria ante los desafíos que presenta la gestión de riesgos en América Latina. No adoptamos una estrategia eventual, sino que establecemos los enlaces en toda la región de manera individual y sistemática. Estamos comprometidos en trabajar juntos para garantizar la seguridad y el bienestar de nuestras comunidades en toda la región.
 
 ## **Mapeos Anticipatorios de la Zonas de Riesgo de la Amazonía**
+
 ![Mapeo Amazónico - Español 8.jpg](/uploads/Mapeo%20Amazo%CC%81nico%20-%20Espan%CC%83ol%208.jpg)
 
 En articulación con las autoridades encargadas de la gestión de riesgos en Ecuador, Colombia y Brasil, hemos identificado las áreas más vulnerables en el primer trimestre de 2024 para estos países, muchas de las cuales están relacionadas con sequías extremas causadas por el fenómeno del Niño en zonas boscosas. Por ello, lanzamos proyectos de mapeo en el Tasking Manager de HOT.
 
-En el marco del Día Internacional de la Amazonía, el 12 de febrero de 2024, invitamos a la comunidad de personas mapeadoras en general a participar en estos proyectos explorando los que están publicados en el **[Tasking Manager con el tag #mapeo_amazonico](https://tasks.hotosm.org/explore?campaign=Mapeos%20Amaz%C3%B3nicos)**. Es un llamado a la acción para contribuir en estos proyectos que son vitales para la preparación ante riesgos. 
+En el marco del Día Internacional de la Amazonía, el 12 de febrero de 2024, invitamos a la comunidad de personas mapeadoras en general a participar en estos proyectos explorando los que están publicados en el **[Tasking Manager con el tag #mapeo_amazonico](https://tasks.hotosm.org/explore?campaign=Mapeos%20Amaz%C3%B3nicos)**. Es un llamado a la acción para contribuir en estos proyectos que son vitales para la preparación ante riesgos.
 
-> ###  **[¡Súmate por una Amazonía resiliente e inclusiva!](https://tasks.hotosm.org/explore?campaign=Mapeos%20Amaz%C3%B3nicos) Tu contribución es crucial para prepararnos ante los desafíos que enfrenta esta invaluable región.**
+> ### **[¡Súmate por una Amazonía resiliente e inclusiva!](https://tasks.hotosm.org/explore?campaign=Mapeos%20Amaz%C3%B3nicos) Tu contribución es crucial para prepararnos ante los desafíos que enfrenta esta invaluable región.**
 
 ## **Campaña Tasking Manager: [Mapeos Amazónicos](https://bit.ly/MapeosAmazonicos)**
+
 ### **Proyectos Brasil:**
-* [**#16083:**](https://tasks.hotosm.org/projects/16083) Anori, Amazonas
-* [**#16084:**](https://tasks.hotosm.org/projects/16084) Codájas, Amazonas
-* [**#16085:**](https://tasks.hotosm.org/projects/16085) Coari, Amazonas
+
+* **[#16083:](https://tasks.hotosm.org/projects/16083)** Anori, Amazonas
+
+* **[#16084:](https://tasks.hotosm.org/projects/16084)** Codájas, Amazonas
+
+* **[#16085:](https://tasks.hotosm.org/projects/16085)** Coari, Amazonas
+
 ### **Proyectos Colombia:**
-* [**#16122:**](https://tasks.hotosm.org/projects/16122) Orito, Putumayo
-* [**#16123:**](https://tasks.hotosm.org/projects/16123) Puerto Asís, Putumayo
+
+* **[#16122:](https://tasks.hotosm.org/projects/16122)** Orito, Putumayo
+
+* **[#16123:](https://tasks.hotosm.org/projects/16123)** Puerto Asís, Putumayo
+
 ### **Proyectos Ecuador:**
-* [**#16124:**](https://tasks.hotosm.org/projects/16124) Nueva Loja, Sucumbios
-* [**#16125:**](https://tasks.hotosm.org/projects/16125) Pacayu,  Sucumbios
+
+* **[#16124:](https://tasks.hotosm.org/projects/16124)** Nueva Loja, Sucumbios
+
+* **[#16125:](https://tasks.hotosm.org/projects/16125)** Pacayu,  Sucumbios
 
 Nuestra estrategia para los próximos dos años consiste en priorizar el mapeo de las áreas y comunidades más vulnerables, avanzando progresivamente hasta completar un mapa integral de la región. Este mapa será una herramienta poderosa para todas las comunidades y los tomadores de decisiones, proporcionando información detallada que permitirá una mejor planificación y respuesta ante situaciones de riesgo.
 
@@ -92,7 +105,8 @@ Además de los mapeos detallados de zonas pobladas en el Tasking Manager, hemos 
 > ### **Invitamos a toda persona que quiera contribuir mapeando desde su celular en momentos libres a instalar la aplicación [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US) y buscar allí los proyectos amazónicos.**
 
 ## **Proyectos Comunitarios en Desarrollo**
-![Johnattan Rupire - Mapeos Amazonicos.png](https://cdn.hotosm.org/website/Johnattan+Rupire+-+Mapeos+Amazonicos.png)
+
+![Johnattan Rupire - Mapeos Amazonicos.png](https://cdn.hotosm.org/website/Johnattan\+Rupire\+-\+Mapeos\+Amazonicos.png)
 
 Además del mapeo remoto de la Amazonía realizado por las comunidades globales de OSM en colaboración con otras organizaciones, estamos llevando a cabo varios proyectos comunitarios con aliados locales.
 
