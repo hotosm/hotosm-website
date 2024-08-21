@@ -20,6 +20,7 @@ Country:
 Few things represent a region as iconically as the Amazon: eight countries share the care of an area where 20% of the world's freshwater reserves are found. The diversity, richness, and development potential of this region are a source of hope for the communities that inhabit it, as well as a source of conflicts and challenges common to the region and the world. Here, we face situations that jeopardize biodiversity, subsistence, and the security of local communities. Deforestation, climate change, and economic pressures have created a complex landscape that demands understanding and action.
 
 ![Amazon rainforest on the Urubu river, Amazonas State, Brazil. Bajo licencia Creative Commons Attribution 2.0 Generic.](/uploads/800px-Amazonia.jpg)
+
 *Amazon rainforest on the Urubu river, Amazonas State, Brazil. Licensed under the Creative Commons Attribution 2.0 Generic license.*
 
 It is crucial to recognize that the preservation, restoration, and sustainability of the Amazon region are not only vital for Latin America but also represent a critical challenge on a global scale in the fight against climate change. The Amazon is home to communities whose survival is closely linked to the rainforest. The forest is an integrated ecosystem, and humans are part of it, with their activity capable of either promoting sustainable development worldwide or contributing to its disappearance.
@@ -57,6 +58,22 @@ Researchers from the Federal University of São João del-Rei, the Center for Hi
 Our strategy includes seminars, workshops, field data collection, and drone flights, all aimed at capturing high-resolution images and collecting data to improve the representation of the Middle Solimões on maps.
 
 We emphasize local commitment and collaboration as fundamental pillars to address cartographic challenges in the Brazilian Amazon. In addition to filling gaps in maps, we seek to strengthen local communities, preserve cultural and environmental diversity, and contribute to sustainable development in the region. Our approach involves processing and analyzing the collected data, updating OSM, and disseminating results to inspire similar initiatives in other regions of the Amazon and globally.
+
+## **Training of indigenous educators in open mapping, Pucallpa, Peru**
+
+![Jornada_de_mapeo_del_ISPPBY_cartografía_socioambiental](/uploads/Jornada_de_mapeo_del_ISPPBY_cartograf%C3%ADa_socioambiental.jpg)
+
+The environmental issue is of great importance in the area and especially for indigenous communities, who see their ancestral territories threatened by deforestation resulting from illegal logging and also by pollution from various sources that makes the rivers and lakes that provide them with water and food unhealthy.
+
+In Pucallpa, Peru, we are laying the groundwork for a group of local educators from indigenous communities. This group, in collaboration with the National Intercultural University of the Amazon (UNIA) and local organizations working for the preservation of the Amazon forest and the sustainable economy of forest communities, will support environmental monitoring through community mapping.
+
+## **[Mapping as a tool for risk management in the Ecuadorian Amazon](https://www.hotosm.org/updates/creando-capacidades-mapeadoras-en-la-amazonia-ecuatoriana/)**
+
+![Mapeos Amazónicos Perú.jpg](/uploads/Mapeos%20Amazo%CC%81nicos%20Peru%CC%81.jpg)
+
+Much of the social and economic infrastructure of the Ecuadorian Amazon - which covers an area of ​​approximately 120,000 km2, 956,000 inhabitants and represents almost half of the surface area of ​​Ecuador - is invisible on the OSM map and few data on this region are available on official cartography.
+
+Our initiative in the Ecuadorian Amazon, with the support of OpenLabEc, trains communities in disaster risk mapping using OSM and Mapillary. In this way, we will strengthen risk management efforts in Amazonian cities such as Nueva Loja, Tena, Puyo and Macas, through the creation of new communities of mappers in collaboration with local risk management secretariats and civil society organizations.
 
 ## **Advancing our Partnerships with Civil Protection**
 
@@ -108,20 +125,16 @@ We invite anyone who wants to contribute to mapping from their cell phone in the
 
 ## **Community Projects in Development**
 
-![Johnattan Rupire - Mapeos Amazonicos.png](https://cdn.hotosm.org/website/Johnattan\+Rupire\+-\+Mapeos\+Amazonicos.png)
-
 In addition to remote mapping of the Amazon carried out by global OSM communities in collaboration with other organizations, we are conducting several community projects with local allies.
 
 Our goal is to teach cartography to rural and indigenous communities in the Amazon, as well as university groups and civil society in Amazonian cities. We will work with these groups to build maps tailored to their territorial management needs.
 
 During 2024, HOT will develop a grant in collaboration with [Meninas da GEO](https://www.instagram.com/meninasdageo/), a group of female mappers from the Federal Institute of Pará (IFPA) and the Federal Rural University of the Amazon (UFRA). The aim will be to map the quilombola region of Moju along with the [Perpetuar Project](https://linktr.ee/Projetoperpetuar). Local communities have expressed the need for maps reflecting their interests and needs, such as mitigating the impacts of two major projects developed by private organizations, environmental racism, and the climate crisis experienced in their territories.
 
-In Pucallpa, Peru, we are laying the groundwork for a local mapping group with the participation of indigenous communities. This group, in collaboration with the National Intercultural University of the Amazon (UNIA) and local organizations working for the preservation of the Amazon forest and the sustainable economy of forest communities, will support environmental monitoring through community mapping.
-
-Similarly, in Ecuador, we will strengthen risk management activities in Amazonian cities such as Nueva Loja, Tena, Puyo, and Macas, through the creation of new mapping communities in collaboration with local risk management secretariats and civil society organizations.
-
 > ### **If your organization is part of this sector or is a community organization in the Amazon working on territorial management issues, [contact us!](mailto:hublac@hotosm.org)**
 
 ## **Our Long-Term Vision**
 
-This is the beginning of our systematic work in the Amazon, based on the premise that communities can use geographic data to improve their living conditions, preserve their environment, and protect their rights. To access this data, communities need to have the right capabilities, innovate in how they use tools designed for other contexts, and use these tools sustainably. OSM, a true digital public good, can be used for these purposes. We seek to develop flexible methodologies to enable the populations of this diverse, rich, and unequal region to know their own territory and use this information to live resiliently and sustainably in it. It is a long-term task, in a complex region, and we will not do it alone. We believe in and seek the cooperation of all public, private, and international organizations that believe in the power of open data to contribute to the protection and development of one of the most emblematic and important areas of our region.
+This is the beginning of our systematic work in the Amazon, based on the premise that communities can use geographic data to improve their living conditions, preserve their environment, and protect their rights. To access this data, communities need to have the right capabilities, innovate in how they use tools designed for other contexts, and use these tools sustainably. OSM, a true digital public good, can be used for these purposes.
+
+We seek to develop flexible methodologies to enable the populations of this diverse, rich, and unequal region to know their own territory and use this information to live resiliently and sustainably in it. It is a long-term task, in a complex region, and we will not do it alone. We believe in and seek the cooperation of all public, private, and international organizations that believe in the power of open data to contribute to the protection and development of one of the most emblematic and important areas of our region.
