@@ -35,36 +35,36 @@ layout: default
                                 <div class="program-stat">
                                     <!-- <center><p class="loader"></p></center> -->
                                     <!-- <p class="stat-number" id="Community-Mappers"></p> -->
-                                    <p class="stat-number">10M</p>
-                                    <p class="stat-title">People to be Mapped<sup>&#9432;</sup>
-                                        <span class="tooltiptext">Expected outcome of an area home to 10 million people mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> </span>
+                                    <p class="stat-number">{{ page['Stats']['stat1'] }}</p>
+                                    <p class="stat-title">{{ page['Stats']['text1'] }}<sup>&#9432;</sup>
+                                        <span class="tooltiptext">{{ page['Stats']['hover1'] }}</span>
                                     </p>
                                 </div>
                                 <div class="hr-v"></div>
                                     <div class="program-stat">
                                         <!-- <center><p class="loader"></p></center>
                                         <p class="stat-number" id="Total-Map-Edits"></p> -->
-                                        <p class="stat-number">1,000</p>
-                                        <p class="stat-title">local mappers to be trained<sup>&#9432;</sup>
-                                            <span class="tooltiptext">With a focus on participatory mapping</span>
+                                        <p class="stat-number">{{ page['Stats']['stat2'] }}</p>
+                                        <p class="stat-title">{{ page['Stats']['text2'] }}<sup>&#9432;</sup>
+                                            <span class="tooltiptext">{{ page['Stats']['hover2'] }}</span>
                                         </p>
                                     </div>
                                             <div class="hr-v hide-sm"></div>
                                     <div class="program-stat">
                                         <!-- <center><p class="loader"></p></center>
                                         <p class="stat-number" id="Buildings-Mapped"></p> -->
-                                        <p class="stat-number">20</p>
-                                        <p class="stat-title">Local Orgs to engage<sup>&#9432;</sup>
-                                            <span class="tooltiptext">Connecting local organizations with local stakeholders and governments</span>
+                                        <p class="stat-number">{{ page['Stats']['stat3'] }}</p>
+                                        <p class="stat-title">{{ page['Stats']['text3'] }}<sup>&#9432;</sup>
+                                            <span class="tooltiptext">{{ page['Stats']['hover3'] }}</span>
                                         </p>
                                     </div>
                                             <div class="hr-v"></div>
                                     <div class="program-stat">
                                         <!-- <center><p class="loader"></p></center> -->
                                         <!-- <p class="stat-number" id="Roads-Mapped"></p> -->
-                                        <p class="stat-number">25K</p>
-                                        <p class="stat-title">Datasets to be Downloaded<sup>&#9432;</sup>
-                                            <span class="tooltiptext">A goal per year that will allow to determine the interest on the data produced.</span>
+                                        <p class="stat-number">{{ page['Stats']['stat4'] }}</p>
+                                        <p class="stat-title">{{ page['Stats']['text4'] }}<sup>&#9432;</sup>
+                                            <span class="tooltiptext">{{ page['Stats']['hover4'] }}</span>
                                         </p>
                                     </div>
                                 </div>
@@ -115,15 +115,15 @@ layout: default
         <section class="article">
             <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 4rem;">PROGRAM HIGHLIGHTS</h2>
             <p style="font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.5rem;">
-                2024 - 2025 Cycle
+                {{ page['Duration']['Timeframe'] }}
             </p>
 
             <!--** Coverage -->
             <div class="project-header-meta" style="margin-bottom: 14px;">
 
-                <p class="project-involvement" style="color: #D73F3F;">
+                <a class="project-involvement" style="color: #D73F3F; font-size: 0.875rem;font-weight: bold;">
                      Coverage
-                </p>
+                </a>
                 {% if page.Country[0] != '' %}
                 <p class="program-countries">
 
@@ -286,17 +286,17 @@ layout: default
                 <div class="project-index-all">
 
                     <div>
-                        <h1><i class="fa-regular fa-map"></i> {{ page.Project-objectives.Objective1 }} </h1>
+                        <h1><i class="{{ page.Project-objectives.Icon1 }}"></i> {{ page.Project-objectives.Objective1 }} </h1>
                         <h3>{{ page.Project-objectives.Objective1-highlight }}</h3>
                         <p>{{ page.Project-objectives.Objectives-title-1 }}</p>
                     </div>
                     <div>
-                        <h1><i class="fa-solid fa-chart-line"></i></i> {{ page.Project-objectives.Objective2 }}</h1>
+                        <h1><i class="{{ page.Project-objectives.Icon2 }}"></i></i> {{ page.Project-objectives.Objective2 }}</h1>
                         <h3>{{ page.Project-objectives.Objective2-highlight }}</h3>
                         <p>{{ page.Project-objectives.Objectives-title-2 }}</p>
                     </div>
                     <div>
-                        <h1><i class="fa-solid fa-users-line"></i>{{ page.Project-objectives.Objective3 }}</h1>
+                        <h1><i class="{{ page.Project-objectives.Icon3 }}"></i>{{ page.Project-objectives.Objective3 }}</h1>
                         <h3>{{ page.Project-objectives.Objective3-highlight }}</h3>
                         <p>{{ page.Project-objectives.Objectives-title-3 }}</p>
                     </div>
@@ -397,9 +397,14 @@ layout: default
 
 
                 <div style="margin: 80px 0 0px "></div>
-
+                {% assign project_count = page['Block 2'].Project | size %}
+                {% if project_count > 3 %}                
                 <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1rem; color: black;">Other Projects in This Program</h2>
                 <div class="hr-h" style="margin: 10px 0 40px "></div>
+                    {% else %}
+                    <div class="hr-h" style="margin: 0px 0 0px "></div>
+                {% endif %}
+
 
                 <div class="project-index-all">
                         {% for project in page['Block 2'].Project offset:3 %}
