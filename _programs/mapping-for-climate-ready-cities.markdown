@@ -5,18 +5,19 @@ permalink: "/programs/mapping-for-climate-ready-cities"
 position: 88
 Feature Image: "/uploads/Ramani-Huria-Dar-es-Salaam-v3-2.jpg"
 Stats:
-  stat1: "10M"
-  text1: "People to be Mapped"
-  hover1: "Expected outcome of an area home to 10 million people mapped using <a href='https://tasks.hotosm.org/' target='_blank'>HOT Tasking Manager</a>"
-  stat2: "1,000"
-  text2: "local mappers to be trained"
-  hover2: "With a focus on participatory mapping"
-  stat3: "20"
-  text3: "Local Orgs to engage"
-  hover3: "Connecting local organizations with local stakeholders and governments"
-  stat4: "25K"
-  text4: "Datasets to be Downloaded"
-  hover4: "A goal per year that will allow to determine the interest on the data produced."
+  stat1: 10M
+  text1: People to be Mapped
+  hover1: Expected outcome of an area home to 10 million people mapped using <a href='https://tasks.hotosm.org/'
+    target='_blank'>HOT Tasking Manager</a>
+  stat2: '1,000'
+  text2: local mappers to be trained
+  hover2: With a focus on participatory mapping
+  stat3: '20'
+  text3: Local Orgs to engage
+  hover3: Connecting local organizations with local stakeholders and governments
+  stat4: 25K
+  text4: Datasets to be Downloaded
+  hover4: A goal per year that will allow to determine the interest on the data produced.
 Country:
 - Bangladesh
 - Nepal
@@ -41,7 +42,7 @@ Partner:
 Duration:
   Start Date: 2024-01-01 00:00:00 Z
   End Date: 2025-12-31 00:00:00 Z
-  Timeframe: "2024 - 2025 Cycle"
+  Timeframe: 2024 - 2025 Cycle
 Feature-Image: "/uploads/Ramani-Huria-Dar-es-Salaam-v3.jpg"
 Event Promo:
   Event Name: Mapping For Climate-Ready Cities

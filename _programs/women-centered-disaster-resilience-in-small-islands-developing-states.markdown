@@ -1,22 +1,22 @@
 ---
-title: Women-Centered Disaster Resilience in Small Islands Developing States Program 
+title: Women-Centered Disaster Resilience in Small Islands Developing States Program
 date: 2018-05-01 05:01:00 Z
 permalink: "/programs/women-centered-disaster-resilience-in-small-islands"
 position: 88
-Feature Image: ""
+Feature Image: ''
 Stats:
-  stat1: "244"
-  text1: "Women trained"
-  hover1: ""
-  stat2: "9"
-  text2: "Partnerships for resiliency "
-  hover2: ""
-  stat3: "15"
-  text3: "Open mapping tools created "
-  hover3: ""
-  stat4: "8"
-  text4: "Countries to be covered "
-  hover4: ""
+  stat1: '244'
+  text1: Women trained
+  hover1: ''
+  stat2: '9'
+  text2: 'Partnerships for resiliency '
+  hover2: ''
+  stat3: '15'
+  text3: 'Open mapping tools created '
+  hover3: ''
+  stat4: '8'
+  text4: 'Countries to be covered '
+  hover4: ''
 Country:
 - Montserrat
 - Timor Leste
@@ -43,8 +43,8 @@ Partner:
 Duration:
   Start Date: 2024-01-01 00:00:00 Z
   End Date: 2025-12-31 00:00:00 Z
-  Timeframe: "2024 - 2025 Cycle"
-Feature-Image: "https://www.hotosm.org/uploads/finaltalk-sids-edit.png"
+  Timeframe: 2024 - 2025 Cycle
+Feature-Image: https://www.hotosm.org/uploads/finaltalk-sids-edit.png
 Event Promo:
   Event Name: Women-Centered Disaster Resilience in Small Islands Developing States
   Description: "<a style='color: white; font-weight: bold;'></a>"
@@ -64,46 +64,66 @@ Block 2:
   Project:
   - Women Centered Disaster Resilience in Small Island Developing States - Montserrat
   - Women-Centered Disaster Resilience in Small Island Developing States - Timor-Leste
-  - Women-Centered Disaster Resilience in Small Island Developing States - Trinidad and Tobago
+  - Women-Centered Disaster Resilience in Small Island Developing States - Trinidad
+    and Tobago
 Program-summary:
-  Program Summary Text: "<a>**We work with women and girls in Small Island Developing States to help them gain critical mapping skills. This program aims to build local disaster resilience with a gender perspective by fostering collaboration among women leaders.**</a>"
-Image-leading: "https://cdn.hotosm.org/website/SIDS-TimorLesteDataAnalysis.jpg"
-Figcaption: In this project, members of Feto Enginhera, women engineers of Timor-Leste, gained open mapping skills for resilience, which they communicated with different community members.
+  Program Summary Text: "<a>**We work with women and girls in Small Island Developing
+    States to help them gain critical mapping skills. This program aims to build local
+    disaster resilience with a gender perspective by fostering collaboration among
+    women leaders.**</a>"
+Image-leading: https://cdn.hotosm.org/website/SIDS-TimorLesteDataAnalysis.jpg
+Figcaption: In this project, members of Feto Enginhera, women engineers of Timor-Leste,
+  gained open mapping skills for resilience, which they communicated with different
+  community members.
 Narrative-section:
   Narrative-title: About
-  Narrative-intro-text: According to the UN, most people displaced and who are vulnerable to displacement due to climate change are women in Small Island Developing States (SIDS). **Their unequal decision-making power undermines emergency recovery efforts and development at every level**, which adds to the hardships usually faced in those islands as a result of their shared similarities, including their isolation from the mainland, their reliance on industries like tourism, and their high vulnerability to natural disasters and climate change with inadequate infrastructures to protect their populations. Furthering these challenges is that there are not enough mapping specialists, OpenStreetMap communities are small or nonexistent, and few are women.
-  Narrative-text: "This program focuses on **improving the well-being and increasing the agency and resilience of women and girls who live in SIDS** by building their capacity to create, access, and use open map data.
-  <br><br>
-  Three islands were selected as pilot projects: **Trinidad and Tobago, Timor Leste, and the Archipel of Saloum Islands in Senegal**. Those places were selected mainly due to the availability of partners in the island. From February 2023, we were able to start developing partnership agreements with identified partners and define the scope of the work. Partners were asked to develop a proposal that would be validated by HOTOSM."
-Quote: improving the well-being and increasing the agency and resilience of women and girls who live in SIDS by building their capacity to create, access, and use open map data <br>
+  Narrative-intro-text: According to the UN, most people displaced and who are vulnerable
+    to displacement due to climate change are women in Small Island Developing States
+    (SIDS). **Their unequal decision-making power undermines emergency recovery efforts
+    and development at every level**, which adds to the hardships usually faced in
+    those islands as a result of their shared similarities, including their isolation
+    from the mainland, their reliance on industries like tourism, and their high vulnerability
+    to natural disasters and climate change with inadequate infrastructures to protect
+    their populations. Furthering these challenges is that there are not enough mapping
+    specialists, OpenStreetMap communities are small or nonexistent, and few are women.
+  Narrative-text: 'This program focuses on **improving the well-being and increasing
+    the agency and resilience of women and girls who live in SIDS** by building their
+    capacity to create, access, and use open map data. <br><br> Three islands were
+    selected as pilot projects: **Trinidad and Tobago, Timor Leste, and the Archipel
+    of Saloum Islands in Senegal**. Those places were selected mainly due to the availability
+    of partners in the island. From February 2023, we were able to start developing
+    partnership agreements with identified partners and define the scope of the work.
+    Partners were asked to develop a proposal that would be validated by HOTOSM.'
+Quote: improving the well-being and increasing the agency and resilience of women
+  and girls who live in SIDS by building their capacity to create, access, and use
+  open map data <br>
 Project-objectives:
   Title: Proposed Program Goals & Objectives
   Icon1: fa-regular fa-map
   Objective1: " Grow mapping communities"
   Objective1-highlight: 
-  Objectives-title-1: '1.- <strong>Increase the presence of OpenStreetMap (OSM) and open-source communities</strong> in SIDS that are underrepresented and underserved in these fields.
-  <br><br>
-  2.- <strong>Women communities are trained in core map competencies</strong> e.g. project management, Geographic Information Systems mapping, mobile data collection, etc.
-  <br><br>
-  3.- Open mapping champions and influencers (groups and individuals) are identified and strengthened'
+  Objectives-title-1: 1.- <strong>Increase the presence of OpenStreetMap (OSM) and
+    open-source communities</strong> in SIDS that are underrepresented and underserved
+    in these fields. <br><br> 2.- <strong>Women communities are trained in core map
+    competencies</strong> e.g. project management, Geographic Information Systems
+    mapping, mobile data collection, etc. <br><br> 3.- Open mapping champions and
+    influencers (groups and individuals) are identified and strengthened
   Icon2: fa-solid fa-venus
-  Objective2: "Women-centered capacity building"
+  Objective2: Women-centered capacity building
   Objective2-highlight: 
-  Objectives-title-2: "1.- <strong>Build out women-centered projects</strong> in small island developing states that are faced with disasters.
-  <br><br>
-  2.- Women communities in SIDS have the knowledge, tools, funding, and geo-data to implement and advocate for socio-economic change. 
-  <br><br>
-  3.-Women in underrepresented groups in SIDS are connected to tools and are motivated to create geographical data and solutions.
-  "
+  Objectives-title-2: '1.- <strong>Build out women-centered projects</strong> in small
+    island developing states that are faced with disasters. <br><br> 2.- Women communities
+    in SIDS have the knowledge, tools, funding, and geo-data to implement and advocate
+    for socio-economic change. <br><br> 3.-Women in underrepresented groups in SIDS
+    are connected to tools and are motivated to create geographical data and solutions. '
   Icon3: fa-solid fa-users-line
   Objective3: " Peer-to-peer support"
   Objective3-highlight: 
-  Objectives-title-3: "1.- <strong>Women in SIDS share knowledge and lessons learned</strong> from within and across different regions.
-  <br><br>
-  2.- A diverse makeup of women community champions and partners are increasingly networked to each other sharing learning and knowledge.
-  <br><br>
-  3.- Women communities in SIDS have an <strong>open dialogue and collaborate with local/global actors from all sectors</strong>.
-  "
+  Objectives-title-3: '1.- <strong>Women in SIDS share knowledge and lessons learned</strong>
+    from within and across different regions. <br><br> 2.- A diverse makeup of women
+    community champions and partners are increasingly networked to each other sharing
+    learning and knowledge. <br><br> 3.- Women communities in SIDS have an <strong>open
+    dialogue and collaborate with local/global actors from all sectors</strong>. '
 Approach-text: For 13 years, HOT has worked in collaboration with local communities
   to put the places they live on the world map. Our global community of 600K+ volunteers
   map buildings, roads, and key infrastructure on OpenStreetMap (OSM), a free open
