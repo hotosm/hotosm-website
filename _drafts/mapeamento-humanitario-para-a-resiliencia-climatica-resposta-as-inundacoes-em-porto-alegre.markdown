@@ -25,7 +25,7 @@ Em 27 de abril de 2024, após duas semanas de intensas chuvas no Rio Grande do S
 
 Este evento marcou o segundo desastre significativo em menos de um ano para o estado, após um ciclone em setembro de 2023 que deixou pelo menos 31 mortos. A mudança climática e o fenômeno El Niño têm intensificado as condições climáticas extremas na região.
 
-Em 9 de maio de 2024, em resposta a este desastre, o Hub de Mapeamento Aberto na América Latina e no Caribe (LAC Hub) lançou uma ativação para apoiar os esforços de resposta, impulsionada por conversas com a comunidade OSM Brasil.
+Em 9 de maio de 2024, em resposta a este desastre, o Hub de Mapeamento Aberto na América Latina e no Caribe (LAC Hub) lançou uma ativação para apoiar os esforços de resposta, impulsionada por conversas com a comunidade OSM Brasil. A iniciativa contou com a solidariedade de comunidades mapeadoras de diversas universidades, da Brigada Humanitária de Mapeamento, de diversos capítulos do Youthmappers: Youthmappers UERGS, Youthmappers UFRJ, Mapeadores Livres UFPR e Youthmappers UFV, além de outros mapeadores independentes.
 
 ![Edificações.jpg](/uploads/Edificac%CC%A7o%CC%83es.jpg)
 
