@@ -25,7 +25,7 @@ On April 27, 2024, after two weeks of intense rains in Rio Grande do Sul, Brazil
 
 This marked the state's second significant disaster in less than a year, following a cyclone in September 2023 that claimed at least 31 lives. Climate change and the El Niño phenomenon have intensified extreme weather conditions in the region.
 
-On May 9, 2024, in response to this disaster, the Open Mapping Hub in Latin America and the Caribbean (LAC Hub) launched an activation to support response efforts, driven by discussions with the OSM Brazil community.
+On May 9, 2024, in response to this disaster, the Open Mapping Hub in Latin America and the Caribbean (LAC Hub) launched an activation to support response efforts, driven by discussions with the OSM Brazil community. This initiative was supported by mapping communities from several universities, the Humanitarian Mapping Brigade, various Youthmappers chapters: Youthmappers UERGS, Youthmappers UFRJ, Mapeadores Livres UFPR and Youthmappers UFV, and other independent mappers.
 
 ![Edificações.jpg](/uploads/Edificac%CC%A7o%CC%83es.jpg)
 
