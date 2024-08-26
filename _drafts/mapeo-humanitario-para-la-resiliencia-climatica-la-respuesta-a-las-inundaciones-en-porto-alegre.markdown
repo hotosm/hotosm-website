@@ -1,5 +1,5 @@
 ---
-title: 'Mapeo humanitario para la Resiliencia Climática: La respuesta a las inundaciones
+title: 'Mapeo humanitario para la resiliencia climática: La respuesta a las inundaciones
   en Porto Alegre'
 date: 2024-07-10 18:12:00 Z
 Summary Text: El 27 de abril de 2024, la represa hidroeléctrica del 14 de julio colapsó
