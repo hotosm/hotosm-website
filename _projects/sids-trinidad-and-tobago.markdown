@@ -12,12 +12,19 @@ Feature Image: "/uploads/ESA_Informal%20SettlementsUganda2-fdf3b7.jpeg"
 Is image top aligned: false
 Is Community-Led: false
 Country:
-- 
+- Trinidad and Tobago
 - 
 - 
 Impact Area:
 - Gender Equality
 - Disasters & Climate Resilience
+Partner:
+- GISSTT
+Duration:
+  Start Date: 2024-08-01 00:00:00 Z
+  End Date: 2024-08-31 00:00:00 Z
+Tools:
+- tool: Tasking Manager
 ---
 
 ## Our goals for this projects
@@ -38,8 +45,9 @@ For the training phase, the WCDR in SIDS project team developed a comprehensive 
 
 [GISSTT](http://www.gisstt.com/), our implementing partner for this project, identified several areas of opportunity if this project is to be replicated in other schools in the region: 
 Consider executing the program earlier in the semester or during the two-month July/August vacation period to ensure that the training does not conflict with the school’s examination period. 
-Since field mapping was only briefly addressed during the second phase of this program but was very well received by the students, the implementing partner recommends incorporating this aspect of open mapping in the curriculum. Considerations about consent should be taken in case a field mapping component is added. 
+Since field mapping was only briefly addressed during the second phase of this program but was very well received by the students, the implementing partner recommends incorporating this aspect of open mapping in the curriculum. Considerations about consent should be taken in case a field mapping component is added.
+
 > On-boarding for the chosen Learning Management System platform should be done earlier, and a test should be performed beforehand to ensure that there are no technical 
 
-[LAC_VolcanesEcuador9.webp](/uploads/LAC_VolcanesEcuador9.webp)
+![Blog CEI OM4A (1)-bb82f1.jpg](/uploads/Blog%20CEI%20OM4A%20(1)-bb82f1.jpg)
 *Ecuador volcanoes. Credit: Juan Arellano*
