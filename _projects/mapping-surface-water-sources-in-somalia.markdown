@@ -36,7 +36,7 @@ To address the ongoing crisis, [FAO’s Somalia](https://www.fao.org/somalia/en/
 
 To remotely map water reservoirs, we will utilize the HOT Tasking Manager and JOSM. The HOT ESA team will provide weekly training sessions for volunteers, including participants from Somalia who bring valuable local knowledge. Expert mappers will oversee quality control to ensure accuracy. The dataset will be mapped in OpenStreetMap (OSM) platform.
 
-**Step 1:** Register using this [form](https://docs.google.com/forms/d/1aZsP-ayEahkQ9gHX0QP2gz6aI7rto4J6XegozULgPdw/edit). Registering allows us to easily stay in touch with everyone contributing to the campaign.
+ * **Step 1:** Register using this [form](https://docs.google.com/forms/d/1aZsP-ayEahkQ9gHX0QP2gz6aI7rto4J6XegozULgPdw/edit). Registering allows us to easily stay in touch with everyone contributing to the campaign.
 
 **Step 2:** Visit the Tasking Manager [here](https://tasks.hotosm.org/explore?campaign=OMH-ESA%20Climate%20Campaign%202024&omitMapResults=1).
 
