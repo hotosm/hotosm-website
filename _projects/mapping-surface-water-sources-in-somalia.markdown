@@ -1,6 +1,10 @@
 ---
 title: Mapping Surface Water Sources in Somalia
 date: 2024-08-29 08:41:00 Z
+tags:
+- community
+- ESA
+- disaster
 Project Summary Text: 'A Collaborative Campaign for La Niña-Driven Drought Preparedness
   and Early Warning,
 
