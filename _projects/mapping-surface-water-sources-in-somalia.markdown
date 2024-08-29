@@ -6,7 +6,7 @@ tags:
 - ESA
 - disaster
 Project Summary Text: 'A Collaborative Campaign for La Niña-Driven Drought Preparedness
-  and Early Warning,
+  and Early Warning in Somalia
 
 '
 Feature Image: "/uploads/image%20(2).png"
@@ -37,11 +37,15 @@ To address the ongoing crisis, [FAO’s Somalia](https://www.fao.org/somalia/en/
 To remotely map water reservoirs, we will utilize the HOT Tasking Manager and JOSM. The HOT ESA team will provide weekly training sessions for volunteers, including participants from Somalia who bring valuable local knowledge. Expert mappers will oversee quality control to ensure accuracy. The dataset will be mapped in OpenStreetMap (OSM) platform.
 
 **Step 1:** Register using this [form](https://docs.google.com/forms/d/1aZsP-ayEahkQ9gHX0QP2gz6aI7rto4J6XegozULgPdw/edit). Registering allows us to easily stay in touch with everyone contributing to the campaign.
+
 **Step 2:** Visit the Tasking Manager [here](https://tasks.hotosm.org/explore?campaign=OMH-ESA%20Climate%20Campaign%202024&omitMapResults=1).
+
 **Step 3:** Select a task from this [list](https://docs.google.com/spreadsheets/d/1mqjXgW8W1Vze2zCmPHp_vXv1uSdiJYiMiJsEFi5bTrk/edit?usp=sharing).
+
 **Step 4:** Start mapping! 
 
-If you're new to mapping and want to learn or improve your skills, we're hosting weekly virtual Mapathon Trainings.** Sign up here.**
+If you're new to mapping and want to learn or improve your skills, we're hosting weekly virtual Mapathon training.** Sign up here.**
+
 The campaign will run from August 29th to November 2024; mappers who take part from the start until the end of the campaign will receive a certificate.
 
 
