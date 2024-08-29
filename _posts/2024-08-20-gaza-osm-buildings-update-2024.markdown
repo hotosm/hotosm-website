@@ -73,7 +73,7 @@ margin: 20px 0;
     
 <p>AI/ML is becoming an increasingly common and quick way to obtain building footprints across large areas. Sources for automated building footprints range from worldwide datasets by Microsoft or Google to smaller-scale open community-managed tools such as HOT’s new application, <a href="https://www.hotosm.org/tech-suite/fair/">fAIr.</a></p> 
 
-    <p>Now that HOT volunteers have completely updated and validated all OSM buildings in visible imagery pre-conflict, <strong>OSM has 18% more individual buildings in the Gaza strip</strong> (estimated 330,079 buildings vs 280,112 buildings).However, in contexts where there has not been a coordinated update effort in OSM, the numbers may differ. For example, in Sudan where there has not been a large organized editing campaign, there are just under 1,500,000 in OSM, compared to over 5,820,000 buildings in Microsoft’s ML data. It is important to note that the ML datasets have not been human-verified and their accuracy is not known. Google Open Buildings has over 26 million building features in Sudan, but on visual inspection, many of these features are noise in the data that the model incorrectly identified as buildings in the uninhabited desert.</p> 
+    <p>Now that HOT volunteers have completely updated and validated all OSM buildings in visible imagery pre-conflict, <strong>OSM has 18% more individual buildings in the Gaza strip</strong> (estimated 330,079 buildings vs 280,112 buildings). However, in contexts where there has not been a coordinated update effort in OSM, the numbers may differ. For example, in Sudan where there has not been a large organized editing campaign, there are just under 1,500,000 in OSM, compared to over 5,820,000 buildings in Microsoft’s ML data. It is important to note that the ML datasets have not been human-verified and their accuracy is not known. Google Open Buildings has over 26 million building features in Sudan, but on visual inspection, many of these features are noise in the data that the model incorrectly identified as buildings in the uninhabited desert.</p> 
 
 <p>If spatial coverage is relatively similar between OSM and ML datasets, for many use cases, automated datasets created by ML image detection work well. For other use cases, the precision and verification of a human-checked dataset, such as OSM, is a better fit for the data requirements. For example, during our work in Gaza, we identified issues with ML building datasets that were avoided by working with experienced human volunteers (see image below comparing OSM to <a href="https://planetarycomputer.microsoft.com/dataset/ms-buildings">Microsoft’s ML building datasets</a>). 
     
@@ -88,6 +88,8 @@ margin: 20px 0;
     <p>With increasingly complex emergencies displacing a <a href="https://www.unhcr.org/us/global-trends">record</a> number of people globally, aid organizations are struggling to keep up.  While automation is improving the speed and ability to remotely collect information in hard-to-reach areas, HOT’s approach to coordinating trained volunteers is more important than ever. Lessons learned from the data work in Gaza show that when higher accuracy data is needed, incorporating a human touch into automated ML datasets is still a crucial endeavor.</p>
 
 <strong>There are many ways to get involved with our efforts. Contact us at <a href="mailto:data@hotosm.org">data@hotosm.org</a> to partner, volunteer, or donate to ongoing efforts in conflict-affected areas worldwide</strong>.</p>
+
+    <p>For information on recent damage in Gaza  or Sudan, visit <a href="https://experience.arcgis.com/experience/ea5c453e92724c6ba0a7b8a4037129be/page/UNOSAT/?org=unosat&views=Share">UNOSAT’s Gaza Interactive Data Platform</a> and <a href="https://unosat.org/products/?date_from=2024-02-28&date_to=2024-08-28&region=&activation_type=&title=&is_charter=null">UNOSAT Analyses</a>, or the <a href="https://www.conflict-damage.org/">Decentralized Damage Mapping Group</a>.</p>
     
     <div class="image-container2">
         <img src="/uploads/Gaza-Update-Announcement-Aug-2024.png" alt="Gaza Update Announcement Aug 2024">
@@ -95,7 +97,6 @@ margin: 20px 0;
     
     <p><a href="https://drive.google.com/file/d/1jVjJjji1NhLPCfk7LAf1fXXp6k4YGU0C/view?usp=sharingusp=sharing">Pdf version with the summary of Gaza Update 2024</a></p>
     
-    <p>For information on recent damage in Gaza  or Sudan, visit <a href="https://experience.arcgis.com/experience/ea5c453e92724c6ba0a7b8a4037129be/page/UNOSAT/?org=unosat&views=Share">UNOSAT’s Gaza Interactive Data Platform</a> and <a href="https://unosat.org/products/?date_from=2024-02-28&date_to=2024-08-28&region=&activation_type=&title=&is_charter=null">UNOSAT Analyses</a>, or the <a href="https://www.conflict-damage.org/">Decentralized Damage Mapping Group</a>.</p>
     
     <p><em>Cover image: Gaza City in 2006. Public domain.</em></p>
 
