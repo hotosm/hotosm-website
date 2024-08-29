@@ -15,6 +15,9 @@ Person:
 - Wilson Munyaradzi
 Partner:
 - 'FAO '
+Duration:
+  Start Date: 2024-08-29 00:00:00 Z
+  End Date: 2024-11-30 00:00:00 Z
 ---
 
 Droughts in Somalia have wreaked havoc on communities, causing severe water shortages, crop failures, and livestock deaths, impacting over 3.2 million people across 66 districts. The Climate Prediction Center (CPC) predicts a 66% likelihood that La Niña will intensify during September-October-November, with a 74% chance of persisting into 2025. This phenomenon, marked by cooler-than-average sea surface temperatures in the Pacific, is exacerbating global weather patterns, particularly in the Greater Horn of Africa, where it increases the risk of below-normal rainfall and prolonged dry spells in Somalia.
