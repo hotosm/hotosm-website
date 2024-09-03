@@ -56,7 +56,7 @@ margin: 20px 0;
 
 </head>
 <body>
-<p>As an open map of the world, <a href="https://www.openstreetmap.org">OpenStreetMap (OSM)]</a> is used to understand the impacts of war and inform humanitarian response. For example, OSM can provide a baseline dataset of pre-conflict building footprints to be compared with damage analyses.</p> 
+<p>As an open map of the world, <a href="https://www.openstreetmap.org">OpenStreetMap (OSM)\]</a> is used to understand the impacts of war and inform humanitarian response. For example, OSM can provide a baseline dataset of pre-conflict building footprints to be compared with damage analyses.</p>
 
 <p>In Gaza, increased conflict since October 2023 has caused a prolonged humanitarian crisis. Understanding the impact of the conflict on buildings has been challenging, since pre-existing datasets from artificial intelligence and machine learning (AI/ML) models and OSM were not accurate enough to create a full building footprint baseline. The area’s buildings were too dense, and information on the ground was impossible to collect safely. In these hard-to-reach areas, HOT’s remote and crowdsourced mapping methodology was a good fit for collecting detailed information visible on aerial imagery.</p>
 
@@ -69,14 +69,15 @@ margin: 20px 0;
     <p>The updated data is live in OpenStreetMap and available via <a href="https://data.humdata.org/dataset/hotosm_pse_buildings?">HDX</a> or <a href="https://export.hotosm.org/v3/">HOT’s Export Tool</a>.</p>
     
     <h2>Comparing AI/ML with human-verified OSM building datasets in conflict zones 
+
 </h2>
-    
-<p>AI/ML is becoming an increasingly common and quick way to obtain building footprints across large areas. Sources for automated building footprints range from worldwide datasets by Microsoft or Google to smaller-scale open community-managed tools such as HOT’s new application, <a href="https://www.hotosm.org/tech-suite/fair/">fAIr.</a></p> 
+
+<p>AI/ML is becoming an increasingly common and quick way to obtain building footprints across large areas. Sources for automated building footprints range from worldwide datasets by Microsoft or Google to smaller-scale open community-managed tools such as HOT’s new application, <a href="https://www.hotosm.org/tech-suite/fair/">fAIr.</a></p>
 
     <p>Now that HOT volunteers have completely updated and validated all OSM buildings in visible imagery pre-conflict, <strong>OSM has 18% more individual buildings in the Gaza strip</strong> than  Microsoft’s ML buildings dataset (estimated 330,079 buildings vs 280,112 buildings). However, in contexts where there has not been a coordinated update effort in OSM, the numbers may differ. For example, in Sudan where there has not been a large organized editing campaign, there are just under 1,500,000 in OSM, compared to over 5,820,000 buildings in Microsoft’s ML data. It is important to note that the ML datasets have not been human-verified and their accuracy is not known. Google Open Buildings has over 26 million building features in Sudan, but on visual inspection, many of these features are noise in the data that the model incorrectly identified as buildings in the uninhabited desert.</p> 
 
-<p>If spatial coverage is relatively similar between OSM and ML datasets, for many use cases, automated datasets created by ML image detection work well. For other use cases, the precision and verification of a human-checked dataset, such as OSM, is a better fit for the data requirements. For example, during our work in Gaza, we identified issues with ML building datasets that were avoided by working with experienced human volunteers (see image below comparing OSM to <a href="https://planetarycomputer.microsoft.com/dataset/ms-buildings">Microsoft’s ML building datasets</a>). 
-    
+<p>If spatial coverage is relatively similar between OSM and ML datasets, for many use cases, automated datasets created by ML image detection work well. For other use cases, the precision and verification of a human-checked dataset, such as OSM, is a better fit for the data requirements. For example, during our work in Gaza, we identified issues with ML building datasets that were avoided by working with experienced human volunteers (see image below comparing OSM to <a href="https://planetarycomputer.microsoft.com/dataset/ms-buildings">Microsoft’s ML building datasets</a>).
+
     <div class="image-container">
         <img src="/uploads/Examples%20of%20OSM%20vs%20AI%20in%20Gaza%20August%202024-a8e5cb.png" alt="Examples of OSM vs AI in Gaza August 2024">
     </div>
