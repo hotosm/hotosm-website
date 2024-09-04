@@ -1,5 +1,5 @@
 ---
-title: 'The Power of Volunteers: Remote Mapping Gaza and Strategies in Conflict Areas'
+title: 'The Power of Volunteers: Remote Mapping in Gaza and Other Conflict Areas'
 date: 2024-08-20 21:06:00 Z
 Summary Text: 'As damage reaches record levels in the Gaza Strip, expert volunteers
   coordinated by HOT have recently completed a 5-month effort to create the most comprehensive
