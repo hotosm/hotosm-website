@@ -64,7 +64,7 @@ margin: 20px 0;
     <p>In February 2024, after consultation with humanitarian and UN actors working in Gaza, HOT initiated the creation of pre-conflict dataset of all building footprints in the area in OSM. HOT’s <a href="https://www.hotosm.org/community/">community of OpenStreetMap volunteers</a> completed all the data <a href="https://wiki.openstreetmap.org/wiki/Gaza_Update_2024">work</a>, coordinating through HOT’s <a href="https://tasks.hotosm.org/">Tasking Manager</a>. The volunteers meticulously added missing buildings and improved existing data. Due to concerns over data protection and quality, only expert volunteer teams were assigned to map and validate the area. As in other areas that are hard to reach due to conflict, HOT balanced the data needs with <a href="https://www.hotosm.org/tools-and-data/data-principles/">responsible data practices</a> based on the context.</p>
 
 <div class="image-container">
-    <img src="/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza.png" alt="Example of increased data quality in OpenStreetMap building footprints in Gaza B">
+    <img src="/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza%20B.png" alt="Example of increased data quality in OpenStreetMap building footprints in Gaza B">
 </div>
 <p>The updated data is live in OpenStreetMap and available via <a href="https://data.humdata.org/dataset/hotosm_pse_buildings?">HDX</a> or <a href="https://export.hotosm.org/v3/">HOT’s Export Tool</a>.</p>
 
