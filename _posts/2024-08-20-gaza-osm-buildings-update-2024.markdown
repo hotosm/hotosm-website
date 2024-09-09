@@ -85,9 +85,10 @@ margin: 20px 0;
     
     <h2>What’s next?</h2>
     
-    <p>When all buildings in conflict zones are reflected in one pre-conflict dataset, data analysts can track which buildings are functional and which are destroyed. Eventually, we will be able to track demolition and rebuilding when the context allows. HOT welcomes data requests from the humanitarian community and we will do our best to balance requests with anticipated usefulness, resources, and protection issues to address humanitarian data gaps in conflict zones worldwide.</p>
+    <p>When all buildings in conflict zones are reflected in one pre-conflict dataset, data analysts can track which buildings are functional and which are destroyed. Eventually, we will be able to track demolition and rebuilding when the context allows. HOT welcomes data requests from the humanitarian community and will aim to balance requests with anticipated usefulness, available resources, and protection issues to address humanitarian data gaps in conflict zones worldwide. </p>
     
-    <p>With increasingly complex emergencies displacing a <a href="https://www.unhcr.org/us/global-trends">record</a> number of people globally, aid organizations are struggling to keep up.  While automation is improving the speed and ability to remotely collect information in hard-to-reach areas, HOT’s approach to coordinating trained volunteers is more important than ever. Lessons learned from the data work in Gaza show that when higher accuracy data is needed, incorporating a human touch into automated ML datasets is still a crucial endeavor.</p>
+    <p>With increasingly complex emergencies displacing a <a href="https://www.unhcr.org/us/global-trends">record</a> number of people globally, aid organizations are struggling to keep up.  While automation is improving the speed and ability to remotely collect information in hard-to-reach areas, HOT’s approach to coordinating trained volunteers is more important than ever. Lessons learned from the data work in Gaza demonstrates that when higher accuracy data is needed, incorporating a human view into automated ML datasets remains crucial. 
+</p>
 
 <strong>There are many ways to get involved with our efforts. Contact us at <a href="mailto:data@hotosm.org">data@hotosm.org</a> to partner, volunteer, or donate to ongoing efforts in conflict-affected areas worldwide</strong>.</p>
 
