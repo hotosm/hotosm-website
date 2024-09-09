@@ -62,11 +62,8 @@ margin: 20px 0;
 <p>In Gaza, the escalation of conflict since October 2023 has resulted in a prolonged humanitarian crisis. Understanding the impact of the conflict on buildings has been challenging because pre-existing datasets from AI/ML models and OSM were not accurate enough to create a complete buildings baseline. The high density of buildings and the inability to safely gather on-the-ground information compounded these challenges. In such hard-to-reach areas, HOT’s remote and crowdsourced mapping methodology proved effective in collecting detailed information visible on aerial imagery.</p>
 
     <p>In February 2024, after consultation with humanitarian and UN actors working in Gaza, HOT initiated the creation of pre-conflict dataset of all building footprints in the area in OSM. HOT’s <a href="https://www.hotosm.org/community/">community of OpenStreetMap volunteers</a> completed all the data <a href="https://wiki.openstreetmap.org/wiki/Gaza_Update_2024">work</a>, coordinating through HOT’s <a href="https://tasks.hotosm.org/">Tasking Manager</a>. The volunteers meticulously added missing buildings and improved existing data. Due to concerns over data protection and quality, only expert volunteer teams were assigned to map and validate the area. As in other areas that are hard to reach due to conflict, HOT balanced the data needs with <a href="https://www.hotosm.org/tools-and-data/data-principles/">responsible data practices</a> based on the context.</p>
-    
-    <div class="image-container">
-        <img src="/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza.png" alt="Example of increased data quality in OpenStreetMap building footprints in Gaza">
-    </div>
-    
+    ![Example of increased data quality in OpenStreetMap building footprints in Gaza B.png](/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza.png)
+
     <p>The updated data is live in OpenStreetMap and available via <a href="https://data.humdata.org/dataset/hotosm_pse_buildings?">HDX</a> or <a href="https://export.hotosm.org/v3/">HOT’s Export Tool</a>.</p>
     
     <h2>Comparing AI/ML with human-verified OSM building datasets in conflict zones 
@@ -88,6 +85,7 @@ margin: 20px 0;
     <p>When all buildings in conflict zones are reflected in one pre-conflict dataset, data analysts can track which buildings are functional and which are destroyed. Eventually, we will be able to track demolition and rebuilding when the context allows. HOT welcomes data requests from the humanitarian community and will aim to balance requests with anticipated usefulness, available resources, and protection issues to address humanitarian data gaps in conflict zones worldwide. </p>
     
     <p>With increasingly complex emergencies displacing a <a href="https://www.unhcr.org/us/global-trends">record</a> number of people globally, aid organizations are struggling to keep up.  While automation is improving the speed and ability to remotely collect information in hard-to-reach areas, HOT’s approach to coordinating trained volunteers is more important than ever. Lessons learned from the data work in Gaza demonstrates that when higher accuracy data is needed, incorporating a human view into automated ML datasets remains crucial. 
+
 </p>
 
 <strong>There are many ways to get involved with our efforts. Contact us at <a href="mailto:data@hotosm.org">data@hotosm.org</a> to partner, volunteer, or donate to ongoing efforts in conflict-affected areas worldwide</strong>.</p>
