@@ -2,12 +2,13 @@
 title: 'The Power of Volunteers: Remote Mapping in Gaza and Other Conflict Areas'
 date: 2024-08-20 21:06:00 Z
 Summary Text: 'As damage reaches record levels in the Gaza Strip, expert volunteers
-  coordinated by HOT have recently completed a 5-month effort to create the most comprehensive
-  building footprints dataset available in Gaza for pre-October 2023, using OpenStreetMap.
-  A net of 59,223 buildings has been added to the dataset, with thousands more improvements
-  to existing data. In this post, we share how our work in Gaza illustrates our approach
-  to open mapping in conflict zones, as well as the potential role of artificial intelligence
-  and machine learning in the sector.
+  coordinated by HOT have recently completed a 5-month project to create the most
+  comprehensive building footprints dataset available for Gaza using OpenStreetMap.
+  Looking at pre-October 2023 imagery, this effort added a net total of 59,223 buildings
+  to the dataset and improved thousands of existing features. In this post, we share
+  how our work in Gaza illustrates our approach to open mapping in conflict zones,
+  and examines the potential role of artificial intelligence and machine learning
+  (AI/ML) in the sector.
 
 '
 Feature Image: "/uploads/GazaCity.jpg"
@@ -56,11 +57,11 @@ margin: 20px 0;
 
 </head>
 <body>
-<p>As an open map of the world, <a href="https://www.openstreetmap.org">OpenStreetMap (OSM)]</a> is used to understand the impacts of war and inform humanitarian response. For example, OSM can provide a baseline dataset of pre-conflict building footprints to be compared with damage analyses.</p>
+<p>As an open map of the world, <a href="https://www.openstreetmap.org">OpenStreetMap (OSM)]</a> is a valuable tool for understanding the impacts of war and informing humanitarian response. For example, OSM can provide a baseline dataset of pre-conflict building footprints to be compared with damage analyses.</p>
 
-<p>In Gaza, increased conflict since October 2023 has caused a prolonged humanitarian crisis. Understanding the impact of the conflict on buildings has been challenging, since pre-existing datasets from artificial intelligence and machine learning (AI/ML) models and OSM were not accurate enough to create a full building footprint baseline. The area’s buildings were too dense, and information on the ground was impossible to collect safely. In these hard-to-reach areas, HOT’s remote and crowdsourced mapping methodology was a good fit for collecting detailed information visible on aerial imagery.</p>
+<p>In Gaza, the escalation of conflict since October 2023 has resulted in a prolonged humanitarian crisis. Understanding the impact of the conflict on buildings has been challenging because pre-existing datasets from AI/ML models and OSM were not accurate enough to create a complete buildings baseline. The high density of buildings and the inability to safely gather on-the-ground information compounded these challenges. In such hard-to-reach areas, HOT’s remote and crowdsourced mapping methodology proved effective in collecting detailed information visible on aerial imagery.</p>
 
-    <p>In February 2024, after consultation with humanitarian and UN actors working in Gaza, HOT decided to create a pre-conflict dataset of all building footprints in the area in OSM. HOT’s <a href="https://www.hotosm.org/community/">community of OpenStreetMap volunteers</a> did all the data <a href="https://wiki.openstreetmap.org/wiki/Gaza_Update_2024">work</a>, coordinating through HOT’s <a href="https://tasks.hotosm.org/">Tasking Manager</a>. The volunteers made meticulous edits to add missing data and to improve existing data. Due to protection and data quality concerns, only expert volunteer teams were assigned to map and validate the area. As in other areas that are hard to reach due to conflict, HOT balanced the data needs with <a href="https://www.hotosm.org/tools-and-data/data-principles/">responsible data practices</a> based on the context.</p>
+    <p>In February 2024, after consultation with humanitarian and UN actors working in Gaza, HOT initiated the creation of pre-conflict dataset of all building footprints in the area in OSM. HOT’s <a href="https://www.hotosm.org/community/">community of OpenStreetMap volunteers</a> did all the data <a href="https://wiki.openstreetmap.org/wiki/Gaza_Update_2024">work</a>, coordinating through HOT’s <a href="https://tasks.hotosm.org/">Tasking Manager</a>. The volunteers made meticulous edits to add missing data and to improve existing data. Due to protection and data quality concerns, only expert volunteer teams were assigned to map and validate the area. As in other areas that are hard to reach due to conflict, HOT balanced the data needs with <a href="https://www.hotosm.org/tools-and-data/data-principles/">responsible data practices</a> based on the context.</p>
     
     <div class="image-container">
         <img src="/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza.png" alt="Example of increased data quality in OpenStreetMap building footprints in Gaza">
