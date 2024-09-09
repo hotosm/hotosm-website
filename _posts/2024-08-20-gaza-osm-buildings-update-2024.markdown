@@ -57,7 +57,7 @@ margin: 20px 0;
 
 </head>
 <body>
-<p>As an open map of the world, <a href="https://www.openstreetmap.org">OpenStreetMap (OSM)]</a> is a valuable tool for understanding the impacts of war and informing humanitarian response. For example, OSM can provide a baseline dataset of pre-conflict building footprints to be compared with damage analyses.</p>
+<p>As an open map of the world, <a href="https://www.openstreetmap.org">OpenStreetMap (OSM)</a> is a valuable tool for understanding the impacts of war and informing humanitarian response. For example, OSM can provide a baseline dataset of pre-conflict building footprints to be compared with damage analyses.</p>
 
 <p>In Gaza, the escalation of conflict since October 2023 has resulted in a prolonged humanitarian crisis. Understanding the impact of the conflict on buildings has been challenging because pre-existing datasets from AI/ML models and OSM were not accurate enough to create a complete buildings baseline. The high density of buildings and the inability to safely gather on-the-ground information compounded these challenges. In such hard-to-reach areas, HOT’s remote and crowdsourced mapping methodology proved effective in collecting detailed information visible on aerial imagery.</p>
 
