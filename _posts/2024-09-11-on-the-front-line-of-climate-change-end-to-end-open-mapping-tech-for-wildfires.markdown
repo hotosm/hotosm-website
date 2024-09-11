@@ -1,5 +1,5 @@
 ---
-title: 'On the front line of climate change: End-to-End Open Mapping Tech for Wildfires'
+title: 'On the Front Line of Climate Change: End-to-End Open Mapping Tech for Wildfires'
 date: 2024-09-11 20:30:00 Z
 tags:
 - wildfires
