@@ -11,7 +11,7 @@ tags:
 Summary Text: |-
   Climate change has led to an increase in <a href="https://www.unep.org/resources/report/spreading-wildfire-rising-threat-extraordinary-landscape-fires?gad_source=1&gclid=EAIaIQobChMIo_qmwrOYiAMVADXUAR2NCwYcEAAYASAAEgIMT_D_BwE">wildfire</a> season length, wildfire frequency, and burned areas around the world. The wildfire season has lengthened in many areas due to factors including warmer springs, longer summer dry seasons, and drier soils and vegetation.
 
-  Given this context, people from the Alpa Corral region in Córdoba, Argentina, who want to protect our native forests and towns, met from July 26 to 28, to see how the Humanitarian OpenStreetMap Team’s End-to-End Open Mapping Tech can help people prepare themselves to face disasters together.
+  Given this context, people from the Alpa Corral region in Córdoba, Argentina, who want to protect our native forests and towns, met from July 26 to 28 to see how the Humanitarian OpenStreetMap Team’s End-to-End Open Mapping Tech can help people prepare themselves to face disasters together.
 Feature Image: "/uploads/f18866432_ftyp.jpg"
 Is image top aligned: true
 Person: Emilio Mariscal
@@ -24,7 +24,7 @@ Country:
 # The End-to-End Process
 
 
-In the small town of Alpa Corral, our team coordinated with the local government, fire stations, civil society organizations, and people from the area to test the Humanitarian OpenStreetMap Team's (or HOT) End-To-End process for creating rich, high-quality maps. These maps, together with open knowledge of how to use them and keep them updated, are key for government and civil society preparedness in the face of disasters like wildfires, whose effect on communities can be devastating. 
+In the small town of Alpa Corral our team coordinated with the local government, fire stations, civil society organizations, and people from the area to test the Humanitarian OpenStreetMap Team's (or HOT) End-To-End process for creating rich, high-quality maps. These maps, together with open knowledge of how to use them and keep them updated, are key for government and civil society preparedness in the face of disasters like wildfires, whose effect on communities can be devastating. 
 
 This is the process that we followed, using tech tools that are available to everyone for free.
 
