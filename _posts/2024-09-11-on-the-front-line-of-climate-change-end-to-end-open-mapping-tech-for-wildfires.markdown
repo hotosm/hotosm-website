@@ -9,9 +9,11 @@ tags:
 - open mapping
 - OpenStreetMap
 Summary Text: |-
-  Climate change has led to an increase in [wildfire](https://www.unep.org/resources/report/spreading-wildfire-rising-threat-extraordinary-landscape-fires?gad_source=1&gclid=EAIaIQobChMIo_qmwrOYiAMVADXUAR2NCwYcEAAYASAAEgIMT_D_BwE) season length, wildfire frequency, and burned areas around the world. The wildfire season has lengthened in many areas due to factors including warmer springs, longer summer dry seasons, and drier soils and vegetation.
+  Climate change has led to an increase in <a href="https://www.unep.org/resources/report/spreading-wildfire-rising-threat-extraordinary-landscape-fires?gad_source=1&gclid=EAIaIQobChMIo_qmwrOYiAMVADXUAR2NCwYcEAAYASAAEgIMT_D_BwE">wildfire</a> season length, wildfire frequency, and burned areas around the world. The wildfire season has lengthened in many areas due to factors including warmer springs, longer summer dry seasons, and drier soils and vegetation.
+
   Given this context, people from the Alpa Corral region in Córdoba, Argentina, who want to protect our native forests and towns, met from July 26 to 28, to see how the Humanitarian OpenStreetMap Team’s End-to-End Open Mapping Tech can help people prepare themselves to face disasters together.
 Feature Image: "/uploads/f18866432_ftyp.jpg"
+Is image top aligned: true
 Person: Emilio Mariscal
 Country:
 - Argentina
@@ -21,7 +23,8 @@ Country:
 
 # The End-to-End Process
 
-In the small town of Alpa Corral, our team coordinated with the local government, fire stations, civil society organizations, and people from the area to test the Humanitarian OpenStreetMap Team's -or HOT-  End-To-End process for creating rich, high-quality maps. These maps, together with open knowledge of how to use them and keep them updated, are key for government and civil society preparedness in the face of disasters like wildfires, whose effect on communities can be devastating. 
+
+In the small town of Alpa Corral, our team coordinated with the local government, fire stations, civil society organizations, and people from the area to test the Humanitarian OpenStreetMap Team's (or HOT) End-To-End process for creating rich, high-quality maps. These maps, together with open knowledge of how to use them and keep them updated, are key for government and civil society preparedness in the face of disasters like wildfires, whose effect on communities can be devastating. 
 
 This is the process that we followed, using tech tools that are available to everyone for free.
 
@@ -49,7 +52,7 @@ During remote mapping, people drew polygons for each building manually over sate
 
 ## Adding details to the map
 
-Remote mapping is not enough to have a full map because there are things that can’t be seen from above. To identify what type of building we’ve mapped (house, emergency service, commercial, etc) and add more details like the name of the place or the building material (something very important for addressing fire risk) we have to be in the field.
+Remote mapping is not enough to have a full map because there are things that can’t be seen from above. To identify what type of building we’ve mapped (house, emergency service, commercial, etc.) and add more details like the name of the place or the building material (something very important for addressing fire risk) we have to be in the field.
 
 To add local knowledge to the data, we created a project in the [HOT Field Mapping Tasking Manager (FMTM)](https://fmtm.hotosm.org/), with a grid of tasks and a customized data collection [form ](https://github.com/hotosm/fmtm/blob/development/docs/example-xlsforms/simple_building_survey_wildfires.xlsx)that was then used with a field data collection app ([ODK Collect](https://docs.getodk.org/collect-intro/)) in order to enrich the previously mapped buildings.
 
@@ -62,9 +65,12 @@ We used the [HOT Export Tool](https://export.hotosm.org/v3/) to download the pre
 
 # Put the map to work
 
-Having open data, open technology, and knowledge about how to use it, we were better prepared for  disasters. And a disaster happened! Luckily it was all fiction: a wildfire drill.
 
-Then, lots of people went outside to fight the fire! While others stayed inside, getting information and making decisions.
+Having open data, open technology, and knowledge about how to use it, we were better prepared for  disasters. **And a disaster happened! **
+
+Luckily it was all fiction: a wildfire drill.
+
+Lots of people went outside to fight the fire, while others stayed inside, getting information and making decisions.
 
 We prepared the scenario in the field days before, adding color marks for hot spots (red = fire; yellow = no fire, but hot; green = no fire, cold) and evacuation (red = people not evacuated, green = people evacuated). We also had a secret plan (it was not disclosed to everyone, only some event organizers knew) for how the incident should develop.
 
@@ -83,16 +89,17 @@ The GIS team created incident reports for sharing with the media and the UAV tea
 
 Data collected in the field was added to the map, mostly in the following way: 
 
-1. Crews transmitted data (coordinates and information) from the field using VHF radios
-2. The Communication section received it and added it to a log sheet (an online spreadsheet)
+1. Crews transmitted data (coordinates and information) from the field using VHF radios.
+2. The Communication section received it and added it to a log sheet (an online spreadsheet).
 3. The Information section shared the news to the GIS Officer, who then asked a GIS Operator to create the data to be published.
 4. The GIS Operator in charge of publishing the data added it to uMap.
 5. The Information Officer shared the news with everyone using the projector screen. 
 
-![FinalMap.png](/uploads/FinalMap.png)
-*Resulting map as displayed in [uMap](https://umap.openstreetmap.fr/en/map/if-alpa-corral_1098291#16)*
+![uMap.jpg](/uploads/uMap.jpg)
+*Resulting map as displayed in [uMap.](https://umap.openstreetmap.fr/en/map/if-alpa-corral_1098291#16)*
 
 # Thank you, people
+
 
 I’m a volunteer firefighter myself, with experience in big fires that can last weeks. I have been creating maps for wildfires, especially after they happen. **This was the first time I saw something like this. All these people working together, with clear information about the incident, displayed in almost real-time on a big screen, it was like a movie!** I really hope that we can continue working together and implement this kind of end-to-end process, using open data and technology before, during, and after disasters.
 
