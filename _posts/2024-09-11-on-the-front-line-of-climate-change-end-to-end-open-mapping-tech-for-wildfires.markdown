@@ -66,9 +66,9 @@ We used the [HOT Export Tool](https://export.hotosm.org/v3/) to download the pre
 # Put the map to work
 
 
-Having open data, open technology, and knowledge about how to use it, we were better prepared for  disasters. **And a disaster happened! **
+Having open data, open technology, and knowledge about how to use it, we were better prepared for  disasters. **And a disaster happened!**
 
-Luckily it was all fiction: a wildfire drill.
+Luckily it was all fiction: a wildfire drill!
 
 Lots of people went outside to fight the fire, while others stayed inside, getting information and making decisions.
 
