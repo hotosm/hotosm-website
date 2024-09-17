@@ -27,12 +27,6 @@ Coulibistrie, grappling with severe flooding from Tropical Storm Erika (2015), H
 
 In this context, the Northeastern team utilized HOT-provided drone images in a primary school exercise to visually illustrate and discuss community challenges. Stephen noted, “HOT’s contributions have been pivotal. The images provided were integral to our resilience workshop on June 29th and are now central to our planning with the Disaster Response Coordinating Committee.”
 
-<iframe src="https://map.openaerialmap.org/#/-61.450910568237305,15.462449162429142,17/user/62c50409b5050700076642cb/667b2d161b35ab0001a5368a.tif?_k=phs4w4" \
-        width="100%" \
-        height="600" \
-        style="border:none;">\
-</iframe>
-
 During the workshop, 30 community members marked flood risk areas on maps with stickers, highlighting the river’s behavior and its impact. Stephen observed, “The exercise was an effective icebreaker, enhancing communication and learning between the community and the project team.” The imagery facilitated discussions, served as prompts to explain mapped points, and encouraged conversations about resilience.
 
 In breakout sessions, the images sparked discussions on various aspects of resilience, including physical and natural risks, social vulnerability, economic factors, and governance. Visual aids helped participants recall and share insights, leading to a thorough exploration of each domain.
