@@ -27,6 +27,28 @@ Coulibistrie, grappling with severe flooding from Tropical Storm Erika (2015), H
 
 In this context, the Northeastern team utilized HOT-provided drone images in a primary school exercise to visually illustrate and discuss community challenges. Stephen noted, “HOT’s contributions have been pivotal. The images provided were integral to our resilience workshop on June 29th and are now central to our planning with the Disaster Response Coordinating Committee.”
 
+<!DOCTYPE html>\
+<html lang="es">\
+<head>\
+    <meta charset="UTF-8">\
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">\
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">\
+    <title>Embed OpenAerialMap</title>\
+</head>\
+<body>\
+    <h1>Mapa de OpenAerialMap</h1>\
+    <p>Explora el mapa de Coulibistrie, Dominica, proporcionado por OpenAerialMap.</p>\
+    \
+    <iframe \
+        src="https://map.openaerialmap.org/#/-61.450915932655334,15.462449162429142,17/user/62c50409b5050700076642cb/667b2f341b35ab0001a5368b?_k=pjbd0n" \
+        width="100%" \
+        height="600" \
+        style="border:none;">\
+    </iframe>
+
+</body>\
+</html>
+
 During the workshop, 30 community members marked flood risk areas on maps with stickers, highlighting the river’s behavior and its impact. Stephen observed, “The exercise was an effective icebreaker, enhancing communication and learning between the community and the project team.” The imagery facilitated discussions, served as prompts to explain mapped points, and encouraged conversations about resilience.
 
 In breakout sessions, the images sparked discussions on various aspects of resilience, including physical and natural risks, social vulnerability, economic factors, and governance. Visual aids helped participants recall and share insights, leading to a thorough exploration of each domain.
