@@ -26,7 +26,7 @@ En conversación con Daniel, exploramos la experiencia de la Dirección de Movil
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/cO0Tsmhsih4?si=K6iE4DkN-hFGnh2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## **Experiencia de la Secretaría de Movilidad de Zamora, Michoacán**
+## **Experiencia de la Dirección de Movilidad de Zamora, Michoacán**
 
 En Zamora, el 21.1% de los estudiantes usa el transporte público, un porcentaje que supera la media estatal de Michoacán del 19.5%. Por ello, Daniel enfatiza la necesidad de tener datos precisos y bien organizados sobre el sistema de transporte público para facilitar la toma de decisiones en el sector público.
 
@@ -56,11 +56,11 @@ Daniel destaca que, “OSMTracker fue muy amigable y se programó específicamen
 
 *Imagen: El total de rutas (43) rutas fue mapeado en Zamora.*
 
-## **Impacto en la Secretaría de Movilidad**
+## **Impacto en la Di**rección** de Movilidad**
 
 Mientras que el objetivo principal era asegurar la precisión de los datos del transporte público, Daniel ha notado que las herramientas de mapeo colaborativo abren un abanico de posibilidades más amplias. Estas herramientas permiten realizar estudios detallados sobre el sistema de movilidad, incluyendo temas de accesibilidad y enfoques de género.
 
-La Secretaría de Movilidad tiene planes de seguir implementando estas herramientas para fines más específicos, empezando con experimentos en Mapillary para proporcionar vistas de nivel calle. El esfuerzo comenzará en áreas clave del centro de la ciudad y se expandirá gradualmente para mejorar la comprensión global del transporte público y su interacción con el espacio público.
+La Dirección de Movilidad tiene planes de seguir implementando estas herramientas para fines más específicos, empezando con experimentos en Mapillary para proporcionar vistas de nivel calle. El esfuerzo comenzará en áreas clave del centro de la ciudad y se expandirá gradualmente para mejorar la comprensión global del transporte público y su interacción con el espacio público.
 
 Daniel destaca el apoyo del alcalde de Zamora, quien ve la importancia de estos proyectos, aunque no siempre sean visibles. La Dirección de Movilidad considera esencial la generación de datos precisos antes de proceder en la toma de decisiones. Las herramientas de mapeo abierto son claves para generar e informar la toma de decisiones y la inversión en las obras requeridas por la ciudadanía.
 
