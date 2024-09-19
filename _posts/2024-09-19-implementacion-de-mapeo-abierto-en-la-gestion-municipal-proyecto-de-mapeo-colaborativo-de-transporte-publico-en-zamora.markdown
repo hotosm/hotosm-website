@@ -54,7 +54,7 @@ Daniel destaca que, “OSMTracker fue muy amigable y se programó específicamen
 
 ![Progreso del Mapeo Codeando México.jpg](/uploads/Progreso%20del%20Mapeo%20Codeando%20Me%CC%81xico.jpg)
 
-*Imagen: 43 rutas mapeadas hasta ahora en Zamora.*
+*Imagen: El total de rutas (43) rutas fue mapeado en Zamora.*
 
 ## **Impacto en la Secretaría de Movilidad**
 
