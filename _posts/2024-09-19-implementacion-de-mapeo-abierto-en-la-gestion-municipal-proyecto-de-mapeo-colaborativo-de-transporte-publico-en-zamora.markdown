@@ -62,7 +62,7 @@ Mientras que el objetivo principal era asegurar la precisión de los datos del t
 
 La Dirección de Movilidad tiene planes de seguir implementando estas herramientas para fines más específicos, empezando con experimentos en Mapillary para proporcionar vistas de nivel calle. El esfuerzo comenzará en áreas clave del centro de la ciudad y se expandirá gradualmente para mejorar la comprensión global del transporte público y su interacción con el espacio público.
 
-Daniel destaca el apoyo del alcalde de Zamora, quien ve la importancia de estos proyectos, aunque no siempre sean visibles. La Dirección de Movilidad considera esencial la generación de datos precisos antes de proceder en la toma de decisiones. Las herramientas de mapeo abierto son claves para generar e informar la toma de decisiones y la inversión en las obras requeridas por la ciudadanía.
+Daniel destaca el apoyo del alcalde de Zamora, Carlos Soto, y  el Director de Movilidad, Rosendo Farfán, quienes ven la importancia de estos proyectos, aunque no siempre sean visibles. La Dirección de Movilidad considera esencial la generación de datos precisos antes de proceder en la toma de decisiones. Las herramientas de mapeo abierto son claves para generar e informar la toma de decisiones y la inversión en las obras requeridas por la ciudadanía.
 
 El equipo reconoce la importancia del mapeo colaborativo para mejorar el transporte público, con un enfoque particular en los desplazamientos por motivos de cuidado, la accesibilidad para las personas con discapacidad y la movilidad infantil. Estos elementos son una prioridad para la dirección y el municipio.
 
