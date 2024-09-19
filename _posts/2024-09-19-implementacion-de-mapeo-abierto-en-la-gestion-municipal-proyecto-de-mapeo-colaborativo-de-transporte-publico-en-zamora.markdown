@@ -38,7 +38,7 @@ El proyecto de mapeo colaborativo en Zamora tenía como objetivo principal desar
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/hNaMCG4eKBE?si=NaVo08biD4hwNoA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-\*Video: Evolución del mapeo colaborativo de rutas de transporte público en Zamora, Michoacán (México) por Óscar Hernández de Codeando México.\*
+*Video: Evolución del mapeo colaborativo de rutas de transporte público en Zamora, Michoacán (México) por Óscar Hernández de Codeando México.*
 
 Este proyecto fue posible gracias al apoyo adicional de siete voluntarios universitarios locales por parte del servicio social, y seis miembros de la Dirección de Movilidad. La sinergia entre estos grupos facilitó el rastreo de rutas y la creación de mapas en OpenStreetMap (OSM), lo que contribuyó significativamente a la cartografía y organización de la información de transporte. HOT considera particularmente benéfica la interacción entre funcionarios públicos y personas voluntarias mapeadoras de la sociedad civil en estos ejercicios, que fomentan un aprendizaje cruzado positivo tanto para los datos como para la participación civil a mecanismos de política pública.
 
