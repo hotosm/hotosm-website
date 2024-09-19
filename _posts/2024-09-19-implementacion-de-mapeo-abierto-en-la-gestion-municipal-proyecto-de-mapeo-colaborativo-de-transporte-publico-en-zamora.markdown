@@ -20,11 +20,11 @@ Project:
 
 Daniel Acevedo forma parte de la Dirección de Movilidad del Municipio de Zamora, específicamente en el área de Coordinación de Seguridad Vial y Transporte. Desde el municipio, él coordina el proyecto Rutatón-Zamora, una iniciativa destinada a realizar un mapeo colaborativo y rastrear las rutas del transporte público.
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/cO0Tsmhsih4?si=K6iE4DkN-hFGnh2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Este proyecto, en el que se enmarca esta reflexión, abarca los municipios de Zamora, Jacona, y municipios vecinos (Chavinda, Atacheo, El Tepehuaje, Las Torcazas, El Llano, Ario de Rayón, la Rinconada, Rancho Nuevo, el Platanal, Ojo de Agua), integrado en el Programa de Ciudades Resilientes del Equipo Humanitario de OpenStreetMap (HOT) para América Latina y el Caribe, con el objetivo de fortalecer la resiliencia urbana en la región. Se realiza en colaboración con [Codeando México](https://www.codeandomexico.org/) y [CoMapper](https://site.comapper.org/), y continúa los esfuerzos previos en Michoacań, en colaboración con la ex-[COCOTRA](https://transporte.michoacan.gob.mx), como el [mapeo de transporte en Zitácuaro](https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-zitacuaro-michoacan/).
 
 En conversación con Daniel, exploramos la experiencia de la Dirección de Movilidad en la implementación de estas herramientas de mapeo abierto, analizando el conocimiento previo y el aprendizaje y aplicación de las mismas en futuras iniciativas.
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/cO0Tsmhsih4?si=K6iE4DkN-hFGnh2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **Experiencia de la Secretaría de Movilidad de Zamora, Michoacán**
 
@@ -44,9 +44,9 @@ Este proyecto fue posible gracias al apoyo adicional de siete voluntarios univer
 
 Las herramientas utilizadas incluyeron:
 
-* **OSM vía IdEditor y JOSM: **Como primer paso en el mapeo de rutas de transporte, fue necesario mapear todas las calles de la ciudad en OpenStreetMap de manera completa y detallada. Esta base permite agregar posteriormente información detallada del transporte en OpenStreetMap: a un vector que corresponde a una calle, se le agrega la información de la ruta que la transita.
+* **OSM vía IdEditor y JOSM:** Como primer paso en el mapeo de rutas de transporte, fue necesario mapear todas las calles de la ciudad en OpenStreetMap de manera completa y detallada. Esta base permite agregar posteriormente información detallada del transporte en OpenStreetMap: a un vector que corresponde a una calle, se le agrega la información de la ruta que la transita.
 
-* **OSM Tracker: **Esta herramienta clásica para mapeo en campo, con un template desarrollado específicamente para este proyecto, facilitó el levantamiento de paradas de transporte público y el rastreo de rutas. También permitió enlazar ubicaciones con fotografías de los paraderos, proporcionando datos más precisos de lo esperado. Inicialmente, se creía que existían 12 rutas, pero se descubrieron solo 11 en operación, compartiendo 8 de ellas con el municipio vecino de Jacona. Aunque se estimaba la existencia de unas 390 unidades de transporte, el análisis reveló que en realidad operan aproximadamente 330. Adicionalmente, se identificaron 12 localidades circundantes conectadas por estas rutas.
+* **OSM Tracker:** Esta herramienta clásica para mapeo en campo, con un template desarrollado específicamente para este proyecto, facilitó el levantamiento de paradas de transporte público y el rastreo de rutas. También permitió enlazar ubicaciones con fotografías de los paraderos, proporcionando datos más precisos de lo esperado. Inicialmente, se creía que existían 12 rutas, pero se descubrieron solo 11 en operación, compartiendo 8 de ellas con el municipio vecino de Jacona. Aunque se estimaba la existencia de unas 390 unidades de transporte, el análisis reveló que en realidad operan aproximadamente 330. Adicionalmente, se identificaron 12 localidades circundantes conectadas por estas rutas.
 
 * **Mapillary:** Se utilizó para iniciar la implementación de vistas de nivel calle, contando con la asesoría de CoMapper.
 
@@ -58,8 +58,6 @@ Daniel destaca que, “OSMTracker fue muy amigable y se programó específicamen
 
 ## **Impacto en la Secretaría de Movilidad**
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/UbbqM-Gsytk?si=XXumrI341EjO86-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 Mientras que el objetivo principal era asegurar la precisión de los datos del transporte público, Daniel ha notado que las herramientas de mapeo colaborativo abren un abanico de posibilidades más amplias. Estas herramientas permiten realizar estudios detallados sobre el sistema de movilidad, incluyendo temas de accesibilidad y enfoques de género.
 
 La Secretaría de Movilidad tiene planes de seguir implementando estas herramientas para fines más específicos, empezando con experimentos en Mapillary para proporcionar vistas de nivel calle. El esfuerzo comenzará en áreas clave del centro de la ciudad y se expandirá gradualmente para mejorar la comprensión global del transporte público y su interacción con el espacio público.
@@ -67,6 +65,8 @@ La Secretaría de Movilidad tiene planes de seguir implementando estas herramien
 Daniel destaca el apoyo del alcalde de Zamora, quien ve la importancia de estos proyectos, aunque no siempre sean visibles. La Dirección de Movilidad considera esencial la generación de datos precisos antes de proceder en la toma de decisiones. Las herramientas de mapeo abierto son claves para generar e informar la toma de decisiones y la inversión en las obras requeridas por la ciudadanía.
 
 El equipo reconoce la importancia del mapeo colaborativo para mejorar el transporte público, con un enfoque particular en los desplazamientos por motivos de cuidado, la accesibilidad para las personas con discapacidad y la movilidad infantil. Estos elementos son una prioridad para la dirección y el municipio.
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/UbbqM-Gsytk?si=XXumrI341EjO86-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Originalmente utilizando OSM Tracker, el proyecto se orientará hacia una mayor integración de Mapillary con el objetivo profundizar y ampliar la base de datos disponible de imágenes a nivel calle, abordando la escasez de información sobre transporte y facilitando una gestión más eficiente de los recursos municipales para un mejor servicio a la población. Estos datos se integrarán en el próximo Programa Integral de Movilidad Urbana Sostenible de Zamora, ayudando a nutrir indicadores clave para acciones de mejora de la movilidad integral.
 
