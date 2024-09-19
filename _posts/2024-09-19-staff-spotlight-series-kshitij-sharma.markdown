@@ -13,6 +13,9 @@ Summary Text: Each quarter, we feature one of our all-star staff members in a St
   superb performance and values-driven work. This quarter, we spotlight Kshitij Sharma,
   HOT's Product Owner for Map Data Access Services.
 Feature Image: "/uploads/Kshitij-Blog.jpg"
+Person:
+- Dana Gallaty
+- Kshitij Sharma
 ---
 
 ## Tell us a bit about how your career/personal journey led you to the Humanitarian OpenStreetMap Team (HOT). 
