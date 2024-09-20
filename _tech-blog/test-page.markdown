@@ -7,6 +7,10 @@ Summary Text: Do not publish
 
 Do not publish
 
+<iframe width="100%" height="500" frameborder="0"
+  src="https://observablehq.com/embed/@observablehq/color-scatterplot?cell=*"></iframe>
+
+https://observablehq.com/embed/@observablehq/color-scatterplot?cell=*
 
 https://observablehq.com/embed/@observablehq/plot-scatterplot/2?cell=*
 
