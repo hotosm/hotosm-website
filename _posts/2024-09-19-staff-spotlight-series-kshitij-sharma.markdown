@@ -1,7 +1,6 @@
 ---
 title: 'Staff Spotlight Series: Kshitij Sharma'
 date: 2024-09-19 20:18:00 Z
-published: false
 categories:
 - staff
 - mapping careers
