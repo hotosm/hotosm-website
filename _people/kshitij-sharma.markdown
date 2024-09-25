@@ -10,6 +10,8 @@ Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Kshitizraj%20Sharma
 ---
 
-Kshitij Raj Sharma grew up in western rural part of Nepal. He is a Graduate Geomatics engineer from the Institute of Engineering, Tribhuvan University Nepal. He has been engaged with OpenStreetMap since 2016 and began contributing actively from 2017 and  has been a Spatial developer for 3 years in different projects. 
+Kshitij Raj Sharma is a passionate spatial developer, with a strong background in open-source software and open data. Born and raised in rural western Nepal, Kshitij pursued his passion for geomatics, graduating from the Institute of Engineering at Tribhuvan University Nepal.
 
-He has experience of mapping in several rural municipalities with Drones, GNSS , GIS and Remote Sensing.  Prior to  HOT, he worked for a government Project called Chaklabandi ( Agricultural Land consolidation). Besides that, he loves to play basketball ,FIFA and travel in his free time. Mapping is his ultimate passion!
+With over 8 years of experience in spatial development, Kshitij has worked on various projects, including Raw-data-api, OSM-export-tool , Tasking Manager, integration of datasets to HDX and fAIr. His contributions to OpenStreetMap date back to 2016, and he has been actively involved since 2017. Prior to joining HOTOSM, he worked with the government project called chaklabandi in Nepal.
+
+When not working, Kshitij enjoys playing basketball and FIFA, traveling, and exploring new places. However, his ultimate passion remains mapping, and he continues to advocate for FOSS and contribute to open data initiatives.
