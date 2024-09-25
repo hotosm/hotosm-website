@@ -54,7 +54,7 @@ Además, les animamos a utilizar el [Export Tool de OpenStreetMap](https://expor
 
 **Otros recursos:**
 
-<p>[Windy](https://www.windy.com/es/-Men%C3%BA/menu?cosc,-14.179,-56.953,3): Para monitorear la calidad del aire</p>
-<p>[IQAir](https://www.iqair.com/world-air-quality): También monitorea la calidad del aire</p>
-<p>[Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z): Para monitorear focos de calor</p>
-<p>[EO browser](https://apps.sentinel-hub.com/eo-browser): Para comparar imágenes satelitales como apoyo</p>
+* [Windy](https://www.windy.com/es/-Men%C3%BA/menu?cosc,-14.179,-56.953,3): Para monitorear la calidad del aire
+* [IQAir](https://www.iqair.com/world-air-quality): También monitorea la calidad del aire
+* [Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z): Para monitorear focos de calor
+* [EO browser](https://apps.sentinel-hub.com/eo-browser): Para comparar imágenes satelitales como apoyo
