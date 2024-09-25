@@ -1,5 +1,5 @@
 ---
-title: 'Latinoamérica en Llamas: Combatiendo los Incendios con Cartografía Abierta'
+title: 'Sudamérica en Llamas: Combatiendo los Incendios con Cartografía Abierta'
 date: 2024-09-25 04:11:00 Z
 categories:
 - latam
@@ -7,7 +7,10 @@ tags:
 - incendios
 - forestales
 - mapeo
-Summary Text: "![mapatonymbol.jpg](/uploads/mapatonymbol.jpg)"
+Summary Text: Los incendios forestales en Sudamérica están consumiendo miles de hectáreas
+  de sembríos y bosques de áreas de preservación en países como Bolivia, Perú, Ecuador
+  y otros. Conozcamos los esfuerzos de ayuda que van surgiendo desde las comunidades
+  de cartografía abierta.
 Feature Image: "/uploads/iqair.jpg"
 ---
 
