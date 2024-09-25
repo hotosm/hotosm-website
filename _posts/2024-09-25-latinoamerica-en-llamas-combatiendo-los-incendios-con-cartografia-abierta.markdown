@@ -36,9 +36,9 @@ En Perú, los incendios han afectado en regiones amazónicas como Tarapoto, Amaz
 Aprovechando su estancia, y la disposición de la comunidad de Santa Clara y de organizaciones de la sociedad civil locales, están organizando un taller de [Registro de tierras quemadas en incendios forestales](https://osm.org.pe/2024/09/23/taller-registro-de-tierras-quemadas-en-incendios-forestales/), para la recolección de fotografías con drones (ortofotos) de las áreas quemadas durante los incendios. Posteriormente se realizará un **taller en Gestión de riesgos en incendios forestales**, con la participación de la Universidad Nacional Intercultural de la Amazonía, posibilitando que los materiales a producir estén también en algunas lenguas amazónicas como el shipibo.
 
 ![antesdurantedespues.jpg](/uploads/antesdurantedespues.jpg)
-*Qu*é* datos recolectar al enfrentar un incendio. Emilio Mariscal*
+*Qué datos recolectar al enfrentar un incendio. Emilio Mariscal.*
 
-Nuestro colega Emilio Mariscal, desarrollador de software para HOT y bombero voluntario, señala: "Los mapas abiertos son fundamentales antes, durante y después de los incendios forestales. Nos apoyan desde el trabajo preventivo, facilitando la acción coordinada durante el incendio, hasta la evaluación post-fuego. Nos permiten evaluar los riesgos, ubicar nuestra posición en relación con el fuego y planificar estrategias, no solo para contabilizar las hectáreas quemadas y los daños sufridos, sino también para restaurar los bosques y ayudar a las personas afectadas a reconstruir sus vidas."
+Nuestro colega Emilio Mariscal, desarrollador de software para HOT y bombero voluntario, señala: "Los mapas abiertos son fundamentales antes, durante y después de los incendios forestales. Nos apoyan desde el trabajo preventivo, facilitando la acción coordinada durante el incendio, hasta la evaluación post-fuego. Nos permiten evaluar los riesgos, ubicar nuestra posición en relación con el fuego y planificar estrategias, no solo para contabilizar las hectáreas quemadas y los daños sufridos, sino también para restaurar los bosques y ayudar a las personas afectadas a reconstruir sus vidas".
 
 Asimismo, Emilio enfatiza que un ejemplo sobre cómo a través de los mapas generados por la comunidad de OSM son de gran ayuda, es porque “los bomberos podemos actualmente tener mapas en nuestros teléfonos, incluso sin conexión a internet, que nos permiten movernos a la zona del incendio con información que es tan valiosa que incluso puede salvar vidas. No sólo las nuestras porque podemos saber dónde estamos, cómo llegar al incendio y cómo salir de ahí, sino también las de las personas en riesgo porque nos permite trabajar más eficientemente”.
 
@@ -48,13 +48,15 @@ Un claro ejemplo de esto es el mapa creado por los Bomberos de La Granja durante
 
 La anticipación es clave para gestionar eficazmente cualquier crisis o desafío. Contar con cartografía actualizada no solo permite una mejor visualización del territorio, sino que también fortalece la toma de decisiones en situaciones críticas.
 
-Por este motivo, queremos invitarles a explorar las herramientas de cartografía abierta disponibles, como los Mapatones Nacionales, organizados anualmente en colaboración con la Agencia Espacial y AmeriGEO. Estas actividades no solo fomentan la participación de la comunidad, sino que también generan datos valiosos para la gestión humanitaria y el desarrollo. La recurrencia anual de los incendios forestales requiere labores de prevención y capacitación de las que pocas organizaciones se están encargando. Animamos tanto a líderes y organizaciones comunitarias como a organizaciones de la sociedad civil a dedicar esfuerzos y recursos a este tema, al cual nosotros estamos dispuestos a apoyar desde la cartografía abierta.
+Por este motivo, queremos invitarles a explorar las herramientas de cartografía abierta disponibles, como los Mapatones Nacionales, organizados anualmente en colaboración con la Agencia Espacial y AmeriGEO. Estas actividades no solo fomentan la participación de la comunidad, sino que también generan datos valiosos para la gestión humanitaria y el desarrollo. 
+
+La recurrencia anual de los incendios forestales requiere labores de prevención y capacitación de las que pocas organizaciones se están encargando. Animamos tanto a líderes y organizaciones comunitarias como a organizaciones de la sociedad civil a dedicar esfuerzos y recursos a este tema, al cual nosotros estamos dispuestos a apoyar desde la cartografía abierta.
 
 Además, les animamos a utilizar el [Export Tool de OpenStreetMap](https://export.hotosm.org/v3/), una herramienta sencilla que permite descargar datos geoespaciales actualizados para su uso en sus planes y gestiones. Aquí podrán encontrar una[ breve guía de uso](https://export.hotosm.org/v3/learn/quick_start), para que puedan implementar esta información en sus actividades de planeación y respuesta.
 
 **Otros recursos:**
 
-*[Windy](https://www.windy.com/es/-Men%C3%BA/menu?cosc,-14.179,-56.953,3): Para monitorear la calidad del aire
-*[IQAir](https://www.iqair.com/world-air-quality): También monitorea la calidad del aire
-*[Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z): Para monitorear focos de calor
-*[EO browser](https://apps.sentinel-hub.com/eo-browser): Para comparar imágenes satelitales como apoyo
+\*[Windy](https://www.windy.com/es/-Men%C3%BA/menu?cosc,-14.179,-56.953,3): Para monitorear la calidad del aire
+\*[IQAir](https://www.iqair.com/world-air-quality): También monitorea la calidad del aire
+\*[Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z): Para monitorear focos de calor
+\*[EO browser](https://apps.sentinel-hub.com/eo-browser): Para comparar imágenes satelitales como apoyo
