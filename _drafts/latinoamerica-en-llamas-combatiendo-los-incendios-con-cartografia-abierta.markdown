@@ -7,6 +7,7 @@ tags:
 - incendios
 - forestales
 - mapeo
+Summary Text: "![mapatonymbol.jpg](/uploads/mapatonymbol.jpg)"
 Feature Image: "/uploads/iqair.jpg"
 ---
 
@@ -16,15 +17,21 @@ Según Jones et al. (2022), los [incendios forestales](https://es.wikipedia.org/
 
 Aunque la respuesta a esta emergencia varía en cada país y la sociedad civil reacciona de diferentes maneras, desde la cartografía abierta y participativa han surgido diversas iniciativas para contribuir en la lucha contra esta situación.
 
+![mapatonymbol.jpg](/uploads/mapatonymbol.jpg)
+
 La comunidad YouthMappers de la Universidad Mayor de San Andrés (UMSA-Bolivia) organizó un Mapatón por los Incendios Forestales el pasado 31 de agosto. En su Instagram comentan: "La región oriental de Bolivia, en particular San Matías y San Ramón, ha sido gravemente afectada por incendios forestales desde hace aproximadamente un mes. Estos incendios no solo impactan a la población local, sino también a la flora y fauna del departamento de Santa Cruz, donde aún persisten varios focos de calor".
 
 Esta actividad se repitió el 14 de septiembre, contando con la participación de nuestro colega Juan Arellano, Especialista en Comunicación y Comunidades, quien les habló sobre el trabajo en temas de gestión del riesgo desde el Equipo Humanitario de OpenStreetMap. La comunidad estudiantil de la UMSA están realizando las mapatones con el objetivo de dar visibilidad a las comunidades afectadas para evidenciar sus infraestructuras expuestas a los desastres y la densidad de los asentamientos humanos.
 
 Otro importante esfuerzo en Bolivia, es liderado por el mapeador [Juan Jose Iglesias](https://wiki.openstreetmap.org/wiki/User:JJIglesias), quien se encuentra mapeando la zona afectada por incendio aprovechando la liberación por ESRI de nuevas imágenes satelitales en Bolivia, y observa que donde antes predominaba la vegetación, ahora lo hace la actividad agrícola y la urbanización. Comenta además que se nota el problema de que el gobierno usa mayoritariamente información de Google Maps para organizar su logística, información que está muy desactualizada e invisibiliza los usos de suelo actuales y algunos pueblos. Lo compara con unos bomberos de Brasil que están colaborando y ellos usan OSMAND PRO desde tablets. Añade por último que los datos de la zona fueron hechos en base a imágenes Maxar de hace más de 6 años.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X1uhatf7HRw?si=YV0OOiqrjBFbiAZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 En Perú, los incendios han afectado en regiones amazónicas como Tarapoto, Amazonas y Ucayali. Precisamente en esta última se encuentra Jonathan Rupire, líder de la comunidad OpenStreetMap (OSM) peruana. Él comenta que los incendios en la zona colindante con la laguna Yarinacocha han significado pérdidas de buena parte de las áreas de cultivo (yuca y plátano principalmente) de las comunidades ahí asentadas, además de pérdidas de áreas de reforestación.
 
 Aprovechando su estancia, y la disposición de la comunidad de Santa Clara y de organizaciones de la sociedad civil locales, están organizando un taller de [Registro de tierras quemadas en incendios forestales](https://osm.org.pe/2024/09/23/taller-registro-de-tierras-quemadas-en-incendios-forestales/), para la recolección de fotografías con drones (ortofotos) de las áreas quemadas durante los incendios. Posteriormente se realizará un **taller en Gestión de riesgos en incendios forestales**, con la participación de la Universidad Nacional Intercultural de la Amazonía, posibilitando que los materiales a producir estén también en algunas lenguas amazónicas como el shipibo.
+
+![Screenshot 2024-09-19 at 18.52.47.png](/uploads/Screenshot%202024-09-19%20at%2018.52.47.png) ![Screenshot 2024-09-19 at 18.54.42.png](/uploads/Screenshot%202024-09-19%20at%2018.54.42.png) ![Screenshot 2024-09-19 at 18.55.38.png](/uploads/Screenshot%202024-09-19%20at%2018.55.38.png)
 
 Nuestro colega Emilio Mariscal, desarrollador de software para HOT y bombero voluntario, señala: "Los mapas abiertos son fundamentales antes, durante y después de los incendios forestales. Nos apoyan desde el trabajo preventivo, facilitando la acción coordinada durante el incendio, hasta la evaluación post-fuego. Nos permiten evaluar los riesgos, ubicar nuestra posición en relación con el fuego y planificar estrategias, no solo para contabilizar las hectáreas quemadas y los daños sufridos, sino también para restaurar los bosques y ayudar a las personas afectadas a reconstruir sus vidas."
 
