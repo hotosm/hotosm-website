@@ -21,7 +21,7 @@ Según Jones et al. (2022), los [incendios forestales](https://es.wikipedia.org/
 Aunque la respuesta a esta emergencia varía en cada país y la sociedad civil reacciona de diferentes maneras, desde la cartografía abierta y participativa han surgido diversas iniciativas para contribuir en la lucha contra esta situación.
 
 ![mapatonymbol.jpg](/uploads/mapatonymbol.jpg)
-<p>*Imagen de la cuenta [youthmappersumsa.bo](https://www.instagram.com/p/C_zmLBOOQls/?img_index=1)*</p>
+*Imagen de la cuenta [youthmappersumsa.bo](https://www.instagram.com/p/C_zmLBOOQls/?img_index=1)*
 
 La comunidad YouthMappers de la Universidad Mayor de San Andrés (UMSA-Bolivia) organizó un Mapatón por los Incendios Forestales el pasado 31 de agosto. En su Instagram comentan: "La región oriental de Bolivia, en particular San Matías y San Ramón, ha sido gravemente afectada por incendios forestales desde hace aproximadamente un mes. Estos incendios no solo impactan a la población local, sino también a la flora y fauna del departamento de Santa Cruz, donde aún persisten varios focos de calor".
 
@@ -54,7 +54,7 @@ Además, les animamos a utilizar el [Export Tool de OpenStreetMap](https://expor
 
 **Otros recursos:**
 
-* [Windy](https://www.windy.com/es/-Men%C3%BA/menu?cosc,-14.179,-56.953,3): Para monitorear la calidad del aire
-* [IQAir](https://www.iqair.com/world-air-quality): También monitorea la calidad del aire
-* [Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z): Para monitorear focos de calor
-* [EO browser](https://apps.sentinel-hub.com/eo-browser): Para comparar imágenes satelitales como apoyo
+[Windy](https://www.windy.com/es/-Men%C3%BA/menu?cosc,-14.179,-56.953,3): Para monitorear la calidad del aire
+[IQAir](https://www.iqair.com/world-air-quality): También monitorea la calidad del aire
+[Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z): Para monitorear focos de calor
+[EO browser](https://apps.sentinel-hub.com/eo-browser): Para comparar imágenes satelitales como apoyo
