@@ -34,7 +34,7 @@ En Perú, los incendios han afectado en regiones amazónicas como Tarapoto, Amaz
 
 Aprovechando su estancia, y la disposición de la comunidad de Santa Clara y de organizaciones de la sociedad civil locales, están organizando un taller de [Registro de tierras quemadas en incendios forestales](https://osm.org.pe/2024/09/23/taller-registro-de-tierras-quemadas-en-incendios-forestales/), para la recolección de fotografías con drones (ortofotos) de las áreas quemadas durante los incendios. Posteriormente se realizará un **taller en Gestión de riesgos en incendios forestales**, con la participación de la Universidad Nacional Intercultural de la Amazonía, posibilitando que los materiales a producir estén también en algunas lenguas amazónicas como el shipibo.
 
-![Screenshot 2024-09-19 at 18.52.47.png](/uploads/Screenshot%202024-09-19%20at%2018.52.47.png) ![Screenshot 2024-09-19 at 18.54.42.png](/uploads/Screenshot%202024-09-19%20at%2018.54.42.png) ![Screenshot 2024-09-19 at 18.55.38.png](/uploads/Screenshot%202024-09-19%20at%2018.55.38.png)
+![antesdurantedespues.jpg](/uploads/antesdurantedespues.jpg)
 
 Nuestro colega Emilio Mariscal, desarrollador de software para HOT y bombero voluntario, señala: "Los mapas abiertos son fundamentales antes, durante y después de los incendios forestales. Nos apoyan desde el trabajo preventivo, facilitando la acción coordinada durante el incendio, hasta la evaluación post-fuego. Nos permiten evaluar los riesgos, ubicar nuestra posición en relación con el fuego y planificar estrategias, no solo para contabilizar las hectáreas quemadas y los daños sufridos, sino también para restaurar los bosques y ayudar a las personas afectadas a reconstruir sus vidas."
 
