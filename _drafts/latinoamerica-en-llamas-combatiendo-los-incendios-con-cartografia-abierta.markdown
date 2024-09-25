@@ -7,6 +7,7 @@ tags:
 - incendios
 - forestales
 - mapeo
+Feature Image: "/uploads/iqair.jpg"
 ---
 
 La temporada de incendios forestales de este año en Sudamérica está batiendo [peligrosos récords](https://www.opendemocracy.net/es/arden-bosques-america-latina/) en cuanto a su amplitud e intensidad. Los principales países afectados son [Bolivia](https://www.dw.com/es/bolivia-en-emergencia-nacional-por-los-incendios-forestales/a-70163283), [Brasil](https://agenciabrasil.ebc.com.br/es/geral/noticia/2024-09/brasil-concentra-el-76-de-los-incendios-forestales-en-sudamerica), [Colombia](https://forbes.co/2024/09/17/sostenibilidad/el-fuego-arrasa-mas-de-12-000-hectareas-de-bosques-en-colombia-que-lidia-con-20-incendios), [Ecuador](https://www.primicias.ec/sociedad/incendios-forestales-ecuador-balance-hectareas-78858/), [Paraguay](https://www.abc.com.py/nacionales/2024/09/19/incendios-forestales-danos-de-nuevo-incendio-y-el-de-las-semanas-pasadas-supera-las-200-mil-hectareas/), [Perú](https://larepublica.pe/sociedad/2024/09/18/incendios-forestales-en-amazonas-peru-2024-hoy-ultimas-noticias-causas-consecuencias-mapa-zonas-afectadas-como-ayudar-y-todo-sobre-la-crisis-que-vive-la-amazonia-peruana-1419030) y [Venezuela](https://noticialdia.com/al-dia/venezuela-es-el-tercer-pais-de-suramerica-donde-mas-se-han-producido-incendios-forestales-en-lo-que-va-de-2024/). Incluso países alejados de la zona crítica como [Uruguay](https://www.elobservador.com.uy/nacional/el-humo-los-incendios-del-amazonas-uruguay-meteorologos-explican-cuando-estara-la-region-n5960531) se han visto afectados por el humo producido por los incendios.
@@ -44,4 +45,4 @@ Además, les animamos a utilizar el [Export Tool de OpenStreetMap](https://expor
 [Windy](https://www.windy.com/es/-Men%C3%BA/menu?cosc,-14.179,-56.953,3): Para monitorear la calidad del aire
 [IQAir](https://www.iqair.com/world-air-quality): También monitorea la calidad del aire
 [Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z): Para monitorear focos de calor
-[EO browser](https://apps.sentinel-hub.com/eo-browser): Para comparar imágenes satelitales como apoyo\
+[EO browser](https://apps.sentinel-hub.com/eo-browser): Para comparar imágenes satelitales como apoyo\\
