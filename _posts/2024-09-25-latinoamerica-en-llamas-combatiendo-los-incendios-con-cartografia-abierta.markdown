@@ -31,12 +31,13 @@ Otro importante esfuerzo en Bolivia, es liderado por el mapeador [Juan Jose Igle
 
 <iframe width="600" height="400" src="https://www.youtube.com/embed/X1uhatf7HRw?si=YV0OOiqrjBFbiAZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-En Perú, los incendios han afectado en regiones amazónicas como Tarapoto, Amazonas y Ucayali. Precisamente en esta última se encuentra Jonathan Rupire, líder de la comunidad OpenStreetMap (OSM) peruana. Él comenta que los incendios en la zona colindante con la laguna Yarinacocha han significado pérdidas de buena parte de las áreas de cultivo (yuca y plátano principalmente) de las comunidades ahí asentadas, además de pérdidas de áreas de reforestación.
+En Perú, los incendios han afectado regiones amazónicas como Tarapoto, Amazonas y Ucayali. Precisamente en esta última se encuentra Jonathan Rupire, líder de la comunidad OpenStreetMap (OSM) peruana. Él comenta que los incendios en la zona colindante con la laguna Yarinacocha han significado pérdidas de buena parte de las áreas de cultivo (yuca y plátano principalmente) de las comunidades ahí asentadas, además de pérdidas de áreas de reforestación.
 
 Aprovechando su estancia, y la disposición de la comunidad de Santa Clara y de organizaciones de la sociedad civil locales, están organizando un taller de [Registro de tierras quemadas en incendios forestales](https://osm.org.pe/2024/09/23/taller-registro-de-tierras-quemadas-en-incendios-forestales/), para la recolección de fotografías con drones (ortofotos) de las áreas quemadas durante los incendios. Posteriormente se realizará un **taller en Gestión de riesgos en incendios forestales**, con la participación de la Universidad Nacional Intercultural de la Amazonía, posibilitando que los materiales a producir estén también en algunas lenguas amazónicas como el shipibo.
 
+*Qué datos recolectar al enfrentar un incendio*
 ![antesdurantedespues.jpg](/uploads/antesdurantedespues.jpg)
-*Qué datos recolectar al enfrentar un incendio. Emilio Mariscal.*
+*Emilio Mariscal.*
 
 Nuestro colega Emilio Mariscal, desarrollador de software para HOT y bombero voluntario, señala: "Los mapas abiertos son fundamentales antes, durante y después de los incendios forestales. Nos apoyan desde el trabajo preventivo, facilitando la acción coordinada durante el incendio, hasta la evaluación post-fuego. Nos permiten evaluar los riesgos, ubicar nuestra posición en relación con el fuego y planificar estrategias, no solo para contabilizar las hectáreas quemadas y los daños sufridos, sino también para restaurar los bosques y ayudar a las personas afectadas a reconstruir sus vidas".
 
