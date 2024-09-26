@@ -1,6 +1,17 @@
 ---
 title: 'South America in Flames: Fighting Fires with Open Mapping'
 date: 2024-09-25 18:35:00 Z
+categories:
+- latam
+tags:
+- fires
+- mapping
+- forest
+- amazon
+Summary Text: Wildfires in South America are consuming thousands of hectares of crops
+  and forests in conservation areas in countries such as Bolivia, Peru, Ecuador and
+  others. Let's learn about the relief efforts emerging from open mapping communities.
+Feature Image: "/uploads/iqair.jpg"
 ---
 
 This year's wildfire season in South America is breaking [dangerous records](https://www.reuters.com/world/americas/continent-ablaze-south-america-surpasses-record-fires-2024-09-12/) in terms of its extent and intensity. The main countries affected are [Bolivia](https://reliefweb.int/disaster/wf-2024-000134-bol), [Brazil](https://agenciabrasil.ebc.com.br/en/geral/noticia/2024-09/brazil-fires-impact-1139-mi-hectares-year), [Colombia](https://www.france24.com/en/live-news/20240922-colombia-battles-fires-as-drought-fuels-latin-american-flames), [Ecuador](https://crisis24.garda.com/alerts/2024/09/ecuador-authorities-responding-to-forest-fires-in-quito-area-as-of-late-sept-24), [Paraguay](https://en.mercopress.com/2024/09/10/virtual-schooling-adopted-in-paraguayan-areas-hit-by-wildfires), [Perú](https://www.reuters.com/world/americas/fires-burn-out-control-peru-hitting-crops-archaeological-sites-2024-09-20/) and [Venezuela](https://crisis24.garda.com/alerts/2024/09/venezuela-emergency-crews-responding-to-large-fire-in-southern-caracas-sept-6). Even countries far from the critical zone, like [Uruguay](https://www.livescience.com/planet-earth/climate-change/record-breaking-fires-engulf-south-america-bringing-black-rain-green-rivers-and-toxic-air-to-the-continent) have been impacted by smoke from the fires.
@@ -36,17 +47,18 @@ A clear example of this is the map created by La Granja Firefighters during the 
 
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/incendio-la-pampa-san-jorge_808390?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/incendio-la-pampa-san-jorge_808390?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
 
-La anticipación es clave para gestionar eficazmente cualquier crisis o desafío. Contar con cartografía actualizada no solo permite una mejor visualización del territorio, sino que también fortalece la toma de decisiones en situaciones críticas.
+Anticipation is key to effectively managing any crisis or challenge. Having updated maps not only allows for better visualization of the territory but also strengthens decision-making in critical situations.
 
-Por este motivo, queremos invitarles a explorar las herramientas de cartografía abierta disponibles, como los Mapatones Nacionales, organizados anualmente en colaboración con la Agencia Espacial y AmeriGEO. Estas actividades no solo fomentan la participación de la comunidad, sino que también generan datos valiosos para la gestión humanitaria y el desarrollo. 
+For this reason, we invite you to explore the available open mapping tools, such as the National Mapathons, organized annually in collaboration with the Space Agency and AmeriGEO. These activities not only encourage community participation but also generate valuable data for humanitarian management and development.
 
-La recurrencia anual de los incendios forestales requiere labores de prevención y capacitación de las que pocas organizaciones se están encargando. Animamos tanto a líderes y organizaciones comunitarias como a organizaciones de la sociedad civil a dedicar esfuerzos y recursos a este tema, al cual nosotros estamos dispuestos a apoyar desde la cartografía abierta.
+The annual recurrence of wildfires requires prevention efforts and training, which few organizations are addressing. We encourage both community leaders and civil society organizations to dedicate efforts and resources to this issue, which we are ready to support through open mapping. 
 
-Además, les animamos a utilizar el [Export Tool de OpenStreetMap](https://export.hotosm.org/v3/), una herramienta sencilla que permite descargar datos geoespaciales actualizados para su uso en sus planes y gestiones. Aquí podrán encontrar una[ breve guía de uso](https://export.hotosm.org/v3/learn/quick_start), para que puedan implementar esta información en sus actividades de planeación y respuesta.
+Furthermore, we encourage you to use the [OpenStreetMap Export Tool](https://export.hotosm.org/v3/), a simple tool that allows you to download updated geospatial data for use in your planning and management efforts. Here you will find a  
+[brief usage guide](https://export.hotosm.org/v3/learn/quick_start), so that you can implement this information in your planning and response activities.
 
-**Otros recursos:**
+**Other Resources:**
 
-* [Windy](https://www.windy.com/es/-Men%C3%BA/menu?cosc,-14.179,-56.953,3): Para monitorear la calidad del aire
-* [IQAir](https://www.iqair.com/world-air-quality): También monitorea la calidad del aire
-* [Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z): Para monitorear focos de calor
-* [EO browser](https://apps.sentinel-hub.com/eo-browser): Para comparar imágenes satelitales como apoyo
+* [Windy](https://www.windy.com/es/-Men%C3%BA/menu?cosc,-14.179,-56.953,3): To monitor air quality
+* [IQAir](https://www.iqair.com/world-air-quality): Also monitors air quality
+* [Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z): To monitor hotspots
+* [EO browser](https://apps.sentinel-hub.com/eo-browser): To compare satellite images as support
