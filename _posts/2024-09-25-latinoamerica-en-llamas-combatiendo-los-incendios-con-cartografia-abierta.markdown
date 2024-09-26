@@ -53,7 +53,7 @@ Por este motivo, queremos invitarles a explorar las herramientas de cartografía
 
 La recurrencia anual de los incendios forestales requiere labores de prevención y capacitación de las que pocas organizaciones se están encargando. Animamos tanto a líderes y organizaciones comunitarias como a organizaciones de la sociedad civil a dedicar esfuerzos y recursos a este tema, al cual nosotros estamos dispuestos a apoyar desde la cartografía abierta.
 
-Además, les animamos a utilizar el [Export Tool de OpenStreetMap](https://export.hotosm.org/v3/), una herramienta sencilla que permite descargar datos geoespaciales actualizados para su uso en sus planes y gestiones. Aquí podrán encontrar una[ breve guía de uso](https://export.hotosm.org/v3/learn/quick_start), para que puedan implementar esta información en sus actividades de planeación y respuesta.
+Además, les animamos a utilizar el [Export Tool de OpenStreetMap](https://export.hotosm.org/v3/), una herramienta sencilla que permite descargar datos geoespaciales actualizados para su uso en sus planes y gestiones. Aquí podrán encontrar una [breve guía de uso](https://export.hotosm.org/v3/learn/quick_start), para que puedan implementar esta información en sus actividades de planeación y respuesta.
 
 **Otros recursos:**
 
