@@ -7,7 +7,7 @@ Summary Text: HOT and Sonje Ayiti Organisation are enhancing Haitian communities
   mapping skills, enabling them to contribute to disaster management and development
   efforts. Through this initiative, a new generation of mappers is being cultivated,
   enhancing community resilience amid Haiti’s socio-political challenges.
-Feature Image: "/uploads/HAITI%20OSM%20(1).jpg"
+Feature Image: "/uploads/Sonje%20Ayiti%20Organization%20Open%20Mapping%20Haiti%20HOT%202.jpg"
 Person: Wendy Delva
 ---
 
