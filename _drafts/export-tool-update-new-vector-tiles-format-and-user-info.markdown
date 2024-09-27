@@ -41,7 +41,7 @@ Despite introducing metrics like “average age of data” and “last edit”, 
 And although there are other ways of extracting metadata from OSM, these tend to be more limiting and difficult for those who are not familiar with OSM. Having the data readily available will prompt more people to look into it. However, this does not include the whole history of a feature, but rather its last changeset.
 
 *What data to collect when facing a fire*
-![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](/uploads/WhatsApp%20Image%202024-09-25%20at%2011.40.24%20PM.jpeg)
+![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](https://cdn.hotosm.org/website/HEIGIT+2.png)
 *Emilio Mariscal.*
 
 
