@@ -9,7 +9,7 @@ Summary Text: 'For over 15 years, the Humanitarian OpenStreetMap Team (HOT) has 
 Feature Image: "/uploads/PreparingDrone.jpg"
 ---
 
-> The [OpenStreetMap Export Tool](https://export.hotosm.org/v3/), is a simple tool that allows you to download updated geospatial data for use in your planning and management efforts. Here you will find a [brief usage guide](https://export.hotosm.org/v3/learn/quick_start), so that you can implement this information in your planning and response activities.
+> The [OpenStreetMap Export Tool](https://export.hotosm.org/v3/), is a simple tool that allows you to download updated geospatial data for use in your planning and management efforts. Here you will find a [brief usage guide](https://export.hotosm.org/v3/learn/quick_start).
 
 <br>
 
@@ -20,7 +20,7 @@ Feature Image: "/uploads/PreparingDrone.jpg"
 **1-** **New formats and their uses: PMTiles and MVT**
 
 ![mapatonymbol.jpg](/uploads/mbtiles-pmtiles-export-tool.png)
-*Image from the Instagram account [youthmappersumsa.bo](https://www.instagram.com/p/C_zmLBOOQls/?img_index=1)*
+*Image depicting the checkboxes that need to be selected for the two new formats on the [OpenStreetMap Export Tool](https://export.hotosm.org/v3/)*
 
 <br>
 
@@ -34,6 +34,7 @@ One of the tile format’s unique advantages is that they are optimized for web-
 * **PMTiles.** Because it is a single-file archive format for pyramids of map tiles that allows for efficient storage and retrieval of map data, this option is worth exploring for those looking to work with large amounts of static data or offline applications. **In the humanitarian context**, the ability to set up an application that bundles a single file that allows offline use is of very high value, as part of the work can happen in rural areas or those hit by disasters. 
 
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/pmtiles-leaflet/"></iframe><p>
+	
 *Example of an interactive map using PMTiles from Export Tool to render buildings and destroyed buildings from OSM. These buildings were mapped as part of a the Turkey Syria Earthquake campaign in 2024 to identify affected buildings.*
 ⠀
 * **Mapbox Vector Tiles (MVT).** This format is optimized for efficient rendering but focuses more on dynamic styling and interactivity, making it ideal for applications that require data visualization. Its compatibility with popular mapping libraries like MapLibre (or Mapbox GL) further enhances its versatility for developers creating mapping applications. **In the humanitarian context**, this format could serve as the backbone for an application tracking damaged infrastructure from natural hazards, enabling data visualization, efficient rendering, and dynamic styling (for instance displaying damaged structures in different colors).
