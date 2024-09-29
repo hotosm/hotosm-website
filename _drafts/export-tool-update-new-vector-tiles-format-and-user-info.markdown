@@ -34,7 +34,7 @@ One of the tile format’s unique advantages is that they are optimized for web-
 * **PMTiles.** Because it is a single-file archive format for pyramids of map tiles that allows for efficient storage and retrieval of map data, this option is worth exploring for those looking to work with large amounts of static data or offline applications. **In the humanitarian context**, the ability to set up an application that bundles a single file that allows offline use is of very high value, as part of the work can happen in rural areas or those hit by disasters. 
 
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/pmtiles-leaflet/"></iframe><p>
-	
+
 *Example of an interactive map using PMTiles from Export Tool to render buildings and destroyed buildings from OSM. These buildings were mapped as part of a the Turkey Syria Earthquake campaign in 2024 to identify affected buildings.*
 ⠀
 * **Mapbox Vector Tiles (MVT).** This format is optimized for efficient rendering but focuses more on dynamic styling and interactivity, making it ideal for applications that require data visualization. Its compatibility with popular mapping libraries like MapLibre (or Mapbox GL) further enhances its versatility for developers creating mapping applications. **In the humanitarian context**, this format could serve as the backbone for an application tracking damaged infrastructure from natural hazards, enabling data visualization, efficient rendering, and dynamic styling (for instance displaying damaged structures in different colors).
@@ -46,7 +46,7 @@ One of the tile format’s unique advantages is that they are optimized for web-
 
 
 ![mapatonymbol.jpg](/uploads/user-info-export-tool.png)
-*Image from the Instagram account [youthmappersumsa.bo](https://www.instagram.com/p/C_zmLBOOQls/?img_index=1)*
+*Image of the [Export Tool](https://export.hotosm.org/v3/) showing how the checkbox to include user info and timestamps on your export.*
 
 <br>
 Directed by user feedback, we have incorporated more metadata and metrics into our exports as part of our data transparency efforts.Our aim is to help users go beyond simply using the data by enabling them to better understand its context (metadata) and limitations (metrics). These insights can help them choose the right methodologies for their analysis, leading to more transparent outcomes. Following the trend of our [past post announcing metrics](https://www.hotosm.org/updates/hot-export-tool-try-out-the-new-features/), this time we bring two new features: 
@@ -63,7 +63,7 @@ Despite introducing metrics like “average age of data” and “last edit”, 
 And although there are other ways of extracting metadata from OSM, these tend to be more limiting and difficult for those who are not familiar with OSM. Having the data readily available will prompt more people to look into it. However, this does not include the whole history of a feature, but rather its last changeset.
 
 ![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](https://cdn.hotosm.org/website/HEIGIT+2.png)
-*Emilio Mariscal.*
+*Graph showing “summer-lows” in mapping activity from the [Benjamin Herfort Blogpost](https://www.hotosm.org/updates/hot-merl-is-monitoring-osm-and-tasking-manager-projects/) on tracking Tasking Manager Usage*
 
 
 <br>
@@ -82,7 +82,7 @@ The osm user metadata provides valuable context about who contributed to the map
 *What data to collect when facing a fire*
 
 ![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](/uploads/Surabaya-GIFrecord-Sept%2022.gif)
-*Emilio Mariscal.*
+*Interactive showing the mapping pace and location over a period in time for a campaing ins Surabaya in 2016 by HOTOSM Indonesia*
 
 <br>
 
