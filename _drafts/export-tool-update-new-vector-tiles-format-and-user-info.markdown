@@ -1,6 +1,10 @@
 ---
 title: 'Export Tool Update: New vector tiles format and User Info'
 date: 2024-09-26 22:41:00 Z
+categories:
+- tech
+tags:
+- Tech
 Summary Text: 'For over 15 years, the Humanitarian OpenStreetMap Team (HOT) has been
   helping users access OpenStreetMap (OSM) data through the Export Tool, an easy interface
   that allows downloads in popular spatial data formats. This week we introduce two
