@@ -33,7 +33,6 @@ One of the tile format’s unique advantages is that they are optimized for web-
 
 **2-** **New Features: Metainfo**
 
-<br>
 
 ![mapatonymbol.jpg](/uploads/user-info-export-tool.png)
 *Image from the Instagram account [youthmappersumsa.bo](https://www.instagram.com/p/C_zmLBOOQls/?img_index=1)*
@@ -51,21 +50,26 @@ Directed by user feedback, we have incorporated more metadata and metrics into o
 Despite introducing metrics like “average age of data” and “last edit”, users gave us feedback that they wanted more personalized insights into how the data was being created by OSM contributors–metrics of the type that the now unmaintained ~[OSM Analytics](https://osm-analytics.org/)~ was producing. Having timestamps allows you, for instance, to look at mapping on a given area and look for day or time trends; you can make visualizations that show change over time; you could analyze the frequency of edits in specific regions to identify areas where data was created very fast or slow, which might mean quality issues due to carelessness or difficulty. 
 And although there are other ways of extracting metadata from OSM, these tend to be more limiting and difficult for those who are not familiar with OSM. Having the data readily available will prompt more people to look into it. However, this does not include the whole history of a feature, but rather its last changeset.
 
-*What data to collect when facing a fire*
 ![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](https://cdn.hotosm.org/website/HEIGIT+2.png)
 *Emilio Mariscal.*
 
 
-~Data format:~
+<br>
+
+* **User Info format:** 
+ 
 > **"Osm_user": "String"**
+
+<br>
 
 The osm user metadata provides valuable context about who contributed to the mapping data. This information can be leveraged to analyze contributor activity and engagement levels within specific areas. By tracking user contributions, you can identify active mappers and assess their impact on data quality and completeness. For instance, visualizations could highlight regions with high contributions from specific users, allowing for targeted outreach or support to enhance mapping efforts. There are some caveats too: while user information is readily accessible, it is essential to note that it reflects only the most recent contributor and does not provide a comprehensive history of all edits made to a feature. Also, it is important to note that given the sensitive nature of this information it will only be provided once a user is logged in to the Export Tool and agrees to our data use and protection disclaimer.
 
-
 *What data to collect when facing a fire*
+
 ![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](/uploads/Surabaya-GIFrecord-Sept%2022.gif)
 *Emilio Mariscal.*
 
+<br>
 
 **Conclusion** 
 
@@ -74,8 +78,7 @@ The introduction of two new vector tile formats, PMTiles and MVT, marks a signif
 As always, we would love to hear from you and what you think of these new developments! We would also welcome contributions from people to improve the Export Tool documentation ~[here](https://github.com/hotosm/osm-export-tool/tree/master/ui/app/components/help)~. Join the #export-tool ~[Slack channel](http://slack.hotosm.org/)~ or get in touch with ~[Kshitij](mailto:kshitij.sharma@hotosm.org)~ / ~[Data team](http://hotosm/)~ if you have any questions or want to send a note of appreciation!
 
 
-Furthermore, we encourage you to use the [OpenStreetMap Export Tool](https://export.hotosm.org/v3/), a simple tool that allows you to download updated geospatial data for use in your planning and management efforts. Here you will find a  
-[brief usage guide](https://export.hotosm.org/v3/learn/quick_start), so that you can implement this information in your planning and response activities.
+Furthermore, we encourage you to use the [OpenStreetMap Export Tool](https://export.hotosm.org/v3/), a simple tool that allows you to download updated geospatial data for use in your planning and management efforts. Here you will find a [brief usage guide](https://export.hotosm.org/v3/learn/quick_start), so that you can implement this information in your planning and response activities.
 
 **Other Resources:**
 
