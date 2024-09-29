@@ -10,7 +10,7 @@ Feature Image: "/uploads/PreparingDrone.jpg"
 ---
 
  As time passes, the preference of map data users towards new or different formats changes. Based on our analysis of trends and potential users, HOT has been changing and improving its offering consistently. For instance, on the last iteration of the Export Tool 6 months ago, [HOT introduced three new formats (FlatGeobuf, CSV, and SQL)](https://www.hotosm.org/updates/hot-export-tool-try-out-the-new-features/), as well as metrics and performance improvements. This week, we introduced two new formats (MVT and PMTiles) and the possibility of exporting or including metadata elements like timestamp and user information. Let's take a look at 
-
+<br>
 **1-** **New formats and their uses: PMTiles and MVT**
 
 ![mapatonymbol.jpg](/uploads/mbtiles-pmtiles-export-tool.png)
@@ -25,8 +25,7 @@ One of the tile format’s unique advantages is that they are optimized for web-
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/pmtiles-leaflet/"></iframe><p><a href=https://claurt07.github.io/pmtiles-leaflet/">See full screen</a></p>
 ⠀
 * **Mapbox Vector Tiles (MVT).** This format is optimized for efficient rendering but focuses more on dynamic styling and interactivity, making it ideal for applications that require data visualization. Its compatibility with popular mapping libraries like MapLibre (or Mapbox GL) further enhances its versatility for developers creating mapping applications. **In the humanitarian context**, this format could serve as the backbone for an application tracking damaged infrastructure from natural hazards, enabling data visualization, efficient rendering, and dynamic styling (for instance displaying damaged structures in different colors).
-
-
+<br>
 **2-** **New Features: Metainfo**
 
 ![mapatonymbol.jpg](/uploads/user-info-export-tool.png)
@@ -35,8 +34,8 @@ One of the tile format’s unique advantages is that they are optimized for web-
 Directed by user feedback, we have incorporated more metadata and metrics into our exports as part of our data transparency efforts.Our aim is to help users go beyond simply using the data by enabling them to better understand its context (metadata) and limitations (metrics). These insights can help them choose the right methodologies for their analysis, leading to more transparent outcomes. Following the trend of our [past post announcing metrics](https://www.hotosm.org/updates/hot-export-tool-try-out-the-new-features/), this time we bring two new features: 
 
 * **Version and changeset, timestamp:** 
- ~Data format:~
-> ***"osm_version": "integer",  "osm_changeset": "integer",  "osm_timestamp": "Date (ISO 8601 format)"***
+ Data format:
+> ***"osm_version": "integer",<br>  "osm_changeset": "integer",<br>  "osm_timestamp": "Date (ISO 8601 format)"***
 
 Despite introducing metrics like “average age of data” and “last edit”, users gave us feedback that they wanted more personalized insights into how the data was being created by OSM contributors–metrics of the type that the now unmaintained ~[OSM Analytics](https://osm-analytics.org/)~ was producing. Having timestamps allows you, for instance, to look at mapping on a given area and look for day or time trends; you can make visualizations that show change over time; you could analyze the frequency of edits in specific regions to identify areas where data was created very fast or slow, which might mean quality issues due to carelessness or difficulty. 
 And although there are other ways of extracting metadata from OSM, these tend to be more limiting and difficult for those who are not familiar with OSM. Having the data readily available will prompt more people to look into it. However, this does not include the whole history of a feature, but rather its last changeset.
