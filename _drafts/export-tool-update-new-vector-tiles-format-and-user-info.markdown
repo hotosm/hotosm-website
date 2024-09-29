@@ -33,7 +33,7 @@ One of the tile format’s unique advantages is that they are optimized for web-
 <br>
 * **PMTiles.** Because it is a single-file archive format for pyramids of map tiles that allows for efficient storage and retrieval of map data, this option is worth exploring for those looking to work with large amounts of static data or offline applications. **In the humanitarian context**, the ability to set up an application that bundles a single file that allows offline use is of very high value, as part of the work can happen in rural areas or those hit by disasters. 
 
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/pmtiles-leaflet/"></iframe><p>
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/pmtiles-leaflet/"></iframe>
 
 *Example of an interactive map using PMTiles from Export Tool to render buildings and destroyed buildings from OSM. These buildings were mapped as part of a the Turkey Syria Earthquake campaign in 2024 to identify affected buildings.*
 ⠀
