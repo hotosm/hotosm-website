@@ -9,6 +9,10 @@ Summary Text: 'For over 15 years, the Humanitarian OpenStreetMap Team (HOT) has 
 Feature Image: "/uploads/PreparingDrone.jpg"
 ---
 
+> The [OpenStreetMap Export Tool](https://export.hotosm.org/v3/), is a simple tool that allows you to download updated geospatial data for use in your planning and management efforts. Here you will find a [brief usage guide](https://export.hotosm.org/v3/learn/quick_start), so that you can implement this information in your planning and response activities.
+
+<br>
+
  As time passes, the preference of map data users towards new or different formats changes. Based on our analysis of trends and potential users, HOT has been changing and improving its offering consistently. For instance, on the last iteration of the Export Tool 6 months ago, [HOT introduced three new formats (FlatGeobuf, CSV, and SQL)](https://www.hotosm.org/updates/hot-export-tool-try-out-the-new-features/), as well as metrics and performance improvements. This week, we introduced two new formats (MVT and PMTiles) and the possibility of exporting or including metadata elements like timestamp and user information. Let's take a look at 
 
 <br>
@@ -29,7 +33,8 @@ One of the tile format’s unique advantages is that they are optimized for web-
 <br>
 * **PMTiles.** Because it is a single-file archive format for pyramids of map tiles that allows for efficient storage and retrieval of map data, this option is worth exploring for those looking to work with large amounts of static data or offline applications. **In the humanitarian context**, the ability to set up an application that bundles a single file that allows offline use is of very high value, as part of the work can happen in rural areas or those hit by disasters. 
 
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/pmtiles-leaflet/"></iframe><p><a href=https://claurt07.github.io/pmtiles-leaflet/">See full screen</a></p>
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/pmtiles-leaflet/"></iframe><p>
+*Example of an interactive map using PMTiles from Export Tool to render buildings and destroyed buildings from OSM. These buildings were mapped as part of a the Turkey Syria Earthquake campaign in 2024 to identify affected buildings.*
 ⠀
 * **Mapbox Vector Tiles (MVT).** This format is optimized for efficient rendering but focuses more on dynamic styling and interactivity, making it ideal for applications that require data visualization. Its compatibility with popular mapping libraries like MapLibre (or Mapbox GL) further enhances its versatility for developers creating mapping applications. **In the humanitarian context**, this format could serve as the backbone for an application tracking damaged infrastructure from natural hazards, enabling data visualization, efficient rendering, and dynamic styling (for instance displaying damaged structures in different colors).
 
@@ -84,14 +89,15 @@ The osm user metadata provides valuable context about who contributed to the map
 
 The introduction of two new vector tile formats, PMTiles and MVT, marks a significant advancement in HOT's commitment to enhancing spatial data visualization and application development. These updates allow users to customize vector tiles by selecting specific features—such as roads, buildings, or land use types—and attributes for export. These elements can then be rendered and styled dynamically, giving users greater control over how the tiles are displayed in their applications, maps, and visualizations.. Additionally, improved metadata features, such as timestamps and user information, provide deeper insights into the data, fostering a better understanding of mapping trends and contributor activity.
 
-As always, we would love to hear from you and what you think of these new developments! We would also welcome contributions from people to improve the Export Tool documentation ~[here](https://github.com/hotosm/osm-export-tool/tree/master/ui/app/components/help)~. Join the #export-tool ~[Slack channel](http://slack.hotosm.org/)~ or get in touch with ~[Kshitij](mailto:kshitij.sharma@hotosm.org)~ / ~[Data team](http://hotosm/)~ if you have any questions or want to send a note of appreciation!
+As always, we would love to hear from you and what you think of these new developments! We would also welcome contributions from people to improve the Export Tool documentation ~[here](https://github.com/hotosm/osm-export-tool/tree/master/ui/app/components/help)~. Join the #export-tool [Slack channel](http://slack.hotosm.org/) or get in touch with [Kshitij](mailto:kshitij.sharma@hotosm.org) / [Data team](http://hotosm/) if you have any questions or want to send a note of appreciation!
 
-
-Furthermore, we encourage you to use the [OpenStreetMap Export Tool](https://export.hotosm.org/v3/), a simple tool that allows you to download updated geospatial data for use in your planning and management efforts. Here you will find a [brief usage guide](https://export.hotosm.org/v3/learn/quick_start), so that you can implement this information in your planning and response activities.
 
 **Other Resources:**
 
-* [Windy](https://www.windy.com/es/-Men%C3%BA/menu?cosc,-14.179,-56.953,3): To monitor air quality
-* [IQAir](https://www.iqair.com/world-air-quality): Also monitors air quality
-* [Firms](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;@0.0,0.0,3.0z): To monitor hotspots
-* [EO browser](https://apps.sentinel-hub.com/eo-browser): To compare satellite images as support
+* [Protomaps](https://github.com/protomaps): "An interactive, customizable and open source map of the world, delivered as a single file hosted on cloud storage."
+* [Protomaps Docs](https://docs.protomaps.com/): "Protomaps is an open source system for interactive web maps, like this one:"
+* [PMTiles Viewer](https://pmtiles.io/): "Inspect and preview PMTiles local or remote PMTiles archives."
+* [protomaps-leaflet](https://github.com/protomaps/protomaps-leaflet/tree/main): "Complete vector tile renderer"
+* [HOT Toolbox](https://toolbox.hotosm.org/pages/2_field_mapping_prep/2_7_creating_mbtiles_for_odk_collect/): Creating MBTiles for ODK Collect (raster)
+
+
