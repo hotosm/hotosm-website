@@ -35,6 +35,8 @@ One of the tile format’s unique advantages is that they are optimized for web-
 
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/pmtiles-leaflet/"></iframe>
 
+<br>
+
 *Example of an interactive map using PMTiles from Export Tool to render buildings and destroyed buildings from OSM. These buildings were mapped as part of a the Turkey Syria Earthquake campaign in 2024 to identify affected buildings.*
 ⠀
 * **Mapbox Vector Tiles (MVT).** This format is optimized for efficient rendering but focuses more on dynamic styling and interactivity, making it ideal for applications that require data visualization. Its compatibility with popular mapping libraries like MapLibre (or Mapbox GL) further enhances its versatility for developers creating mapping applications. **In the humanitarian context**, this format could serve as the backbone for an application tracking damaged infrastructure from natural hazards, enabling data visualization, efficient rendering, and dynamic styling (for instance displaying damaged structures in different colors).
@@ -90,7 +92,7 @@ The osm user metadata provides valuable context about who contributed to the map
 
 The introduction of two new vector tile formats, PMTiles and MVT, marks a significant advancement in HOT's commitment to enhancing spatial data visualization and application development. These updates allow users to customize vector tiles by selecting specific features—such as roads, buildings, or land use types—and attributes for export. These elements can then be rendered and styled dynamically, giving users greater control over how the tiles are displayed in their applications, maps, and visualizations.. Additionally, improved metadata features, such as timestamps and user information, provide deeper insights into the data, fostering a better understanding of mapping trends and contributor activity.
 
-As always, we would love to hear from you and what you think of these new developments! We would also welcome contributions from people to improve the Export Tool documentation ~[here](https://github.com/hotosm/osm-export-tool/tree/master/ui/app/components/help)~. Join the #export-tool [Slack channel](http://slack.hotosm.org/) or get in touch with [Kshitij](mailto:kshitij.sharma@hotosm.org) / [Data team](http://hotosm/) if you have any questions or want to send a note of appreciation!
+As always, we would love to hear from you and what you think of these new developments! We would also welcome contributions from people to improve the Export Tool documentation [here](https://github.com/hotosm/osm-export-tool/tree/master/ui/app/components/help). Join the #export-tool [Slack channel](http://slack.hotosm.org/) or get in touch with [Kshitij](mailto:kshitij.sharma@hotosm.org) / [Data team](http://hotosm/) if you have any questions or want to send a note of appreciation!
 
 
 **Other Resources:**
