@@ -10,7 +10,7 @@ Summary Text: 'For over 15 years, the Humanitarian OpenStreetMap Team (HOT) has 
   that allows downloads in popular spatial data formats. This week we introduce two
   new ones: PMTiles and Mapbox Vector Tiles (MVT) and the ability to get User Info
   + Timestamps. '
-Feature Image: "/uploads/PreparingDrone.jpg"
+Feature Image: "/uploads/pmtiles-viewer-example.png"
 ---
 
 > The [OpenStreetMap Export Tool](https://export.hotosm.org/v3/), is a simple tool that allows you to download updated geospatial data for use in your planning and management efforts. Here you will find a [brief usage guide](https://export.hotosm.org/v3/learn/quick_start).
