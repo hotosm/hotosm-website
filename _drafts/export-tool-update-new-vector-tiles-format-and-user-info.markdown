@@ -20,7 +20,7 @@ Person:
 
 <br>
 
- As time passes, the preference of map data users towards new or different formats changes. Based on our analysis of trends and potential users, HOT has been changing and improving its offering consistently. For instance, on the last iteration of the Export Tool 6 months ago, [HOT introduced three new formats (FlatGeobuf, CSV, and SQL)](https://www.hotosm.org/updates/hot-export-tool-try-out-the-new-features/), as well as metrics and performance improvements. This week, we introduced two new formats (MVT and PMTiles) and the possibility of exporting or including metadata elements like timestamp and user information. Let's take a look at 
+ As time passes, the preference of map data users towards new or different formats changes. Based on our analysis of trends and potential users, HOT has been changing and improving its offering consistently. For instance, on the last iteration of the Export Tool 6 months ago, [HOT introduced three new formats (FlatGeobuf, CSV, and SQL)](https://www.hotosm.org/updates/hot-export-tool-try-out-the-new-features/), as well as metrics and performance improvements. This week, we introduced two new formats (MVT and PMTiles) and the possibility of exporting or including metadata elements like timestamp and user information. Let's take a look at it:
 
 <br>
 
