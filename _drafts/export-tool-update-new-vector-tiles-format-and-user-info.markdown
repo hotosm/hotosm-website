@@ -18,10 +18,13 @@ Feature Image: "/uploads/PreparingDrone.jpg"
 ![mapatonymbol.jpg](/uploads/mbtiles-pmtiles-export-tool.png)
 *Image from the Instagram account [youthmappersumsa.bo](https://www.instagram.com/p/C_zmLBOOQls/?img_index=1)*
 
+<br>
+
 One of the tile format’s unique advantages is that they are optimized for web-based maps and displaying large datasets in an efficient way. Unlike GeoJSON or Shapefiles, which are often better suited for smaller, more static data sets, tile formats break data into smaller, easily loadable pieces. While formats like GeoJSON and shapefiles are great for analysis and data sharing, tile formats excel when it comes to displaying large amounts of information quickly in, for instance, interactive maps, which can be really helpful to give context and support a given visual narrative 
 
 <br>
-~~*PMTiles and MVT in general are praised for their scalability, dynamic loading and flexible styling*~~
+
+> *PMTiles and MVT in general are praised for their scalability, dynamic loading and flexible styling*
 
 <br>
 * **PMTiles.** Because it is a single-file archive format for pyramids of map tiles that allows for efficient storage and retrieval of map data, this option is worth exploring for those looking to work with large amounts of static data or offline applications. **In the humanitarian context**, the ability to set up an application that bundles a single file that allows offline use is of very high value, as part of the work can happen in rural areas or those hit by disasters. 
