@@ -20,8 +20,10 @@ Feature Image: "/uploads/PreparingDrone.jpg"
 
 One of the tile format’s unique advantages is that they are optimized for web-based maps and displaying large datasets in an efficient way. Unlike GeoJSON or Shapefiles, which are often better suited for smaller, more static data sets, tile formats break data into smaller, easily loadable pieces. While formats like GeoJSON and shapefiles are great for analysis and data sharing, tile formats excel when it comes to displaying large amounts of information quickly in, for instance, interactive maps, which can be really helpful to give context and support a given visual narrative 
 
-~*PMTiles and MVT in general are praised for their scalability, dynamic loading and flexible styling*~
+<br>
+~~*PMTiles and MVT in general are praised for their scalability, dynamic loading and flexible styling*~~
 
+<br>
 * **PMTiles.** Because it is a single-file archive format for pyramids of map tiles that allows for efficient storage and retrieval of map data, this option is worth exploring for those looking to work with large amounts of static data or offline applications. **In the humanitarian context**, the ability to set up an application that bundles a single file that allows offline use is of very high value, as part of the work can happen in rural areas or those hit by disasters. 
 
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/pmtiles-leaflet/"></iframe><p><a href=https://claurt07.github.io/pmtiles-leaflet/">See full screen</a></p>
@@ -37,6 +39,7 @@ One of the tile format’s unique advantages is that they are optimized for web-
 ![mapatonymbol.jpg](/uploads/user-info-export-tool.png)
 *Image from the Instagram account [youthmappersumsa.bo](https://www.instagram.com/p/C_zmLBOOQls/?img_index=1)*
 
+<br>
 Directed by user feedback, we have incorporated more metadata and metrics into our exports as part of our data transparency efforts.Our aim is to help users go beyond simply using the data by enabling them to better understand its context (metadata) and limitations (metrics). These insights can help them choose the right methodologies for their analysis, leading to more transparent outcomes. Following the trend of our [past post announcing metrics](https://www.hotosm.org/updates/hot-export-tool-try-out-the-new-features/), this time we bring two new features: 
 
 <br>
@@ -63,6 +66,9 @@ And although there are other ways of extracting metadata from OSM, these tend to
 <br>
 
 The osm user metadata provides valuable context about who contributed to the mapping data. This information can be leveraged to analyze contributor activity and engagement levels within specific areas. By tracking user contributions, you can identify active mappers and assess their impact on data quality and completeness. For instance, visualizations could highlight regions with high contributions from specific users, allowing for targeted outreach or support to enhance mapping efforts. There are some caveats too: while user information is readily accessible, it is essential to note that it reflects only the most recent contributor and does not provide a comprehensive history of all edits made to a feature. Also, it is important to note that given the sensitive nature of this information it will only be provided once a user is logged in to the Export Tool and agrees to our data use and protection disclaimer.
+
+<br>
+<br>
 
 *What data to collect when facing a fire*
 
