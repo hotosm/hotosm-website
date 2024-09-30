@@ -26,7 +26,7 @@ Person:
 
 **1-** **New formats and their uses: PMTiles and MVT**
 
-![mapatonymbol.jpg](/uploads/mbtiles-pmtiles-export-tool.png)
+![mapatonymbol.jpg](/uploads/mvt-pmtiles-export-tool.png)
 *Image depicting the checkboxes that need to be selected for the two new formats on the [OpenStreetMap Export Tool](https://export.hotosm.org/v3/)*
 
 <br>
