@@ -38,7 +38,7 @@ One of the tile format’s unique advantages is that they are optimized for web-
 > *PMTiles and MVT in general are praised for their scalability, dynamic loading and flexible styling*
 
 <br>
-* **PMTiles.** Because it is a single-file archive format for pyramids of map tiles that allows for efficient storage and retrieval of map data, this option is worth exploring for those looking to work with large amounts of static data or offline applications. **In the humanitarian context**, the ability to set up an application that bundles a single file that allows offline use is of very high value, as part of the work can happen in rural areas or those hit by disasters. 
+* **PMTiles.** Because it is a single-file archive format for pyramids of map tiles that allows for efficient storage and retrieval of map data, this option is worth exploring for those looking to work with large amounts of static data or offline applications. **In the humanitarian context**, the ability to consolidate all vector data into a single file for offline use is extremely valuable for specific applications, particularly for those to be used in rural areas or regions affected by disasters where internet access may be restricted. 
 
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/pmtiles-leaflet/"></iframe>
 
