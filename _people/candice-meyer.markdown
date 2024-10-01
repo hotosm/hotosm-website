@@ -1,6 +1,7 @@
 ---
 title: Candice Meyer
 date: 2024-01-04 10:38:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/IMG_4113.jpeg
 Member Type:
   Is Staff: true
