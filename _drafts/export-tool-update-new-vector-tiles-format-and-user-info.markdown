@@ -23,7 +23,7 @@ Person:
 
 <br>
 
-##1-New formats and their uses: PMTiles and MVT
+## 1) New formats and their uses: PMTiles and MVT
 
 ![mapatonymbol.jpg](/uploads/mvt-pmtiles-export-tool.png)
 *Image depicting the checkboxes that need to be selected for the two new formats on the [OpenStreetMap Export Tool](https://export.hotosm.org/v3/)*
@@ -50,7 +50,7 @@ One of the tile format’s unique advantages is that they are optimized for web-
 <br>
 <br>
 
-## 2-New Features: Metainfo
+## 2) New Features: Metainfo
 
 
 ![mapatonymbol.jpg](/uploads/user-info-export-tool.png)
