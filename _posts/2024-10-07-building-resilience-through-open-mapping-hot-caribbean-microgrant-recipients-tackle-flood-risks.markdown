@@ -30,9 +30,9 @@ The GIS Society of Trinidad and Tobago (GISSTT) is partnering with the Office of
 
 Through capacity-building workshops, participants will learn disaster resilience best practices and contribute to data collection and mapping efforts. The project’s success could lead to replication in other vulnerable communities. Additionally, the partnership with ODPM strengthens national agencies’ ability to conduct risk assessments using open mapping data.
 
-**Priya Harnarine, Vice President of GISSTT, highlighted the importance of this partnership:**
+Priya Harnarine, Vice President of GISSTT, highlighted the importance of this partnership:
 
-> ***The microgrant and GISSTT's partnership with HOTOSM have enabled us to strengthen Trinidad and Tobago's open mapping community, especially through projects like the Woodland Mapping Project and Women-Centered Disaster Resilience in SIDS. These initiatives show how eager local communities are to participate in resilience efforts and benefit from skill-building programs. With a dedicated team of GIS professionals, disaster experts, and project managers, GISSTT continues to enrich communities through geospatial technologies. We’re also excited to collaborate with faculty and students at the University of the West Indies. We hope to bring more organizations into our expanding open mapping community.***
+> *The microgrant and GISSTT's partnership with HOTOSM have enabled us to strengthen Trinidad and Tobago's open mapping community, especially through projects like the Woodland Mapping Project and Women-Centered Disaster Resilience in SIDS. These initiatives show how eager local communities are to participate in resilience efforts and benefit from skill-building programs. With a dedicated team of GIS professionals, disaster experts, and project managers, GISSTT continues to enrich communities through geospatial technologies. We’re also excited to collaborate with faculty and students at the University of the West Indies. We hope to bring more organizations into our expanding open mapping community.*
 
 ## *Youth Emergency Action Committees (YEAC) Community-Led Mapping for DRR*
 
