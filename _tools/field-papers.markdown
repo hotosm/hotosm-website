@@ -5,5 +5,6 @@ position: 7
 Tool URL: http://www.fieldpapers.org
 Tool id: "#2"
 Status: inactive
+sitemap: false
 ---
 

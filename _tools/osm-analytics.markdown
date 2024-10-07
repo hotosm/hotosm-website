@@ -5,5 +5,6 @@ position: 11
 Tool URL: http://osm-analytics.org/
 Tool id: "#4"
 Status: inactive
+sitemap: false
 --- -->
 

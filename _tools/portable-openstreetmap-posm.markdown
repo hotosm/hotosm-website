@@ -5,5 +5,6 @@ position: 8
 Tool URL: http://posm.io/
 Tool id: "#2"
 Status: inactive
+sitemap: false
 ---
 
