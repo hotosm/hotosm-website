@@ -88,10 +88,11 @@ The "osm_user" metadata provides valuable context about who contributed to the m
 
 <br>
 
-*What data to collect when facing a fire*
+*Example use of User Info and Timestamp*
 
 ![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](/uploads/Surabaya-GIFrecord-Sept%2022.gif)
-*Interactive showing the mapping pace and location over a period in time for a campaing ins Surabaya in 2016 by HOTOSM Indonesia*
+*With the user info and timestamp, you can identify the amount of contributors and the time of their contribution. In this example, HOTOSM Indonesia 
+ shows the mapping pace and location over a period of time for a campaign ins Surabaya in 2016 by *
 
 <br>
 
