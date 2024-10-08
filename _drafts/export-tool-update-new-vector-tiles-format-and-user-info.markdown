@@ -72,6 +72,7 @@ Despite introducing metrics like “average age of data” and “last edit”, 
 <br>
 Although there are other ways of extracting metadata from OSM, these tend to be more limiting and difficult for those who are not familiar with it. Having the data readily available will prompt more people to look into it. However, this does not include the whole history of a feature, but rather its last changeset.
 
+*Example use of User Info and Timestamp*
 ![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](https://cdn.hotosm.org/website/HEIGIT+2.png)
 *Graph showing “summer-lows” in mapping activity from the [Benjamin Herfort Blogpost](https://www.hotosm.org/updates/hot-merl-is-monitoring-osm-and-tasking-manager-projects/) on tracking Tasking Manager Usage*
 
@@ -88,7 +89,7 @@ The "osm_user" metadata provides valuable context about who contributed to the m
 
 <br>
 
-*Example use of User Info and Timestamp*
+*Example use of User Info and Timestamp with spatial element*
 
 ![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](/uploads/Surabaya-GIFrecord-Sept%2022.gif)
 *With the user info and timestamp, you can identify the amount of contributors and the time of their contribution. In this example, HOTOSM Indonesia 
