@@ -67,7 +67,7 @@ Directed by user feedback, we have incorporated more metadata and metrics into o
 
 <br>
 
-Despite introducing metrics like “average age of data” and “last edit”, users gave us feedback that they wanted more personalized insights into how the data was being created by OSM contributors–metrics of the type that the now unmaintained ~[OSM Analytics](https://osm-analytics.org/)~ was producing. Having timestamps allows you, for instance, to look at mapping on a given area and look for day or time trends; you can make visualizations that show change over time; you could analyze the frequency of edits in specific regions to identify areas where data was created very fast or slow, which might mean quality issues due to carelessness or difficulty.
+Despite introducing metrics like “average age of data” and “last edit”, users gave us feedback that they wanted more personalized insights into how the data was being created by OSM contributors–metrics of the type that the now unmaintained [OSM Analytics](https://osm-analytics.org/) was producing. Having timestamps allows you, for instance, to look at mapping on a given area and look for day or time trends; you can make visualizations that show change over time; you could analyze the frequency of edits in specific regions to identify areas where data was created very fast or slow, which might mean quality issues due to carelessness or difficulty.
 
 <br>
 Although there are other ways of extracting metadata from OSM, these tend to be more limiting and difficult for those who are not familiar with it. Having the data readily available will prompt more people to look into it. However, this does not include the whole history of a feature, but rather its last changeset.
