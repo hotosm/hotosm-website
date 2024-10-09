@@ -31,7 +31,7 @@ Stats:
   stat4: 8
   text4: 'test '
   hover4: test
-Feature-Image: "/uploads/pmtiles-viewer-example.png"
+Feature-Image: "/uploads/LAC_VolcanesEcuador9.webp"
 Event Promo:
   Event Name: Conflict & Displacement Program
   Description: "<a style='color: white; font-weight: bold;'></a>"
@@ -46,7 +46,7 @@ Block 2:
   Text: Through the Missing Maps project, the HOT global community creates maps of
     high vulnerability areas where data is scarce, putting an area home to millions
     of people onto the world map in OpenStreetMap.
-  Image: https://www.hotosm.org/uploads/SIDS%20Montserrat%204.jpg
+  Image: "/uploads/pmtiles-viewer-example.png"
   Figcaption: Trainees show the customized shirts designed for the project in Montserrat
   Project:
   - Women Centered Disaster Resilience in Small Island Developing States - Montserrat
@@ -57,7 +57,7 @@ Program-summary:
   Program Summary Text: "<a>**Promoting responsible open spatial data and participatory
     mapping in complex emergencies  to enhance collaboration and support informed
     humanitarian aid planning in the most vulnerable contexts.**</a>"
-Image-leading: https://cdn.hotosm.org/website/SIDS-TimorLesteDataAnalysis.jpg
+Image-leading: https://www.hotosm.org/uploads/IMG_3199.jpg
 Figcaption: In this project, members of Feto Enginhera, women engineers of Timor-Leste,
   gained open mapping skills for resilience, which they communicated with different
   community members.
