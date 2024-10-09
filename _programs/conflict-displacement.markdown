@@ -33,7 +33,7 @@ Stats:
   hover4: test
 Feature-Image: "/uploads/pmtiles-viewer-example.png"
 Event Promo:
-  Event Name: Women-Centered Disaster Resilience in Small Islands Developing States
+  Event Name: Conflict & Displacement Program
   Description: "<a style='color: white; font-weight: bold;'></a>"
   Related Projects:
   - 'Infectious diseases: Malaria elimination'
