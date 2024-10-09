@@ -3,22 +3,8 @@ title: Conflict & Displacement Program
 date: 2024-10-01 05:01:00 Z
 permalink: "/programs/conflict-displacement"
 position: 88
-Feature Image: ''
-Stats:
-  stat1: "+ 157,000"
-  text1: map edits in OpenStreetMap
-  hover1: "(currently just Gaza.. others (Sudan, AA etc to follow) "
-  stat2: '999'
-  text2: 'Datasets recommended  '
-  hover2: in HDX Data Grids OR total datasets on HDX
-  stat3: "+500"
-  text3: 'data downloads for refugee response projects '
-  hover3: which datasets would be counted here?
-  stat4: '8'
-  text4: 'test '
-  hover4: test
 Country:
-- Pelstinian Territory
+- Palestinian Territory
 - Sudan
 Impact Area:
 - Displacement & Safe Migration
@@ -31,7 +17,20 @@ Duration:
   Start Date: 2024-07-01 00:00:00 Z
   End Date: 2026-12-31 00:00:00 Z
   Timeframe: 2024 - 2026 Cycle
-Feature-Image: https://www.hotosm.org/uploads/image%20(2).png
+Stats:
+  stat1: "+157K"
+  text1: map edits in OpenStreetMap
+  hover1: "(currently just Gaza.. others (Sudan, AA etc to follow) "
+  stat2: 999
+  text2: 'Datasets recommended  '
+  hover2: in HDX Data Grids OR total datasets on HDX
+  stat3: "+500"
+  text3: datatasets downloaded
+  hover3: which datasets would be counted here?
+  stat4: 8
+  text4: 'test '
+  hover4: test
+Feature-Image: "/uploads/pmtiles-viewer-example.png"
 Event Promo:
   Event Name: Women-Centered Disaster Resilience in Small Islands Developing States
   Description: "<a style='color: white; font-weight: bold;'></a>"
