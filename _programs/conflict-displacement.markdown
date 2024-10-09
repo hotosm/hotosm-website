@@ -2,6 +2,7 @@
 title: Conflict & Displacement Program
 date: 2024-10-01 05:01:00 Z
 permalink: "/programs/conflict-displacement"
+published: false
 position: 88
 Country:
 - Palestinian Territory
@@ -53,33 +54,31 @@ Block 2:
   - Women-Centered Disaster Resilience in Small Island Developing States - Trinidad
     and Tobago
 Program-summary:
-  Program Summary Text: "<a>**We work with women and girls in Small Island Developing
-    States to help them gain critical mapping skills. This program aims to build local
-    disaster resilience with a gender perspective by fostering collaboration among
-    women leaders.**</a>"
+  Program Summary Text: "<a>**Promoting responsible open spatial data and participatory
+    mapping in complex emergencies  to enhance collaboration and support informed
+    humanitarian aid planning in the most vulnerable contexts.**</a>"
 Image-leading: https://cdn.hotosm.org/website/SIDS-TimorLesteDataAnalysis.jpg
 Figcaption: In this project, members of Feto Enginhera, women engineers of Timor-Leste,
   gained open mapping skills for resilience, which they communicated with different
   community members.
 Narrative-section:
   Narrative-title: About
-  Narrative-intro-text: According to the UN, most people displaced and who are vulnerable
-    to displacement due to climate change are women in Small Island Developing States
-    (SIDS). **Their unequal decision-making power undermines emergency recovery efforts
-    and development at every level**, which adds to the hardships usually faced in
-    those islands as a result of their shared similarities, including their isolation
-    from the mainland, their reliance on industries like tourism, and their high vulnerability
-    to natural disasters and climate change with inadequate infrastructures to protect
-    their populations. Furthering these challenges is that there are not enough mapping
-    specialists, OpenStreetMap communities are small or nonexistent, and few are women.
-  Narrative-text: 'This program focuses on **improving the well-being and increasing
-    the agency and resilience of women and girls who live in SIDS** by building their
-    capacity to create, access, and use open map data. <br><br> Three islands were
-    selected as pilot projects: **Trinidad and Tobago, Timor Leste, and the Archipel
-    of Saloum Islands in Senegal**. Those places were selected mainly due to the availability
-    of partners in the island. From February 2023, we were able to start developing
-    partnership agreements with identified partners and define the scope of the work.
-    Partners were asked to develop a proposal that would be validated by HOTOSM.'
+  Narrative-intro-text: 'Compounding social, political, and environmental risks are
+    leading to a surge of people in need of humanitarian aid with increasingly limited
+    resources. A record number of people are living in displacement and in areas of
+    difficult access. Gathering information in these areas can be challenging, which
+    is where HOT works with local and global mapping communities to fill these gaps
+    through coordination and improved data crowdsourcing.   '
+  Narrative-text: Understanding the geographic context of conflict affected areas,
+    including where people are, how to access them, and the state of local infrastructure
+    is critical to plan adequate aid to meet basic human needs. Through this program,
+    HOT collaborates with expert partners to link crowdsourced and participatory mapping
+    methodologies to humanitarian data users. Our context specific projects address
+    spatial data gaps and promote the responsible use of open data and methodologies
+    in conflict-affected areas, areas of displacement, and host communities.<br><br>
+    HOT holds itself and its partners to highly responsible data standards guided
+    by [HOT’s data principles](https://www.hotosm.org/tools-and-data/data-principles/).
+    All work done through this program complies with [HOT’s data protection framework](https://github.com/hotosm/data_protection_project/).
 Quote: improving the well-being and increasing the agency and resilience of women
   and girls who live in SIDS by building their capacity to create, access, and use
   open map data <br>
@@ -136,7 +135,7 @@ Project-text:
     Community knowledge, needs, and solutions are at the center, with HOT facilitating
     the end-to-end process of identifying missing data, mapping, analyzing data, and
     using that data effectively.
-  Narrative-title: Program Focus and Implementation
+  Narrative-title: Conflict & Displacement
   Narrative-introduction: Anticipatory action serves as a crucial link between long-term
     disaster risk reduction and immediate humanitarian response, particularly amidst
     the compounded threats of climate change and disasters. <a href="https://www.fao.org/documents/card/en/c/cb7145en">According
