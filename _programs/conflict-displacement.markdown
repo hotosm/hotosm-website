@@ -85,14 +85,12 @@ Quote: improving the well-being and increasing the agency and resilience of wome
 Project-objectives:
   Title: Proposed Program Goals & Objectives
   Icon1: fa-regular fa-map
-  Objective1: " Grow mapping communities"
+  Objective1: Accurate damage estimates
   Objective1-highlight: 
-  Objectives-title-1: 1.- <strong>Increase the presence of OpenStreetMap (OSM) and
-    open-source communities</strong> in SIDS that are underrepresented and underserved
-    in these fields. <br><br> 2.- <strong>Women communities are trained in core map
-    competencies</strong> e.g. project management, Geographic Information Systems
-    mapping, mobile data collection, etc. <br><br> 3.- Open mapping champions and
-    influencers (groups and individuals) are identified and strengthened
+  Objectives-title-1: 1.- <strong>Baseline infrastructure location data </strong>
+    <br><br> 2.- <strong>Analysis ready data</strong> <br><br>  3.- <strong>Damage
+    estimate datasets comparison</strong> <br><br> 4.- <strong>Clear and usable infrastructure
+    damage data</strong> <br><br>
   Icon2: fa-solid fa-venus
   Objective2: Women-centered capacity building
   Objective2-highlight: 
