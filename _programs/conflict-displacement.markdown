@@ -46,8 +46,10 @@ Block 2:
   Text: Through the Missing Maps project, the HOT global community creates maps of
     high vulnerability areas where data is scarce, putting an area home to millions
     of people onto the world map in OpenStreetMap.
-  Image: "/uploads/pmtiles-viewer-example.png"
-  Figcaption: Trainees show the customized shirts designed for the project in Montserrat
+  Image: "/uploads/hot-staff-img-2235.jpg"
+  Figcaption: " Refugee Crisis Mapping project in Arua district, Uganda in collaboration
+    with Global Partnership for Sustainable Development Data (GPSDD). Photo by: Shamillah
+    Ssekandi Nassozi, HOT Staff."
   Project:
   - Women Centered Disaster Resilience in Small Island Developing States - Montserrat
   - Women-Centered Disaster Resilience in Small Island Developing States - Timor-Leste
