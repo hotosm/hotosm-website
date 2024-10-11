@@ -57,10 +57,10 @@ Program-summary:
   Program Summary Text: "<a>**Promoting responsible open spatial data and participatory
     mapping in complex emergencies  to enhance collaboration and support informed
     humanitarian aid planning in the most vulnerable contexts.**</a>"
-Image-leading: https://www.hotosm.org/uploads/IMG_3199.jpg
-Figcaption: In this project, members of Feto Enginhera, women engineers of Timor-Leste,
-  gained open mapping skills for resilience, which they communicated with different
-  community members.
+Image-leading: https://www.hotosm.org/uploads/hot-staff-img-2235.jpg
+Figcaption: " Refugee Crisis Mapping project  in Arua district, Uganda in collaboration
+  with Global Partnership for Sustainable Development Data (GPSDD). Photo by: Shamillah
+  Ssekandi Nassozi, HOT Staff."
 Narrative-section:
   Narrative-title: About
   Narrative-intro-text: 'Compounding social, political, and environmental risks are
