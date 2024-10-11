@@ -31,7 +31,7 @@ Stats:
   stat4: 8
   text4: 'test '
   hover4: test
-Feature-Image: "/uploads/LAC_VolcanesEcuador9.webp"
+Feature-Image: "/uploads/UNsomalia-27332415045_217de2d978_o.jpg"
 Event Promo:
   Event Name: Conflict & Displacement Program
   Description: "<a style='color: white; font-weight: bold;'></a>"
