@@ -89,23 +89,23 @@ Project-objectives:
   Icon1: fa-regular fa-map
   Objective1: Accurate damage estimates
   Objective1-highlight: 
-  Objectives-title-1: 1.- <strong>Baseline infrastructure location data </strong>
-    <br><br> 2.- <strong>Analysis ready data</strong> <br><br>  3.- <strong>Damage
-    estimate datasets comparison</strong> <br><br> 4.- <strong>Clear and usable infrastructure
-    damage data</strong> <br><br>
+  Objectives-title-1: "- <strong>Baseline infrastructure location data </strong> <br><br>
+    - <strong>Analysis ready data</strong> <br><br>  - <strong>Damage estimate datasets
+    comparison</strong> <br><br> - <strong>Clear and usable infrastructure damage
+    data</strong> <br><br>"
   Icon2: fa-solid fa-venus
   Objective2: People in displacement are accounted for
   Objective2-highlight: 
-  Objectives-title-2: '1.- <strong>Accurate humanitarian needs assessments </strong>
-    <br><br> 2.- <strong>Remote crowdsourced methods to locate new displacements</strong>
-    <br><br>  3.- <strong>Participatory tools for coordinated data collection in camps</strong> '
+  Objectives-title-2: "- <strong>Accurate humanitarian needs assessments </strong>
+    <br><br> - <strong>Remote crowdsourced methods to locate new displacements</strong>
+    <br><br> - <strong>Participatory tools for coordinated data collection in camps</strong> "
   Icon3: fa-solid fa-users-line
   Objective3: 'Humanitarian data sharing '
   Objective3-highlight: 
-  Objectives-title-3: 1.- <strong>Streamline humanitarian data sharing to OSM </strong>
-    <br><br> 2.- <strong>Data insights and access to key datasets</strong> <br><br>  3.-
-    <strong>HDX data grids</strong> <br><br> 4.- <strong>IM & GIS Collaboration</strong>
-    <br><br>
+  Objectives-title-3: "- <strong>Streamline humanitarian data sharing to OSM </strong>
+    <br><br> - <strong>Data insights and access to key datasets</strong> <br><br>
+    \ - <strong>HDX data grids</strong> <br><br> - <strong>IM & GIS Collaboration</strong>
+    <br><br>"
 Approach-text: For 13 years, HOT has worked in collaboration with local communities
   to put the places they live on the world map. Our global community of 600K+ volunteers
   map buildings, roads, and key infrastructure on OpenStreetMap (OSM), a free open
