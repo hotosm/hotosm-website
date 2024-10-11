@@ -92,21 +92,18 @@ Project-objectives:
     estimate datasets comparison</strong> <br><br> 4.- <strong>Clear and usable infrastructure
     damage data</strong> <br><br>
   Icon2: fa-solid fa-venus
-  Objective2: Women-centered capacity building
+  Objective2: People in displacement are accounted for
   Objective2-highlight: 
-  Objectives-title-2: '1.- <strong>Build out women-centered projects</strong> in small
-    island developing states that are faced with disasters. <br><br> 2.- Women communities
-    in SIDS have the knowledge, tools, funding, and geo-data to implement and advocate
-    for socio-economic change. <br><br> 3.-Women in underrepresented groups in SIDS
-    are connected to tools and are motivated to create geographical data and solutions. '
+  Objectives-title-2: '1.- <strong>Accurate humanitarian needs assessments </strong>
+    <br><br> 2.- <strong>Remote crowdsourced methods to locate new displacements</strong>
+    <br><br>  3.- <strong>Participatory tools for coordinated data collection in camps</strong> '
   Icon3: fa-solid fa-users-line
-  Objective3: " Peer-to-peer support"
+  Objective3: 'Humanitarian data sharing '
   Objective3-highlight: 
-  Objectives-title-3: '1.- <strong>Women in SIDS share knowledge and lessons learned</strong>
-    from within and across different regions. <br><br> 2.- A diverse makeup of women
-    community champions and partners are increasingly networked to each other sharing
-    learning and knowledge. <br><br> 3.- Women communities in SIDS have an <strong>open
-    dialogue and collaborate with local/global actors from all sectors</strong>. '
+  Objectives-title-3: 1.- <strong>Streamline humanitarian data sharing to OSM </strong>
+    <br><br> 2.- <strong>Data insights and access to key datasets</strong> <br><br>  3.-
+    <strong>HDX data grids</strong> <br><br> 4.- <strong>IM & GIS Collaboration</strong>
+    <br><br>
 Approach-text: For 13 years, HOT has worked in collaboration with local communities
   to put the places they live on the world map. Our global community of 600K+ volunteers
   map buildings, roads, and key infrastructure on OpenStreetMap (OSM), a free open
