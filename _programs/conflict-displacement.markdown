@@ -92,7 +92,7 @@ Project-objectives:
     comparison</strong> <br><br> - <strong>Clear and usable infrastructure damage
     data</strong> <br><br>"
   Icon2: fa-solid fa-venus
-  Objective2: People in displacement are accounted for
+  Objective2: Displaced people are accounted
   Objective2-highlight: 
   Objectives-title-2: "- <strong>Accurate humanitarian needs assessments </strong>
     <br><br> - <strong>Remote crowdsourced methods to locate new displacements</strong>
