@@ -79,9 +79,9 @@ Narrative-section:
     HOT holds itself and its partners to highly responsible data standards guided
     by [HOT’s data principles](https://www.hotosm.org/tools-and-data/data-principles/).
     All work done through this program complies with [HOT’s data protection framework](https://github.com/hotosm/data_protection_project/).
-Quote: improving the well-being and increasing the agency and resilience of women
-  and girls who live in SIDS by building their capacity to create, access, and use
-  open map data <br>
+Quote: Utilizing responsible open spatial data to enhance aid delivery in conflict
+  zones and for displaced communities, ensuring support reaches those in need when
+  it matters most.<br>
 Project-objectives:
   Title: Proposed Program Goals & Objectives
   Icon1: fa-regular fa-map
