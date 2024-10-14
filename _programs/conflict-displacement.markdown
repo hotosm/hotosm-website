@@ -46,10 +46,8 @@ Block 2:
   Text: Through the Missing Maps project, the HOT global community creates maps of
     high vulnerability areas where data is scarce, putting an area home to millions
     of people onto the world map in OpenStreetMap.
-  Image: "/uploads/hot-staff-img-2235.jpg"
-  Figcaption: " Refugee Crisis Mapping project in Arua district, Uganda in collaboration
-    with Global Partnership for Sustainable Development Data (GPSDD). Photo by: Shamillah
-    Ssekandi Nassozi, HOT Staff."
+  Image: https://cdn.hotosm.org/website/header.jpg
+  Figcaption: Bidibidi Refugee Settlement, Yumbe, Uganda by Yilmaz Polat
   Project:
   - Women Centered Disaster Resilience in Small Island Developing States - Montserrat
   - Women-Centered Disaster Resilience in Small Island Developing States - Timor-Leste
