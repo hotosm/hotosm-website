@@ -59,7 +59,7 @@ Program-summary:
   Program Summary Text: |-
     <a>**Promoting responsible open spatial data and participatory mapping in complex emergencies  to enhance collaboration and support informed humanitarian aid planning in the most vulnerable contexts.**</a>
 
-    <span style="font-size: 0.6em;"><font color="#778899">Cover Photo: Soldiers from the Somali National Army stand watch as women wait at an IDP camp near the town of Beletweyne, Somalia / Tobin Jones</font></sub></span>
+    <span style="font-size: 0.6em;"><font color="#778899">Cover Photo: Soldiers from the Somali National Army stand watch as women wait at an IDP camp near the town of Beletweyne, Somalia / Tobin Jones</font></span>
 Image-leading: https://cdn.hotosm.org/website/header.jpg
 Figcaption: Bidibidi Refugee Settlement, Yumbe, Uganda by Yilmaz Polat
 Narrative-section:
