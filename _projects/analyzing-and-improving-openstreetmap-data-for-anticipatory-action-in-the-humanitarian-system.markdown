@@ -47,7 +47,15 @@ With all this open spatial data, it can be hard for a user to know what source i
 
 Through consultation with humanitarian partners, we are starting this work focusing on roads and populated places, as both datasets are critical to planning immediate aid response in a crisis. For example, creating isochrone maps will allow first responders to visualize areas accessible from key points within specific time thresholds, helping aid organizations assess medium distances to essential services and improve the efficiency of their response efforts.   HOT enables access to OSM through both the Humanitarian Data Exchange (HDX, pre-defined exports) and HOT’s Export Tool (custom exports). All resources developed – such as enhanced metadata, and a dashboard that allows comparing different datasets – are intended to enhance the user experience of both platforms.  
 
-** maybe add a block of all download stats here or graph of popular datasets highlighting pop places and roads?
+
+
+<br>
+
+![Example of increased data quality in OpenStreetMap building footprints in Gaza B](https://www.hotosm.org/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza%20B.png)
+*maybe add a block of all download stats here or graph of popular datasets highlighting pop places and roads?*
+<br>
+
+
 
 
 ### Planned project activities 
