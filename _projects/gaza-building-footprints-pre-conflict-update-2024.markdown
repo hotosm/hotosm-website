@@ -1,6 +1,7 @@
 ---
 title: GAZA BUILDING FOOTPRINTS PRE-CONFLICT UPDATE 2024
 date: 2024-10-15 16:16:00 Z
+published: false
 Project Summary Text: 'Escalation of conflict in Gaza, starting in October 2023, resulted
   in a prolonged humanitarian crisis. Initially, understanding the impact of the conflict
   on existing buildings was challenging because pre-existing datasets from AI/ML models
