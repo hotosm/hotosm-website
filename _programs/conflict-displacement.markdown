@@ -99,7 +99,7 @@ Project-objectives:
     <br><br> - <strong>Remote crowdsourced methods to locate new displacements</strong>
     <br><br> - <strong>Participatory tools for coordinated data collection in camps</strong> "
   Icon3: fa-solid fa-download
-  Objective3: 'Humanitarian data sharing '
+  Objective3: " Humanitarian data sharing "
   Objective3-highlight: 
   Objectives-title-3: "- <strong>Streamline humanitarian data sharing to OSM </strong>
     <br><br> - <strong>Data insights and access to key datasets</strong> <br><br>
