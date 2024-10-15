@@ -51,7 +51,7 @@ Block 2:
     with Global Partnership for Sustainable Development Data (GPSDD). Photo by: Shamillah
     Ssekandi Nassozi, HOT Staff.'
   Project:
-  - Women Centered Disaster Resilience in Small Island Developing States - Montserrat
+  - GAZA BUILDING FOOTPRINTS PRE-CONFLICT UPDATE 2024
   - Women-Centered Disaster Resilience in Small Island Developing States - Timor-Leste
   - Women-Centered Disaster Resilience in Small Island Developing States - Trinidad
     and Tobago
