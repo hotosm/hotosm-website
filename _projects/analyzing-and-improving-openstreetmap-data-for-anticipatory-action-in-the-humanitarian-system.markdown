@@ -39,7 +39,7 @@ Tools:
 - link: 
 ---
 
-*## Background*
+### Background
 
 Like many who work in humanitarian response, there is increased awareness at HOT of the need to be more targeted in our activities to prepare for a disaster *before* it hits. Our landmark and active volunteer-led disaster response program has grown since its inception in 2010, and with the greater OSM community, OSM data is now widely available for use in disaster response and preparedness. 
 
@@ -50,13 +50,13 @@ Through consultation with humanitarian partners, we are starting this work focus
 ** maybe add a block of all download stats here or graph of popular datasets highlighting pop places and roads?
 
 
-*## Planned project activities* 
+### Planned project activities 
 
 To make OSM data more useful for anticipatory action, HOT intends to standardize information for OSM exports from HOT’s Export Tool and HDX by: adding humanitarian unique identifiers (~[OCHA p-codes](https://storymaps.arcgis.com/stories/dcf6135fc0e943a9b77823bb069e2578)~) for all admin levels to OSM data on populated places, pilot if it's possible to parse place names in OSM based on transliterations and including additional statistics on spatial and attribute data completeness to the metadata.
 
 Moreover, we aim to create a data statistics visualizer to better understand spatial coverage and attribute completeness *before* downloading an OSM dataset. Finally, we will create sample data quality reports based on roads and populated places to inform data improvement priorities and direct future inquiries on OSM completeness analyses. 
 
-*## Next steps and how to get involved*
+### Next steps and how to get involved
 
 Besides informing potential data use, we intended to use these data quality statistics to inform data improvement priorities. 
 
