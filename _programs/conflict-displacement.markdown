@@ -51,7 +51,7 @@ Block 2:
     with Global Partnership for Sustainable Development Data (GPSDD). Photo by: Shamillah
     Ssekandi Nassozi, HOT Staff.'
   Project:
-  - Gaza building footprints pre-conflict update 2024
+  - Gaza Building Footprints Pre-Conflict Update 2024
   - Women-Centered Disaster Resilience in Small Island Developing States - Timor-Leste
   - Women-Centered Disaster Resilience in Small Island Developing States - Trinidad
     and Tobago
