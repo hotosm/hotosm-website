@@ -26,3 +26,6 @@ Tools:
 - link: 
 ---
 
+
+
+*Cover Photo: Looking for buildings in risk during the wildfire drill, photo by Daniel Bellomo*
