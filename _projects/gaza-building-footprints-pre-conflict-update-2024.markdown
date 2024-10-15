@@ -2,14 +2,21 @@
 title: GAZA BUILDING FOOTPRINTS PRE-CONFLICT UPDATE 2024
 date: 2024-10-15 16:16:00 Z
 published: false
-Project Summary Text: 'Escalation of conflict in Gaza, starting in October 2023, resulted
-  in a prolonged humanitarian crisis. Initially, understanding the impact of the conflict
-  on existing buildings was challenging because pre-existing datasets from Artificial
-  Intelligence and Machine Learning (AI/ML) models and OpenStreetMap (OSM)  were not
-  complete. In response, HOT coordinated a remote mapping campaign with expert OSM
-  volunteers using HOT’s Tasking Manager.  Using pre-October 2023 imagery, this effort
-  added a net total of 59,223 buildings to the dataset and improved thousands of existing
-  features through 469,152 map edits. '
+Project Summary Text: "<span style=\"font-size: 0.6em;\"><font color=\"#778899\"><a>
+  Cover photo: </a><a href=\"https://www.aljazeera.com\">Al Jazeera English</a> -
+  <a href=\"https://flic.kr/p/63oF5P\">War in Gaza 023</a> - Licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC
+  BY-SA 4.0</a></font></span>\n<br>\nEscalation of conflict in Gaza, starting in October
+  2023, resulted in a prolonged humanitarian crisis. Initially, understanding the
+  impact of the conflict on existing buildings was challenging because pre-existing
+  datasets from Artificial Intelligence and Machine Learning (AI/ML) models and OpenStreetMap
+  (OSM)  were not complete. In response, HOT coordinated a remote mapping campaign
+  with expert OSM volunteers using HOT’s Tasking Manager.  Using pre-October 2023
+  imagery, this effort added a net total of 59,223 buildings to the dataset and improved
+  thousands of existing features through 469,152 map edits. \n<br>\n<span style=\"font-size:
+  0.6em;\"><font color=\"#778899\"><a> Cover photo: </a><a href=\"https://www.aljazeera.com\">Al
+  Jazeera English</a> - <a href=\"https://flic.kr/p/63oF5P\">War in Gaza 023</a> -
+  Licensed under <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA
+  4.0</a></font></span>\n"
 Feature Image: "/uploads/Al-Jazeera-gaza-in-war-023.jpg"
 Country:
 - Palestinian Territory
@@ -54,7 +61,7 @@ HOT welcomes data requests from the humanitarian community and will aim to balan
 ### *Are you with an organization working in conflict affected areas or interested in supporting other ways? Contact us at [data@hotosm.org](mailto:data@hotosm.org) to partner, volunteer, or donate to ongoing efforts in conflict-affected areas worldwide*.
 
 
-<span style="font-size: 0.6em;"><font color="#778899"><p><a> Cover photo: </a><a href="https://www.aljazeera.com">Al Jazeera English</a> - <a href="https://flic.kr/p/63oF5P">War in Gaza 023</a> - Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></p></font></span>
+<span style="font-size: 0.6em;"><font color="#778899"><a> Cover photo: </a><a href="https://www.aljazeera.com">Al Jazeera English</a> - <a href="https://flic.kr/p/63oF5P">War in Gaza 023</a> - Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></font></span>
 
 
 
