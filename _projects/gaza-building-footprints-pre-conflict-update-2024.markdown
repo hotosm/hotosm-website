@@ -37,7 +37,7 @@ The updated OSM data in Gaza is live in OpenStreetMap and available via [HDX](ht
 
 <br>
 
-![Example of increased data quality in OpenStreetMap building footprints in Gaza B](uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza%20B.png)
+[Example of increased data quality in OpenStreetMap building footprints in Gaza B](uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza%20B.png)
 
 <br>
 
