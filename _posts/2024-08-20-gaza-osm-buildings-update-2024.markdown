@@ -15,6 +15,8 @@ Feature Image: "/uploads/GazaCity.jpg"
 Person: Jessica Pechmann
 Country:
 - Palestinian Territory
+Project:
+- GAZA BUILDING FOOTPRINTS PRE-CONFLICT UPDATE 2024
 ---
 
 <html lang="en">
