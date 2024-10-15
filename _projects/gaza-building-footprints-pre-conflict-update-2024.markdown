@@ -23,7 +23,7 @@ Tools:
 - tool: Tasking Manager
 ---
 
-<span style="font-size: 0.6em;"><font color="#778899">Cover Photo: Al Jazeera English, ["War in Gaza 023"](https://flic.kr/p/63oF5P) </font></span>
+<span style="font-size: 0.6em;"><font color="#778899">Cover Photo: Al Jazeera English, [War in Gaza 023](https://flic.kr/p/63oF5P) </font></span>
 
 ### Background
 
