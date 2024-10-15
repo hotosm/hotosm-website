@@ -23,6 +23,8 @@ Tools:
 - tool: Tasking Manager
 ---
 
+<span style="font-size: 0.6em;"><font color="#778899">Cover Photo: Al Jazeera English, ["War in Gaza 023"](https://flic.kr/p/63oF5P) </font></span>
+
 ### Background
 
 In areas impacted by conflict, remote damage analyses rely on pre-conflict building footprints to put in context the damage, or rubble, detected by earth observation. When conflict increased in Gaza in 2023, damage analysts began to compile multiple data sources for a pre-conflict building footprints dataset in Gaza, but no building dataset was complete.  The high density of buildings and the inability to safely gather on-the-ground information compounded challenges for accurate information. In such hard-to-reach areas, HOT’s remote, crowdsourced, and volunteer mapping methodology proved effective in efficiently collecting detailed building information visible on aerial imagery.
