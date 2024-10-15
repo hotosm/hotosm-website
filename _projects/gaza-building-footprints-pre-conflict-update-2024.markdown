@@ -1,5 +1,5 @@
 ---
-title: Gaza building footprints pre-conflict update 2024
+title: Gaza Building Footprints Pre-Conflict Update 2024
 date: 2024-10-15 16:16:00 Z
 Project Summary Text: "Escalation of conflict in Gaza, starting in October 2023, resulted
   in a prolonged humanitarian crisis. Initially, understanding the impact of the conflict
