@@ -13,7 +13,11 @@ Project Summary Text: "“Is an OpenStreetMap dataset good enough to use?” is 
 Feature Image: "/uploads/IMG_3290.jpg"
 Project Logo Image: "/uploads/h2h-logo-new-400x400.png"
 Country:
-- Global
+- Ethiopia
+- Somalia
+- South Sudan
+- sudan
+- Mozambique
 Impact Area:
 - Disasters & Climate Resilience
 Person:
