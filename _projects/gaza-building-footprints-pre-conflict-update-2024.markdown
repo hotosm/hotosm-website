@@ -35,7 +35,7 @@ Living by[HOT’s data principles](https://www.hotosm.org/tools-and-data/data-pr
 
 ### Project Outcomes
 
-A net total of 59,223 buildings were added to the OSM buildings dataset in Gaza, and thousands of existing building geometries (shapes) were improved. All of Gaza was also verified by a human familiar with OSM building guidelines for data quality checks. The resulting dataset has 18% more buildings than the leading dataset by Microsoft, created by machine learning (as of September 2024). 
+A net total of **59,223 buildings** were added to the OSM buildings dataset in Gaza, and thousands of existing building geometries (shapes) were improved. All of Gaza was also verified by a human familiar with OSM building guidelines for data quality checks. The resulting dataset has 18% more buildings than the leading dataset by Microsoft, created by machine learning (as of September 2024). 
 The updated OSM data in Gaza is live in OpenStreetMap and available via [HDX](https://data.humdata.org/dataset/hotosm_pse_buildings?) or [HOT’s Export Tool](https://export.hotosm.org/v3/). The data is being used now by humanitarian conflict researchers and information management NGOs to create more accurate damage estimates and plan for humanitarian response.  
 
 <br>
