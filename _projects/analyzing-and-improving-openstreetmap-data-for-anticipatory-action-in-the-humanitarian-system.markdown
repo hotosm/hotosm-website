@@ -3,6 +3,8 @@ title: Analyzing and Improving OpenStreetMap Data for Anticipatory Action in the
   System
 date: 2024-10-15 23:09:00 Z
 published: false
+Feature Image: "/uploads/IMG_3290.jpg"
+Project Logo Image: "/uploads/h2h-logo-new-400x400.png"
 Country:
 - Global
 Impact Area:
@@ -17,5 +19,10 @@ Partner:
 Duration:
   Start Date: 2024-06-01 00:00:00 Z
   End Date: 2024-11-15 00:00:00 Z
+Tools:
+- tool: Tasking Manager
+- link: 
+- tool: Export Tool
+- link: 
 ---
 
