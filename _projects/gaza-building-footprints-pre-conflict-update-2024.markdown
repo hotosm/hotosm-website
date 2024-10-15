@@ -13,11 +13,15 @@ Feature Image: "/uploads/Al-Jazeera-gaza-in-war-023.jpg"
 Country:
 - Palestinian Territory
 Impact Area:
-- Displacement & Safe Migration
+- Disasters & Climate Resilience
 Person:
 - jessie pechmann
+Partner:
+- " Oregon State University"
+- " IMPACT Initiatives"
 Duration:
-  Start Date: 2024-10-15 00:00:00 Z
+  Start Date: 2024-02-01 00:00:00 Z
+  End Date: 2024-07-24 00:00:00 Z
 Tools:
 - tool: Tasking Manager
 ---
