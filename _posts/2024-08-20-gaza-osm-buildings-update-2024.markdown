@@ -16,7 +16,7 @@ Person: Jessica Pechmann
 Country:
 - Palestinian Territory
 Project:
-- GAZA BUILDING FOOTPRINTS PRE-CONFLICT UPDATE 2024
+- Gaza building footprints pre-conflict update 2024
 ---
 
 <html lang="en">
