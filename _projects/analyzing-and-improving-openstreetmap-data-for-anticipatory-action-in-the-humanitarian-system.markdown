@@ -16,6 +16,8 @@ Person:
 - Emilio Mariscal
 Partner:
 - H2H
+- Humanitarian Data Exchange (HDX)
+- UN OCHA
 Duration:
   Start Date: 2024-06-01 00:00:00 Z
   End Date: 2024-11-15 00:00:00 Z
