@@ -85,20 +85,20 @@ Quote: Utilizing responsible open data to support aid delivery in conflict zones
   most.<br>
 Project-objectives:
   Title: Proposed Program Goals & Objectives
-  Icon1: fa-regular fa-map
+  Icon1: fa-solid fa-house-chimney-crack
   Objective1: Accurate damage estimates
   Objective1-highlight: 
   Objectives-title-1: "- <strong>Baseline infrastructure location data </strong> <br><br>
     - <strong>Analysis ready data</strong> <br><br>  - <strong>Damage estimate datasets
     comparison</strong> <br><br> - <strong>Clear and usable infrastructure damage
     data</strong> <br><br>"
-  Icon2: fa-solid fa-venus
+  Icon2: fa-solid fa-person-walking
   Objective2: Displaced people are accounted
   Objective2-highlight: 
   Objectives-title-2: "- <strong>Accurate humanitarian needs assessments </strong>
     <br><br> - <strong>Remote crowdsourced methods to locate new displacements</strong>
     <br><br> - <strong>Participatory tools for coordinated data collection in camps</strong> "
-  Icon3: fa-solid fa-users-line
+  Icon3: fa-solid fa-diagram-project
   Objective3: 'Humanitarian data sharing '
   Objective3-highlight: 
   Objectives-title-3: "- <strong>Streamline humanitarian data sharing to OSM </strong>
