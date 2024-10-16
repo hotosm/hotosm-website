@@ -52,7 +52,7 @@ Through consultation with humanitarian partners, we are starting this work focus
 <br>
 
 ![Example of increased data quality in OpenStreetMap building footprints in Gaza B](https://www.hotosm.org/uploads/screenshot-h2h-dashboard.png)
-*H2H dashboard *
+*H2H dashboard showing comparison between OSM and OCHA datasets for Roads in South Sudan*
 <br>
 
 
