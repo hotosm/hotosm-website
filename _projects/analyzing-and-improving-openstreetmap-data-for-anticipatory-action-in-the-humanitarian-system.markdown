@@ -3,13 +3,13 @@ title: Analyzing and Improving OpenStreetMap Data for Anticipatory Action in the
   System
 date: 2024-10-15 23:09:00 Z
 published: false
-Project Summary Text: "“Is an OpenStreetMap dataset good enough to use?” is a question
+Project Summary Text: “Is an OpenStreetMap dataset good enough to use?” is a question
   we often get, and we’d like to answer it better and more quickly. Understanding
   the strengths of open spatial data sources is critical when preparing maps for a
-  crisis response. As part of ![H2H’s Anticipatory Action Accelerator](https://h2hnetwork.org/enhancing-h2h-action-for-anticipatory-response/),
-  HOT is working to develop more data insights through data completeness statistics.
-  Our aim is to provide more transparency on the usability of OpenStreetMap (OSM)
-  data and other open spatial datasets."
+  crisis response. As part of <a href="https://h2hnetwork.org/enhancing-h2h-action-for-anticipatory-response/">H2H’s
+  Anticipatory Action Accelerator</a>, HOT is working to develop more data insights
+  through data completeness statistics. Our aim is to provide more transparency on
+  the usability of OpenStreetMap (OSM) data and other open spatial datasets.
 Feature Image: "/uploads/IMG_3290.jpg"
 Project Logo Image: "/uploads/h2h-logo-new-400x400.png"
 Country:
