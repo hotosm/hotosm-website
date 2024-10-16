@@ -21,6 +21,7 @@ Partner:
 - Star Fund Nepal
 - KIRDARC
 Duration:
+  Start Date: 2023-10-01 00:00:00 Z
   End Date: 2024-07-30 00:00:00 Z
 Tools:
 - tool: Tasking Manager
@@ -60,10 +61,10 @@ The project co-designed and implemented the following workflow with local stakeh
 ![Nepal Road Network Validation Project_Workflow-fc8913.png](/uploads/Nepal%20Road%20Network%20Validation%20Project_Workflow-fc8913.png)
 *AP Hub co-designed workflow with local stakeholders, tailored to the local Karnali Province context.*
 
-**Tasking Manager** and **MapRoulette** were used to update and prepare validated OSM maps for review. **OSMAnd, Organic Maps**, and **BRouter ** were used to conduct local validation of updated road network OSM data. **Ushahidi** was used to report local road closures (e.g., from landslides) that can be captured and updated on OSM.
+**Tasking Manager** and **MapRoulette** were used to update and prepare validated OSM maps for review. **OSMAnd, Organic Maps**, and **BRouter** were used to conduct local validation of updated road network OSM data. **Ushahidi** was used to report local road closures (e.g., from landslides) that can be captured and updated on OSM.
 
 ![Nepal Road Network Validation Project_Training.JPG](/uploads/Nepal%20Road%20Network%20Validation%20Project_Training.JPG)
-*Local stakeholders learning more on open-mapping tools from Open-Mapping Gurus, led by AP Hub. (Prabal Sharma, Rabi Shrestha, Prajwal Sharma)*
+*Local stakeholders learning more on open-mapping tools from Open-Mapping Gurus, led by the AP Hub(In the photo from left to right: Prabal Sharma, Rabi Shrestha, Prajwal Sharma.)*
 
 Through this project, we collected the following datasets: Roads, buildings, and critical infrastructures such as health posts, water sources, schools, evacuation centers, etc. 
 
