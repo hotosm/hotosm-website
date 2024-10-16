@@ -3,11 +3,11 @@ title: 'Mapping For Climate-Ready Cities: Nepal Road Network Validation'
 date: 2024-10-16 16:33:00 Z
 published: false
 Project Summary Text: |
-  Through our Mapping for Climate Ready Cities program, the Humanitarian OpenStreetMap Team (HOT) is supporting the development of a thriving ecosystem focused on the creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions. This project page highlights our work in Karnali Province, Nepal.
-
-  Since 2023, Start Fund Nepal (SFN) and HOT's <a href="https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/">Open-Mapping Hub - Asia-Pacific (AP Hub)</a> have collaborated with local communities and the Karnali Integrated Rural Development and Research Centre (KIRDARC) to enhance the capacity of at-risk communities. <b>This pilot project focused on improving existing data on road networks and key disaster response infrastructures in the region</b>, and a series of technical workshops were conducted to engage and build capacities in local stakeholders.
+  Through our Mapping for Climate Ready Cities program, the Humanitarian OpenStreetMap Team (HOT) is supporting the development of a thriving ecosystem focused on the creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions.
+  <br>
+  Since 2023, Start Fund Nepal (SFN) and HOT's <a href="https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/">Open-Mapping Hub - Asia-Pacific (AP Hub)</a> have collaborated with local communities and the Karnali Integrated Rural Development and Research Centre (KIRDARC) to enhance the capacity of at-risk communities in Karnali Province, Nepal. <b>This pilot project focused on improving existing data on road networks and key disaster response infrastructures in the region</b>, and a series of technical workshops were conducted to engage and build capacities in local stakeholders.
 Feature Image: "/uploads/RoadNewtorkCover.jpg"
-Is image top aligned: true
+Is image top aligned: false
 Country:
 - Nepal
 Impact Area:
@@ -36,7 +36,7 @@ Tools:
 - link: http://brouter.de/
 ---
 
-##Background
+## Background
 
 Road networks play a crucial role in supporting economic and humanitarian activities within societies. In rural areas, roads are paramount for enhancing accessibility, fostering economic development, and promoting social integration. Improved road infrastructure also facilitates easier access to essential services like healthcare, education, and markets.
 
@@ -57,7 +57,6 @@ The project co-designed and implemented the following workflow with local stakeh
 * The **Building Networks Phase** provided local stakeholders opportunities to network with the wider OSM Nepal Community for future collaborations.
 
 ![Nepal Road Network Validation Project_Workflow-fc8913.png](/uploads/Nepal%20Road%20Network%20Validation%20Project_Workflow-fc8913.png)
-<add image of workflow>
 *AP Hub co-designed workflow with local stakeholders, tailored to the local Karnali Province context.*
 
 **Tasking Manager** and **MapRoulette** were used to update and prepare validated OSM maps for review. **OSMAnd, Organic Maps**, and **BRouter **were used to conduct local validation of updated road network OSM data. **Ushahidi** was used to report local road closures (e.g., from landslides) that can be captured and updated on OSM.
