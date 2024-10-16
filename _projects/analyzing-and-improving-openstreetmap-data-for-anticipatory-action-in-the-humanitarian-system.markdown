@@ -6,7 +6,7 @@ published: false
 Project Summary Text: "“Is an OpenStreetMap dataset good enough to use?” is a question
   we often get, and we’d like to answer it better and more quickly. Understanding
   the strengths of open spatial data sources is critical when preparing maps for a
-  crisis response. As part of ~[H2H’s Anticipatory Action Accelerator](https://h2hnetwork.org/enhancing-h2h-action-for-anticipatory-response/)~,
+  crisis response. As part of [H2H’s Anticipatory Action Accelerator](https://h2hnetwork.org/enhancing-h2h-action-for-anticipatory-response/),
   HOT is working to develop more data insights through data completeness statistics.
   Our aim is to provide more transparency on the usability of OpenStreetMap (OSM)
   data and other open spatial datasets."
