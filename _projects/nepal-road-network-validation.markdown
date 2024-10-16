@@ -1,16 +1,11 @@
 ---
-title: Nepal Road Network Validation
+title: 'Mapping For Climate-Ready Cities: Nepal Road Network Validation'
 date: 2024-10-16 16:33:00 Z
 published: false
-Project Summary Text: 'Since 2023, Start Fund Nepal (SFN) and HOT''s <a href="https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/">Open-Mapping
-  Hub - Asia-Pacific (AP Hub)</a> have collaborated with local communities and the
-  Karnali Integrated Rural Development and Research Centre (KIRDARC) to enhance the
-  capacity of at-risk communities. <b>This pilot project focused on improving existing
-  data on road networks and key disaster response infrastructures in the region</b>,
-  and a series of technical workshops were conducted to engage and build capacities
-  in local stakeholders.
+Project Summary Text: |
+  Through our Mapping for Climate Ready Cities program, the Humanitarian OpenStreetMap Team (HOT) is supporting the development of a thriving ecosystem focused on the creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions. This project page highlights our work in Karnali Province, Nepal.
 
-'
+  Since 2023, Start Fund Nepal (SFN) and HOT's <a href="https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/">Open-Mapping Hub - Asia-Pacific (AP Hub)</a> have collaborated with local communities and the Karnali Integrated Rural Development and Research Centre (KIRDARC) to enhance the capacity of at-risk communities. <b>This pilot project focused on improving existing data on road networks and key disaster response infrastructures in the region</b>, and a series of technical workshops were conducted to engage and build capacities in local stakeholders.
 Feature Image: "/uploads/RoadNewtorkCover.jpg"
 Is image top aligned: true
 Country:
@@ -48,6 +43,9 @@ Road networks play a crucial role in supporting economic and humanitarian activi
 Currently, **the rural regions of Nepal face a lack of reliable road network data**. Moreover, existing poor-quality OpenStreetMap (OSM) road network data can result in inaccurate routing. Additionally, inaccurate and inaccessible data can also slow down or impede effective humanitarian aid during emergencies.
 
 While OSM allows actors, such as local governments, to add missing features or rectify and update data in OSM, knowledge of OSM in the region is still limited. Thus, it is critical that local stakeholders are trained on OSM so that they can (1) leverage it to inform their decision-making and (2) maintain and update OSM data to support local development and humanitarian efforts.
+
+![1711641223496.jpg](/uploads/1711641223496.jpg)
+*Local stakeholders participate in the Foundational Phase of the project*
 
 ## Co-Designing, Capacity Building, and Networking
 
