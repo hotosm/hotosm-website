@@ -52,7 +52,8 @@ Block 2:
     Ssekandi Nassozi, HOT Staff.'
   Project:
   - Gaza Building Footprints Pre-Conflict Update 2024
-  - Women-Centered Disaster Resilience in Small Island Developing States - Timor-Leste
+  - Analyzing and Improving OpenStreetMap Data for Anticipatory Action in the Humanitarian
+    System
   - Women-Centered Disaster Resilience in Small Island Developing States - Trinidad
     and Tobago
 Program-summary:
