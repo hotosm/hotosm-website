@@ -82,7 +82,9 @@ Through the project, the region has seen an average of **44.17% increase in road
 ![Nepal Road Network Validation Project_OSM Data growth.png](/uploads/Nepal%20Road%20Network%20Validation%20Project_OSM%20Data%20growth.png)
 *OSM Road Network Data growth and changes between Oct 2023 and June 2024 ([ohsome, 2024](https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=boundary&time=2023-09-15T00%3A00%3A00Z%2F2024-06-15T00%3A00%3A00Z%2FP1M&key=highway&value=&types=way&measure=length&adminids=-15588737%2C-4586365%2C-4586361)).*
 
+##Looking for more information?
+The AP Hub has released a comprehensive resource booklet covering the outcomes of this project: [Read here. ](https://drive.google.com/file/d/1gsw0UPcpAs6_ylKhhfxG_tKwINHZARhG/view?usp=sharing)
 
+[![Nepal Road Network Validation Project_Cover Page.png](/uploads/Nepal%20Road%20Network%20Validation%20Project_Cover%20Page.png)](https://drive.google.com/file/d/1gsw0UPcpAs6_ylKhhfxG_tKwINHZARhG/view?usp=sharing)
 
-Call to action (optional)
 
