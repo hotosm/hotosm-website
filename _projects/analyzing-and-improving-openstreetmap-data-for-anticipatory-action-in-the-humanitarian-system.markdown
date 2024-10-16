@@ -2,7 +2,6 @@
 title: Analyzing and Improving OpenStreetMap Data for Anticipatory Action in the Humanitarian
   System
 date: 2024-10-15 23:09:00 Z
-published: false
 Project Summary Text: “Is an OpenStreetMap dataset good enough to use?” is a question
   we often get, and we’d like to answer it better and more quickly. Understanding
   the strengths of open spatial data sources is critical when preparing maps for a
