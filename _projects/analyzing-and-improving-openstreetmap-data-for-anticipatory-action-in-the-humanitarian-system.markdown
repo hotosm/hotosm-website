@@ -59,7 +59,7 @@ Through consultation with humanitarian partners, we are starting this work focus
 
 ### Planned project activities 
 
-To make OSM data more useful for anticipatory action, HOT intends to standardize information for OSM exports from HOT’s Export Tool and HDX by: adding humanitarian unique identifiers (~[OCHA p-codes](https://storymaps.arcgis.com/stories/dcf6135fc0e943a9b77823bb069e2578)~) for all admin levels to OSM data on populated places, pilot if it's possible to parse place names in OSM based on transliterations and including additional statistics on spatial and attribute data completeness to the metadata.
+To make OSM data more useful for anticipatory action, HOT intends to standardize information for OSM exports from HOT’s Export Tool and HDX by: adding humanitarian unique identifiers ([OCHA p-codes](https://storymaps.arcgis.com/stories/dcf6135fc0e943a9b77823bb069e2578)) for all admin levels to OSM data on populated places, pilot if it's possible to parse place names in OSM based on transliterations and including additional statistics on spatial and attribute data completeness to the metadata.
 
 Moreover, we aim to create a data statistics visualizer to better understand spatial coverage and attribute completeness *before* downloading an OSM dataset. Finally, we will create sample data quality reports based on roads and populated places to inform data improvement priorities and direct future inquiries on OSM completeness analyses. 
 
