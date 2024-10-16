@@ -51,7 +51,7 @@ Through consultation with humanitarian partners, we are starting this work focus
 
 <br>
 
-![Example of increased data quality in OpenStreetMap building footprints in Gaza B](https://www.hotosm.org/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza%20B.png)
+![Example of increased data quality in OpenStreetMap building footprints in Gaza B](https://www.hotosm.org/uploads/screenshot-h2h-dashboard.png)
 *maybe add a block of all download stats here or graph of popular datasets highlighting pop places and roads?*
 <br>
 
