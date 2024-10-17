@@ -81,9 +81,8 @@ Narrative-section:
     HOT holds itself and its partners to highly responsible data standards guided
     by [HOT’s data principles](https://www.hotosm.org/tools-and-data/data-principles/).
     All work done through this program complies with [HOT’s data protection framework](https://github.com/hotosm/data_protection_project/).
-Quote: Utilizing responsible open data to support aid delivery in conflict zones and
-  for displaced communities, ensuring support reaches those in need when it matters
-  most.<br>
+Quote: Open data for better planning and aid delivery in crisis situations, such as
+  conflict zones and displaced communities.<br>
 Project-objectives:
   Title: Proposed Program Goals & Objectives
   Icon1: fa-solid fa-house-chimney-crack
