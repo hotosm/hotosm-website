@@ -2,7 +2,6 @@
 title: Conflict & Displacement Program
 date: 2024-10-01 05:01:00 Z
 permalink: "/programs/conflict-displacement"
-published: false
 position: 88
 Country:
 - Palestinian Territory
