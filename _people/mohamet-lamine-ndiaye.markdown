@@ -5,7 +5,7 @@ Photo: https://cdn.hotosm.org/website/lamine+profil+-+Mohamet+Lamine+Ndiaye.jpg
 Member Type:
   Is Staff: false
   Is Voting Member: true
-  Is Board Member: true
+  Is Board Member: false
 Job Title: Member at Large
 Project:
 - 'Senegal Emergency Health Data Campaign: Enabling in-country analysis of healthcare

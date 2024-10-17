@@ -4,7 +4,7 @@ date: 2022-09-02 10:38:00 Z
 Photo: https://cdn.hotosm.org/website/Anni+Beukes.png
 Member Type:
   Is Voting Member: true
-  Is Board Member: true
+  Is Board Member: false
 Job Title: Member At Large
 Project:
 - 
