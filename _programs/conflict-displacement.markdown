@@ -54,8 +54,7 @@ Block 2:
   - Gaza Building Footprints Pre-Conflict Update 2024
   - Analyzing and Improving OpenStreetMap Data for Anticipatory Action in the Humanitarian
     System
-  - Women-Centered Disaster Resilience in Small Island Developing States - Trinidad
-    and Tobago
+  - 
 Program-summary:
   Program Summary Text: |+
     <span style="font-size: 0.6em;"><font color="#778899">Cover Photo: Soldiers from the Somali National Army stand watch as women wait at an IDP camp near the town of Beletweyne, Somalia / Tobin Jones</font></span>
