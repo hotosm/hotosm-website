@@ -11,6 +11,15 @@ Summary Text: 'At Humanitarian OpenStreetMap Team (HOT), we often get asked, “
   on what data source to use.
 
 '
+Person: Jessica Pechmann
+Country:
+- Ethiopia
+- Mozambique
+- Somalia
+- South Sudan
+Project:
+- Analyzing and Improving OpenStreetMap Data for Anticipatory Action in the Humanitarian
+  System
 ---
 
 If a user needs a quick answer to the question, “what is the best dataset in the Humanitarian Data Exchange”, [HDX’s Data Grids](https://data.humdata.org/group/afg) has a recommended source for all countries with Humanitarian Response Plans for six spatial datasets (administrative divisions, populated places, roads, airports, and health and education facilities). 
