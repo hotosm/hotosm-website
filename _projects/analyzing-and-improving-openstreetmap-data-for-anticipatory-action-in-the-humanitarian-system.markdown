@@ -71,4 +71,4 @@ After fulfilling this project’s scope, we intend to expand this work to all da
 
 ### *Are you a user of OSM datasets and have any feedback? Contact us at data@hotosm.org to partner, volunteer, or donate to ongoing efforts in data accessibility, insights, transparency, and usability.*
 
-*Cover Photo: HOTOSM*
+*Cover Photo: Mapping in the Newly Formed Cities in Northern Uganda, HOTOSM*
