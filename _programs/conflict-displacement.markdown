@@ -51,7 +51,7 @@ Block 2:
   Text: Through the Missing Maps project, the HOT global community creates maps of
     high vulnerability areas where data is scarce, putting an area home to millions
     of people onto the world map in OpenStreetMap.
-  Image: https://www.hotosm.org/uploads/hot-staff-img-2235.jpg
+  Image: "/uploads/hot-staff-img-2235-flipped.jpg"
   Figcaption: 'Refugee Crisis Mapping project  in Arua district, Uganda in collaboration
     with Global Partnership for Sustainable Development Data (GPSDD). Photo by: Shamillah
     Ssekandi Nassozi, HOT Staff.'
