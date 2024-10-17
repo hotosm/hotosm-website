@@ -1,6 +1,7 @@
 ---
 title: Nasilele Amatende
 date: 2021-05-04 14:07:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Nasilele+Amatende.jpeg
 Member Type:
   Is Staff: true
