@@ -19,11 +19,11 @@ Duration:
   End Date: 2026-12-31 00:00:00 Z
   Timeframe: 2024 - 2026 Cycle
 Stats:
-  stat1: "+460K"
+  stat1: "+460,000"
   text1: Map edits in OSM
   hover1: 'Refers to any change made, such as adding, modifying, or deleting features
     like roads, buildings, points of interest, or others. '
-  stat2: 157k
+  stat2: "+157,000"
   text2: Buildings Mapped
   hover2: The absolute increase or decrease in the amount of buildings in the OSM
     database.
