@@ -25,28 +25,166 @@ Project:
 If a user needs a quick answer to the question, “what is the best dataset in the Humanitarian Data Exchange”, [HDX’s Data Grids](https://data.humdata.org/group/afg) has a recommended source for all countries with Humanitarian Response Plans for six spatial datasets (administrative divisions, populated places, roads, airports, and health and education facilities). 
 
 The two most common data sources for spatial datasets are HOT and OCHA. HOT provides data exports directly from OpenStreetMap. [OSM](https://wiki.openstreetmap.org/wiki/About_OpenStreetMap) datasets are crowdsourced and community generated. OCHA data comes from a variety of sources and is usually created by a single entity. The table below shows the top recommended data source per country and dataset, according to the Data Grids. 
+It is not possible to recreate the exact color formatting in Markdown alone, as Markdown does not natively support background colors for table cells. However, you can use HTML alongside Markdown to style the table with colors. Here's a Markdown table with inline HTML to match the color scheme from the image:
 
-| Country                 | Administrative Divisions | Populated Places | Roads        | Airports     | Health Facilities | Education Facilities |
-|-------------------------|--------------------------|------------------|--------------|--------------|-------------------|----------------------|
-| Afghanistan              | OCHA                     | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  | OCHA               | OCHA                |
-| Burkina Faso             | OCHA                     | OCHA             | OCHA         | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  |
-| Cameroon                 | OCHA                     | OCHA             | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  | HDX                | <span style="color:red">HOT</span>  |
-| CAR                      | OCHA                     | OCHA             | <span style="color:red">HOT</span>  | OCHA         | HDX                | OCHA                |
-| Chad                     | OCHA                     | OCHA             | OCHA         | OCHA         | HDX                | <span style="color:red">HOT</span>  |
-| Colombia                 | OCHA                     | OCHA             | OCHA         | OurAirports  | OCHA               | OCHA                |
-| Democratic Congo         | OCHA                     | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  |
-| Ethiopia                 | OCHA                     | OCHA             | OCHA         | OCHA         | HDX                | OCHA                |
-| Haiti                    | OCHA                     | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  | OCHA               | OCHA                |
-| Mali                     | OCHA                     | OCHA             | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  | OCHA               | OCHA                |
-| Mozambique               | OCHA                     | <span style="color:red">HOT</span>  | OCHA         | <span style="color:red">HOT</span>  | WHO                | OCHA                |
-| Myanmar                  | MIMU                     | MIMU             | MIMU         | MIMU         | <span style="color:red">HOT</span>  | MIMU                |
-| Niger                    | OCHA                     | OCHA             | OCHA         | OCHA         | OCHA               | OCHA                |
-| Nigeria                  | OCHA                     | OCHA             | OCHA         | <span style="color:red">HOT</span>  | HDX                | <span style="color:red">HOT</span>  |
-| Somalia                  | OCHA                     | OCHA             | <span style="color:red">HOT</span>  | OCHA         | WHO                | OCHA                |
-| South Sudan              | OCHA                     | OCHA             | OCHA         | OCHA         | HDX                | IOM                 |
-| State of Palestine       | OCHA                     | OCHA             | OCHA         | OCHA         | OCHA               | OCHA                |
-| Sudan                    | OCHA                     | OCHA             | OCHA         | OCHA         | HDX                | OCHA                |
-| Syrian Arab Republic     | OCHA                     | OCHA             | WFP          | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  |
-| Ukraine                  | OCHA                     | OCHA             | <span style="color:red">HOT</span>  | OCHA         | NA                 | NA                  |
-| Venezuela                | OCHA                     | OCHA             | NA           | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  | <span style="color:red">HOT</span>  |
-| Yemen                    | OCHA                     | OCHA             | OCHA         | OCHA         | OCHA               | <span style="color:red">HOT</span>  |
+```html
+<table>
+  <tr>
+    <th>Country</th>
+    <th>Administrative Divisions</th>
+    <th>Populated Places</th>
+    <th>Roads</th>
+    <th>Airports</th>
+    <th>Health Facilities</th>
+    <th>Education Facilities</th>
+  </tr>
+  <tr>
+    <td>Afghanistan</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+  </tr>
+  <tr>
+    <td>Burkina Faso</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+  </tr>
+  <tr>
+    <td>Cameroon</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue">HDX</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+  </tr>
+  <tr>
+    <td>CAR</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">HDX</td>
+    <td style="background-color:lightblue">OCHA</td>
+  </tr>
+  <tr>
+    <td>Chad</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">HDX</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+  </tr>
+  <tr>
+    <td>Colombia</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OurAirports</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+  </tr>
+  <tr>
+    <td>Democratic Congo</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+  </tr>
+  <tr>
+    <td>Ethiopia</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">HDX</td>
+    <td style="background-color:lightblue">OCHA</td>
+  </tr>
+  <tr>
+    <td>Haiti</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+  </tr>
+  <tr>
+    <td>Mali</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+  </tr>
+  <tr>
+    <td>Mozambique</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue">WHO</td>
+    <td style="background-color:lightblue">OCHA</td>
+  </tr>
+  <tr>
+    <td>Myanmar</td>
+    <td style="background-color:lightblue">MIMU</td>
+    <td style="background-color:lightblue">MIMU</td>
+    <td style="background-color:lightblue">MIMU</td>
+    <td style="background-color:lightblue">MIMU</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue">MIMU</td>
+  </tr>
+  <tr>
+    <td>Niger</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+  </tr>
+  <tr>
+    <td>Nigeria</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue">HDX</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+  </tr>
+  <tr>
+    <td>Somalia</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">WHO</td>
+    <td style="background-color:lightblue">OCHA</td>
+  </tr>
+  <tr>
+    <td>South Sudan</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">HDX</td>
+    <td style="background-color:lightblue">IOM</td>
+  </tr>
+  <tr>
+    <td>State of Palestine</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</td>
+    <td style="background-color:lightblue">OCHA</
