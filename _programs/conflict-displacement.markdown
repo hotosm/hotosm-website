@@ -19,18 +19,20 @@ Duration:
   End Date: 2026-12-31 00:00:00 Z
   Timeframe: 2024 - 2026 Cycle
 Stats:
-  stat1: "+157K"
-  text1: map edits in OpenStreetMap
-  hover1: "(currently just Gaza.. others (Sudan, AA etc to follow) "
-  stat2: 999
-  text2: 'Datasets recommended  '
-  hover2: in HDX Data Grids OR total datasets on HDX
-  stat3: "+500"
-  text3: datatasets downloaded
-  hover3: which datasets would be counted here?
-  stat4: 8
-  text4: 'test '
-  hover4: test
+  stat1: "+460K"
+  text1: Map edits in OSM
+  hover1: 'Refers to any change made, such as adding, modifying, or deleting features
+    like roads, buildings, points of interest, or others. '
+  stat2: 157k
+  text2: Buildings Mapped
+  hover2: The absolute increase or decrease in the amount of buildings in the OSM
+    database.
+  stat3: 12
+  text3: Tasking Manager Projects
+  hover3: Number of Tasking Manager projects created under this program.
+  stat4: 49
+  text4: 'Contributors in OSM '
+  hover4: The number of distinct users that have edited OSM data.
 Feature-Image: "/uploads/UNsomalia-27332415045_217de2d978_o.jpg"
 Event Promo:
   Event Name: Conflict & Displacement Program
