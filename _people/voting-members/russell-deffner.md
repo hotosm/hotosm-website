@@ -5,7 +5,8 @@ Photo: https://cdn.hotosm.org/website/russell.jpg
 Member Type:
   Is Staff: false
   Is Voting Member: true
-Job Title: Voting Member
+  Is Board Member: true
+Job Title: Member At-Large
 Working Group:
 - Activation
 - Governance
