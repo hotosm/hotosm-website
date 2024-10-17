@@ -8,7 +8,7 @@ Country:
 - Palestinian Territory
 - Sudan
 - Somalia
-- south sudan
+- South Sudan
 - Ethiopia
 Impact Area:
 - Displacement & Safe Migration
