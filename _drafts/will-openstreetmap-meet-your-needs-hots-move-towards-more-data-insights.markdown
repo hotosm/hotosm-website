@@ -115,7 +115,7 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td class="lightOCHA">OCHA</td>
     <td class="lightHOT">HOT</td>
     <td class="lightHOT">HOT</td>
-    <td class="lightHDX">HDX</td>
+    <td class="lightOCHA">HDX</td>
     <td class="lightHOT">HOT</td>
   </tr>
   <tr>
@@ -124,7 +124,7 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td class="lightOCHA">OCHA</td>
     <td class="HOT">HOT</td>
     <td class="OCHA">OCHA</td>
-    <td class="lightHDX">HDX</td>
+    <td class="lightOCHA">HDX</td>
     <td class="lightOCHA">OCHA</td>
   </tr>
   <tr>
@@ -133,7 +133,7 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td class="lightOCHA">OCHA</td>
     <td class="lightOCHA">OCHA</td>
     <td class="lightOCHA">OCHA</td>
-    <td class="lightHDX">HDX</td>
+    <td class="lightOCHA">HDX</td>
     <td class="lightHOT">HOT</td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td class="lightOCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
     <td class="lightOCHA">OCHA</td>
-    <td class="OurAirports">OurAirports</td>
+    <td class="lightOCHA">OurAirports</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
   </tr>
@@ -160,7 +160,7 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td class="lightOCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
     <td class="lightOCHA">OCHA</td>
-    <td class="lightHDX">HDX</td>
+    <td class="lightOCHA">HDX</td>
     <td class="OCHA">OCHA</td>
   </tr>
   <tr>
@@ -214,7 +214,7 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
     <td class="lightHOT">HOT</td>
-    <td class="lightHDX">HDX</td>
+    <td class="lightOCHA">HDX</td>
     <td class="lightHOT">HOT</td>
   </tr>
   <tr>
