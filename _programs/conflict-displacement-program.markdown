@@ -33,8 +33,9 @@ Stats:
   text3: Tasking Manager Projects
   hover3: Number of Tasking Manager projects created under this program.
   stat4: 49
-  text4: 'Contributors in OSM '
-  hover4: The number of distinct users that have edited OSM data.
+  text4: Expert OSM Contributors
+  hover4: The number of distinct users that have edited OSM data. Projects in this
+    program are only open to expert mappers.
 Feature-Image: "/uploads/UNsomalia-27332415045_217de2d978_o.jpg"
 Event Promo:
   Event Name: Conflict & Displacement Program
