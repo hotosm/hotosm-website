@@ -26,6 +26,9 @@ If a user needs a quick answer to the question, “what is the best dataset in t
 
 The two most common data sources for spatial datasets are HOT and OCHA. HOT provides data exports directly from OpenStreetMap. [OSM](https://wiki.openstreetmap.org/wiki/About_OpenStreetMap) datasets are crowdsourced and community generated. OCHA data comes from a variety of sources and is usually created by a single entity. The table below shows the top recommended data source per country and dataset, according to the Data Grids. 
 
+<br>
+<br>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -240,6 +243,19 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
 
 </body>
 </html>
+*Chart Showing HDX Recommended Resources by Organization and if they are Considered Complete or Incomplete: <a style="color:blue">Complete</a>, <a style="color:red">Incomplete</a>*
+
+<br>
+A dataset is considered “complete” by HDX if it’s: 
+1. In a readable format
+2. Covers the whole country
+3. Follows an update cycle
+
+50% of the recommended spatial datasets above are considered “complete”. Of the 35 HOT datasets recommended in the Data Grids, 30 are identified by HDX as “incomplete”.
+
+Is an “incomplete” dataset still usable? And what about its attributes (OSM tags)? It depends on the use case. Based on user feedback, we’ve developed resources to better understand OSM data before downloading. 
+
+Starting with roads and populated place datasets, we surveyed OSM data users for the most important factors they consider when determining if a dataset is usable. We found that spatial coverage is the most important factor, especially for populated places, while precision and attributes also remain important. 
 
 <br>
 ***Chart 2***
@@ -322,7 +338,7 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
 </html>
 
 <br>
-***Chart 3***
+***In the same survey, we found feature categorization was the most important attribute (OSM tag) for both datasets.***
 <br>
 
 
@@ -422,3 +438,16 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
 
 </body>
 </html>
+<br>
+
+### How this will help data users?
+HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats/) as a sample to reviewing OSM data quality and completeness. In the report, we compare HOT/OSM and OCHA data sources (as the two most popular data sources for spatial datasets in HDX) for greater context. **In general, we found HOT data has larger spatial coverage, but less completed attributes.** Here we share two country-specific examples of these findings, but we encourage you to check out the full report to view similar comparisons! 
+
+**Example 1. Country: Somalia, Dataset: Populated Places** 
+* **Coverage**: HOT has 80% more populated places than OCHA, with **HOT’s 57,822**, to **OCHA’s 11,283.**  
+* **Name**: OCHA’s dataset has *significantly* more places with names. **13% of the places from HOT’s dataset have a name, vs. 100% in OCHA**. 
+
+⠀**“Type”**: HOT’s OSM dataset categorizes points as **isolated dwellings, hamlet, and village**, while OCHA’s dataset is mostly classified as **settlements, with very few nomadic settlements and IDP camps.**
+
+
+
