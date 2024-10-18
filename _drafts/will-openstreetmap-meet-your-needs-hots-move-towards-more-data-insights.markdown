@@ -25,7 +25,13 @@ Project:
 
 If a user needs a quick answer to the question, “what is the best dataset in the Humanitarian Data Exchange”, [HDX’s Data Grids](https://data.humdata.org/group/afg) has a recommended source for all countries with Humanitarian Response Plans for six spatial datasets (administrative divisions, populated places, roads, airports, and health and education facilities). 
 
-The two most common data sources for spatial datasets are HOT and OCHA. HOT provides data exports directly from OpenStreetMap. [OSM](https://wiki.openstreetmap.org/wiki/About_OpenStreetMap) datasets are crowdsourced and community generated. OCHA data comes from a variety of sources and is usually created by a single entity. The table below shows the top recommended data source per country and dataset, according to the Data Grids. 
+The two most common data sources for spatial datasets are HOT and OCHA. HOT provides data exports directly from OpenStreetMap. [OSM](https://wiki.openstreetmap.org/wiki/About_OpenStreetMap) datasets are crowdsourced and community generated. OCHA data comes from a variety of sources and is usually created by a single entity. The table below shows the top recommended data source, and its completness per country and dataset, according to the Data Grids. 
+
+A dataset is considered “complete” by HDX if it’s: 
+1. In a readable format
+2. Covers the whole country
+3. Follows an update cycle
+
 
 <br>
 <br>
@@ -296,10 +302,6 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
 *Chart Showing HDX Recommended Resources by Organization and if they are Considered Complete or Incomplete: <a style="color:blue">Complete</a>, <a style="color:red">Incomplete</a>*
 
 <br>
-A dataset is considered “complete” by HDX if it’s: 
-1. In a readable format
-2. Covers the whole country
-3. Follows an update cycle
 
 50% of the recommended spatial datasets above are considered “complete”. Of the 35 HOT datasets recommended in the Data Grids, 30 are identified by HDX as “incomplete”.
 
