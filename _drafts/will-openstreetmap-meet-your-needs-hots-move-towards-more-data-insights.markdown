@@ -240,3 +240,83 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
 
 </body>
 </html>
+
+<br>
+***Chart 2***
+<br>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OSM User Survey Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #chartContainer {
+            max-width: 700px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chartContainer">
+    <canvas id="osmChart"></canvas>
+</div>
+
+<script>
+    const ctx = document.getElementById('osmChart').getContext('2d');
+    const osmChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['Populated Places', 'Roads'],
+            datasets: [
+                {
+                    label: 'Spatial Coverage',
+                    data: [60, 50],
+                    backgroundColor: 'rgba(83, 141, 153, 1)',
+                },
+                {
+                    label: 'Geometric Precision',
+                    data: [40, 45],
+                    backgroundColor: 'rgba(151, 213, 211, 1)',
+                },
+                {
+                    label: 'Attribute Completeness',
+                    data: [30, 35],
+                    backgroundColor: 'rgba(243, 177, 100, 1)',
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Importance Ranking',
+                        font: {
+                            size: 16
+                        }
+                    }
+                }
+            },
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'OSM User Survey: Quality Metric Importance Ranking',
+                    font: {
+                        size: 18
+                    }
+                }
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
