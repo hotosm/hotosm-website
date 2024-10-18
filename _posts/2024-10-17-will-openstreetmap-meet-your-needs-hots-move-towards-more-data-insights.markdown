@@ -512,7 +512,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OCHA and HOT 'Place' Values Chart</title>
+    <title>OCHA and HOT 'Place' Values Chart (Sorted)</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         body {
@@ -531,35 +531,58 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 </div>
 
 <script>
+    // Original data
+    const labels = [
+        'isolated_dwelling',
+        'hamlet',
+        'village',
+        'town',
+        'city',
+        'Settlement',
+        'Temporary nomadic settlement',
+        'IDP Camp',
+        'Part of town',
+        'District Capital',
+        'Regional Capital',
+        'Town',
+        'National Capital'
+    ];
+    
+    const hotData = [40759, 11400, 5502, 125, 36, 0, 0, 0, 0, 0, 0, 0, 0]; // HOT data
+    const ochaData = [0, 0, 0, 0, 0, 9746, 732, 533, 186, 55, 17, 13, 1];  // OCHA data
+    
+    // Combine HOT and OCHA data for sorting
+    let combinedData = labels.map((label, index) => ({
+        label: label,
+        hotCount: hotData[index],
+        ochaCount: ochaData[index],
+        totalCount: hotData[index] + ochaData[index]
+    }));
+
+    // Sort by total count (descending order)
+    combinedData.sort((a, b) => b.totalCount - a.totalCount);
+
+    // Extract sorted labels and data
+    const sortedLabels = combinedData.map(item => item.label);
+    const sortedHotData = combinedData.map(item => item.hotCount);
+    const sortedOchaData = combinedData.map(item => item.ochaCount);
+
+    // Create the chart
     const ctx3 = document.getElementById('placeValuesChart').getContext('2d');
     const placeValuesChart = new Chart(ctx3, {
         type: 'bar',
         data: {
-            labels: [
-                'isolated_dwelling',
-                'hamlet',
-                'village',
-                'town',
-                'city',
-                'Settlement',
-                'Temporary nomadic settlement',
-                'IDP Camp',
-                'Part of town',
-                'District Capital',
-                'Regional Capital',
-                'Town',
-                'National Capital'
-            ],
+            labels: sortedLabels,
             datasets: [
                 {
                     label: 'HOT',
-                    data: [40759, 11400, 5502, 125, 36, 0, 0, 0, 0, 0, 0, 0, 0],
+                    data: sortedHotData,
                     backgroundColor: 'rgba(60, 120, 216, 1)', // Blue color for HOT
                     borderWidth: 1
                 },
                 {
                     label: 'OCHA',
-                    data: [0, 0, 0, 0, 0, 9746, 732, 533, 186, 55, 17, 13, 1],
+                    data: sortedOchaData,
                     backgroundColor: 'rgba(243, 177, 70, 1)', // Yellow color for OCHA
                     borderWidth: 1
                 }
@@ -577,18 +600,13 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
                         font: {
                             size: 16
                         }
-                    },
-                    ticks: {
-                        callback: function(value) {
-                            return value; // Add count label
-                        }
                     }
                 }
             },
             plugins: {
                 title: {
                     display: true,
-                    text: "OCHA and HOT 'Place' Values",
+                    text: "OCHA and HOT 'Place' Values (Sorted by Count)",
                     font: {
                         size: 18
                     }
