@@ -52,11 +52,11 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
       color: white;
     }
     td.HOT {
-      background-color: #FF4500; /* Red */
+      background-color: #d63f3e; /* Red */
       color: white;
     }
     td.lightHOT {
-      background-color: #ffa280; /* Lighter Red */
+      background-color: #e37e7d; /* Lighter Red */
       color: white;
     }
     td.lightOCHA {
