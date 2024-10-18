@@ -297,7 +297,7 @@ A dataset is considered “complete” by HDX if it’s: 
 
 </body>
 </html>
-*<span style="color: blue;">■</span><span style="color: red;">■</span> Complete, <span style="color: blue;">■</span><span class="lightHOT">■</span> Incomplete, *
+*<span style="color: #1E90FF;">■</span><span style="color: #d63f3e;">■</span> Complete, <span style="color: #87CEEB;">■</span><span style="color: #eca8a7;">■</span> Incomplete*
 
 <br>
 
