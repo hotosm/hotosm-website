@@ -28,7 +28,7 @@ If a user needs a quick answer to the question, “what is the best dataset in t
 <br>
 > At Humanitarian OpenStreetMap Team (HOT), we often get asked, **“how good is OpenStreetMap data” in a given area?** With better information on a dataset’s spatial coverage and attribute completeness, users can make quicker and more efficient decisions on what data source to use.
 
-<br>
+
 <br>
 
 The two most common data sources for spatial datasets are HOT and OCHA. HOT provides data exports directly from OpenStreetMap. [OSM](https://wiki.openstreetmap.org/wiki/About_OpenStreetMap) datasets are crowdsourced and community generated. OCHA data comes from a variety of sources and is usually created by a single entity. The table below shows the top recommended data source, and its completness per country and dataset, according to the Data Grids. 
