@@ -553,13 +553,13 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
                 {
                     label: 'HOT',
                     data: [38000, 18000, 0, 9000, 2000, 0, 0, 1000, 500, 200, 100, 0, 0],
-                    backgroundColor: 'rgba(60, 120, 216, 1)',
+                    backgroundColor: ' #d63f3e',
                     borderWidth: 1
                 },
                 {
                     label: 'OCHA',
                     data: [0, 0, 14000, 0, 2000, 500, 0, 0, 0, 0, 0, 0, 0],
-                    backgroundColor: 'rgba(243, 177, 70, 1)',
+                    backgroundColor: '#1E90FF',
                     borderWidth: 1
                 }
             ]
