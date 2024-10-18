@@ -1,16 +1,8 @@
 ---
 title: Will OpenStreetMap meet your needs? HOT’s move towards more data insights
 date: 2024-10-17 21:10:00 Z
-Summary Text: 'At Humanitarian OpenStreetMap Team (HOT), we often get asked, “how
-  good is OpenStreetMap data” in a given area? In the spirit of <a href="https://en.wikipedia.org/wiki/FAIR_data">FAIR
-  data</a> (findable, accessible, interoperable, and reusable) and with support from
-  the <a href="https://www.hotosm.org/updates/improving-osm-for-anticipatory-action-with-h2h/">H2H
-  Network</a>, HOT is improving the reusability of OpenStreetMap (OSM) data through
-  improved metadata of its datasets. With better information on a dataset’s spatial
-  coverage and attribute completeness, users can make quicker and more efficient decisions
-  on what data source to use.
-
-'
+Summary Text: "At Humanitarian OpenStreetMap Team (HOT), we often get asked, “how
+  good is OpenStreetMap data” in a given area? \n"
 Feature Image: "/uploads/HAITI%20(1).jpg"
 Person:
 - Jessica Pechmann
@@ -24,6 +16,8 @@ Project:
 - Analyzing and Improving OpenStreetMap Data for Anticipatory Action in the Humanitarian
   System
 ---
+
+In the spirit of <a href="https://en.wikipedia.org/wiki/FAIR_data">FAIR data</a> (findable, accessible, interoperable, and reusable) and with support from the <a href="https://www.hotosm.org/updates/improving-osm-for-anticipatory-action-with-h2h/">H2H Network</a>, HOT is improving the reusability of OpenStreetMap (OSM) data through improved metadata of its datasets. With better information on a dataset’s spatial coverage and attribute completeness, users can make quicker and more efficient decisions on what data source to use.
 
 If a user needs a quick answer to the question, “what is the best dataset in the Humanitarian Data Exchange”, [HDX’s Data Grids](https://data.humdata.org/group/afg) has a recommended source for all countries with Humanitarian Response Plans for six spatial datasets (administrative divisions, populated places, roads, airports, and health and education facilities). 
 
