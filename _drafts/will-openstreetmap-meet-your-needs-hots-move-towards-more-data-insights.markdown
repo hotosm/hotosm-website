@@ -349,8 +349,8 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
 </div>
 
 <script>
-    const ctx = document.getElementById('attributeChart').getContext('2d');
-    const attributeChart = new Chart(ctx, {
+    const ctx2 = document.getElementById('attributeChart').getContext('2d');
+    const attributeChart = new Chart(ctx2, {
         type: 'bar',
         data: {
             labels: [
