@@ -667,13 +667,13 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
                 {
                     label: 'HOT',
                     data: [44000, 30000, 10000, 8000, 5000, 5000, 4000, 0, 3000, 2000, 1000, 500, 500, 500, 500, 500, 0, 0, 0, 0, 0, 0],
-                    backgroundColor: 'rgba(60, 120, 216, 1)',
+                    backgroundColor: '#d63f3e',
                     borderWidth: 1
                 },
                 {
                     label: 'OCHA',
                     data: [0, 27000, 0, 0, 3000, 0, 4000, 2000, 0, 0, 0, 0, 0, 0, 0, 0, 2000, 0, 0, 0, 0, 0],
-                    backgroundColor: 'rgba(243, 177, 70, 1)',
+                    backgroundColor: '#1E90FF',
                     borderWidth: 1
                 }
             ]
