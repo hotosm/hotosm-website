@@ -507,110 +507,6 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 <br>
 ***IMAGE CHART HERE***
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Combined 'Point' Values Chart</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        #chartContainer {
-            max-width: 900px;
-            margin: 0 auto;
-        }
-    </style>
-</head>
-<body>
-
-<div id="chartContainer">
-    <canvas id="pointValuesChart"></canvas>
-</div>
-
-<script>
-    const ctx3 = document.getElementById('pointValuesChart').getContext('2d');
-    const pointValuesChart = new Chart(ctx3, {
-        type: 'bar',
-        data: {
-            labels: [
-                'isolated_dwelling',
-                'hamlet',
-                'Settlement',
-                'village',
-                'nomadic settlement',
-                'IDP Camp',
-                'Part of town',
-                'town',
-                'District Capital',
-                'city',
-                'Regional Capital',
-                'Town',
-                'National Capital'
-            ],
-            datasets: [
-                {
-                    label: 'HOT',
-                    data: [40759, 11400, 0, 5502, 2000, 0, 0, 1000, 500, 200, 100, 0, 0],
-                    backgroundColor: ' #d63f3e',
-                    borderWidth: 1
-                },
-                {
-                    label: 'OCHA',
-                    data: [0, 0, 9746, 0, 2000, 500, 0, 0, 0, 0, 0, 0, 0],
-                    backgroundColor: '#1E90FF',
-                    borderWidth: 1
-                }
-            ]
-        },
-        options: {
-            indexAxis: 'y', // Horizontal bar chart
-            responsive: true,
-            scales: {
-                x: {
-                    beginAtZero: true,
-                    title: {
-                        display: true,
-                        text: 'Count',
-                        font: {
-                            size: 16
-                        }
-                    },
-                    ticks: {
-                        callback: function(value) {
-                            return value; // Add count label
-                        }
-                    }
-                }
-            },
-            plugins: {
-                title: {
-                    display: true,
-                    text: "Combined 'Point' Values",
-                    font: {
-                        size: 18
-                    }
-                }
-            }
-        }
-    });
-</script>
-
-</body>
-</html>
-*Comparing the amount of HOT’s vs. OCHA’s “types” of populated places in Somalia*
-<br>
-
-**Example 2. Country: South Sudan, Dataset:Roads**
-* **Coverage**
-  * HOT has 99% more features than OCHA, with **176,345 road features in OSM** vs **976 in OCHA**.  
-  * Despite having significantly less individual features, OCHA has decent spatial coverage with 69% of HOT’s coverage (**43,164 kms** vs **137,476 kms**). 
-* **“Type”**
-  * OCHA only has **river and road** for transportation “type”, while HOT’s OSM dataset has **path, track, residential, tertiary, and primary, secondary, footway, etc.**  
-
-<br>
-***IMAGE CHART HERE***
 
 <html lang="en">
 <head>
@@ -635,8 +531,8 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 </div>
 
 <script>
-    const ctx = document.getElementById('placeValuesChart').getContext('2d');
-    const placeValuesChart = new Chart(ctx, {
+    const ctx3 = document.getElementById('placeValuesChart').getContext('2d');
+    const placeValuesChart = new Chart(ctx3, {
         type: 'bar',
         data: {
             labels: [
@@ -705,6 +601,120 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 </body>
 </html>
 
+*Comparing the amount of HOT’s vs. OCHA’s “types” of populated places in Somalia*
+<br>
+
+**Example 2. Country: South Sudan, Dataset:Roads**
+* **Coverage**
+  * HOT has 99% more features than OCHA, with **176,345 road features in OSM** vs **976 in OCHA**.  
+  * Despite having significantly less individual features, OCHA has decent spatial coverage with 69% of HOT’s coverage (**43,164 kms** vs **137,476 kms**). 
+* **“Type”**
+  * OCHA only has **river and road** for transportation “type”, while HOT’s OSM dataset has **path, track, residential, tertiary, and primary, secondary, footway, etc.**  
+
+<br>
+***IMAGE CHART HERE***
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combined 'Highway' Values Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #chartContainer {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chartContainer">
+    <canvas id="highwayValuesChart"></canvas>
+</div>
+
+<script>
+    const ctx4 = document.getElementById('highwayValuesChart').getContext('2d');
+    const highwayValuesChart = new Chart(ctx4, {
+        type: 'bar',
+        data: {
+            labels: [
+                'path',
+                'road',
+                'track',
+                'unclassified',
+                'residential',
+                'tertiary',
+                'primary',
+                'river',
+                'secondary',
+                'service',
+                'footway',
+                'proposed',
+                'construction',
+                'bridleway',
+                'pedestrian',
+                'living_street',
+                'small_river',
+                'primary_link',
+                'trunk',
+                'tertiary_link',
+                'steps',
+                'secondary_link'
+            ],
+            datasets: [
+                {
+                    label: 'HOT',
+                    data: [44000, 30000, 10000, 8000, 5000, 5000, 4000, 0, 3000, 2000, 1000, 500, 500, 500, 500, 500, 0, 0, 0, 0, 0, 0],
+                    backgroundColor: '#d63f3e',
+                    borderWidth: 1
+                },
+                {
+                    label: 'OCHA',
+                    data: [0, 27000, 0, 0, 3000, 0, 4000, 2000, 0, 0, 0, 0, 0, 0, 0, 0, 2000, 0, 0, 0, 0, 0],
+                    backgroundColor: '#1E90FF',
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            indexAxis: 'y', // Horizontal bar chart
+            responsive: true,
+            scales: {
+                x: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Distance (km)',
+                        font: {
+                            size: 16
+                        }
+                    },
+                    ticks: {
+                        callback: function(value) {
+                            return value + ' km'; // Add km symbol
+                        }
+                    }
+                }
+            },
+            plugins: {
+                title: {
+                    display: true,
+                    text: "Combined 'Highway' Values",
+                    font: {
+                        size: 18
+                    }
+                }
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
 
 *Comparing the amount of HOT’s vs. OCHA’s “types” of roads in South Sudan*
 <br>
