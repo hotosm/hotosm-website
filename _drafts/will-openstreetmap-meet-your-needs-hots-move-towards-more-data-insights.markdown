@@ -32,8 +32,6 @@ A dataset is considered “complete” by HDX if it’s: 
 2. Covers the whole country
 3. Follows an update cycle
 
-
-<br>
 <br>
 
 <html lang="en">
@@ -299,7 +297,7 @@ A dataset is considered “complete” by HDX if it’s: 
 
 </body>
 </html>
-*Chart Showing HDX Recommended Resources by Organization and if they are Considered Complete or Incomplete: <a style="color:blue">Complete</a>, <a style="color:red">Incomplete</a>*
+*<span style="color: blue;">■</span><span style="color: red;">■</span> Complete, <span style="color: blue;">■</span><span class="lightHOT">■</span> Incomplete, *
 
 <br>
 
