@@ -320,3 +320,105 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
 
 </body>
 </html>
+
+<br>
+***Chart 3***
+<br>
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Users Reporting Use of Attribute</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #chartContainer {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chartContainer">
+    <canvas id="attributeChart"></canvas>
+</div>
+
+<script>
+    const ctx = document.getElementById('attributeChart').getContext('2d');
+    const attributeChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: [
+                'classification or type',
+                'name - english',
+                'population',
+                'surface',
+                'source',
+                'name - local language',
+                'bridge',
+                'oneway',
+                'lanes',
+                'width'
+            ],
+            datasets: [
+                {
+                    label: 'Roads',
+                    data: [96, 58, 0, 65, 46, 46, 50, 46, 42, 35],
+                    backgroundColor: 'rgba(83, 141, 153, 1)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'Populated Places',
+                    data: [92, 72, 68, 0, 56, 14, 0, 0, 0, 0],
+                    backgroundColor: 'rgba(243, 177, 100, 1)',
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            indexAxis: 'y', // Horizontal bar chart
+            responsive: true,
+            scales: {
+                x: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Percentage of Users (%)',
+                        font: {
+                            size: 16
+                        }
+                    },
+                    ticks: {
+                        callback: function(value) {
+                            return value + '%'; // Add percentage symbol
+                        }
+                    }
+                }
+            },
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Users Reporting Use of Attribute (OSM tag)',
+                    font: {
+                        size: 18
+                    }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(tooltipItem) {
+                            return tooltipItem.raw + '%';
+                        }
+                    }
+                }
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
