@@ -187,4 +187,4 @@ It is not possible to recreate the exact color formatting in Markdown alone, as 
     <td style="background-color:lightblue">OCHA</td>
     <td style="background-color:lightblue">OCHA</td>
     <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</
+    <td style="background-color:lightblue">OCHA</>
