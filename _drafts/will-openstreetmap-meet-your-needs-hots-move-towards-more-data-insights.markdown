@@ -12,7 +12,9 @@ Summary Text: 'At Humanitarian OpenStreetMap Team (HOT), we often get asked, “
 
 '
 Feature Image: "/uploads/HAITI%20(1).jpg"
-Person: Jessica Pechmann
+Person:
+- Jessica Pechmann
+- Claudio de los Reyes
 Country:
 - Ethiopia
 - Mozambique
