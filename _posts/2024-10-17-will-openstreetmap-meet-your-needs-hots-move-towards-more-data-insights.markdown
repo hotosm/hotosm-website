@@ -502,5 +502,28 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 ⠀**“Type”**: HOT’s OSM dataset categorizes points as **isolated dwellings, hamlet, and village**, while OCHA’s dataset is mostly classified as **settlements, with very few nomadic settlements and IDP camps.**
 
+<br>
+***IMAGE CHART HERE***
+*Comparing the amount of HOT’s vs. OCHA’s “types” of populated places in Somalia*
+<br>
 
+**Example 2. Country: South Sudan, Dataset:Roads**
+* **Coverage**
+  * HOT has 99% more features than OCHA, with **176,345 road features in OSM** vs **976 in OCHA**.  
+  * Despite having significantly less individual features, OCHA has decent spatial coverage with 69% of HOT’s coverage (**43,164 kms** vs **137,476 kms**). 
+* **“Type”**
+  * OCHA only has **river and road** for transportation “type”, while HOT’s OSM dataset has **path, track, residential, tertiary, and primary, secondary, footway, etc.**  
+
+<br>
+***IMAGE CHART HERE***
+*Comparing the amount of HOT’s vs. OCHA’s “types” of roads in South Sudan*
+<br>
+
+*** What’s next? ***
+
+Based on these insights, we are currently working on adding additional data quality statistics to the metadata of our OSM exports. Attributes like feature name, spatial coverage, or how can a “type” of feature (primary road, capitol city, etc.) be used for humanitarian purposes are some of the top considerations when deciding to use a dataset, so we strive to make that information more understandable when reviewing an OSM data export.
+
+With clearer OSM data insights, humanitarians can spend more time on analyzing data and making informed decisions than on data sources. Organizations planning aid delivery will be able to identify crisis impacted populated centers, and road transportation to reach an impacted population and deliver aid. 
+
+**Excited for these new resources on OSM insights? Have a request? Don’t hesitate to contact us at [data@hosm.org](mailto:data@hosm.org).** 
 
