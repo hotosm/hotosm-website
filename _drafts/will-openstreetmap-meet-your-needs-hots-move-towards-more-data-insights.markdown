@@ -230,55 +230,55 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td>South Sudan</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
+    <td class="lightOCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
-    <td class="OCHA">OCHA</td>
-    <td class="HDX">HDX</td>
-    <td class="OCHA">IOM</td>
+    <td class="lightOCHA">HDX</td>
+    <td class="lightOCHA">IOM</td>
   </tr>
   <tr>
     <td>State of Palestine</td>
     <td class="OCHA">OCHA</td>
+    <td class="lightOCHA">OCHA</td>
+    <td class="lightOCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
-    <td class="OCHA">OCHA</td>
-    <td class="HDX">HDX</td>
-    <td class="OCHA">OCHA</td>
+    <td class="lightOCHA">OCHA</td>
   </tr>
   <tr>
     <td>Sudan</td>
-    <td class="OCHA">OCHA</td>
-    <td class="OCHA">OCHA</td>
-    <td class="OCHA">OCHA</td>
-    <td class="OCHA">OCHA</td>
-    <td class="HDX">HDX</td>
-    <td class="OCHA">OCHA</td>
+    <td class="lightOCHA">OCHA</td>
+    <td class="lightOCHA">OCHA</td>
+    <td class="lightOCHA">OCHA</td>
+    <td class="lightOCHA">OCHA</td>
+    <td class="lightOCHA">HDX</td>
+    <td class="lightOCHA">OCHA</td>
   </tr>
   <tr>
     <td>Syrian Arab Republic</td>
     <td class="OCHA">OCHA</td>
-    <td class="OCHA">OCHA</td>
-    <td class="OCHA">OCHA</td>
-    <td class="OCHA">OCHA</td>
-    <td class="HDX">HDX</td>
-    <td class="OCHA">OCHA</td>
+    <td class="lightOCHA">OCHA</td>
+    <td class="OCHA">WFP</td>
+    <td class="lightHOT">HOT</td>
+    <td class="lightHOT">HOT</td>
+    <td class="lightHOT">HOT</td>
   </tr>
   <tr>
     <td>Ukraine</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
+    <td class="HOT">HOT</td>
     <td class="OCHA">OCHA</td>
-    <td class="OCHA">OCHA</td>
-    <td class="">HDX</td>
+    <td class=""></td>
     <td class=""></td>
   </tr>
   <tr>
     <td>Venezuela</td>
-    <td class="OCHA">OCHA</td>
+    <td class="lightOCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
     <td class=""></td>
-    <td class="OCHA">OCHA</td>
-    <td class="HDX">HDX</td>
-    <td class="OCHA">OCHA</td>
+    <td class="lightHOT">HOT</td>
+    <td class="lightHOT">HOT</td>
+    <td class="lightHOT">HOT</td>
   </tr>
   <tr>
     <td>Yemen</td>
@@ -286,8 +286,8 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
-    <td class="HDX">HDX</td>
     <td class="OCHA">OCHA</td>
+    <td class="lightHOT">HOT</td>
   </tr>
 </table>
 
