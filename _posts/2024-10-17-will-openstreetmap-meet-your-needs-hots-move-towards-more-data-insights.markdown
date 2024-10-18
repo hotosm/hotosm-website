@@ -27,6 +27,7 @@ If a user needs a quick answer to the question, “what is the best dataset in t
 
 <br>
 > At Humanitarian OpenStreetMap Team (HOT), we often get asked, **“how good is OpenStreetMap data” in a given area?** With better information on a dataset’s spatial coverage and attribute completeness, users can make quicker and more efficient decisions on what data source to use.
+
 <br>
 <br>
 
