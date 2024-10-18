@@ -552,13 +552,13 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
             datasets: [
                 {
                     label: 'HOT',
-                    data: [38000, 18000, 0, 9000, 2000, 0, 0, 1000, 500, 200, 100, 0, 0],
+                    data: [40759, 11400, 0, 5502, 2000, 0, 0, 1000, 500, 200, 100, 0, 0],
                     backgroundColor: ' #d63f3e',
                     borderWidth: 1
                 },
                 {
                     label: 'OCHA',
-                    data: [0, 0, 14000, 0, 2000, 500, 0, 0, 0, 0, 0, 0, 0],
+                    data: [0, 0, 9746, 0, 2000, 500, 0, 0, 0, 0, 0, 0, 0],
                     backgroundColor: '#1E90FF',
                     borderWidth: 1
                 }
@@ -616,7 +616,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Combined 'Highway' Values Chart</title>
+    <title>OCHA and HOT 'Place' Values Chart</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         body {
@@ -631,49 +631,40 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 <body>
 
 <div id="chartContainer">
-    <canvas id="highwayValuesChart"></canvas>
+    <canvas id="placeValuesChart"></canvas>
 </div>
 
 <script>
-    const ctx4 = document.getElementById('highwayValuesChart').getContext('2d');
-    const highwayValuesChart = new Chart(ctx4, {
+    const ctx = document.getElementById('placeValuesChart').getContext('2d');
+    const placeValuesChart = new Chart(ctx, {
         type: 'bar',
         data: {
             labels: [
-                'path',
-                'road',
-                'track',
-                'unclassified',
-                'residential',
-                'tertiary',
-                'primary',
-                'river',
-                'secondary',
-                'service',
-                'footway',
-                'proposed',
-                'construction',
-                'bridleway',
-                'pedestrian',
-                'living_street',
-                'small_river',
-                'primary_link',
-                'trunk',
-                'tertiary_link',
-                'steps',
-                'secondary_link'
+                'isolated_dwelling',
+                'hamlet',
+                'village',
+                'town',
+                'city',
+                'Settlement',
+                'Temporary nomadic settlement',
+                'IDP Camp',
+                'Part of town',
+                'District Capital',
+                'Regional Capital',
+                'Town',
+                'National Capital'
             ],
             datasets: [
                 {
                     label: 'HOT',
-                    data: [44000, 30000, 10000, 8000, 5000, 5000, 4000, 0, 3000, 2000, 1000, 500, 500, 500, 500, 500, 0, 0, 0, 0, 0, 0],
-                    backgroundColor: '#d63f3e',
+                    data: [40759, 11400, 5502, 125, 36, 0, 0, 0, 0, 0, 0, 0, 0],
+                    backgroundColor: 'rgba(60, 120, 216, 1)', // Blue color for HOT
                     borderWidth: 1
                 },
                 {
                     label: 'OCHA',
-                    data: [0, 27000, 0, 0, 3000, 0, 4000, 2000, 0, 0, 0, 0, 0, 0, 0, 0, 2000, 0, 0, 0, 0, 0],
-                    backgroundColor: '#1E90FF',
+                    data: [0, 0, 0, 0, 0, 9746, 732, 533, 186, 55, 17, 13, 1],
+                    backgroundColor: 'rgba(243, 177, 70, 1)', // Yellow color for OCHA
                     borderWidth: 1
                 }
             ]
@@ -686,14 +677,14 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
                     beginAtZero: true,
                     title: {
                         display: true,
-                        text: 'Distance (km)',
+                        text: 'Count',
                         font: {
                             size: 16
                         }
                     },
                     ticks: {
                         callback: function(value) {
-                            return value + ' km'; // Add km symbol
+                            return value; // Add count label
                         }
                     }
                 }
@@ -701,7 +692,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
             plugins: {
                 title: {
                     display: true,
-                    text: "Combined 'Highway' Values",
+                    text: "OCHA and HOT 'Place' Values",
                     font: {
                         size: 18
                     }
@@ -713,6 +704,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 </body>
 </html>
+
 
 *Comparing the amount of HOT’s vs. OCHA’s “types” of roads in South Sudan*
 <br>
