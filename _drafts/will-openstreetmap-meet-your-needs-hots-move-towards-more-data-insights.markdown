@@ -303,7 +303,7 @@ A dataset is considered “complete” by HDX if it’s: 
 
 <br>
 
-50% of the recommended spatial datasets above are considered “complete”. Of the 35 HOT datasets recommended in the Data Grids, 30 are identified by HDX as “incomplete”.
+50% of the recommended spatial datasets above are considered “complete”. **Of the 35 HOT datasets recommended in the Data Grids, 30 are identified by HDX as “<a style="color:#eca8a7">incomplete</a>”.**
 
 Is an “incomplete” dataset still usable? And what about its attributes (OSM tags)? It depends on the use case. Based on user feedback, we’ve developed resources to better understand OSM data before downloading. 
 
