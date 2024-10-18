@@ -25,9 +25,54 @@ Project:
 If a user needs a quick answer to the question, “what is the best dataset in the Humanitarian Data Exchange”, [HDX’s Data Grids](https://data.humdata.org/group/afg) has a recommended source for all countries with Humanitarian Response Plans for six spatial datasets (administrative divisions, populated places, roads, airports, and health and education facilities). 
 
 The two most common data sources for spatial datasets are HOT and OCHA. HOT provides data exports directly from OpenStreetMap. [OSM](https://wiki.openstreetmap.org/wiki/About_OpenStreetMap) datasets are crowdsourced and community generated. OCHA data comes from a variety of sources and is usually created by a single entity. The table below shows the top recommended data source per country and dataset, according to the Data Grids. 
-It is not possible to recreate the exact color formatting in Markdown alone, as Markdown does not natively support background colors for table cells. However, you can use HTML alongside Markdown to style the table with colors. Here's a Markdown table with inline HTML to match the color scheme from the image:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      padding: 8px;
+      text-align: center;
+      border: 1px solid #ddd;
+    }
+    th {
+      background-color: #f4f4f4;
+    }
+    td.OCHA {
+      background-color: #1E90FF; /* Dark blue */
+      color: white;
+    }
+    td.HOT {
+      background-color: #FF4500; /* Red */
+      color: white;
+    }
+    td.lightOCHA {
+      background-color: #87CEEB; /* Lighter blue */
+      color: white;
+    }
+    td.HDX {
+      background-color: #ADD8E6; /* Very light blue */
+      color: white;
+    }
+    td.OurAirports {
+      background-color: #f0f0f0; /* Light grey for OurAirports */
+      color: black;
+    }
+    @media screen and (max-width: 600px) {
+      td, th {
+        font-size: 12px;
+        padding: 4px;
+      }
+    }
+  </style>
+</head>
+<body>
 
-```html
 <table>
   <tr>
     <th>Country</th>
@@ -40,151 +85,158 @@ It is not possible to recreate the exact color formatting in Markdown alone, as 
   </tr>
   <tr>
     <td>Afghanistan</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
+    <td class="lightOCHA">OCHA</td>
+    <td class="HOT">HOT</td>
+    <td class="HOT">HOT</td>
+    <td class="HOT">HOT</td>
+    <td class="lightOCHA">OCHA</td>
+    <td class="lightOCHA">OCHA</td>
   </tr>
   <tr>
     <td>Burkina Faso</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HOT">HOT</td>
+    <td class="HOT">HOT</td>
+    <td class="HOT">HOT</td>
   </tr>
   <tr>
     <td>Cameroon</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue">HDX</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HOT">HOT</td>
+    <td class="HOT">HOT</td>
+    <td class="HDX">HDX</td>
+    <td class="HOT">HOT</td>
   </tr>
   <tr>
     <td>CAR</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">HDX</td>
-    <td style="background-color:lightblue">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HOT">HOT</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HDX">HDX</td>
+    <td class="OCHA">OCHA</td>
   </tr>
   <tr>
     <td>Chad</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">HDX</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HDX">HDX</td>
+    <td class="HOT">HOT</td>
   </tr>
   <tr>
     <td>Colombia</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OurAirports</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OurAirports">OurAirports</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
   </tr>
   <tr>
     <td>Democratic Congo</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HOT">HOT</td>
+    <td class="HOT">HOT</td>
+    <td class="HOT">HOT</td>
+    <td class="HOT">HOT</td>
+    <td class="HOT">HOT</td>
   </tr>
   <tr>
     <td>Ethiopia</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">HDX</td>
-    <td style="background-color:lightblue">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HDX">HDX</td>
+    <td class="OCHA">OCHA</td>
   </tr>
   <tr>
     <td>Haiti</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HOT">HOT</td>
+    <td class="HOT">HOT</td>
+    <td class="HOT">HOT</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
   </tr>
   <tr>
     <td>Mali</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HOT">HOT</td>
+    <td class="HOT">HOT</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
   </tr>
   <tr>
     <td>Mozambique</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue">WHO</td>
-    <td style="background-color:lightblue">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HOT">HOT</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HOT">HOT</td>
+    <td class="HDX">WHO</td>
+    <td class="OCHA">OCHA</td>
   </tr>
   <tr>
     <td>Myanmar</td>
-    <td style="background-color:lightblue">MIMU</td>
-    <td style="background-color:lightblue">MIMU</td>
-    <td style="background-color:lightblue">MIMU</td>
-    <td style="background-color:lightblue">MIMU</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue">MIMU</td>
+    <td class="OCHA">MIMU</td>
+    <td class="OCHA">MIMU</td>
+    <td class="OCHA">MIMU</td>
+    <td class="OCHA">MIMU</td>
+    <td class="HOT">HOT</td>
+    <td class="OCHA">MIMU</td>
   </tr>
   <tr>
     <td>Niger</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
   </tr>
   <tr>
     <td>Nigeria</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue">HDX</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HOT">HOT</td>
+    <td class="HDX">HDX</td>
+    <td class="HOT">HOT</td>
   </tr>
   <tr>
     <td>Somalia</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue;color:red;">HOT</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">WHO</td>
-    <td style="background-color:lightblue">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HOT">HOT</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HDX">WHO</td>
+    <td class="OCHA">OCHA</td>
   </tr>
   <tr>
     <td>South Sudan</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">HDX</td>
-    <td style="background-color:lightblue">IOM</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HDX">HDX</td>
+    <td class="OCHA">IOM</td>
   </tr>
   <tr>
     <td>State of Palestine</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</td>
-    <td style="background-color:lightblue">OCHA</>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HDX">HDX</td>
+    <td class="OCHA">OCHA</td>
+  </tr>
+</table>
+
+</body>
+</html>
