@@ -611,6 +611,109 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 <br>
 ***IMAGE CHART HERE***
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combined 'Highway' Values Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #chartContainer {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chartContainer">
+    <canvas id="highwayValuesChart"></canvas>
+</div>
+
+<script>
+    const ctx4 = document.getElementById('highwayValuesChart').getContext('2d');
+    const highwayValuesChart = new Chart(ctx4, {
+        type: 'bar',
+        data: {
+            labels: [
+                'path',
+                'road',
+                'track',
+                'unclassified',
+                'residential',
+                'tertiary',
+                'primary',
+                'river',
+                'secondary',
+                'service',
+                'footway',
+                'proposed',
+                'construction',
+                'bridleway',
+                'pedestrian',
+                'living_street',
+                'small_river',
+                'primary_link',
+                'trunk',
+                'tertiary_link',
+                'steps',
+                'secondary_link'
+            ],
+            datasets: [
+                {
+                    label: 'HOT',
+                    data: [44000, 30000, 10000, 8000, 5000, 5000, 4000, 0, 3000, 2000, 1000, 500, 500, 500, 500, 500, 0, 0, 0, 0, 0, 0],
+                    backgroundColor: 'rgba(60, 120, 216, 1)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'OCHA',
+                    data: [0, 27000, 0, 0, 3000, 0, 4000, 2000, 0, 0, 0, 0, 0, 0, 0, 0, 2000, 0, 0, 0, 0, 0],
+                    backgroundColor: 'rgba(243, 177, 70, 1)',
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            indexAxis: 'y', // Horizontal bar chart
+            responsive: true,
+            scales: {
+                x: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Distance (km)',
+                        font: {
+                            size: 16
+                        }
+                    },
+                    ticks: {
+                        callback: function(value) {
+                            return value + ' km'; // Add km symbol
+                        }
+                    }
+                }
+            },
+            plugins: {
+                title: {
+                    display: true,
+                    text: "Combined 'Highway' Values",
+                    font: {
+                        size: 18
+                    }
+                }
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
+
 *Comparing the amount of HOT’s vs. OCHA’s “types” of roads in South Sudan*
 <br>
 
