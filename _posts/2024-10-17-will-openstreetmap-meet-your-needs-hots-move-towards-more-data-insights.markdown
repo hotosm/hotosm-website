@@ -507,6 +507,98 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 <br>
 ***IMAGE CHART HERE***
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combined 'Point' Values Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #chartContainer {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chartContainer">
+    <canvas id="pointValuesChart"></canvas>
+</div>
+
+<script>
+    const ctx3 = document.getElementById('pointValuesChart').getContext('2d');
+    const pointValuesChart = new Chart(ctx3, {
+        type: 'bar',
+        data: {
+            labels: [
+                'isolated_dwelling',
+                'hamlet',
+                'Settlement',
+                'village',
+                'nomadic settlement',
+                'IDP Camp',
+                'Part of town',
+                'town',
+                'District Capital',
+                'city',
+                'Regional Capital',
+                'Town',
+                'National Capital'
+            ],
+            datasets: [
+                {
+                    label: 'HOT',
+                    data: [38000, 18000, 0, 9000, 2000, 0, 0, 1000, 500, 200, 100, 0, 0],
+                    backgroundColor: 'rgba(60, 120, 216, 1)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'OCHA',
+                    data: [0, 0, 14000, 0, 2000, 500, 0, 0, 0, 0, 0, 0, 0],
+                    backgroundColor: 'rgba(243, 177, 70, 1)',
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            indexAxis: 'y', // Horizontal bar chart
+            responsive: true,
+            scales: {
+                x: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Count',
+                        font: {
+                            size: 16
+                        }
+                    },
+                    ticks: {
+                        callback: function(value) {
+                            return value; // Add count label
+                        }
+                    }
+                }
+            },
+            plugins: {
+                title: {
+                    display: true,
+                    text: "Combined 'Point' Values",
+                    font: {
+                        size: 18
+                    }
+                }
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
 *Comparing the amount of HOT’s vs. OCHA’s “types” of populated places in Somalia*
 <br>
 
