@@ -11,6 +11,7 @@ Summary Text: 'At Humanitarian OpenStreetMap Team (HOT), we often get asked, “
   on what data source to use.
 
 '
+Feature Image: "/uploads/HAITI%20(1).jpg"
 Person: Jessica Pechmann
 Country:
 - Ethiopia
@@ -112,10 +113,10 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td>Cameroon</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
-    <td class="HOT">HOT</td>
-    <td class="HOT">HOT</td>
+    <td class="lightHOT">HOT</td>
+    <td class="lightHOT">HOT</td>
     <td class="HDX">HDX</td>
-    <td class="HOT">HOT</td>
+    <td class="lightHOT">HOT</td>
   </tr>
   <tr>
     <td>CAR</td>
@@ -133,7 +134,7 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
     <td class="HDX">HDX</td>
-    <td class="HOT">HOT</td>
+    <td class="lightHOT">HOT</td>
   </tr>
   <tr>
     <td>Colombia</td>
@@ -147,11 +148,11 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
   <tr>
     <td>Democratic Congo</td>
     <td class="OCHA">OCHA</td>
-    <td class="HOT">HOT</td>
-    <td class="HOT">HOT</td>
-    <td class="HOT">HOT</td>
-    <td class="HOT">HOT</td>
-    <td class="HOT">HOT</td>
+    <td class="lightHOT">HOT</td>
+    <td class="lightHOT">HOT</td>
+    <td class="lightHOT">HOT</td>
+    <td class="lightHOT">HOT</td>
+    <td class="lightHOT">HOT</td>
   </tr>
   <tr>
     <td>Ethiopia</td>
@@ -165,9 +166,9 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
   <tr>
     <td>Haiti</td>
     <td class="OCHA">OCHA</td>
-    <td class="HOT">HOT</td>
-    <td class="HOT">HOT</td>
-    <td class="HOT">HOT</td>
+    <td class="lightHOT">HOT</td>
+    <td class="lightHOT">HOT</td>
+    <td class="lightHOT">HOT</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
   </tr>
@@ -175,17 +176,17 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td>Mali</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
-    <td class="HOT">HOT</td>
-    <td class="HOT">HOT</td>
+    <td class="lightHOT">HOT</td>
+    <td class="lightHOT">HOT</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
   </tr>
   <tr>
     <td>Mozambique</td>
     <td class="OCHA">OCHA</td>
-    <td class="HOT">HOT</td>
+    <td class="lightHOT">HOT</td>
     <td class="OCHA">OCHA</td>
-    <td class="HOT">HOT</td>
+    <td class="lightHOT">HOT</td>
     <td class="HDX">WHO</td>
     <td class="OCHA">OCHA</td>
   </tr>
@@ -195,7 +196,7 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td class="OCHA">MIMU</td>
     <td class="OCHA">MIMU</td>
     <td class="OCHA">MIMU</td>
-    <td class="HOT">HOT</td>
+    <td class="lightHOT">HOT</td>
     <td class="OCHA">MIMU</td>
   </tr>
   <tr>
@@ -212,15 +213,15 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
-    <td class="HOT">HOT</td>
+    <td class="lightHOT">HOT</td>
     <td class="HDX">HDX</td>
-    <td class="HOT">HOT</td>
+    <td class="lightHOT">HOT</td>
   </tr>
   <tr>
     <td>Somalia</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
-    <td class="HOT">HOT</td>
+    <td class="lightHOT">HOT</td>
     <td class="OCHA">OCHA</td>
     <td class="HDX">WHO</td>
     <td class="OCHA">OCHA</td>
@@ -236,6 +237,51 @@ The two most common data sources for spatial datasets are HOT and OCHA. HOT prov
   </tr>
   <tr>
     <td>State of Palestine</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HDX">HDX</td>
+    <td class="OCHA">OCHA</td>
+  </tr>
+  <tr>
+    <td>Sudan</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HDX">HDX</td>
+    <td class="OCHA">OCHA</td>
+  </tr>
+  <tr>
+    <td>Syrian Arab Republic</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="HDX">HDX</td>
+    <td class="OCHA">OCHA</td>
+  </tr>
+  <tr>
+    <td>Ukraine</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class="">HDX</td>
+    <td class=""></td>
+  </tr>
+  <tr>
+    <td>Venezuela</td>
+    <td class="OCHA">OCHA</td>
+    <td class="OCHA">OCHA</td>
+    <td class=""></td>
+    <td class="OCHA">OCHA</td>
+    <td class="HDX">HDX</td>
+    <td class="OCHA">OCHA</td>
+  </tr>
+  <tr>
+    <td>Yemen</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
     <td class="OCHA">OCHA</td>
