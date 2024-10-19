@@ -759,7 +759,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 Based on these insights, we are currently working on adding additional data quality statistics to the metadata of our OSM exports. Attributes like feature name, spatial coverage, or how can a “type” of feature (primary road, capitol city, etc.) be used for humanitarian purposes are some of the top considerations when deciding to use a dataset, so we strive to make that information more understandable when reviewing an OSM data export.
 
-With clearer OSM data insights, humanitarians can spend more time on analyzing data and making informed decisions than on data sources. Organizations planning aid delivery will be able to identify crisis impacted populated centers, and road transportation to reach an impacted population and deliver aid. 
+With clearer OSM data insights, humanitarians can spend more time on analyzing data and making informed decisions than on figuring out what dozens of data source with poor metadata are actually about. Organizations planning aid delivery will be able to identify crisis impacted populated centers, and road transportation to reach an impacted population and deliver aid.  
 
 **Excited for these new resources on OSM insights? Have a request? Don’t hesitate to contact us at [data@hosm.org](mailto:data@hosm.org).** 
 
