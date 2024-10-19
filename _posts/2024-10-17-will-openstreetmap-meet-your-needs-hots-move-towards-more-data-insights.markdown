@@ -738,7 +738,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
             plugins: {
                 title: {
                     display: true,
-                    text: "Combined 'Highway' Values (Descending Order)",
+                    text: "Combined 'Highway' Values",
                     font: {
                         size: 18
                     }
