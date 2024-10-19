@@ -661,38 +661,45 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
         data: {
             labels: [
                 'path',
-                'road',
                 'track',
                 'unclassified',
                 'residential',
                 'tertiary',
                 'primary',
-                'river',
                 'secondary',
                 'service',
                 'footway',
                 'proposed',
                 'construction',
                 'bridleway',
+                'road',
                 'pedestrian',
                 'living_street',
-                'small_river',
                 'primary_link',
                 'trunk',
                 'tertiary_link',
                 'steps',
-                'secondary_link'
+                'secondary_link',
+                'river',
+                'small_river'
             ],
             datasets: [
                 {
                     label: 'HOT',
-                    data: [44000, 30000, 10000, 8000, 5000, 5000, 4000, 0, 3000, 2000, 1000, 500, 500, 500, 500, 500, 0, 0, 0, 0, 0, 0],
+                    data: [
+                        46258.15, 31315.61, 29588.21, 10545.83, 7551.10, 5845.09, 3989.70, 
+                        1229.47, 595.02, 393.31, 138.20, 7.84, 7.24, 4.56, 3.61, 1.57, 0.94, 
+                        0.34, 0.23, 0.16, 0, 0
+                    ],
                     backgroundColor: '#d63f3e',
                     borderWidth: 1
                 },
                 {
                     label: 'OCHA',
-                    data: [0, 27000, 0, 0, 3000, 0, 4000, 2000, 0, 0, 0, 0, 0, 0, 0, 0, 2000, 0, 0, 0, 0, 0],
+                    data: [
+                        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38094.87, 0, 0, 0, 0, 0, 0, 0, 
+                        5066.71, 2.52
+                    ],
                     backgroundColor: '#1E90FF',
                     borderWidth: 1
                 }
@@ -733,6 +740,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 </body>
 </html>
+
 
 *Comparing the amount of HOT’s vs. OCHA’s “types” of roads in South Sudan*
 <br>
