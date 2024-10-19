@@ -656,25 +656,55 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 <script>
     const ctx4 = document.getElementById('highwayValuesChart').getContext('2d');
+
+    // Data for OCHA and HOT combined
+    const data = [
+        { label: 'path', ocha: 0, hot: 46258.15 },
+        { label: 'road', ocha: 38094.87, hot: 7.24 },
+        { label: 'track', ocha: 0, hot: 31315.61 },
+        { label: 'unclassified', ocha: 0, hot: 29588.21 },
+        { label: 'residential', ocha: 0, hot: 10545.83 },
+        { label: 'tertiary', ocha: 0, hot: 7551.10 },
+        { label: 'primary', ocha: 0, hot: 5845.09 },
+        { label: 'river', ocha: 5066.71, hot: 0 },
+        { label: 'secondary', ocha: 0, hot: 3989.70 },
+        { label: 'service', ocha: 0, hot: 1229.47 },
+        { label: 'footway', ocha: 0, hot: 595.02 },
+        { label: 'proposed', ocha: 0, hot: 393.31 },
+        { label: 'construction', ocha: 0, hot: 138.20 },
+        { label: 'bridleway', ocha: 0, hot: 7.84 },
+        { label: 'pedestrian', ocha: 0, hot: 4.56 },
+        { label: 'living_street', ocha: 0, hot: 3.61 },
+        { label: 'small_river', ocha: 2.52, hot: 0 },
+        { label: 'primary_link', ocha: 0, hot: 1.57 },
+        { label: 'trunk', ocha: 0, hot: 0.94 },
+        { label: 'tertiary_link', ocha: 0, hot: 0.34 },
+        { label: 'steps', ocha: 0, hot: 0.23 },
+        { label: 'secondary_link', ocha: 0, hot: 0.16 }
+    ];
+
+    // Sort the data based on the combined total of OCHA and HOT in descending order
+    data.sort((a, b) => (b.ocha + b.hot) - (a.ocha + a.hot));
+
+    // Extract the sorted labels and dataset values
+    const labels = data.map(item => item.label);
+    const ochaData = data.map(item => item.ocha);
+    const hotData = data.map(item => item.hot);
+
     const highwayValuesChart = new Chart(ctx4, {
         type: 'bar',
         data: {
-            labels: [
-                'road', 'river', 'small_river', 'path', 'track', 'unclassified', 
-                'residential', 'tertiary', 'primary', 'secondary', 'service', 
-                'footway', 'proposed', 'construction', 'bridleway', 'pedestrian', 
-                'living_street', 'primary_link', 'trunk', 'tertiary_link', 'steps', 'secondary_link'
-            ],
+            labels: labels,
             datasets: [
                 {
                     label: 'OCHA',
-                    data: [38094.87, 5066.71, 2.52, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                    data: ochaData,
                     backgroundColor: '#1E90FF',
                     borderWidth: 1
                 },
                 {
                     label: 'HOT',
-                    data: [7.24, 0, 0, 46258.15, 31315.61, 29588.21, 10545.83, 7551.10, 5845.09, 3989.70, 1229.47, 595.02, 393.31, 138.20, 7.84, 4.56, 3.61, 1.57, 0.94, 0.34, 0.23, 0.16],
+                    data: hotData,
                     backgroundColor: '#d63f3e',
                     borderWidth: 1
                 }
@@ -703,7 +733,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
             plugins: {
                 title: {
                     display: true,
-                    text: "Combined 'Highway' Values",
+                    text: "Combined 'Highway' Values (Descending Order)",
                     font: {
                         size: 18
                     }
@@ -720,7 +750,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 *Comparing the amount of HOT’s vs. OCHA’s “types” of roads in South Sudan*
 <br>
 
-***What’s next?***
+*** What’s next? ***
 
 Based on these insights, we are currently working on adding additional data quality statistics to the metadata of our OSM exports. Attributes like feature name, spatial coverage, or how can a “type” of feature (primary road, capitol city, etc.) be used for humanitarian purposes are some of the top considerations when deciding to use a dataset, so we strive to make that information more understandable when reviewing an OSM data export.
 
