@@ -497,7 +497,9 @@ Starting with roads and populated place datasets, we surveyed OSM data users for
 <br>
 
 ### How this will help data users?
-HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats/) as a sample to reviewing OSM data quality and completeness. In the report, we compare HOT/OSM and OCHA data sources (as the two most popular data sources for spatial datasets in HDX) for greater context. **In general, we found HOT data has larger spatial coverage, but less completed attributes.** Here we share two country-specific examples of these findings, but we encourage you to check out the full report to view similar comparisons! 
+HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats/) as a prototype of how automate the assessment of OSM data quality and completeness that can use similar datasets in HDX or AI generated ones as benchmark. 
+
+In the report, we compare HOT/OSM and OCHA data sources (as the two most popular data sources for spatial datasets in HDX) for greater context. **In general, we found HOT data has larger spatial coverage, but less completed attributes.** Here we share two country-specific examples of these findings, but we encourage you to check out the full report to view similar comparisons!
 
 **Example 1. Country: Somalia, Dataset: Populated Places** 
 * **Coverage**: HOT has 80% more populated places than OCHA, with **<a style="color:#d63f3e">HOT’s 57,822</a>**, to **<a style="color:#1E90FF">OCHA’s 11,283.</a>**  
