@@ -720,7 +720,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 *Comparing the amount of HOT’s vs. OCHA’s “types” of roads in South Sudan*
 <br>
 
-*** What’s next? ***
+***What’s next?***
 
 Based on these insights, we are currently working on adding additional data quality statistics to the metadata of our OSM exports. Attributes like feature name, spatial coverage, or how can a “type” of feature (primary road, capitol city, etc.) be used for humanitarian purposes are some of the top considerations when deciding to use a dataset, so we strive to make that information more understandable when reviewing an OSM data export.
 
