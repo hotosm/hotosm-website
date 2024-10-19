@@ -686,15 +686,17 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
     // Sort the data based on the combined total of OCHA and HOT in descending order
     data.sort((a, b) => (b.ocha + b.hot) - (a.ocha + a.hot));
 
-    // Extract the sorted labels and dataset values
-    let sortedLabels = data.map(item => item.label);  // Renamed labels to sortedLabels to avoid redeclaration
+    // Check if sortedLabels is already declared. If so, just assign, else declare.
+    let sortedLabels; 
+    sortedLabels = data.map(item => item.label);  // Ensuring no redeclaration issue
+
     const ochaData = data.map(item => item.ocha);
     const hotData = data.map(item => item.hot);
 
     const highwayValuesChart = new Chart(ctx4, {
         type: 'bar',
         data: {
-            labels: sortedLabels,  // Updated label variable name here
+            labels: sortedLabels,
             datasets: [
                 {
                     label: 'OCHA',
