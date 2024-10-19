@@ -687,14 +687,14 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
     data.sort((a, b) => (b.ocha + b.hot) - (a.ocha + a.hot));
 
     // Extract the sorted labels and dataset values
-    const labels = data.map(item => item.label);
+    let sortedLabels = data.map(item => item.label);  // Renamed labels to sortedLabels to avoid redeclaration
     const ochaData = data.map(item => item.ocha);
     const hotData = data.map(item => item.hot);
 
     const highwayValuesChart = new Chart(ctx4, {
         type: 'bar',
         data: {
-            labels: labels,
+            labels: sortedLabels,  // Updated label variable name here
             datasets: [
                 {
                     label: 'OCHA',
@@ -745,6 +745,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 </body>
 </html>
+
 
 
 *Comparing the amount of HOT’s vs. OCHA’s “types” of roads in South Sudan*
