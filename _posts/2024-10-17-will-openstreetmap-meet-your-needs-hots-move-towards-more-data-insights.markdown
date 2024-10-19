@@ -642,7 +642,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
         body {
             font-family: Arial, sans-serif;
         }
-        #chartContainer {
+        #chartContainer999 {
             max-width: 1000px;
             margin: 0 auto;
         }
@@ -650,56 +650,60 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 </head>
 <body>
 
-<div id="chartContainer">
-    <canvas id="highwayValuesChart"></canvas>
+<div id="chartContainer999">
+    <canvas id="highwayValuesChart999"></canvas>
 </div>
 
 <script>
-    const ctx4 = document.getElementById('highwayValuesChart').getContext('2d');
-    const highwayValuesChart = new Chart(ctx4, {
+    // Data for HOT and OCHA
+    const data999 = [
+        { label: 'path', HOT: 46258.15, OCHA: 0 },
+        { label: 'track', HOT: 31315.61, OCHA: 0 },
+        { label: 'unclassified', HOT: 29588.21, OCHA: 0 },
+        { label: 'residential', HOT: 10545.83, OCHA: 0 },
+        { label: 'tertiary', HOT: 7551.10, OCHA: 0 },
+        { label: 'primary', HOT: 5845.09, OCHA: 0 },
+        { label: 'secondary', HOT: 3989.70, OCHA: 0 },
+        { label: 'service', HOT: 1229.47, OCHA: 0 },
+        { label: 'footway', HOT: 595.02, OCHA: 0 },
+        { label: 'proposed', HOT: 393.31, OCHA: 0 },
+        { label: 'construction', HOT: 138.20, OCHA: 0 },
+        { label: 'bridleway', HOT: 7.84, OCHA: 0 },
+        { label: 'road', HOT: 7.24, OCHA: 38094.87 },
+        { label: 'pedestrian', HOT: 4.56, OCHA: 0 },
+        { label: 'living_street', HOT: 3.61, OCHA: 0 },
+        { label: 'primary_link', HOT: 1.57, OCHA: 0 },
+        { label: 'trunk', HOT: 0.94, OCHA: 0 },
+        { label: 'tertiary_link', HOT: 0.34, OCHA: 0 },
+        { label: 'steps', HOT: 0.23, OCHA: 0 },
+        { label: 'secondary_link', HOT: 0.16, OCHA: 0 },
+        { label: 'river', HOT: 0, OCHA: 5066.71 },
+        { label: 'small_river', HOT: 0, OCHA: 2.52 }
+    ];
+
+    // Sort the data by the total of HOT and OCHA combined in descending order
+    data999.sort((a, b) => (b.HOT + b.OCHA) - (a.HOT + a.OCHA));
+
+    // Prepare the labels and datasets
+    const labels999 = data999.map(item => item.label);
+    const hotData999 = data999.map(item => item.HOT);
+    const ochaData999 = data999.map(item => item.OCHA);
+
+    const ctx4999 = document.getElementById('highwayValuesChart999').getContext('2d');
+    const highwayValuesChart999 = new Chart(ctx4999, {
         type: 'bar',
         data: {
-            labels: [
-                'path',
-                'track',
-                'unclassified',
-                'residential',
-                'tertiary',
-                'primary',
-                'secondary',
-                'service',
-                'footway',
-                'proposed',
-                'construction',
-                'bridleway',
-                'road',
-                'pedestrian',
-                'living_street',
-                'primary_link',
-                'trunk',
-                'tertiary_link',
-                'steps',
-                'secondary_link',
-                'river',
-                'small_river'
-            ],
+            labels: labels999,
             datasets: [
                 {
                     label: 'HOT',
-                    data: [
-                        46258.15, 31315.61, 29588.21, 10545.83, 7551.10, 5845.09, 3989.70, 
-                        1229.47, 595.02, 393.31, 138.20, 7.84, 7.24, 4.56, 3.61, 1.57, 0.94, 
-                        0.34, 0.23, 0.16, 0, 0
-                    ],
+                    data: hotData999,
                     backgroundColor: '#d63f3e',
                     borderWidth: 1
                 },
                 {
                     label: 'OCHA',
-                    data: [
-                        0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 38094.87, 0, 0, 0, 0, 0, 0, 0, 
-                        5066.71, 2.52
-                    ],
+                    data: ochaData999,
                     backgroundColor: '#1E90FF',
                     borderWidth: 1
                 }
@@ -728,7 +732,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
             plugins: {
                 title: {
                     display: true,
-                    text: "Combined 'Highway' Values",
+                    text: "Combined 'Highway' Values (Descending Order)",
                     font: {
                         size: 18
                     }
@@ -740,6 +744,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 </body>
 </html>
+
 
 
 *Comparing the amount of HOT’s vs. OCHA’s “types” of roads in South Sudan*
