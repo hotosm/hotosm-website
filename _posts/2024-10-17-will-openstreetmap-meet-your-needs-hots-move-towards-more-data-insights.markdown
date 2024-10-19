@@ -623,9 +623,9 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 **Example 2. Country: South Sudan, Dataset:Roads**
 * **Coverage**
   * HOT has 99% more features than OCHA, with **<a style="color:#d63f3e">176,345 road features in OSM</a>** vs **<a style="color:#1E90FF">976 in OCHA</a>**.  
-  * Despite having significantly less individual features, OCHA has decent spatial coverage with 69% of HOT’s coverage (**<a style="color:#d63f3e">43,164 kms</a>** vs **<a style="color:#1E90FF">137,476 kms</a>**). 
+  * Despite having significantly less individual features, OCHA has decent spatial coverage with 69% of HOT’s coverage (**<a style="color:#1E90FF">43,164 kms</a>** vs **<a style="color:#d63f3e">137,476 kms</a>**). 
 * **“Type”**
-  * OCHA only has **<a style="color:#d63f3e">river and road</a>** for transportation “type”, while HOT’s OSM dataset has **<a style="color:#d63f3e">path, track, residential, tertiary, and primary, secondary, footway, etc.</a>**  
+  * OCHA only has **<a style="color:#1E90FF">river and road</a>** for transportation “type”, while HOT’s OSM dataset has **<a style="color:#d63f3e">path, track, residential, tertiary, and primary, secondary, footway, etc.</a>**  
 
 <br>
 
@@ -753,8 +753,6 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 
 
-
-*Comparing the amount of HOT’s vs. OCHA’s “types” of roads in South Sudan*
 <br>
 
 ***What’s next?***
