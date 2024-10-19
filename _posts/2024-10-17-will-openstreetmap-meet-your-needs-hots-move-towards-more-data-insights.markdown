@@ -576,13 +576,13 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
                 {
                     label: 'HOT',
                     data: sortedHotData,
-                    backgroundColor: 'rgba(60, 120, 216, 1)', // Blue color for HOT
+                    backgroundColor: '#d63f3e', // Blue color for HOT
                     borderWidth: 1
                 },
                 {
                     label: 'OCHA',
                     data: sortedOchaData,
-                    backgroundColor: 'rgba(243, 177, 70, 1)', // Yellow color for OCHA
+                    backgroundColor: '#1E90FF', // Yellow color for OCHA
                     borderWidth: 1
                 }
             ]
@@ -605,7 +605,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
             plugins: {
                 title: {
                     display: true,
-                    text: "OCHA and HOT 'Place' Values (Sorted by Count)",
+                    text: "OCHA and HOT 'Place' Values",
                     font: {
                         size: 18
                     }
