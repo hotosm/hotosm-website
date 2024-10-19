@@ -506,7 +506,6 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 ⠀**“Type”**: HOT’s OSM dataset categorizes points as **<a style="color:#d63f3e">isolated dwellings, hamlet, and village</a>**, while OCHA’s dataset is mostly classified as **<a style="color:##1E90FF">settlements, with very few nomadic settlements and IDP camps.</a>**
 
 <br>
-***IMAGE CHART HERE***
 
 <html lang="en">
 <head>
@@ -630,7 +629,6 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
   * OCHA only has **<a style="color:#d63f3e">river and road</a>** for transportation “type”, while HOT’s OSM dataset has **<a style="color:#d63f3e">path, track, residential, tertiary, and primary, secondary, footway, etc.</a>**  
 
 <br>
-***IMAGE CHART HERE***
 
 <html lang="en">
 <head>
