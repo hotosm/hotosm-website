@@ -500,10 +500,10 @@ Starting with roads and populated place datasets, we surveyed OSM data users for
 HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats/) as a sample to reviewing OSM data quality and completeness. In the report, we compare HOT/OSM and OCHA data sources (as the two most popular data sources for spatial datasets in HDX) for greater context. **In general, we found HOT data has larger spatial coverage, but less completed attributes.** Here we share two country-specific examples of these findings, but we encourage you to check out the full report to view similar comparisons! 
 
 **Example 1. Country: Somalia, Dataset: Populated Places** 
-* **Coverage**: HOT has 80% more populated places than OCHA, with **<a style="color:#d63f3e">HOT’s 57,822</a>**, to **OCHA’s 11,283.**  
-* **Name**: OCHA’s dataset has *significantly* more places with names. **13% of the places from HOT’s dataset have a name, vs. 100% in OCHA**. 
+* **Coverage**: HOT has 80% more populated places than OCHA, with **<a style="color:#d63f3e">HOT’s 57,822</a>**, to **<a style="color:##1E90FF">OCHA’s 11,283.</a>**  
+* **Name**: OCHA’s dataset has *significantly* more places with names. **<a style="color:#d63f3e">13% of the places from HOT’s dataset have a name</a>, vs. <a style="color:##1E90FF">100% in OCHA</a>**. 
 
-⠀**“Type”**: HOT’s OSM dataset categorizes points as **isolated dwellings, hamlet, and village**, while OCHA’s dataset is mostly classified as **settlements, with very few nomadic settlements and IDP camps.**
+⠀**“Type”**: HOT’s OSM dataset categorizes points as **<a style="color:#d63f3e">isolated dwellings, hamlet, and village</a>**, while OCHA’s dataset is mostly classified as **<a style="color:##1E90FF">settlements, with very few nomadic settlements and IDP camps.</a>**
 
 <br>
 ***IMAGE CHART HERE***
@@ -624,10 +624,10 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 **Example 2. Country: South Sudan, Dataset:Roads**
 * **Coverage**
-  * HOT has 99% more features than OCHA, with **176,345 road features in OSM** vs **976 in OCHA**.  
-  * Despite having significantly less individual features, OCHA has decent spatial coverage with 69% of HOT’s coverage (**43,164 kms** vs **137,476 kms**). 
+  * HOT has 99% more features than OCHA, with **<a style="color:#d63f3e">176,345 road features in OSM</a>** vs **<a style="color:#1E90FF">976 in OCHA</a>**.  
+  * Despite having significantly less individual features, OCHA has decent spatial coverage with 69% of HOT’s coverage (**<a style="color:#d63f3e">43,164 kms</a>** vs **<a style="color:#1E90FF">137,476 kms</a>**). 
 * **“Type”**
-  * OCHA only has **river and road** for transportation “type”, while HOT’s OSM dataset has **path, track, residential, tertiary, and primary, secondary, footway, etc.**  
+  * OCHA only has **<a style="color:#d63f3e">river and road</a>** for transportation “type”, while HOT’s OSM dataset has **<a style="color:#d63f3e">path, track, residential, tertiary, and primary, secondary, footway, etc.</a>**  
 
 <br>
 ***IMAGE CHART HERE***
@@ -760,7 +760,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 *Comparing the amount of HOT’s vs. OCHA’s “types” of roads in South Sudan*
 <br>
 
-*** What’s next? ***
+***What’s next?***
 
 Based on these insights, we are currently working on adding additional data quality statistics to the metadata of our OSM exports. Attributes like feature name, spatial coverage, or how can a “type” of feature (primary road, capitol city, etc.) be used for humanitarian purposes are some of the top considerations when deciding to use a dataset, so we strive to make that information more understandable when reviewing an OSM data export.
 
