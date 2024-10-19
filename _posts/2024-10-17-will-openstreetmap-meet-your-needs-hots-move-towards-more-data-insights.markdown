@@ -314,7 +314,7 @@ Is an “incomplete” dataset still usable? And what about its attributes (OSM 
 Starting with roads and populated place datasets, we surveyed OSM data users for the most important factors they consider when determining if a dataset is usable. We found that spatial coverage is the most important factor, especially for populated places, while precision and attributes also remain important. 
 
 <br>
-***Chart 2***
+
 <br>
 
 <html lang="en">
@@ -618,7 +618,6 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 </body>
 </html>
 
-*Comparing the amount of HOT’s vs. OCHA’s “types” of populated places in Somalia*
 <br>
 
 **Example 2. Country: South Sudan, Dataset:Roads**
