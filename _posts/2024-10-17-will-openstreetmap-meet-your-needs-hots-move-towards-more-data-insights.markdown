@@ -656,58 +656,44 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 <script>
     const ctx4 = document.getElementById('highwayValuesChart').getContext('2d');
-
-    // Data for OCHA and HOT combined
-    const data = [
-        { label: 'path', ocha: 0, hot: 46258.15 },
-        { label: 'road', ocha: 38094.87, hot: 7.24 },
-        { label: 'track', ocha: 0, hot: 31315.61 },
-        { label: 'unclassified', ocha: 0, hot: 29588.21 },
-        { label: 'residential', ocha: 0, hot: 10545.83 },
-        { label: 'tertiary', ocha: 0, hot: 7551.10 },
-        { label: 'primary', ocha: 0, hot: 5845.09 },
-        { label: 'river', ocha: 5066.71, hot: 0 },
-        { label: 'secondary', ocha: 0, hot: 3989.70 },
-        { label: 'service', ocha: 0, hot: 1229.47 },
-        { label: 'footway', ocha: 0, hot: 595.02 },
-        { label: 'proposed', ocha: 0, hot: 393.31 },
-        { label: 'construction', ocha: 0, hot: 138.20 },
-        { label: 'bridleway', ocha: 0, hot: 7.84 },
-        { label: 'pedestrian', ocha: 0, hot: 4.56 },
-        { label: 'living_street', ocha: 0, hot: 3.61 },
-        { label: 'small_river', ocha: 2.52, hot: 0 },
-        { label: 'primary_link', ocha: 0, hot: 1.57 },
-        { label: 'trunk', ocha: 0, hot: 0.94 },
-        { label: 'tertiary_link', ocha: 0, hot: 0.34 },
-        { label: 'steps', ocha: 0, hot: 0.23 },
-        { label: 'secondary_link', ocha: 0, hot: 0.16 }
-    ];
-
-    // Sort the data based on the combined total of OCHA and HOT in descending order
-    data.sort((a, b) => (b.ocha + b.hot) - (a.ocha + a.hot));
-
-    // Check if sortedLabels is already declared. If so, just assign, else declare.
-    let sortedLabels; 
-    sortedLabels = data.map(item => item.label);  // Ensuring no redeclaration issue
-
-    const ochaData = data.map(item => item.ocha);
-    const hotData = data.map(item => item.hot);
-
     const highwayValuesChart = new Chart(ctx4, {
         type: 'bar',
         data: {
-            labels: sortedLabels,
+            labels: [
+                'path',
+                'road',
+                'track',
+                'unclassified',
+                'residential',
+                'tertiary',
+                'primary',
+                'river',
+                'secondary',
+                'service',
+                'footway',
+                'proposed',
+                'construction',
+                'bridleway',
+                'pedestrian',
+                'living_street',
+                'small_river',
+                'primary_link',
+                'trunk',
+                'tertiary_link',
+                'steps',
+                'secondary_link'
+            ],
             datasets: [
                 {
-                    label: 'OCHA',
-                    data: ochaData,
-                    backgroundColor: '#1E90FF',
+                    label: 'HOT',
+                    data: [44000, 30000, 10000, 8000, 5000, 5000, 4000, 0, 3000, 2000, 1000, 500, 500, 500, 500, 500, 0, 0, 0, 0, 0, 0],
+                    backgroundColor: '#d63f3e',
                     borderWidth: 1
                 },
                 {
-                    label: 'HOT',
-                    data: hotData,
-                    backgroundColor: '#d63f3e',
+                    label: 'OCHA',
+                    data: [0, 27000, 0, 0, 3000, 0, 4000, 2000, 0, 0, 0, 0, 0, 0, 0, 0, 2000, 0, 0, 0, 0, 0],
+                    backgroundColor: '#1E90FF',
                     borderWidth: 1
                 }
             ]
@@ -735,7 +721,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
             plugins: {
                 title: {
                     display: true,
-                    text: "Combined 'Highway' Values (Descending Order)",
+                    text: "Combined 'Highway' Values",
                     font: {
                         size: 18
                     }
@@ -747,8 +733,6 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 </body>
 </html>
-
-
 
 *Comparing the amount of HOT’s vs. OCHA’s “types” of roads in South Sudan*
 <br>
