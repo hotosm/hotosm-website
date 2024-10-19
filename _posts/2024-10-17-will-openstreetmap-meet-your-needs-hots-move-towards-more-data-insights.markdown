@@ -727,6 +727,15 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
                             return value + ' km'; // Add km symbol
                         }
                     }
+                },
+                y: {
+                    ticks: {
+                        autoSkip: false, // Prevent labels from disappearing
+                        font: {
+                            size: 12 // Adjust font size to fit more labels
+                        },
+                        padding: 5 // Add padding to make the labels more visible
+                    }
                 }
             },
             plugins: {
@@ -744,6 +753,7 @@ HOT has created a [data quality report](https://h2h.observablehq.cloud/h2h-stats
 
 </body>
 </html>
+
 
 
 
