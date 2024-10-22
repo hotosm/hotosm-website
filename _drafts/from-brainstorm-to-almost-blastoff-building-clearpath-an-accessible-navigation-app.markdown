@@ -32,7 +32,7 @@ While we haven't launched the full app yet, these past two months have been an i
 
 ## **Key Milestones:**
 
-* \*\*03 May 2024:\*\* Secured collaboration with the Jamaica Society for the Blind (JSB).
+* \*\*03 May 2024:\*\* Secured collaboration with the Jamaica Society for the Blind (JSB). 
 
 * \*\*21 May 2024:\*\* Secured collaboration with the Jamaica Council for Persons with Disabilities.
 

@@ -767,3 +767,9 @@ With clearer OSM data insights, humanitarians can spend more time on analyzing d
 
 **Excited for these new resources on OSM insights? Have a request? Don’t hesitate to contact us at [data@hosm.org](mailto:data@hosm.org).** 
 
+<br>
+Sponsored by:
+<img src="https://www.hotosm.org/uploads/h2h-logo-new-400x400.png" width="200" height="200">
+
+
+
