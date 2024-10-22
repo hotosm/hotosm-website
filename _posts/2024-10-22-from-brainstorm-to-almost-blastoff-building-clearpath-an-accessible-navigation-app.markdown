@@ -32,19 +32,19 @@ While we haven't launched the full app yet, these past two months have been an i
 
 ## **Key Milestones:**
 
-* **03 May 2024: **Secured collaboration with the Jamaica Society for the Blind (JSB).
+* \*\*03 May 2024:\*\* Secured collaboration with the Jamaica Society for the Blind (JSB).
 
-* **21 May 2024: **Secured collaboration with the Jamaica Council for Persons with Disabilities.
+* \*\*21 May 2024:\*\* Secured collaboration with the Jamaica Council for Persons with Disabilities.
 
-* **26 May 2024: **Brief written for MVP App and Contract for App Developer.
+* \*\*26 May 2024:\*\* Brief written for MVP App and Contract for App Developer.
 
-* **28 May 2024: **Conducted a crucial focus group with JSB representatives.
+* \*\*28 May 2024:\*\* Conducted a crucial focus group with JSB representatives.
 
-* **03 – 12 June 2024: **Contracted AG Software Solutions and began working on the app concept, logo, and initial designs.
+* \*\*03 – 12 June 2024:\*\* Contracted AG Software Solutions and began working on the app concept, logo, and initial designs.
 
-* **19 June 2024: **Received the initial wireframes for the app.
+* \*\*19 June 2024:\*\* Received the initial wireframes for the app.
 
-* **24 – 28 June 2024: **Finalised the app's user interface (UI) design.
+* \*\*24 – 28 June 2024: \*\*Finalised the app's user interface (UI) design.
 
 ## This blog was written by:
 
