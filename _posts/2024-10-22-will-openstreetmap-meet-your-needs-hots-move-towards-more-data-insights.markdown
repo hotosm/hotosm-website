@@ -1,6 +1,6 @@
 ---
 title: Will OpenStreetMap meet your needs? HOT’s move towards more data insights
-date: 2024-10-17 21:10:00 Z
+date: 2024-10-22 21:10:00 Z
 Summary Text: 'In the spirit of <a href="https://en.wikipedia.org/wiki/FAIR_data">FAIR
   data</a> (findable, accessible, interoperable, and reusable) and with support from
   the <a href="https://www.hotosm.org/updates/improving-osm-for-anticipatory-action-with-h2h/">H2H
