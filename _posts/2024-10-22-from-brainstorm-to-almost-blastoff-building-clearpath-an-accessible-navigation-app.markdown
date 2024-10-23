@@ -2,9 +2,19 @@
 title: 'From Brainstorm to (Almost) Blastoff: Building ClearPath, an Accessible Navigation
   App'
 date: 2024-10-22 04:51:00 Z
+Summary Text: ClearPath, a mobile navigation app, leverages OpenStreetMap to enhance
+  accessibility in Downtown Kingston for persons with disabilities. Developed with
+  support from HOT’s microgrant and collaboration with MSBM, ClearPath aims to map
+  key accessibility features like curb cuts and pedestrian crossings.
+Feature Image: "/uploads/ClearPath.jpg"
+Person: Sharon Aiken
+Country:
+- Jamaica
 ---
 
 Forget roller coasters, the past two months have been a whirlwind adventure in app development! Our goal was ClearPath, a mobile navigation app that uses the power of OpenStreetMap to enhance accessibility in Downtown Kingston for persons with disabilities. This wasn't all smooth sailing, especially when it came to finding the right developer, but it has been an incredible learning experience fueled by my dedication and deep dives into research (and, of course, Cherika's invaluable support!). We're well on our way to creating something impactful.
+
+![ClearPath OSM.jpg](/uploads/ClearPath%20OSM.jpg)
 
 How did we get here? Let me take you back in time.
 
@@ -16,6 +26,8 @@ Back in 2022, we were students at CSOD learning to map using OpenStreetMap. Fast
 
 A cornerstone of ClearPath is the robust mapping data provided by OpenStreetMap. Our team of mappers— including my teammate Nicholas and UWI student mappers Aniece, Eyanie and Shaunapage— enhanced this data by identifying and mapping crucial accessibility features within Downtown Kingston, such as curb cuts, accessible entrances, and pedestrian crossings. Armed with their phones and using apps like [Mapillary](https://www.mapillary.com/), [KoBoCollect](https://www.kobotoolbox.org/), AR Measure and [StreetComplete](https://streetcomplete.app/) they spent hours meticulously surveying the area, capturing detailed information about the environment for people with disabilities. This invaluable groundwork laid the foundation for the app, and shows that yes we can create a navigation tool that accurately reflects the ground realities for people with disabilities in Jamaica.
 
+![ClearPath Accessible Navigation App.jpg](/uploads/ClearPath%20Accessible%20Navigation%20App.jpg)
+
 We began with grand ambitions—a fully developed mobile accessible navigation app with augmented reality features. However, after exploring options on platforms like Fiverr, we realised our initial budget wouldn't stretch that far. This is where we learned a valuable lesson: pivoting! We adapted our vision to focus on a Minimum Viable Product (MVP)—a streamlined version of the app with the most essential features for our target users.
 
 ## **Developer Odyssey to the Lingo Learning**
@@ -26,25 +38,27 @@ Once the developer search was over, we hit the ground running with user research
 
 The internet became my best friend and, at times, my worst enemy!. Developing an app involved a whole new world of terms and concepts. There were moments where deciphering developer jargon felt like learning a foreign language! But that's part of the adventure! Through countless hours of research, I explored app development processes, design principles, and user testing practices.
 
+![ClearPath OSM Accesibilty Features.jpg](/uploads/ClearPath%20OSM%20Accesibilty%20Features.jpg)
+
 ## **From Brainstorm to (Almost) Blastoff!**
 
 While we haven't launched the full app yet, these past two months have been an incredible journey. We've refined our vision, built a solid foundation with the MVP in progress, and I've gained a wealth of knowledge. The road has had a few unexpected turns, but we're excited to continue building something that will make a real difference.
 
 ## **Key Milestones:**
 
-* \*\*03 May 2024:\*\* Secured collaboration with the Jamaica Society for the Blind (JSB). 
+* 03 May 2024: Secured collaboration with the Jamaica Society for the Blind (JSB). 
 
-* \*\*21 May 2024:\*\* Secured collaboration with the Jamaica Council for Persons with Disabilities.
+* 21 May 2024: Secured collaboration with the Jamaica Council for Persons with Disabilities.
 
-* \*\*26 May 2024:\*\* Brief written for MVP App and Contract for App Developer.
+* 26 May 2024: Brief written for MVP App and Contract for App Developer.
 
-* \*\*28 May 2024:\*\* Conducted a crucial focus group with JSB representatives.
+* 28 May 2024: Conducted a crucial focus group with JSB representatives.
 
-* \*\*03 – 12 June 2024:\*\* Contracted AG Software Solutions and began working on the app concept, logo, and initial designs.
+* 03 – 12 June 2024: Contracted AG Software Solutions and began working on the app concept, logo, and initial designs.
 
-* \*\*19 June 2024:\*\* Received the initial wireframes for the app.
+* 19 June 2024: Received the initial wireframes for the app.
 
-* \*\*24 – 28 June 2024: \*\*Finalised the app's user interface (UI) design.
+* 24 – 28 June 2024: Finalised the app's user interface (UI) design.
 
 ## This blog was written by:
 
