@@ -11,7 +11,7 @@ Country:
 ## Canoa de Tolda: Preserving Communities Along the Rio Sao Francisco
 
 
-![Canoa de Tolda](https://cdn.hotosm.org/website/IMG_1654\+(1).jpg)
+![IMG_1654 (1).jpg](https://cdn.hotosm.org/website/IMG_1654\+(1).jpg)
 
 
 **Canoa de Tolda** es un tipo de embarcación tradicional en la cuenca baja del río Sao Francisco. Es también el nombre de una pequeña ONG comunitaria cuyo propósito es ayudar a las personas que viven en el valle del dicho río, quienes se ven afectadas por el comportamiento del río y su cuenca, impactados por el cambio climático y el uso del agua por parte de la agroindustria y la hidroelectricidad.
