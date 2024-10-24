@@ -306,12 +306,10 @@ Raw-api:
   Text: 
   Image: 
   Tools:
-  - Name: Website
-    URL: hotosm.github.io/raw-data-api
   - Name: Docs
     URL: https://hotosm.github.io/raw-data-api/
   - Name: GitHub
-    URL: github.com/hotosm/raw-data-api
+    URL: https://github.com/hotosm/raw-data-api
 Hdx:
   Header: 
   Text: 
