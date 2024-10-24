@@ -11,6 +11,7 @@ tags:
 - open mapping
 - OpenStreetMap
 - tech
+- e2e
 Summary Text: |-
   Climate change has led to an increase in <a href="https://www.unep.org/resources/report/spreading-wildfire-rising-threat-extraordinary-landscape-fires?gad_source=1&gclid=EAIaIQobChMIo_qmwrOYiAMVADXUAR2NCwYcEAAYASAAEgIMT_D_BwE">wildfire</a> season length, wildfire frequency, and burned areas around the world. The wildfire season has lengthened in many areas due to factors including warmer springs, longer summer dry seasons, and drier soils and vegetation.
 
