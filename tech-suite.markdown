@@ -31,7 +31,7 @@ Fair:
   Image: https://www.hotosm.org/uploads/fair-demo.png
   Tools:
   - Name: Learn More
-    URL: https://fair-dev.hotosm.org/
+    URL: https://fair.hotosm.org/
 Export-tool:
   Header: HOT Export Tool
   Text: The HOT Export Tool is an open service that creates customized extracts of
