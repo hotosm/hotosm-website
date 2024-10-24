@@ -8,8 +8,6 @@ Banner:
   Secondary Block: Join us - 04 Dec 2024
   Link Copy: Sign up here
   URL: http://eepurl.com/i1t5xU
-  # Optional Text:
-  # Small Block:
 Project:
 - ''
 - What We Do
