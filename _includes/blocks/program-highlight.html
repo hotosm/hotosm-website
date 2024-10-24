@@ -1,0 +1,46 @@
+<a class="module link-through project-module" href="{{ project.url }}">
+
+  <div class="module-details">
+
+    <div class="module-text project-header-meta">
+
+      <h3>{{ project.title }}</h3>
+
+      <p class="project-involvement">
+        {% if project['Is Community-Led'] %}
+          Community-Led
+        {% else %}
+          HOT Program
+        {% endif %}
+      </p>
+
+      {% if project.Country[0] != '' %}
+        <p class="project-countries">
+          {% for country in project.Country %}
+            <span class="project-country">{{ country }}</span>
+          {% endfor %}
+        </p>
+      {% else %}
+        <p class="project-countries">
+          <span class="project-country">Global</span>
+        </p>
+      {% endif %}
+      <p class="project-status">
+        {% if project['Duration']['End Date'] == 'Ongoing' %} ACTIVE {% else %} 
+        {% capture currenttime %}{{ 'now' | date: "%Y-%m-%d %H:%M:%s" }}{% endcapture %}
+        {% capture projecttime %}{{ project['Duration']['End Date'] }}{% endcapture %}
+        {% if projecttime < currenttime %} COMPLETED 
+        {% else %} ACTIVE {% endif %}
+        {% endif %}
+      </p>
+    </div>
+
+    <p class="module-cta"><span>Learn more</span></p>
+  </div>
+  <div class="module-image">
+    {% if project['Feature Image'] %}
+      <img {% if project['Is image top aligned'] %} style="object-position: top center" {% endif %} src="{{ project['Feature Image']}}">
+    {% endif %}
+  </div>
+
+</a>

@@ -8,112 +8,11 @@ layout: default
   </header>
 
   <div class="impact-area-embedded">
-    <!-- <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url={{ page['Page Link']['Link'] }}" width="100%" height="1200px"> -->
+
       <h4 style="align-items: center; padding: 5% 10% 3% 10%;">{{ page['block-1']['intro2'] | markdownify }}</h4>
-     <!-- <iframe src="{{ page['Page Link']['Link'] }}" width="100%" height="1200" allow="autoplay"></iframe> -->
   </div>
+  {% if page.title != "Programs" %}
 
-  <!-- <div class="impact-area-body">
-    <aside class="meta">
-    {% if page['Page Link']['Link'] %}
-      <p class="meta-p">{{ page['Page Link']['Text'] }}</p>
-      <div class="sticky-wrap">
-        <a class="btn btn-primary btn-block btn-chevron" href="{{ page['Page Link']['Link'] }}">{{ page['Page Link']['Label'] }}</a>
-      </div>
-    {% endif %}
-    </aside>
-    <div class="light page-content">
-      <p class="red intro">{{ page.block-1.intro }}</p>
-      <div>
-        <h4 class="red bold">{{ page.block-1.sub-block.title }}</h4>
-        {% assign points = page.block-1.sub-block.points %}
-        {% for point in points %}
-          <p class="red bold">{{ point["title"] }}</p>
-          {% if point["summary"] != '' %}
-            <ul>
-              <li>
-                {{ point["summary"] }}
-                {% assign subpoints = point["subs"] %}
-                {% for subpoint in subpoints %}
-                  {% if subpoint["title"] != '' %}
-                    <ul>
-                      <li>
-                        {{ subpoint["title"] }}
-                        {% if subpoint["points"].length != 0 %}
-                          {% assign subs = subpoint["points"] %}
-                          {% for sub in subs %}
-                            <ul>
-                              <li>{{ sub }}</li>
-                            </ul>
-                          {% endfor %}
-                        {% endif %}
-                      </li>
-                    </ul>
-                  {% endif %}
-                {% endfor %}
-              </li>
-            </ul>
-          {% endif %}
-
-          {% if point["summary"] == '' %}
-            {% assign subpoints = point["subs"] %}
-            {% for subpoint in subpoints %}
-              {% if subpoint["title"] != '' %}
-                <ul>
-                  <li>
-                    {{ subpoint["title"] }}
-                    {% if subpoint["points"].length != 0 %}
-                      {% assign subs = subpoint["points"] %}
-                      {% for sub in subs %}
-                        <ul>
-                          <li>{{ sub }}</li>
-                        </ul>
-                      {% endfor %}
-                    {% endif %}
-                  </li>
-                </ul>
-              {% endif %}
-            {% endfor %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-
-    {% unless page.title == "Gender Equality" %}
-      <div class="dark page-content">
-        {{ content }}
-      </div> 
-    {% endunless %}
-    <div class="light page-content">
-      <h4 class="red bold">{{ page.block-2.title }}</h4>
-      {% assign points = page.block-2.points %}
-      {% for point in points %}
-        <ul>
-          <li>{{ point }}</li>
-        </ul>     
-      {% endfor %}
-    </div>
-    <div class="dark page-content">
-      <h4>{{ page.block-3.heading }}</h4>
-      <h5 class="subheading">{{ page.block-3.subheading }}</h5>
-      <p>
-        <span class="bold">Do you work with OSM in this area and are interested in sharing with others?</span>
-        Please contact data@hotosm.org  with what you are using OSM for, what OSM and other data you are using, success stories, and any other feedback on this impact area.
-      </p>
-      
-      {% assign sections = page.block-3.sections %}
-      {% for section in sections %}
-        <p class="bold">{{ section["heading"] }}</p>
-        <ul>
-          {% assign points = section["points"] %}
-          {% for point in points %}
-            <li>{{ point }}</li>
-          {% endfor %}
-        </ul>
-      {% endfor %}
-    </div>
-  </div> -->
   <div id="impact-projects" class="container">
     <div class="hr-h"></div>
     <h4>Highlighted Projects</h4>
@@ -122,14 +21,8 @@ viewer?embedded=true&url={{ page['Page Link']['Link'] }}" width="100%" height="1
 
       {% assign sorted-projects = site.projects | sort:"date" | reverse %}
 
-      <!-- {% assign highlight_count = 0 %} -->
       {% for project in sorted-projects %}
         {% if project['Highlight'] contains page.title %}
-
-          <!-- {% assign highlight_count = highlight_count | plus: 1 %} -->
-          <!-- {% if highlight_count > 20 %}
-            {% break %}
-          {% endif %} -->
 
           {% include blocks/project-highlight.html %}
 
@@ -186,6 +79,74 @@ viewer?embedded=true&url={{ page['Page Link']['Link'] }}" width="100%" height="1
     {% endfor %}
 
   </div>
+  {% endif %}
+
+
+  {% if page.title == "Programs" %}
+      <div id="impact-projects" class="container">
+        <div class="hr-h"></div>
+        <h4>Highlighted Programs</h4>
+
+        <div class="project-index-highlights">
+
+          {% assign sorted_projects = site.programs | sort:"position" %}
+          {% for project in sorted_projects limit:8 %}
+            {% include blocks/program-highlight.html %}
+          {% endfor %}
+
+          <div class="hr-h"></div>
+        </div> 
+
+        {% assign program_head_count = 0 %}
+        {% for program in sorted-programs %}
+          {% if program['Impact Area'] contains page.title %}
+
+            {% assign program_head_count = program_head_count | plus: 1 %}
+            {% if program_head_count > 3 %}
+
+              <h4>More {{ page.title }} programs</h4>
+              
+              <div class="project-index-all">
+
+              {% break %}
+
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        {% assign program_count = 0 %}
+        {% for program in sorted-programs %}
+          {% if program['Impact Area'] contains page.title %}
+
+            {% assign program_count = program_count | plus: 1 %}
+            {% if program_count > 0 %}
+              {% unless program_count < 0 %}
+                {% include blocks/project-thumb.html %}
+              {% endunless %}
+
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        {% assign program_foot_count = 0 %}
+        {% for program in sorted-programs %}
+          {% if program['Impact Area'] contains page.title %}
+
+            {% assign program_foot_count = program_foot_count | plus: 1 %}
+            {% if program_foot_count > 3 %}
+
+              </div>
+
+              {% break %}
+
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+      </div>
+{% endif %}
+
+
 
 </div>
   
