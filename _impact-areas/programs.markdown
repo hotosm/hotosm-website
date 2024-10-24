@@ -15,7 +15,11 @@ block-1:
     gender of those contributing to OSM affects the information that specifically
     affects or are more relevant to one gender. Increasing inclusion in mapping and
     focusing on gender-sensitive tagging can support more equitable outcomes.
-  intro2: HOT implements a range of impactful programs that leverage open map data to address humanitarian challenges globally. Working in over 94 countries, we collaborate with local communities, governments, and organizations to create and maintain detailed, **accessible maps that aid local communities, NGOs, and governments in making informed decisions and improving lives.**
+  intro2: HOT implements a range of impactful programs that leverage open map data
+    to address humanitarian challenges globally. Working in over 94 countries, we
+    collaborate with local communities, governments, and organizations to create and
+    maintain detailed, **accessible maps that aid local communities, NGOs, and governments
+    in making informed decisions and improving lives.**
   sub-block:
     title: Open Mapping for Gender Equality
     points:
