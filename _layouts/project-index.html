@@ -57,20 +57,33 @@ layout: default
 
           <div class="areas-wrapper">
             <div class="container">
-              <h6>LEARN ABOUT OPEN MAPPING ACROSS OUR IMPACT AREAS: </h6>
+              <h6>LEARN ABOUT OPEN MAPPING ACROSS OUR IMPACT AREAS AND PROGRAMS: </h6>
               {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
               {% for impact-area in sorted-impact-areas %}
-                {% if impact-area.title == 'Disaster Response' %}
-                  <a href="/disaster-services/project_activations.html" class="map-impact-area">Disaster Response</a>
-                {% else %}
+                {% if impact-area.title != 'Programs' %}
+                  {% if impact-area.title == 'Disaster Response' %}
+                    <a href="/disaster-services/project_activations.html" class="map-impact-area">Disaster Response</a>
+                  {% else %}
                     <a href="{{ impact-area.url }}" class="map-impact-area">
                       {% if impact-area.src %}
                         <img src="{{ impact-area.src }}" class="impact-area-icon" width="60" height="60"/>
                       {% endif %}
                       {{ impact-area.title }}
                     </a>
+                  {% endif %}
                 {% endif %}
               {% endfor %}
+              
+              
+              <span style="padding: 10px 15px;">&mdash;&nbsp;</span>              
+              <a href="/impact-areas/programs/" class="map-impact-area">
+                <img src="https://www.hotosm.org/uploads/globe-icon.png" class="impact-area-icon" width="60" height="60"/>
+                Programs
+              </a>
+              
+              
+              
+        
             </div>
           </div>
 
@@ -118,9 +131,9 @@ layout: default
 
     <div class="project-index-highlights">
 
-      {% assign sorted_projects = site.programs | sort:"position" %}
-      {% for project in sorted_projects limit:1 %}
-        {% include blocks/project-highlight.html %}
+      {% assign sorted_project = site.programs | sort:"position" %}
+      {% for project in sorted_project limit:1 %}
+        {% include blocks/program-highlight.html %}
       {% endfor %}
 
     </div>
