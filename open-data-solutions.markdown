@@ -99,7 +99,7 @@ Fair:
   Image: 
   Tools:
   - Name: Website
-    URL: https://fair-dev.hotosm.org/
+    URL: https://fair.hotosm.org/
   - Name: Dev Docs
     URL: https://docs.hotosm.org/
   - Name: GitHub
