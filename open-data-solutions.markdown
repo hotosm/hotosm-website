@@ -208,88 +208,72 @@ Disaster-ninja:
   Image: 
   Tools:
   - Name: Website
-    URL: https://mapswipe.org/en/index.html
-  - Name: Data
-    URL: https://mapswipe.org/en/data/
-  - Name: GitHub
-    URL: https://github.com/mapswipe
+    URL: https://disaster.ninja/active/
 Kepler:
   Header: 
   Text: 
   Image: 
   Tools:
   - Name: Website
-    URL: https://mapswipe.org/en/index.html
-  - Name: Data
-    URL: https://mapswipe.org/en/data/
+    URL: https://kepler.gl/
   - Name: GitHub
-    URL: https://github.com/mapswipe
+    URL: https://github.com/keplergl/kepler.gl
 Observable-framework:
   Header: 
   Text: 
   Image: 
   Tools:
   - Name: Website
-    URL: https://mapswipe.org/en/index.html
-  - Name: Data
-    URL: https://mapswipe.org/en/data/
+    URL: https://observablehq.com/
   - Name: GitHub
-    URL: https://github.com/mapswipe
+    URL: https://github.com/observablehq/
 D3:
   Header: 
   Text: 
   Image: 
   Tools:
   - Name: Website
-    URL: https://mapswipe.org/en/index.html
-  - Name: Data
-    URL: https://mapswipe.org/en/data/
+    URL: https://d3js.org/
   - Name: GitHub
-    URL: https://github.com/mapswipe
+    URL: https://github.com/d3/d3
 Healthsites:
   Header: 
   Text: 
   Image: 
   Tools:
   - Name: Website
-    URL: https://mapswipe.org/en/index.html
+    URL: https://healthsites.io/
   - Name: Data
-    URL: https://mapswipe.org/en/data/
+    URL: https://healthsites.io/#country-data
   - Name: GitHub
-    URL: https://github.com/mapswipe
+    URL: https://github.com/healthsites/healthsites/
 Mapbox:
   Header: 
   Text: 
   Image: 
   Tools:
   - Name: Website
-    URL: https://mapswipe.org/en/index.html
-  - Name: Data
-    URL: https://mapswipe.org/en/data/
+    URL: https://www.mapbox.com/
   - Name: GitHub
-    URL: https://github.com/mapswipe
+    URL: https://github.com/mapbox
 Maplibre:
   Header: 
   Text: 
   Image: 
   Tools:
   - Name: Website
-    URL: https://mapswipe.org/en/index.html
-  - Name: Data
-    URL: https://mapswipe.org/en/data/
+    URL: https://maplibre.org/
   - Name: GitHub
-    URL: https://github.com/mapswipe
+    URL: https://github.com/maplibre
 Umap:
   Header: 
   Text: 
   Image: 
   Tools:
   - Name: Website
-    URL: https://mapswipe.org/en/index.html
-  - Name: Data
-    URL: https://mapswipe.org/en/data/
+    URL: https://umap.openstreetmap.fr/en/
   - Name: GitHub
-    URL: https://github.com/mapswipe
+    URL: https://github.com/umap-project/umap/
 Export-tool:
   Header: 
   Text: 
