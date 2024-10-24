@@ -4025,12 +4025,18 @@ div.mapboxgl-popup-content .project__details {
   padding: 0 1px 6px;
 }
 
+@property --gradPoint {
+  syntax: '<percentage>';
+  inherits: false;
+  initial-value: 60%;
+}
+
 .banner-body {
   grid-column: 6 / -1;
-  background-color: $red-light;
+  background: linear-gradient(to right, transparent var(--gradPoint), $red-light);
   padding: 12px 40px 14px 16px;
   margin: 0 0;
-  transition: background-color .3s ease;
+  transition: --gradPoint .3s ease;
   @media (max-width: $screen-xs) {
     padding: 16px;
   }
@@ -4127,7 +4133,7 @@ div.mapboxgl-popup-content .project__details {
 
 .home-banner:hover {
   .banner-body {
-    background-color: #FCE6E6;
+    --gradPoint: 0%;
   }
   .banner-cta span {
     &:after {
