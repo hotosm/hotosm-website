@@ -33,13 +33,13 @@ El movimiento por el mapeo abierto nació en 2004, con la creación de la plataf
 
 En la Amazonía, este enfoque es especialmente relevante. Estar en el mapa significa pertenecer, ejercer autonomía y afirmar soberanía sobre el territorio vivido. Las visibilidades y territorialidades están en juego en una región a menudo ignorada o distorsionada por las cartografías hegemónicas.
 
-Comunidades de hackers y makers como el [Hub de Mapeo Abierto](https://www.hotosm.org/hubs/hub-de-mapeamento-aberto-america-latina-e-caribe) y [Youth Mappers](https://www.youthmappers.org/) involucran a personas de diferentes edades, géneros y clases sociales en una causa común: superar el desafío de obtener datos geoespaciales hechos por muchas manos, mapas que representen a todos, no solo a los territorios, sino también sus usos y acciones que dan sentido cultural, político y económico a estos lugares.
+Comunidades de hackers y makers como el [Hub de Mapeo Abierto](https://www.hotosm.org/hubs/hub-mapeo-abierto-latam-caribe/) y [Youth Mappers](https://www.youthmappers.org/) involucran a personas de diferentes edades, géneros y clases sociales en una causa común: superar el desafío de obtener datos geoespaciales hechos por muchas manos, mapas que representen a todos, no solo a los territorios, sino también sus usos y acciones que dan sentido cultural, político y económico a estos lugares.
 
 ### Historias que se encontraron en Belém
 
 En total, SOTM Latam 2024 contó con participantes de 18 países presentes en Belém do Pará, como se muestra en el siguiente mapa.
 
-<iframe title="People present in SOTM Latam 2024 by country" aria-label="Map" id="datawrapper-chart-e3l2m" src="https://datawrapper.dwcdn.net/e3l2m/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 80% !important; border: none;" height="374" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data\["datawrapper-height"\]){var e=document.querySelectorAll("iframe");for(var t in a.data\["datawrapper-height"\])for(var r=0;r<e.length;r\+\+)if(e\[r\].contentWindow===a.source){var i=a.data\["datawrapper-height"\]\[t\]\+"px";e\[r\].style.height=i}}}))}();</script>
+<iframe title="People present in SOTM Latam 2024 by country" aria-label="Map" id="datawrapper-chart-e3l2m" src="https://datawrapper.dwcdn.net/e3l2m/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 75% !important; border: none;" height="374" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data\["datawrapper-height"\]){var e=document.querySelectorAll("iframe");for(var t in a.data\["datawrapper-height"\])for(var r=0;r<e.length;r\+\+)if(e\[r\].contentWindow===a.source){var i=a.data\["datawrapper-height"\]\[t\]\+"px";e\[r\].style.height=i}}}))}();</script>
 
 El programa incluyó talleres y conferencias, conversaciones y encuentros. Los temas tratados en SOTM se pueden resumir en tres ejes: **historias de impacto social en la Amazonía, historias de tecnologías abiertas e historias de gestión del espacio público**.
 
