@@ -57,7 +57,7 @@ On Ecuador, **Iván Terceros** reported on a series of workshops conducted by th
 
 ### **Open Technology Stories**
 
-El colectivo **Geochicas**, formado por feministas activas en OpenStreetMap, busca reducir la brecha de género y empoderar a las mujeres en el universo del software libre y los datos abiertos. Desde 2016, la iniciativa lleva a cabo proyectos como mapeo de feminicidios, visibilización de movilizaciones feministas y capacitación tecnológica. Destacan acciones como el [mapeo de calles con nombres femeninos y campañas contra la violencia de género](https://es.wikipedia.org/wiki/Geochicas).
+The **Geochicas** collective, made up of feminists active in OpenStreetMap, seeks to reduce the gender gap and empower women in the world of free software and open data. Since 2016, the initiative has carried out projects such as mapping femicides, raising awareness of feminist mobilizations and technological training. Actions such as [mapping streets with female names and campaigns against gender violence](https://en.wikipedia.org/wiki/Geochicas) stand out.
 
 **Andrés Gómez Casanova** presentó herramientas para [corregir errores en el mapeo de ríos y arroyos en OpenStreetMap](https://talks.osgeo.org/sotm2024-latam/talk/G93Q9D/). Utilizando el sistema waterwaymap.org con capas publicadas en el geoserver de osm.lat, la solución identifica bucles y terminaciones incorrectas, permitiendo ajustar el trazado de los cursos de agua en base a imágenes aéreas y mapas oficiales. La propuesta pretende representar cuencas fluviales completas y realistas, destacando la importancia de la preservación del agua en América Latina.
 
