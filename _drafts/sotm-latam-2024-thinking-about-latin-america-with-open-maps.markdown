@@ -9,25 +9,25 @@ Summary Text: In Belém, geotech activists exchanged experiences to address issu
 
 *The following post about SOTM LATAM 2024 was written by Antonio Laranjeira\* and [originally published in Portuguese](https://outraspalavras.net/descolonizacoes/cop30-pensar-a-america-latina-com-mapas-abertos/) on the website Outras Palavras. We publish -slightly edited- the Spanish translation of said post with the due authorization of the author.*
 
-Belém do Pará is in the center of world attention. In 2025, the city will host COP-30, a conference that will bring together world leaders to discuss urgent climate solutions. A year earlier, Belém hosted another global event: the [State of the Map Latam (SOTM)](https://2024.osmlatam.org/).
+Belém do Pará is in the center of world attention. In 2025, the city will host COP-30, a conference that will bring together world leaders to discuss urgent climate solutions. A year earlier, Belém hosted another global event: the [State of the Map Latam (SOTM)](https://2024.osmlatam.org/en/).
 
 The conference brought together cartographers, governments and businesses interested in geospatial data and its applications for citizens, with a free programme of talks and workshops taking place on 6, 7 and 8 December.
 
 ![postop1.jpg](/uploads/postop1.jpg)
 
-Los datos geoespaciales son información vinculada a la ubicación geográfica, como mapas interactivos, imágenes de satélite y modelos digitales del terreno. Estos datos juegan un papel fundamental en la organización del espacio público, el seguimiento ambiental y la toma de decisiones.
+Geospatial data is information linked to geographic location, such as interactive maps, satellite images and digital terrain models. This data plays a fundamental role in the organization of public space, environmental monitoring and decision-making.
 
-Aunque la plataforma Google Maps popularizó los mapas, fue [OpenStreetMap](https://es.wikipedia.org/wiki/OpenStreetMap) el que popularizó la cartografía en la web global. Los ejemplos demuestran que, cuando son accesibles y colaborativos, los mapas abiertos se convierten en poderosos recursos de datos para promover la transparencia, la soberanía y la justicia.
+While the Google Maps platform popularized maps, it was [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap)  that popularized cartography on the global web. Examples demonstrate that, when accessible and collaborative, open maps become powerful data resources to promote transparency, sovereignty and justice.
 
-### ¿Qué impulsa a la comunidad OpenStreetMap?
+### What drives the OpenStreetMap community?
 
-El movimiento por el mapeo abierto nació en 2004, con la creación de la plataforma OpenStreetMap, y desde entonces ha transformado la forma en que vemos el mundo. En contraste con el monopolio de plataformas como Google Maps, OpenStreetMap ofrece una alternativa descentralizada y accesible, que refleja las realidades locales y respeta las diversidades territoriales.
+The open mapping movement was born in 2004 with the creation of the OpenStreetMap platform, and has since transformed the way we see the world. In contrast to the monopoly of platforms such as Google Maps, OpenStreetMap offers a decentralized and accessible alternative that reflects local realities and respects territorial diversity.
 
 ![postop2.jpg](/uploads/postop2.jpg)
 
-En la Amazonía, este enfoque es especialmente relevante. Estar en el mapa significa pertenecer, ejercer autonomía y afirmar soberanía sobre el territorio vivido. Las visibilidades y territorialidades están en juego en una región a menudo ignorada o distorsionada por las cartografías hegemónicas.
+In the Amazon, this approach is particularly relevant. Being on the map means belonging, exercising autonomy and asserting sovereignty over the lived territory. Visibilities and territorialities are at stake in a region often ignored or distorted by hegemonic cartographies.
 
-Comunidades de hackers y makers como el [Hub de Mapeo Abierto](https://www.hotosm.org/hubs/hub-de-mapeamento-aberto-america-latina-e-caribe) y [Youth Mappers](https://www.youthmappers.org/) involucran a personas de diferentes edades, géneros y clases sociales en una causa común: superar el desafío de obtener datos geoespaciales hechos por muchas manos, mapas que representen a todos, no solo a los territorios, sino también sus usos y acciones que dan sentido cultural, político y económico a estos lugares.
+Comunidades de hackers y makers como el [Hub de Mapeo Abierto](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/) y [Youth Mappers](https://www.youthmappers.org/) involucran a personas de diferentes edades, géneros y clases sociales en una causa común: superar el desafío de obtener datos geoespaciales hechos por muchas manos, mapas que representen a todos, no solo a los territorios, sino también sus usos y acciones que dan sentido cultural, político y económico a estos lugares.
 
 ### Historias que se encontraron en Belém
 
