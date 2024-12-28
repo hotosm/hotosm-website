@@ -7,11 +7,11 @@ Summary Text: In Belém, geotech activists exchanged experiences to address issu
   peoples?
 ---
 
-*El siguiente post sobre el SOTM LATAM 2024 fue escrito por Antonio Laranjeira \* y [publicado originalmente en portugués](https://outraspalavras.net/descolonizacoes/cop30-pensar-a-america-latina-com-mapas-abertos/) en el website Outras Palavras. Publicamos -ligeramente editada- la traducción al castellano de dicho post con la debida autorización del autor.*
+*The following post about SOTM LATAM 2024 was written by Antonio Laranjeira\* and [originally published in Portuguese](https://outraspalavras.net/descolonizacoes/cop30-pensar-a-america-latina-com-mapas-abertos/) on the website Outras Palavras. We publish -slightly edited- the Spanish translation of said post with the due authorization of the author.*
 
-Belém do Pará está en el centro de la atención mundial. En 2025, la ciudad será sede de la COP-30, una conferencia que reunirá a líderes mundiales para discutir soluciones climáticas urgentes. Un año antes, Belém fue sede de otro evento global: el [State of the Map Latam (SOTM)](https://2024.osmlatam.org/).
+Belém do Pará is in the center of world attention. In 2025, the city will host COP-30, a conference that will bring together world leaders to discuss urgent climate solutions. A year earlier, Belém hosted another global event: the [State of the Map Latam (SOTM)](https://2024.osmlatam.org/).
 
-La conferencia movilizó a cartógrafos, gobiernos y empresas interesadas en los datos geoespaciales y sus aplicaciones para la ciudadanía, con un programa gratuito de conferencias y talleres que tuvo lugar los días 6, 7 y 8 de diciembre.
+The conference brought together cartographers, governments and businesses interested in geospatial data and its applications for citizens, with a free programme of talks and workshops taking place on 6, 7 and 8 December.
 
 ![postop1.jpg](/uploads/postop1.jpg)
 
