@@ -35,7 +35,7 @@ In total, SOTM Latam 2024 had participants from 18 countries present in Belém d
 
 <iframe title="People present in SOTM Latam 2024 by country" aria-label="Map" id="datawrapper-chart-e3l2m" src="https://datawrapper.dwcdn.net/e3l2m/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 75% !important; border: none;" height="374" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data\["datawrapper-height"\]){var e=document.querySelectorAll("iframe");for(var t in a.data\["datawrapper-height"\])for(var r=0;r<e.length;r\+\+)if(e\[r\].contentWindow===a.source){var i=a.data\["datawrapper-height"\]\[t\]\+"px";e\[r\].style.height=i}}}))}();</script>
 
-The program included workshops and conferences, conversations and meetings. The topics covered in SOTM can be summarized in three axes: **stories of social impact in the Amazon, stories of open technologies and stories of management of public space**.
+The program included workshops and conferences, conversations and meetings. The topics covered in SOTM can be summarized in three axes: **stories of social impact in the Amazon, stories of open technologies and stories of public space management**.
 
 Below is a summary of insights into the most impactful things seen and heard during the conference. All reports have the representatives' contact details and profiles available on the global event website.
 
@@ -65,15 +65,15 @@ The **Geochicas** collective, made up of feminists active in OpenStreetMap, seek
 
 ![postop5.jpg](/uploads/postop5.jpg)
 
-**Séverin Ménard** presented Panoramax, [a community project to create a decentralized and accessible “Street View”](https://talks.osgeo.org/sotm2024-latam/talk/7MNEJ9/). The workshop covered everything from image capture to publication and reuse, promoting the use of open standards and collaboration for their application in local contexts.
+**Séverin Ménard** presented [Panoramax](https://panoramax.fr/), [a community project to create a decentralized and accessible “Street View”](https://talks.osgeo.org/sotm2024-latam/talk/7MNEJ9/). The workshop covered everything from image capture to publication and reuse, promoting the use of open standards and collaboration for their application in local contexts.
 
-**Emilio Mariscal e** Ivan Gayton mostraron cómo las herramientas integradas de código abierto del Humanitarian OpenStreetMap Team (HOT) permiten realizar un [mapeo humanitario abierto de extremo a extremo](https://talks.osgeo.org/sotm2024-latam/talk/ENQEPY/). El taller (foto abajo) cubrió procesos desde la captura de imágenes con drones hasta la recolección de datos en el campo y la exportación de mapas, reforzando el impacto de la tecnología abierta en desastres y acciones comunitarias.
+**Emilio Mariscal and Ivan Gayton** showed how the Humanitarian OpenStreetMap Team’s integrated open source tools enable [end-to-end open humanitarian mapping](https://talks.osgeo.org/sotm2024-latam/talk/ENQEPY/). The workshop (pictured below) covered processes from drone image capture to field data collection and map export, reinforcing the impact of open technology on disasters and community action.
 
 ![postop6.jpg](/uploads/postop6.jpg)
 
-### Historias de gestión del espacio público
+### Stories of public space management
 
-En Argentina, el movimiento agroecológico ha cobrado fuerza en los últimos años, especialmente en la Provincia de Buenos Aires, donde el municipio de Luján se ha convertido en un referente en el [mapeo para mitigar las disputas por el uso del suelo](https://talks.osgeo.org/sotm2024-latam/talk/FX3EKG/). **Andrés Esteban Duhour** presentó el caso de la ciudad, caracterizada por un escenario de transición entre lo agrícola y lo urbano, buscando integrar prácticas agroecológicas en un contexto de fuerte presión de los modelos productivos convencionales.
+In Argentina, the agroecological movement has gained strength in recent years, especially in the Province of Buenos Aires, where the municipality of Luján has become a reference in [mapping to mitigate disputes over land use](https://talks.osgeo.org/sotm2024-latam/talk/FX3EKG/). **Andrés Esteban Duhour** presented the case of the city, characterized by a transition scenario between the agricultural and urban areas, seeking to integrate agroecological practices in a context of strong pressure from conventional production models.
 
 **Yessica De los Ríos Olarte** presentó un [proyecto de cartografía participativa en Medellín, Colombia, para reducir la vulnerabilidad comunitaria a las inundaciones](https://talks.osgeo.org/sotm2024-latam/talk/XV8NTJ/). La recopilación de datos geoespaciales incluyó infraestructura local y factores de riesgo, lo que dio como resultado mapas que guían las medidas de mitigación y resiliencia. La iniciativa también promovió una cultura de autogestión de riesgos.
 
