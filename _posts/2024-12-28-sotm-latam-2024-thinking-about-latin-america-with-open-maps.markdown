@@ -1,10 +1,15 @@
 ---
 title: 'SOTM LATAM 2024: Thinking about Latin America with open maps'
 date: 2024-12-28 18:02:00 Z
+tags:
+- sotm
+- latam
+- mapping
 Summary Text: In Belém, geotech activists exchanged experiences to address issues
   such as the climate crisis. Since open data and cartography are essential in the
   search for popular sovereignty in the territories, how can they serve the Amazonian
   peoples?
+Feature Image: "/uploads/postop2.jpg"
 Person: Antonio Laranjeira
 ---
 
