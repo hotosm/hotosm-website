@@ -13,7 +13,7 @@ Feature Image: "/uploads/postop2.jpg"
 Person: Antonio Laranjeira
 ---
 
-*El siguiente post sobre el SOTM LATAM 2024 fue escrito por Antonio Laranjeira \* y [publicado originalmente en portugués](https://outraspalavras.net/descolonizacoes/cop30-pensar-a-america-latina-com-mapas-abertos/) en el website Outras Palavras. Publicamos -ligeramente editada- la traducción al castellano de dicho post con la debida autorización del autor.*
+*El siguiente post sobre el SOTM LATAM 2024 fue escrito por Antonio Laranjeira\* y [publicado originalmente en portugués](https://outraspalavras.net/descolonizacoes/cop30-pensar-a-america-latina-com-mapas-abertos/) en el website Outras Palavras. Publicamos -ligeramente editada- la traducción al castellano de dicho post con la debida autorización del autor.*
 
 Belém do Pará está en el centro de la atención mundial. En 2025, la ciudad será sede de la COP-30, una conferencia que reunirá a líderes mundiales para discutir soluciones climáticas urgentes. Un año antes, Belém fue sede de otro evento global: el [State of the Map Latam (SOTM)](https://2024.osmlatam.org/).
 
@@ -71,9 +71,9 @@ El colectivo **Geochicas**, formado por feministas activas en OpenStreetMap, bus
 
 ![postop5.jpg](/uploads/postop5.jpg)
 
-**Séverin Ménard** presentó Panoramax, [un proyecto comunitario para crear un “Street View” descentralizado y accesible](https://talks.osgeo.org/sotm2024-latam/talk/7MNEJ9/). El taller cubrió todo, desde la captura de imágenes hasta la publicación y reutilización, promoviendo el uso de estándares abiertos y la colaboración para su aplicación en contextos locales.
+**Séverin Ménard** presentó [Panoramax](https://panoramax.fr/), [un proyecto comunitario para crear un “Street View” descentralizado y accesible](https://talks.osgeo.org/sotm2024-latam/talk/7MNEJ9/). El taller cubrió todo, desde la captura de imágenes hasta la publicación y reutilización, promoviendo el uso de estándares abiertos y la colaboración para su aplicación en contextos locales.
 
-**Emilio Mariscal e** Ivan Gayton mostraron cómo las herramientas integradas de código abierto del Humanitarian OpenStreetMap Team (HOT) permiten realizar un [mapeo humanitario abierto de extremo a extremo](https://talks.osgeo.org/sotm2024-latam/talk/ENQEPY/). El taller (foto abajo) cubrió procesos desde la captura de imágenes con drones hasta la recolección de datos en el campo y la exportación de mapas, reforzando el impacto de la tecnología abierta en desastres y acciones comunitarias.
+**Emilio Mariscal e Ivan Gayton** mostraron cómo las herramientas integradas de código abierto del Humanitarian OpenStreetMap Team (HOT) permiten realizar un [mapeo humanitario abierto de extremo a extremo](https://talks.osgeo.org/sotm2024-latam/talk/ENQEPY/). El taller (foto abajo) cubrió procesos desde la captura de imágenes con drones hasta la recolección de datos en el campo y la exportación de mapas, reforzando el impacto de la tecnología abierta en desastres y acciones comunitarias.
 
 ![postop6.jpg](/uploads/postop6.jpg)
 
