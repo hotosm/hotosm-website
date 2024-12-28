@@ -1,6 +1,10 @@
 ---
 title: 'SOTM LATAM 2024: Thinking about Latin America with open maps'
 date: 2024-12-28 18:02:00 Z
+Summary Text: In Belém, geotech activists exchanged experiences to address issues
+  such as the climate crisis. Since open data and cartography are essential in the
+  search for popular sovereignty in the territories, how can they serve the Amazonian
+  peoples?
 ---
 
 *El siguiente post sobre el SOTM LATAM 2024 fue escrito por Antonio Laranjeira \* y [publicado originalmente en portugués](https://outraspalavras.net/descolonizacoes/cop30-pensar-a-america-latina-com-mapas-abertos/) en el website Outras Palavras. Publicamos -ligeramente editada- la traducción al castellano de dicho post con la debida autorización del autor.*
@@ -29,7 +33,7 @@ Comunidades de hackers y makers como el [Hub de Mapeo Abierto](https://www.hotos
 
 En total, SOTM Latam 2024 contó con participantes de 18 países presentes en Belém do Pará, como se muestra en el siguiente mapa.
 
-<iframe title="People present in SOTM Latam 2024 by country" aria-label="Map" id="datawrapper-chart-e3l2m" src="https://datawrapper.dwcdn.net/e3l2m/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="374" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data\["datawrapper-height"\]){var e=document.querySelectorAll("iframe");for(var t in a.data\["datawrapper-height"\])for(var r=0;r<e.length;r\+\+)if(e\[r\].contentWindow===a.source){var i=a.data\["datawrapper-height"\]\[t\]\+"px";e\[r\].style.height=i}}}))}();</script>
+<iframe title="People present in SOTM Latam 2024 by country" aria-label="Map" id="datawrapper-chart-e3l2m" src="https://datawrapper.dwcdn.net/e3l2m/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 75% !important; border: none;" height="374" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data\["datawrapper-height"\]){var e=document.querySelectorAll("iframe");for(var t in a.data\["datawrapper-height"\])for(var r=0;r<e.length;r\+\+)if(e\[r\].contentWindow===a.source){var i=a.data\["datawrapper-height"\]\[t\]\+"px";e\[r\].style.height=i}}}))}();</script>
 
 El programa incluyó talleres y conferencias, conversaciones y encuentros. Los temas tratados en SOTM se pueden resumir en tres ejes: **historias de impacto social en la Amazonía, historias de tecnologías abiertas e historias de gestión del espacio público**.
 
