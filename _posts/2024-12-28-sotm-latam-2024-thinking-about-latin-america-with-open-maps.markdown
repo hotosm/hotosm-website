@@ -13,7 +13,7 @@ Feature Image: "/uploads/postop2.jpg"
 Person: Antonio Laranjeira
 ---
 
-*The following post about SOTM LATAM 2024 was written by Antonio Laranjeira\* and [originally published in Portuguese](https://outraspalavras.net/descolonizacoes/cop30-pensar-a-america-latina-com-mapas-abertos/) on the website Outras Palavras. We publish -slightly edited- that post's translation into Spanish with the due authorization of the author.*
+*The following post about SOTM LATAM 2024 was written by Antonio Laranjeira\* and [originally published in Portuguese](https://outraspalavras.net/descolonizacoes/cop30-pensar-a-america-latina-com-mapas-abertos/) on the website Outras Palavras. We publish -slightly edited- that post's translation into English with the due authorization of the author.*
 
 Belém do Pará is in the center of world attention. In 2025, the city will host COP-30, a conference that will bring together world leaders to discuss urgent climate solutions. A year earlier, Belém hosted another global event: the [State of the Map Latam (SOTM)](https://2024.osmlatam.org/en/).
 
