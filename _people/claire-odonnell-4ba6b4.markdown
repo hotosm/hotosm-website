@@ -1,6 +1,7 @@
 ---
 title: Claire O'Donnell
 date: 2024-01-04 10:53:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Screenshot+2024-01-04+at+14.30.54.png
 Member Type:
   Is Staff: true
