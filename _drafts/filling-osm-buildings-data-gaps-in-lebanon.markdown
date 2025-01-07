@@ -35,100 +35,100 @@ The first district completed in the update was Marjayoun southeast Lebanon. The 
 ![](AD_4nXekvxvN42bVYOtLbL90EKLV4pzbtysJKoq7BdQ8YDCgJH89PnAkdqG5XxhY1z4HApO5y4rVIlA0P4en78EZXMlHkI75FDt_-1pqGLSxkCjSzx2UjN8Ze46qw-OHJIL6aJNjMfePSQ.png)
 
 
+<br>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Responsive Chart</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         body {
             font-family: Arial, sans-serif;
         }
 
-        .chart {
-            width: 100%;
-            max-width: 600px;
+        #chartContainer {
+            max-width: 900px;
             margin: 20px auto;
-        }
-
-        .bar {
-            display: flex;
-            align-items: center;
-            margin: 10px 0;
-        }
-
-        .label {
-            width: 30%;
-            font-size: 14px;
-            text-align: right;
-            margin-right: 10px;
-        }
-
-        .value {
-            font-size: 14px;
-            margin-left: 10px;
-        }
-
-        .bar-inner {
-            flex-grow: 1;
-            height: 20px;
-            position: relative;
-        }
-
-        .bar-inner span {
-            position: absolute;
-            right: 0;
-            top: 0;
-            bottom: 0;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            font-weight: bold;
-        }
-
-        .microsoft {
-            background-color: #63a1ff;
-            width: 79%; /* proportional to 28,905 */
-        }
-
-        .osm-oct {
-            background-color: #ff5e76;
-            width: 12%; /* proportional to 4,426 */
-        }
-
-        .osm-jan {
-            background-color: #ff5e76;
-            width: 100%; /* proportional to 36,605 */
-        }
-
-        @media (max-width: 400px) {
-            .label {
-                font-size: 12px;
-            }
-            .value {
-                font-size: 12px;
-            }
         }
     </style>
 </head>
 <body>
-    <div class="chart">
-        <div class="bar">
-            <div class="label">Microsoft ML<br>Buildings</div>
-            <div class="bar-inner microsoft"><span>28,905</span></div>
-        </div>
-        <div class="bar">
-            <div class="label">OSM, October 2024</div>
-            <div class="bar-inner osm-oct"><span>4,426</span></div>
-        </div>
-        <div class="bar">
-            <div class="label">OSM, January 2025</div>
-            <div class="bar-inner osm-jan"><span>36,605</span></div>
-        </div>
-    </div>
+
+<div id="chartContainer">
+    <canvas id="buildingChart"></canvas>
+</div>
+
+<script>
+    const ctx = document.getElementById('buildingChart').getContext('2d');
+    const buildingChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['Microsoft ML Buildings', 'OSM, October 2024', 'OSM, January 2025'],
+            datasets: [
+                {
+                    label: 'Number of Buildings',
+                    data: [28905, 4426, 36605],
+                    backgroundColor: [
+                        'rgba(99, 161, 255, 1)', // Microsoft ML Buildings
+                        'rgba(255, 94, 118, 1)', // OSM, October 2024
+                        'rgba(255, 94, 118, 1)'  // OSM, January 2025
+                    ],
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Building Data Comparison',
+                    font: {
+                        size: 18
+                    }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(tooltipItem) {
+                            return tooltipItem.raw.toLocaleString();
+                        }
+                    }
+                }
+            },
+            scales: {
+                x: {
+                    title: {
+                        display: true,
+                        text: 'Categories',
+                        font: {
+                            size: 14
+                        }
+                    }
+                },
+                y: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Number of Buildings',
+                        font: {
+                            size: 14
+                        }
+                    },
+                    ticks: {
+                        callback: function(value) {
+                            return value.toLocaleString();
+                        }
+                    }
+                }
+            }
+        }
+    });
+</script>
+
 </body>
 </html>
+<br>
 
 
 **Next steps & identifying damaged buildings** 
