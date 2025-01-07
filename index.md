@@ -3,7 +3,7 @@ title: Home
 position: 0
 description: _
 Banner:
-  Is Activated: true
+  Is Activated: false
   Main Block: Get ready for our global Tele-mapathon!
   Secondary Block: Join us - 04 Dec 2024
   Link Copy: Watch Live
