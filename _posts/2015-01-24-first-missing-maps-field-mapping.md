@@ -1,8 +1,7 @@
 ---
 title: First official Missing Maps field mapping
 date: 2015-01-24 19:31:00 Z
-permalink: updates/2015-01-24_first_official_missing_maps_field_mapping!
-published: false
+permalink: updates/2015-01-24_first_official_missing_maps_field_mapping
 Feature Image: https://s3.amazonaws.com/hotwww/files/old/styles/banner/public/10382623_10202632159000013_5184172476893308300_n.jpg
 Person: Jorieke Vyncke
 Project:
