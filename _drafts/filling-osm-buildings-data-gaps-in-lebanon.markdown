@@ -17,7 +17,15 @@ Based on requests from humanitarian analysts needing accurate building footprint
 
 In the case of **[Microsoft ML](https://github.com/microsoft/GlobalMLBuildingFootprints)**, a visual analysis of buildings identified poor precision. Some buildings are missed, and in some cases, multiple buildings are grouped together. Example Microsoft ML buildings in Lebanon: 
 
-![lebanon_gaps.png](/uploads/lebanon_gaps.png)<br>
+<br>
+<br>
+<div style="text-align: center;">
+    <img src="![lebanon_gaps.png](/uploads/lebanon_gaps.png)" alt="Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings.
+    </div>
+</div>
+<br>
 On the other hand, OSM buildings had major coverage gaps in Lebanon, as seen in the map below of estimated OSM buildings completeness, calculated using Kontur’s [DisasterNinja](https://disaster.ninja/active/map?layers=kontur_lines%2CactiveContributors%2CeventShape%2ChotProjects_outlines%2Cpopulation_density), which takes into account population density vs OSM data availability:
 
 ![lebanon_gaps2.png](/uploads/lebanon_gaps2.png)
