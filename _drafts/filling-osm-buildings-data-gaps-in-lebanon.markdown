@@ -20,19 +20,19 @@ Based on requests from humanitarian analysts needing accurate building footprint
 ![lebanon_gaps.png](/uploads/lebanon_gaps.png)
 **OSM**: OpenStreetMap buildings had major coverage gaps in Lebanon, as identified by the absence of any OSM buildings in the area shown above and data gaps in the map below.  
 
+![lebanon_gaps2.png](/uploads/lebanon_gaps2.png)
+
 **Filling buildings data gap in OSM**  
  
 As a precise pre-conflict building footprints dataset did not exist and is needed to refine locations of damage detected remotely through satellite, HOT kicked off a project in October 2024 with global volunteers and a growing OSM community in Lebanon to crowdsource mapping pre-conflict building footprints.  
 
 By the end of December 2024, over 100 volunteers have contributed over 150,000 edits! We anticipate completion of the 3 southern states of Sour, Bent Jbeil, and Marjayoun by early February, 2025. We will then review priority areas, but anticipate mapping Jezzine, Saida, El Nabatieh, Hasbaya, and southern Beirut. We’ve been prioritizing areas based on humanitarian requests, and initial damage estimates. You can track the progress of areas mapped and validated in this [map](https://umap.openstreetmap.fr/en/map/lebanon-conflict-2024-tasking-manager-project-prog_1132719#10/33.3758/35.2359) (screenshot below as of 6 Jan ‘25), and learn more [here](https://wiki.openstreetmap.org/wiki/Lebanon:_Conflict_-_October_2024). 
-![](AD_4nXc9s7n5Um1Hi4LNTsVBWPLcVh6pU3ypSt--c3X88JeAI5HxYZdaVB_wrf8GeE3yN5S1XRjPKQt2sksB-a_Uzt-lWisIgNZoSfvZCAcY2_IShXJLTtiB9UX_RUiNsmDU2yHoSRXw.png)
+
+![lebanon_aoi.png](/uploads/lebanon_aoi.png)
 
 **Example early data improvements in OSM** 
 
-The first district completed in the update was Marjayoun southeast Lebanon. The data improvement is evident by the increase in OSM of total count of buildings and compared to Microsoft ML building counts in all of Marjayoun District: ![](AD_4nXcoBLGYsDd-1pcsSIph_M1LuCoS6ANaffXVofQqzSTT_Z4GatQc_wsbBn7toKP2Fn3IVsBqhnUOQOR-qHkszysF6LVU4SU3d3so9QcLKdqIAGMLur27utg6ycwGYc2Em-dLVmwrOg.png)
-
-![](AD_4nXekvxvN42bVYOtLbL90EKLV4pzbtysJKoq7BdQ8YDCgJH89PnAkdqG5XxhY1z4HApO5y4rVIlA0P4en78EZXMlHkI75FDt_-1pqGLSxkCjSzx2UjN8Ze46qw-OHJIL6aJNjMfePSQ.png)
-
+The first district completed in the update was Marjayoun southeast Lebanon. The data improvement is evident by the increase in OSM of total count of buildings and compared to Microsoft ML building counts in all of Marjayoun District: 
 
 <br>
 <html lang="en">
@@ -129,6 +129,7 @@ The first district completed in the update was Marjayoun southeast Lebanon. The 
 </html>
 <br>
 
+![lebanon_comp.png](/uploads/lebanon_comp.png)
 
 **Next steps & identifying damaged buildings** 
 
