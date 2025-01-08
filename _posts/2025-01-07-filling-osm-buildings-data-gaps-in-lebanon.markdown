@@ -1,6 +1,7 @@
 ---
 title: Filling OSM buildings data gaps in Lebanon
 date: 2025-01-07 15:53:00 Z
+published: false
 Summary Text: Recent conflict has impacted the humanitarian situation in Lebanon.
   With damaged buildings estimated at up to 25% near the southern border, accurate
   data is needed to plan a humanitarian response. HOT is working with volunteers to
