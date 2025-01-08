@@ -26,6 +26,7 @@ In the case of **[Microsoft ML](https://github.com/microsoft/GlobalMLBuildingFoo
     </div>
 </div>
 <br>
+<br>
 On the other hand, OSM buildings had major coverage gaps in Lebanon, as seen in the map below of estimated OSM buildings completeness, calculated using Kontur’s [DisasterNinja](https://disaster.ninja/active/map?layers=kontur_lines%2CactiveContributors%2CeventShape%2ChotProjects_outlines%2Cpopulation_density), which takes into account population density vs OSM data availability:
 
 <br>
@@ -33,6 +34,7 @@ On the other hand, OSM buildings had major coverage gaps in Lebanon, as seen in 
 <div style="text-align: center;">
     <img src="/uploads/lebanon_gaps2.png" alt="Estimated OSM building Gaps southern Lebanon, Novemeber 2024" style="width: 75%; height: auto;">
 </div>
+<br>
 <br>
 
 **Filling buildings data gap in OSM**  
@@ -49,6 +51,7 @@ By the end of December 2024, over 100 volunteers had already contributed over 15
         Area of Interest for Tasking Manager. Map credits: Tiles courtesy of jawgmaps - Map data © OpenStreetMap contributors, under ODbL. Powered by Leaflet and Django, glued by uMap project (version 2.8.2).
     </div>
 </div>
+<br>
 <br>
 
 
@@ -88,13 +91,15 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
             labels: ['Microsoft ML Buildings', 'OSM, October 2024', 'OSM, January 2025'],
             datasets: [
                 {
-                    label: 'Number of Buildings',
-                    data: [28905, 4426, 36605],
-                    backgroundColor: [
-                        'rgba(99, 161, 255, 1)', // Microsoft ML Buildings
-                        'rgba(255, 94, 118, 1)', // OSM, October 2024
-                        'rgba(255, 94, 118, 1)'  // OSM, January 2025
-                    ],
+                    label: 'Microsoft ML Buildings',
+                    data: [28905, 0, 0], // Only show data for Microsoft ML Buildings
+                    backgroundColor: 'rgba(99, 161, 255, 1)', // Microsoft ML Buildings
+                    borderWidth: 1
+                },
+                {
+                    label: 'OSM Buildings', // Label for OSM Buildings
+                    data: [0, 4426, 36605], // Only show data for OSM Buildings
+                    backgroundColor: 'rgba(255, 94, 118, 1)', // OSM Buildings
                     borderWidth: 1
                 }
             ]
@@ -150,6 +155,7 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
 
 </body>
 </html>
+
 <br>
 
 The comparison below between Microsoft ML buildings and OSM buildings (post update in this area) show OSM edits have better coverage and precision of buildings shapes. 
