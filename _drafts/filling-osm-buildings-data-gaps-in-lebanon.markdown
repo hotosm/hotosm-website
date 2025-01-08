@@ -6,6 +6,7 @@ Summary Text: Recent conflict has impacted the humanitarian situation in Lebanon
   data is needed to plan a humanitarian response. HOT is working with volunteers to
   crowdsource the mapping of pre-conflict buildings footprints to serve as a baseline
   dataset and improve the accuracy of damage estimates.
+Feature Image: "/uploads/lebanon_banner.JPG"
 ---
 
 Following conflict escalation from October 2023 to November 2024, a ceasefire deal was reached between relevant actors on 27 November, 2024. As the country begins to recover from the months of war, information is needed on the extent of the damage to inform humanitarian programming. Economic impact, service disruption, and general shelter needs all need accurate damage estimates. A key factor of estimating damage from the conflict is the location of buildings, before any were damaged, pre-conflict. 
@@ -16,10 +17,8 @@ Based on requests from humanitarian analysts needing accurate building footprint
 
 **Microsoft ML**: A visual analysis of [Microsoft Machine Learning](https://github.com/microsoft/GlobalMLBuildingFootprints) (ML) buildings identified poor precision, as shown in blue below. Some buildings are missed, and in some cases, multiple buildings are grouped together. 
 
-![](AD_4nXcINdQeaP3lgB_2hxtSPM1LN-CZ8FxZkyyoYD3GL4JM0i9_FzswcDwHLgp__KP09Vo9S_GHrb4W4D2n-G3kdPNrFI1lhURf_r58pO7kN4tEuphb6r5RrnIadS7-qj0RbZbTPdHbHg.png)
+![lebanon_gaps.png](/uploads/lebanon_gaps.png)
 **OSM**: OpenStreetMap buildings had major coverage gaps in Lebanon, as identified by the absence of any OSM buildings in the area shown above and data gaps in the map below.  
-
-![](AD_4nXc6P4WKDiQoumiDHPoOL4sObR53SUCSQSHLo8CfxPeRY_pHq8oLZp_wQlLga91jz2v_eoXlznTTtTbwOzVxsn0kFfp1fyz15z_p_8ptEk3_VlpaGYLWlOmu2AQq8oj-oT-sgyxS.png)
 
 **Filling buildings data gap in OSM**  
  
