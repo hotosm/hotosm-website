@@ -63,7 +63,7 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
 <script>
     const ctx = document.getElementById('buildingChart').getContext('2d');
     const buildingChart = new Chart(ctx, {
-        type: 'bar',
+        type: 'horizontalBar', // Change to horizontalBar
         data: {
             labels: ['Microsoft ML Buildings', 'OSM, October 2024', 'OSM, January 2025'],
             datasets: [
@@ -99,19 +99,10 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
             },
             scales: {
                 x: {
-                    title: {
-                        display: true,
-                        text: 'Categories',
-                        font: {
-                            size: 14
-                        }
-                    }
-                },
-                y: {
                     beginAtZero: true,
                     title: {
                         display: true,
-                        text: 'Number of Buildings',
+                        text: 'Number of Buildings', // Keep this title for the x-axis
                         font: {
                             size: 14
                         }
@@ -119,6 +110,14 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
                     ticks: {
                         callback: function(value) {
                             return value.toLocaleString();
+                        }
+                    }
+                },
+                y: {
+                    // Remove the title configuration for the y-axis
+                    ticks: {
+                        callback: function(value) {
+                            return value; // Display the labels as they are
                         }
                     }
                 }
@@ -129,6 +128,8 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
 
 </body>
 </html>
+<br>
+
 <br>
 
 The comparison below between Microsoft ML buildings and OSM buildings (post update in this area) show OSM edits have better coverage and precision of buildings shapes. 
