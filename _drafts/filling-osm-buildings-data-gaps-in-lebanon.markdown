@@ -20,7 +20,7 @@ In the case of **[Microsoft ML](https://github.com/microsoft/GlobalMLBuildingFoo
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="![lebanon_gaps.png](/uploads/lebanon_gaps.png)" alt="Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
+    <img src="/uploads/lebanon_gaps.png" alt="Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings.
     </div>
