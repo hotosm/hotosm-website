@@ -38,6 +38,7 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
 
 <br>
 <html lang="en">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -63,7 +64,7 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
 <script>
     const ctx = document.getElementById('buildingChart').getContext('2d');
     const buildingChart = new Chart(ctx, {
-        type: 'horizontalBar', // Change to horizontalBar
+        type: 'bar', // Use 'bar' for horizontal bars
         data: {
             labels: ['Microsoft ML Buildings', 'OSM, October 2024', 'OSM, January 2025'],
             datasets: [
@@ -81,6 +82,7 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
         },
         options: {
             responsive: true,
+            indexAxis: 'y', // Set indexAxis to 'y' for horizontal bars
             plugins: {
                 title: {
                     display: true,
@@ -102,7 +104,7 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
                     beginAtZero: true,
                     title: {
                         display: true,
-                        text: 'Number of Buildings', // Keep this title for the x-axis
+                        text: 'Number of Buildings',
                         font: {
                             size: 14
                         }
@@ -114,10 +116,11 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
                     }
                 },
                 y: {
-                    // Remove the title configuration for the y-axis
-                    ticks: {
-                        callback: function(value) {
-                            return value; // Display the labels as they are
+                    title: {
+                        display: true,
+                        text: 'Categories',
+                        font: {
+                            size: 14
                         }
                     }
                 }
@@ -128,8 +131,6 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
 
 </body>
 </html>
-<br>
-
 <br>
 
 The comparison below between Microsoft ML buildings and OSM buildings (post update in this area) show OSM edits have better coverage and precision of buildings shapes. 
