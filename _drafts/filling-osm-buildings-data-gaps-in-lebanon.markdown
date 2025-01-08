@@ -38,7 +38,6 @@ The first district completed in the update was Marjayoun, in southeast Lebanon. 
 
 <br>
 <html lang="en">
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
