@@ -37,7 +37,7 @@ On the other hand, OSM buildings had major coverage gaps in Lebanon, as seen in 
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/lebanon_gaps2.png" alt="Estimated OSM building Gaps southern Lebanon, Novemeber 2024" style="width: 75%; height: auto;">
+    <img src="/uploads/lebanon_gaps2.png" alt="Estimated OSM building Gaps southern Lebanon, Novemeber 2024" style="width: 60%; height: auto;">
 </div>
 <br>
 <br>
@@ -51,7 +51,7 @@ By the end of December 2024, over 100 volunteers had already contributed over 15
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/lebanon_aoi.png" alt="Area of Interest for Tasking Manager. " style="width: 75%; height: auto;">
+    <img src="/uploads/lebanon_aoi.png" alt="Area of Interest for Tasking Manager. " style="width: 60%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Area of Interest for Tasking Manager. Map credits: Tiles courtesy of jawgmaps - Map data © OpenStreetMap contributors, under ODbL. Powered by Leaflet and Django, glued by uMap project (version 2.8.2).
     </div>
