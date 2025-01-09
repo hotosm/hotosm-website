@@ -1,7 +1,6 @@
 ---
 title: Filling OSM Buildings Data Gaps in Lebanon
 date: 2025-01-07 15:53:00 Z
-published: false
 Summary Text: Recent conflict has impacted the humanitarian situation in Lebanon.
   With damaged buildings estimated at up to 25% near the southern border, accurate
   data is needed to plan a humanitarian response. HOT is working with volunteers to
@@ -177,7 +176,8 @@ The comparison below between Microsoft ML buildings and OSM buildings (post upda
 Building footprints are commonly used as a data input in remote damage analyses. With support from the [H2H Network](https://h2hnetwork.org/h2hsupport-package-conflict-lebanon/)’s Lebanon Activation, HOT is working to better understand how OSM buildings are used by partner-led damage analyses. Remote damage analyses differ depending on the leading organization and method (e.g., UNOSAT or the Decentralized Damage Mapping Group). HOT plans to create an overview of different remote damage detection methods to serve as a data-usage guide. The overview will contain information on the data inputs (including OSM), and how the information contained in each output can be used by humanitarians. 
 
 As of now, all map edits are live in OSM. You can access the most updated OSM data through [HOT’s export tool](http://export.hotosm.org/) or [HDX](https://data.humdata.org/dataset/hotosm_lbn_buildings).
-
+<br>
+<br>
 **How to get involved**
 
 **Mapping**: If you are interested in mapping (digitizing) buildings in Lebanon, check out HOT’s [Tasking Manager](https://tasks.hotosm.org/) and look for projects in Lebanon! 
