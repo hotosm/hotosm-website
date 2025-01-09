@@ -43,7 +43,7 @@ On the other hand, OSM buildings had major coverage gaps in Lebanon, as seen in 
 <br>
 
 ### Filling the Data Gap in OSM
- 
+
 To create a precise pre-conflict building footprint dataset that’s needed to refine locations of damage detected remotely through satellite, HOT kicked off a crowdsourced mapping project in October 2024 with global volunteers and a growing OSM community in Lebanon.  
 
 By the end of December 2024, over 100 volunteers had already contributed over 150,000 map edits! We anticipate completion of the 3 southern states of Sour, Bent Jbeil, and Marjayoun by early February 2025. We will then review priority areas, but anticipate mapping Jezzine, Saida, El Nabatieh, Hasbaya, and southern Beirut. We’ve been prioritizing areas based on humanitarian requests and initial damage estimates. You can track the progress of areas mapped and validated in this [map](https://umap.openstreetmap.fr/en/map/lebanon-conflict-2024-tasking-manager-project-prog_1132719#10/33.3758/35.2359) (screenshot below as of 6 Jan ‘25), and learn more [here](https://wiki.openstreetmap.org/wiki/Lebanon:_Conflict_-_October_2024). 
@@ -182,6 +182,6 @@ As of now, all map edits are live in OSM. You can access the most updated OSM da
 
 **Mapping**: If you are interested in mapping (digitizing) buildings in Lebanon, check out HOT’s [Tasking Manager](https://tasks.hotosm.org/) and look for projects in Lebanon! 
 
-**Damage analyses**: If you are a humanitarian data analyst conducting or using damage assessments or OSM data in Lebanon, we’d love to hear from you about your experience at[data@hotosm.org](mailto:data@hotosm.org). We’d also appreciate any input on priority areas to map next. 
+**Damage analyses**: If you are a humanitarian data analyst conducting or using damage assessments or OSM data in Lebanon, we’d love to hear from you about your experience at [data@hotosm.org](mailto:data@hotosm.org). We’d also appreciate any input on priority areas to map next. 
 
 **All of HOT’s work in conflict is in line with [HOT’s Data Principles](https://www.hotosm.org/tools-and-data/data-principles/). See our [Program on Conflict & Displacement](https://www.hotosm.org/programs/conflict-displacement) for more information.**
