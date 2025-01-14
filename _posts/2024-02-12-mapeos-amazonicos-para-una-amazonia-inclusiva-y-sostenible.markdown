@@ -129,7 +129,7 @@ Además de los mapeos detallados de zonas pobladas en el Tasking Manager, hemos 
 
 > ### **Invitamos a toda persona que quiera contribuir mapeando desde su celular en momentos libres a instalar la aplicación [MapSwipe](https://play.google.com/store/apps/details?id=org.missingmaps.mapswipe&hl=en_US) y buscar allí los proyectos amazónicos.**
 
-## **Proyectos Comunitarios en Desarrollo**
+## **Otros proyectos en desarrollo**
 
 Además del mapeo remoto de la Amazonía realizado por las comunidades globales de OSM en colaboración con otras organizaciones, estamos llevando a cabo varios proyectos comunitarios con aliados locales.
 
