@@ -111,17 +111,35 @@ En el marco del Día Internacional de la Amazonía, el 12 de febrero de 2024, in
 
 * **[#16085:](https://tasks.hotosm.org/projects/16085)** Coari, Amazonas
 
+* **[#16298:](https://tasks.hotosm.org/projects/16298)** Acre, Xapuri
+
 ### **Proyectos Colombia:**
 
 * **[#16122:](https://tasks.hotosm.org/projects/16122)** Orito, Putumayo
 
 * **[#16123:](https://tasks.hotosm.org/projects/16123)** Puerto Asís, Putumayo
 
+* **[#17051:](https://tasks.hotosm.org/projects/17051)** La Macarena, Meta
+
+* **[#17762:](https://tasks.hotosm.org/projects/17762)** Villagarzón, Putumayo
+
 ### **Proyectos Ecuador:**
 
 * **[#16124:](https://tasks.hotosm.org/projects/16124)** Nueva Loja, Sucumbios
 
-* **[#16125:](https://tasks.hotosm.org/projects/16125)** Pacayu,  Sucumbios
+* **[#16125:](https://tasks.hotosm.org/projects/16125)** Pacayu, Sucumbios
+
+* **[#17058:](https://tasks.hotosm.org/projects/17058)** Tarapoa, Sucumbios
+
+* **[#17603:](https://tasks.hotosm.org/projects/17603)** El Dorado de Cascales, Sucumbios
+
+### **Proyectos Perú:**
+
+* **[#16698:](https://tasks.hotosm.org/projects/16698)** Ciudad Constitución, Pasco
+
+* **[#16722:](https://tasks.hotosm.org/projects/16722)** Jaén, Cajamarca
+
+* **[#17059:](https://tasks.hotosm.org/projects/17059)** Rioja, San Martín
 
 Nuestra estrategia para los próximos dos años consiste en priorizar el mapeo de las áreas y comunidades más vulnerables, avanzando progresivamente hasta completar un mapa integral de la región. Este mapa será una herramienta poderosa para todas las comunidades y los tomadores de decisiones, proporcionando información detallada que permitirá una mejor planificación y respuesta ante situaciones de riesgo.
 
