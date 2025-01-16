@@ -1,6 +1,6 @@
 ---
 title: Kakuma Kalobeyei Community Mapping
-date: 2025-01-16 07:59:00 Z
+date: 2023-11-30 07:59:00 Z
 Project Summary Text: 'Humanitarian OpenStreetMap Team’s Eastern and Southern Africa
   (ESA) Hub, USA for UNHCR, and Microsoft’s AI for Good Lab aimed to map Kenya’s Kakuma
   refugee camp and Kalobeyei settlement,  with a vision to create detailed maps that
@@ -49,7 +49,7 @@ The collected data, analyzed through open mapping techniques, created a detailed
 
 This drone mapping project represents a significant advancement in leveraging open map  technology for humanitarian support. Through the adoption of innovative drone technology and AI-powered feature detection models, the project has gathered detailed, accurate geographical data crucial for effective planning and response. The integration of open mapping tools, coupled with the application of SPHERE guidelines and spatially derived indicators, has potential to enable a more nuanced understanding of the on-ground realities. This could be instrumental in enhancing the efficiency and efficacy of humanitarian interventions, from resource allocation to infrastructure development.
 
-## Lessons learned 
+## Lessons Learned 
 
 The project provided key insights for future initiatives. First, proper planning for quicker drone approvals and local capacity building is essential. Challenges in processing imagery were significant, as delays occurred due to proprietary data formats and limited agreements with the drone operator. Future agreements should  include an explicit requirement to ensure that data is provided in open formats to avoid delays and impact on the geospatial accuracy of the final data.
 Additionally, the budget for data processing was insufficient, requiring donations of server infrastructure. Future budgets should allocate at least $40/km² to ensure adequate processing power. Coordination between the drone operation and processing teams should be improved, and local communities should be trained to both operate drones and process imagery. This would facilitate faster problem detection and resolution during the project. 
