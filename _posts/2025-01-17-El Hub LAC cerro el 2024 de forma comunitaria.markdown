@@ -1,6 +1,9 @@
 ---
 title: El Hub LAC cerró el 2024 de forma comunitaria
 date: 2025-01-17 01:50:00 Z
+categories:
+- community
+- latam
 tags:
 - Community
 Summary Text: El Hub de Mapeo Abierto de América Latina y el Caribe concluyó sus actividades
