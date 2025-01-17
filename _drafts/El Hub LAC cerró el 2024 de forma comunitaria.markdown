@@ -1,6 +1,8 @@
 ---
 title: El Hub LAC cerró el 2024 de forma comunitaria
 date: 2025-01-17 01:50:00 Z
+tags:
+- Community
 Person: Constanza Petrazzini
 ---
 
