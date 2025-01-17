@@ -15,6 +15,8 @@ El pasado jueves 19 de diciembre del 2024, invitamos a nuestra **Comunidad Latin
 
 Durante esta actividad pudimos compartir experiencias, reflexiones y aprendizajes del año, con el objetivo de inspirarnos mutuamente, fortalecer nuestros lazos y, sobre todo, pasar un rato divertido lleno de risas y muchas emociones. Conmemorar la culminación del 2024 y el comienzo del 2025 no solo con la intención de celebrar lo creado, vivido y aprendido, sino también a reflexionar sobre quién somos, de dónde venimos, y hacia dónde vamos como comunidad humana y mapeadora.
 
+![cierre%20comunidades%20Fin%20de%20Ano%202024.jpg](/uploads/cierre%20comunidades%20Fin%20de%20Ano%202024.jpg)
+
 Para dinamizar la reunión, preparamos una encuesta grupal, vía Menti, en la que una de las preguntas fue: “Razones por las cuales mapean: qué les motiva a ser parte de las comunidades de mapeo abierto”. Las respuestas fueron tan interesantes que acá se las transcribimos casi todas:
 
 * Me motiva el mapeo con impacto social
