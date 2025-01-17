@@ -3,6 +3,10 @@ title: El Hub LAC cerró el 2024 de forma comunitaria
 date: 2025-01-17 01:50:00 Z
 tags:
 - Community
+Summary Text: El Hub de Mapeo Abierto de América Latina y el Caribe concluyó sus actividades
+  del 2024 con una reunión comunitaria donde voluntarios, representantes de organizaciones
+  aliadas y mapeadores en general, se reunieron para celebrar el fin de año y el inicio
+  de otro donde de seguro habrá más mapeo colaborativo!
 Feature Image: "/uploads/cierre%20comunidades%20Fin%20de%20Ano%202024.jpg"
 Person: Constanza Petrazzini
 ---
@@ -61,7 +65,7 @@ Luego los asistentes compartieron muchas experiencias y anécdotas súper  inter
 
 ***Sandra Lucía Hernández Zetina (México)**:* Una experiencia importante de este año fue nuestra colaboración (de nuestra universidad, la UAEMEX) en el mapeo de transporte público de dos ciudades de la República Mexicana, en particular la ciudad donde yo vivo, que es Toluca. Estamos formalizando una estrategia que permite que los alumnos puedan tener reconocimiento de créditos de una de sus asignaturas de su plan de estudios que aún no cursan (permitiendo una participación perenne en mapeos de impacto).
 
-Finalmente Mar Marín, quien estuvo a cargo del Laboratorio de Mapeo Humanitario hizo un recuento de lo que para ella significó involucrarse y participar en la comunidad mapeadora: “Cuando Celine me contó de la intención de crear una comunidad de prácticas, era un reto muy grande, le agradezco mucho a las personas que se sumaron al llamado de aprender, y a aplicar todo el conocimiento retribuyendo en su comunidad. Ha sido muy inspirador para mí verles aguantar seis meses de sesiones sumamente técnicas. Creamos una comunidad bastante dinámica, interdisciplinaria, muy diversa. Todo esto lo hace todavía más rico, y nos inspira muchísimo a seguir contribuyendo y aprendiendo.
+Finalmente Mar Marín, quien estuvo a cargo del Laboratorio de Mapeo Humanitario hizo un recuento de lo que le significó involucrarse y participar en la comunidad mapeadora: “Cuando Celine me contó de la intención de crear una comunidad de prácticas, era un reto muy grande, le agradezco mucho a las personas que se sumaron al llamado de aprender, y a aplicar todo el conocimiento retribuyendo en su comunidad. Ha sido muy inspirador para mí verles aguantar seis meses de sesiones sumamente técnicas. Creamos una comunidad bastante dinámica, interdisciplinaria, muy diversa. Todo esto lo hace todavía más rico, y nos inspira muchísimo a seguir contribuyendo y aprendiendo.
 
 De esta forma compartimos e integramos una comunidad que desea hacer la diferencia, aprender y colaborar con otros. Un grupo humano que tiene como motor el recuperar sus países, contribuir en sus comunidades, apoyar causas humanitarias, y usar, crear y analizar datos abiertos geográficos para un bien mayor. Una comunidad motivada por seguir aprendiendo cada día, contribuyendo al mapa para asegurarse que sea útil, preciso y accesible. Una comunidad que busca expandirse, empoderar jóvenes, fomentar nuevos integrantes y acompañarse continuamente.
 
