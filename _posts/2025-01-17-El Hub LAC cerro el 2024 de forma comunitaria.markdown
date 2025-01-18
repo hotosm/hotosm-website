@@ -25,27 +25,16 @@ Durante esta actividad pudimos compartir experiencias, reflexiones y aprendizaje
 # **¿Por qué mapeamos? Las voces de nuestra comunidad**
 
 Para dinamizar la reunión, preparamos una encuesta grupal, vía Menti, en la que una de las preguntas fue: “Razones por las cuales mapean: qué les motiva a ser parte de las comunidades de mapeo abierto”. Las respuestas fueron tan interesantes que acá se las compartimos:
-
 * Contribuir con mi comunidad y aprender cosas nuevas.
-
 * Me motiva aportar al mundo a través de mapear y llevar más gente a mapear.
-
 * Recuperar mi país
-
 * Compartir y aprender sobre mapeo para la incidencia, actualmente trabajando en relacionar Wikidata y OSM.
-
 * Ayudar a causas humanitarias.
-
 * Contar con herramientas innovadoras y accesibles para el mapeo.
-
 * Empoderar a las juventudes a apropiarse de las herramientas de OSM para hacer incidencia en sus comunidades.
-
 * La posibilidad de contribuir a la generación de datos geoespaciales, y que con ellos se mejore el entorno de diversos grupos.
-
 * Contribuir a mejorar los datos y que el mapa sea útil.
-
 * Me motiva aprender y al mismo tiempo contribuir, es uno de los insumos más utilizados y valiosos.
-
 * Ayudar a complementar la información cartográfica y que sirva para un bien mayor.
 
 Les compartimos a las comunidades un breve resumen del impacto que han generado sus participaciones en las activaciones y mapatones regionales. Céline Jacquin, la Gerente Regional del LAC Hub, destaca:
@@ -58,15 +47,15 @@ Les compartimos a las comunidades un breve resumen del impacto que han generado 
 
 Posteriormente, las personas asistentes compartieron sus experiencias y anécdotas, enriqueciendo el espacio con sus perspectivas y aprendizajes. Compartimos algunas de ellas, llevándonos reflexiones valiosas de todas las personas que participaron, con el propósito de seguir fortaleciendo esta gran comunidad de mapeo.
 
-\*\*Teresa Vera (Ecuador) \*\*compartió: "Fue emocionante para mí recibir el correo en que me decían que había entrado en este mundo que no conocía, el correo donde me decían que había sido aprobada para el Laboratorio de Mapeo Humanitario. Saber que con mis participaciones ayudé un poquito y pude poner mi granito de arena con los mapeos a los que nos invitaban me alegra mucho. Lo desafiante fue el aprendizaje de tantas cosas, todavía estoy tratando de digerir todo lo que aprendí y ver cómo las aplico en mis proyectos personales y profesionales.”
+**Teresa Vera (Ecuador)** compartió: "Fue emocionante para mí recibir el correo en que me decían que había entrado en este mundo que no conocía, el correo donde me decían que había sido aprobada para el Laboratorio de Mapeo Humanitario. Saber que con mis participaciones ayudé un poquito y pude poner mi granito de arena con los mapeos a los que nos invitaban me alegra mucho. Lo desafiante fue el aprendizaje de tantas cosas, todavía estoy tratando de digerir todo lo que aprendí y ver cómo las aplico en mis proyectos personales y profesionales.”
 
-\*\*Carlos Andres Ríos-Franco (Colombia):\*\* "Primero, me gustaría agradecerles por la oportunidad de pertenecer a la Brigada de Mapeo Humanitario. Hace algunos años, en la capital del departamento de Putumayo, al sur de Colombia, hubo una avalancha de piedras y lodo que borró la mayor parte de las casas. Desde el grupo de Telegram, nos unimos y empezamos a mapear todo, todo, todo. Logramos mapear toda la cabecera municipal de Mocoa. Fue una vivencia muy emocionante, triste y fuerte, ya que yo conozco la zona y porque hacía poco había estado allá."
+**Carlos Andres Ríos-Franco (Colombia):** "Primero, me gustaría agradecerles por la oportunidad de pertenecer a la Brigada de Mapeo Humanitario. Hace algunos años, en la capital del departamento de Putumayo, al sur de Colombia, hubo una avalancha de piedras y lodo que borró la mayor parte de las casas. Desde el grupo de Telegram, nos unimos y empezamos a mapear todo, todo, todo. Logramos mapear toda la cabecera municipal de Mocoa. Fue una vivencia muy emocionante, triste y fuerte, ya que yo conozco la zona y porque hacía poco había estado allá."
 
-\*\*Jaqueline Amorim (Brasil):\*\* "Mapear Rio Grande do Sul fue un desafío para mí. No tener información en tiempo real y producir datos a la velocidad requerida fue un gran desafío, pero el grupo aquí fue de gran ayuda."
+**Jaqueline Amorim (Brasil):** "Mapear Rio Grande do Sul fue un desafío para mí. No tener información en tiempo real y producir datos a la velocidad requerida fue un gran desafío, pero el grupo aquí fue de gran ayuda."
 
-\*\*Andrés Gómez Casanova (Colombia):\*\* "Este año me impresionó el mapa de LATAM, yo creo que hemos crecido y nos hemos fortalecido bastante. Eso es gracias a todos nosotros, aunque faltan aquí personas. El mapa no son sólo los datos, sino las comunidades, las discusiones y mucho más. Eso es el mapa, y pues quiero felicitarnos por todo eso."
+**Andrés Gómez Casanova (Colombia):** "Este año me impresionó el mapa de LATAM, yo creo que hemos crecido y nos hemos fortalecido bastante. Eso es gracias a todos nosotros, aunque faltan aquí personas. El mapa no son sólo los datos, sino las comunidades, las discusiones y mucho más. Eso es el mapa, y pues quiero felicitarnos por todo eso."
 
-\*\*Sandra Lucía Hernández Zetina (México):\*\* "Una experiencia importante de este año ha sido nuestra colaboración, desde la UAEMEX, en el mapeo de transporte público de dos ciudades en México, especialmente en Toluca, donde vivo. Estamos formalizando una estrategia que permitirá a los alumnos obtener reconocimiento de créditos de una asignatura de su plan de estudios que aún no cursan, fomentando así una participación continua en mapeos de impacto."
+**Sandra Lucía Hernández Zetina (México):** "Una experiencia importante de este año ha sido nuestra colaboración, desde la UAEMEX, en el mapeo de transporte público de dos ciudades en México, especialmente en Toluca, donde vivo. Estamos formalizando una estrategia que permitirá a los alumnos obtener reconocimiento de créditos de una asignatura de su plan de estudios que aún no cursan, fomentando así una participación continua en mapeos de impacto."
 
 # **Reflexión final y proyección hacia el 2025**
 
