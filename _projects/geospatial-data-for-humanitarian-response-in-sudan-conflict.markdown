@@ -1,12 +1,12 @@
 ---
 title: Geospatial Data for Humanitarian Response in Sudan Conflict
 date: 2024-10-25 18:48:00 Z
-Project Summary Text: 'With support from the H2H Network, HOT is working with partners
-  to improve spatial data in Khartoum and other conflict-impacted areas in Sudan.
-  By collaborating with humanitarian networks and local and regional OSM communities,
-  HOT is developing a responsible data approach to fill spatial data gaps through
-  participatory approaches. The leading data gaps of focus are  accurate roads and
-  populated areas, which are needed for aid delivery planning. '
+published: false
+Project Summary Text: Amid Sudan’s crisis, a global effort led by HOT, with support
+  of the H2H network and the Sudanese diaspora is transforming fragmented maps into
+  life-saving tools. By blending local knowledge with tech, they're creating data
+  and maps that can support humanitarian organizations deliver aid where it's needed
+  most.
 Feature Image: "/uploads/Khartoum_ISS010E23451_lrg.jpg"
 Country:
 - Sudan
@@ -27,21 +27,26 @@ Tools:
 - Tool: uMap
 ---
 
-<h3>Background</h3>
+<h3> Background </h3>
 
-Now in its second year, the civil war in Sudan has led to deteriorating humanitarian conditions. As of September 2024, Sudan is facing the world’s highest displacement, and millions face inadequate food, health, and other basic services and protection ([IOM](https://www.iom.int/news/sudan-internal-displacement-set-top-10-million-famine-looms-iom#:~:text=IOM's%20Displacement%20Tracking%20Matrix%2C%20which,war%2C%20and%207.1%20million%20since.)). The mounting crisis with inadequate funding makes it critical for data and maps to be available to all humanitarian responders, saving on time and resources to plan for adequate aid delivery. 
+The humanitarian crisis in Sudan has reached a scale that demands innovative, collaborative, and data-driven solutions. As the conflict continues into 2025, millions of Sudanese face acute shortages of food, healthcare, and essential services. This has created one of the largest displacement crises globally, with millions of internally displaced persons (IDPs) and refugees spread across an increasingly fragmented landscape.
 
-<h3>Participatory Mapping</h3>
+In such a context, reliable geospatial data becomes not just useful but life-saving. To bridge critical information gaps, the **Humanitarian OpenStreetMap Team (HOT)**, supported by the **H2H Network**, has initiated a project to enhance Sudan’s mapping infrastructure and geographies. By addressing deficiencies in road networks, populated places, and cultural information, this initiative provides aid organizations with the tools they need to reach vulnerable populations. Crucially, the project also incorporates the expertise of Sudanese diaspora communities, whose local knowledge offers unparalleled insights into the cultural and geographic nuances of the region.
 
-Guided by [HOT’s data principles](https://www.hotosm.org/tools-and-data/data-principles/), and with~[support from H2H](https://h2hnetwork.org/h2hsupport-package-conflict-sudan)~, HOT is working with regional OSM communities and humanitarian partners to improve spatial data for the road network and populated places.   
+---
 
-Currently, [HOT exports 11 datasets from OpenStreetMap to HDX](https://data.humdata.org/dataset/?groups=sdn&organization=hot&q=&sort=last_modified%20desc&ext_page_size=25) for Sudan, and provides for custom exports from OSM through [HOT’s Export Tool](https://export.hotosm.org/v3/). Most of the spatial datasets for Sudan still need improvements. To improve data for humanitarian use, and allow for more evidence based decisions, HOT will harness participatory mapping power to address data quality issues and data gaps. Work will include:
+## Understanding the Geospatial Gaps in Sudan
+Sudan’s vast and diverse geography, combined with the ongoing conflict, has exacerbated challenges in acquiring accurate and actionable data. 
 
-<h3>Key Initiatives</h3>
+- **Roads** in remote areas are poorly mapped, and existing datasets for urban centers often lack critical details like surface type or accessibility.  
+- **Rural regions** face a near-complete absence of reliable geospatial data, hampering the ability of humanitarian organizations to plan logistics or assess infrastructure damage.
 
-1. **Enhancing Road Networks**: This involves updating and validating road network data to reflect current conditions.
-2. **Validating and Enriching Data on Populated Places**: This initiative aims to aid resource allocation and humanitarian planning by validating and enriching data on populated places.
-<br>
+Beyond the physical terrain, another critical dimension is often overlooked: **cultural and administrative data**. Place names, boundaries, and locally significant landmarks—essential for contextualized humanitarian response—are frequently missing or mislabeled in existing datasets. This disconnect is not merely technical; it risks creating a mismatch between the aid provided and the communities' actual needs.
+
+### The Role of the Sudanese Diaspora
+Here, the Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive.
+
+---
 
 <iframe width="120%" height="610px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/sudan-completness-map/"></iframe>
 
