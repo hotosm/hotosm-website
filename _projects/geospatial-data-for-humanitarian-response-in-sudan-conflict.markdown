@@ -4,9 +4,8 @@ date: 2024-10-25 18:48:00 Z
 published: false
 Project Summary Text: Amid Sudan’s crisis, a global effort led by HOT, with support
   of the H2H network and the Sudanese diaspora is transforming fragmented maps into
-  life-saving tools. By blending local knowledge with tech, they're creating data
-  and maps that can support humanitarian organizations deliver aid where it's needed
-  most.
+  life-saving tools. By blending local knowledge with tech, we are creating data and
+  maps that can support humanitarian organizations deliver aid where it's needed most.
 Feature Image: "/uploads/Khartoum_ISS010E23451_lrg.jpg"
 Country:
 - Sudan
@@ -50,11 +49,12 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 
 <br>
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Comparing Building Datasets</title>
+    <title>Building Dataset Completeness</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         body {
@@ -77,17 +77,12 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
     const buildingChart = new Chart(ctx, {
         type: 'bar',
         data: {
-            labels: ['Kontur Estimate', 'OSM', 'Overture', 'Microsoft', 'Google'],
+            labels: ['OSM', 'Overture', 'Microsoft', 'Google'],
             datasets: [
                 {
                     label: 'Total Buildings',
-                    data: [3995982, 1476231, 25848372, 10313711, 26619729],
+                    data: [1476231, 25848372, 10313711, 26619729],
                     backgroundColor: 'rgba(83, 141, 153, 1)',
-                },
-                {
-                    label: 'Completeness (%)',
-                    data: [100, 37, 647, 258, 666],
-                    backgroundColor: 'rgba(243, 177, 100, 1)',
                 }
             ]
         },
@@ -98,7 +93,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
                     beginAtZero: true,
                     title: {
                         display: true,
-                        text: 'Values',
+                        text: 'Total Buildings',
                         font: {
                             size: 16
                         }
@@ -120,6 +115,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 
 </body>
 </html>
+
 
 
 ### The Role of the Sudanese Diaspora
