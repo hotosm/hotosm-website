@@ -43,10 +43,84 @@ Sudan’s vast and diverse geography, combined with the ongoing conflict, has ex
 - **Rural regions** face a near-complete absence of reliable geospatial data, hampering the ability of humanitarian organizations to plan logistics or assess infrastructure damage.
 
 Beyond the physical terrain, another critical dimension is often overlooked: **cultural and administrative data**. Place names, boundaries, and locally significant landmarks—essential for contextualized humanitarian response—are frequently missing or mislabeled in existing datasets. This disconnect is not merely technical; it risks creating a mismatch between the aid provided and the communities' actual needs.
-
+<br>
 <iframe width="120%" height="610px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/sudan-completness-map/"></iframe>
 
 <small>*Interactive map depicting OSM completness based on AI estimates by <a href="https://www.kontur.io/solutions/disaster-ninja/">Kontur</a>*</small>
+
+<br>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparing Building Datasets</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #chartContainer {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chartContainer">
+    <canvas id="buildingChart"></canvas>
+</div>
+
+<script>
+    const ctx = document.getElementById('buildingChart').getContext('2d');
+    const buildingChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['Kontur Estimate', 'OSM', 'Overture', 'Microsoft', 'Google'],
+            datasets: [
+                {
+                    label: 'Total Buildings',
+                    data: [3995982, 1476231, 25848372, 10313711, 26619729],
+                    backgroundColor: 'rgba(83, 141, 153, 1)',
+                },
+                {
+                    label: 'Completeness (%)',
+                    data: [100, 37, 647, 258, 666],
+                    backgroundColor: 'rgba(243, 177, 100, 1)',
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Values',
+                        font: {
+                            size: 16
+                        }
+                    }
+                }
+            },
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Building Dataset Completeness by Source',
+                    font: {
+                        size: 18
+                    }
+                }
+            }
+        }
+    });
+</script>
+
+</body>
+</html>
+
 
 ### The Role of the Sudanese Diaspora
 Here, the Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive.
