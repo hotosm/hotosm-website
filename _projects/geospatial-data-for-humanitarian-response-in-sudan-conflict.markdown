@@ -114,6 +114,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 
 </body>
 </html>
+<small>*Chart showing the disparity between the different building datasets, product of different methodologies that Overture, Microsoft and Google have.*</small>
 
 
 
