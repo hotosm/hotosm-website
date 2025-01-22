@@ -43,7 +43,7 @@ Currently, [HOT exports 11 datasets from OpenStreetMap to HDX](https://data.humd
 2. **Validating and Enriching Data on Populated Places**: This initiative aims to aid resource allocation and humanitarian planning by validating and enriching data on populated places.
 <br>
 
-<iframe width="120%" height="650px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/sudan-completness-map/"></iframe>
+<iframe width="120%" height="610px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/sudan-completness-map/"></iframe>
 
 <small>*Interactive map depicting OSM completness based on AI estimates by <a href="https://www.kontur.io/solutions/disaster-ninja/">Kontur</a>*</small>
 
