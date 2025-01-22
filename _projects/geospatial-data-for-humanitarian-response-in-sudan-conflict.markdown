@@ -42,6 +42,13 @@ Currently, [HOT exports 11 datasets from OpenStreetMap to HDX](https://data.humd
 1. **Enhancing Road Networks**: This involves updating and validating road network data to reflect current conditions.
 2. **Validating and Enriching Data on Populated Places**: This initiative aims to aid resource allocation and humanitarian planning by validating and enriching data on populated places.
 <br>
+
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/sudan-completness-map/"></iframe>
+
+<small>*Interactive map depicting OSM completness based on AI estimates by <a href="https://www.kontur.io/solutions/disaster-ninja/">Kontur</a>*</small>
+
+<br>
+
 <h3>Get Involved</h3>
 
 ### *Are you with an organization working in Sudan or other conflict affected areas or interested in supporting other ways? Contact us at info@hotosm.org to partner, volunteer, or donate to ongoing efforts in conflict-affected areas worldwide*.
