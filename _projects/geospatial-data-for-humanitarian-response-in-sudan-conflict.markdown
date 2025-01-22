@@ -121,7 +121,50 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 ### The Role of the Sudanese Diaspora
 Here, the Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive.
 
+<br>
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/sudan-training-2025.jpeg" alt="Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Two-day OpenStreetMap training with Sudanese refugees in Kampala in 2025. Participants explored different open source mapping tools, and learned about basic concepts Geographic Information Systems(GIS) concepts.
+    </div>
+</div>
+<br>
+<br>
+
 ---
+
+# Methodology: Addressing Gaps with Inclusive Tools and Techniques
+
+To tackle the complex data gaps, HOT has adopted a multilayered methodology that combines open-source technology with grassroots participation. This approach not only fills technical voids but also bridges cultural gaps in the data landscape.
+
+## Participatory Mapping to Leverage Local Knowledge
+
+Mapping Sudan remotely requires deep engagement with Sudanese diaspora communities and local networks. By inviting these groups to contribute to the mapping effort, HOT ensures that the data reflects on-the-ground realities, from the names of areas to the locations of critical infrastructure. 
+
+Using HOT’s **Tasking Manager** platform, volunteers are assigned specific areas to map, allowing them to focus on regions where they have direct or inherited knowledge. For example, a member of the diaspora might map roads and villages in a region they once lived in, providing accurate names and connections that no satellite imagery or automated tool could deduce. This participatory approach transforms the diaspora into active contributors, ensuring that cultural and administrative details—often overlooked—are preserved.
+
+## Innovative Tools for Data Consolidation
+
+HOT leverages a suite of advanced tools to integrate and validate data from multiple sources:
+
+- **MapRoulette**: Helps volunteers refine and verify road data by addressing small but significant inconsistencies in road names and providing translations.
+- **uMap**: Used for coordinating and creating a common operational dataset for boundaries that can be utilized across multiple organizations.
+- **HOT Export Tool**: Enables organizations to download custom datasets tailored to specific humanitarian needs.
+- **iD Editor and JOSM**: Allow volunteers to edit and enrich OpenStreetMap (OSM) data, adding attributes such as road names, surface types, and accessibility details.
+
+These tools are integral to addressing gaps in both physical infrastructure and cultural data. For instance, OSM data already provides excellent rural road coverage, identifying over 300,000 km of roads not found in other datasets. By adding diaspora-provided names and attributes to these roads, the project creates a far more robust dataset for aid organizations.
+
+## Building Trust Through Ethical Mapping
+
+Recognizing the sensitivity of mapping in conflict zones, HOT has implemented a robust ethical framework to safeguard contributors and data users. This includes:
+
+- Anonymizing submissions.
+- Conducting risk assessments.
+- Restricting access to potentially sensitive datasets.
+
+By adhering to these principles, HOT ensures that the mapping process supports humanitarian goals without compromising the safety of contributors or the communities they aim to help.
+
 
 <br>
 
