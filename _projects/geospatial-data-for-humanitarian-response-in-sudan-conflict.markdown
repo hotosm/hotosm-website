@@ -40,6 +40,7 @@ Tools:
 7. [What’s Next? Upcoming Work and Focus Areas](#whats-next-upcoming-work-and-focus-areas)
 8. [Conclusion](#conclusion)
 9. [Get Involved](#get-involved)
+
 </span>
 
 ---
