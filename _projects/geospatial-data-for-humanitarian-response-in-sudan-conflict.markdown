@@ -30,13 +30,10 @@ Tools:
 ---
 
 <div>
-  <h2 style="color: red;">Table of Contents</h2>
+  <h2>Table of Contents</h2>
   <ol style="color: black;">
     <li><a href="#background" style="color: black;">Background</a></li>
     <li><a href="#understanding-the-geospatial-gaps-in-sudan" style="color: black;">Understanding the Geospatial Gaps in Sudan</a></li>
-    <ul>
-      <li><a href="#osm-building-completeness-estimates-map" style="color: black;">OSM Building Completeness Estimates Map</a></li>
-    </ul>
     <li><a href="#the-role-of-the-sudanese-diaspora" style="color: black;">The Role of the Sudanese Diaspora</a></li>
     <li><a href="#participatory-mapping-to-leverage-local-knowledge" style="color: black;">Participatory Mapping to Leverage Local Knowledge</a></li>
     <li><a href="#innovative-tools-for-data-consolidation" style="color: black;">Innovative Tools for Data Consolidation</a></li>
