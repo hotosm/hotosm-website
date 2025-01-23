@@ -45,7 +45,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 <br>
 <iframe width="120%" height="610px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/sudan-completness-map/"></iframe>
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Interactive map depicting OSM completness based on AI estimates by <a href="https://www.kontur.io/solutions/disaster-ninja/">Kontur</a>. These numbers are a rough guide on completness, and are only used to drive inform the priority areas where we map.
+        Interactive map depicting OSM completness based on AI estimates by <a href="https://www.kontur.io/solutions/disaster-ninja/">Kontur</a>. These numbers are a rough guide on completness, and are only used to drive inform the priority areas for mapping.
     </div>
 
 <br>
