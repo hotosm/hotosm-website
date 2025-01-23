@@ -129,7 +129,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 <br>
 
 ## The Role of the Sudanese Diaspora
-The Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive. Together, we are fostering an OSM community for Sudan by connecting local Sudanese members with HOT staff and global OSM expert volunteers.
+The Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive. Together, we are fostering an OSM community for Sudan by connecting Sudanese with HOT staff and global OSM expert volunteers.
 
 <br>
 <br>
@@ -150,7 +150,7 @@ To tackle the complex data gaps, HOT has adopted a multilayered methodology that
 
 ## Participatory Mapping to Leverage Local Knowledge
 
-Mapping Sudan remotely requires deep engagement with Sudanese diaspora communities and local networks. By inviting these groups to contribute to the mapping effort, HOT ensures that the data reflects on-the-ground realities, from the names of areas to the locations of critical infrastructure. 
+Mapping Sudan remotely requires engagement with Sudanese diaspora communities and local networks. By inviting these groups to contribute to the mapping effort, HOT ensures that the data reflects on-the-ground realities, from the names of areas to the locations of critical infrastructure. 
 
 Using HOT’s **Tasking Manager** platform, volunteers are assigned specific areas to map, allowing them to focus on regions where they have direct or inherited knowledge. For example, a member of the diaspora might map roads and villages in a region they once lived in, providing accurate names and connections that no satellite imagery or automated tool could deduce. This participatory approach transforms the diaspora into active contributors, ensuring that cultural and administrative details—often overlooked—are preserved.
 
