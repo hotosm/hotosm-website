@@ -44,9 +44,11 @@ Sudan’s vast and diverse geography, combined with the ongoing conflict, has ex
 Beyond the physical terrain, another critical dimension is often overlooked: **cultural and administrative data**. Place names, boundaries, and locally significant landmarks—essential for contextualized humanitarian response—are frequently missing or mislabeled in existing datasets. This disconnect is not merely technical; it risks creating a mismatch between the aid provided and the communities' actual needs.
 <br>
 <iframe width="120%" height="610px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/sudan-completness-map/"></iframe>
+<div style="text-align: center;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Interactive map depicting OSM completness based on AI estimates by <a href="https://www.kontur.io/solutions/disaster-ninja/">Kontur</a>. These numbers are a rough guide on completness, and are only used to drive inform the priority areas for mapping.
     </div>
+</div>
 
 <br>
 
@@ -194,7 +196,7 @@ Accurate and inclusive maps are a cornerstone of effective humanitarian response
 By bridging gaps in physical and cultural data, HOT’s work is not just enabling immediate relief but also setting the stage for long-term recovery and resilience. The active involvement of the Sudanese diaspora has been critical to this effort, proving that local knowledge and global tools can converge to create a powerful force for change.
 
 
-<br>
+---
 
 ## Get Involved
 
