@@ -38,11 +38,11 @@ In such a context, reliable geospatial data becomes not just useful but life-sav
 ## Understanding the Geospatial Gaps in Sudan
 Sudan’s vast and diverse geography, combined with the ongoing conflict, has exacerbated challenges in acquiring accurate and actionable data. 
 
-- **At least 63% Buildings** of buildings are missing in 2024 according to estimates by <a href="https://www.kontur.io/solutions/disaster-ninja/">Kontur</a>. The lack of reliable data can affect the efficiency of humanitarian efforts like aid delivery, and damage estimates for instance.   
-- **Roads** in remote areas are poorly mapped, and existing datasets for urban centers often lack critical details like surface type or accessibility.  
+- **At least 63% Buildings** of buildings in OSM are missing in 2024 according to estimates by <a href="https://www.kontur.io/solutions/disaster-ninja/">Kontur</a>. The lack of reliable data can affect the efficiency of humanitarian efforts like aid delivery, and damage estimates for instance.   
+- **Roads** in remote areas are poorly mapped, and existing road datasets for urban centers often lack critical details like surface type or accessibility.  
 - **Rural regions** face a near-complete absence of reliable geospatial data, hampering the ability of humanitarian organizations to plan logistics or assess infrastructure damage.
 
-Beyond the physical terrain, another critical dimension is often overlooked: **cultural and administrative data**. Place names, boundaries, and locally significant landmarks—essential for contextualized humanitarian response—are frequently missing or mislabeled in existing datasets. This disconnect is not merely technical; it risks creating a mismatch between the aid provided and the communities' actual needs.
+Beyond the physical terrain, another critical dimension is often overlooked: **cultural and administrative data**. Place names, boundaries, and locally significant landmarks—essential for contextualized humanitarian response—are frequently missing or mislabeled in existing datasets. This disconnect is not merely technical; it risks creating a mismatch between the aid provided and the communities' actual needs to recover.
 <br>
 ### OSM Building Completness Estimates Map
 <iframe width="120%" height="610px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/sudan-completness-map/"></iframe>
@@ -128,7 +128,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 <br>
 
 ## The Role of the Sudanese Diaspora
-Here, the Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive.
+The Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive. Together, we are building an OSM community for Sudan. 
 
 <br>
 <br>
@@ -183,7 +183,7 @@ Moreover, the tools and methodologies deployed by HOT are designed to maximize t
 
 ## What’s Next? Upcoming Work and Focus Areas
 
-HOT’s work in Sudan is far from complete. The next phase will focus on scaling these efforts to cover underrepresented areas such as **Darfur**, **Kordofan**, and regions heavily impacted by displacement. Key initiatives include:
+As of January 2025, HOT’s work in Sudan is far from complete. The next phase will focus on scaling these efforts to cover underrepresented areas such as **Darfur**, **Kordofan**, and regions heavily impacted by displacement. Key initiatives include:
 
 - **Expanding Mapping Coverage**: Leveraging tools like **MapSwipe** to involve more volunteers in mapping remote regions.
 - **In-Person Training**: Starting in January, in-person workshops will equip volunteers with advanced mapping skills.
