@@ -13,13 +13,14 @@ Impact Area:
 - Disasters & Climate Resilience
 Person:
 - Jessica Pechmann
+- Geoffrey Kateregga
 Partner:
 - H2H
 - OSM Sudan
 - HDX
 Duration:
-  Start Date: 2024-06-01 00:00:00 Z
-  End Date: 2025-02-28 00:00:00 Z
+  Start Date: 2024-06-16 00:00:00 Z
+  End Date: 2025-02-16 00:00:00 Z
 Tools:
 - tool: Tasking Manager
 - link: 
@@ -28,9 +29,9 @@ Tools:
 
 ## Background 
 
-The humanitarian crisis in Sudan has reached a scale that demands innovative, collaborative, and data-driven solutions. As the conflict continues into 2025, millions of Sudanese face acute shortages of food, healthcare, and essential services. This has created one of the largest displacement crises globally, with millions of internally displaced persons (IDPs) and refugees spread across an increasingly fragmented landscape.
+The humanitarian crisis in Sudan has reached a scale that requires innovative, collaborative, and data-driven solutions. As the conflict continues into 2025, millions of Sudanese face access to food, healthcare, and essential services. The conflict has also created the largest internal displacement crises globally, with millions of internally displaced persons (IDPs) and refugees spread across an increasingly fragmented landscape.
 
-In such a context, reliable geospatial data becomes not just useful but life-saving. To bridge critical information gaps, the **Humanitarian OpenStreetMap Team (HOT)**, supported by the **H2H Network**, has initiated a project to enhance Sudan’s mapping infrastructure and geographies. By addressing deficiencies in road networks, populated places, and cultural information, this initiative provides aid organizations with the tools they need to reach vulnerable populations. Crucially, the project also incorporates the expertise of Sudanese diaspora communities, whose local knowledge offers unparalleled insights into the cultural and geographic nuances of the region.
+In such a context, reliable geospatial data becomes not just useful but life-saving. To bridge critical information gaps, the **Humanitarian OpenStreetMap Team (HOT)**, supported by the **H2H Network**, has initiated a project to enhance Sudan’s mapped infrastructure and geographies. By addressing deficiencies in road networks, populated places, and cultural information, this initiative provides aid organizations with the tools they need to reach vulnerable populations and understand the impact on the ground. Crucially, the project is also incorporating the expertise of Sudanese diaspora communities, whose local knowledge offers insights into the geography and cultural nuances of the region.
 
 ---
 
