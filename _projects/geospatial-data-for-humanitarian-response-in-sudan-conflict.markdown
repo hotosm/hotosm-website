@@ -27,6 +27,22 @@ Tools:
 - Tool: uMap
 ---
 
+---
+
+# Table of Contents
+1. [Background](#background)
+2. [Understanding the Geospatial Gaps in Sudan](#understanding-the-geospatial-gaps-in-sudan)
+    - [OSM Building Completeness Estimates Map](#osm-building-completeness-estimates-map)
+3. [The Role of the Sudanese Diaspora](#the-role-of-the-sudanese-diaspora)
+4. [Participatory Mapping to Leverage Local Knowledge](#participatory-mapping-to-leverage-local-knowledge)
+5. [Innovative Tools for Data Consolidation](#innovative-tools-for-data-consolidation)
+6. [Building Trust Through Ethical Mapping](#building-trust-through-ethical-mapping)
+7. [What’s Next? Upcoming Work and Focus Areas](#whats-next-upcoming-work-and-focus-areas)
+8. [Conclusion](#conclusion)
+9. [Get Involved](#get-involved)
+
+---
+
 ## Background 
 
 The humanitarian crisis in Sudan has reached a scale that requires innovative, collaborative, and data-driven solutions. As the conflict continues into 2025, millions of Sudanese face access to food, healthcare, and essential services. The conflict has also created the largest internal displacement crises globally, with millions of internally displaced persons (IDPs) and refugees spread across an increasingly fragmented landscape.
