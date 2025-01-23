@@ -1,7 +1,6 @@
 ---
 title: Geospatial Data for Humanitarian Response in Sudan Conflict
 date: 2024-10-25 18:48:00 Z
-published: false
 Project Summary Text: Amid Sudan’s crisis, a global effort led by HOT, with support
   of the H2H Network and the Sudanese diaspora, is transforming fragmented maps into
   a better response. By connecting local knowledge with tech, we are creating data
