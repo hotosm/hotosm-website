@@ -32,7 +32,6 @@ Tools:
 # Table of Contents
 1. [Background](#background)
 2. [Understanding the Geospatial Gaps in Sudan](#understanding-the-geospatial-gaps-in-sudan)
-    - [OSM Building Completeness Estimates Map](#osm-building-completeness-estimates-map)
 3. [The Role of the Sudanese Diaspora](#the-role-of-the-sudanese-diaspora)
 4. [Participatory Mapping to Leverage Local Knowledge](#participatory-mapping-to-leverage-local-knowledge)
 5. [Innovative Tools for Data Consolidation](#innovative-tools-for-data-consolidation)
