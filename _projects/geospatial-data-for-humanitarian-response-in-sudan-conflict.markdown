@@ -26,7 +26,7 @@ Tools:
 - Tool: uMap
 ---
 
-<h3> Background </h3>
+## Background 
 
 The humanitarian crisis in Sudan has reached a scale that demands innovative, collaborative, and data-driven solutions. As the conflict continues into 2025, millions of Sudanese face acute shortages of food, healthcare, and essential services. This has created one of the largest displacement crises globally, with millions of internally displaced persons (IDPs) and refugees spread across an increasingly fragmented landscape.
 
@@ -115,13 +115,15 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 
 </body>
 </html>
+<div style="text-align: center;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Chart showing the disparity between the different building datasets, product of different methodologies that Overture, Microsoft and Google have. An argument could be made that at this point, methods that include human validation are still relevant.
     </div>
+</div>
 
 
 
-### The Role of the Sudanese Diaspora
+## The Role of the Sudanese Diaspora
 Here, the Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive.
 
 <br>
@@ -176,7 +178,7 @@ Moreover, the tools and methodologies deployed by HOT are designed to maximize t
 
 ---
 
-# What’s Next? Upcoming Work and Focus Areas
+## What’s Next? Upcoming Work and Focus Areas
 
 HOT’s work in Sudan is far from complete. The next phase will focus on scaling these efforts to cover underrepresented areas such as **Darfur**, **Kordofan**, and regions heavily impacted by displacement. Key initiatives include:
 
@@ -185,18 +187,16 @@ HOT’s work in Sudan is far from complete. The next phase will focus on scaling
 
 ---
 
-# Conclusion
+## Conclusion
 
 Accurate and inclusive maps are a cornerstone of effective humanitarian response. In Sudan, where infrastructure is devastated, and access is constrained, reliable data ensures aid reaches those who need it most.
 
 By bridging gaps in physical and cultural data, HOT’s work is not just enabling immediate relief but also setting the stage for long-term recovery and resilience. The active involvement of the Sudanese diaspora has been critical to this effort, proving that local knowledge and global tools can converge to create a powerful force for change.
 
 
-
-
 <br>
 
-<h3>Get Involved</h3>
+## Get Involved
 
 As this project continues, it will require sustained commitment from volunteers, partners, and the global community. Together, we can ensure that a map for Sudan is more suitable for recovery, relief, and planning. 
 
