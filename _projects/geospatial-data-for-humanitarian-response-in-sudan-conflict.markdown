@@ -51,6 +51,8 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 </div>
 
 <br>
+---
+<br>
 
 <html lang="en">
 <head>
@@ -123,7 +125,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
     </div>
 </div>
 
-
+<br>
 
 ## The Role of the Sudanese Diaspora
 Here, the Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive.
