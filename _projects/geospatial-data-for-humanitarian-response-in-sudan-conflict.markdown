@@ -4,8 +4,9 @@ date: 2024-10-25 18:48:00 Z
 published: false
 Project Summary Text: Amid Sudan’s crisis, a global effort led by HOT, with support
   of the H2H network and the Sudanese diaspora is transforming fragmented maps into
-  life-saving tools. By blending local knowledge with tech, we are creating data and
-  maps that can support humanitarian organizations deliver aid where it's needed most.
+  a better response. By connecting local knowledge with tech, we are creating data
+  and maps that can support humanitarian organizations deliver aid where it's needed
+  most.
 Feature Image: "/uploads/Khartoum_ISS010E23451_lrg.jpg"
 Country:
 - Sudan
