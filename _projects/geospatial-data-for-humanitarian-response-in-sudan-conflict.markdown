@@ -97,16 +97,22 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 </div>
 
 <script>
+    // Data and labels sorted in ascending order
+    const dataValues = [1476231, 10313711, 25848372, 26619729];
+    const dataLabels = ['OSM', 'Microsoft', 'Overture', 'Google'];
+
+    const colors = dataLabels.map(label => label === 'OSM' ? '#8ED587' : 'lightgray');
+
     const ctx = document.getElementById('buildingChart').getContext('2d');
     const buildingChart = new Chart(ctx, {
         type: 'bar',
         data: {
-            labels: ['OSM', 'Overture', 'Microsoft', 'Google'],
+            labels: dataLabels,
             datasets: [
                 {
                     label: 'Total Buildings',
-                    data: [1476231, 25848372, 10313711, 26619729],
-                    backgroundColor: 'rgba(83, 141, 153, 1)',
+                    data: dataValues,
+                    backgroundColor: colors,
                 }
             ]
         },
@@ -136,15 +142,14 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
         }
     });
 </script>
-
 </body>
 </html>
+
 <div style="text-align: center;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         This chart highlights the discrepancies between building datasets produced by Overture, Microsoft, and Google. Despite advances in automation and AI, human validation remains crucial for ensuring accuracy and reliability, particularly in situations with bad imagery.
     </div>
 </div>
-
 <br>
 
 ## The Role of the Sudanese Diaspora
