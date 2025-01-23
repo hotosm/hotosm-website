@@ -129,7 +129,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 <br>
 
 ## The Role of the Sudanese Diaspora
-The Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive. Together, we are building an OSM community for Sudan. 
+The Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive. Together, we are fostering an OSM community for Sudan by connecting local Sudanese members with HOT staff and global OSM expert volunteers.
 
 <br>
 <br>
