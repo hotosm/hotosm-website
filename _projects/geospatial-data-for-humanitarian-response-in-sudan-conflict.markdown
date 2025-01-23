@@ -117,7 +117,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 </html>
 <div style="text-align: center;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Chart showing the disparity between the different building datasets, product of different methodologies that Overture, Microsoft and Google have. An argument could be made that at this point, methods that include human validation are still relevant.
+        This chart highlights the discrepancies between building datasets produced by Overture, Microsoft, and Google. Despite advances in automation and AI, human validation remains crucial for ensuring accuracy and reliability, particularly in situations with bad imagery.
     </div>
 </div>
 
