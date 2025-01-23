@@ -30,6 +30,7 @@ Tools:
 ---
 
 # Table of Contents
+<span style="color: black;">
 1. [Background](#background)
 2. [Understanding the Geospatial Gaps in Sudan](#understanding-the-geospatial-gaps-in-sudan)
 3. [The Role of the Sudanese Diaspora](#the-role-of-the-sudanese-diaspora)
@@ -39,7 +40,7 @@ Tools:
 7. [What’s Next? Upcoming Work and Focus Areas](#whats-next-upcoming-work-and-focus-areas)
 8. [Conclusion](#conclusion)
 9. [Get Involved](#get-involved)
-
+</span>
 ---
 
 ## Background 
