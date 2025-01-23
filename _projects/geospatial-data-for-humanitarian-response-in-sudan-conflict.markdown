@@ -175,13 +175,6 @@ Recognizing the sensitivity of mapping in conflict zones, HOT has implemented a 
 
 By adhering to these principles, HOT ensures that the mapping process supports humanitarian goals without compromising the safety of contributors or the communities they aim to help.
 
-## Connecting Gaps with Solutions
-
-The Sudanese diaspora’s role cannot be overstated in addressing these gaps. By combining their cultural knowledge with HOT’s technical platforms, the project ensures that mapping is not just a technical exercise but a deeply human-centered one. A case in point is the integration of cultural landmarks into road maps, which has improved the ability of NGOs to navigate areas where GPS data alone falls short.
-
-Moreover, the tools and methodologies deployed by HOT are designed to maximize the impact of diaspora contributions. Platforms like the **Tasking Manager** simplify the mapping process, while training sessions empower volunteers with the skills needed to contribute effectively. This synergy between tools, methodologies, and local knowledge is the linchpin of the project’s success.
-
-
 ## What’s Next? Upcoming Work and Focus Areas
 
 As of January 2025, HOT’s work in Sudan is far from complete. The next phase will focus on scaling these efforts to cover underrepresented areas such as **Darfur**, **Kordofan**, and regions heavily impacted by displacement. Key initiatives include:
