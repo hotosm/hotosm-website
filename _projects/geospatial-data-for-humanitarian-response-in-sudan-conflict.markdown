@@ -180,7 +180,6 @@ The Sudanese diaspora’s role cannot be overstated in addressing these gaps. By
 
 Moreover, the tools and methodologies deployed by HOT are designed to maximize the impact of diaspora contributions. Platforms like the **Tasking Manager** simplify the mapping process, while training sessions empower volunteers with the skills needed to contribute effectively. This synergy between tools, methodologies, and local knowledge is the linchpin of the project’s success.
 
----
 
 ## What’s Next? Upcoming Work and Focus Areas
 
@@ -188,7 +187,7 @@ HOT’s work in Sudan is far from complete. The next phase will focus on scaling
 
 - **Expanding Mapping Coverage**: Leveraging tools like **MapSwipe** to involve more volunteers in mapping remote regions.
 - **In-Person Training**: Starting in January, in-person workshops will equip volunteers with advanced mapping skills.
-
+<br>
 ---
 
 ## Conclusion
