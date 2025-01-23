@@ -37,7 +37,7 @@ In such a context, reliable geospatial data becomes not just useful but life-sav
 ## Understanding the Geospatial Gaps in Sudan
 Sudan’s vast and diverse geography, combined with the ongoing conflict, has exacerbated challenges in acquiring accurate and actionable data. 
 
-- **Around 63% Buildings** of buildings are missing in 2024 according to estimates by <a href="https://www.kontur.io/solutions/disaster-ninja/">Kontur</a>. The lack of reliable data can affect the efficiency of humanitarian efforts like aid delivery, and damage estimates for instance.   
+- **At least 63% Buildings** of buildings are missing in 2024 according to estimates by <a href="https://www.kontur.io/solutions/disaster-ninja/">Kontur</a>. The lack of reliable data can affect the efficiency of humanitarian efforts like aid delivery, and damage estimates for instance.   
 - **Roads** in remote areas are poorly mapped, and existing datasets for urban centers often lack critical details like surface type or accessibility.  
 - **Rural regions** face a near-complete absence of reliable geospatial data, hampering the ability of humanitarian organizations to plan logistics or assess infrastructure damage.
 
