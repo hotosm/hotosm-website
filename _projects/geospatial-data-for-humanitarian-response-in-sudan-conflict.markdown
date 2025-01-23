@@ -29,16 +29,24 @@ Tools:
 
 ---
 
-# Table of Contents
-1. [Background](#background)
-2. [Understanding the Geospatial Gaps in Sudan](#understanding-the-geospatial-gaps-in-sudan)
-3. [The Role of the Sudanese Diaspora](#the-role-of-the-sudanese-diaspora)
-4. [Participatory Mapping to Leverage Local Knowledge](#participatory-mapping-to-leverage-local-knowledge)
-5. [Innovative Tools for Data Consolidation](#innovative-tools-for-data-consolidation)
-6. [Building Trust Through Ethical Mapping](#building-trust-through-ethical-mapping)
-7. [What’s Next? Upcoming Work and Focus Areas](#whats-next-upcoming-work-and-focus-areas)
-8. [Conclusion](#conclusion)
-9. [Get Involved](#get-involved)
+<div>
+  <h2 style="color: red;">Table of Contents</h2>
+  <ol style="color: black;">
+    <li><a href="#background" style="color: black;">Background</a></li>
+    <li><a href="#understanding-the-geospatial-gaps-in-sudan" style="color: black;">Understanding the Geospatial Gaps in Sudan</a></li>
+    <ul>
+      <li><a href="#osm-building-completeness-estimates-map" style="color: black;">OSM Building Completeness Estimates Map</a></li>
+    </ul>
+    <li><a href="#the-role-of-the-sudanese-diaspora" style="color: black;">The Role of the Sudanese Diaspora</a></li>
+    <li><a href="#participatory-mapping-to-leverage-local-knowledge" style="color: black;">Participatory Mapping to Leverage Local Knowledge</a></li>
+    <li><a href="#innovative-tools-for-data-consolidation" style="color: black;">Innovative Tools for Data Consolidation</a></li>
+    <li><a href="#building-trust-through-ethical-mapping" style="color: black;">Building Trust Through Ethical Mapping</a></li>
+    <li><a href="#whats-next-upcoming-work-and-focus-areas" style="color: black;">What’s Next? Upcoming Work and Focus Areas</a></li>
+    <li><a href="#conclusion" style="color: black;">Conclusion</a></li>
+    <li><a href="#get-involved" style="color: black;">Get Involved</a></li>
+  </ol>
+</div>
+
 
 ---
 
