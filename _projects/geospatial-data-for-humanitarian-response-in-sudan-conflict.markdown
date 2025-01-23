@@ -106,7 +106,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
             plugins: {
                 title: {
                     display: true,
-                    text: 'Building Dataset Completeness by Source',
+                    text: 'Datasets Buildings Count by Source',
                     font: {
                         size: 18
                     }
