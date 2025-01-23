@@ -20,7 +20,7 @@ Launched in March 2024, the [Dhaka Thrive Project](https://www.hotosm.org/projec
 As Dr. Nama Budhathoki, Regional Director for the Open Mapping Hub Asia-Pacific, explained:\
 "We are thrilled to collaborate with World Vision Bangladesh, especially due to their strong on-the-ground presence. From the outset, we have prioritized engaging local stakeholders to establish a sustainable map data ecosystem in Bangladesh."
 
-**Project Overview and Milestones**
+## Project Overview and Milestones
 
 Increasing climate change has intensified urban challenges from Dhaka's rapid growth in informal settlements like Korail. Maps from 2017 to 2021 highlight significant urbanisation into existing water bodies, exposing already vulnerable populations to further risk such as flooding and dengue. Accurate and up-to-date datasets are essential for understanding these issues and addressing the impacts of climate change on the informal settlements.
 
@@ -30,7 +30,7 @@ In its first major milestone, the project successfully collected 932 Points of I
 
 \*In this video, we will explore the Dhaka Thrive Project's field mapping methodology and its role in improving local urban resilience.\*
 
-## **Key findings**
+## Key findings
 
 The collected data reveals connected risks between dengue and flooding. For example, focus group discussions with local stakeholders on the collected data found that poorly maintained open drainage infrastructure in the settlements often trap water from floods, creating favourable breeding environments for mosquitos. Stakeholders also pointed out that frequent floods often wash through open dump sites, scattering waste across the informal settlements that creates multiple hotspots for mosquitos to breed and transmit dengue. These insights can guide targeted strategies to enhance public health and urban resilience in these vulnerable communities.
 
@@ -38,7 +38,7 @@ The collected data reveals connected risks between dengue and flooding. For exam
 
 ![Brazil - Dhaka Thrive.jpg](/uploads/Brazil%20-%20Dhaka%20Thrive.jpg)
 
-## **Interactive dashboard: explore the data**
+## Interactive dashboard: explore the data
 
 The uMap dashboard for Dhaka Thrive was built using the open-source uMap tool, which leverages the OpenStreetMap database. This platform provides a user-friendly interface for creating interactive maps, visualizing geographic data, and more importantly sharing updated open geospatial data from OSM. The dashboard is designed to showcase open datasets collected from the field mapping project. You can explore the dashboard here:[ ](http://u.osmfr.org/m/1123060)[tinyurl.com/dhakathrivedashboard](http://tinyurl.com/dhakathrivedashboard).
 
@@ -51,7 +51,7 @@ These include healthcare facilities, educational institutions, places of worship
 
 The strength of uMap for Dhaka lies in its connection to OpenStreetMap, enabling real-time updates to the open geospatial database whenever local stakeholders contribute to or update OpenStreetMap. As Dhaka experiences rapid urbanization, having a centralized platform that any stakeholder can update is crucial to ensure that the data is updated and reliable. Moreover, the open geospatial database can be easily downloaded, making it helpful for decision-makers in times of crisis.
 
-# **Next steps**
+## Next steps
 
 As the project consolidates the results from its pilot phase, the team will evaluate the findings with local stakeholders and refine the project methodology to develop a tailored end-to-end model that is suited to Dhaka’s context. This involves processing the generated actionable insights, such as identifying fire hazards and gaps in WASH (Water, Sanitation, and Hygiene) facilities, and sharing it with stakeholders through dissemination workshops, where training will be provided to ensure communities, organizations, and policymakers can effectively use the data. These sessions will also serve as a platform to refine insights and explore opportunities to scale the project, creating a sustainable framework to strengthen local urban resilience. Additionally, evaluating and promoting the continued use and contribution of data and enhancing community participation in the project over the next six months will remain a key focus.
 
