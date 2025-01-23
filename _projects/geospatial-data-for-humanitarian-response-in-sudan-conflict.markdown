@@ -43,7 +43,7 @@ Sudan’s vast and diverse geography, combined with the ongoing conflict, has ex
 
 Beyond the physical terrain, another critical dimension is often overlooked: **cultural and administrative data**. Place names, boundaries, and locally significant landmarks—essential for contextualized humanitarian response—are frequently missing or mislabeled in existing datasets. This disconnect is not merely technical; it risks creating a mismatch between the aid provided and the communities' actual needs.
 <br>
-###OSM Completneess Estimates
+### OSM Completneess Estimates
 <iframe width="120%" height="610px" frameborder="0" allowfullscreen allow="geolocation" src="https://claurt07.github.io/sudan-completness-map/"></iframe>
 <div style="text-align: center;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
@@ -51,9 +51,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
     </div>
 </div>
 
-<br>
 ---
-<br>
 
 <html lang="en">
 <head>
@@ -175,7 +173,7 @@ Recognizing the sensitivity of mapping in conflict zones, HOT has implemented a 
 
 By adhering to these principles, HOT ensures that the mapping process supports humanitarian goals without compromising the safety of contributors or the communities they aim to help.
 
-# Connecting Gaps with Solutions
+## Connecting Gaps with Solutions
 
 The Sudanese diaspora’s role cannot be overstated in addressing these gaps. By combining their cultural knowledge with HOT’s technical platforms, the project ensures that mapping is not just a technical exercise but a deeply human-centered one. A case in point is the integration of cultural landmarks into road maps, which has improved the ability of NGOs to navigate areas where GPS data alone falls short.
 
