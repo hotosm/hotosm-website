@@ -28,7 +28,7 @@ In its first major milestone, the project successfully collected 932 Points of I
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPiB5XwcgdE?si=xoBKAHiojgqoOgTF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*In this video, we will explore the Dhaka Thrive Project's field mapping methodology and its role in improving local urban resilience. *
+\*In this video, we will explore the Dhaka Thrive Project's field mapping methodology and its role in improving local urban resilience.\*
 
 ## **Key findings**
 
@@ -42,7 +42,8 @@ The collected data reveals connected risks between dengue and flooding. For exam
 
 The uMap dashboard for Dhaka Thrive was built using the open-source uMap tool, which leverages the OpenStreetMap database. This platform provides a user-friendly interface for creating interactive maps, visualizing geographic data, and more importantly sharing updated open geospatial data from OSM. The dashboard is designed to showcase open datasets collected from the field mapping project. You can explore the dashboard here:[ ](http://u.osmfr.org/m/1123060)[tinyurl.com/dhakathrivedashboard](http://tinyurl.com/dhakathrivedashboard).
 
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcEWcTgSHGz052fLGLYwwIWcpLWyg0Tsapj-hlYGFuRCa1dFeMXhifQWMUHMMUAKPV9JYkn-0f2ZqXJ6O2XvlpnjSLW-lJwGlNbQeuQWZR_Ncf1CHz3iqTbXin4W_u4MUGhHvB-?key=AadW5vPegOpUgnKHtjFTJUo6)**
+![Dhaka Thrives Mapping OSM Asia Pacific GIF.gif](/uploads/Dhaka%20Thrives%20Mapping%20OSM%20Asia%20Pacific%20GIF.gif)
+*Figure 1: Critical lifeline facilities that are essential for a thriving community*
 
 These include healthcare facilities, educational institutions, places of worship, water points, WASH facilities, and others. To avoid visual clutter, these points are clustered on the map. Zooming in reveals individual icons representing each facility, and hovering over a point displays its name. Clicking on a facility opens a pop-up window that provides detailed attributes collected by field mappers and uploaded to OpenStreetMap.
 
