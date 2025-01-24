@@ -119,7 +119,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
                     backgroundColor: '#8ED587',
                 },
                 {
-                    label: 'Total Buildings',
+                    label: 'Other Datasets Total Buildings',
                     data: data.map(item => (item.label !== 'OSM' ? item.value : null)),
                     backgroundColor: 'lightgray',
                 }
