@@ -2,9 +2,9 @@
 title: Fortaleciendo Competencias en Gestión de Recursos Naturales con ODK en América
   Latina
 date: 2025-01-01 17:02:00 Z
-Summary Text: Guatemala, en colaboración con el PNUD y el MARN, trabaja en la gestión
-  de desechos y recursos naturales, identificando sitios críticos y capacitando funcionarios
-  para mejorar infraestructuras.
+Summary Text: Guatemala, en colaboración con HOT, el PNUD y el MARN, trabaja en la
+  gestión de desechos y recursos naturales, identificando sitios críticos y capacitando
+  funcionarios para mejorar infraestructuras.
 Feature Image: "/uploads/GUATEMALA%20GESTIO%CC%81N%20DE%20RESIDUOS%20KOBO%20EQUIPO%20HUMANITARIO%20DE%20OPENSTREETMAP%20PNUD%20GUATEMALA.jpg"
 Person: Céline Jacquin
 Country:
