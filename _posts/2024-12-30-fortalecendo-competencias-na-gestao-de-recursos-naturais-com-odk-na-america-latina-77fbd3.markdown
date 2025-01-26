@@ -19,13 +19,13 @@ A primeira fase de colaboração mostrou ao Ministério do Meio Ambiente o poten
 
 O HOT e o PNUD desenvolveram uma estratégia de pesquisa domiciliar baseada no Open Data Kit (ODK), testada com um grupo piloto em várias áreas da Cidade da Guatemala. Os resultados qualitativos foram compartilhados com o Ministério e visualizados por meio de um painel interativo no Power BI, elaborado pela equipe do PNUD. Essa demonstração motivou o Ministério a criar uma estratégia mais sofisticada e alinhada às suas necessidades antes do fim do mandato, reconhecendo o potencial de um inventário completo da infraestrutura municipal do país com o apoio técnico e metodológico fornecido.
 
-![GESTIÓN DE RESIDUOS GUATEMALA BI HOT.png](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/GESTIO%CC%81N%20DE%20RESIDUOS%20GUATEMALA%20BI%20HOT.png?download)
+![GESTIÓN DE RESIDUOS GUATEMALA BI HOT.png](/uploads/GESTIO%CC%81N%20DE%20RESIDUOS%20GUATEMALA%20BI%20HOT.png)
 
 Posteriormente, as três instituições colaboraram na estruturação de um instrumento de pesquisa georreferenciado para que os municípios do país relatassem, de maneira uniforme, completa e oportuna, informações sobre infraestrutura, capacidade, condições, atividades, cobertura e custos relacionados ao tratamento de águas residuais e resíduos sólidos ao Ministério, eliminando a necessidade de intervenção manual em diferentes etapas de coleta e agregação de dados, como costuma acontecer.
 
 Paralelamente, foi realizada uma reflexão prática sobre a soberania dos dados e sua localização apropriada dentro dos serviços do Ministério, garantindo ao mesmo tempo acesso sustentável mesmo com as mudanças de administração (que estavam por ocorrer). Dada a falta de capacidade técnica do MARN, decidiu-se confiar a informação ao escritório do PNUD, que poderia entregá-la ao próximo governo.
 
-![ODK COLLECT KOBO GESTIÓN DE RESIDUOS GUATEMALA.png](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/ODK%20COLLECT%20KOBO%20GESTIO%CC%81N%20DE%20RESIDUOS%20GUATEMALA.png?download)
+![ODK COLLECT KOBO GESTIÓN DE RESIDUOS GUATEMALA.png](/uploads/ODK%20COLLECT%20KOBO%20GESTIO%CC%81N%20DE%20RESIDUOS%20GUATEMALA.png)
 
 ## Construção de Capacidades na Gestão de Dados com o ODK
 
