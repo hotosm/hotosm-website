@@ -11,7 +11,7 @@ Country:
 - Guatemala
 ---
 
-**[English version](https://www.hotosm.org/updates/strengthening-competencies-in-natural-resource-management-with-odk-in-latin-america/) / [Versión en español](https://www.hotosm.org/updates/fortaleciendo-competencias-en-gestion-de-recursos-naturales-con-odk-en-america-latina/)**
+**[English version](https://www.hotosm.org/updates/strengthening-competencies-in-natural-resource-management-with-odk-in-latin-america/) / [Versión en español ](https://www.hotosm.org/updates/fortaleciendo-competencias-en-gestion-de-recursos-naturales-con-odk-en-america-latina/)**
 
 A Guatemala enfrenta desafios significativos na gestão de recursos naturais e resíduos sólidos. Em colaboração com o Programa das Nações Unidas para o Desenvolvimento na Guatemala (PNUD) e o Ministério do Meio Ambiente e Recursos Naturais (MARN), o Hub LAC da Equipe Humanitária do OpenStreetMap (Hub LAC) desenvolveu, desde outubro de 2021, uma metodologia participativa para identificar depósitos ilegais de lixo, especialmente na bacia do rio Motagua. Durante um ano e meio, foram demonstradas tecnologias abertas e dados colaborativos, servidores públicos foram capacitados, e ferramentas para inventário de infraestruturas de gestão de resíduos e águas residuais foram criadas. Essa iniciativa estabelece bases sólidas para futuras ações governamentais e marca um avanço crucial na solução desses desafios.
 
