@@ -11,6 +11,8 @@ Country:
 - Guatemala
 ---
 
+**[English version](https://www.hotosm.org/updates/strengthening-competencies-in-natural-resource-management-with-odk-in-latin-america/) / [Versão em português](https://www.hotosm.org/updates/fortaleciendo-competencias-en-gestion-de-recursos-naturales-con-odk-en-america-latina/)**
+
 Guatemala enfrenta retos significativos en la gestión de recursos naturales y desechos sólidos. En colaboración con el [Programa De Las Naciones Unidas Para El Desarrollo en Guatemala](https://www.undp.org/es/guatemala) (PNUD) y el [Ministerio de Medio Ambiente y Recursos Naturales](https://www.marn.gob.gt/) (MARN), el Hub LAC del Equipo Humanitario de OpenStreetMap (Hub LAC) ha desarrollado una metodología participativa desde octubre de 2021 para identificar depósitos ilegales de basura, especialmente en la cuenca del río Motagua. Durante un año y medio, se demostraron tecnologías libres y datos colaborativos, se capacitó a servidores públicos y se crearon herramientas para el inventario de infraestructuras de manejo de residuos y aguas residuales. Esta iniciativa sienta bases sólidas para futuras acciones gubernamentales y marca un avance crucial en la solución de estos desafíos.
 
 ## Demostrando el Potencial de Tecnologías Libres al Ministerio de Medio Ambiente en Guatemala
@@ -39,7 +41,7 @@ La capacitación en ODK no solo respondió a la necesidad concreta de crear un i
 
 El programa de capacitación se desarrolló a lo largo de tres días, abordando desde conceptos fundamentales hasta técnicas avanzadas, e incluyendo la práctica y el desarrollo casi completo de un instrumento en la aplicación. Los participantes adquirieron conocimientos teóricos y prácticos, aprendiendo a diseñar formularios básicos y complejos, mejorar la usabilidad y eficiencia, e integrar georeferencias, elementos multimedia y otras funciones avanzadas.
 
-En la gestión de datos abiertos, la adaptabilidad continua es esencial para el éxito de las soluciones implementadas. ODK sobresale como una herramienta que permite la personalización de formularios y la georreferenciación offline, funciones cruciales ante las cambiantes necesidades de recolección de datos, garantizando así su relevancia y eficacia. 
+En la gestión de datos abiertos, la adaptabilidad continua es esencial para el éxito de las soluciones implementadas. ODK sobresale como una herramienta que permite la personalización de formularios y la georreferenciación offline, funciones cruciales ante las cambiantes necesidades de recolección de datos, garantizando así su relevancia y eficacia.
 
 La eficacia de ODK depende de un entendimiento profundo del contexto organizacional, considerando procesos internos, objetivos específicos, y limitaciones tecnológicas y de recursos humanos, así como las características de transmisión y almacenamiento de datos. La fase final del programa destacó la importancia de integrar elementos multimedia para enriquecer la calidad y el contexto de la información recolectada. La capacidad de adjuntar archivos multimedia y utilizar funciones avanzadas fue identificada como clave para capturar datos más ricos y completos, proporcionando mayor profundidad al monitoreo.
 
