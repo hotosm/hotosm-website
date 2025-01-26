@@ -19,13 +19,13 @@ The first phase of collaboration showcased to the Ministry of Environment the po
 
 HOT and UNDP developed a household survey strategy using Open Data Kit (ODK), piloted in various areas of Guatemala City. The qualitative results were shared with the Ministry and visualized through an interactive dashboard in Power BI by the UNDP team. This demonstration motivated the Ministry to develop a more sophisticated strategy aligned with its needs before the administration’s term ended, recognizing the potential for a complete inventory of municipal infrastructure nationwide with the technical and methodological support provided.
 
-![GESTIÓN DE RESIDUOS GUATEMALA BI HOT.png](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/GESTIO%CC%81N%20DE%20RESIDUOS%20GUATEMALA%20BI%20HOT.png?download)
+![GESTIÓN DE RESIDUOS GUATEMALA BI HOT.png](/uploads/GESTIO%CC%81N%20DE%20RESIDUOS%20GUATEMALA%20BI%20HOT.png)
 
 Subsequently, the three institutions collaborated on structuring a georeferenced survey tool for municipalities to uniformly, comprehensively, and promptly report information on the infrastructure, capacity, conditions, activity, coverage, and costs of wastewater and solid waste treatment to the Ministry. This eliminated the need for manual intervention at various data collection and aggregation points, a common issue.
 
 In parallel, a practical reflection was carried out on data sovereignty and its appropriate localization within the Ministry’s services. At the same time, sustainable access was ensured despite impending administrative changes. Given MARN's limited IT capabilities, the information was entrusted to UNDP, which could deliver it to the incoming government.
 
-![ODK COLLECT KOBO GESTIÓN DE RESIDUOS GUATEMALA.png](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/ODK%20COLLECT%20KOBO%20GESTIO%CC%81N%20DE%20RESIDUOS%20GUATEMALA.png?download)
+![ODK COLLECT KOBO GESTIÓN DE RESIDUOS GUATEMALA.png](/uploads/ODK%20COLLECT%20KOBO%20GESTIO%CC%81N%20DE%20RESIDUOS%20GUATEMALA.png)
 
 ## Building Capacity in Data Management with ODK
 
