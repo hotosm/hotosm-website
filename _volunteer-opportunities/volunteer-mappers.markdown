@@ -1,8 +1,9 @@
 ---
 title: Volunteer mappers
 date: 2020-03-25 23:04:00 Z
-layout: page
+published: false
 Place of Work: Remote
+layout: page
 ---
 
 **Timeframe: Ongoing during COVID-19 response**
