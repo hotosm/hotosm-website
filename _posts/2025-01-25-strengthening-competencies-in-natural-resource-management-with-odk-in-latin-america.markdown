@@ -11,6 +11,8 @@ Country:
 - Guatemala
 ---
 
+**[Versión en español ](https://www.hotosm.org/updates/fortaleciendo-competencias-en-gestion-de-recursos-naturales-con-odk-en-america-latina/) / [Versão em português](https://www.hotosm.org/updates/fortaleciendo-competencias-en-gestion-de-recursos-naturales-con-odk-en-america-latina/)**
+
 Guatemala Faces Significant Challenges in Managing Natural Resources and Solid Waste. In collaboration with the United Nations Development [Programme in Guatemala (UNDP) and the Ministry of Environment and Natural Resources (MARN)](https://www.marn.gob.gt/), the LAC Hub of the Humanitarian OpenStreetMap Team (HOT) has developed a participatory methodology since October 2021 to identify illegal waste dumps, particularly in the Motagua River basin. Over a year and a half, free technologies and collaborative data approaches were demonstrated, public officials were trained, and tools were created for the inventory of waste management and wastewater treatment infrastructure. This initiative lays a solid foundation for future government actions and marks a critical step toward addressing these challenges.
 
 ## Demonstrating the Potential of Open Technologies to the Ministry of Environment in Guatemala
