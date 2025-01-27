@@ -10,6 +10,8 @@ Feature Image: "/uploads/cierre%20comunidades%20Fin%20de%20Ano%202024.jpg"
 Person: " Constanza Petrazzini"
 ---
 
+**[Versión en español](https://www.hotosm.org/updates/El-Hub-LAC-cerro-el-2024-de-forma-comunitaria/)**
+
 On Thursday, December 19, 2024, we invited our Latin American Mapping Community to a brief session of toasts to close the year. We were warmly joined by various mapping communities and initiatives supported by the Open Mapping Hub for Latin America and the Caribbean (LAC Hub): the Humanitarian Mapping Brigade, the Humanitarian Mapping Lab, the Open Mapping Network, YouthMappers colleagues, and key individuals contributing to its development. Around 30 colleagues from across Latin America represented nine countries: Argentina, Brazil, Colombia, Ecuador, Mexico, Nicaragua, Paraguay, Peru, and Uruguay.
 
 <iframe title="Mapper Communities in Latin America" aria-label="Mapa" id="datawrapper-chart-uUMR0" src="https://datawrapper.dwcdn.net/uUMR0/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="719" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data\["datawrapper-height"\]){var e=document.querySelectorAll("iframe");for(var t in a.data\["datawrapper-height"\])for(var r=0;r<e.length;r\+\+)if(e\[r\].contentWindow===a.source){var i=a.data\["datawrapper-height"\]\[t\]\+"px";e\[r\].style.height=i}}}))}();\
