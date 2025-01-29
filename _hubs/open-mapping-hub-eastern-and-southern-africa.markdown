@@ -99,9 +99,20 @@ Tune in to our podcasts to learn more about the incredible work our partners and
 
 <iframe title="The esahub's Podcast" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);height:315px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=ryzfj-e3f4ac-pbblog-playlist&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=666666&size=315" loading="lazy" allowfullscreen=""></iframe>
 
-Follow us on social media:
+## Connect with us!
 
-[Twitter](https://twitter.com/openmapping_esa) | [Facebook](https://www.facebook.com/openmapping.esa) | [LinkedIn](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/) | [Instagram](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/)
+We'd love to hear from you! If you are interested in partnering, collaborating, or sponsoring our work, let us know!
+
+* **Office address:** "The Address Building" 12th Floor, Muthangari Drive - Westlands, P.O. Box 20997-0011, Nairobi, Kenya
+
+* **Email:** [esahub@hotosm.org](mailto:esahub@hotosm.org)
+
+*  **Social media**: [Twitter](https://twitter.com/openmapping_esa) | [Facebook](https://www.facebook.com/openmapping.esa) | [LinkedIn](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/) | [Instagram](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/)
+
+
+[Connect with OSM Communities in the ESA region](https://openstreetmap.community/)
+
+
 
 
 
