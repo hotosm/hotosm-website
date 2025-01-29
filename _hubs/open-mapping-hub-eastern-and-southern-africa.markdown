@@ -71,19 +71,6 @@ Check more projects and details on [Our Work page](https://www.hotosm.org/our-wo
 advance geographical footprint and data use</td>
 		<td style="border-left: 1px solid black">Number of completed and active projects in the region since ESA Hub’s inception</td>
 	</tr>
-	<tr>
-		<td>Training and capacity building</td>
-		<td style="border-left: 1px solid black">40%</td>
-	</tr>
-
-<tr>
-		<td>Mapping Project implementation</td>
-		<td style="border-left: 1px solid black">25%</td>
-	</tr>
-	<tr>
-		<td>Final project report and financials shared</td>
-		<td style="border-left: 1px solid black">10%</td>
-	</tr>
 </table>
 
 > “Collaborating with the group was great because I learnt alot, having a GIS background ESA Hub gave me the chance to use my skills to help the community.” 
