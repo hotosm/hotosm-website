@@ -2,6 +2,7 @@
 title: Open Mapping Hub - Eastern and Southern Africa
 date: 2023-06-30 02:34:00 Z
 permalink: "/hubs/open-mapping-hub-eastern-and-southern-africa/"
+published: false
 Page Contact:
   Label: Contact us!
   Contact Email: esahub@hotosm.org
@@ -15,7 +16,7 @@ Field name:
 layout: page
 ---
 
-#We are on a mission
+# We are on a mission
 
 To advocate for and actively facilitate the creation, utilization, and
 widespread dissemination of high-quality open map data in disaster
@@ -25,9 +26,9 @@ The Open Mapping Hub - Eastern and Southern Africa (ESA), was established in 202
 
 As of 2025, we have completed over 30 projects in Eastern and Southern Africa.
 
-##What we do
+## What we do
 
-###Support humanitarian response
+### Support humanitarian response
 
 By creating quality open map data and information to inform
 Anticipatory Action and Disaster Response.
@@ -44,7 +45,7 @@ We provide capacity development and GIS technical and non-technical support to m
 
 ## Our key projects
 
-The hub has supported projects in Uganda, Kenya, Zambia, Malawi, Namibia, and Tanzania. ![Screenshot 2025-01-29 at 11.36.27 AM.png](/uploads/Screenshot%202025-01-29%20at%2011.36.27%E2%80%AFAM.png)
+The hub has supported projects in Uganda, Kenya, Zambia, Malawi, Namibia, Tanzania, and more. ![Screenshot 2025-01-29 at 11.36.27 AM.png](/uploads/Screenshot%202025-01-29%20at%2011.36.27%E2%80%AFAM.png)
 
 * [Mapping for access to contraceptive access in Uganda](https://youtu.be/bS94k78goNQ?si=lcFQITksctywbC1I)
 
