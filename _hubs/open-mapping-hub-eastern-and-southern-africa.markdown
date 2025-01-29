@@ -104,7 +104,6 @@ We'd love to hear from you! If you are interested in partnering, collaborating, 
 
 *  **Social media**: [Twitter](https://twitter.com/openmapping_esa) | [Facebook](https://www.facebook.com/openmapping.esa) | [LinkedIn](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/) | [Instagram](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/)
 
-
 [Connect with OSM Communities in the ESA region](https://openstreetmap.community/)
 
 
