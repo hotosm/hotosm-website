@@ -8,8 +8,8 @@ Page Contact:
 Intro Text: Advancing community development and humanitarian response through open
   mapping solutions.
 Page Link:
-  Label: 'Sign up - #MapHerWorld campaign'
-  Link: https://docs.google.com/forms/d/e/1FAIpQLSfNyTzfhUn2_gnlecPfvj0HuGwKzNfsuvG-XrSArqncasNDmQ/viewform
+  Label: 'Join Our Climate Mapping Community! '
+  Link: https://docs.google.com/forms/d/e/1FAIpQLScn4rFEPeR8D0QQnuT5sMIid156amIqVL-d7XxgwzOHd3lpcA/viewform
 Field name:
 - 
 layout: page
@@ -84,11 +84,6 @@ advance geographical footprint and data use</td>
 		<td style="border-left: 1px solid black">10%</td>
 	</tr>
 </table>
-
-
-## Join Our Climate Mapping Community! 
-
-[Fill out this form to join](https://docs.google.com/forms/d/e/1FAIpQLScn4rFEPeR8D0QQnuT5sMIid156amIqVL-d7XxgwzOHd3lpcA/viewform)
 
 > “Collaborating with the group was great because I learnt alot, having a GIS background ESA Hub gave me the chance to use my skills to help the community.” 
 
