@@ -5,8 +5,8 @@ permalink: "/hubs/open-mapping-hub-eastern-and-southern-africa/"
 Page Contact:
   Label: Contact us!
   Contact Email: esahub@hotosm.org
-Intro Text: Dedicated to advancing open mapping solutions for community development
-  and social impact
+Intro Text: Advancing community development and humanitarian response through open
+  mapping solutions.
 Page Link:
   Label: 'Sign up - #MapHerWorld campaign'
   Link: https://docs.google.com/forms/d/e/1FAIpQLSfNyTzfhUn2_gnlecPfvj0HuGwKzNfsuvG-XrSArqncasNDmQ/viewform
@@ -15,25 +15,34 @@ Field name:
 layout: page
 ---
 
-![africa-and-logo-for-shorthand-1019x573 (1).jpeg](https://cdn.hotosm.org/website/africa-and-logo-for-shorthand-1019x573+(1).jpeg)
+#We are on a mission
 
-The Open Mapping Hub - Eastern and Southern Africa exists to serve communities in the region by supporting the creation, maintenance, distribution, and use of high-quality open maps that are relevant for and contributed to by local communities.
+To advocate for and actively facilitate the creation, utilization, and
+widespread dissemination of high-quality open map data in disaster
+preparedness, climate resilience & building sustainable cities.
 
-We work with organizations and communities across 23 countries in creating and updating free, editable, and shareable open map data in OpenStreetMap.
+The Open Mapping Hub - Eastern and Southern Africa (ESA), was established in 2021 to better respond to the growing humanitarian needs in the region.
 
-We envision a future where all people in Eastern and Southern Africa have the opportunity to contribute to and use open mapping processes and open data in their everyday lives.
+As of 2025, we have completed over 30 projects in Eastern and Southern Africa.
 
-# Eastern and Southern Africa Open Mapping Grants
+<div style="position: absolute; top: 76.8px; left: 76.8px; width: 1548.4px; height: 614.4px;"></div><div class="_6t4CHA"><div class="a26Xuw"><div class="fbzKiw" style="background: rgb(255, 255, 255);"></div></div></div><div style="clip-path: polygon(168px 1.36529px, 1534px 1.36529px, 1534px 768px, 168px 768px);"><div class="DF_utQ _0xkaeQ" style="width: 1387.9px; height: 780.31px; transform: translate(146.105px, 1.36529px); opacity: 0.88;"><div class="DF_utQ" style="width: 1387.9px; height: 780.31px;"><div class="Zp7NQw"><div class="a26Xuw"><div class="PcHy7w"><div class="uk_25A Ty61NA"><div class="Izwocg" style="width: 1387.9px; height: 925.038px; transform: translate(0px, -72.3638px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://hotosm.my.canva.site/hotosm-esa-hub/media/81462fe10a96521a24d568c889349567.jpg" draggable="false"></div></div></div></div><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px 0px; height: 780.31px; width: 1387.9px; pointer-events: none; transform: scale(1);"></div></div></div></div></div><div class="DF_utQ _0xkaeQ" style="width: 369.716px; height: 451.848px; transform: translate(1087.86px, 250.672px);"><div style="width: 369.716px; height: 451.848px; transform: scale(1); transform-origin: 0px 0px 0px;"><div class="DF_utQ _0xkaeQ" style="width: 450.525px; height: 1px; transform: translate(-224.762px, 226.086px) rotate(-90deg);"><div class="V7MmMA" style="transform: scale(1);"><svg class="Fe_H_Q" style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"><path d="M0,0.5L450.52451671734804,0.5" stroke-linecap="butt" stroke-width="1" fill="none" pointer-events="auto" opacity="0" class="_682gpw" style="touch-action: pan-x pan-y pinch-zoom;"></path><g><path d="M0,0.5L450.52451671734804,0.5" stroke-linecap="butt" stroke-width="1" fill="none" pointer-events="none"></path></g></svg></div></div><div class="DF_utQ _0xkaeQ" style="width: 341.549px; height: 128.984px; transform: translate(28.1667px, 126.13px);"><div class="aF9o6Q _0yZ6Qg XfBqww" style="writing-mode: horizontal-tb; width: 341.549px; height: 128.984px;"><div lang="en-GB" class="AdBbhQ hGbcYA rLWGlw _7rUwsA"><p style="font-family: &quot;YACgEev4gKc 0&quot;, &quot;auto&quot;; font-size: 36.0001px; color: rgb(255, 255, 255); line-height: 43px; letter-spacing: -0.02em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;" class="cgHgbA nxe3IQ Xp24Nw PanoWQ"><span class="OYPEnA" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;">Community</span><span class="OYPEnA L7Ipcg" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;"> </span></p><p style="font-family: &quot;YACgEev4gKc 0&quot;, &quot;auto&quot;; font-size: 36.0001px; color: rgb(255, 255, 255); line-height: 43px; letter-spacing: -0.02em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;" class="cgHgbA nxe3IQ Xp24Nw"><span class="OYPEnA" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;">Empowerment</span></p><p style="font-family: &quot;YACgEev4gKc 0&quot;, &quot;auto&quot;; font-size: 36.0001px; color: rgb(255, 255, 255); line-height: 43px; letter-spacing: -0.02em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;" class="cgHgbA nxe3IQ Xp24Nw"><span class="OYPEnA" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;">&amp; Grants</span></p></div></div></div><div class="DF_utQ _0xkaeQ" style="width: 341.549px; height: 111.413px; transform: translate(28.1667px, 289.521px);"><div class="aF9o6Q _0yZ6Qg XfBqww" style="writing-mode: horizontal-tb; width: 341.549px; height: 111.413px;"><div lang="en-GB" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(0px, -4.29334px);"><p style="font-family: &quot;YACgEev4gKc 0&quot;, &quot;auto&quot;; font-size: 18.6667px; color: rgb(255, 255, 255); line-height: 30px; letter-spacing: 0em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;" class="cgHgbA nxe3IQ Xp24Nw PanoWQ"><span class="OYPEnA" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;">Provide capacity development and GIS<br>technical and non-technical support to<br>map contributors and users through<br>community grants</span></p></div></div></div><div class="DF_utQ _0xkaeQ" style="width: 120.003px; height: 107.13px; transform: translate(28.1667px, 1.42109e-14px);"><div class="Zp7NQw"><div class="a26Xuw"><div class="PcHy7w"><div class="uk_25A Ty61NA"><div class="Izwocg" style="width: 120.003px; height: 107.13px; transform: translate(0px, -7.10543e-15px) rotate(0deg);"><img class="dMHlHA" crossorigin="anonymous" src="blob:https://hotosm.my.canva.site/e6874d8f-0afe-4f2d-a828-6ba033762608" draggable="false"></div></div></div></div><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px 0px; height: 107.13px; width: 120.003px; pointer-events: none; transform: scale(1);"><div class="TRWryw" style="clip-path: path(&quot;M 0 0 L 0 107.13 L 120.003 107.13 L 120.003 0 L 0 0&quot;);"></div></div></div></div></div></div><div class="DF_utQ _0xkaeQ" style="width: 448.946px; height: 1px; transform: translate(20.8269px, 477.547px) rotate(-90deg);"><div class="V7MmMA" style="transform: scale(1);"><svg class="Fe_H_Q" style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"><path d="M-2.842170943040401e-14,0.5L448.94615277443586,0.5" stroke-linecap="butt" stroke-width="1" fill="none" pointer-events="auto" opacity="0" class="_682gpw" style="touch-action: pan-x pan-y pinch-zoom;"></path><g><path d="M-2.842170943040401e-14,0.5L448.94615277443586,0.5" stroke-linecap="butt" stroke-width="1" fill="none" pointer-events="none"></path></g></svg></div></div><div class="DF_utQ _0xkaeQ" style="width: 323.371px; height: 128.984px; transform: translate(272.967px, 376.802px);"><div class="aF9o6Q _0yZ6Qg XfBqww" style="writing-mode: horizontal-tb; width: 323.371px; height: 128.984px;"><div lang="en-GB" class="AdBbhQ hGbcYA rLWGlw _7rUwsA"><p style="font-family: &quot;YACgEev4gKc 0&quot;, &quot;auto&quot;; font-size: 36.0001px; color: rgb(255, 255, 255); line-height: 43px; letter-spacing: -0.02em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;" class="cgHgbA nxe3IQ Xp24Nw PanoWQ"><span class="OYPEnA" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;">Support<br>humanitarian<br>response</span></p></div></div></div><div class="DF_utQ _0xkaeQ" style="width: 277.627px; height: 141.413px; transform: translate(272.967px, 540.194px);"><div class="aF9o6Q _0yZ6Qg XfBqww" style="writing-mode: horizontal-tb; width: 277.627px; height: 141.413px;"><div lang="en-GB" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(0px, -4.29334px);"><p style="font-family: &quot;YACgEev4gKc 0&quot;, &quot;auto&quot;; font-size: 18.6667px; color: rgb(255, 255, 255); line-height: 30px; letter-spacing: 0em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;" class="cgHgbA nxe3IQ Xp24Nw PanoWQ"><span class="OYPEnA" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;">By creating quality open map<br>data and information to inform<br>Anticipatory Action and Disaster<br>Response</span></p><p style="font-family: &quot;YACgEev4gKc 0&quot;, &quot;auto&quot;; font-size: 18.6667px; color: rgb(255, 255, 255); line-height: 30px; letter-spacing: 0em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;" class="cgHgbA nxe3IQ Xp24Nw"><br></p></div></div></div><div class="DF_utQ _0xkaeQ" style="width: 106.156px; height: 107.13px; transform: translate(272.967px, 250.672px);"><div class="Zp7NQw"><div class="a26Xuw"><div class="PcHy7w"><div class="uk_25A Ty61NA"><div class="Izwocg" style="width: 106.156px; height: 107.13px; transform: translate(0px) rotate(0deg);"><img class="dMHlHA" crossorigin="anonymous" src="blob:https://hotosm.my.canva.site/56efdf97-100a-44f1-8684-04da3b28d5d9" draggable="false"></div></div></div></div><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px 0px; height: 107.13px; width: 106.156px; pointer-events: none; transform: scale(1);"><div class="TRWryw" style="clip-path: path(&quot;M 0 0 L 0 107.13 L 106.156 107.13 L 106.156 0 L 0 0&quot;);"></div></div></div></div><div class="DF_utQ _0xkaeQ" style="width: 450.525px; height: 1px; transform: translate(441.567px, 476.758px) rotate(-90deg);"><div class="V7MmMA" style="transform: scale(1);"><svg class="Fe_H_Q" style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"><path d="M0,0.5L450.52451671734786,0.5" stroke-linecap="butt" stroke-width="1" fill="none" pointer-events="auto" opacity="0" class="_682gpw" style="touch-action: pan-x pan-y pinch-zoom;"></path><g><path d="M0,0.5L450.52451671734786,0.5" stroke-linecap="butt" stroke-width="1" fill="none" pointer-events="none"></path></g></svg></div></div><div class="DF_utQ _0xkaeQ" style="width: 72.921px; height: 93.5626px; transform: translate(724.346px, 245.512px);"><div class="Zp7NQw"><div class="a26Xuw"><div class="PcHy7w"><div class="uk_25A Ty61NA"><div class="Izwocg" style="width: 72.921px; height: 116.589px; transform: translate(-7.10543e-15px, -3.55271e-14px) rotate(0deg);"><img class="dMHlHA" crossorigin="anonymous" src="blob:https://hotosm.my.canva.site/de05d24b-7151-4d67-81be-df3ff91cbd08" draggable="false"></div></div></div></div><div style="position: absolute; top: 0px; left: 0px; transform-origin: 0px 0px 0px; height: 93.5626px; width: 72.921px; pointer-events: none; transform: scale(1);"></div></div></div><div class="DF_utQ _0xkaeQ" style="width: 224.53px; height: 128.984px; transform: translate(694.496px, 384px);"><div class="aF9o6Q _0yZ6Qg XfBqww" style="writing-mode: horizontal-tb; width: 224.53px; height: 128.984px;"><div lang="en-GB" class="AdBbhQ hGbcYA rLWGlw _7rUwsA"><p style="font-family: &quot;YACgEev4gKc 0&quot;, &quot;auto&quot;; font-size: 36.0001px; color: rgb(255, 255, 255); line-height: 43px; letter-spacing: -0.02em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;" class="cgHgbA nxe3IQ Xp24Nw PanoWQ"><span class="OYPEnA" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;">Open data for</span><span class="OYPEnA L7Ipcg" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;"> </span></p><p style="font-family: &quot;YACgEev4gKc 0&quot;, &quot;auto&quot;; font-size: 36.0001px; color: rgb(255, 255, 255); line-height: 43px; letter-spacing: -0.02em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;" class="cgHgbA nxe3IQ Xp24Nw"><span class="OYPEnA" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;">decision<br>making</span></p></div></div></div><div class="DF_utQ _0xkaeQ" style="width: 341.549px; height: 141.413px; transform: translate(694.496px, 540.194px);"><div class="aF9o6Q _0yZ6Qg XfBqww" style="writing-mode: horizontal-tb; width: 341.549px; height: 141.413px;"><div lang="en-GB" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(0px, -4.29334px);"><p style="font-family: &quot;YACgEev4gKc 0&quot;, &quot;auto&quot;; font-size: 18.6667px; color: rgb(255, 255, 255); line-height: 30px; letter-spacing: 0em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;" class="cgHgbA nxe3IQ Xp24Nw PanoWQ"><span class="OYPEnA" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;">Develop and deploy mapping tools that<br>can be used by organizations and local<br>governments for data collection to<br>enhance</span><span class="OYPEnA L7Ipcg" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;">  </span><span class="OYPEnA" style="font-weight: 400; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;">decision-making on resource<br>allocation and service delivery</span></p></div></div></div><div class="DF_utQ _0xkaeQ" style="width: 531.762px; height: 79.3588px; transform: translate(244.8px, 76.8px);"><div class="aF9o6Q _0yZ6Qg XfBqww" style="writing-mode: horizontal-tb; width: 531.762px; height: 79.3588px;"><div lang="en-GB" class="AdBbhQ hGbcYA rLWGlw _7rUwsA" style="transform: translate(0px, 6.68026px);"><p style="font-family: &quot;YAFdJsyuOPM 0&quot;, &quot;auto&quot;; font-size: 66.8026px; color: rgb(255, 255, 255); line-height: 66px; letter-spacing: -0.04em; --pY_8zA: 0; text-transform: none; --oJepFA: 0; --uYCVzQ: none; list-style-type: none;" class="cgHgbA nxe3IQ Xp24Nw PanoWQ"><span class="OYPEnA" style="font-weight: 700; font-style: normal; color: rgb(255, 255, 255); font-kerning: none; text-decoration: none;">What we do</span></p></div></div></div>
 
-We believe that open map data is universal and contributes to identifying problems, monitoring change, managing and responding to events, forecasting, setting priorities, and understanding humanitarian and development trends. 
+##What we do
 
-The [ESA Hub granting](https://www.hotosm.org/projects/esa-open-mapping-grants-2023/) program aims to:
+###Support humanitarian response
 
-* Work with organizations and communities in advancing their organization’s mission through OpenStreetMap data and Tools 
-Enrich OpenStreetMap data (both already existing and generated through the grants) by increasing contributions from new communities members (specifically women and other underrepresented groups)
-* Design and implement innovative map data solutions and projects that improve the everyday lives of people in Eastern and Southern Africa in a significant way.
+In the past, we have engaged in an Open Mapping Grants program that has enabled us to:
+* Work with organizations and communities in advancing their organization’s mission through OpenStreetMap data and Tools Enrich OpenStreetMap data (both already existing and generated through the grants) by increasing contributions from new community members (specifically women and other underrepresented groups).
+* Design and implement innovative map data solutions and projects that significantly improve the everyday lives of people in Eastern and Southern Africa.
 
-Currently the Open Mapping Hub - Eastern and Southern Africa is supporting projects in Uganda, Kenya, Zambia, Malawi, Namibia, and Tanzania.  
+Watch an example of their impact below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PIRPj9SQGnM?si=WAMBOaqC5fM0byhq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+
+
+The hub is currently supporting and has supported projects in Uganda, Kenya, Zambia, Malawi, Namibia, and Tanzania.  
 
 ![Screenshot 2023-07-05 at 2.35.26 PM.png](https://cdn.hotosm.org/website/Screenshot+2023-07-05+at+2.35.26+PM.png)
 
@@ -71,59 +80,6 @@ Currently the Open Mapping Hub - Eastern and Southern Africa is supporting proje
 
 * [Community Impact Microgrants projects.](https://omdtanzania.medium.com/?p=8ef86ff7dd93)
 
-# The Spatial People Network
-
-![using-mobile-tech-esa-homepage-4096x1646.jpeg](https://cdn.hotosm.org/website/using-mobile-tech-esa-homepage-4096x1646.jpeg)
-
-Are you a mapping enthusiast, between 18 - 35 years, from the Eastern and Southern Africa region? Are you looking for an opportunity to join a network of like-minded individuals?
-
-Our new program aims to improve OpenStreetMap (OSM) through community collaboration and to support our volunteers in the region. Join and connect with others passionate about mapping, innovation, and open data. Learn more about opportunities available to our Spatial People through this network. One such opportunity is the Spatial People Award which enables you to host a mapping event. 
-
-[Join the Spatial People Network] (https://airtable.com/appt5Vnsziwo3sjKF/shrVmKI9sjFIU0gb0)
-
-# Spatial Solutions Accelerator
-
-![Spatial Solutions Accelerator.png](https://cdn.hotosm.org/website/Spatial+Solutions+Accelerator.png)
-
-We believe in the power of open map data to transform communities and drive positive change. The Spatial Solutions Accelerator program is our latest initiative dedicated to providing support and resources to self-organized open mapping communities, student mapping groups, and university or tertiary institutions in the region.
-
-Our mission is clear: to increase the reach and impact of open map data within Eastern and Southern Africa. Through this program, the Open Mapping Hub will provide medium to long-term small-scale grants and organizational development support, through which we seek to empower individuals and organizations seeking to address the following identified challenges: 
-* Urban Addressing and Routing
-* Lack of Mapper Visibility and Recognition
-* Limitations in Integration of Citizen-Generated Data into OSM
-* Health Service Delivery
-* Anticipatory Action & Climate Resilience
-* Enhancing Spatial Literacy in School
-* Nutrition and Food Security
-
-This grant of up to $7,000 USD is available to applicants from Burundi, Ethiopia, Kenya, Lesotho, Rwanda, South Sudan, Tanzania, and Zimbabwe.
-
-At The Open Mapping Hub, we are committed to fostering collaboration, innovation, and knowledge exchange. Together, we can create a more inclusive and sustainable future by harnessing the power of open map data.
-
-**Application Criteria**
-OMH - ESA will further provide organization capacity development support in the form of:
-* Tailored Technical Training 
-* Facilitated opportunities for peer-peer learning and mentorship 
-* Leadership & Organisational Development Training 
-
-The following activities will not be supported: 
-* Data collection activities including remote mapping, mapathons, and field data collection. 
-* Building of new apps/technologies. We seek to work with and support the growth of existing mobile mapping tools and/or open-source technologies in the OSM ecosystem.
-
-Priority is given to projects and initiatives that:
-* Show evidence of prior implementation and uptake of proposed solution or initiative by an identified community or partner(s) within a defined geographical area over a 1-3 year period.
-* Encourage additional funding through matching income from other grants, private donors, and in-kind donations.
-* Provide detailed budgets specific to project activities.
-* Demonstrate structural sustainability/continuity of the proposed project for 3-5 years.
-
-## Events
-
-### #MapHerWorld campaign
-Join us in the 100-day Map Her World campaign and make a difference in your local community! We invite you to help identify places and points of interest that are relevant to women in your area. By contributing to this project, you can help make your community more inclusive and accessible for all.
-
-Are you interested in creating positive change?
-
-[Join us](https://www.hotosm.org/projects/mapherworld/)
 
 ## Podcasts
 Tune in to our podcasts to learn more about the incredible work our partners and volunteers are doing in the open mapping arena. Listen to their stories and insights, and gain a deeper understanding of the power of open mapping to drive positive social impact - start listening today!
