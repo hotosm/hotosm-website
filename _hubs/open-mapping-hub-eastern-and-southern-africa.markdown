@@ -44,44 +44,55 @@ We provide capacity development and GIS technical and non-technical support to m
 
 ## Our key projects
 
-The hub has supported projects in Uganda, Kenya, Zambia, Malawi, Namibia, and Tanzania.  
+The hub has supported projects in Uganda, Kenya, Zambia, Malawi, Namibia, and Tanzania. ![Screenshot 2025-01-29 at 11.36.27 AM.png](/uploads/Screenshot%202025-01-29%20at%2011.36.27%E2%80%AFAM.png)
 
-![Screenshot 2023-07-05 at 2.35.26 PM.png](https://cdn.hotosm.org/website/Screenshot+2023-07-05+at+2.35.26+PM.png)
+* [Mapping for access to contraceptive access in Uganda](https://youtu.be/bS94k78goNQ?si=lcFQITksctywbC1I)
 
-### Uganda
+* [Mapping informal settlement for service delivery decision-making ](https://youtu.be/PIRPj9SQGnM?si=toO-kQj9bzH3QEj6)
 
-* [Mapping Contraceptive Access in the Newly Formed Cities in Northern Uganda.](https://www.hotosm.org/projects/mapping-contraceptive-access-in-the-newly-formed-cities-in-northern-uganda/)
+* [Community-led mapping boosts tourism](https://youtu.be/ZVkBYlG2eDM?si=4A-G-ciUqHeVLHEx)
 
-* [Using open-source tools to profile 17 informal settlements in Hoima and Lira cities in Uganda.](https://www.hotosm.org/projects/using-open-source-tools-to-profile-17-informal-settlements-in-hoima-and-lira-cities-in-uganda/)
+Check more projects and details on [Our Work page](https://www.hotosm.org/our-work).
 
-* [Mapping Ruboni village tourism attractions.](https://www.hotosm.org/projects/mapping-ruboni-village-tourist-attractions-on-openstreetmap-to-enhance-regional-tourism/)
+## Our impact in numbers
 
-* [OpenStreetMap in Schools - Uganda.](https://www.hotosm.org/projects/openstreetmap-in-schools/)
+<table style="border-bottom: none">
+<tr>
+		<th style="border-bottom-width: 2px"><span style="font-weight: bold">+125K</span></th>
+		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">+500</span></th>
+<th style="border-bottom-width: 2px"><span style="font-weight: bold">$392,665</span></th>
+		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">30</span></th>
+	</tr>
+	<tr>
+		<td>Edits made to OpenStreetMap across hub activities</td>
+		<td style="border-left: 1px solid black">Volunteers trained on open mapping and GIS</td>
+<td>Grants disbursed to project partners and community groups to
+advance geographical footprint and data use</td>
+		<td style="border-left: 1px solid black">Number of completed and active projects in the region since ESA Hub’s inception</td>
+	</tr>
+	<tr>
+		<td>Training and capacity building</td>
+		<td style="border-left: 1px solid black">40%</td>
+	</tr>
 
-### Kenya
+<tr>
+		<td>Mapping Project implementation</td>
+		<td style="border-left: 1px solid black">25%</td>
+	</tr>
+	<tr>
+		<td>Final project report and financials shared</td>
+		<td style="border-left: 1px solid black">10%</td>
+	</tr>
+</table>
 
-* [Satellite Imagery for Social Good.](https://www.hotosm.org/projects/satellite-imagery-for-social-good/)
 
-* [Community participatory mapping for Disaster Resilience.](https://www.hotosm.org/projects/community-participatory-mapping-for-disaster-resilience/)
+## Join Our Climate Mapping Community! 
 
-### Zambia
+[Fill out this form to join](https://docs.google.com/forms/d/e/1FAIpQLScn4rFEPeR8D0QQnuT5sMIid156amIqVL-d7XxgwzOHd3lpcA/viewform)
 
-* [Local Impact Governance.](https://www.hotosm.org/projects/usaid-local-impact-governance-activity/)
+> “Collaborating with the group was great because I learnt alot, having a GIS background ESA Hub gave me the chance to use my skills to help the community.” 
 
-* [Climate Resilience Planning with Digital Mapping.
-](https://www.hotosm.org/projects/climate-resilience-planning-with-digital-mapping/)
-### Malawi
-
-* [Mapping Cyclone Ana in the most affected districts of Malawi](https://www.hotosm.org/projects/mapping-tropical-storm-ana-and-cyclone-gombe-in-the-most-affected-districts-of-malawi-for-early-recovery-of-affected-communities/)
-
-### Namibia
-
-* [Building capacity for inclusive data collection for OSM Community in Namibia. ](https://www.hotosm.org/projects/building-capacity-for-inclusive-data-collection-for-the-osm-community-in-namibia/)
-
-### Tanzania
-
-* [Community Impact Microgrants projects.](https://omdtanzania.medium.com/?p=8ef86ff7dd93)
-
+Abisagy Nafula, Nairobi Kenya, Mapathon participant
 
 ## Podcasts
 Tune in to our podcasts to learn more about the incredible work our partners and volunteers are doing in the open mapping arena. Listen to their stories and insights, and gain a deeper understanding of the power of open mapping to drive positive social impact - start listening today!
