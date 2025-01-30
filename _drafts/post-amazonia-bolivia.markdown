@@ -9,31 +9,31 @@ Con la finalidad de lograr que nuestro programa de [mapeo amazónico](https://ww
 
 Tumupasa es hogar del pueblo indígena Tacana, y está ubicada en el municipio de San Buenaventura, al norte del departamento de La Paz. Esta localidad es parte del [CIPTA](https://es.wikipedia.org/wiki/Consejo_Ind%C3%ADgena_del_Pueblo_Tacana) o Consejo Indígena del Pueblo Tacana, presente en tres departamentos y cinco municipios de Bolivia, y también del Consejo Indígena de Mujeres Tacana [CIMTA](https://www.facebook.com/p/Consejo-Indigena-de-Mujeres-Tacana-100063805545715/), lo que garantiza una interrelación con toda la nación Tacana.
 
-*Imágenes del primer taller de mapeo en Tumupasa, Unidad Educativa Técnico Humanístico Tumupasa B*
+![Bol1.jpg](/uploads/Bol1.jpg)*Imágenes del primer taller de mapeo en Tumupasa, Unidad Educativa Técnico Humanístico Tumupasa B*
 
 El proyecto se planteó como objetivo principal realizar un mapeo geográfico abierto para fortalecer la información geoespacial disponible, abierta y en línea (muy escasa) sobre el territorio de la comunidad amazónica Tacana en Tumupasa y sus áreas circundantes, en estrecha colaboración con el CIPTA, con la perspectiva de buscar en un futuro, replicar el proyecto en el resto del territorio Tacana. El proyecto además garantiza a la comunidad la soberanía de sus datos cartográficos, para lo cual todo el proceso se consultó con ellos  antes de ser realizado.
 
 El propósito de este mapeo se centró en generar información que permita fortalecer la toma de decisiones de los pueblos indígenas para la planificación municipal, la demarcación geográfica a nivel digital de la zona para seguimiento de actividades económicas y generar un mayor control sostenible de los recursos, así como recopilar información geoespacial de sitios culturales y de interés que fortalezca la propia identidad de la comunidad. Para esto se hizo necesario capacitar a líderes locales, jóvenes y miembros del CIPTA.
 
-Imágenes del segundo taller de mapeo en Tumupasa, Unidad Educativa Técnico Humanístico Tumupasa B
+![Bol2.jpg](/uploads/Bol2.jpg)*Imágenes del segundo taller de mapeo en Tumupasa, Unidad Educativa Técnico Humanístico Tumupasa B*
 
-En un artículo publicado por IB titulado El Mapeo Participativo en Tumupasa: Un Ejercicio de memoria y reivindicación comentan:
+En un artículo publicado por IB titulado [El Mapeo Participativo en Tumupasa: Un Ejercicio de memoria y reivindicación](https://internetbolivia.org/actividades/el-mapeo-participativo-en-tumupasa-un-ejercicio-de-memoria-y-reivindicacion/) comentan:
 
-El proceso de mapeo no fue simplemente un ejercicio técnico. Durante los talleres, conversamos sobre la historia y las costumbres locales, pues muchos de los lugares que se mapearon tienen un significado profundo en el contexto de la comunidad. El Cerro de la Cruz, por ejemplo, no es sólo un punto geográfico; es un sitio clave durante los carnavales. Otros lugares, como las sedes sociales o el club de madres, forman parte de la historia organizativa de la comunidad. A su vez, se mapearon puntos que son útiles para personas ajenas al contexto local, como librerías, sitios de recreación y centros de actividad económica, como aserraderos y viveros.
+> El proceso de mapeo no fue simplemente un ejercicio técnico. Durante los talleres, conversamos sobre la historia y las costumbres locales, pues muchos de los lugares que se mapearon tienen un significado profundo en el contexto de la comunidad. El Cerro de la Cruz, por ejemplo, no es sólo un punto geográfico; es un sitio clave durante los carnavales. Otros lugares, como las sedes sociales o el club de madres, forman parte de la historia organizativa de la comunidad. A su vez, se mapearon puntos que son útiles para personas ajenas al contexto local, como librerías, sitios de recreación y centros de actividad económica, como aserraderos y viveros.
 
-Como el proyecto se desarrolló cuando Sudamérica era afectada por incendios forestales, concluyeron el artículo con la siguiente reflexión:
+Como el proyecto se desarrolló cuando Sudamérica era afectada por [incendios forestales](https://www.hotosm.org/updates/latinoamerica-en-llamas-combatiendo-los-incendios-con-cartografia-abierta/), concluyeron el artículo con la siguiente reflexión:
 
-En un momento en el que los incendios amenazaban vastas zonas de la Amazonía, este mapeo fue un recordatorio de la fragilidad de nuestro entorno y de la importancia de que las comunidades locales cuenten con herramientas para protegerlo. El proyecto nos enseñó que, en tiempos de crisis ambiental, la colaboración y el conocimiento compartido son esenciales para resistir y adaptarse a los desafíos que enfrenta la región.
+> En un momento en el que los incendios amenazaban vastas zonas de la Amazonía, este mapeo fue un recordatorio de la fragilidad de nuestro entorno y de la importancia de que las comunidades locales cuenten con herramientas para protegerlo. El proyecto nos enseñó que, en tiempos de crisis ambiental, la colaboración y el conocimiento compartido son esenciales para resistir y adaptarse a los desafíos que enfrenta la región.
 
-Imágenes del taller de mapeo con miembros de CIPTA en Tumupasa,
+![Bol22.jpg](/uploads/Bol22.jpg)*Imágenes del taller de mapeo con miembros de CIPTA en Tumupasa*
 
-Entre los resultados obtenidos por el proyecto se puede mencionar:
-Mejora de la información del mapa respecto a sitios, actores y lugares de interés para la gestión social de la comunidad de Tumupasa.
-Mejora de la Identificación de los límites del espacio urbano y la selva.
-Mapeo de hitos urbanos y naturales que la comunidad utiliza como referencia para su gestión territorial.
-Mapeo de sendas, caminos vecinales y otros circuitos de uso comunitario, fuentes de agua, torre de energía, áreas de abastecimiento, salud, postas u otros lugares de conexión.
-Se realizaron cuatro sesiones de trabajo con estudiantes de la “Unidad Educativa Tumupasa B”, y una sesión con un equipo de técnicos pertenecientes al CIPTA.
-Se firmaron acuerdos de coordinación con el CIPTA y el CIMTA.
+* Entre los resultados obtenidos por el proyecto se puede mencionar:
+  Mejora de la información del mapa respecto a sitios, actores y lugares de interés para la gestión social de la comunidad de Tumupasa.
+  Mejora de la Identificación de los límites del espacio urbano y la selva.
+  Mapeo de hitos urbanos y naturales que la comunidad utiliza como referencia para su gestión territorial.
+  Mapeo de sendas, caminos vecinales y otros circuitos de uso comunitario, fuentes de agua, torre de energía, áreas de abastecimiento, salud, postas u otros lugares de conexión.
+  Se realizaron cuatro sesiones de trabajo con estudiantes de la “Unidad Educativa Tumupasa B”, y una sesión con un equipo de técnicos pertenecientes al CIPTA.
+  Se firmaron acuerdos de coordinación con el CIPTA y el CIMTA.
 
 En el informe final del proyecto IB menciona:
 
