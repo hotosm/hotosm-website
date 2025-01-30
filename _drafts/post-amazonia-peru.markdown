@@ -1,0 +1,50 @@
+---
+title: Post Amazonia Peru
+date: 2025-01-30 15:20:00 Z
+---
+
+La Amazonía en Perú, al igual -o quizás más- que en otros países, experimenta una problemática compleja que afecta a los pueblos y comunidades que la habitan. Segun el Centro Amazónico de Antropología y Aplicación Práctica (CAAAP), en base a consultas hechas a las propias comunidades amazónicas, las principales amenazas son:
+
+(a) la criminalización y asesinato de líderes y defensores del territorio; (b) apropiación y privatización de bienes de la naturaleza, como la misma agua; (c) concesiones madereras legales e ingreso de madereras ilegales; (d) caza y pesca predatorias, principalmente en ríos; (e) mega-proyectos: hidroeléctricas, concesiones forestales, tala para producir monocultivos, carreteras y ferrovías, proyectos mineros y petroleros; (f) contaminación ocasionadas por toda la industria extractiva que produce problemas y enfermedades, sobre todo a los niños/as y jóvenes; (g) narcotráfico; (h) los consecuentes problemas sociales asociados a estas amenazas como alcoholismo, violencia contra la mujer, trabajo sexual, tráfico de personas, pérdida de su cultura originaria y de su identidad 
+
+En este contexto la mayor parte de las comunidades indígenas peruanas de la Amazonía mantienen una actitud de alerta ante estas amenazas y buscan aliarse con organizaciones que les puedan ayudar a enfrentar estos desafíos. Sin embargo las organizaciones locales tienen otros desafíos que enfrentar, como la falta de financiamiento, la carencia de equipos tecnológicos actualizados, la falta de interrelación con otras organizaciones que hagan una labor similar, y la falta de personal técnicamente capacitado, afectando drásticamente la continuidad de su trabajo y el impacto que podrían tener.
+
+Como parte del interés en que nuestro programa de mapeo amazónico incluya a la Amazonía peruana, nos asociamos con el Mg. Jonathan Rupire de OpenStreetMap Perú quien a su vez comprometió el apoyo de el Instituto Superior Público Pedagógico Bilingüe de Yarinacocha (ISPPB) y la ONG Alianza Arkana, para realizar el curso taller “Introducción a la cartografía socioambiental colaborativa en la amazonía”, con el objetivo de mapear territorios bajo amenaza de diferentes peligros naturales y antrópicos como incendios forestales y la deforestación, principalmente con miembros de la Comunidad Nativa Shipibo – Konibo Santa Clara.
+
+
+Taller en el ISPPB. Mapa del ISPPB en OSM. Participantes del taller en bote rumbo a mapear una comunidad.
+
+La implementación de este taller sin embargo planteó retos importantes puesto que se hizo evidente el desequilibrio existente en la formación y familiaridad con tecnologías entre los participantes inscritos, por ejemplo, entre los estudiantes y líderes indígenas y los miembros de equipos técnicos de agencias públicas u ONG locales y especialistas en el uso de tecnologías GIS. Debido a esta brecha tecnológica existente se decidió ampliar una dinámica formativa considerada a inicios del taller, llamada “Yachay tech”, para impartir conocimientos básicos sobre uso de celulares, computadoras y utilización de herramientas como el correo electrónico y apps indispensables.
+
+Por otra parte, el inexistente acondicionamiento climático del laboratorio del ISPPB se convirtió en un problema, pues las altas temperaturas de la zona perjudicaron el rendimiento de las computadoras. Esto significó también la reestructuración de la programación y la sede de desarrollo de actividades. Por un lado se priorizaron las actividades formativas enfocadas al uso de teléfonos celulares y el trabajo en campo, y se trasladó la actividad de laboratorio a las oficinas de Alianza Arkana.
+
+Otro desafío importante fue la condición económica y la carga familiar de los estudiantes: extremadamente precaria en el sentido monetario. Aun cubriendo la falta de equipos, movilidad y alimentación de todas las personas durante el desarrollo del curso, esto significó poco en relación a la atención de sus necesidades de vida, al detener su actividad económica durante varios días. Fue inevitable la inclusión de sus familias en partes del curso para suplir su alimentación, lo que se tornó en un beneficio relativo pues permitió reconocer la potencialidad de la formación de pares, padres e hijos, desde el reconocimiento de la ventaja que tienen los menores para hacerse de familiaridad con la tecnología. Esta situación no había sido prevista pero fue bien aprovechada (con la autorización de sus padres).
+
+
+Imágenes del taller en las instalaciones de Alianza Arkana.
+
+A pesar de todos estos contratiempos se lograron algunos impactos importantes:
+Establecer un grupo de trabajo de 9 personas, 6 estudiantes (4 ISPPB 2 UNIA) y 1 docente indígena (ISPPB), 1 especialista de equipo técnico de ONG (Alianza Arkana), 1 investigador del doctorado UNMSM. Este grupo cuenta con el acompañamiento del Director del ISPPB y de 1 persona del equipo técnico de OpenStreetMap Perú.
+Se ha logrado iniciar la adquisición de aprendizajes, prácticas y reflexiones sobre la cartografía ciudadana colaborativa en y por parte de organizaciones indígenas e instituciones locales.
+Brindar los conocimientos básicos a los participantes del taller en el uso de herramientas como ID Editor, Tasking Manager y StreetComplete.
+También debe resaltarse la construcción de oportunidades que deben explorarse y concretarse en un futuro próximo, requiriendo acompañamiento y transición de nuestra parte. A saber:
+La integración, a modo de piloto, de un curso sobre cartografía colaborativa en el marco de la alfabetización digital como parte de la currícula regular del ISPPB.
+El interés institucional en continuar con la dinámica extracurricular del Curso realizado, afirmando las capacidades logradas por los primeros participantes y ampliando la convocatoria a más personas en el espacio académico.
+El interés expreso del equipo técnico de la organización indígena local: Comunidad Nativa Shipibo – Konibo Santa Clara, para establecer un curso dirigido exclusivamente a sus equipos técnicos para el trabajo de recolección colaborativa de datos georeferenciados en campo.
+La posibilidad de realizar un curso o taller sobre recolección colaborativa de datos georeferenciados con una red de atención pública de salud en las regiones Ucayali y Loreto, con especial interés en la cuestión de atención primaria de salud y particularidad étnica.
+La solicitud de parte de las autoridades de una comunidad indigena de asistirles técnicamente como peritos para la creación de datos georeferenciados en su proceso de titulación territorial. Este ejercicio en particular articula a 2 comunidades indígenas y un caserío.
+El mapeo coordinado de la red de comunidades indígenas Huni kuin, en la región de Purús, especialmente importante ya que es una de las comunidades más lejanas desde los centros de administración pública en Perú. En estas regiones se encuentran las comunidades más expuestas a situaciones de pobreza monetaria y de vulnerabilidad sanitaria y social.
+Como ya se mencionó, el objetivo de esta y otras iniciativas en la Amazonia, es ampliar el alcance de nuestro programa de mapeo amazónico, pero también colaborar con aliados locales que cuentan con actividades ya establecidas en comunidades amazónicas, con cierta base regular de aliados propios en la zona, para de esta manera apoyar la consecución de sus propios objetivos. Un tercer objetivo es construir capacidades en las comunidades locales, con un conocimiento técnico de lo geoespacial que de otra forma no llegaría a estas regiones apartadas y que en el futuro pueda ser aprovechado por y para otros proyectos.
+Hacemos pues un llamado, tanto a organizaciones interesadas en trabajar en la Amazonia como a las que ya se encuentran trabajando en dicha región, a explorar juntos las posibilidades de colaborar este 2025 en proyectos como este y otros que tenemos en cartera, buscando la adaptación de enfoques basados en mapeo colaborativo y uso de tecnologías abiertas y gratuitas, culturalmente pertinente, empoderando comunidades locales a través de su manejo autónomo de datos. El mapeo abierto y las herramientas digitales OSM pueden ser un apoyo eficaz e integrador para la consecución de los objetivos de diversos tipos de proyectos y organizaciones.
+
+Links de interés:
+Mapa del Instituto Superior Público Pedagógico Bilingüe de Yarinacocha
+Maqueta digital 3D del Mapa del Instituto Superior Público Pedagógico Bilingüe de Yarinacocha
+Recorrido fotográfico en Mapillary del Instituto Superior Público Pedagógico Bilingüe de Yarinacocha
+Mapa de la Comunidad Nativa Shipibo Konibo de Santa Clara en Yarinacocha
+Maqueta digital 3D de la Comunidad Nativa Shipibo Konibo de Santa Clara en Yarinacocha
+Recorrido fotográfico en Mapillary de la Comunidad Nativa Shipibo Konibo de Santa Clara en Yarinacocha
+
+* Para la elaboración de este post se han utilizado datos del Informe final del proyecto “Introducción a la cartografía socioambiental colaborativa en la amazonía” redactado por el MG. Johnattan Rupire.
+
+Hacemos entonces un llamado, tanto a organizaciones interesadas en trabajar en la Amazonía como a las que ya se encuentran trabajando en dicha región, a explorar juntos las posibilidades de colaborar en proyectos como este y otros que tenemos en cartera. Las herramientas digitales basadas en OpenStreetMap que HOT ha desarrollado pueden generar mapas que sirvan de ayuda a la protección de bosques, a la gestión forestal, a visibilizar comunidades, etc. y ser un apoyo eficaz e integrador para la consecución de los objetivos de diversos tipos de proyectos y organizaciones.
