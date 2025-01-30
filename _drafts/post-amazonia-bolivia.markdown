@@ -27,17 +27,23 @@ Como el proyecto se desarrolló cuando Sudamérica era afectada por [incendios f
 
 ![Bol22.jpg](/uploads/Bol22.jpg)*Imágenes del taller de mapeo con miembros de CIPTA en Tumupasa*
 
-* Entre los resultados obtenidos por el proyecto se puede mencionar:
-  Mejora de la información del mapa respecto a sitios, actores y lugares de interés para la gestión social de la comunidad de Tumupasa.
-  Mejora de la Identificación de los límites del espacio urbano y la selva.
-  Mapeo de hitos urbanos y naturales que la comunidad utiliza como referencia para su gestión territorial.
-  Mapeo de sendas, caminos vecinales y otros circuitos de uso comunitario, fuentes de agua, torre de energía, áreas de abastecimiento, salud, postas u otros lugares de conexión.
-  Se realizaron cuatro sesiones de trabajo con estudiantes de la “Unidad Educativa Tumupasa B”, y una sesión con un equipo de técnicos pertenecientes al CIPTA.
-  Se firmaron acuerdos de coordinación con el CIPTA y el CIMTA.
+Entre los resultados obtenidos por el proyecto se puede mencionar:
 
-En el informe final del proyecto IB menciona:
+* Mejora de la información del mapa respecto a sitios, actores y lugares de interés para la gestión social de la comunidad de Tumupasa.
 
-Este trabajo se ha convertido en una alianza estratégica fundamental, ya que nos permite seguir en contacto y colaborando activamente con las autoridades locales de Tumupasa. La unidad educativa, por ejemplo, ha solicitado continuar con más talleres y extender el trabajo a otros cursos, y estamos explorando cómo hacerlo posible. Por otro lado, la capacitación que se brindó al personal técnico del Consejo Indígena surgió de una iniciativa propia del Consejo, no como una solicitud externa, lo que demuestra cómo han identificado por sí mismos la utilidad e importancia de recolectar datos georreferenciados en campo.
+* Mejora de la Identificación de los límites del espacio urbano y la selva.
+
+* Mapeo de hitos urbanos y naturales que la comunidad utiliza como referencia para su gestión territorial.
+
+* Mapeo de sendas, caminos vecinales y otros circuitos de uso comunitario, fuentes de agua, torre de energía, áreas de abastecimiento, salud, postas u otros lugares de conexión.
+
+* Se realizaron cuatro sesiones de trabajo con estudiantes de la “Unidad Educativa Tumupasa B”, y una sesión con un equipo de técnicos pertenecientes al CIPTA.
+
+* Se firmaron acuerdos de coordinación con el CIPTA y el CIMTA.
+
+En el informe final del proyecto, Internet Bolivia menciona:
+
+> Este trabajo se ha convertido en una alianza estratégica fundamental, ya que nos permite seguir en contacto y colaborando activamente con las autoridades locales de Tumupasa. La unidad educativa, por ejemplo, ha solicitado continuar con más talleres y extender el trabajo a otros cursos, y estamos explorando cómo hacerlo posible. Por otro lado, la capacitación que se brindó al personal técnico del Consejo Indígena surgió de una iniciativa propia del Consejo, no como una solicitud externa, lo que demuestra cómo han identificado por sí mismos la utilidad e importancia de recolectar datos georreferenciados en campo.
 
 El mapa de Tumupasa antes y después de la ejecución del proyecto
 
@@ -49,8 +55,8 @@ Este 2025 será clave continuar con los procesos de capacitación en mapeo colab
 
 * Es fundamental crear más espacios formativos para consolidar un grupo de mapeadores que pueda sostener los proyectos de mapeo a largo plazo.
 
-Como ya se mencionó, el objetivo de esta y otras iniciativas en la Amazonia, es ampliar el alcance de nuestro programa de mapeo amazónico, pero también colaborar con aliados locales que cuentan con actividades ya establecidas en comunidades amazónicas, con cierta base regular de aliados propios en la zona, para de esta manera apoyar la consecución de sus propios objetivos. Un tercer objetivo es construir capacidades en las comunidades locales, con un conocimiento técnico de lo geoespacial que de otra forma no llegaría a estas regiones apartadas y que en el futuro pueda ser aprovechado por y para otros proyectos.
+Como ya se mencionó, el objetivo de esta y otras iniciativas en la Amazonía, es ampliar el alcance de nuestro programa de [mapeo amazónico](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/), pero también colaborar con aliados locales que cuentan con actividades ya establecidas en comunidades amazónicas, con cierta base regular de aliados propios en la zona, para de esta manera apoyar la consecución de sus propios objetivos. Un tercer objetivo es construir capacidades en las comunidades locales, con un conocimiento técnico de lo geoespacial que de otra forma no llegaría a estas regiones apartadas y que en el futuro pueda ser aprovechado por y para otros proyectos.
 
-Hacemos entonces un llamado, tanto a organizaciones interesadas en trabajar en la Amazonia como a las que ya se encuentran trabajando en dicha región, a explorar juntos las posibilidades de colaborar en proyectos como este y otros que tenemos en cartera. Las herramientas digitales basadas en OpenStreetMap que HOT ha desarrollado pueden generar mapas que sirvan de ayuda a la protección de bosques, a la gestión forestal, a visibilizar comunidades, etc. y ser un apoyo eficaz e integrador para la consecución de los objetivos de diversos tipos de proyectos y organizaciones.
+Hacemos entonces un llamado, tanto a organizaciones interesadas en trabajar en la Amazonía como a las que ya se encuentran trabajando en dicha región, a explorar juntos las posibilidades de colaborar en proyectos como este y otros que tenemos en cartera. Las herramientas digitales basadas en OpenStreetMap que HOT ha desarrollado pueden generar mapas que sirvan de ayuda a la protección de bosques, a la gestión forestal, a visibilizar comunidades, etc. y ser un apoyo eficaz e integrador para la consecución de los objetivos de diversos tipos de proyectos y organizaciones.
 
-* Para la elaboración de este post se han utilizado datos del Informe final del proyecto “Mapeo Participativo para la descripción del Distrito Municipal Tumupasa” redactado por la Fundación Internet Bolivia.
+\**Para la elaboración de este post se han utilizado datos del Informe final del proyecto “Mapeo Participativo para la descripción del Distrito Municipal Tumupasa” redactado por la Fundación Internet Bolivia.*
