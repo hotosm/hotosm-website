@@ -1,6 +1,18 @@
 ---
 title: Post amazonia Bolivia
 date: 2025-01-30 04:01:00 Z
+categories:
+- projects
+tags:
+- LATAM
+- Bolivia
+- amazonia
+- comunidad
+Summary Text: Junto a la Fundación Internet Bolivia, HOT llevo a cabo un proyecto
+  para mapear la comunidad Tacana de Tumupasa en la región amazónica de Bolivia.  Entérese
+  del impacto que se logró en la comunidad y las posibilidades de cooperación que
+  han quedado abiertas.
+Person: Juan Arellano Valdivia
 ---
 
 No se suele pensar en Bolivia como un país perteneciente a la Amazonía, sin embargo un [25% del territorio boliviano](https://es.wikipedia.org/wiki/Amazon%C3%ADa_de_Bolivia#Definici%C3%B3n) es amazónico. La Amazonía boliviana se sitúa al norte y oeste del país y es hogar de los pueblos indígenas Tacana, Leco, Esse Eja, Yaminahua, Machineri, y varios otros. Estos pueblos tienen un acceso precario a los servicios públicos y sus derechos suelen ser vulnerados con demasiada frecuencia, sin embargo estas nacionalidades indígenas y comunidades locales tienen un rol fundamental en la gestión sustentable y defensa de los ecosistemas amazónicos.
@@ -45,7 +57,7 @@ En el informe final del proyecto, Internet Bolivia menciona:
 
 > Este trabajo se ha convertido en una alianza estratégica fundamental, ya que nos permite seguir en contacto y colaborando activamente con las autoridades locales de Tumupasa. La unidad educativa, por ejemplo, ha solicitado continuar con más talleres y extender el trabajo a otros cursos, y estamos explorando cómo hacerlo posible. Por otro lado, la capacitación que se brindó al personal técnico del Consejo Indígena surgió de una iniciativa propia del Consejo, no como una solicitud externa, lo que demuestra cómo han identificado por sí mismos la utilidad e importancia de recolectar datos georreferenciados en campo.
 
-El mapa de Tumupasa antes y después de la ejecución del proyecto
+![Tumupasaad.jpg](/uploads/Tumupasaad.jpg)*El mapa de Tumupasa antes y después de la ejecución del proyecto*
 
 Este 2025 será clave continuar con los procesos de capacitación en mapeo colaborativo en esta y otras regiones de la Amazonía boliviana, priorizando aquellas con alta vulnerabilidad a desastres naturales. Hay oportunidades a explorar y a aprovechar, como por ejemplo:
 
