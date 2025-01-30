@@ -1,6 +1,10 @@
 ---
 title: Post Amazonia Peru
 date: 2025-01-30 15:20:00 Z
+Summary Text: Junto a la Fundación Internet Bolivia, HOT llevo a cabo un proyecto
+  para mapear la comunidad Tacana de Tumupasa en la región amazónica de Bolivia.  Entérese
+  del impacto que se logró en la comunidad y las posibilidades de cooperación que
+  han quedado abiertas.
 ---
 
 La Amazonía en Perú, al igual -o quizás más- que en otros países, experimenta una problemática compleja que afecta a los pueblos y comunidades que la habitan. Según el Centro Amazónico de Antropología y Aplicación Práctica (CAAAP), en base a consultas hechas a las propias comunidades amazónicas, las [principales amenazas](https://caaap.org.pe/amazonia-peruana/principales-problematicas/) son:
@@ -31,26 +35,36 @@ A pesar de todos estos contratiempos se lograron algunos impactos importantes:
 
 * Brindar los conocimientos básicos a los participantes del taller en el uso de herramientas como ID Editor, Tasking Manager y StreetComplete.
 
-También debe resaltarse la construcción de oportunidades que deben explorarse y concretarse en un futuro próximo, requiriendo acompañamiento y transición de nuestra parte. A saber:
+También debe resaltarse la construcción de oportunidades que deben explorarse y concretarse en un futuro próximo, requiriendo acompañamiento de nuestra parte. A saber:
+
 * La integración, a modo de piloto, de un curso sobre cartografía colaborativa en el marco de la alfabetización digital como parte de la currícula regular del ISPPB.
+
 * El interés institucional en continuar con la dinámica extracurricular del Curso realizado, afirmando las capacidades logradas por los primeros participantes y ampliando la convocatoria a más personas en el espacio académico.
+
 * El interés expreso del equipo técnico de la organización indígena local: Comunidad Nativa Shipibo – Konibo Santa Clara, para establecer un curso dirigido exclusivamente a sus equipos técnicos para el trabajo de recolección colaborativa de datos georeferenciados en campo.
+
 * La posibilidad de realizar un curso o taller sobre recolección colaborativa de datos georeferenciados con una red de atención pública de salud en las regiones Ucayali y Loreto, con especial interés en la cuestión de atención primaria de salud y particularidad étnica.
+
 * La solicitud de parte de las autoridades de una comunidad indígena de asistirles técnicamente como peritos para la creación de datos georeferenciados en su proceso de titulación territorial. Este ejercicio en particular articula a 2 comunidades indígenas y un caserío.
+
 * El mapeo coordinado de la red de comunidades indígenas Huni kuin, en la región de Purús, especialmente importante ya que es una de las comunidades más lejanas desde los centros de administración pública en Perú. En estas regiones se encuentran las comunidades más expuestas a situaciones de pobreza monetaria y de vulnerabilidad sanitaria y social.
 
-Como ya se mencionó, el objetivo de esta y otras iniciativas en la Amazonía, es ampliar el alcance de nuestro programa de mapeo amazónico, pero también colaborar con aliados locales que cuentan con actividades ya establecidas en comunidades amazónicas, con cierta base regular de aliados propios en la zona, para de esta manera apoyar la consecución de sus propios objetivos. Un tercer objetivo es construir capacidades en las comunidades locales, con un conocimiento técnico de lo geoespacial que de otra forma no llegaría a estas regiones apartadas y que en el futuro pueda ser aprovechado por y para otros proyectos.
-
-Hacemos pues un llamado, tanto a organizaciones interesadas en trabajar en la Amazonía como a las que ya se encuentran trabajando en dicha región, a explorar juntos las posibilidades de colaborar este 2025 en proyectos como este y otros que tenemos en cartera, buscando la adaptación de enfoques basados en mapeo colaborativo y uso de tecnologías abiertas y gratuitas, culturalmente pertinente, empoderando comunidades locales a través de su manejo autónomo de datos. El mapeo abierto y las herramientas digitales OSM pueden ser un apoyo eficaz e integrador para la consecución de los objetivos de diversos tipos de proyectos y organizaciones.
-
-Enlaces de interés:
-Mapa del Instituto Superior Público Pedagógico Bilingüe de Yarinacocha
-Maqueta digital 3D del Mapa del Instituto Superior Público Pedagógico Bilingüe de Yarinacocha
-Recorrido fotográfico en Mapillary del Instituto Superior Público Pedagógico Bilingüe de Yarinacocha
-Mapa de la Comunidad Nativa Shipibo Konibo de Santa Clara en Yarinacocha
-Maqueta digital 3D de la Comunidad Nativa Shipibo Konibo de Santa Clara en Yarinacocha
-Recorrido fotográfico en Mapillary de la Comunidad Nativa Shipibo Konibo de Santa Clara en Yarinacocha
-
-\**Para la elaboración de este post se han utilizado datos del Informe final del proyecto “Introducción a la cartografía socioambiental colaborativa en la amazonía” redactado por el Mg. Johnattan Rupire.*
+Como ya se mencionó, el objetivo de esta y otras iniciativas en la Amazonía, es ampliar el alcance de nuestro programa de [mapeo amazónico](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/), pero también colaborar con aliados locales que cuentan con actividades ya establecidas en comunidades amazónicas, con cierta base regular de aliados propios en la zona, para de esta manera apoyar la consecución de sus propios objetivos. Un tercer objetivo es construir capacidades en las comunidades locales, con un conocimiento técnico de lo geoespacial que de otra forma no llegaría a estas regiones apartadas y que en el futuro pueda ser aprovechado por y para otros proyectos.
 
 Hacemos entonces un llamado, tanto a organizaciones interesadas en trabajar en la Amazonía como a las que ya se encuentran trabajando en dicha región, a explorar juntos las posibilidades de colaborar en proyectos como este y otros que tenemos en cartera. Las herramientas digitales basadas en OpenStreetMap que HOT ha desarrollado pueden generar mapas que sirvan de ayuda a la protección de bosques, a la gestión forestal, a visibilizar comunidades, etc. y ser un apoyo eficaz e integrador para la consecución de los objetivos de diversos tipos de proyectos y organizaciones.
+
+**Enlaces de interés:**
+
+[Mapa del Instituto Superior Público Pedagógico Bilingüe de Yarinacocha](https://www.openstreetmap.org/#map=17/-8.34893/-74.58754)
+
+[Maqueta digital 3D del Mapa del Instituto Superior Público Pedagógico Bilingüe de Yarinacocha](https://demo.f4map.com/?ref=upstract.com#lat=-8.3493546&lon=-74.5866689&zoom=18&camera.theta=79.141&camera.phi=-15.355&ref=upstract.com)
+
+[Recorrido fotográfico en Mapillary del Instituto Superior Público Pedagógico Bilingüe de Yarinacocha](https://www.mapillary.com/app/?lat=-8.349374461731259&lng=-74.58703936405391&z=16.81996841097124)
+
+[Mapa de la Comunidad Nativa Shipibo Konibo de Santa Clara en Yarinacocha](https://www.openstreetmap.org/#map=17/-8.27021/-74.64884)
+
+[Maqueta digital 3D de la Comunidad Nativa Shipibo Konibo de Santa Clara en Yarinacocha](https://demo.f4map.com/?ref=upstract.com#lat=-8.2704484&lon=-74.6491467&zoom=18&camera.theta=76.513&camera.phi=-36.096&ref=upstract.com)
+
+[Recorrido fotográfico en Mapillary de la Comunidad Nativa Shipibo Konibo de Santa Clara en Yarinacocha](https://www.mapillary.com/app/?lat=-8.270689946298091&lng=-74.64918504193787&z=15.578627581421534)
+
+\**Para la elaboración de este post se han utilizado datos del Informe final del proyecto “Introducción a la cartografía socioambiental colaborativa en la amazonía” redactado por el Mg. Johnattan Rupire.*
