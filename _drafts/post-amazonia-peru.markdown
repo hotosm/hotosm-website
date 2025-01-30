@@ -1,10 +1,18 @@
 ---
 title: Post Amazonia Peru
 date: 2025-01-30 15:20:00 Z
-Summary Text: Junto a la Fundación Internet Bolivia, HOT llevo a cabo un proyecto
-  para mapear la comunidad Tacana de Tumupasa en la región amazónica de Bolivia.  Entérese
-  del impacto que se logró en la comunidad y las posibilidades de cooperación que
-  han quedado abiertas.
+categories:
+- projects
+tags:
+- LATAM
+- comunidad
+- amazonia
+- Peru
+Summary Text: Junto a OpenStreetMap Perú, HOT llevo a cabo un proyecto para mapear
+  territorios bajo amenaza con miembros de la Comunidad Nativa Shipibo – Konibo en
+  la Amazonía peruana.  Entérese del impacto que se logró en la comunidad y las posibilidades
+  de cooperación que han quedado abiertas.
+Person: Juan Arellano Valdivia
 ---
 
 La Amazonía en Perú, al igual -o quizás más- que en otros países, experimenta una problemática compleja que afecta a los pueblos y comunidades que la habitan. Según el Centro Amazónico de Antropología y Aplicación Práctica (CAAAP), en base a consultas hechas a las propias comunidades amazónicas, las [principales amenazas](https://caaap.org.pe/amazonia-peruana/principales-problematicas/) son:
