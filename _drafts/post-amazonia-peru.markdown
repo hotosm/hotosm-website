@@ -13,7 +13,7 @@ Como parte del interés en que nuestro programa de [mapeo amazónico](https://ww
 
 Taller en el ISPPB. Mapa del ISPPB en OSM. Participantes del taller en bote rumbo a mapear una comunidad.
 
-> A lo largo de 10 sesiones, exploraremos los fundamentos teóricos y prácticos de la cartografía socioambiental colaborativa, propiciando que las y los participantes adquieran desde la práctica y la creación de representaciones cartográfica, las habilidades esenciales para involucrar a sus comunidades en la gestión ecológica sostenible del territorio.
+> A lo largo de 10 sesiones, exploraremos los fundamentos teóricos y prácticos de la cartografía socioambiental colaborativa, propiciando que las y los participantes adquieran desde la práctica y la creación de representaciones cartográfica, las habilidades esenciales para involucrar a sus comunidades en la gestión ecológica sostenible del territorio. ...  contribuir a la gestión comunitaria responsable de sus territorios a través de su incidencia en los tomadores de decisiones.
 
 La implementación de este taller sin embargo planteó retos importantes puesto que se hizo evidente el desequilibrio existente en la formación y familiaridad con tecnologías entre los participantes inscritos, por ejemplo, entre los estudiantes y líderes indígenas y los miembros de equipos técnicos de agencias públicas u ONG locales y especialistas en el uso de tecnologías GIS. Debido a esta brecha tecnológica existente se decidió ampliar una dinámica formativa considerada a inicios del taller, llamada “Yachay tech”, para impartir conocimientos básicos sobre uso de celulares, computadoras y utilización de herramientas como el correo electrónico y apps indispensables.
 
