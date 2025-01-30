@@ -2,7 +2,6 @@
 title: Open Mapping Hub - Eastern and Southern Africa
 date: 2023-06-30 02:34:00 Z
 permalink: "/hubs/open-mapping-hub-eastern-and-southern-africa/"
-published: false
 Page Contact:
   Label: Contact us!
   Contact Email: esahub@hotosm.org
