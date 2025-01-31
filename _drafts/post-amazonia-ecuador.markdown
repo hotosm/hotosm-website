@@ -7,6 +7,12 @@ tags:
 - LATAM
 - Ecuador
 - comunidad
+- amazonia
+Summary Text: Junto a la Fundación OpenLab, HOT llevo a cabo un proyecto de capacitación
+  en mapeo abierto en las ciudades de Nueva Loja, Archidona, Puyo, Tena y Macas, en
+  la región amazónica de Ecuador.  Entérese del impacto que se logró y las posibilidades
+  de cooperación que han quedado abiertas.
+Person: Juan Arellano Valdivia
 ---
 
 Nuestro objetivo con esta y otras iniciativas en la región es ampliar el alcance del programa de [mapeo amazónico](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/), para lo cual convocamos desde ya, tanto a organizaciones interesadas en trabajar en la Amazonía como a las que ya se encuentran trabajando en dicha región, a explorar juntos las posibilidades de colaborar en la consecución de objetivos comunes. De esta forma seguiremos construyendo capacidades en las comunidades locales, con un conocimiento técnico de lo geoespacial que de otra forma no llegaría a estas regiones apartadas y que en el futuro pueda ser aprovechado por y para otros proyectos.
