@@ -1,6 +1,12 @@
 ---
 title: Post Amazonia Ecuador
 date: 2025-01-30 23:51:00 Z
+categories:
+- projects
+tags:
+- LATAM
+- Ecuador
+- comunidad
 ---
 
 Nuestro objetivo con esta y otras iniciativas en la región es ampliar el alcance del programa de [mapeo amazónico](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/), para lo cual convocamos desde ya, tanto a organizaciones interesadas en trabajar en la Amazonía como a las que ya se encuentran trabajando en dicha región, a explorar juntos las posibilidades de colaborar en la consecución de objetivos comunes. De esta forma seguiremos construyendo capacidades en las comunidades locales, con un conocimiento técnico de lo geoespacial que de otra forma no llegaría a estas regiones apartadas y que en el futuro pueda ser aprovechado por y para otros proyectos.
