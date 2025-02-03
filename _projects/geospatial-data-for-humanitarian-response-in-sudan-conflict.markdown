@@ -28,7 +28,6 @@ Tools:
 ---
 
 ---
-
 <div>
   <h2>Table of Contents</h2>
   <ol style="color: black;">
@@ -38,12 +37,12 @@ Tools:
     <li><a href="#participatory-mapping-to-leverage-local-knowledge" style="color: black;">Participatory Mapping to Leverage Local Knowledge</a></li>
     <li><a href="#innovative-tools-for-data-consolidation" style="color: black;">Innovative Tools for Data Consolidation</a></li>
     <li><a href="#building-trust-through-ethical-mapping" style="color: black;">Building Trust Through Ethical Mapping</a></li>
+    <li><a href="#data-access-and-use" style="color: black;">Data Access and Use</a></li>
     <li><a href="#whats-next-upcoming-work-and-focus-areas" style="color: black;">What’s Next? Upcoming Work and Focus Areas</a></li>
     <li><a href="#conclusion" style="color: black;">Conclusion</a></li>
     <li><a href="#get-involved" style="color: black;">Get Involved</a></li>
   </ol>
 </div>
-
 
 ---
 
@@ -199,6 +198,23 @@ Recognizing the sensitivity of mapping in conflict zones, HOT has implemented a 
 - Restricting access to potentially sensitive datasets.
 
 By adhering to these principles, HOT ensures that the mapping process supports humanitarian goals without compromising the safety of contributors or the communities they aim to help. For more information check [HOT's data principles](https://www.hotosm.org/tools-and-data/data-principles/)
+
+## Data Access and Use
+
+OpenStreetMap data can be downloaded from HDX at a country-wide level. Scroll through this filtered HDX list to access OSM data for Sudan. You can choose the following categories:
+- **[Roads](https://data.humdata.org/dataset/hotosm_sdn_roads)**
+- **[Buildings](https://data.humdata.org/dataset/hotosm_sdn_buildings)**
+- **[Waterways](https://data.humdata.org/dataset/hotosm_sdn_waterways)**
+- **[Railways](https://data.humdata.org/dataset/hotosm_sdn_railways)**
+- **[Health Facilities](https://data.humdata.org/dataset/hotosm_sdn_health_facilities)**
+- **[Financial Services](https://data.humdata.org/dataset/hotosm_sdn_financial_services)**
+- **[Populated Places](https://data.humdata.org/dataset/hotosm_sdn_populated_places)**
+- **[Education Facilities](https://data.humdata.org/dataset/hotosm_sdn_education_facilities)**
+- **[Sea Ports](https://data.humdata.org/dataset/hotosm_sdn_sea_ports)**
+- **[Airports](https://data.humdata.org/dataset/hotosm_sdn_airports)**
+- **[Points of Interest](https://data.humdata.org/dataset/hotosm_sdn_points_of_interest)**
+
+You can also create your own export using the [HOT Export Tool](https://export.hotosm.org/v3/exports/new/describe), an open service that creates customized extracts of up-to-date OSM data in various file formats.
 
 ## What’s Next? Upcoming Work and Focus Areas
 
