@@ -5,13 +5,13 @@ Photo: https://cdn.hotosm.org/website/IMG_1718(1).jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true
-Job Title: Corporate Partnerships Lead
+Job Title: Tech Lead for Partner Engagement
 Country: Germany, Hamburg
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Nicolelaine
 ---
 
-Nicole is the Corporate Partnerships Lead on the Fundraising team. While officially joining the HOT team in 2022, she’s been an active volunteer for a number of years, including in the Community Working Group, and as a volunteer/trainer with Missing Maps London. She is a total map nerd and loves public transportation maps the best.
+Nicole is the Tech Lead for Partner Engagement on HOT’s tech team. While officially joining the HOT team in 2022, she’s been an active volunteer for a number of years, including in the Community Working Group, and as a volunteer/trainer with Missing Maps London. She is a total map nerd and loves public transportation maps the best.
 
 In her spare time, she can be found knitting, hiking, going to art museums and film festivals, and hanging out with her beloved dog, Yuki. She currently lives in Hamburg, Germany.
