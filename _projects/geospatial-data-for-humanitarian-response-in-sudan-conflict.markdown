@@ -193,8 +193,12 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
             font-family: Arial, sans-serif;
         }
         #chartContainer {
+            display: flex;              /* Use flexbox */
+            justify-content: center;    /* Center horizontally */
+            align-items: center;        /* Center vertically (optional) */
             max-width: 800px;
             margin: 0 auto;
+            height: 100vh;             /* Optional: Set height to fill the viewport */
         }
         #confidenceChart {
             width: 60% !important; /* Set width to 40% */
@@ -267,27 +271,15 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
         }
     });
 </script>
-</body>
-</html>
 <div style="text-align: center;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         This chart shows the distribution of buildings in the Overture dataset by confidence level. The confidence levels are color-coded, with red and orange highlighting the highest confidence intervals. Percentages are displayed on the chart.
     </div>
 </div>
 <br>
+</body>
+</html>
 
-## The Role of the Sudanese Diaspora
-The Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive. Together, we are fostering an OSM community for Sudan by connecting Sudanese with HOT staff and global OSM expert volunteers.
-
-<br>
-<br>
-<div style="text-align: center;">
-    <img src="/uploads/sudan-training-2025.jpeg" alt="Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
-    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Two-day OpenStreetMap training with Sudanese refugees in Kampala in 2025. Participants explored different open source mapping tools, and learned about basic concepts Geographic Information Systems(GIS) concepts.
-    </div>
-</div>
-<br>
 <br>
 
 ---
