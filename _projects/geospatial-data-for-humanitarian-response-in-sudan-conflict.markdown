@@ -208,7 +208,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
     // Register the datalabels plugin
     Chart.register(ChartDataLabels);
 
-    const data = {
+    const confidenceData = {
         labels: ['0.9+', '0.81 - 0.9', '0.71 - 0.8', '0.61 - 0.7', 'NA'],
         datasets: [{
             data: [4607635, 4669182, 8570290, 3553592, 4447117],
@@ -223,12 +223,12 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
         }]
     };
 
-    const total = data.datasets[0].data.reduce((a, b) => a + b, 0); // Calculate total for percentages
+    const total = confidenceData.datasets[0].data.reduce((a, b) => a + b, 0); // Calculate total for percentages
 
     const ctx = document.getElementById('confidenceChart').getContext('2d');
     const confidenceChart = new Chart(ctx, {
         type: 'doughnut',
-        data: data,
+        data: confidenceData,
         options: {
             responsive: true,
             plugins: {
@@ -271,6 +271,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
     </div>
 </div>
 <br>
+
 
 ## The Role of the Sudanese Diaspora
 The Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive. Together, we are fostering an OSM community for Sudan by connecting Sudanese with HOT staff and global OSM expert volunteers.
