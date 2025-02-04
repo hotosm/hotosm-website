@@ -197,7 +197,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
             margin: 0 auto;
         }
         #confidenceChart {
-            width: 40% !important; /* Set width to 40% */
+            width: 70% !important; /* Set width to 40% */
             height: auto !important; /* Maintain aspect ratio */
         }
     </style>
@@ -275,9 +275,6 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
     </div>
 </div>
 <br>
-
-<br>
-
 
 ## The Role of the Sudanese Diaspora
 The Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive. Together, we are fostering an OSM community for Sudan by connecting Sudanese with HOT staff and global OSM expert volunteers.
