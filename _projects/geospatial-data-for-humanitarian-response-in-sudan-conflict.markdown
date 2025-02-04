@@ -99,7 +99,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
     const data = [
         { label: 'OSM', value: 1476231 },
         { label: 'Microsoft', value: 10313711 },
-        { label: 'Overture', value: 25848372 },
+        { label: 'Overture', value: 25848372, components: { osm: 1529984, microsoft: 7295229, google: 17023159 } },
         { label: 'Google', value: 26619729 }
     ];
 
@@ -113,14 +113,22 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
             labels: data.map(item => item.label),
             datasets: [
                 {
-                    label: 'OSM Total Buildings',
-                    data: data.map(item => (item.label === 'OSM' ? item.value : null)),
+                    label: 'OSM',
+                    data: data.map(item => (item.label === 'OSM' ? item.value : (item.label === 'Overture' ? item.components.osm : 0))),
                     backgroundColor: '#8ED587',
+                    stack: 'Stack 0'
                 },
                 {
-                    label: 'Other Datasets Total Buildings',
-                    data: data.map(item => (item.label !== 'OSM' ? item.value : null)),
-                    backgroundColor: 'lightgray',
+                    label: 'Microsoft',
+                    data: data.map(item => (item.label === 'Microsoft' ? item.value : (item.label === 'Overture' ? item.components.microsoft : 0))),
+                    backgroundColor: '#FFA500',
+                    stack: 'Stack 0'
+                },
+                {
+                    label: 'Google',
+                    data: data.map(item => (item.label === 'Google' ? item.value : (item.label === 'Overture' ? item.components.google : 0))),
+                    backgroundColor: '#87CEEB',
+                    stack: 'Stack 0'
                 }
             ]
         },
@@ -141,6 +149,24 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
                     display: true,
                     text: 'Datasets Buildings Count by Source',
                     font: { size: 18 }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            const label = context.dataset.label || '';
+                            const value = context.raw || 0;
+                            const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                            if (context.dataset.label === 'OSM' && context.label === 'Overture') {
+                                return `OSM: ${context.raw.toLocaleString()} (Total: ${context.dataset.data[2].toLocaleString()})`;
+                            } else if (context.dataset.label === 'Microsoft' && context.label === 'Overture') {
+                                return `Microsoft: ${context.raw.toLocaleString()} (Total: ${context.dataset.data[2].toLocaleString()})`;
+                            } else if (context.dataset.label === 'Google' && context.label === 'Overture') {
+                                return `Google: ${context.raw.toLocaleString()} (Total: ${context.dataset.data[2].toLocaleString()})`;
+                            } else {
+                                return `${label}: ${value.toLocaleString()}`;
+                            }
+                        }
+                    }
                 }
             }
         }
