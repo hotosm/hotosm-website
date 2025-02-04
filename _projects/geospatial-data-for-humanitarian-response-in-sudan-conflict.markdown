@@ -181,6 +181,94 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 </div>
 
 <br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overture by Confidence Level</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #chartContainer {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+
+<div id="chartContainer">
+    <canvas id="confidenceChart"></canvas>
+</div>
+
+<script>
+    const data = {
+        labels: ['0.9+', '0.81 - 0.9', '0.71 - 0.8', '0.61 - 0.7', 'NA'],
+        datasets: [{
+            data: [4607635, 4669182, 8570290, 3553592, 4447117],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.8)', // Red for 0.9+
+                'rgba(255, 159, 64, 0.8)', // Orange for 0.81 - 0.9
+                'rgba(211, 211, 211, 0.6)', // Soft Grey for 0.71 - 0.8
+                'rgba(211, 211, 211, 0.4)', // Softer Grey for 0.61 - 0.7
+                'rgba(211, 211, 211, 0.2)'  // Lightest Grey for NA
+            ],
+            borderWidth: 1
+        }]
+    };
+
+    const total = data.datasets[0].data.reduce((a, b) => a + b, 0); // Calculate total for percentages
+
+    const ctx = document.getElementById('confidenceChart').getContext('2d');
+    const confidenceChart = new Chart(ctx, {
+        type: 'doughnut',
+        data: data,
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Overture by Confidence Level',
+                    font: { size: 18 }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            const label = context.label || '';
+                            const value = context.raw || 0;
+                            const percentage = ((value / total) * 100).toFixed(2) + '%';
+                            return `${label}: ${value.toLocaleString()} (${percentage})`;
+                        }
+                    }
+                },
+                datalabels: {
+                    display: true,
+                    color: '#000',
+                    formatter: (value) => {
+                        const percentage = ((value / total) * 100).toFixed(2) + '%';
+                        return percentage;
+                    },
+                    font: {
+                        weight: 'bold',
+                        size: 14
+                    }
+                }
+            }
+        }
+    });
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+</body>
+</html>
+<div style="text-align: center;">
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        This chart shows the distribution of buildings in the Overture dataset by confidence level. The confidence levels are color-coded, with red and orange highlighting the highest confidence intervals. Percentages are displayed on the chart.
+    </div>
+</div>
+<br>
 
 ## The Role of the Sudanese Diaspora
 The Sudanese diaspora plays a crucial role. Members of these communities possess intimate knowledge of cultural landmarks, traditional names, and the intricate socio-political dynamics of their regions of origin. HOT’s project aims to amplify these voices, integrating their knowledge into the mapping process to create datasets that are both accurate and culturally sensitive. Together, we are fostering an OSM community for Sudan by connecting Sudanese with HOT staff and global OSM expert volunteers.
