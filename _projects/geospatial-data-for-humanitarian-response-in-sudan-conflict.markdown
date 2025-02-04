@@ -197,7 +197,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
             margin: 0 auto;
         }
         #confidenceChart {
-            width: 70% !important; /* Set width to 40% */
+            width: 60% !important; /* Set width to 40% */
             height: auto !important; /* Maintain aspect ratio */
         }
     </style>
