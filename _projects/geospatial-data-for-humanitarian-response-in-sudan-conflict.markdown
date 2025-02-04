@@ -225,8 +225,8 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 
     const total = confidenceData.datasets[0].data.reduce((a, b) => a + b, 0); // Calculate total for percentages
 
-    const ctx = document.getElementById('confidenceChart').getContext('2d');
-    const confidenceChart = new Chart(ctx, {
+    const confidenceCtx = document.getElementById('confidenceChart').getContext('2d');
+    const confidenceChart = new Chart(confidenceCtx, {
         type: 'doughnut',
         data: confidenceData,
         options: {
