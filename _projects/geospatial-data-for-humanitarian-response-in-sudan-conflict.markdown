@@ -187,6 +187,7 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Overture by Confidence Level</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -204,6 +205,9 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 </div>
 
 <script>
+    // Register the datalabels plugin
+    Chart.register(ChartDataLabels);
+
     const data = {
         labels: ['0.9+', '0.81 - 0.9', '0.71 - 0.8', '0.61 - 0.7', 'NA'],
         datasets: [{
@@ -259,7 +263,6 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
         }
     });
 </script>
-<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
 </body>
 </html>
 <div style="text-align: center;">
