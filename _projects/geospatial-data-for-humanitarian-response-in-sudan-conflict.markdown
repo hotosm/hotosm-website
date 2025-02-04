@@ -181,7 +181,6 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 </div>
 
 <br>
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
