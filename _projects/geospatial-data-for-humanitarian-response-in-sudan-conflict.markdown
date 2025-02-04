@@ -196,6 +196,10 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
             max-width: 800px;
             margin: 0 auto;
         }
+        #confidenceChart {
+            width: 40% !important; /* Set width to 40% */
+            height: auto !important; /* Maintain aspect ratio */
+        }
     </style>
 </head>
 <body>
@@ -270,6 +274,8 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
         This chart shows the distribution of buildings in the Overture dataset by confidence level. The confidence levels are color-coded, with red and orange highlighting the highest confidence intervals. Percentages are displayed on the chart.
     </div>
 </div>
+<br>
+
 <br>
 
 
