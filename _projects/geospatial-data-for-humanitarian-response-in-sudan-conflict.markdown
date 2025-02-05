@@ -67,12 +67,9 @@ Beyond the physical terrain, another critical dimension is often overlooked: **c
 <iframe width="120%" height="610px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/en/map/sudan-completeness-map_84?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/en/map/sudan-completeness-map_84?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">See full screen</a></p>
 <div style="text-align: center;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Interactive map depicting OSM completness based on AI estimates by <a href="https://www.kontur.io/solutions/disaster-ninja/">Kontur</a>. These numbers are a rough guide on completness, and are only used to drive inform the priority areas for mapping. Additional layer called "confidence_null_buildings" shows the total sum of buildings with no confidence in Overture data. 
+        Interactive map depicting Data Gaps and OSM completness based on AI estimates by <a href="https://www.kontur.io/solutions/disaster-ninja/">Kontur</a>. These numbers are a rough guide on completness, and are only used to drive inform the priority areas for mapping. Additional layer called "confidence_null_buildings" shows the total sum of buildings with no confidence in Overture data. 
     </div>
 </div>
-
-
-<iframe width="120%" height="610px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/en/map/sudan-completeness-map_84?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/en/map/sudan-completeness-map_84?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">See full screen</a></p>
 
 <br>
 <br>
