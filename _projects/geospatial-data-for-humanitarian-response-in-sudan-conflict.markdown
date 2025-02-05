@@ -322,17 +322,17 @@ By adhering to these principles, HOT ensures that the mapping process supports h
 ## Data Access and Use
 
 Country level data OSM data can be downloaded from HDX. Scroll through this [filtered HDX list](https://data.humdata.org/organization/hot?groups=sdn&q=&sort=last_modified%20desc&ext_page_size=25) or choose from the categories bellow to visit a specific dataset:
-- **[Roads](https://data.humdata.org/dataset/hotosm_sdn_roads)**
-- **[Buildings](https://data.humdata.org/dataset/hotosm_sdn_buildings)**
-- **[Waterways](https://data.humdata.org/dataset/hotosm_sdn_waterways)**
-- **[Railways](https://data.humdata.org/dataset/hotosm_sdn_railways)**
-- **[Health Facilities](https://data.humdata.org/dataset/hotosm_sdn_health_facilities)**
-- **[Financial Services](https://data.humdata.org/dataset/hotosm_sdn_financial_services)**
-- **[Populated Places](https://data.humdata.org/dataset/hotosm_sdn_populated_places)**
-- **[Education Facilities](https://data.humdata.org/dataset/hotosm_sdn_education_facilities)**
-- **[Sea Ports](https://data.humdata.org/dataset/hotosm_sdn_sea_ports)**
-- **[Airports](https://data.humdata.org/dataset/hotosm_sdn_airports)**
-- **[Points of Interest](https://data.humdata.org/dataset/hotosm_sdn_points_of_interest)**
+- [Roads](https://data.humdata.org/dataset/hotosm_sdn_roads)
+- [Buildings](https://data.humdata.org/dataset/hotosm_sdn_buildings)
+- [Waterways](https://data.humdata.org/dataset/hotosm_sdn_waterways)
+- [Railways](https://data.humdata.org/dataset/hotosm_sdn_railways)
+- [Health Facilities](https://data.humdata.org/dataset/hotosm_sdn_health_facilities)
+- [Financial Services](https://data.humdata.org/dataset/hotosm_sdn_financial_services)
+- [Populated Places](https://data.humdata.org/dataset/hotosm_sdn_populated_places)
+- [Education Facilities](https://data.humdata.org/dataset/hotosm_sdn_education_facilities)
+- [Sea Ports](https://data.humdata.org/dataset/hotosm_sdn_sea_ports)
+- [Airports](https://data.humdata.org/dataset/hotosm_sdn_airports)
+- [Points of Interest](https://data.humdata.org/dataset/hotosm_sdn_points_of_interest)
 
 ### Download based on areas of interest
 Downloads based on areas where HOT and partners have improved the data through Tasking Manager Projects:
