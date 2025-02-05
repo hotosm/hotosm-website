@@ -335,7 +335,7 @@ Country level data OSM data can be downloaded from HDX. Scroll through this [fil
 - **[Points of Interest](https://data.humdata.org/dataset/hotosm_sdn_points_of_interest)**
 
 <br>
-**Download based on areas of interest** 
+### Download based on areas of interest
 Downloads based on areas where HOT and partners have improved the data through Tasking Manager Projects:
 - [West Darfur Border Area Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/West_Darfur_Border___Buildings_geojson_uid_683010d0-c3a5-41ab-b180-7e6f8196bf0b.zip)
 
