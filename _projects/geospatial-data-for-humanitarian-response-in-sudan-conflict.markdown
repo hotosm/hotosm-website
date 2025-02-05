@@ -341,6 +341,7 @@ Downloads based on areas where HOT and partners have improved the data through T
 - [North Darfur Southern Area Roads](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/North_Darfur_Roads_geojson_uid_33b05e1c-5b3b-407b-9089-a5044c873f71.zip)
 - [North Darfur Southern Area - Residential Areas](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/North_Darfur_Southern_Residential_Areas_geojson_uid_06fc00ce-f10d-4b89-b3a0-1c42c8cc11cc.zip)
 - [North Darfur Southern Area - Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/North_Darfur_Southern_Area___Buildings_geojson_uid_7c334ef7-3613-4205-b612-d54cdb2e09cf.zip)
+- [Khartoum and Surroundings - Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/Khartoum_and_Surroundings_geojson_uid_1591977e-055c-4381-b38a-b70c56ed3252.zip)
 
 <br>
 You can also create your own export using the [HOT Export Tool](https://export.hotosm.org/v3/exports/new/describe), an open service that creates customized extracts of up-to-date OSM data in various file formats.
