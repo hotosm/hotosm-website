@@ -337,7 +337,7 @@ Country level data OSM data can be downloaded from HDX. Scroll through this [fil
 ### Download based on areas of interest
 Downloads based on areas where HOT and partners have improved the data through Tasking Manager Projects:
 - [West Darfur Border Area Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/West_Darfur_Border___Buildings_geojson_uid_683010d0-c3a5-41ab-b180-7e6f8196bf0b.zip)
-- [North Darfur Souther Area Roads](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/North_Darfur_Roads_geojson_uid_33b05e1c-5b3b-407b-9089-a5044c873f71.zip)
+- [North Darfur Southern Area Roads](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/North_Darfur_Roads_geojson_uid_33b05e1c-5b3b-407b-9089-a5044c873f71.zip)
 
 <br>
 You can also create your own export using the [HOT Export Tool](https://export.hotosm.org/v3/exports/new/describe), an open service that creates customized extracts of up-to-date OSM data in various file formats.
