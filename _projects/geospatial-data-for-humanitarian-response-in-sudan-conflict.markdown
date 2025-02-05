@@ -321,7 +321,8 @@ By adhering to these principles, HOT ensures that the mapping process supports h
 
 ## Data Access and Use
 
-Country level data OSM data can be downloaded from HDX. Scroll through this [filtered HDX list](https://data.humdata.org/organization/hot?groups=sdn&q=&sort=last_modified%20desc&ext_page_size=25) or choose from the categories bellow to visit a specific dataset:
+### Country level Data
+OSM data can be downloaded from HDX. Scroll through this [filtered HDX list](https://data.humdata.org/organization/hot?groups=sdn&q=&sort=last_modified%20desc&ext_page_size=25) or choose from the categories bellow to visit a specific dataset:
 - [Roads](https://data.humdata.org/dataset/hotosm_sdn_roads)
 - [Buildings](https://data.humdata.org/dataset/hotosm_sdn_buildings)
 - [Waterways](https://data.humdata.org/dataset/hotosm_sdn_waterways)
