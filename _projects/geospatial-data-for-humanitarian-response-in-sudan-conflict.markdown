@@ -334,7 +334,9 @@ Country level data OSM data can be downloaded from HDX. Scroll through this [fil
 - **[Airports](https://data.humdata.org/dataset/hotosm_sdn_airports)**
 - **[Points of Interest](https://data.humdata.org/dataset/hotosm_sdn_points_of_interest)**
 
-**Download based on areas of interest** where HOT and partners have improved the data:
+<br>
+**Download based on areas of interest** 
+Downloads based on areas where HOT and partners have improved the data through Tasking Manager Projects:
 - [West Darfur Border Area Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/West_Darfur_Border___Buildings_geojson_uid_683010d0-c3a5-41ab-b180-7e6f8196bf0b.zip)
 
 You can also create your own export using the [HOT Export Tool](https://export.hotosm.org/v3/exports/new/describe), an open service that creates customized extracts of up-to-date OSM data in various file formats.
@@ -346,7 +348,6 @@ As of January 2025, HOT’s work in Sudan is far from complete. The next phase w
 - **Expanding Mapping Coverage**: Leveraging tools like **MapSwipe** to involve more volunteers in mapping remote regions.
 - **In-Person Training**: Starting in January, in-person workshops will equip volunteers with advanced mapping skills.
 <br>
----
 
 ## Conclusion
 
