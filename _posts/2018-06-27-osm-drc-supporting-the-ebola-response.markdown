@@ -1,7 +1,7 @@
 ---
 title: OSM DRC - supporting the Ebola response
 date: 2018-06-27 12:49:00 Z
-Feature Image: https://cdn.hotosm.org/website/web_photo_ebola_vaccination_300518.jpg
+Feature Image: "/uploads/33424569048_7005f45e75_k.jpg"
 Working Group:
 - Activation
 - Community
@@ -22,4 +22,4 @@ Around the world, the OSM community has come together to support the DRC Ebola o
 
 > “These people have never been mapped, nobody has ever cared enough about them to even know where their house is. So these houses that you have been tracing today, is the first time that anyone has ever cared enough about those people in that distant part of the Congo enough to know where they live and put them on the map. To be on the map is to be acknowledged, it is to be known, it is to be recognized, it is to be counted. It is for the world to know that you are there and that you have needs, that you have dignity, and that you have rights."
 
-*Photo credit; REUTERS/Kenny Katombe*
+*Photo: World Bank / Vincent Tremeau CC BY-NC-ND 2.0*
