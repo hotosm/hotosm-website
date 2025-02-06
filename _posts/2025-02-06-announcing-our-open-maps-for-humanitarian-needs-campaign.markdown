@@ -20,7 +20,7 @@ Our goal is to give anybody who volunteers to make a map in a humanitarian conte
 
 Please reach out to us via this form for:
 * **A map idea**, or request for your organization. Note reliable data availability might affect an outcome, but all requests are welcome.
-* **If you’d like to make a map!** All levels of skills are welcome, but we ask you can make a map on your own. 
+* **If you’d like to make a map!** All levels of skills are welcome, but we ask that you can make a map on your own. 
 
 Map ideas will be vetted, and outputs reviewed. We do aim to make the process easy! 
 
