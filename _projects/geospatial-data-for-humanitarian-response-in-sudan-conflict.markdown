@@ -340,7 +340,7 @@ OSM data can be downloaded from HDX. Scroll through this [filtered HDX list](htt
 ---
 
 <br>
-### Download based on areas of interest
+### Download Based on Areas of Interest
 <br>
 <div style="text-align: center;">
     <img src="/uploads/sdn_sudan_crisis_2023_aoi.png" alt="Map showing data quality issues such as lack of completness and inaccurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
