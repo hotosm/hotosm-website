@@ -3,14 +3,14 @@ title: Announcing our Open Maps for Humanitarian Needs Campaign
 date: 2025-02-06 18:41:00 Z
 Summary Text: 'Anticipating a potential drop in information on humanitarian contexts
   in the coming months, and while humanitarians find a way forward, we are launching
-  a 90 days campaign of Open Maps for Humanitarian Needs. '
+  a 90 day campaign of Open Maps for Humanitarian Needs. '
 Feature Image: "/uploads/MOROCCO%20EARTHQUAKE_contribution.png"
 Person:
 - Jessica Pechmann
 - Raiza Pilatowsky Gruner
 ---
 
-The record numbers of people in need of humanitarian assistance, compounded with recent disruptions in the humanitarian and development funding system (see [HOT’s statement](https://www.hotosm.org/updates/hot-statement-on-the-us-federal-government-disruption-of-foreign-assistance/)), are creating new challenges locally, regionally, and globally. Anticipating a potential drop in information on humanitarian contexts in the coming months, and while humanitarians find a way forward, at the Humanitarian OpenStreetMap Team **we are launching a 90 days campaign of Open Maps for Humanitarian Needs**. We’d like to bring people together with GIS to keep a spotlight on humanitarian needs throughout the world, because we believe one good map can be worth a whole report. 
+The record numbers of people in need of humanitarian assistance, compounded with recent disruptions in the humanitarian and development funding system (see [HOT’s statement](https://www.hotosm.org/updates/hot-statement-on-the-us-federal-government-disruption-of-foreign-assistance/)), are creating new challenges locally, regionally, and globally. Anticipating a potential drop in information on humanitarian contexts in the coming months, and while humanitarians find a way forward, at the Humanitarian OpenStreetMap Team **we are launching a 90 day campaign of Open Maps for Humanitarian Needs**. We’d like to bring people together with GIS to keep a spotlight on humanitarian needs throughout the world, because we believe one good map can be worth a whole report. 
 
 Maps are inherently collaborative, with a shared stake in core datasets, methods, and purposes across the multiple dynamics of a humanitarian crisis. We believe the members of our global community have all the skills, knowledge, and experience to contribute to creating a mosaic of humanitarian needs around the world.
 
