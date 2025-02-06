@@ -336,12 +336,26 @@ OSM data can be downloaded from HDX. Scroll through this [filtered HDX list](htt
 - [Points of Interest](https://data.humdata.org/dataset/hotosm_sdn_points_of_interest)
 
 ### Download based on areas of interest
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/sdn_sudan_crisis_2023_aoi-e27050.png" alt="Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Map of the Areas of interest and data improvements part of the campagin on Tasking Manager. 
+    </div>
+</div>
+<br>
 Downloads based on areas where HOT and partners have improved the data through Tasking Manager Projects:
-- [West Darfur Border Area Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/West_Darfur_Border___Buildings_geojson_uid_683010d0-c3a5-41ab-b180-7e6f8196bf0b.zip)
-- [North Darfur Southern Area Roads](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/North_Darfur_Roads_geojson_uid_33b05e1c-5b3b-407b-9089-a5044c873f71.zip)
+
+### West Darfur Border Area
+- [Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/West_Darfur_Border___Buildings_geojson_uid_683010d0-c3a5-41ab-b180-7e6f8196bf0b.zip)
+
+### North Darfur Southern Area
+- [Roads](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/North_Darfur_Roads_geojson_uid_33b05e1c-5b3b-407b-9089-a5044c873f71.zip)
 - [North Darfur Southern Area - Residential Areas](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/North_Darfur_Southern_Residential_Areas_geojson_uid_06fc00ce-f10d-4b89-b3a0-1c42c8cc11cc.zip)
 - [North Darfur Southern Area - Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/North_Darfur_Southern_Area___Buildings_geojson_uid_7c334ef7-3613-4205-b612-d54cdb2e09cf.zip)
-- [Khartoum and Surroundings - Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/Khartoum_and_Surroundings_geojson_uid_1591977e-055c-4381-b38a-b70c56ed3252.zip)
+
+### Khartoum and Surroundings
+- [Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/Khartoum_and_Surroundings_geojson_uid_1591977e-055c-4381-b38a-b70c56ed3252.zip)
 
 <br>
 You can also create your own export using the [HOT Export Tool](https://export.hotosm.org/v3/exports/new/describe), an open service that creates customized extracts of up-to-date OSM data in various file formats.
