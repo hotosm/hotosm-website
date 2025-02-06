@@ -334,9 +334,9 @@ OSM data can be downloaded from HDX. Scroll through this [filtered HDX list](htt
 - [Sea Ports](https://data.humdata.org/dataset/hotosm_sdn_sea_ports)
 - [Airports](https://data.humdata.org/dataset/hotosm_sdn_airports)
 - [Points of Interest](https://data.humdata.org/dataset/hotosm_sdn_points_of_interest)
-
+<br>
 ---
-
+<br>
 ### Download based on areas of interest
 <br>
 <div style="text-align: center;">
@@ -369,9 +369,9 @@ Downloads based on areas where HOT and partners have improved the data through T
 
 <br>
 You can also create your own export using the [HOT Export Tool](https://export.hotosm.org/v3/exports/new/describe), an open service that creates customized extracts of up-to-date OSM data in various file formats.
-
+<br>
 ---
-
+<br>
 ## What’s Next? Upcoming Work and Focus Areas
 
 As of January 2025, HOT’s work in Sudan is far from complete. The next phase will focus on scaling these efforts to cover underrepresented areas such as **Darfur**, **Kordofan**, and regions heavily impacted by displacement. Key initiatives include:
