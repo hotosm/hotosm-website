@@ -363,7 +363,7 @@ Downloads based on areas where HOT and partners have improved the data through T
 - [Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/Khartoum_and_Surroundings_geojson_uid_1591977e-055c-4381-b38a-b70c56ed3252.zip)
 
 ### Gedaref and Surroundings
-- [Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/Khartoum_and_Surroundings_geojson_uid_1591977e-055c-4381-b38a-b70c56ed3252.zip)
+- [Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/Gedaref_geojson_uid_52d01628-a0cc-4752-97a9-ac46e4445bd8.zip)
 - [Residential Areas](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/Khartoum_and_Surroundings_geojson_uid_1591977e-055c-4381-b38a-b70c56ed3252.zip)
 
 ### White Nile
@@ -372,6 +372,7 @@ Downloads based on areas where HOT and partners have improved the data through T
 
 <br>
 You can also create your own export using the [HOT Export Tool](https://export.hotosm.org/v3/exports/new/describe), an open service that creates customized extracts of up-to-date OSM data in various file formats.
+<br>
 <br>
 
 ---
