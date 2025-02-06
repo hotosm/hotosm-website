@@ -335,6 +335,8 @@ OSM data can be downloaded from HDX. Scroll through this [filtered HDX list](htt
 - [Airports](https://data.humdata.org/dataset/hotosm_sdn_airports)
 - [Points of Interest](https://data.humdata.org/dataset/hotosm_sdn_points_of_interest)
 
+---
+
 ### Download based on areas of interest
 <br>
 <div style="text-align: center;">
@@ -367,6 +369,8 @@ Downloads based on areas where HOT and partners have improved the data through T
 
 <br>
 You can also create your own export using the [HOT Export Tool](https://export.hotosm.org/v3/exports/new/describe), an open service that creates customized extracts of up-to-date OSM data in various file formats.
+
+---
 
 ## What’s Next? Upcoming Work and Focus Areas
 
