@@ -364,7 +364,7 @@ Downloads based on areas where HOT and partners have improved the data through T
 
 ### Gedaref and Surroundings
 - [Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/Gedaref_geojson_uid_52d01628-a0cc-4752-97a9-ac46e4445bd8.zip)
-- [Residential Areas](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/Khartoum_and_Surroundings_geojson_uid_1591977e-055c-4381-b38a-b70c56ed3252.zip)
+- [Residential Areas](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/Gedaref_geojson_uid_672f1404-42b6-44b3-898f-2c6cd644796a.zip)
 
 ### White Nile
 - [Buildings](https://s3.dualstack.us-east-1.amazonaws.com/production-raw-data-api/default/Khartoum_and_Surroundings_geojson_uid_1591977e-055c-4381-b38a-b70c56ed3252.zip)
