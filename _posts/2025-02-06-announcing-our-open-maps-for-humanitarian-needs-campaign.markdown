@@ -18,7 +18,7 @@ Maps are inherently collaborative, with a shared stake in core datasets, methods
 
 Our goal is to give anybody who volunteers to make a map in a humanitarian context the platform to do so. Our only request is the focus on **humanitarian needs**.  
 
-Please reach out to us via this form for:
+Please reach out to us via this [form ](https://docs.google.com/forms/d/e/1FAIpQLSfi08p3bBRhOJl_cXjT1MQ7kY9ByzXbsgnnJcGPAlGxACf2qQ/viewform?usp=dialog)for:
 * **A map idea**, or request for your organization. Note reliable data availability might affect an outcome, but all requests are welcome.
 * **If you’d like to make a map!** All levels of skills are welcome, but we ask that you can make a map on your own. 
 
