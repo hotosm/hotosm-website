@@ -1,6 +1,7 @@
 ---
-title: Post Amazonia Ecuador
-date: 2025-01-30 23:51:00 Z
+title: 'Mapeo Colaborativo en la Amazonía Ecuatoriana: Capacitación y Gestión de Riesgos
+  para el Desarrollo Sostenible'
+date: 2025-01-19 23:51:00 Z
 categories:
 - projects
 tags:
@@ -12,7 +13,10 @@ Summary Text: Junto a la Fundación OpenLab, HOT llevo a cabo un proyecto de cap
   en mapeo abierto en las ciudades de Nueva Loja, Archidona, Puyo, Tena y Macas, en
   la región amazónica de Ecuador.  Entérese del impacto que se logró y las posibilidades
   de cooperación que han quedado abiertas.
+Feature Image: "/uploads/mapaMapeoAmazonia.jpg"
 Person: Juan Arellano Valdivia
+Country:
+- Ecuador
 ---
 
 Durante el pasado 2024 llevamos a cabo, junto a la fundación OpenLab Ecuador, un proyecto de capacitación en mapeo abierto y colaborativo en diversas comunidades amazónicas ecuatorianas, en sintonía con nuestro programa de [mapeo en toda la región amazónica](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/).
