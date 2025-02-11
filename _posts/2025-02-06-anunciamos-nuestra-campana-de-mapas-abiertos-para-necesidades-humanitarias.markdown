@@ -11,6 +11,8 @@ Person:
 - Raiza Pilatowsky Gruner
 ---
 
+**[English version](https://www.hotosm.org/updates/announcing-our-open-maps-for-humanitarian-needs-campaign/)**
+
 El número récord de personas que necesitan asistencia humanitaria, sumado a las recientes interrupciones en el sistema de financiamiento humanitario y de desarrollo ([consulta la declaración de HOT](https://www.hotosm.org/updates/hot-statement-on-the-us-federal-government-disruption-of-foreign-assistance/)), está generando nuevos desafíos a nivel local, regional y global. Ante la posibilidad de una disminución en la disponibilidad de información sobre contextos humanitarios en los próximos meses, y mientras la comunidad humanitaria encuentra el camino a seguir, en el **Equipo Humanitario de OpenStreetMap (HOT)** estamos lanzando una campaña de 90 días de **Mapas Abiertos para Necesidades Humanitarias**. Nuestro objetivo es reunir a personas con experiencia en GIS para mantener el foco en las necesidades humanitarias en todo el mundo, porque creemos que un buen mapa puede valer tanto como un informe completo.
 
 Los mapas son, por naturaleza, colaborativos y dependen de la contribución conjunta a los datos esenciales, metodologías y objetivos en el contexto dinámico de una crisis humanitaria. Estamos convencidos de que los miembros de nuestra comunidad global cuentan con las habilidades, el conocimiento y la experiencia para contribuir a la creación de un **mosaico de necesidades humanitarias** en distintas partes del mundo.
