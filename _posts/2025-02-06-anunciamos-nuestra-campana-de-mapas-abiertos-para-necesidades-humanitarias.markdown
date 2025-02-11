@@ -3,8 +3,8 @@ title: Anunciamos nuestra Campaña de Mapas Abiertos para Necesidades Humanitari
 date: 2025-02-06 20:00:00 Z
 Summary Text: Ante la posible disminución de información sobre contextos humanitarios
   en los próximos meses, y mientras la comunidad humanitaria encuentra el camino a
-  seguir, estamos lanzando una campaña de 90 días de **Mapas Abiertos para Necesidades
-  Humanitarias**.
+  seguir, estamos lanzando una campaña de 90 días de Mapas Abiertos para Necesidades
+  Humanitarias.
 Feature Image: "/uploads/MOROCCO%20EARTHQUAKE_contribution.png"
 Person:
 - Jessica Pechmann
@@ -33,7 +33,7 @@ Todas las ideas de mapas serán revisadas y evaluadas, y nos aseguraremos de que
 
 Consulta nuestras redes sociales, la **[Galería de Mapas en Flickr](https://www.flickr.com/photos/hotosm/sets/72177720320861073/)** y **ReliefWeb** para conocer mapas destacados. Mantente en contacto, nos encantaría escuchar tus ideas en cualquier momento. Mientras tanto, no dudes en escribirnos con preguntas, comentarios o solicitudes.
 
-## **Contacto**
+## Contacto
 
 Escríbenos a [data@hotosm.org](data@hotosm.org).
 

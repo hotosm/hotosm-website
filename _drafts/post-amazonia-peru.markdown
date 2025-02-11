@@ -1,5 +1,6 @@
 ---
-title: Post Amazonia Peru
+title: 'Cartografía Colaborativa en la Amazonía Peruana: Mapeo para la Defensa del
+  Territorio y la Identidad Indígena'
 date: 2025-01-30 15:20:00 Z
 categories:
 - projects
@@ -8,10 +9,11 @@ tags:
 - comunidad
 - amazonia
 - Peru
-Summary Text: Junto a OpenStreetMap Perú, HOT llevo a cabo un proyecto para mapear
+Summary Text: Junto a OpenStreetMap Perú, HOT llevó a cabo un proyecto para mapear
   territorios bajo amenaza con miembros de la Comunidad Nativa Shipibo – Konibo en
   la Amazonía peruana.  Entérese del impacto que se logró en la comunidad y las posibilidades
   de cooperación que han quedado abiertas.
+Feature Image: "/uploads/yar2.jpg"
 Person: Juan Arellano Valdivia
 ---
 
