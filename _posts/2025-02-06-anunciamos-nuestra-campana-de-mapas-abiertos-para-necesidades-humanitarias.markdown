@@ -15,7 +15,7 @@ El número récord de personas que necesitan asistencia humanitaria, sumado a la
 
 Los mapas son, por naturaleza, colaborativos y dependen de la contribución conjunta a los datos esenciales, metodologías y objetivos en el contexto dinámico de una crisis humanitaria. Estamos convencidos de que los miembros de nuestra comunidad global cuentan con las habilidades, el conocimiento y la experiencia para contribuir a la creación de un **mosaico de necesidades humanitarias** en distintas partes del mundo.
 
-### ¿Cómo participar?
+## ¿Cómo participar?
 
 Queremos proporcionar una plataforma a cualquier persona que desee contribuir con mapas en contextos humanitarios. Nuestra única solicitud es que el enfoque se mantenga en las **necesidades humanitarias**.
 
@@ -29,11 +29,12 @@ Puedes ponerte en contacto con nosotros a través de **este [formulario](https:/
 
 Todas las ideas de mapas serán revisadas y evaluadas, y nos aseguraremos de que el proceso sea accesible y sencillo para quienes participen.
 
-### Próximos pasos
+## Próximos pasos
 
 Consulta nuestras redes sociales, la **[Galería de Mapas en Flickr](https://www.flickr.com/photos/hotosm/sets/72177720320861073/)** y **ReliefWeb** para conocer mapas destacados. Mantente en contacto, nos encantaría escuchar tus ideas en cualquier momento. Mientras tanto, no dudes en escribirnos con preguntas, comentarios o solicitudes.
 
-📩 **Contacto:**\
+## **Contacto**
+
 Escríbenos a [data@hotosm.org](data@hotosm.org).
 
-🗺 **Mapa de portada:** Evolución de las huellas de edificios en OpenStreetMap en Marruecos tras el terremoto de 2023, elaborado por el **[Open Mapping Hub de África Occidental y del Norte](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa)**.
+**Mapa de portada:** Evolución de las huellas de edificios en OpenStreetMap en Marruecos tras el terremoto de 2023, elaborado por el **[Open Mapping Hub de África Occidental y del Norte](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa)**.
