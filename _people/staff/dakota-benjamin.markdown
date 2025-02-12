@@ -9,7 +9,6 @@ Country: United States
 Team: Global
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/dakotabenjamin
-  Twitter: https://twitter.com/dakotabenjammin
 ---
 
 DK joined HOTOSM as the Support Engineer in the spring of 2018. Previously, he has worked in drone mapping and FOSS since graduating from Case Western Reserve University in 2015. He an avid home cook and occasional hiker.  
