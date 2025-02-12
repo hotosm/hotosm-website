@@ -5,7 +5,7 @@ Summary Text: Ante la posible disminución de información sobre contextos human
   en los próximos meses, y mientras la comunidad humanitaria encuentra el camino a
   seguir, estamos lanzando una campaña de 90 días de Mapas Abiertos para Necesidades
   Humanitarias.
-Feature Image: "/uploads/MOROCCO%20EARTHQUAKE_contribution.png"
+Feature Image: "/uploads/HNO_Global_Map_featured.png"
 Person:
 - Jessica Pechmann
 - Raiza Pilatowsky Gruner
@@ -35,8 +35,22 @@ Todas las ideas de mapas serán revisadas y evaluadas, y nos aseguraremos de que
 
 Consulta nuestras redes sociales, la **[Galería de Mapas en Flickr](https://www.flickr.com/photos/hotosm/sets/72177720320861073/)** y **ReliefWeb** para conocer mapas destacados. Mantente en contacto, nos encantaría escuchar tus ideas en cualquier momento. Mientras tanto, no dudes en escribirnos con preguntas, comentarios o solicitudes.
 
+
+<br>
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/HNO_Global_Map_2025.png" alt="Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Ejemplo de mapa realizado como parte de la campaña, que muestra las mayores campañas humanitarias coordinadas de la OCHA para 2025.
+    </div>
+</div>
+<br>
+<br>
+
+---
+
 ## Contacto
 
 Escríbenos a [data@hotosm.org](data@hotosm.org).
 
-**Mapa de portada:** Evolución de las huellas de edificios en OpenStreetMap en Marruecos tras el terremoto de 2023, elaborado por el **[Open Mapping Hub de África Occidental y del Norte](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa)**.
+**Mapa de portada:** Ejemplo de mapa realizado como parte de la campaña, que muestra las mayores campañas humanitarias coordinadas de la OCHA para 2025.

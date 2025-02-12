@@ -4,7 +4,7 @@ date: 2025-02-06 18:41:00 Z
 Summary Text: 'Anticipating a potential drop in information on humanitarian contexts
   in the coming months, and while humanitarians find a way forward, we are launching
   a 90 day campaign of Open Maps for Humanitarian Needs. '
-Feature Image: "/uploads/MOROCCO%20EARTHQUAKE_contribution.png"
+Feature Image: "/uploads/HNO_Global_Map_featured.png"
 Person:
 - Jessica Pechmann
 - Raiza Pilatowsky Gruner
@@ -34,8 +34,21 @@ Lastly, if you are an organization facing large gaps, please reach out if you’
 
 Check out our social media, [Map Gallery on Flickr](https://flic.kr/s/aHBqjBLfrx), and ReliefWeb for maps. Keep in touch, we’d love to hear from you at any time. In the meantime, do not hesitate to reach out to us with any questions, comments, or requests.
 
+<br>
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/HNO_Global_Map_2025.png" alt="Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Example map done as part of the campaign, showing the biggest coordinated humanitarian campaigns from OCHA fro 2025.
+    </div>
+</div>
+<br>
+<br>
+
+---
+
 ## Contact
 
 Send us an email at [data@hotosm.org](data@hotosm.org).
 
-Cover map: *Evolution of OSM building footprints in Morocco after the 2023 earthquake, [by the West and Northern Africa Open Mapping Hub.](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa)*
+Cover map: *Example map done as part of the campaign, showing the biggest coordinated humanitarian campaigns from OCHA fro 2025.*
