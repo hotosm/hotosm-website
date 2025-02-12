@@ -31,7 +31,7 @@ Stats:
   hover2: The absolute increase or decrease in the amount of buildings in the OSM
     database.
   stat3: 22
-  text3: Tasking Manager Projects
+  text3: Mapping Projects
   hover3: Number of Tasking Manager projects created under this program.
   stat4: 355
   text4: Expert OSM Contributors
