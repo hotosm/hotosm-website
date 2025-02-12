@@ -51,4 +51,4 @@ Check out our social media, [Map Gallery on Flickr](https://flic.kr/s/aHBqjBLfrx
 
 Send us an email at [data@hotosm.org](data@hotosm.org).
 
-Cover map: *Example map done as part of the campaign, showing the biggest coordinated humanitarian campaigns from OCHA fro 2025.*
+Cover map: *Example map done as part of the campaign, showing the biggest coordinated humanitarian campaigns from OCHA for 2025.*
