@@ -23,18 +23,18 @@ Duration:
   Timeframe: 2024 - 2026 Cycle
 Stats:
   stat1: "+712,486"
-  text1: Map edits in OSM
+  text1: 'Map edits in OSM '
   hover1: 'Refers to any change made, such as adding, modifying, or deleting features
     like roads, buildings, points of interest, or others. '
   stat2: "+307,762"
-  text2: Buildings Mapped
+  text2: 'Buildings Mapped '
   hover2: The absolute increase or decrease in the amount of buildings in the OSM
     database.
   stat3: 22
-  text3: Mapping Projects
+  text3: 'Mapping Projects '
   hover3: Number of Tasking Manager projects created under this program.
   stat4: 355
-  text4: Expert OSM Contributors
+  text4: 'Expert OSM Contributors '
   hover4: The number of distinct users that have edited OSM data. Projects in this
     program are only open to expert mappers.
 Feature-Image: "/uploads/UNsomalia-27332415045_217de2d978_o.jpg"
