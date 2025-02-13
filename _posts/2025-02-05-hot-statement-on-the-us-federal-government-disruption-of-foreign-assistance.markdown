@@ -15,4 +15,4 @@ We call on the US federal government to immediately resume humanitarian assistan
 
 We also call on the international donor community - multilateral and bilateral aid agencies, foundations, and corporations - to step forward to cover the gaps created. These events have shown us the fragility of a system that relies so heavily on one source of funding. 
 
-As a show of support to the impacted partners and communities, we are launching a 90-day mapping campaign showcasing humanitarian needs around the world. For more information or to get involved, please reach out to [communications@hotosm.org](communications@hotosm.org).
+As a show of support to the impacted partners and communities, [we are launching a 90-day mapping campaign showcasing humanitarian needs around the world](https://www.hotosm.org/updates/announcing-our-open-maps-for-humanitarian-needs-campaign/). For more information or to get involved, please check the link above or reach out to [communications@hotosm.org](communications@hotosm.org).
