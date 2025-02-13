@@ -4,7 +4,7 @@ date: 2024-01-04 10:05:00 Z
 Photo: https://cdn.hotosm.org/website/Atiya1.jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Communications Manager
+Job Title: Senior Communications Advisor
 Country: India
 Team: Global
 Social Media (Full URL):
