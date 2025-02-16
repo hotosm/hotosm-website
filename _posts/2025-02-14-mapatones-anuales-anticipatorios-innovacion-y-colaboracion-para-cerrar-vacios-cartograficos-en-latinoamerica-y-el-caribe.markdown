@@ -9,6 +9,7 @@ Summary Text: Los Mapatones Nacionales Anuales Anticipatorios (MANA) son una est
   desastres y desarrollo territorial. En 2024, los MANA impactaron en Ecuador, Perú,
   Colombia y Guatemala, demostrando el poder del mapeo abierto para construir comunidades
   más resilientes.
+Feature Image: "/uploads/Mapatones%20Anuales%20Anticipatorios%20en%20Latinoame%CC%81rica%20HOT.jpg"
 Person:
 - Céline Jacquin
 - Constanza Petrazzini
@@ -44,7 +45,7 @@ Gracias al trabajo conjunto de la [Secretaría de Gestión de Riesgos de Ecuador
 
 En 2024, la Secretaría de Gestión de Riesgo concretó el Segundo Mapatón Nacional Anual para enfrentar el fenómeno de La Niña. A pesar de los desafíos significativos, como cortes de luz diarios debido a una serie de graves incendios en el país productos del cambio climático, más de 350 colaboradores locales e internacionales lograron mapear 26,247 construcciones y 262 km de carreteras. Este esfuerzo destacó la resiliencia y compromiso de la comunidad de OSM en Ecuador y compromiso de Secretaria de Gestión de Riesgos de Desastres, y reforzó la capacidad del país para responder a eventos climáticos extremos.
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="1237.088888888889" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1ecd2584-ec1e-11ef-9397-d93975fe8866"></iframe>
+<iframe frameborder="0" class="juxtapose" width="70%" height="1237.088888888889" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1ecd2584-ec1e-11ef-9397-d93975fe8866"></iframe>
 
 ## **Cuarta Mapatón Anual 2024 en Perú**
 
@@ -56,17 +57,7 @@ En junio, como parte de las actividades con involucramiento pluri institucional,
 
 Este cuarto mapatón marcó un hito en la construcción de capacidades técnicas y en el fortalecimiento de redes comunitarias en Perú, sentando las bases para una gestión de riesgos más eficiente y sostenible en el futuro.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">\
-    <iframe \
-        src="https://www.youtube.com/embed/N0FSC2Q0NcA?si=sDGEahJkOtfsDsxS" \
-        title="YouTube video player"\
-        frameborder="0" \
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"\
-        referrerpolicy="strict-origin-when-cross-origin" \
-        allowfullscreen\
-        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">\
-    </iframe>\
-</div>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/N0FSC2Q0NcA?si=lq3kwy2p6qg49ieZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Primera Mapatón Anual de Riesgos en Colombia 2024
 
