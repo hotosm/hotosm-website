@@ -75,7 +75,7 @@ Esta experiencia permitió demostrar a la Unidad Nacional para la Gestión del R
 
 ## Mapatón Red de Caminos "Avenidas del Buen Vivir", Guatemala 2024
 
-En 2024, en un contexto un poco diferente Pero con el mismo enfoque, Guatemala implementó su primer amplio mapatón de Caminos Rurales, liderado por PNUD y HOT en apoyo a las necesidades de planeación del programa prioritario del nuevo gobierno de Guatemala, “Avenidas para el Buen Vivir”. Este programa se enfoca en diagnosticar el estado de los caminos y carreteras del país para planear mejoras de infraestructuras que potencian el desarrollo rural. En conjunto, convocamos a la participación a través de la plataforma de Voluntarios de la ONU, además de una invitación directa a profesores y estudiantes de varias sedes de universidades del país, particularmente las basadas en el departamento prioritario de Alta Verapaz. De esta manera, utilizamos además la iniciativa como un pretexto para fortalecer fuertemente la comunidad mapeadora de este país, en relación con un objetivo real y federador para esta ciudadanía.
+En 2024, en un contexto un poco diferente con el mismo enfoque, Guatemala implementó su primer amplio mapatón de Caminos Rurales, liderado por PNUD y HOT en apoyo a las necesidades de planeación del programa prioritario del nuevo gobierno de Guatemala, “Avenidas para el Buen Vivir”. Este programa se enfoca en diagnosticar el estado de los caminos y carreteras del país para planear mejoras de infraestructuras que potencian el desarrollo rural. En conjunto, convocamos a la participación a través de la plataforma de Voluntarios de la ONU, además de una invitación directa a profesores y estudiantes de varias sedes de universidades del país, particularmente las basadas en el departamento prioritario de Alta Verapaz. De esta manera, utilizamos además la iniciativa como un pretexto para fortalecer fuertemente la comunidad mapeadora de este país, en relación con un objetivo real y federador para esta ciudadanía.
 
 ![Cobán, Guatemala Avenidas del Buen Vivir.png](/uploads/Coba%CC%81n,%20Guatemala%20Avenidas%20del%20Buen%20Vivir.png)
 
@@ -109,7 +109,7 @@ Con los resultados del mapatón como base, el gobierno busca integrar esta infor
 
 ![Vías Mapeadas Avenidas del Buen Vivir.png](/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png)
 
-## ¿Hacia dónde vamos?
+## ¿Hacia a dónde vamos?
 
 Los Mapatones Nacionales Anuales Anticipatorios (MANA) son mucho más que eventos colaborativos puntuales: son una herramienta sistematizada e integradora para fortalecer la prevención y gestión de riesgos de desastres, construyendo conocimiento territorial preciso y actualizado a través del empoderamiento ciudadano. Al integrar la participación conjunta de comunidades, organizaciones y gobiernos, los MANA aseguran que los responsables de la toma de decisiones puedan confiar en datos geoespaciales de alta calidad para planear, priorizar y asignar recursos de manera más eficiente, alcanzando a las comunidades más vulnerables.
 
