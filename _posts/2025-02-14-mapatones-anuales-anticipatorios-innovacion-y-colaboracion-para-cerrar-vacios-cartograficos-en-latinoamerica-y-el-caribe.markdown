@@ -45,7 +45,7 @@ En 2024, la Secretaría de Gestión de Riesgo concretó el Segundo Mapatón Naci
 
 <iframe frameborder="0" class="juxtapose" width="100%" height="1237.088888888889" \
 src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1ecd2584-ec1e-11ef-9397-d93975fe8866" \
-style="margin-bottom: 0px; padding-bottom: 0px; display: block;"></iframe>
+style="display: block; margin-bottom: -50px;"></iframe>
 
 ## **Cuarta Mapatón Anual 2024 en Perú**
 
