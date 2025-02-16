@@ -73,7 +73,7 @@ Esta experiencia permitió demostrar a la Unidad Nacional para la Gestión del R
 
 ![Puerto Calceido, Colombia Mapatón de Gestión de Riesgos HOTOSM](/uploads/Puerto%20Calceido,%20Colombia%20Mapato%CC%81n%20de%20Gestio%CC%81n%20de%20Riesgos%20HOTOSM)
 
-## Red de Caminos "Avenidas del Buen Vivir", Guatemala 2024
+## Mapatón Red de Caminos "Avenidas del Buen Vivir", Guatemala 2024
 
 En 2024, en un contexto un poco diferente Pero con el mismo enfoque, Guatemala implementó su primer amplio mapatón de Caminos Rurales, liderado por PNUD y HOT en apoyo a las necesidades de planeación del programa prioritario del nuevo gobierno de Guatemala, “Avenidas para el Buen Vivir”. Este programa se enfoca en diagnosticar el estado de los caminos y carreteras del país para planear mejoras de infraestructuras que potencian el desarrollo rural. En conjunto, convocamos a la participación a través de la plataforma de Voluntarios de la ONU, además de una invitación directa a profesores y estudiantes de varias sedes de universidades del país, particularmente las basadas en el departamento prioritario de Alta Verapaz. De esta manera, utilizamos además la iniciativa como un pretexto para fortalecer fuertemente la comunidad mapeadora de este país, en relación con un objetivo real y federador para esta ciudadanía.
 
