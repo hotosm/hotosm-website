@@ -47,7 +47,7 @@ En 2024, la Secretaría de Gestión de Riesgo concretó el Segundo Mapatón Naci
 
 ![Cuenca, Ecuador Gestión de Riesgos Mapatones HOTOSM.jpg](/uploads/Cuenca,%20Ecuador%20Gestio%CC%81n%20de%20Riesgos%20Mapatones%20HOTOSM.jpg)
 
-*Imagen: Antes y después de mapeo en Cuenca, Ecuador durante el mapatón de gestión de riesgos.*
+*Imagen: Comparación del antes y después del mapeo en Cuenca, Ecuador, realizado durante el Mapatón de Gestión de Riesgos.*
 
 ## **Cuarta Mapatón Anual 2024 en Perú**
 
@@ -61,7 +61,7 @@ Este cuarto mapatón marcó un hito en la construcción de capacidades técnicas
 
 <iframe width="900" height="506" src="https://www.youtube.com/embed/N0FSC2Q0NcA?si=lq3kwy2p6qg49ieZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-*Vídeo: Antes y después de mapeo en Jaén, Perú durante el mapatón de gestión de riesgos.*
+*Vídeo: Evolución del mapeo en Jaén, Perú. Comparación del antes y después durante el Mapatón de Gestión de Riesgos.*
 
 ## Primera Mapatón Anual de Riesgos en Colombia 2024
 
@@ -71,7 +71,7 @@ El proyecto, desarrollado en colaboración desde el inicio con  grupos de jóven
 
 ![Mapatón Nacional de Gestión de Riesgos MANAS Hotosm Colombia.jpg](/uploads/Mapato%CC%81n%20Nacional%20de%20Gestio%CC%81n%20de%20Riesgos%20MANAS%20Hotosm%20Colombia.jpg)
 
-*Imagen: Capacitación del grupo juvenil SAGeMa durante la capacitación a integrantes en el Mapatón Nacional de Gestión de Riesgos de Colombia.*
+*Imagen: Sesión de capacitación del grupo juvenil SAGeMa durante el Mapatón Nacional de Gestión de Riesgos en Colombia.*
 
 Durante la ejecución del mapatón, se presentó una emergencia en Colombia debido a las fuertes lluvias que afectaron gravemente el departamento del Chocó, causando pérdidas humanas y materiales en múltiples municipios.
 
@@ -81,7 +81,7 @@ Esta experiencia permitió demostrar a la Unidad Nacional para la Gestión del R
 
 ![Puerto Calceido, Colombia Mapatón de Gestión de Riesgos HOTOSM](/uploads/Puerto%20Calceido,%20Colombia%20Mapato%CC%81n%20de%20Gestio%CC%81n%20de%20Riesgos%20HOTOSM)
 
-*Imagen: Antes y después de mapeo en Puerto Calcedo, Colombia durante el mapatón de gestión de riesgos.*
+*Imagen: Comparación del antes y después del mapeo en Puerto Calcedo, Colombia, realizado durante el Mapatón de Gestión de Riesgos.*
 
 ## Mapatón Red de Caminos "Avenidas del Buen Vivir", Guatemala 2024
 
@@ -89,7 +89,7 @@ En 2024, en un contexto un poco diferente con el mismo enfoque, Guatemala implem
 
 ![Cobán, Guatemala Avenidas del Buen Vivir.png](/uploads/Coba%CC%81n,%20Guatemala%20Avenidas%20del%20Buen%20Vivir.png)
 
-*Vídeo: Antes y después de mapeo de caminos en Cobán, Guatemala durante el mapatón de Avenidas del Buen Vivir.*
+*Vídeo: Comparación del antes y después del mapeo de caminos en Cobán, Guatemala, durante el Mapatón de Avenidas del Buen Vivir.*
 
 Antes del proyecto, Guatemala enfrentaba un vacío crítico en datos geoespaciales sobre su red vial. Este vacío limitaba todo proceso de toma de decisiones así como la inversión pública en infraestructura . Según Juan Carlos Méndez, director del programa Avenidas para el Buen Vivir: “Teníamos un vacío tan grande que los caminos no registrados simplemente no existían en términos de planificación pública. Sin datos precisos, no podíamos conectar a la Guatemala urbana con la Guatemala rural, y eso perpetúa la exclusión social y económica.”
 
@@ -121,7 +121,7 @@ Con los resultados del mapatón como base, el gobierno busca integrar esta infor
 
 ![Vías Mapeadas Avenidas del Buen Vivir.png](/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png)
 
-*Imagen: Totalidad del mapeo de caminos en Guatemala para la actualización de la red de Avenidas del Buen Vivir.*
+*Imagen: Mapeo completo de la red de caminos en Guatemala como parte de la actualización de Avenidas del Buen Vivir.*
 
 ## ¿Hacia a dónde vamos?
 

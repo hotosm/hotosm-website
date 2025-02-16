@@ -46,7 +46,9 @@ Thanks to the joint efforts of Ecuador’s Secretariat for Risk Management, HOT�
 
 In 2024, the Secretariat for Risk Management organized the Second Annual National Mapathon to address the La Niña phenomenon. Despite significant challenges, such as daily power outages caused by a series of severe wildfires in the country due to climate change, more than 350 local and international volunteers successfully mapped 26,247 buildings and 262 km of roads. This effort underscored the resilience and commitment of Ecuador’s OSM community and strengthened the country's capacity to respond to extreme climate events.
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="1237.088888888889" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1ecd2584-ec1e-11ef-9397-d93975fe8866"></iframe>
+![Cuenca, Ecuador Gestión de Riesgos Mapatones HOTOSM.jpg](/uploads/Cuenca,%20Ecuador%20Gestio%CC%81n%20de%20Riesgos%20Mapatones%20HOTOSM.jpg)
+
+*Image: Comparison of before and after mapping in Cuenca, Ecuador, carried out during the Risk Management Mapathon.*
 
 ## Fourth Annual National Mapathon 2024 in Peru
 
@@ -60,6 +62,8 @@ This fourth mapathon marked a milestone in building technical capacities and str
 
 <iframe width="900" height="506" src="https://www.youtube.com/embed/N0FSC2Q0NcA?si=lq3kwy2p6qg49ieZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+*Video: Mapping evolution in Jaén, Peru: before-and-after comparison during the Risk Management Mapathon.*
+
 ## First Annual National Risk Mapathon in Colombia 2024
 
 In collaboration with the National Unit for Disaster Risk Management (UNGRD) and endorsed by the Agustín Codazzi Geographic Institute (IGAC), Colombia held its first Annual National Mapathon in September 2024. During Geomatics Week, nearly 200 volunteers, both local and global, worked together to map 28 km of roads and 26,111 buildings in priority areas.
@@ -67,6 +71,8 @@ In collaboration with the National Unit for Disaster Risk Management (UNGRD) and
 The project, developed from the outset in collaboration with local Youth Mappers groups such as SAGeMA and Tadeo Mappers, culminated in October during the International Day for Disaster Risk Reduction. This effort laid a strong foundation for expanding the initiative in 2025, emphasizing the importance of multisectoral collaboration and community leadership.
 
 ![Mapatón Nacional de Gestión de Riesgos MANAS Hotosm Colombia.jpg](/uploads/Mapato%CC%81n%20Nacional%20de%20Gestio%CC%81n%20de%20Riesgos%20MANAS%20Hotosm%20Colombia.jpg)
+
+*Image: Training session of the SAGeMa youth group during the National Risk Management Mapathon in Colombia.*
 
 During the mapathon, Colombia faced an emergency due to heavy rains that severely affected the department of Chocó, causing human and material losses in multiple municipalities.
 
@@ -76,11 +82,15 @@ This experience demonstrated to the National Unit for Disaster Risk Management (
 
 ![Puerto Calceido, Colombia Mapatón de Gestión de Riesgos HOTOSM](/uploads/Puerto%20Calceido,%20Colombia%20Mapato%CC%81n%20de%20Gestio%CC%81n%20de%20Riesgos%20HOTOSM)
 
+*Image: Comparison of before and after mapping in Puerto Calcedo, Colombia, carried out during the Risk Management Mapathon.*
+
 ## Road Network Mapathon "Avenues for Well-Being," Guatemala 2024
 
 In 2024, in a slightly different context but with the same approach, Guatemala carried out its first large-scale Rural Roads Mapathon, led by UNDP and HOT in support of the planning needs of the new Guatemalan government's priority program, *Avenues for Well-Being*. This initiative focuses on assessing the condition of the country's roads and highways to plan infrastructure improvements that foster rural development. Together, we encouraged participation through the UN Volunteers platform and issued direct invitations to professors and students from various university campuses across the country, particularly those based in the priority department of Alta Verapaz. This initiative also served as a catalyst for strengthening Guatemala's mapping community by engaging citizens in a meaningful and unifying objective.
 
 ![Cobán, Guatemala Avenidas del Buen Vivir.png](/uploads/Coba%CC%81n,%20Guatemala%20Avenidas%20del%20Buen%20Vivir.png)
+
+*Video: Before-and-after comparison of road mapping in Cobán, Guatemala, during the Avenues for Well-Being Mapathon.*
 
 Before this project, Guatemala faced a critical geospatial data gap regarding its road network. This gap severely limited decision-making processes and public investment in infrastructure. According to Juan Carlos Méndez, director of the *Avenues for Well-Being* program:\
 *"The data gap was so vast that unregistered roads simply didn’t exist in public planning. Without accurate data, we couldn't connect urban Guatemala with rural Guatemala, perpetuating social and economic exclusion."*
@@ -112,6 +122,8 @@ Before this project, Guatemala faced a critical geospatial data gap regarding it
 With the mapathon results as a foundation, the government aims to integrate this data into various national programs related to the development of underserved areas.
 
 ![Vías Mapeadas Avenidas del Buen Vivir.png](/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png)
+
+*Image: Complete mapping of Guatemala’s road network as part of the Avenues for Well-Being update.*
 
 ## Where Are We Headed?
 
