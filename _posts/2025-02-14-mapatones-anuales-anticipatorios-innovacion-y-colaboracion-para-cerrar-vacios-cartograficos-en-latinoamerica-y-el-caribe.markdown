@@ -44,6 +44,12 @@ Gracias al trabajo conjunto de la [Secretaría de Gestión de Riesgos de Ecuador
 
 En 2024, la Secretaría de Gestión de Riesgo concretó el Segundo Mapatón Nacional Anual para enfrentar el fenómeno de La Niña. A pesar de los desafíos significativos, como cortes de luz diarios debido a una serie de graves incendios en el país productos del cambio climático, más de 350 colaboradores locales e internacionales lograron mapear 26,247 construcciones y 262 km de carreteras. Este esfuerzo destacó la resiliencia y compromiso de la comunidad de OSM en Ecuador y compromiso de Secretaria de Gestión de Riesgos de Desastres, y reforzó la capacidad del país para responder a eventos climáticos extremos.
 
+<iframe src="https://beforeafter.baato.io/provision/2f8464eb-1c72-462d-8d19-d4279103750e" \
+        width="100%" \
+        height="600px" \
+        style="border: none;">\
+</iframe>
+
 ## **Cuarta Mapatón Anual 2024 en Perú**
 
 Durante mayo, HOT lideró tres talleres formativos virtuales enfocados en mapeo remoto, donde los participantes exploraron el uso de datos satelitales y herramientas como Copernicus y OpenAerialMap. Gracias a la colaboración de 45 mapeadores destacados, se documentaron 24,131 edificios y 212 km de carreteras en dos áreas prioritarias de la Amazonía peruana: Jaén (185,000 habitantes) y Ciudad Constitución (5,000 habitantes). Estas regiones, identificadas por CONIDA como de alta necesidad de actualización cartográfica, fueron el foco del esfuerzo coordinado entre diversas organizaciones participantes.
@@ -76,17 +82,17 @@ Antes del proyecto, Guatemala enfrentaba un vacío crítico en datos geoespacial
 
 El proceso incluyó las siguientes etapas:
 
-1. **Definición de Áreas Prioritarias: **Se utilizaron criterios como pobreza estructural, necesidades básicas insatisfechas y vulnerabilidad climática para seleccionar regiones prioritarias. El gobierno y PNUD ya tenían identificada al departamento de Alta Verapaz, seguida de Quiché y Huehuetenango por estas razones.
+1. \*\*Definición de Áreas Prioritarias: \*\*Se utilizaron criterios como pobreza estructural, necesidades básicas insatisfechas y vulnerabilidad climática para seleccionar regiones prioritarias. El gobierno y PNUD ya tenían identificada al departamento de Alta Verapaz, seguida de Quiché y Huehuetenango por estas razones.
 
-2. **Convocatoria: **buscando una amplia participación en un país donde la comunidad de Openstreetmap no es fuerte, llevó a PNUD proponer una amplia movilización en la plataforma de Voluntarios de la ONU, que al mismo tiempo Hot estaría reforzando con una convocatoria directa a través de contactos académicos en distintas universidades del país en distintas sedes: la Universidad de San Carlos y Rafael Landívar en particular.
+2. \*\*Convocatoria: \*\*buscando una amplia participación en un país donde la comunidad de Openstreetmap no es fuerte, llevó a PNUD proponer una amplia movilización en la plataforma de Voluntarios de la ONU, que al mismo tiempo Hot estaría reforzando con una convocatoria directa a través de contactos académicos en distintas universidades del país en distintas sedes: la Universidad de San Carlos y Rafael Landívar en particular.
 
 3. **Capacitación:** Voluntarios de todas las edades y niveles de experiencia participaron en talleres de capacitación obligatoria organizados por HOT, enfocadas al mapeo de caminos.
 
 4. **Mapeo:** la cartografía de forma autónoma de los voluntarios, durante un mes, fue supervisada de cerca por HOT respondiendo permanentemente dudas y ejemplificando problemas que se iban presentando.
 
-5. **Validación: **Para garantizar la calidad de los datos, se contrataron validadores expertos que revisaron las áreas estratégicas más complejas, financiado por HOT y PNUD, y con patrocinios en especie de las empresas TomTom y Kaart.
+5. \*\*Validación: \*\*Para garantizar la calidad de los datos, se contrataron validadores expertos que revisaron las áreas estratégicas más complejas, financiado por HOT y PNUD, y con patrocinios en especie de las empresas TomTom y Kaart.
 
-6. **Entrega de Datos: **Los datos se hicieron disponibles socializando directamente ligas de descarga de Openstreetmap y también en paquetes descargados en formato shapefile que se entregaron a PNUD para el gobierno, permitiendo su uso inmediato por parte de los ministerios, al mismo tiempo que se permite el acceso a ONGs y otros actores.
+6. \*\*Entrega de Datos: \*\*Los datos se hicieron disponibles socializando directamente ligas de descarga de Openstreetmap y también en paquetes descargados en formato shapefile que se entregaron a PNUD para el gobierno, permitiendo su uso inmediato por parte de los ministerios, al mismo tiempo que se permite el acceso a ONGs y otros actores.
 
 El impacto del mapatón va más allá de los números. Estos son algunos de los logros clave:
 
