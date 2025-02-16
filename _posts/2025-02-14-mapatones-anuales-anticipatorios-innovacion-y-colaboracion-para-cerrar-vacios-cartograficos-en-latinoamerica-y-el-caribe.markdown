@@ -45,7 +45,9 @@ Gracias al trabajo conjunto de la [Secretaría de Gestión de Riesgos de Ecuador
 
 En 2024, la Secretaría de Gestión de Riesgo concretó el Segundo Mapatón Nacional Anual para enfrentar el fenómeno de La Niña. A pesar de los desafíos significativos, como cortes de luz diarios debido a una serie de graves incendios en el país productos del cambio climático, más de 350 colaboradores locales e internacionales lograron mapear 26,247 construcciones y 262 km de carreteras. Este esfuerzo destacó la resiliencia y compromiso de la comunidad de OSM en Ecuador y compromiso de Secretaria de Gestión de Riesgos de Desastres, y reforzó la capacidad del país para responder a eventos climáticos extremos.
 
-<iframe frameborder="0" class="juxtapose" width="100%" height="1237.088888888889" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1ecd2584-ec1e-11ef-9397-d93975fe8866"></iframe>
+![Cuenca, Ecuador Gestión de Riesgos Mapatones HOTOSM.jpg](/uploads/Cuenca,%20Ecuador%20Gestio%CC%81n%20de%20Riesgos%20Mapatones%20HOTOSM.jpg)
+
+*Imagen: Antes y después de mapeo en Cuenca, Ecuador durante el mapatón de gestión de riesgos.*
 
 ## **Cuarta Mapatón Anual 2024 en Perú**
 
@@ -59,6 +61,8 @@ Este cuarto mapatón marcó un hito en la construcción de capacidades técnicas
 
 <iframe width="900" height="506" src="https://www.youtube.com/embed/N0FSC2Q0NcA?si=lq3kwy2p6qg49ieZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+*Vídeo: Antes y después de mapeo en Jaén, Perú durante el mapatón de gestión de riesgos.*
+
 ## Primera Mapatón Anual de Riesgos en Colombia 2024
 
 En colaboración con la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) y con el aval del Instituto Geográfico Agustín Codazzi (IGAC), Colombia llevó a cabo su primer Mapatón Nacional Anual en septiembre de 2024. Durante la Semana Geomática, casi 200 voluntarios, tanto locales como globales, trabajaron en conjunto para mapear 28 km de carreteras y 26,111 construcciones en áreas prioritarias.
@@ -66,6 +70,8 @@ En colaboración con la Unidad Nacional para la Gestión del Riesgo de Desastres
 El proyecto, desarrollado en colaboración desde el inicio con  grupos de jóvenes Youth Mappers locales como SAGeMA y Tadeo Mappers, culminó en octubre durante la Semana Internacional para la Reducción de Desastres. Este esfuerzo cimentó una base sólida para expandir la iniciativa en 2025, destacando la importancia de la colaboración multisectorial y el liderazgo comunitario.
 
 ![Mapatón Nacional de Gestión de Riesgos MANAS Hotosm Colombia.jpg](/uploads/Mapato%CC%81n%20Nacional%20de%20Gestio%CC%81n%20de%20Riesgos%20MANAS%20Hotosm%20Colombia.jpg)
+
+*Imagen: Capacitación del grupo juvenil SAGeMa durante la capacitación a integrantes en el Mapatón Nacional de Gestión de Riesgos de Colombia.*
 
 Durante la ejecución del mapatón, se presentó una emergencia en Colombia debido a las fuertes lluvias que afectaron gravemente el departamento del Chocó, causando pérdidas humanas y materiales en múltiples municipios.
 
@@ -75,11 +81,15 @@ Esta experiencia permitió demostrar a la Unidad Nacional para la Gestión del R
 
 ![Puerto Calceido, Colombia Mapatón de Gestión de Riesgos HOTOSM](/uploads/Puerto%20Calceido,%20Colombia%20Mapato%CC%81n%20de%20Gestio%CC%81n%20de%20Riesgos%20HOTOSM)
 
+*Imagen: Antes y después de mapeo en Puerto Calcedo, Colombia durante el mapatón de gestión de riesgos.*
+
 ## Mapatón Red de Caminos "Avenidas del Buen Vivir", Guatemala 2024
 
 En 2024, en un contexto un poco diferente con el mismo enfoque, Guatemala implementó su primer amplio mapatón de Caminos Rurales, liderado por PNUD y HOT en apoyo a las necesidades de planeación del programa prioritario del nuevo gobierno de Guatemala, “Avenidas para el Buen Vivir”. Este programa se enfoca en diagnosticar el estado de los caminos y carreteras del país para planear mejoras de infraestructuras que potencian el desarrollo rural. En conjunto, convocamos a la participación a través de la plataforma de Voluntarios de la ONU, además de una invitación directa a profesores y estudiantes de varias sedes de universidades del país, particularmente las basadas en el departamento prioritario de Alta Verapaz. De esta manera, utilizamos además la iniciativa como un pretexto para fortalecer fuertemente la comunidad mapeadora de este país, en relación con un objetivo real y federador para esta ciudadanía.
 
 ![Cobán, Guatemala Avenidas del Buen Vivir.png](/uploads/Coba%CC%81n,%20Guatemala%20Avenidas%20del%20Buen%20Vivir.png)
+
+*Vídeo: Antes y después de mapeo de caminos en Cobán, Guatemala durante el mapatón de Avenidas del Buen Vivir.*
 
 Antes del proyecto, Guatemala enfrentaba un vacío crítico en datos geoespaciales sobre su red vial. Este vacío limitaba todo proceso de toma de decisiones así como la inversión pública en infraestructura . Según Juan Carlos Méndez, director del programa Avenidas para el Buen Vivir: “Teníamos un vacío tan grande que los caminos no registrados simplemente no existían en términos de planificación pública. Sin datos precisos, no podíamos conectar a la Guatemala urbana con la Guatemala rural, y eso perpetúa la exclusión social y económica.”
 
@@ -110,6 +120,8 @@ El impacto del mapatón va más allá de los números. Estos son algunos de los 
 Con los resultados del mapatón como base, el gobierno busca integrar esta información en distintos programas nacionales relacionados con el desarrollo de áreas rezagadas.
 
 ![Vías Mapeadas Avenidas del Buen Vivir.png](/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png)
+
+*Imagen: Totalidad del mapeo de caminos en Guatemala para la actualización de la red de Avenidas del Buen Vivir.*
 
 ## ¿Hacia a dónde vamos?
 
