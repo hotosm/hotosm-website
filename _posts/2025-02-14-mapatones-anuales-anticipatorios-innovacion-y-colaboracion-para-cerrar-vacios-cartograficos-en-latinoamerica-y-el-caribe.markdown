@@ -29,7 +29,7 @@ La estrategia de estos mapatones busca visibilizar las iniciativas adoptadas por
 
 En 2024, los MANA han demostrado su potencial transformador con implementaciones exitosas en Ecuador, Perú, Colombia y Guatemala.
 
-## Primer y Segundo Mapatón Nacional Anual de Ecuador
+## **Primer y Segundo Mapatón Nacional Anual de Ecuador**
 
 La respuesta humanitaria tras las inundaciones en Esmeraldas, Ecuador, en 2023 demostró la importancia del mapeo humanitario y los datos abiertos para mejorar la toma de decisiones informadas en la región. Este evento marcó el inicio de un compromiso a largo plazo para anticipar y mitigar riesgos climáticos extremos como El Niño y La Niña. En ese contexto, el [primer Mapatón Nacional Anual de Ecuador](https://www.hotosm.org/updates/de-la-reaccion-a-la-prevencion-mapeo-de-riesgos-en-ecuador/) reunió a [1,039 personas que colaboraron para mapear 15,388 edificios y 101 km de infraestructura en OSM](https://www.preventionweb.net/es/news/mapaton-ecuador-identificando-riesgos-de-desastres-para-poder-reducirlos).
 
