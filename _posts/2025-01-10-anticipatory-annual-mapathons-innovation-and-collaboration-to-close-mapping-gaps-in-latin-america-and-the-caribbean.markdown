@@ -18,6 +18,8 @@ Country:
 - Peru
 ---
 
+**[Versión en español](https://www.hotosm.org/updates/mapatones-anuales-anticipatorios-innovacion-y-colaboracion-para-cerrar-vacios-cartograficos-en-latinoamerica-y-el-caribe/)**
+
 ## Anticipatory Annual National Mapathons (MANA)
 
 The Anticipatory Annual National Mapathons (MANA) have become a valuable tool for addressing critical mapping gaps in Latin America and the Caribbean. Led by the Open Mapping Hub for Latin America and the Caribbean (LAC Hub) of the Humanitarian OpenStreetMap Team (HOT), these mapathons respond to the urgent need for accurate geospatial data for risk prevention and mitigation. By integrating broad citizen participation within limited timeframes, leveraging open technologies, and fostering multisectoral collaboration, MANA contributes valuable inputs to territorial planning and enhances disaster response capacity.
@@ -64,7 +66,7 @@ In collaboration with the National Unit for Disaster Risk Management (UNGRD) and
 
 The project, developed from the outset in collaboration with local Youth Mappers groups such as SAGeMA and Tadeo Mappers, culminated in October during the International Day for Disaster Risk Reduction. This effort laid a strong foundation for expanding the initiative in 2025, emphasizing the importance of multisectoral collaboration and community leadership.
 
-![Mapatón Nacional de Gestión de Riesgos MANAS Hotosm Colombia.jpg](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/Mapato%CC%81n%20Nacional%20de%20Gestio%CC%81n%20de%20Riesgos%20MANAS%20Hotosm%20Colombia.jpg?download)
+![Mapatón Nacional de Gestión de Riesgos MANAS Hotosm Colombia.jpg](/uploads/Mapato%CC%81n%20Nacional%20de%20Gestio%CC%81n%20de%20Riesgos%20MANAS%20Hotosm%20Colombia.jpg)
 
 During the mapathon, Colombia faced an emergency due to heavy rains that severely affected the department of Chocó, causing human and material losses in multiple municipalities.
 
@@ -72,13 +74,13 @@ In response, the mapathon focused volunteer efforts on mapping the affected area
 
 This experience demonstrated to the National Unit for Disaster Risk Management (UNGRD) the advantages of participatory mapping and the potential of an active community in generating essential cartography for emergency response and disaster risk management.
 
-![Puerto Calceido, Colombia Mapatón de Gestión de Riesgos HOTOSM](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/Puerto%20Calceido,%20Colombia%20Mapato%CC%81n%20de%20Gestio%CC%81n%20de%20Riesgos%20HOTOSM?download)
+![Puerto Calceido, Colombia Mapatón de Gestión de Riesgos HOTOSM](/uploads/Puerto%20Calceido,%20Colombia%20Mapato%CC%81n%20de%20Gestio%CC%81n%20de%20Riesgos%20HOTOSM)
 
 ## Road Network Mapathon "Avenues for Well-Being," Guatemala 2024
 
 In 2024, in a slightly different context but with the same approach, Guatemala carried out its first large-scale Rural Roads Mapathon, led by UNDP and HOT in support of the planning needs of the new Guatemalan government's priority program, *Avenues for Well-Being*. This initiative focuses on assessing the condition of the country's roads and highways to plan infrastructure improvements that foster rural development. Together, we encouraged participation through the UN Volunteers platform and issued direct invitations to professors and students from various university campuses across the country, particularly those based in the priority department of Alta Verapaz. This initiative also served as a catalyst for strengthening Guatemala's mapping community by engaging citizens in a meaningful and unifying objective.
 
-![Cobán, Guatemala Avenidas del Buen Vivir.png](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/Coba%CC%81n,%20Guatemala%20Avenidas%20del%20Buen%20Vivir.png?download)
+![Cobán, Guatemala Avenidas del Buen Vivir.png](/uploads/Coba%CC%81n,%20Guatemala%20Avenidas%20del%20Buen%20Vivir.png)
 
 Before this project, Guatemala faced a critical geospatial data gap regarding its road network. This gap severely limited decision-making processes and public investment in infrastructure. According to Juan Carlos Méndez, director of the *Avenues for Well-Being* program:\
 *"The data gap was so vast that unregistered roads simply didn’t exist in public planning. Without accurate data, we couldn't connect urban Guatemala with rural Guatemala, perpetuating social and economic exclusion."*
@@ -109,7 +111,7 @@ Before this project, Guatemala faced a critical geospatial data gap regarding it
 
 With the mapathon results as a foundation, the government aims to integrate this data into various national programs related to the development of underserved areas.
 
-![Vías Mapeadas Avenidas del Buen Vivir.png](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png?download)
+![Vías Mapeadas Avenidas del Buen Vivir.png](/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png)
 
 ## Where Are We Headed?
 

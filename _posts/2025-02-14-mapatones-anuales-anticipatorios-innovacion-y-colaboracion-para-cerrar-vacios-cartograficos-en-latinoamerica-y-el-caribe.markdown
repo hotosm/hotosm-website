@@ -19,6 +19,8 @@ Country:
 - Peru
 ---
 
+**[English version](https://www.hotosm.org/updates/anticipatory-annual-mapathons-innovation-and-collaboration-to-close-mapping-gaps-in-latin-america-and-the-caribbean/)**
+
 Los Mapatones Nacionales Anuales Anticipatorios (MANA) se han convertido en una herramienta valiosa para abordar los vacíos cartográficos críticos en América Latina y el Caribe. Impulsados por el Hub de Mapeo Abierto para Latinoamérica y el Caribe (LAC Hub) del Equipo Humanitario de OpenStreetMap (HOT), estos mapatones responden a la urgente necesidad de datos geoespaciales precisos para la prevención y mitigación de riesgos. Al integrar una participación ciudadana amplia en tiempos acotados, el uso de tecnologías abiertas y la colaboración multisectorial, los MANA aportan insumos valiosos a la planificación territorial y mejoran la capacidad de respuesta frente a desastres naturales.
 
 OpenStreetMap (OSM), una plataforma colaborativa global, actúa como el eje central de esta iniciativa. Con una comunidad activa de 10 millones de personas usuarias registradas, distribuida en más de 50 países, OSM ha demostrado su impacto al proporcionar mapas editables y accesibles que apoyan la toma de decisiones informada durante crisis y desastres, y para la preparación a los mismos. Los MANA aprovechan esta infraestructura tecnológica para generar datos actualizados y de alta precisión sobre el territorio y sus riesgos, enfocados a áreas de vulnerabilidad delimitadas y priorizadas por las autoridades y especialistas de cada país, inmoviliza mapeadores en su mayoría locales, además de la comunidad regional. Como bien se dice: "No hay mejor persona mapeadora que el que conoce y encarna su propio territorio."
