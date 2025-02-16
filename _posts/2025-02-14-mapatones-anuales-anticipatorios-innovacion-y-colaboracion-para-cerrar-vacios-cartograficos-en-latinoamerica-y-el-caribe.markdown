@@ -43,7 +43,7 @@ Gracias al trabajo conjunto de la [Secretaría de Gestión de Riesgos de Ecuador
 
 En 2024, la Secretaría de Gestión de Riesgo concretó el Segundo Mapatón Nacional Anual para enfrentar el fenómeno de La Niña. A pesar de los desafíos significativos, como cortes de luz diarios debido a una serie de graves incendios en el país productos del cambio climático, más de 350 colaboradores locales e internacionales lograron mapear 26,247 construcciones y 262 km de carreteras. Este esfuerzo destacó la resiliencia y compromiso de la comunidad de OSM en Ecuador y compromiso de Secretaria de Gestión de Riesgos de Desastres, y reforzó la capacidad del país para responder a eventos climáticos extremos.
 
-<iframe frameborder="0" class="juxtapose" width="70%" height="1237.088888888889" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1ecd2584-ec1e-11ef-9397-d93975fe8866"></iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="1237.088888888889" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1ecd2584-ec1e-11ef-9397-d93975fe8866"></iframe>
 
 ## **Cuarta Mapatón Anual 2024 en Perú**
 
