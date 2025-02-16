@@ -44,11 +44,7 @@ Gracias al trabajo conjunto de la [Secretaría de Gestión de Riesgos de Ecuador
 
 En 2024, la Secretaría de Gestión de Riesgo concretó el Segundo Mapatón Nacional Anual para enfrentar el fenómeno de La Niña. A pesar de los desafíos significativos, como cortes de luz diarios debido a una serie de graves incendios en el país productos del cambio climático, más de 350 colaboradores locales e internacionales lograron mapear 26,247 construcciones y 262 km de carreteras. Este esfuerzo destacó la resiliencia y compromiso de la comunidad de OSM en Ecuador y compromiso de Secretaria de Gestión de Riesgos de Desastres, y reforzó la capacidad del país para responder a eventos climáticos extremos.
 
-<iframe src="https://beforeafter.baato.io/provision/2f8464eb-1c72-462d-8d19-d4279103750e" \
-        width="100%" \
-        height="600px" \
-        style="border: none;">\
-</iframe>
+<iframe frameborder="0" class="juxtapose" width="100%" height="1237.088888888889" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1ecd2584-ec1e-11ef-9397-d93975fe8866"></iframe>
 
 ## **Cuarta Mapatón Anual 2024 en Perú**
 
@@ -60,11 +56,25 @@ En junio, como parte de las actividades con involucramiento pluri institucional,
 
 Este cuarto mapatón marcó un hito en la construcción de capacidades técnicas y en el fortalecimiento de redes comunitarias en Perú, sentando las bases para una gestión de riesgos más eficiente y sostenible en el futuro.
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">\
+    <iframe \
+        src="https://www.youtube.com/embed/N0FSC2Q0NcA?si=sDGEahJkOtfsDsxS" \
+        title="YouTube video player"\
+        frameborder="0" \
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"\
+        referrerpolicy="strict-origin-when-cross-origin" \
+        allowfullscreen\
+        style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">\
+    </iframe>\
+</div>
+
 ## Primera Mapatón Anual de Riesgos en Colombia 2024
 
 En colaboración con la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) y con el aval del Instituto Geográfico Agustín Codazzi (IGAC), Colombia llevó a cabo su primer Mapatón Nacional Anual en septiembre de 2024. Durante la Semana Geomática, casi 200 voluntarios, tanto locales como globales, trabajaron en conjunto para mapear 28 km de carreteras y 26,111 construcciones en áreas prioritarias.
 
 El proyecto, desarrollado en colaboración desde el inicio con  grupos de jóvenes Youth Mappers locales como SAGeMA y Tadeo Mappers, culminó en octubre durante la Semana Internacional para la Reducción de Desastres. Este esfuerzo cimentó una base sólida para expandir la iniciativa en 2025, destacando la importancia de la colaboración multisectorial y el liderazgo comunitario.
+
+![Mapatón Nacional de Gestión de Riesgos MANAS Hotosm Colombia.jpg](/uploads/Mapato%CC%81n%20Nacional%20de%20Gestio%CC%81n%20de%20Riesgos%20MANAS%20Hotosm%20Colombia.jpg)
 
 Durante la ejecución del mapatón, se presentó una emergencia en Colombia debido a las fuertes lluvias que afectaron gravemente el departamento del Chocó, causando pérdidas humanas y materiales en múltiples municipios.
 
@@ -72,29 +82,33 @@ Ante esta situación, el mapatón permitió enfocar los esfuerzos de los volunta
 
 Esta experiencia permitió demostrar a la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) las ventajas del mapeo participativo y el potencial de una comunidad activa en la generación de cartografía básica para la atención de emergencias y la gestión del riesgo ante desastres.
 
+![Puerto Calceido, Colombia Mapatón de Gestión de Riesgos HOTOSM](/uploads/Puerto%20Calceido,%20Colombia%20Mapato%CC%81n%20de%20Gestio%CC%81n%20de%20Riesgos%20HOTOSM)
+
 ## Red de Caminos "Avenidas del Buen Vivir", Guatemala 2024
 
 En 2024, en un contexto un poco diferente Pero con el mismo enfoque, Guatemala implementó su primer amplio mapatón de Caminos Rurales, liderado por PNUD y HOT en apoyo a las necesidades de planeación del programa prioritario del nuevo gobierno de Guatemala, “Avenidas para el Buen Vivir”. Este programa se enfoca en diagnosticar el estado de los caminos y carreteras del país para planear mejoras de infraestructuras que potencian el desarrollo rural. En conjunto, convocamos a la participación a través de la plataforma de Voluntarios de la ONU, además de una invitación directa a profesores y estudiantes de varias sedes de universidades del país, particularmente las basadas en el departamento prioritario de Alta Verapaz. De esta manera, utilizamos además la iniciativa como un pretexto para fortalecer fuertemente la comunidad mapeadora de este país, en relación con un objetivo real y federador para esta ciudadanía.
 
-Se reunió así una red de 332 personas voluntarias que han mapeado 50,000 caminos sumando 29,000 kilómetros, destacando 12,421 kilómetros de caminos principales y 17,018 kilómetros de senderos y vías de terracería. Este proyecto aborda décadas de exclusión y ataca la desconexión de comunidades rurales frente al desarrollo y el bienestar.
+![Cobán, Guatemala Avenidas del Buen Vivir.png](/uploads/Coba%CC%81n,%20Guatemala%20Avenidas%20del%20Buen%20Vivir.png)
 
 Antes del proyecto, Guatemala enfrentaba un vacío crítico en datos geoespaciales sobre su red vial. Este vacío limitaba todo proceso de toma de decisiones así como la inversión pública en infraestructura . Según Juan Carlos Méndez, director del programa Avenidas para el Buen Vivir: “Teníamos un vacío tan grande que los caminos no registrados simplemente no existían en términos de planificación pública. Sin datos precisos, no podíamos conectar a la Guatemala urbana con la Guatemala rural, y eso perpetúa la exclusión social y económica.”
 
 El proceso incluyó las siguientes etapas:
 
-1. \*\*Definición de Áreas Prioritarias: \*\*Se utilizaron criterios como pobreza estructural, necesidades básicas insatisfechas y vulnerabilidad climática para seleccionar regiones prioritarias. El gobierno y PNUD ya tenían identificada al departamento de Alta Verapaz, seguida de Quiché y Huehuetenango por estas razones.
+1. **Definición de Áreas Prioritarias:** Se utilizaron criterios como pobreza estructural, necesidades básicas insatisfechas y vulnerabilidad climática para seleccionar regiones prioritarias. El gobierno y PNUD ya tenían identificada al departamento de Alta Verapaz, seguida de Quiché y Huehuetenango por estas razones.
 
-2. \*\*Convocatoria: \*\*buscando una amplia participación en un país donde la comunidad de Openstreetmap no es fuerte, llevó a PNUD proponer una amplia movilización en la plataforma de Voluntarios de la ONU, que al mismo tiempo Hot estaría reforzando con una convocatoria directa a través de contactos académicos en distintas universidades del país en distintas sedes: la Universidad de San Carlos y Rafael Landívar en particular.
+2. **Convocatoria:** Buscando una amplia participación en un país donde la comunidad de Openstreetmap no es fuerte, llevó a PNUD proponer una amplia movilización en la plataforma de Voluntarios de la ONU, que al mismo tiempo Hot estaría reforzando con una convocatoria directa a través de contactos académicos en distintas universidades del país en distintas sedes: la Universidad de San Carlos y Rafael Landívar en particular.
 
 3. **Capacitación:** Voluntarios de todas las edades y niveles de experiencia participaron en talleres de capacitación obligatoria organizados por HOT, enfocadas al mapeo de caminos.
 
 4. **Mapeo:** la cartografía de forma autónoma de los voluntarios, durante un mes, fue supervisada de cerca por HOT respondiendo permanentemente dudas y ejemplificando problemas que se iban presentando.
 
-5. \*\*Validación: \*\*Para garantizar la calidad de los datos, se contrataron validadores expertos que revisaron las áreas estratégicas más complejas, financiado por HOT y PNUD, y con patrocinios en especie de las empresas TomTom y Kaart.
+5. **Validación:** Para garantizar la calidad de los datos, se contrataron validadores expertos que revisaron las áreas estratégicas más complejas, financiado por HOT y PNUD, y con patrocinios en especie de las empresas TomTom y Kaart.
 
-6. \*\*Entrega de Datos: \*\*Los datos se hicieron disponibles socializando directamente ligas de descarga de Openstreetmap y también en paquetes descargados en formato shapefile que se entregaron a PNUD para el gobierno, permitiendo su uso inmediato por parte de los ministerios, al mismo tiempo que se permite el acceso a ONGs y otros actores.
+6. **Entrega de Datos:** Los datos se hicieron disponibles socializando directamente ligas de descarga de Openstreetmap y también en paquetes descargados en formato shapefile que se entregaron a PNUD para el gobierno, permitiendo su uso inmediato por parte de los ministerios, al mismo tiempo que se permite el acceso a ONGs y otros actores.
 
 El impacto del mapatón va más allá de los números. Estos son algunos de los logros clave:
+
+* Se reunió así una red de **332 personas voluntarias**.
 
 * **50,000 caminos mapeados en la totalidad del país, sumando 29,000 kilómetros.**
 
@@ -103,6 +117,10 @@ El impacto del mapatón va más allá de los números. Estos son algunos de los 
 * Datos integrados en la planificación de programas de desarrollo en regiones como Huehuetenango, Quiché y las Verapaces.
 
 Con los resultados del mapatón como base, el gobierno busca integrar esta información en distintos programas nacionales relacionados con el desarrollo de áreas rezagadas.
+
+![Vías Mapeadas Avenidas del Buen Vivir.png](/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png)
+
+## ¿Hacia dónde vamos?
 
 Los Mapatones Nacionales Anuales Anticipatorios (MANA) son mucho más que eventos colaborativos puntuales: son una herramienta sistematizada e integradora para fortalecer la prevención y gestión de riesgos de desastres, construyendo conocimiento territorial preciso y actualizado a través del empoderamiento ciudadano. Al integrar la participación conjunta de comunidades, organizaciones y gobiernos, los MANA aseguran que los responsables de la toma de decisiones puedan confiar en datos geoespaciales de alta calidad para planear, priorizar y asignar recursos de manera más eficiente, alcanzando a las comunidades más vulnerables.
 
