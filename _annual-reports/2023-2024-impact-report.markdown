@@ -1,6 +1,7 @@
 ---
 title: 2023-2024 Impact Report
 date: 2025-02-17 18:57:00 Z
+Link: www.hotosm.org/uploads/2023-2024-ImpactReport_2025VersionLow.pdf
 Image: "/uploads/ImpactReportCover23-24.png"
 ---
 
