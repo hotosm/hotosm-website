@@ -14,6 +14,8 @@ Country:
 - Guatemala
 ---
 
+**[Versión en español](https://www.hotosm.org/updates/rutas-para-el-desarrollo-mapeando-caminos-para-la-conectividad-y-el-desarrollo-en-guatemala/)**
+
 In an unprecedented effort to improve road infrastructure planning in Guatemala, the [United Nations Development Programme (UNDP)](https://www.undp.org/guatemala) and the Open Mapping Hub for Latin America and the Caribbean from the Humanitarian OpenStreetMap Team (HOT) joined forces to conduct a national mapathon. This initiative transformed the country's rural cartography at a critical political moment. The collaboration aimed to fill a historical gap in geospatial information, allowing the government to integrate reliable data into the Routes for Development Program and other territorial development projects that would benefit from an updated national road map.
 
 ## **The Cartographic Gap in Latin America**

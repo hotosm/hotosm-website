@@ -14,7 +14,7 @@ Country:
 - Guatemala
 ---
 
-English version
+**[English version](https://www.hotosm.org/updates/routes-for-development-mapping-roads-for-connectivity-and-development-in-guatemala/)**
 
 En un esfuerzo sin precedentes por mejorar la planificación de infraestructura vial en Guatemala, el [Programa de Naciones Unidas para el Desarrollo (PNUD)](https://www.undp.org/es/guatemala) Guatemala y el Hub de Mapeo Abierto para Latinoamérica y el Caribe del Equipo Humanitario de OpenStreetMap (HOT) unieron fuerzas para realizar un mapatón nacional que transformó la cartografía rural del país en un momento político crítico. Esta colaboración buscó llenar un vacío histórico de información geoespacial, permitiendo al gobierno integrar datos confiables en el Programa Rutas para el Desarrollo y otros proyectos de desarrollo territorial que en cadena se beneficiarían de ya tener una cartografía actualizada de caminos a nivel nacional.
 
