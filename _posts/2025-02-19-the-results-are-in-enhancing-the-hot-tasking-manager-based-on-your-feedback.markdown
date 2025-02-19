@@ -1,7 +1,6 @@
 ---
 title: The Results Are In! Enhancing the HOT Tasking Manager Based on Your Feedback
 date: 2025-02-19 18:01:00 Z
-published: false
 Summary Text: A tool is nothing without its users. Over the years, the HOT Tasking
   Manager has evolved and improved thanks to the input of all the contributors around
   the world, who have shared with us what they love and the improvements they would
