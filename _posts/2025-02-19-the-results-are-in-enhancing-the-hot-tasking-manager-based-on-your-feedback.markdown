@@ -62,6 +62,7 @@ However, there is always room for improvement, and users highlighted key areas f
 </table>
 
 <br>
+<br>
 
 Based on these responses, we are excited to say that our 2025 roadmap for TM will incorporate the feedback provided on the NPS.
 **🛠️ Tasking Manager: What’s Coming in 2025?**
@@ -75,13 +76,14 @@ After completing initial testing last November and December, FastAPI integration
 **2. The new Super Mapper level has arrived**
 We have now introduced **the Super Mapper,** a new mapper level above “Advanced” to recognize highly skilled mappers. This new level aims to improve data quality, reduce validator workload, and retain top contributors. This initiative seeks to create a globally recognized expert mapping pool, motivating contributors to keep mapping. We are currently discussing some key topics like eligibility criteria, assessment fairness, recognition methods, and Tasking Manager integration. Join the discussion and share your views about the Super Mapper level in this [discussion thread.](https://github.com/hotosm/tasking-manager/discussions/6706)
 **Other key priority areas we are considering for the 2025 roadmap include:**
+
 <br>
+
 * **Creating an OSM Sandbox:** this will be a dedicated testing and research environment, enabling users to experiment with mapping workflows without affecting real OpenStreetMap (OSM) data. Read more about our pilot with ***Médecins Sans Frontières (MSF)*** [here](https://www.linkedin.com/feed/update/urn:li:activity:7273303942606790656/). 
 * **Expanding mapping project types:** New project types will include some thematic feature mapping, like infrastructure mapping covering public utilities and roads, or safety-focused mapping to identify disaster-prone areas. 
 * **AI-Powered Mapping Enhancements:** We are planning a phased rollout of AI-driven task management, introducing support for task assignment and difficulty estimation to enhance user experience.
 * **New Integrations with other mapping tools:** We also plan to explore integrations with [MapSwipe](https://mapswipe.org/en/), [uMap](https://umap.openstreetmap.fr/en/), and [MapRoulette](https://maproulette.org/) to create a seamless user experience from data generation to validation and visualization.
 
-<br>
 <br>
 
 **The Tasking Manager roadmap is driven by community feedback, and your insights are invaluable in shaping its future.** Which features excite you the most? What improvements do you think will have the biggest impact? How do you see AI enhancing your mapping experience? Whether you’re engaged in humanitarian mapping, education, research, or enterprise projects, your input is invaluable, and we’d love to hear your thoughts!
