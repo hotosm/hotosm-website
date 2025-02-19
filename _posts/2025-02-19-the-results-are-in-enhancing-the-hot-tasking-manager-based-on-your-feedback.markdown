@@ -13,7 +13,7 @@ Project:
 - Tasking Manager
 ---
 
-“As an open-source platform, the Tasking Manager reflects the values of collaboration and transparency, allowing communities worldwide to adapt and use it for localized needs.”* This was one of the answers submitted by one of the 67 users from across the globe who participated in last December’s [NPS \(Net Promoter Score\)](https://en.wikipedia.org/wiki/Net_promoter_score) for the HOT Tasking Manager (TM). The TM has [gone through a lot of changes since the launch of its first version in 2011](https://wiki.openstreetmap.org/wiki/History_of_the_OSM_Tasking_Manager), and with time it has become our flagship tool, enabling volunteers and organizations to add geospatial data to OpenStreetMap in a collaborative and efficient way.
+*“As an open-source platform, the Tasking Manager reflects the values of collaboration and transparency, allowing communities worldwide to adapt and use it for localized needs.”* This was one of the answers submitted by one of the 67 users from across the globe who participated in last December’s [NPS \(Net Promoter Score\)](https://en.wikipedia.org/wiki/Net_promoter_score) for the HOT Tasking Manager (TM). The TM has [gone through a lot of changes since the launch of its first version in 2011](https://wiki.openstreetmap.org/wiki/History_of_the_OSM_Tasking_Manager), and with time it has become our flagship tool, enabling volunteers and organizations to add geospatial data to OpenStreetMap (OSM) in a collaborative and efficient way.
 
 ### Understanding the NPS
 
@@ -72,19 +72,19 @@ However, there is always room for improvement, and users highlighted key areas f
 <br>
 <br>
 
-### Looking to the future
+**🛠️ Tasking Manager: What’s Coming in 2025?**
 
 Based on these responses, we are excited to say that our 2025 roadmap for TM will incorporate the feedback provided on the NPS.
 
-**🛠️ Tasking Manager: What’s Coming in 2025?**
 The Tasking Manager Roadmap for this year includes key updates in technical infrastructure, a new mapper level, expanding mapping project types, AI integration, and better user recognition features.
+
 Two focused areas of work that are already underway:
 
-**1** **Technical Stack Upgrades**
+**1.** **Technical Stack Upgrades**
 
 To modernize Tasking Manager, several backend and infrastructure improvements have been underway since the beginning of 2024. 
 
-The transition to ***FastAPI*** will introduce an asynchronous framework for better performance, while adopting ***[TypeScript and Vite](https://github.com/hotosm/tasking-manager/pull/6693)***will enhance development efficiency and code maintainability. ***We aim to implement Terraform*** for infrastructure as code, ensuring stable deployments and ***dependency upgrades*** will be prioritized to maintain long-term sustainability. 
+The transition to ***FastAPI*** will introduce an asynchronous framework for better performance, while adopting ***[TypeScript and Vite](https://github.com/hotosm/tasking-manager/pull/6693) ***will enhance development efficiency and code maintainability. ***We aim to implement Terraform*** for infrastructure as code, ensuring stable deployments and ***dependency upgrades*** will be prioritized to maintain long-term sustainability. 
 
 After completing initial testing last November and December, FastAPI integration is now available on [staging setup](https://tasks-stage.hotosm.org/) for user acceptance testing, and this will roll out to production as version 5 in mid-March.
 
@@ -94,9 +94,7 @@ We have now introduced **the Super Mapper,** a new mapper level above “Advance
 
 **Other key priority areas we are considering for the 2025 roadmap include:**
 
-<br>
-
-* **Creating an OSM Sandbox:** this will be a dedicated testing and research environment, enabling users to experiment with mapping workflows without affecting real OpenStreetMap (OSM) data. Read more about our pilot with ***Médecins Sans Frontières (MSF)*** [here](https://www.linkedin.com/feed/update/urn:li:activity:7273303942606790656/). 
+* **Creating an OSM Sandbox:** This will be a dedicated testing and research environment, enabling users to experiment with mapping workflows without affecting real OSM data. Read more about our pilot with ***Médecins Sans Frontières (MSF)*** [here](https://www.linkedin.com/feed/update/urn:li:activity:7273303942606790656/). 
 * **Expanding mapping project types:** New project types will include some thematic feature mapping, like infrastructure mapping covering public utilities and roads, or safety-focused mapping to identify disaster-prone areas. 
 * **AI-Powered Mapping Enhancements:** We are planning a phased rollout of AI-driven task management, introducing support for task assignment and difficulty estimation to enhance user experience.
 * **New Integrations with other mapping tools:** We also plan to explore integrations with [MapSwipe](https://mapswipe.org/en/), [uMap](https://umap.openstreetmap.fr/en/), and [MapRoulette](https://maproulette.org/) to create a seamless user experience from data generation to validation and visualization.
@@ -105,5 +103,9 @@ We have now introduced **the Super Mapper,** a new mapper level above “Advance
 
 ### Join the conversation
 
-**The Tasking Manager roadmap is driven by community feedback, and your insights are invaluable in shaping its future.** Which features excite you the most? What improvements do you think will have the biggest impact? How do you see AI enhancing your mapping experience? Whether you’re engaged in humanitarian mapping, education, research, or enterprise projects, your input is invaluable, and we’d love to hear your thoughts!
-Join the discussion about the [2025 road map on GitHub](https://github.com/hotosm/tasking-manager/discussions/6688) and [the HOT Slack](https://slack.hotosm.org/) #tasking-manager channel to help shape the next evolution of HOT Tasking Manager!
+**The Tasking Manager roadmap is driven by community feedback, and your insights are invaluable in shaping its future.** 
+* Which features excite you the most? 
+* What improvements do you think will have the biggest impact? 
+* How do you see AI enhancing your mapping experience? 
+
+Whether you’re engaged in humanitarian mapping, education, research, or enterprise projects, your input is invaluable, and we’d love to hear your thoughts! Join the discussion about the [2025 road map on GitHub](https://github.com/hotosm/tasking-manager/discussions/6688) and [the HOT Slack](https://slack.hotosm.org/) #tasking-manager channel to help shape the next evolution of HOT Tasking Manager!
