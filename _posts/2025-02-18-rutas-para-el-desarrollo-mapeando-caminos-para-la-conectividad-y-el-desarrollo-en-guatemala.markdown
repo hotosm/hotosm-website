@@ -6,7 +6,7 @@ Summary Text: Descubre cómo el mapatón liderado por HOT y PNUD está transform
   la infraestructura vial en Guatemala. Rutas para el Desarrollo ahora cuenta con
   datos precisos sobre caminos rurales, facilitando la conectividad y el desarrollo
   territorial. Conoce el impacto de la ciencia ciudadana en la planificación pública.
-Feature Image: "/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png"
+Feature Image: "/uploads/Rutas%20para%20el%20Desarrollo-%20Mapeando%20Caminos%20para%20la%20Conectividad%20y%20el%20Desarrollo%20en%20Guatemala.jpg"
 Person:
 - Céline Jacquin
 - Mariana Marín

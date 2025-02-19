@@ -6,7 +6,7 @@ Summary Text: Discover how the mapathon led by HOT and UNDP is transforming road
   in Guatemala. Routes for Development now has precise data on rural roads, enhancing
   connectivity and territorial development. Learn about the impact of citizen science
   on public planning.
-Feature Image: "/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png"
+Feature Image: "/uploads/Rutas%20para%20el%20Desarrollo-%20Mapeando%20Caminos%20para%20la%20Conectividad%20y%20el%20Desarrollo%20en%20Guatemala.jpg"
 Person:
 - Céline Jacquin
 - Mariana Marín
