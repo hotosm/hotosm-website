@@ -49,7 +49,7 @@ Thus, it is important to capture a longitudinal study of the rivers in India, i.
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <img src="/uploads/sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 30%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span><a> Photo by: </a>
         <a href="https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/">AP Hub</a> - 
