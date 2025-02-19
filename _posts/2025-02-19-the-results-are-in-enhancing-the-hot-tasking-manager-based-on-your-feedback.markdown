@@ -17,7 +17,7 @@ Project:
 
 ### Understanding the NPS
 
-Now in its fifth version (Tasking Manager v5), we have prioritized our users in guiding our improvement efforts by conducting the NPS since the beginning of last year. Over the last round of the survey, the TM got an **NPS score of 75**, indicating an overall positive and highly satisfactory experience with the tool. This also shows a great increase compared to last year’s score of 33.89, demonstrating the commitment of the HOT tech team and our partner Naxa in making significant improvements to the HOT Tasking Manager and focusing our approach to incorporating our users' experience into the product’s roadmap. 
+Now in its fifth version (Tasking Manager v5), we have prioritized our users in guiding our improvement efforts by conducting the NPS since the beginning of last year. Over the last round of the survey, the TM got an **NPS score of 75**, indicating an overall positive and highly satisfactory experience with the tool. This also shows a great increase compared to last year’s score of 33.89, demonstrating the commitment of the HOT tech team and our partner [Naxa](https://naxa.com.np/) in making significant improvements to the HOT Tasking Manager and focusing our approach to incorporating our users' experience into the product’s roadmap. 
 
 The NPS is calculated by subtracting the percentage of detractors from the percentage of promoters (see image below), and in general (depending on the sources) it is considered that having a score of -100 to 0 means that a product or service needs improvement, from 1-29 is good or favorable, above 50 is excellent and above 70 or 80 is world-class. We are pretty excited about having reached that level!
 
@@ -84,7 +84,7 @@ Two focused areas of work that are already underway:
 
 To modernize Tasking Manager, several backend and infrastructure improvements have been underway since the beginning of 2024. 
 
-The transition to ***FastAPI*** will introduce an asynchronous framework for better performance, while adopting ***[TypeScript and Vite](https://github.com/hotosm/tasking-manager/pull/6693) ***will enhance development efficiency and code maintainability. ***We aim to implement Terraform*** for infrastructure as code, ensuring stable deployments and ***dependency upgrades*** will be prioritized to maintain long-term sustainability. 
+The transition to ***FastAPI*** will introduce an asynchronous framework for better performance, while adopting ***[TypeScript and Vite](https://github.com/hotosm/tasking-manager/pull/6693) will enhance development efficiency and code maintainability.*** We aim to implement Terraform for infrastructure as code, ensuring stable deployments and ***dependency upgrades*** will be prioritized to maintain long-term sustainability. 
 
 After completing initial testing last November and December, FastAPI integration is now available on [staging setup](https://tasks-stage.hotosm.org/) for user acceptance testing, and this will roll out to production as version 5 in mid-March.
 
