@@ -1,26 +1,34 @@
 ---
-title: 'Avenidas para el Buen Vivir: Mapeando Caminos para la Conectividad y el Desarrollo
+title: 'Rutas para el Desarrollo: Mapeando Caminos para la Conectividad y el Desarrollo
   en Guatemala'
 date: 2025-02-18 03:53:00 Z
 Summary Text: Descubre cómo el mapatón liderado por HOT y PNUD está transformando
-  la infraestructura vial en Guatemala. Avenidas para el Buen Vivir ahora cuenta con
+  la infraestructura vial en Guatemala. Rutas para el Desarrollo ahora cuenta con
   datos precisos sobre caminos rurales, facilitando la conectividad y el desarrollo
   territorial. Conoce el impacto de la ciencia ciudadana en la planificación pública.
+Feature Image: "/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png"
+Person:
+- Céline Jacquin
+- Mariana Marín
+Country:
+- Guatemala
 ---
 
-En un esfuerzo sin precedentes por mejorar la planificación de infraestructura vial en Guatemala, el Programa de Naciones Unidas para el Desarrollo (PNUD) Guatemala y el Hub LAC del Equipo Humanitario de OpenStreetMap (HOT) unieron fuerzas para realizar un mapatón nacional que transformó la cartografía rural del país en un momento político crítico. Esta colaboración buscó llenar un vacío histórico de información geoespacial, permitiendo al gobierno integrar datos confiables en el programa Avenidas para el Buen Vivir y otros proyectos de desarrollo territorial que en cadena se beneficiarían de ya tener una cartografía actualizada de caminos a nivel nacional.
+En un esfuerzo sin precedentes por mejorar la planificación de infraestructura vial en Guatemala, el [Programa de Naciones Unidas para el Desarrollo (PNUD)](https://www.undp.org/es/guatemala) Guatemala y el Hub de Mapeo Abierto para Latinoamérica y el Caribe del Equipo Humanitario de OpenStreetMap (HOT) unieron fuerzas para realizar un mapatón nacional que transformó la cartografía rural del país en un momento político crítico. Esta colaboración buscó llenar un vacío histórico de información geoespacial, permitiendo al gobierno integrar datos confiables en el Programa Rutas para el Desarrollo y otros proyectos de desarrollo territorial que en cadena se beneficiarían de ya tener una cartografía actualizada de caminos a nivel nacional.
 
 ## **La Brecha Cartográfica en América Latina**
 
 En la mayoría de los países de América Latina y otras regiones en desarrollo, la cartografía disponible para los gobiernos es deficiente, con datos desactualizados y poco precisos. Esta limitación afecta la toma de decisiones, la planificación territorial y la prevención de crisis. A menudo, los institutos nacionales de geografía poseen información parcial que no responde a las necesidades de los programas prioritarios, mientras que las cartografías generadas por consultores o empresas privadas suelen ser costosas y de alcance limitado. Como resultado, la creación de datos cartográficos es fragmentaria y depende de decisiones futuras, perpetuando la falta de una base sólida para la política pública.
 
-Ante esta carencia, la ciencia ciudadana ha demostrado ser una solución viable. HOT se especializa en promover la mejora colaborativa de OpenStreetMap, movilizando comunidades para generar datos abiertos y accesibles. Aunque estas cartografías no siempre cumplen con los estándares de oficialización de los institutos nacionales, han mostrado ser invaluables en la toma de decisiones, tanto a nivel municipal como nacional, en una variedad de situaciones críticas.
+Ante esta carencia, la ciencia ciudadana ha demostrado ser una solución viable. HOT se especializa en promover la mejora colaborativa de OpenStreetMap, movilizando comunidades para generar datos abiertos y accesibles. Aunque estas cartografías no siempre cumplen con los estándares de oficialización de los institutos nacionales, han mostrado ser invaluables en la toma de decisiones, tanto a nivel municipal como nacional, en una variedad de situaciones críticas.![Rutas del Desarrollo Cobán Guatemala Mapeo HOT.jpg](/uploads/Rutas%20del%20Desarrollo%20Coba%CC%81n%20Guatemala%20Mapeo%20HOT.jpg)*Imagen: Comparación del antes y después del mapeo de caminos en Santa Cruz Verapaz, mostrando la transformación y actualización de la cartografía local.*
 
-## Avenidas para el Buen Vivir: Un Camino Hacia la Conectividad
+## Rutas para el Desarrollo: Un Camino Hacia la Conectividad
 
-El programa [Avenidas para el Buen Vivir](https://portal.segeplan.gob.gt/segeplan/?p=10617), impulsado por el gobierno del presidente Bernardo Arévalo, busca cerrar la brecha de exclusión económica y social en Guatemala, facilitando la conectividad entre comunidades rurales y periurbanas con los centros de desarrollo. Históricamente, la falta de información detallada sobre los caminos rurales y la localización de comunidades había dificultado la inversión en infraestructura vial, limitando el acceso a servicios esenciales como salud, educación y desarrollo económico.
+El programa Rutas para el Desarrollo, impulsado por el gobierno del presidente Bernardo Arévalo, busca cerrar la brecha de exclusión económica y social en Guatemala, facilitando la conectividad entre comunidades rurales y periurbanas con los centros de desarrollo. Históricamente, la falta de información detallada sobre los caminos rurales y la localización de comunidades había dificultado la inversión en infraestructura vial, limitando el acceso a servicios esenciales como salud, educación y desarrollo económico.
 
-Antes de este esfuerzo, la red vial nacional no incluía una gran cantidad de caminos vecinales y senderos rurales, lo que impedía su consideración en la planificación de infraestructura. Como afirmó Juan Carlos Méndez, director del programa Avenidas para el Buen Vivir: *“Había un vacío tan grande que los caminos no registrados simplemente no existían en términos de planificación pública. Sin datos precisos, no podíamos conectar a la Guatemala rural con la Guatemala urbana, y eso perpetúa la exclusión social y económica.”* Con los datos generados por el Mapatón, se permitirá identificar regiones marginadas con claridad, conocer los medios actuales de conexión, permitiendo una planificación más efectiva.
+Antes de este esfuerzo, la red vial nacional no incluía una gran cantidad de caminos vecinales y senderos rurales, lo que impedía su consideración en la planificación de infraestructura. Como afirmó Juan Carlos Méndez, director del programa Rutas para el Desarrollo: *“Había un vacío tan grande que los caminos no registrados simplemente no existían en términos de planificación pública. Sin datos precisos, no podíamos conectar a la Guatemala rural con la Guatemala urbana, y eso perpetúa la exclusión social y económica.”* Con los datos generados por el Mapatón, se permitirá identificar regiones marginadas con claridad, conocer los medios actuales de conexión, permitiendo una planificación más efectiva.
+
+![Rutas del Desarrollo Guatemala Mapeo HOT.jpg](/uploads/Rutas%20del%20Desarrollo%20Guatemala%20Mapeo%20HOT.jpg)*Imagen: Visualización de tres caminos en Guatemala.*
 
 ## La Activación: Ciencia Ciudadana y Voluntariado Regional
 
@@ -28,35 +36,37 @@ Para cerrar esta brecha de datos, Equipo Humanitario de OpenStreetMap (HOT) y Pr
 
 ![Mapatón Guatemala Avenidas del Buen Vivir.jpg](/uploads/Mapato%CC%81n%20Guatemala%20Avenidas%20del%20Buen%20Vivir.jpg)
 
+*Imagen: Capacitaciones y mapeo en MapRoulette como parte del reporte del participante Sebastián Guillén Chávez.*
+
 ### **Metodología y Seguimiento**
 
 1. **Convocatoria: **Se abrieron inscripciones en ONU Voluntarios y se realizó un acercamiento directo a redes académicas y comunitarias, incluidos los nuevos capítulos de la red Youth Mappers creados este año y los anteriores.
 
-2. **Capacitación: **Las personas voluntarias participaron en sesiones obligatorias para aprender sobre mapeo de caminos utilizando OpenStreetMap y herramientas especializadas como MapRoulette.
+2. **Capacitación:** Las personas voluntarias participaron en sesiones obligatorias para aprender sobre mapeo de caminos utilizando OpenStreetMap y herramientas especializadas como MapRoulette.
 
 3. **Mapeo Autónomo: **Durante un mes, el equipo de HOT supervisó el proceso, respondiendo dudas y fomentando la calidad del mapeo.
 
-4. **Validación: **Se contrataron validadores expertos, con financiamiento de HOT y PNUD y patrocinio de las empresas TomTom y Kaart, para garantizar la precisión de la información recolectada.
+4. **Validación: **Se contrataron validadores expertos, con financiamiento de HOT y PNUD y patrocinio de las empresas [TomTom](https://www.tomtom.com/) y [Kaart](https://kaart.com/), para garantizar la precisión de la información recolectada.
 
-5. **Entrega de Datos: **Los datos fueron liberados en OpenStreetMap y en formatos descargables como Shapefile, facilitando su uso inmediato por parte del gobierno, ONG y otras entidades.
+5. **Entrega de Datos:** Los datos fueron liberados en OpenStreetMap y en formatos descargables como Shapefile, facilitando su uso inmediato por parte del gobierno, ONG y otras entidades.
 
 ## **Impacto en Números**
 
 El resultado de la activación fue impresionante:
 
-* 332 personas voluntarias participaron activamente.
+* **332 personas voluntarias** participaron activamente.
 
-* 50,000 caminos mapeados, sumando un total de 29,000 kilómetros.
+* **50,000 caminos mapeados**, sumando un total de **29,000 kilómetros**.
 
-* 17,018 kilómetros de senderos rurales identificados, esenciales para la movilidad en zonas remotas.
+* **17,018 kilómetros de senderos rurales identificados**, esenciales para la movilidad en zonas remotas.
 
-* 12, 421 km de caminos principales (residenciales: 5,709; carreteras menores: 5,551; vías de servicio: 1,161).
+* **12, 421 km de caminos principales** (residenciales: 5,709; carreteras menores: 5,551; vías de servicio: 1,161).
 
-* Datos utilizados para priorizar inversiones en infraestructura en Huehuetenango, Quiché y las Verapaces.
+* Datos utilizados para **priorizar inversiones en infraestructura** en Huehuetenango, Quiché y las Verapaces.
 
 En palabras de Juan Carlos, *“las estimaciones iniciales del mapeo eran de 12,000 km, lo cual sabemos ahora que estaba muy por debajo de la realidad. Sin embargo, el Mapatón superó todas las expectativas, cubriendo áreas mucho más amplias y proporcionando datos fundamentales para la planificación."*
 
-<iframe src="https://beforeafter.baato.io/provision/0e78f489-b11b-4e62-b8a9-9fa1ed20f2df" width="100%" height="600px" style="border: none;"></iframe>
+![Vías Mapeadas Avenidas del Buen Vivir.png](/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png)
 
 ## **Producto y Uso Político del Mapeo**
 
@@ -64,19 +74,23 @@ El impacto de este esfuerzo no solo se refleja en las cifras, sino también en l
 
 Carlos Duarte, director de *Geotecnológica de Centroamérica* y experto en desarrollo territorial, subraya que *"los datos llegaron en un momento oportuno, cuando la institucionalidad vial de Guatemala enfrentaba una crisis. Esto permitió planificar alternativas que marcan un cambio en la forma en que se desarrolla y gestiona la infraestructura vial. Además, este esfuerzo es una poderosa demostración del impacto de la ciencia ciudadana.”*
 
-![Vías Mapeadas Avenidas del Buen Vivir.png](/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png)
+El programa "Rutas para el Desarrollo", la nueva iniciativa presidencial enfocada en mejorar la infraestructura vial en zonas rurales de Guatemala, ha encontrado en los datos cartográficos de caminos mapeados con la ayuda de HOT una herramienta clave para la toma de decisiones. Estos datos no solo están siendo utilizados en la priorización de inversiones, sino también en la planificación de obras, permitiendo generar perfiles de proyecto que estiman la cantidad de kilómetros a mejorar y las comunidades beneficiarias, con especial atención en aquellas con menor acceso a servicios.
+
+Con el apoyo de la Universidad Rafael Landívar, a través de su Observatorio de Territorio y Clima, ha intervenido en el análisis de estos datos. Como resultado de este esfuerzo, ya se han aprobado intervenciones para la rehabilitación de más de 1,000 km de caminos rurales en tres regiones prioritarias antes de que finalice el año 2025, impactando significativamente en la conectividad y el desarrollo de las comunidades más vulnerables.
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/share/v/17mSvaxaNL/" width="500" height="280" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
 
 ## **Lecciones Aprendidas**
 
 Este mapatón dejó aprendizajes clave sobre el poder del voluntariado digital y la ciencia ciudadana:
 
-* Convocatorias masivas pueden superar expectativas y entregar un insumo valioso en tiempos records, pero requieren estrategias de gestión cuidadosas para garantizar calidad en los datos.
+* **Las convocatorias masivas pueden superar expectativas y generar insumos valiosos en tiempo récord**, pero requieren estrategias de gestión meticulosas para asegurar la calidad de los datos.
 
-* El uso de plataformas abiertas como OpenStreetMap permite la democratización del acceso a la información, facilitando la planificación a múltiples niveles.
+* **El uso de plataformas abiertas como OpenStreetMap democratiza el acceso a la información**, permitiendo una planificación más inclusiva y eficiente en múltiples niveles.
 
-* La oficialización de los datos es un reto, pero su utilidad inmediata los convierte en un insumo esencial para la toma de decisiones.
+* Si bien la oficialización de los datos representa un desafío, su **utilidad inmediata los convierte en un recurso esencial para la toma de decisiones estratégicas**.
 
-Juan Carlos expone que, *“el programa Avenidas para el Buen Vivir articula y coordina esfuerzos entre ministerios para conectar a las áreas más excluidas del país. La difusión del mapa será clave para planificar mejor y atender las necesidades de estas comunidades.”*
+Juan Carlos expone que, *“el programa Rutas para el Desarrollo articula y coordina esfuerzos entre ministerios para conectar a las áreas más excluidas del país. La difusión del mapa será clave para planificar mejor y atender las necesidades de estas comunidades.”*
 
 ## **¿Qué sigue?**
 
@@ -88,9 +102,9 @@ El camino no termina aquí. HOT y PNUD hacen un llamado a gobiernos, universidad
 
 * **Replicar esta metodología en otros países o regiones que enfrentan desafíos similares y brechas cartográficas**, adaptándola a sus contextos específicos para mejorar la planificación territorial.
 
-* **Seguir fortaleciendo la comunidad mapeadora en Guatemala para asegurar la actualización continua de los datos. **Invitamos a quienes participaron en esta iniciativa a mantener su compromiso y, en muchos casos, el entusiasmo adquirido por el mapeo. También los animamos a compartir este interés en sus comunidades, ya sea en su escuela, universidad, institución o redes profesionales, así como a unirse a foros y chats comunitarios de OpenStreetMap Guatemala y América Latina.
+* **Seguir fortaleciendo la comunidad mapeadora en Guatemala para asegurar la actualización continua de los datos.** Invitamos a quienes participaron en esta iniciativa a mantener su compromiso y, en muchos casos, el entusiasmo adquirido por el mapeo. También los animamos a compartir este interés en sus comunidades, ya sea en su escuela, universidad, institución o redes profesionales, así como a unirse a foros y chats comunitarios de [OpenStreetMap Guatemala y América Latina](https://openstreetmap.community/).
 
-La falta de información cartográfica no es un obstáculo insalvable para la toma de decisiones basadas en evidencia. Invitamos a los actores involucrados a explorar alternativas participativas, documentarse con casos exitosos de ciencia ciudadana y acercarse a quienes tienen experiencia en el tema (HOT, comunidades locales, redes estudiantiles, organizaciones afines, etc).
+La falta de información cartográfica no es un obstáculo insalvable para la toma de decisiones basadas en evidencia. Invitamos a los actores involucrados a explorar alternativas participativas, documentarse con [casos exitosos de ciencia ciudadana](https://www.hotosm.org/updates/) y acercarse a quienes tienen experiencia en el tema (HOT, comunidades locales, redes estudiantiles, organizaciones afines, etc).
 
 El caso de Guatemala demuestra que el acceso a información geoespacial precisa no es una fatalidad, sino un reto superable en tiempos cortos a través de la movilización estratégica de comunidades digitales y el uso de tecnologías abiertas. Cada camino trazado en OpenStreetMap es un paso más hacia la equidad territorial y el desarrollo inclusivo.
 
