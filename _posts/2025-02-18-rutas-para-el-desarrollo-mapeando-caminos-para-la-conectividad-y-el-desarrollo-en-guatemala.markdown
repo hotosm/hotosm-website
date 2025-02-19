@@ -14,6 +14,8 @@ Country:
 - Guatemala
 ---
 
+English version
+
 En un esfuerzo sin precedentes por mejorar la planificación de infraestructura vial en Guatemala, el [Programa de Naciones Unidas para el Desarrollo (PNUD)](https://www.undp.org/es/guatemala) Guatemala y el Hub de Mapeo Abierto para Latinoamérica y el Caribe del Equipo Humanitario de OpenStreetMap (HOT) unieron fuerzas para realizar un mapatón nacional que transformó la cartografía rural del país en un momento político crítico. Esta colaboración buscó llenar un vacío histórico de información geoespacial, permitiendo al gobierno integrar datos confiables en el Programa Rutas para el Desarrollo y otros proyectos de desarrollo territorial que en cadena se beneficiarían de ya tener una cartografía actualizada de caminos a nivel nacional.
 
 ## **La Brecha Cartográfica en América Latina**
@@ -42,7 +44,7 @@ Para cerrar esta brecha de datos, Equipo Humanitario de OpenStreetMap (HOT) y Pr
 
 ### **Metodología y Seguimiento**
 
-1. **Convocatoria: **Se abrieron inscripciones en ONU Voluntarios y se realizó un acercamiento directo a redes académicas y comunitarias, incluidos los nuevos capítulos de la red Youth Mappers creados este año y los anteriores.
+1. **Convocatoria:** Se abrieron inscripciones en ONU Voluntarios y se realizó un acercamiento directo a redes académicas y comunitarias, incluidos los nuevos capítulos de la red Youth Mappers creados este año y los anteriores.
 
 2. **Capacitación:** Las personas voluntarias participaron en sesiones obligatorias para aprender sobre mapeo de caminos utilizando OpenStreetMap y herramientas especializadas como MapRoulette.
 
@@ -51,6 +53,8 @@ Para cerrar esta brecha de datos, Equipo Humanitario de OpenStreetMap (HOT) y Pr
 4. **Validación:** Se contrataron validadores expertos, con financiamiento de HOT y PNUD y patrocinio de las empresas [TomTom](https://www.tomtom.com/) y [Kaart](https://kaart.com/), para garantizar la precisión de la información recolectada.
 
 5. **Entrega de Datos:** Los datos fueron liberados en OpenStreetMap y en formatos descargables como Shapefile, facilitando su uso inmediato por parte del gobierno, ONG y otras entidades.
+
+Osvaldo Salazar, egresado del Laboratorio de Mapeo Humanitario, participó activamente en las sesiones de capacitación y en el posterior mapeo en línea siendo acreedor del certificado de ONU Voluntarios. Sobre su experiencia, comenta: "Me motiva participar porque sé que la información que generamos puede ser de gran ayuda para alguien. Aprender a mapear ha sido una experiencia enriquecedora, especialmente al mejorar mis habilidades en la cartografía de caminos gracias a los valiosos consejos recibidos durante las capacitaciones."
 
 ## **Impacto en Números**
 
@@ -80,7 +84,7 @@ Carlos Duarte, director de *Geotecnológica de Centroamérica* y experto en desa
 
 El programa "Rutas para el Desarrollo", la nueva iniciativa presidencial enfocada en mejorar la infraestructura vial en zonas rurales de Guatemala, ha encontrado en los datos cartográficos de caminos mapeados con la ayuda de HOT una herramienta clave para la toma de decisiones. Estos datos no solo están siendo utilizados en la priorización de inversiones, sino también en la planificación de obras, permitiendo generar perfiles de proyecto que estiman la cantidad de kilómetros a mejorar y las comunidades beneficiarias, con especial atención en aquellas con menor acceso a servicios.
 
-Con el apoyo de la Universidad Rafael Landívar, a través de su Observatorio de Territorio y Clima, ha intervenido en el análisis de estos datos. Como resultado de este esfuerzo, ya se han aprobado intervenciones para la rehabilitación de más de 1,000 km de caminos rurales en tres regiones prioritarias antes de que finalice el año 2025, impactando significativamente en la conectividad y el desarrollo de las comunidades más vulnerables.
+Con el apoyo de la Universidad Rafael Landívar, a través de su Observatorio de Territorio y Clima, ha intervenido en el análisis de estos datos. Como resultado de este esfuerzo, ya se han aprobado intervenciones para la rehabilitación de más de **1,000 km de caminos rurales** en tres regiones prioritarias antes de que finalice el año 2025, impactando significativamente en la conectividad y el desarrollo de las comunidades más vulnerables.
 
 ## **Lecciones Aprendidas**
 
