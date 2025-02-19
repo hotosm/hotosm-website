@@ -20,13 +20,39 @@ The NPS is calculated by subtracting the percentage of detractors from the perce
 **Image**
 
 However, there is always room for improvement, and users highlighted key areas for enhancement as well. In the following table, you will find both what people love most about TM and areas where the experience could be better:
-| ***What do you love most about the Tasking Manager?*** | ***What could we do to make your experience even better?*** |
-|---|---|
-| *“The platform fosters a strong sense of community among mappers.”* |  UI/UX redesign for better navigation and improved task discovery. |
-| *“The interface is intuitive and easy for beginners to navigate.”* | Task management could benefit from bulk task splitting, multiple-task locking, and dynamic task sizing based on project type.  |
-| *“I love how it enables large-scale collaborative mapping with clear workflows.”* | Imagery and data access need upgrades, such as better satellite and drone imagery with improved clarity.  |
-| *“Leaderboard stats and progress tracking help engage users.”* | AI-powered automation could enhance task recommendations, prioritization, and imagery processing.  |
-| *“Integration with OSM editors and ability to customize exports is very useful.”* | Additionally, community engagement can be strengthened through more tutorials, gamification elements, and training webinars to support and retain users.  |
+
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th><strong>What do you love most about the Tasking Manager?</strong></th>
+      <th><strong>What could we do to make your experience even better?</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><em>“The platform fosters a strong sense of community among mappers.”</em></td>
+      <td>UI/UX redesign for better navigation and improved task discovery.</td>
+    </tr>
+    <tr>
+      <td><em>“The interface is intuitive and easy for beginners to navigate.”</em></td>
+      <td>Task management could benefit from bulk task splitting, multiple-task locking, and dynamic task sizing based on project type.</td>
+    </tr>
+    <tr>
+      <td><em>“I love how it enables large-scale collaborative mapping with clear workflows.”</em></td>
+      <td>Imagery and data access need upgrades, such as better satellite and drone imagery with improved clarity.</td>
+    </tr>
+    <tr>
+      <td><em>“Leaderboard stats and progress tracking help engage users.”</em></td>
+      <td>AI-powered automation could enhance task recommendations, prioritization, and imagery processing.</td>
+    </tr>
+    <tr>
+      <td><em>“Integration with OSM editors and ability to customize exports is very useful.”</em></td>
+      <td>Additionally, community engagement can be strengthened through more tutorials, gamification elements, and training webinars to support and retain users.</td>
+    </tr>
+  </tbody>
+</table>
+
 
 Based on these responses, we are excited to say that our 2025 roadmap for TM will incorporate the feedback provided on the NPS.
 **🛠️ Tasking Manager: What’s Coming in 2025?**
