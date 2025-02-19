@@ -6,7 +6,7 @@ Summary Text: A tool is nothing without its users. Over the years, the HOT Taski
   Manager has evolved and improved thanks to the input of all the contributors around
   the world, who have shared with us what they love and the improvements they would
   like to see. In this blog, Ramya Ragupathy, the TM product owner, shares key insights
-  from our latest user survey along with the roadmap for 2025.
+  from our latest user survey, along with the roadmap for 2025.
 Feature Image: https://cdn.hotosm.org/website/Screen+Shot+2021-12-16+at+12.26.52+pm-de2129.png
 Person: Ramya Ragupathy
 Project:
