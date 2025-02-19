@@ -105,15 +105,15 @@ El proceso incluyó las siguientes etapas:
 
 1. **Definición de Áreas Prioritarias:** Se utilizaron criterios como pobreza estructural, necesidades básicas insatisfechas y vulnerabilidad climática para seleccionar regiones prioritarias. El gobierno y PNUD ya tenían identificada al departamento de Alta Verapaz, seguida de Quiché y Huehuetenango por estas razones.
 
-2. **Convocatoria: **Buscando una amplia participación en un país donde la comunidad de osm no es fuerte, llevó a PNUD proponer una amplia movilización en la plataforma de Voluntarios de la ONU, que al mismo tiempo Hot estaría reforzando con una convocatoria directa a través de contactos académicos en distintas universidades del país en distintas sedes: la Universidad de San Carlos y Rafael Landívar en particular.
+2. **Convocatoria:** Buscando una amplia participación en un país donde la comunidad de osm no es fuerte, llevó a PNUD proponer una amplia movilización en la plataforma de Voluntarios de la ONU, que al mismo tiempo Hot estaría reforzando con una convocatoria directa a través de contactos académicos en distintas universidades del país en distintas sedes: la Universidad de San Carlos y Rafael Landívar en particular.
 
-3. **Capacitación: **Voluntarios de todas las edades y niveles de experiencia participaron en talleres de capacitación obligatoria organizados por HOT, enfocadas al mapeo de caminos.
+3. **Capacitación:** Voluntarios de todas las edades y niveles de experiencia participaron en talleres de capacitación obligatoria organizados por HOT, enfocadas al mapeo de caminos.
 
-4. **Mapeo: **La cartografía de forma autónoma de los voluntarios, durante un mes, fue supervisada de cerca por HOT respondiendo permanentemente dudas y ejemplificando problemas que se iban presentando.
+4. **Mapeo:** La cartografía de forma autónoma de los voluntarios, durante un mes, fue supervisada de cerca por HOT respondiendo permanentemente dudas y ejemplificando problemas que se iban presentando.
 
-5. **Validación: **Para garantizar la calidad de los datos, se contrataron validadores expertos que revisaron las áreas estratégicas más complejas, financiado por HOT y PNUD, y con patrocinios en especie de las empresas TomTom y Kaart.
+5. **Validación:** Para garantizar la calidad de los datos, se contrataron validadores expertos que revisaron las áreas estratégicas más complejas, financiado por HOT y PNUD, y con patrocinios en especie de las empresas TomTom y Kaart.
 
-6. **Entrega de Datos: **Los datos se hicieron disponibles socializando directamente ligas de descarga de OpenStreetMap y también en paquetes descargados en formato shapefile que se entregaron a PNUD para el gobierno nacional, permitiendo su uso inmediato por parte de los ministerios, al mismo tiempo que se permite el acceso a ONGs y otros actores.
+6. **Entrega de Datos:** Los datos se hicieron disponibles socializando directamente ligas de descarga de OpenStreetMap y también en paquetes descargados en formato shapefile que se entregaron a PNUD para el gobierno nacional, permitiendo su uso inmediato por parte de los ministerios, al mismo tiempo que se permite el acceso a ONGs y otros actores.
 
 El impacto del mapatón va más allá de los números. Estos son algunos de los logros clave:
 
