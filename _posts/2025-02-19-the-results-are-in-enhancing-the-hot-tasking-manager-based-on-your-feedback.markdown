@@ -16,9 +16,6 @@ Project:
 Now in its fifth version (Tasking Manager v5), we have prioritized our users in guiding our improvement efforts by conducting the NPS since the beginning of last year. Over the last round of the survey, the TM got an **NPS score of 75**, indicating an overall positive and highly satisfactory experience with the tool. This also shows a great increase compared to last year’s score of 33.89, demonstrating the commitment of the HOT tech team and our partner Naxa in making significant improvements to the HOT Tasking Manager and focusing our approach to incorporating our users' experience into the product’s roadmap. 
 The NPS is calculated by subtracting the percentage of detractors from the percentage of promoters (see image below), and in general (depending on the sources) it is considered that having a score of -100 to 0 means that a product or service needs improvement, from 1-29 is good or favorable, above 50 is excellent and above 70 or 80 is world-class. We are pretty excited about having reached that level!
 
-
-**Image**
-
 <br>
 <br>
 <div style="text-align: center;">
@@ -31,10 +28,10 @@ The NPS is calculated by subtracting the percentage of detractors from the perce
     </div>
 </div>
 
-**Image**
 
 However, there is always room for improvement, and users highlighted key areas for enhancement as well. In the following table, you will find both what people love most about TM and areas where the experience could be better:
 
+<br>
 
 <table border="1" cellspacing="0" cellpadding="5">
   <thead>
@@ -67,6 +64,7 @@ However, there is always room for improvement, and users highlighted key areas f
   </tbody>
 </table>
 
+<br>
 
 Based on these responses, we are excited to say that our 2025 roadmap for TM will incorporate the feedback provided on the NPS.
 **🛠️ Tasking Manager: What’s Coming in 2025?**
@@ -74,16 +72,17 @@ The Tasking Manager Roadmap for this year includes key updates in technical infr
 Two focused areas of work that are already underway:
 **1** **Technical Stack Upgrades**
 
-⠀To modernize Tasking Manager, several backend and infrastructure improvements have been underway since the beginning of 2024. 
+To modernize Tasking Manager, several backend and infrastructure improvements have been underway since the beginning of 2024. 
 The transition to ***FastAPI*** will introduce an asynchronous framework for better performance, while adopting ***~[TypeScript and Vite](https://github.com/hotosm/tasking-manager/pull/6693)~***will enhance development efficiency and code maintainability. ***We aim to implement Terraform*** for infrastructure as code, ensuring stable deployments and ***dependency upgrades*** will be prioritized to maintain long-term sustainability. 
 After completing initial testing last November and December, FastAPI integration is now available on ~[staging setup](https://tasks-stage.hotosm.org/)~ for user acceptance testing, and this will roll out to production as version 5 in mid-March.
 **2. The new Super Mapper level has arrived**
 We have now introduced **the Super Mapper,** a new mapper level above “Advanced” to recognize highly skilled mappers. This new level aims to improve data quality, reduce validator workload, and retain top contributors. This initiative seeks to create a globally recognized expert mapping pool, motivating contributors to keep mapping. We are currently discussing some key topics like eligibility criteria, assessment fairness, recognition methods, and Tasking Manager integration. Join the discussion and share your views about the Super Mapper level in this ~[discussion thread.](https://github.com/hotosm/tasking-manager/discussions/6706)~
 **Other key priority areas we are considering for the 2025 roadmap include:**
+<br>
 * **Creating an OSM Sandbox:** this will be a dedicated testing and research environment, enabling users to experiment with mapping workflows without affecting real OpenStreetMap (OSM) data. Read more about our pilot with ***Médecins Sans Frontières (MSF)*** ~[here](https://www.linkedin.com/feed/update/urn:li:activity:7273303942606790656/)~. 
 * **Expanding mapping project types:** New project types will include some thematic feature mapping, like infrastructure mapping covering public utilities and roads, or safety-focused mapping to identify disaster-prone areas. 
 * **AI-Powered Mapping Enhancements:** We are planning a phased rollout of AI-driven task management, introducing support for task assignment and difficulty estimation to enhance user experience.
 * **New Integrations with other mapping tools:** We also plan to explore integrations with ~[MapSwipe](https://mapswipe.org/en/)~, ~[uMap](https://umap.openstreetmap.fr/en/)~, and ~[MapRoulette](https://maproulette.org/)~ to create a seamless user experience from data generation to validation and visualization.
-
+<br>
 ⠀**The Tasking Manager roadmap is driven by community feedback, and your insights are invaluable in shaping its future.** Which features excite you the most? What improvements do you think will have the biggest impact? How do you see AI enhancing your mapping experience? Whether you’re engaged in humanitarian mapping, education, research, or enterprise projects, your input is invaluable, and we’d love to hear your thoughts!
 Join the discussion about the ~[2025 road map on GitHub](https://github.com/hotosm/tasking-manager/discussions/6688)~and ~[the HOT Slack](https://slack.hotosm.org/)~#tasking-manager channel to help shape the next evolution of HOT Tasking Manager!
