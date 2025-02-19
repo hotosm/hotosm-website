@@ -28,7 +28,9 @@ El programa Rutas para el Desarrollo, impulsado por el gobierno del presidente B
 
 Antes de este esfuerzo, la red vial nacional no incluía una gran cantidad de caminos vecinales y senderos rurales, lo que impedía su consideración en la planificación de infraestructura. Como afirmó Juan Carlos Méndez, director del programa Rutas para el Desarrollo: *“Había un vacío tan grande que los caminos no registrados simplemente no existían en términos de planificación pública. Sin datos precisos, no podíamos conectar a la Guatemala rural con la Guatemala urbana, y eso perpetúa la exclusión social y económica.”* Con los datos generados por el Mapatón, se permitirá identificar regiones marginadas con claridad, conocer los medios actuales de conexión, permitiendo una planificación más efectiva.
 
-![Rutas del Desarrollo Guatemala Mapeo HOT.jpg](/uploads/Rutas%20del%20Desarrollo%20Guatemala%20Mapeo%20HOT.jpg)*Imagen: Visualización de tres caminos en Guatemala.*
+![Rutas del Desarrollo Guatemala Mapeo HOT.jpg](/uploads/Rutas%20del%20Desarrollo%20Guatemala%20Mapeo%20HOT.jpg)
+
+*Imagen: Visualización de tres caminos en Guatemala.*
 
 ## La Activación: Ciencia Ciudadana y Voluntariado Regional
 
@@ -44,9 +46,9 @@ Para cerrar esta brecha de datos, Equipo Humanitario de OpenStreetMap (HOT) y Pr
 
 2. **Capacitación:** Las personas voluntarias participaron en sesiones obligatorias para aprender sobre mapeo de caminos utilizando OpenStreetMap y herramientas especializadas como MapRoulette.
 
-3. **Mapeo Autónomo: **Durante un mes, el equipo de HOT supervisó el proceso, respondiendo dudas y fomentando la calidad del mapeo.
+3. **Mapeo Autónomo:** Durante un mes, el equipo de HOT supervisó el proceso, respondiendo dudas y fomentando la calidad del mapeo.
 
-4. **Validación: **Se contrataron validadores expertos, con financiamiento de HOT y PNUD y patrocinio de las empresas [TomTom](https://www.tomtom.com/) y [Kaart](https://kaart.com/), para garantizar la precisión de la información recolectada.
+4. **Validación:** Se contrataron validadores expertos, con financiamiento de HOT y PNUD y patrocinio de las empresas [TomTom](https://www.tomtom.com/) y [Kaart](https://kaart.com/), para garantizar la precisión de la información recolectada.
 
 5. **Entrega de Datos:** Los datos fueron liberados en OpenStreetMap y en formatos descargables como Shapefile, facilitando su uso inmediato por parte del gobierno, ONG y otras entidades.
 
@@ -66,7 +68,9 @@ El resultado de la activación fue impresionante:
 
 En palabras de Juan Carlos, *“las estimaciones iniciales del mapeo eran de 12,000 km, lo cual sabemos ahora que estaba muy por debajo de la realidad. Sin embargo, el Mapatón superó todas las expectativas, cubriendo áreas mucho más amplias y proporcionando datos fundamentales para la planificación."*
 
-![Vías Mapeadas Avenidas del Buen Vivir.png](/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png)
+![Vías Mapeadas Rutas para el Desarrollo, Guatemala.jpg](/uploads/Vi%CC%81as%20Mapeadas%20Rutas%20para%20el%20Desarrollo,%20Guatemala.jpg)
+
+*Imagen: Vías creadas a partir del mapeo de caminos liderado por PNUD y HOT.*
 
 ## **Producto y Uso Político del Mapeo**
 
@@ -77,8 +81,6 @@ Carlos Duarte, director de *Geotecnológica de Centroamérica* y experto en desa
 El programa "Rutas para el Desarrollo", la nueva iniciativa presidencial enfocada en mejorar la infraestructura vial en zonas rurales de Guatemala, ha encontrado en los datos cartográficos de caminos mapeados con la ayuda de HOT una herramienta clave para la toma de decisiones. Estos datos no solo están siendo utilizados en la priorización de inversiones, sino también en la planificación de obras, permitiendo generar perfiles de proyecto que estiman la cantidad de kilómetros a mejorar y las comunidades beneficiarias, con especial atención en aquellas con menor acceso a servicios.
 
 Con el apoyo de la Universidad Rafael Landívar, a través de su Observatorio de Territorio y Clima, ha intervenido en el análisis de estos datos. Como resultado de este esfuerzo, ya se han aprobado intervenciones para la rehabilitación de más de 1,000 km de caminos rurales en tres regiones prioritarias antes de que finalice el año 2025, impactando significativamente en la conectividad y el desarrollo de las comunidades más vulnerables.
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/share/v/17mSvaxaNL/" width="500" height="280" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
 
 ## **Lecciones Aprendidas**
 
@@ -96,9 +98,9 @@ Juan Carlos expone que, *“el programa Rutas para el Desarrollo articula y coor
 
 El camino no termina aquí. HOT y PNUD hacen un llamado a gobiernos, universidades y organizaciones a:
 
-* **Continuar con la validación detallada del mapeo en todo el territorio nacional de Guatemala. **Hasta ahora, la calidad de los datos ha sido garantizada en los departamentos prioritarios debido a la urgencia de la situación. Es fundamental extender este esfuerzo de manera progresiva al resto del país, contando con la participación de todos los sectores. Se invita a instituciones, empresas y comunidades a contribuir mediante el mapeo y el patrocinio de mapeadores avanzados para fortalecer este proceso.
+* **Continuar con la validación detallada del mapeo en todo el territorio nacional de Guatemala**. Hasta ahora, la calidad de los datos ha sido garantizada en los departamentos prioritarios debido a la urgencia de la situación. Es fundamental extender este esfuerzo de manera progresiva al resto del país, contando con la participación de todos los sectores. Se invita a instituciones, empresas y comunidades a contribuir mediante el mapeo y el patrocinio de mapeadores avanzados para fortalecer este proceso.
 
-* **Utilizar estos datos para la planificación de infraestructura rural **y otros programas, sean o no directamente relacionados con el desarrollo territorial, comprendiendo que el progreso ocurre de manera escalonada cuando se cuenta con una base sólida para la planificación.
+* **Utilizar estos datos para la planificación de infraestructura rural**, y otros programas, sean o no directamente relacionados con el desarrollo territorial, comprendiendo que el progreso ocurre de manera escalonada cuando se cuenta con una base sólida para la planificación.
 
 * **Replicar esta metodología en otros países o regiones que enfrentan desafíos similares y brechas cartográficas**, adaptándola a sus contextos específicos para mejorar la planificación territorial.
 
