@@ -80,6 +80,9 @@ We have now introduced **the Super Mapper,** a new mapper level above “Advance
 * **Expanding mapping project types:** New project types will include some thematic feature mapping, like infrastructure mapping covering public utilities and roads, or safety-focused mapping to identify disaster-prone areas. 
 * **AI-Powered Mapping Enhancements:** We are planning a phased rollout of AI-driven task management, introducing support for task assignment and difficulty estimation to enhance user experience.
 * **New Integrations with other mapping tools:** We also plan to explore integrations with [MapSwipe](https://mapswipe.org/en/), [uMap](https://umap.openstreetmap.fr/en/), and [MapRoulette](https://maproulette.org/) to create a seamless user experience from data generation to validation and visualization.
+
 <br>
-⠀**The Tasking Manager roadmap is driven by community feedback, and your insights are invaluable in shaping its future.** Which features excite you the most? What improvements do you think will have the biggest impact? How do you see AI enhancing your mapping experience? Whether you’re engaged in humanitarian mapping, education, research, or enterprise projects, your input is invaluable, and we’d love to hear your thoughts!
+<br>
+
+**The Tasking Manager roadmap is driven by community feedback, and your insights are invaluable in shaping its future.** Which features excite you the most? What improvements do you think will have the biggest impact? How do you see AI enhancing your mapping experience? Whether you’re engaged in humanitarian mapping, education, research, or enterprise projects, your input is invaluable, and we’d love to hear your thoughts!
 Join the discussion about the [2025 road map on GitHub](https://github.com/hotosm/tasking-manager/discussions/6688) and [the HOT Slack](https://slack.hotosm.org/) #tasking-manager channel to help shape the next evolution of HOT Tasking Manager!
