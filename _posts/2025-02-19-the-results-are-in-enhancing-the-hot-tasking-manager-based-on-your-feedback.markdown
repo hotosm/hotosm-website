@@ -19,7 +19,7 @@ The NPS is calculated by subtracting the percentage of detractors from the perce
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <img src="/uploads/NPS_explainer.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>Definition of Promoters, Passives, and Detractors for calculating an NPS (Sources: [Eliassen Group](https://www.eliassen.com/blog/elas-blog-posts/net-promoter-scores-what-do-the-numbers-really-mean), [Qualtrics](https://www.qualtrics.com/experience-management/customer/net-promoter-score/))</span>
     </div>
