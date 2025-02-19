@@ -42,7 +42,7 @@ Para cerrar esta brecha de datos, Equipo Humanitario de OpenStreetMap (HOT) y Pr
 
 *Imagen: Capacitaciones y mapeo en MapRoulette como parte del reporte del participante Sebastián Guillén Chávez.*
 
-### **Metodología y Seguimiento**
+### Metodología y Seguimiento
 
 1. **Convocatoria:** Se abrieron inscripciones en ONU Voluntarios y se realizó un acercamiento directo a redes académicas y comunitarias, incluidos los nuevos capítulos de la red Youth Mappers creados este año y los anteriores.
 
@@ -56,7 +56,7 @@ Para cerrar esta brecha de datos, Equipo Humanitario de OpenStreetMap (HOT) y Pr
 
 Osvaldo Salazar, egresado del Laboratorio de Mapeo Humanitario, participó activamente en las sesiones de capacitación y en el posterior mapeo en línea siendo acreedor del certificado de ONU Voluntarios. Sobre su experiencia, comenta: "Me motiva participar porque sé que la información que generamos puede ser de gran ayuda para alguien. Aprender a mapear ha sido una experiencia enriquecedora, especialmente al mejorar mis habilidades en la cartografía de caminos gracias a los valiosos consejos recibidos durante las capacitaciones."
 
-## **Impacto en Números**
+## Impacto en Números
 
 El resultado de la activación fue impresionante:
 
@@ -76,7 +76,7 @@ En palabras de Juan Carlos, *“las estimaciones iniciales del mapeo eran de 12,
 
 *Imagen: Vías creadas a partir del mapeo de caminos liderado por PNUD y HOT.*
 
-## **Producto y Uso Político del Mapeo**
+## Producto y Uso Político del Mapeo
 
 El impacto de este esfuerzo no solo se refleja en las cifras, sino también en la toma de decisiones gubernamentales. Gracias a los datos generados, el gobierno pudo identificar y priorizar las áreas más excluidas del país, donde la falta de conectividad afecta de manera desproporcionada a poblaciones indígenas. La información fue presentada al presidente y su gabinete, facilitando una planificación basada en evidencia.
 
@@ -86,7 +86,7 @@ El programa "Rutas para el Desarrollo", la nueva iniciativa presidencial enfocad
 
 Con el apoyo de la Universidad Rafael Landívar, a través de su Observatorio de Territorio y Clima, ha intervenido en el análisis de estos datos. Como resultado de este esfuerzo, ya se han aprobado intervenciones para la rehabilitación de más de **1,000 km de caminos rurales** en tres regiones prioritarias antes de que finalice el año 2025, impactando significativamente en la conectividad y el desarrollo de las comunidades más vulnerables.
 
-## **Lecciones Aprendidas**
+## Lecciones Aprendidas
 
 Este mapatón dejó aprendizajes clave sobre el poder del voluntariado digital y la ciencia ciudadana:
 
@@ -98,7 +98,7 @@ Este mapatón dejó aprendizajes clave sobre el poder del voluntariado digital y
 
 Juan Carlos expone que, *“el programa Rutas para el Desarrollo articula y coordina esfuerzos entre ministerios para conectar a las áreas más excluidas del país. La difusión del mapa será clave para planificar mejor y atender las necesidades de estas comunidades.”*
 
-## **¿Qué sigue?**
+## ¿Qué sigue?
 
 El camino no termina aquí. HOT y PNUD hacen un llamado a gobiernos, universidades y organizaciones a:
 

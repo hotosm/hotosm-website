@@ -18,7 +18,7 @@ Country:
 
 In an unprecedented effort to improve road infrastructure planning in Guatemala, the [United Nations Development Programme (UNDP)](https://www.undp.org/guatemala) and the Open Mapping Hub for Latin America and the Caribbean from the Humanitarian OpenStreetMap Team (HOT) joined forces to conduct a national mapathon. This initiative transformed the country's rural cartography at a critical political moment. The collaboration aimed to fill a historical gap in geospatial information, allowing the government to integrate reliable data into the Routes for Development Program and other territorial development projects that would benefit from an updated national road map.
 
-## **The Cartographic Gap in Latin America**
+## The Cartographic Gap in Latin America
 
 In most Latin American countries and other developing regions, governmental cartography is inadequate, with outdated and imprecise data. This limitation affects decision-making, territorial planning, and crisis prevention. National geography institutes often have partial information that does not meet the needs of priority programs, while maps produced by consultants or private companies tend to be expensive and limited in scope. As a result, the creation of cartographic data is fragmented and dependent on future decisions, perpetuating the lack of a solid foundation for public policy.
 
@@ -28,7 +28,7 @@ In response to this deficiency, citizen science has proven to be a viable soluti
 
 *Image: Comparison of before and after mapping in Santa Cruz Verapaz, showing the transformation and update of local cartography.*
 
-## **Routes for Development: A Path to Connectivity**
+## Routes for Development: A Path to Connectivity
 
 The *Routes for Development* program, promoted by President Bernardo Arévalo’s government, seeks to close the gap of economic and social exclusion in Guatemala by facilitating connectivity between rural and peri-urban communities and development centers. Historically, the lack of detailed information about rural roads and community locations has hindered investments in road infrastructure, limiting access to essential services such as healthcare, education, and economic development.
 
@@ -38,7 +38,7 @@ Before this initiative, the national road network lacked a significant number of
 
 *Image: Visualization of three roads in Guatemala.*
 
-## **The Activation: Citizen Science and Regional Volunteering**
+## The Activation: Citizen Science and Regional Volunteering
 
 To bridge this data gap, the Humanitarian OpenStreetMap Team (HOT) and the United Nations Development Programme (UNDP) launched a massive mapping campaign, calling on volunteers through the UN Volunteers platform and direct invitations to local universities, including multiple campuses of Universidad de San Carlos and Universidad Rafael Landívar in the country, particularly in the prioritized department of Alta Verapaz. What began as a pilot project in Cobán, Alta Verapaz, evolved into a national initiative, surpassing all expectations for participation from the mapping community.
 
@@ -46,7 +46,7 @@ To bridge this data gap, the Humanitarian OpenStreetMap Team (HOT) and the Unite
 
 *Image: Training and mapping in MapRoulette as part of participant Sebastián Guillén Chávez's report.*
 
-### **Methodology and Follow-up**
+### Methodology and Follow-up
 
 1. **Call for Volunteers:** Registration was opened on UN Volunteers, and direct outreach was made to academic and community networks, including new chapters of the Youth Mappers network created this year and previous ones.
 
@@ -60,7 +60,7 @@ To bridge this data gap, the Humanitarian OpenStreetMap Team (HOT) and the Unite
 
 Osvaldo Salazar, a graduate of the Humanitarian Mapping Lab, actively participated in the training sessions and the subsequent online mapping, earning a certificate from UN Volunteers. Reflecting on his experience, he shares: *“I am motivated to participate because I know that the information we generate can be of great help to someone. Learning to map has been an enriching experience, especially improving my road mapping skills thanks to the valuable advice received during the training sessions.”*
 
-## **Impact in Numbers**
+## Impact in Numbers
 
 The results of the activation were impressive:
 
@@ -80,7 +80,7 @@ According to Juan Carlos: *“Initial mapping estimates were 12,000 km, which we
 
 *Image: Roads created through mapping led by UNDP and HOT.*
 
-## **Mapping as a Political and Planning Tool**
+## Mapping as a Political and Planning Tool
 
 The impact of this effort is not only reflected in the numbers but also in government decision-making. Thanks to the generated data, the government was able to identify and prioritize the most excluded areas of the country, where lack of connectivity disproportionately affects Indigenous populations. The information was presented to the president and his cabinet, facilitating evidence-based planning.
 
@@ -90,7 +90,7 @@ The Routes for Development program, the new presidential initiative focused on i
 
 With support from Universidad Rafael Landívar’s *Territory and Climate Observatory*, interventions for rehabilitating over **1,000 km of rural roads** in three priority regions have already been approved, significantly improving connectivity and development in vulnerable communities by the end of 2025.
 
-## **Lessons Learned**
+## Lessons Learned
 
 This Mapathon provided key lessons on the power of digital volunteering and citizen science:
 
