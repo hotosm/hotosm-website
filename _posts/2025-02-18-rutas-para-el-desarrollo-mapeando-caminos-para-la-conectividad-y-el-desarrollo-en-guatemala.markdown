@@ -18,7 +18,7 @@ Country:
 
 En un esfuerzo sin precedentes por mejorar la planificación de infraestructura vial en Guatemala, el [Programa de Naciones Unidas para el Desarrollo (PNUD)](https://www.undp.org/es/guatemala) Guatemala y el Hub de Mapeo Abierto para Latinoamérica y el Caribe del Equipo Humanitario de OpenStreetMap (HOT) unieron fuerzas para realizar un mapatón nacional que transformó la cartografía rural del país en un momento político crítico. Esta colaboración buscó llenar un vacío histórico de información geoespacial, permitiendo al gobierno integrar datos confiables en el Programa Rutas para el Desarrollo y otros proyectos de desarrollo territorial que en cadena se beneficiarían de ya tener una cartografía actualizada de caminos a nivel nacional.
 
-## **La Brecha Cartográfica en América Latina**
+## La Brecha Cartográfica en América Latina
 
 En la mayoría de los países de América Latina y otras regiones en desarrollo, la cartografía disponible para los gobiernos es deficiente, con datos desactualizados y poco precisos. Esta limitación afecta la toma de decisiones, la planificación territorial y la prevención de crisis. A menudo, los institutos nacionales de geografía poseen información parcial que no responde a las necesidades de los programas prioritarios, mientras que las cartografías generadas por consultores o empresas privadas suelen ser costosas y de alcance limitado. Como resultado, la creación de datos cartográficos es fragmentaria y depende de decisiones futuras, perpetuando la falta de una base sólida para la política pública.
 
