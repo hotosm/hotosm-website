@@ -21,13 +21,14 @@ The NPS is calculated by subtracting the percentage of detractors from the perce
 <div style="text-align: center;">
     <img src="/uploads/NPS_explainer.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
-        <span>Definition of Promoters, Passives, and Detractors for calculating an NPS (Sources: [Eliassen Group](https://www.eliassen.com/blog/elas-blog-posts/net-promoter-scores-what-do-the-numbers-really-mean), [Qualtrics](https://www.qualtrics.com/experience-management/customer/net-promoter-score/))</span>
+        <span>Definition of Promoters, Passives, and Detractors for calculating an NPS (Sources: 
+  <a href="https://www.eliassen.com/blog/elas-blog-posts/net-promoter-scores-what-do-the-numbers-really-mean" target="_blank">Eliassen Group</a>, 
+  <a href="https://www.qualtrics.com/experience-management/customer/net-promoter-score/" target="_blank">Qualtrics</a>)</span>
     </div>
 </div>
 <br>
 
 However, there is always room for improvement, and users highlighted key areas for enhancement as well. In the following table, you will find both what people love most about TM and areas where the experience could be better:
-
 <br>
 
 <table border="1" cellspacing="0" cellpadding="5">
