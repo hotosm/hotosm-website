@@ -21,13 +21,10 @@ The NPS is calculated by subtracting the percentage of detractors from the perce
 <div style="text-align: center;">
     <img src="/uploads/sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
-        <span><a> Photo by: </a>
-        <a href="https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/">AP Hub</a> - 
-        Monitoring rivers is vital as droughts and drying riverbeds threaten water resources. With data collection points becoming scarcer, we must remain vigilant to protect these ecosystems and the communities that rely on them. This image of a child playing in a dried-up riverbed highlights the urgent need for sustainable water management. 
-        <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></span>
+        <span>Definition of Promoters, Passives, and Detractors for calculating an NPS (Sources: [Eliassen Group](https://www.eliassen.com/blog/elas-blog-posts/net-promoter-scores-what-do-the-numbers-really-mean), [Qualtrics](https://www.qualtrics.com/experience-management/customer/net-promoter-score/))</span>
     </div>
 </div>
-
+<br>
 
 However, there is always room for improvement, and users highlighted key areas for enhancement as well. In the following table, you will find both what people love most about TM and areas where the experience could be better:
 
