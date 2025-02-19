@@ -127,7 +127,7 @@ El impacto del mapatón va más allá de los números. Estos son algunos de los 
 
 Con los resultados del mapatón como base, el gobierno busca integrar esta información en distintos programas nacionales relacionados con el desarrollo de áreas rezagadas.
 
-![Vías Mapeadas Avenidas del Buen Vivir.png](/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png)
+![Vías Mapeadas Rutas para el Desarrollo, Guatemala.jpg](/uploads/Vi%CC%81as%20Mapeadas%20Rutas%20para%20el%20Desarrollo,%20Guatemala.jpg)
 
 *Imagen: Mapeo completo de la red de caminos en Guatemala como parte de la actualización de Avenidas del Buen Vivir.*
 
