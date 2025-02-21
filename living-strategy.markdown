@@ -4,11 +4,7 @@ date: 2023-02-28 16:08:00 Z
 layout: page
 ---
 
-[![Copy of Living Strategy 2025 .pptx.jpg](/uploads/Copy%20of%20Living%20Strategy%202025%20.pptx.jpg)](hotosm.org/uploads/HOT_Living%20Strategy%202025.pdf)
-
-***[Download our Living Strategy Summary](https://drive.google.com/file/d/1iB_2O804qFego5phOL-QxyNqKyS51KuM/view?usp=share_link).***
-***([Français](https://drive.google.com/file/d/1Jf2YMURsJUBIuCOO5632e9CBC7VcrGGj/view?usp=share_link))***
-***([Español](https://drive.google.com/file/d/1tg7QKQIDgQfJRPcRzKUJ6ozeBn3gr4hw/view?usp=share_link))***
+[![Copy of Living Strategy 2025 .pptx.jpg](/uploads/Living-%20Strategy-2025-Cover.jpg](/uploads/HOT_Living_Strategy_2025.pdf)
 
 As the world continues to change, grow, and shift, we know that no map will ever be fully complete or defined. As such, HOT commits to remaining agile in our approach to update, contribute to and maintain an open map of our world. This commitment will enable communities to identify their priorities, and map what they need the most, when it is needed. 
 
