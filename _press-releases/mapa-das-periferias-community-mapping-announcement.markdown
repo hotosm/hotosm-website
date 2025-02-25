@@ -1,6 +1,6 @@
 ---
-title: Announcing our partnership with Mapa das Periferias and the University of Glasgow’s
-  Urban Big Data Centre (UBDC)
+title: Announcing HOT's partnership with Mapa das Periferias and the University of
+  Glasgow’s Urban Big Data Centre (UBDC)
 date: 2025-02-25 13:31:00 Z
 Person:
 - Pete Masters
