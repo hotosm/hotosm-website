@@ -35,8 +35,8 @@ For questions regarding the development of the *Community Mapping App* and oppor
 For general information about Mapa das Periferias, please reach out to Talita Stael, General Coordinator of the project, at [coordenacao@mapasdasperiferias.com](mailto:coordenadao@mapasdasperiferias.com). 
 
 # Version in Portuguese/Versão em português
-
-
+[/br]
+[/br]
 [Mapa das Periferias](https://mapadasperiferias.cidades.gov.br/), [Urban Big Data Centre da Universidade de Glasgow (UBDC)](https://www.ubdc.ac.uk/) e a [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/) anunciam nova parceria voltada para apoiar estratégia do Mapeamento Popular nas periferias.
 
 ## Contexto
