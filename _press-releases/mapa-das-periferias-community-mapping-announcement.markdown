@@ -36,6 +36,7 @@ For general information about Mapa das Periferias, please reach out to Talita St
 
 # Version in Portuguese/Versão em português
 
+
 [Mapa das Periferias](https://mapadasperiferias.cidades.gov.br/), [Urban Big Data Centre da Universidade de Glasgow (UBDC)](https://www.ubdc.ac.uk/) e a [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/) anunciam nova parceria voltada para apoiar estratégia do Mapeamento Popular nas periferias.
 
 ## Contexto
