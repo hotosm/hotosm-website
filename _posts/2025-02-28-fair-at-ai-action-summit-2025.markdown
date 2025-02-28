@@ -16,11 +16,11 @@ Person:
 
 *Cover photo: Petya presents fAIr in the AI Action Summit main stage, as one of 10 projects selected to pitch their AI solution to the event’s attendees. Source: Omran Najjar.*
 
-## Getting ready - warming up for the AI Action Summit
-
 On the 10th and 11th of February, we were honored to participate in this year’s [Artificial Intelligence Action Summit](https://parispeaceforum.org/ai-action-summit-about/). At HOT, we focus on locally led open solutions, including [fAIr](https://www.hotosm.org/tech-suite/fair/), an AI-assisted mapping service to support disaster response, so it was important for us to apply to the summit and bring such solutions to more high-level events. 
 
-But what is this event for those who are not familiar with it? The AI Action Summit, chaired by France and India and coordinated by the Paris Peace Forum, aims to “forward equitable and inclusive AI policies that address pressing challenges such as inequality, misinformation, and the digital divide, particularly in underserved regions of the world.” This year, the focus was on addressing the potential to develop more AI technologies while making sure no one is left behind and that society benefits from these efforts. Among the different activities organized within the Summit, this year they included a showcase of 50 AI projects called “AI for Good,” highlighting diverse initiatives that center on ethics and the improvement of people’s lives through AI. 
+## Getting Ready - Warming Up for the AI Action Summit
+
+**But what is this event for those who are not familiar with it?** The AI Action Summit, chaired by France and India and coordinated by the Paris Peace Forum, aims to “forward equitable and inclusive AI policies that address pressing challenges such as inequality, misinformation, and the digital divide, particularly in underserved regions of the world.” This year, the focus was on addressing the potential to develop more AI technologies while making sure no one is left behind and that society benefits from these efforts. Among the different activities organized within the Summit, this year they included a showcase of 50 AI projects called “AI for Good,” highlighting diverse initiatives that center on ethics and the improvement of people’s lives through AI. 
 
 We thought fAIr was a great fit to be presented in this context, but even so, we were amazed to learn that not only had we been selected as one of the 50 AI for Good projects out of 770 submissions, but also that we were also one of the 10 projects selected to pitch our solution on stage during the AI Action Summit. We were excited to go to Paris and be part of such a high-level forum!
 
@@ -33,7 +33,7 @@ On February 9th, we also had the opportunity to break the ice and connect with o
 ![PXL_20250205_175040944.jpg](/uploads/PXL_20250205_175040944.jpg)
 *(From left to right) Omran, Ayomide, Omowonuola, Kshitij, and Emmanuel pose as the team received the award for winning second place at the GeoAI Hack hackathon. Source: Omran Najjar.*
 
-## And now, the main event
+## And Now, the Main Event
 
 On the morning of the 10th, we were guided to the Grand Palais in Paris for the official start of the AI Action Summit. For people like us who are more accustomed to attending tech-focused events, being in such a stunning venue surrounded by high security and lots of media was, in a way, a completely new experience. The 50 AI for Good projects had designated booths called action stations, aimed at showcasing our AI solutions. Interestingly, there were not many focused on geospatial AI solutions (though we loved being in a “geo corner” with our —now— friends, [InstaDeep](https://www.instadeep.com/about-us/) and [UN Global Pulse](https://www.unglobalpulse.org/)). We really enjoyed being in a space where we could closely interact with people, allowing them to try out our technology. Speaking about a tool is not the same as people trying it themselves and hearing their reactions. So, ***what were their reactions?***
 
@@ -42,7 +42,7 @@ On the morning of the 10th, we were guided to the Grand Palais in Paris for the 
 
 As people walked to the booth, we could see the excitement - a big highlight was seeing the smiles as people were approaching our booth  Even if they were not familiar with OpenStreetMap and the work that we do, we saw them coming to the realization that open geospatial data is crucial for disaster response and anticipatory climate action. They either wanted to learn more or tell us how they were already using the data. We had people from India to Togo, Senegal, Cameroon, Japan, the UK, Australia, and many others come to talk to us. The beauty of working with geospatial data is that we were able to show them how fAIr can address the gap in map data in the locations where they live. Often, their amazement came from using fAIr and understanding that anyone can log in and create their own model in the places where they live, adding their local knowledge and sharing their feedback to train the models locally.  
 
->  “Technology development, in particular AI solutions, should be done by including the end users to have a substaînable solution as far as helping communities to improve their living conditions is concerned.” - Mouhamadou Lamine Ba, Associate Professor of Big Data at the Ecole Supérieure Polytechnique de l'Université Cheikh Anta Diop de Dakar (UCAD).
+>  “Technology development, in particular AI solutions, should be done by including the end users to have a substaînable solution as far as helping communities to improve their living conditions is concerned.” - **Mouhamadou Lamine Ba, Associate Professor of Big Data at the Ecole Supérieure Polytechnique de l'Université Cheikh Anta Diop de Dakar (UCAD).**
 
 ## A fAIr Experience
 
