@@ -5,6 +5,7 @@ Photo: "/uploads/308-1-2.jpg"
 Member Type:
   Is Staff: true
 Job Title: Data and Mapping Contractor
+Team: Eastern and Southern Africa Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Walter%20Mayeku
 ---
