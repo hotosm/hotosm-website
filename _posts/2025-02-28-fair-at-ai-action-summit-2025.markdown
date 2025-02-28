@@ -2,7 +2,6 @@
 title: 'The Paris Chronicles: Attending the AI Action Summit to present our AI-assisted
   mapping service'
 date: 2025-02-28 18:27:00 Z
-published: false
 Summary Text: In the context of a big, international event such as this year’s AI
   Action Summit organized by the Paris Peace Forum, HOT’s Petya Kangalova, Tech Partnership
   and Engagement Lead, and Omran Najjar, Senior Technical Product Owner- AI, reflect
