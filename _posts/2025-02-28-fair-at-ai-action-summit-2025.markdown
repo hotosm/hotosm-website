@@ -37,19 +37,19 @@ On February 9th, we also had the opportunity to break the ice and connect with o
 
 On the morning of the 10th, we were guided to the Grand Palais in Paris for the official start of the AI Action Summit. For people like us who are more accustomed to attending tech-focused events, being in such a stunning venue surrounded by high security and lots of media was, in a way, a completely new experience. The 50 AI for Good projects had designated booths called action stations, aimed at showcasing our AI solutions. Interestingly, there were not many focused on geospatial AI solutions (though we loved being in a “geo corner” with our —now— friends, [InstaDeep](https://www.instadeep.com/about-us/) and [UN Global Pulse](https://www.unglobalpulse.org/)). We really enjoyed being in a space where we could closely interact with people, allowing them to try out our technology. Speaking about a tool is not the same as people trying it themselves and hearing their reactions. So, ***what were their reactions?***
 
-![PXL_20250210_090838321.jpg](/uploads/PXL_20250210_090838321.jpg)
-*Petya and Omran showcasing fAIr at their booth during the AI Action Summit. Source: Omran Najjar.*
-
 As people walked to the booth, we could see the excitement - a big highlight was seeing the smiles as people were approaching our booth  Even if they were not familiar with OpenStreetMap and the work that we do, we saw them coming to the realization that open geospatial data is crucial for disaster response and anticipatory climate action. They either wanted to learn more or tell us how they were already using the data. We had people from India to Togo, Senegal, Cameroon, Japan, the UK, Australia, and many others come to talk to us. The beauty of working with geospatial data is that we were able to show them how fAIr can address the gap in map data in the locations where they live. Often, their amazement came from using fAIr and understanding that anyone can log in and create their own model in the places where they live, adding their local knowledge and sharing their feedback to train the models locally.  
 
 >  “Technology development, in particular AI solutions, should be done by including the end users to have a substaînable solution as far as helping communities to improve their living conditions is concerned.” - **Mouhamadou Lamine Ba, Associate Professor of Big Data at the Ecole Supérieure Polytechnique de l'Université Cheikh Anta Diop de Dakar (UCAD).**
+
+![PXL_20250210_090838321.jpg](/uploads/PXL_20250210_090838321.jpg)
+*Petya and Omran showcasing fAIr at their booth during the AI Action Summit. Source: Omran Najjar.*
 
 ## A fAIr Experience
 
 The AI Action Summit had huge coverage in the news, with high-level decision-makers, like presidents and senior politicians, attending. Although this shows how AI for good is gaining more and more prominence within those sectors of society, being present at our booth for two days alongside the other project leads kept us quite grounded and connected to the core of what AI solutions are for: the people. AI Action Summit’s vision is for inclusive and sustainable AI. A key component of this vision is promoting AI accessibility to reduce digital divides and ensuring AI is open, which is at the core of what we do at HOT. Those two days at the booth reminded us why keeping  **“humans in the loop”** and building AI solutions ***with the people that they will serve is what leads our work in AI.***
 
-> "I particularly appreciated the approach that integrates humans into the annotation process as feedback. After all, who is suited to understand and recognize a local environment than the people who live there? AI should serve society, be created by it, and for it. This is truly fAIr AI."
-Junior Adenyo, Project & Research Manager at CoTIA - Communauté Togolaise d'Intelligence Artificielle
+> "I particularly appreciated the approach that integrates humans into the annotation process as feedback. After all, who is suited to understand and recognize a local environment than the people who live there? AI should serve society, be created by it, and for it. ***This is truly fAIr AI***."
+**Junior Adenyo, Project & Research Manager at CoTIA - Communauté Togolaise d'Intelligence Artificielle**
 
 ## What’s next?
 * If you want to learn more about our AI-Assisted mapping service (fAIr),  you can join our monthly Tech and Innovation Working Group ([register here](https://tinyurl.com/k7jtp4tr)). The next one is taking place on Tuesday 11 March 10:00 and 18:00UTC (there are two slots to allow for different timezones] - **you will get a chance to test and use fAIr and share your feedback with us!**
