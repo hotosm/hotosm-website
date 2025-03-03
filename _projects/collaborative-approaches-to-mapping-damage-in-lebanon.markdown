@@ -2,14 +2,14 @@
 title: Collaborative Approaches to Mapping Damage in Lebanon
 date: 2025-03-03 18:18:00 Z
 published: false
-Project Summary Text: Lebanon is facing a humanitarian crisis, and the **Humanitarian
-  OpenStreetMap Team (HOT)**, with support from the **H2H Network** and in partnership
-  with OSM Lebanon, is leading a global effort to turn incomplete maps into reliable
-  data for a stronger response. Using open mapping tools and a growing OpenStreetMap
-  (OSM) community in Lebanon, we are building accurate infrastructure and land use
-  datasets to help humanitarian organizations deliver aid where it is most needed
-  and better understand the evolving humanitarian landscape in the country. This work
-  is part of a larger initiative to raise awareness and mobilize support for displacement
+Project Summary Text: Lebanon is facing a humanitarian crisis, and the Humanitarian
+  OpenStreetMap Team (HOT), with support from the H2H Network and in partnership with
+  OSM Lebanon, is leading a global effort to turn incomplete maps into reliable data
+  for a stronger response. Using open mapping tools and a growing OpenStreetMap (OSM)
+  community in Lebanon, we are building accurate infrastructure and land use datasets
+  to help humanitarian organizations deliver aid where it is most needed and better
+  understand the evolving humanitarian landscape in the country. This work is part
+  of a larger initiative to raise awareness and mobilize support for displacement
   and safe migration as part of our program on Conflict and Displacement.
 Feature Image: "/uploads/lebanon_banner.JPG"
 Country:
@@ -47,7 +47,9 @@ The humanitarian crisis in Lebanon has reached a critical point, with up to **25
 
 In such a complex environment, reliable geospatial data is not just useful—it is essential for humanitarian aid programming. To address critical information gaps, **HOT**, supported by the **H2H Network**, has initiated a project to enhance Lebanon’s mapped infrastructure, focusing on pre-conflict building footprints. This initiative aims to provide humanitarian organizations with theResources for understanding the opportunities associated with each damage assessment methodology., plan aid delivery, and understand the impact of the conflict on affected populations.
 <br>
+
 ---
+
 <br>
 ## Understanding the Geospatial Gaps in Lebanon
 
@@ -65,7 +67,9 @@ Lebanon’s diverse geography, combined with the ongoing conflict, has created s
 
 — Image or map from Corey as example and other? — 
 <br>
+
 ----
+
 <br>
 ### The Role of Open Mapping, AI and Data Accuracy in Lebanon
 
@@ -75,7 +79,9 @@ HOT’s project leverages the power of **open mapping** and **community-driven d
 - **Data Quality and Validation**: HOT is conducting rigorous quality checks to ensure the accuracy of the building footprint dataset. This includes validating data through partnerships with local organizations like the Lebanese Red Cross and global stakeholders such as UNOSAT and Oregon State University.  
 - **Assessing AI Methodologies**: HOT is not using AI to fill data gaps but is instead evaluating the accuracy of AI-generated datasets and comparing their methodologies. This includes piloting a comparison between crowdsourced damage detection and automated methods to identify strengths, limitations, and gaps in AI-based approaches. By doing so, HOT aims to provide humanitarian actors with a clearer understanding of how different methodologies can be used effectively and responsibly in damage analysis."
 <br>
+
 ---
+
 <br>
 ## Building a Community of Practice for Damage Analysis
 
@@ -85,7 +91,9 @@ One of the key challenges in Lebanon’s crisis is the diversity of damage analy
 
 HOT is also fostering a **community of practice** among damage analysis stakeholders. This collaborative approach aims to create a shared understanding of how different methodologies can complement each other, ensuring that data is used responsibly and effectively.
 <br>
+
 ---
+
 <br>
 ## Data Access and Use
 
@@ -97,11 +105,11 @@ All map edits are live in OSM and can be accessed through HOT’s **Export Tool*
 - **[Health Facilities](https://data.humdata.org/dataset/hotosm_lbn_health_facilities)**: Locations of hospitals and clinics.  
 - **[Education Facilities](https://data.humdata.org/dataset/hotosm_lbn_education_facilities)**: Schools and universities.  
 - **[Points of Interest](https://data.humdata.org/dataset/hotosm_lbn_points_of_interest)**: Key landmarks and infrastructure.
-
 <br>
+
 ---
-<br>
 
+<br>
 ### Download Based on Areas of Interest
 
 Downloads based on areas where HOT and partners have improved the data through Tasking Manager Projects:
@@ -119,6 +127,7 @@ You can also create your own export using the [HOT Export Tool](https://export.h
 <br>
 
 ---
+
 <br>
 
 ## What’s Next? Upcoming Work and Focus Areas
@@ -129,7 +138,9 @@ As of January 2025, HOT’s work in Lebanon is far from complete. The next phase
 - **Community of Practice**: Hosting workshops and consultations to strengthen collaboration among damage analysis stakeholders.  
 - analysis of damage methodologies 
 <br>
+
 ---
+
 <br>
 ### Get Involved
 
