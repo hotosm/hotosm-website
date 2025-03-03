@@ -64,10 +64,9 @@ Lebanon’s diverse geography, combined with the ongoing conflict, has created s
 - **Multiple Damage Methodologies**: There are various approaches to damage analysis, each with different inputs, outputs, and levels of transparency. This diversity complicates the data landscape for humanitarian decision-makers.
 
 — Image or map from Corey as example and other? — 
-
-
+<br>
 ----
-
+<br>
 ### The Role of Open Mapping, AI and Data Accuracy in Lebanon
 
 HOT’s project leverages the power of **open mapping** and **community-driven data collection** to fill critical data gaps and improve the accuracy of damage assessments. 
@@ -75,10 +74,9 @@ HOT’s project leverages the power of **open mapping** and **community-driven d
 - **Crowdsourced Mapping**: Using HOT’s **Tasking Manager**, global volunteers and the OSM Lebanon community are digitizing pre-conflict building footprints across the most affected areas, including southern Lebanon. This effort is supported by **MapSwipe**, a tool that allows volunteers to quickly review aerial imagery for the presence of buildings, particularly in rural areas.  
 - **Data Quality and Validation**: HOT is conducting rigorous quality checks to ensure the accuracy of the building footprint dataset. This includes validating data through partnerships with local organizations like the Lebanese Red Cross and global stakeholders such as UNOSAT and Oregon State University.  
 - **Assessing AI Methodologies**: HOT is not using AI to fill data gaps but is instead evaluating the accuracy of AI-generated datasets and comparing their methodologies. This includes piloting a comparison between crowdsourced damage detection and automated methods to identify strengths, limitations, and gaps in AI-based approaches. By doing so, HOT aims to provide humanitarian actors with a clearer understanding of how different methodologies can be used effectively and responsibly in damage analysis."
-
-
+<br>
 ---
-
+<br>
 ## Building a Community of Practice for Damage Analysis
 
 To address these gaps, HOT is working with the OSM community in Lebanon and global volunteers to create a **complete and highly precise dataset of pre-conflict building footprints**. This dataset will serve as a baseline for damage detection, enabling more accurate and timely assessments as the crisis unfolds. On top of that, HOT will create a comprehensive review of available damage analysis methods, summarizing their strengths, limitations, and use cases.
@@ -86,9 +84,9 @@ To address these gaps, HOT is working with the OSM community in Lebanon and glob
 One of the key challenges in Lebanon’s crisis is the diversity of damage analysis methodologies. To address this, HOT is creating a **landscape assessment** of available damage methodologies, summarizing their strengths, limitations, and use cases. This resource will serve as a guide for humanitarian actors, helping them navigate the complexities of damage data and make informed decisions.
 
 HOT is also fostering a **community of practice** among damage analysis stakeholders. This collaborative approach aims to create a shared understanding of how different methodologies can complement each other, ensuring that data is used responsibly and effectively.
-
+<br>
 ---
-
+<br>
 ## Data Access and Use
 
 ### Country-Level Data
@@ -101,9 +99,7 @@ All map edits are live in OSM and can be accessed through HOT’s **Export Tool*
 - **[Points of Interest](https://data.humdata.org/dataset/hotosm_lbn_points_of_interest)**: Key landmarks and infrastructure.
 
 <br>
-
 ---
-
 <br>
 
 ### Download Based on Areas of Interest
@@ -123,7 +119,6 @@ You can also create your own export using the [HOT Export Tool](https://export.h
 <br>
 
 ---
-
 <br>
 
 ## What’s Next? Upcoming Work and Focus Areas
@@ -133,9 +128,9 @@ As of January 2025, HOT’s work in Lebanon is far from complete. The next phase
 - **Expanding Mapping Coverage**: Leveraging tools like **MapSwipe** to involve more volunteers in mapping rural and hard-to-reach areas.  
 - **Community of Practice**: Hosting workshops and consultations to strengthen collaboration among damage analysis stakeholders.  
 - analysis of damage methodologies 
-
+<br>
 ---
-
+<br>
 ### Get Involved
 
 As this project continues, it will require sustained commitment from volunteers, partners, and the global community. Together, we can ensure that Lebanon’s maps are more suitable for recovery, relief, and planning. 
