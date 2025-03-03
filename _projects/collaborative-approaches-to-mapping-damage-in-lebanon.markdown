@@ -39,15 +39,16 @@ Duration:
   </ol>
 </div>
 
+---
 
 ## Background
 
 The humanitarian crisis in Lebanon has reached a critical point, with up to **25% of buildings along the southern Lebanese border damaged or destroyed** as of October 2024. The conflict, which escalated in October 2024, has led to displacement, limited resources, and a need for accurate data to plan and implement humanitarian interventions. Understanding the extent of damage to infrastructure is essential for advocacy, resource allocation, and operational planning.
 
 In such a complex environment, reliable geospatial data is not just useful—it is essential for humanitarian aid programming. To address critical information gaps, **HOT**, supported by the **H2H Network**, has initiated a project to enhance Lebanon’s mapped infrastructure, focusing on pre-conflict building footprints. This initiative aims to provide humanitarian organizations with theResources for understanding the opportunities associated with each damage assessment methodology., plan aid delivery, and understand the impact of the conflict on affected populations.
-
+<br>
 ---
-
+<br>
 ## Understanding the Geospatial Gaps in Lebanon
 
 Lebanon’s diverse geography, combined with the ongoing conflict, has created significant challenges in acquiring accurate and actionable data. 
