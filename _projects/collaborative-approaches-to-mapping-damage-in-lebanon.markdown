@@ -24,6 +24,19 @@ Duration:
   Start Date: 2025-01-01 00:00:00 Z
 ---
 
+# Table of Contents
+
+- [Background](#background)
+- [Understanding the Geospatial Gaps in Lebanon](#understanding-the-geospatial-gaps-in-lebanon)
+- [The Role of Open Mapping, AI and Data Accuracy in Lebanon](#the-role-of-open-mapping-ai-and-data-accuracy-in-lebanon)
+- [Building a Community of Practice for Damage Analysis](#building-a-community-of-practice-for-damage-analysis)
+- [Data Access and Use](#data-access-and-use)
+  - [Country-Level Data](#country-level-data)
+  - [Download Based on Areas of Interest](#download-based-on-areas-of-interest)
+- [What’s Next? Upcoming Work and Focus Areas](#whats-next-upcoming-work-and-focus-areas)
+- [Get Involved](#get-involved)
+
+
 ## Background
 
 The humanitarian crisis in Lebanon has reached a critical point, with up to **25% of buildings along the southern Lebanese border damaged or destroyed** as of October 2024. The conflict, which escalated in October 2024, has led to displacement, limited resources, and a need for accurate data to plan and implement humanitarian interventions. Understanding the extent of damage to infrastructure is essential for advocacy, resource allocation, and operational planning.
