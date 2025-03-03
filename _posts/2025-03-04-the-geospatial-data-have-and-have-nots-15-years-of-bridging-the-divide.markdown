@@ -32,6 +32,7 @@ For example, open-source **tools** are essential to democratize access to geospa
 But data and tools can only go so far. **It is the use and engagement with community members that matters.** To foster and democratize geospatial data collection and use, it is essential to build **skills** among different kinds of users. At HOT, we find that people can pick up mapping skills quite easily with adequate training. Flying a drone, adding features or information to a geospatial database on a smartphone, and even analyzing data have been done successfully by women’s groups, youth groups, those in very remote communities, and more. HOT provides basic training and hands-on guidance to individuals and communities, as well as more in-depth training & support to governments and partners. The skills needed to create useful geospatial data are attainable, and the potential end results themselves, like thematic maps, engage people in a way that other forms of data visualization can’t do.
 
 ![DroneTmCaribbeanTest.jpg](/uploads/DroneTmCaribbeanTest.jpg)
+
 *The Caribbean Drone Task Manager Training, led by Jamaica Flying Labs and funded by GFDRR, enhanced local expertise in drone mapping and geospatial data processing in Dominica and St. Lucia during September and October 2024. Participants gained advanced skills in drone technology, photogrammetry, and the use of Drone Task Manager software, completing real-world missions to produce geospatial products like orthomosaics and 3D models.*
 
 ## A Collaborative Effort
