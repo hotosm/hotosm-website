@@ -11,6 +11,8 @@ Person: Jessica Pechmann
 Country:
 - Lebanon
 - 
+Project:
+- Collaborative Approaches to Mapping Damage in Lebanon
 ---
 
 Following conflict escalation from October 2023 to November 2024, a ceasefire deal was reached between relevant actors on 27 November 2024. As the country begins to recover from the months of war, information on the extent of the damage is needed to inform humanitarian programming. Accurate damage estimates are necessary to estimate economic impact, service disruption, and general shelter needs. A key factor in estimating damage from the conflict is identifying the location of buildings before any were damaged, pre-conflict. Following the principles of our Conflict and Displacement program, we partnered with humanitarian analysts and volunteer mappers around the world to improve the state of pre-conflict building footprints in Lebanon.
