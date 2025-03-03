@@ -24,17 +24,20 @@ Duration:
   Start Date: 2025-01-01 00:00:00 Z
 ---
 
-# Table of Contents
-
-- [Background](#background)
-- [Understanding the Geospatial Gaps in Lebanon](#understanding-the-geospatial-gaps-in-lebanon)
-- [The Role of Open Mapping, AI and Data Accuracy in Lebanon](#the-role-of-open-mapping-ai-and-data-accuracy-in-lebanon)
-- [Building a Community of Practice for Damage Analysis](#building-a-community-of-practice-for-damage-analysis)
-- [Data Access and Use](#data-access-and-use)
-  - [Country-Level Data](#country-level-data)
-  - [Download Based on Areas of Interest](#download-based-on-areas-of-interest)
-- [What’s Next? Upcoming Work and Focus Areas](#whats-next-upcoming-work-and-focus-areas)
-- [Get Involved](#get-involved)
+<div>
+  <h2>Table of Contents</h2>
+  <ol style="color: black;">
+    <li><a href="#background" style="color: black;">Background</a></li>
+    <li><a href="#understanding-the-geospatial-gaps-in-lebanon" style="color: black;">Understanding the Geospatial Gaps in Lebanon</a></li>
+    <li><a href="#the-role-of-open-mapping-ai-and-data-accuracy-in-lebanon" style="color: black;">The Role of Open Mapping, AI and Data Accuracy in Lebanon</a></li>
+    <li><a href="#building-a-community-of-practice-for-damage-analysis" style="color: black;">Building a Community of Practice for Damage Analysis</a></li>
+    <li><a href="#data-access-and-use" style="color: black;">Data Access and Use</a></li>
+    <li><a href="#country-level-data" style="color: black;">Country-Level Data</a></li>
+    <li><a href="#download-based-on-areas-of-interest" style="color: black;">Download Based on Areas of Interest</a></li>
+    <li><a href="#whats-next-upcoming-work-and-focus-areas" style="color: black;">What’s Next? Upcoming Work and Focus Areas</a></li>
+    <li><a href="#get-involved" style="color: black;">Get Involved</a></li>
+  </ol>
+</div>
 
 
 ## Background
