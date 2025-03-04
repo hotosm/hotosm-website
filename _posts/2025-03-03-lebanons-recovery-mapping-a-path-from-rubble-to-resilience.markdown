@@ -24,7 +24,7 @@ The devastation wrought by war isn't abstract; it's **geographically specific**.
 <div style="text-align: center;">
     <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 40%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Aerial view of buildings in Beirut, Lebanon. This image was captured by <a href="https://www.pexels.com/photo/aerial-view-of-buildings-17463425/">iam hogir</a>.
+        Aerial view of buildings in Beirut, Lebanon. This image was captured by iam hogir | <a href="https://www.pexels.com/photo/aerial-view-of-buildings-17463425/">View on Pexels</a>.
     </div>
 </div>
 <br>
@@ -59,7 +59,7 @@ The **environmental impact of conflict**, often overlooked, can also be assessed
 Lebanon's path to recovery will be long and arduous. But by embracing the power of mapping data, we can move beyond simply rebuilding what was lost. We can **build back better, smarter, and more resilient**. Investing in mapping technologies, supporting initiatives like Humanitarian OpenStreetMap Team (HOT), and empowering local communities to participate in the **mapping process are not just technical solutions; they are investments in Lebanon's future**. They are investments in a future where data empowers resilience, and where the scars of conflict are transformed into a roadmap for a brighter tomorrow.
 <br>
 
-
+<br>
 
 <img src="/uploads/saidSAK_4.png" alt="Description of the image" style="width: 100%; height: auto;">
 <br>
