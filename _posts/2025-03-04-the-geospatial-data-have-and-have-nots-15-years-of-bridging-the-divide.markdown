@@ -1,7 +1,6 @@
 ---
 title: 'The [geospatial data] have and have-nots: 15 years of bridging the divide'
 date: 2025-03-04 19:15:00 Z
-published: false
 Summary Text: "As we celebrate the Humanitarian OpenStreetMap Team’s 15 anniversary,
   we reflect on the role of community-generated geospatial data in solving many of
   the core challenges we face this century. How can our wider data-centered international
