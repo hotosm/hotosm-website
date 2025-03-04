@@ -4,7 +4,7 @@ date: 2025-02-24 18:57:00 Z
 Summary Text: En tiempos de crisis, la colaboración es clave. El Hub de América Latina
   y el Caribe fortalece el trabajo humanitario con una red de aliadas y aliados, impulsando
   el mapeo abierto para generar soluciones resilientes y sostenibles.
-Feature Image: "/uploads/red%20de%20aliados.jpg"
+Feature Image: "/uploads/Red%20de%20Mapeo%20Abierto%20del%20Equipo%20Humanitario%20de%20OpenStreetMap.jpg"
 Person: Juan Arellano Valdivia
 ---
 
@@ -15,6 +15,8 @@ Pero, ¿quiénes son estas organizaciones y personas aliadas? Se trata de un gru
 Ser aliados significa mucho más que colaborar en un proyecto. Implica construir oportunidades en conjunto, fortalecer conocimientos mutuos y, sobre todo, funcionar como una red articulada.
 
 A continuación, presentamos algunas de las organizaciones y personas que se han convertido en nuestros colaboradores más cercanos y aliados estratégicos en la región.
+
+![Red de Mapeo Abierto del Equipo Humanitario de OpenStreetMap.jpg](/uploads/Red%20de%20Mapeo%20Abierto%20del%20Equipo%20Humanitario%20de%20OpenStreetMap.jpg)
 
 ### **[Co.Mapper](https://site.comapper.org/)**
 
@@ -79,6 +81,8 @@ Virgilio Benavides Hilgert es especialista y consultor en sistemas de informaci�
 Virgilio destaca que, “en colaboración con HOT y la Secretaría Nacional de Gestión de Riesgos (SNGR), ha participado en múltiples iniciativas, incluyendo mapeos de respuesta ante inundaciones en Esmeraldas en 2022, [mapeos preventivos a nivel nacional](https://www.hotosm.org/updates/el-impacto-del-mapeo-humanitario-colaborativo-en-la-preparacion-para-desastres-en-ecuador/) ante la llegada de El Niño-Oscilación del Sur (ENOS) en 2023 y los mapatones de riesgos de 2023 y 2024 en varias ciudades. Estas acciones han contribuido significativamente al fortalecimiento del Sistema Nacional de Gestión de Riesgos de Desastres, articulando esfuerzos entre la comunidad, la academia, las autoridades locales y entidades técnico-científicas.”
 
 ### ¿Hacia a dónde vamos?
+
+![Red de Mapeo Abierto del Equipo Humanitario de OpenStreetMap 2.jpg](/uploads/Red%20de%20Mapeo%20Abierto%20del%20Equipo%20Humanitario%20de%20OpenStreetMap%202.jpg)
 
 La construcción de una red de aliadas y aliados fortalece nuestras capacidades y amplifica el impacto de nuestras iniciativas, pero, sobre todo, nos permite activar la inteligencia colectiva. En un contexto global de desafíos cada vez más complejos, el trabajo humanitario requiere más que nunca de la colaboración y la solidaridad. A través del intercambio de conocimientos, metodologías y experiencias, la co-construcción de ideas y la adaptación a distintos contextos, esta red nos ayuda a innovar y responder de manera más efectiva a las necesidades de nuestras comunidades. Más que compartir herramientas, construimos enfoques nuevos, narrativas comunes, fortalecemos la autonomía local y promovemos la participación ciudadana para generar cambios sostenibles y democráticos.
 
