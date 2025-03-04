@@ -59,6 +59,14 @@ The environmental impact of conflict, often overlooked, can also be assessed and
 Lebanon's path to recovery will be long and arduous. But by embracing the power of mapping data, we can move beyond simply rebuilding what was lost. We can build back better, smarter, and more resilient. Investing in mapping technologies, supporting initiatives like Humanitarian OpenStreetMap Team (HOT), and empowering local communities to participate in the mapping process are not just technical solutions; they are investments in Lebanon's future. They are investments in a future where data empowers resilience, and where the scars of conflict are transformed into a roadmap for a brighter tomorrow.
 <br>
 
+<div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px;">
+    <p>Said is a <strong>Local Consultant with Humanitarian OpenStreetMap (HOT) for Lebanon</strong>. He brings a wealth of experience in information management and humanitarian response, having worked with organizations like UNDP, UNHCR, and UNICEF to support crisis management, gender-based violence prevention, and refugee response across the Middle East, South Asia, and Latin America.</p>
+    <p>As a strong advocate for leveraging technology and data to drive impactful change, Said is excited to bring his expertise to HOT’s OpenStreetMap programs in Lebanon. He looks forward to seeing how open mapping and data initiatives can evolve as inclusive platforms that accommodate diverse stakeholders and foster meaningful participation in humanitarian and development contexts.</p>
+</div>
+
+
+
+
 ---
 
 <br>
