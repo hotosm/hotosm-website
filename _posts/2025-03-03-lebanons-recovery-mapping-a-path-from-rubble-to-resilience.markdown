@@ -6,7 +6,7 @@ Summary Text: Lebanon is grappling with severe destruction and displacement from
   conflict. A data-driven approach using mapping is essential for effective humanitarian
   aid and long-term recovery. By leveraging mapping tools and community involvement,
   reconstruction can better address local needs and ensure a sustainable future.
-Feature Image: "/uploads/Geospatial%20data%20haves%20and%20nots.jpg"
+Feature Image: "/uploads/Southern_Lebanon_coastal_plain.jpg"
 Person: Said Abou Kharroub
 Country:
 - Lebanon
@@ -22,7 +22,7 @@ The devastation wrought by war isn't abstract; it's geographically specific. Kno
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 75%; height: auto;">
+    <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 40%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Aerial view of buildings in Beirut, Lebanon. This image was captured by <a href="https://www.pexels.com/photo/aerial-view-of-buildings-17463425/">iam hogir</a>.
     </div>
@@ -31,6 +31,7 @@ The devastation wrought by war isn't abstract; it's geographically specific. Kno
 
 --- 
 
+<br>
 Consider the challenge of delivering humanitarian aid. In the chaos following conflict, simply knowing where people are is a monumental task. Mapping displaced populations, identifying accessible routes, and locating functioning aid distribution points are critical for ensuring that resources reach those who need them most. Real-time mapping platforms, fed by data from aid workers and local communities, can provide a dynamic picture of the evolving situation, allowing for agile and responsive aid delivery.
 
 Beyond immediate relief, mapping data is essential for long-term reconstruction planning. Rebuilding roads, bridges, water systems, and power grids requires a thorough understanding of pre-conflict conditions, the extent of damage, and future needs. Urban planners, engineers, and architects can leverage this data to develop informed and sustainable reconstruction plans. Imagine rebuilding a water system: knowing the precise location of damaged pipes, the pre-existing network layout, and the future population density allows for a more efficient and resilient rebuild. OpenStreetMap (OSM), with its collaborative and open-source nature, offers a powerful platform for this, enabling communities to actively participate in the mapping process and ensuring that local knowledge informs the rebuilding effort.
@@ -58,6 +59,7 @@ The environmental impact of conflict, often overlooked, can also be assessed and
 
 --- 
 
+<br>
 Lebanon's path to recovery will be long and arduous. But by embracing the power of mapping data, we can move beyond simply rebuilding what was lost. We can build back better, smarter, and more resilient. Investing in mapping technologies, supporting initiatives like Humanitarian OpenStreetMap Team (HOT), and empowering local communities to participate in the mapping process are not just technical solutions; they are investments in Lebanon's future. They are investments in a future where data empowers resilience, and where the scars of conflict are transformed into a roadmap for a brighter tomorrow.
 
 ---
