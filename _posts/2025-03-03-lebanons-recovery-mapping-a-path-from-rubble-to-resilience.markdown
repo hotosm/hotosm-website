@@ -2,6 +2,10 @@
 title: 'Lebanon''s Recovery: Mapping a Path from Rubble to Resilience'
 date: 2025-03-03 20:30:00 Z
 published: false
+Summary Text: Lebanon is grappling with severe destruction and displacement from recent
+  conflict. A data-driven approach using mapping is essential for effective humanitarian
+  aid and long-term recovery. By leveraging mapping tools and community involvement,
+  reconstruction can better address local needs and ensure a sustainable future.
 Feature Image: "/uploads/Geospatial%20data%20haves%20and%20nots.jpg"
 Person: Said Abou Kharroub
 Country:
