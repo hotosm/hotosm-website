@@ -6,7 +6,7 @@ Summary Text: Lebanon is grappling with severe destruction and displacement from
   conflict. A data-driven approach using mapping is essential for effective humanitarian
   aid and long-term recovery. By leveraging mapping tools and community involvement,
   reconstruction can better address local needs and ensure a sustainable future.
-Feature Image: "/uploads/Southern_Lebanon_coastal_plain.jpg"
+Feature Image: "/uploads/Southern_Lebanon_coastal_plain_b&w.png"
 Person: Said Abou Kharroub
 Country:
 - Lebanon
@@ -28,6 +28,7 @@ The devastation wrought by war isn't abstract; it's geographically specific. Kno
 </div>
 <br>
 
+---
 
 <br>
 Consider the challenge of delivering humanitarian aid. In the chaos following conflict, simply knowing where people are is a monumental task. Mapping displaced populations, identifying accessible routes, and locating functioning aid distribution points are critical for ensuring that resources reach those who need them most. Real-time mapping platforms, fed by data from aid workers and local communities, can provide a dynamic picture of the evolving situation, allowing for agile and responsive aid delivery.
@@ -54,6 +55,7 @@ The environmental impact of conflict, often overlooked, can also be assessed and
 </div>
 <br>
 
+---
 
 <br>
 Lebanon's path to recovery will be long and arduous. But by embracing the power of mapping data, we can move beyond simply rebuilding what was lost. We can build back better, smarter, and more resilient. Investing in mapping technologies, supporting initiatives like Humanitarian OpenStreetMap Team (HOT), and empowering local communities to participate in the mapping process are not just technical solutions; they are investments in Lebanon's future. They are investments in a future where data empowers resilience, and where the scars of conflict are transformed into a roadmap for a brighter tomorrow.
