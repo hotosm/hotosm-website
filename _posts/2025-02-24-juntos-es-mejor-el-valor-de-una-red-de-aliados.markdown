@@ -80,7 +80,7 @@ Virgilio Benavides Hilgert es especialista y consultor en sistemas de informaci�
 
 Virgilio destaca que, “en colaboración con HOT y la Secretaría Nacional de Gestión de Riesgos (SNGR), ha participado en múltiples iniciativas, incluyendo mapeos de respuesta ante inundaciones en Esmeraldas en 2022, [mapeos preventivos a nivel nacional](https://www.hotosm.org/updates/el-impacto-del-mapeo-humanitario-colaborativo-en-la-preparacion-para-desastres-en-ecuador/) ante la llegada de El Niño-Oscilación del Sur (ENOS) en 2023 y los mapatones de riesgos de 2023 y 2024 en varias ciudades. Estas acciones han contribuido significativamente al fortalecimiento del Sistema Nacional de Gestión de Riesgos de Desastres, articulando esfuerzos entre la comunidad, la academia, las autoridades locales y entidades técnico-científicas.”
 
-### ¿Hacia a dónde vamos?
+## ¿Hacia a dónde vamos?
 
 ![Red de Mapeo Abierto del Equipo Humanitario de OpenStreetMap 2.jpg](/uploads/Red%20de%20Mapeo%20Abierto%20del%20Equipo%20Humanitario%20de%20OpenStreetMap%202.jpg)
 
