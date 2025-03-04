@@ -14,7 +14,7 @@ Project:
 - Collaborative Approaches to Mapping Damage in Lebanon
 ---
 
-Lebanon, a nation already grappling with a multitude of crises, has been further devastated by the recent escalation of conflict. The images of s**hattered homes, crippled infrastructure, and displaced families** paint a grim picture of the challenges that lie ahead. While humanitarian aid provides immediate relief, the long-term recovery and reconstruction of Lebanon demand a more **strategic and data-driven approach**. In this context, the often-underestimated power of mapping data emerges as a crucial tool for rebuilding not just infrastructure, but the very fabric of Lebanese society.
+Lebanon, a nation already grappling with a multitude of crises, has been further devastated by the recent escalation of conflict. The images of **shattered homes, crippled infrastructure, and displaced families** paint a grim picture of the challenges that lie ahead. While humanitarian aid provides immediate relief, the long-term recovery and reconstruction of Lebanon demand a more **strategic and data-driven approach**. In this context, the often-underestimated power of mapping data emerges as a crucial tool for rebuilding not just infrastructure, but the very fabric of Lebanese society.
 
 The devastation wrought by war isn't abstract; it's **geographically specific**. Knowing precisely where the damage lies is the first step toward effective intervention. **Satellite imagery**, coupled with on-the-ground assessments and **drone surveys**, can create a comprehensive map of destruction. This isn't just about counting damaged buildings; it's about **understanding the interconnectedness of infrastructure**. A destroyed bridge doesn't just hinder transportation; it can isolate entire communities from essential services like healthcare and markets. Mapping these cascading effects allows for a more nuanced and targeted approach to reconstruction.
 
@@ -22,7 +22,7 @@ The devastation wrought by war isn't abstract; it's **geographically specific**.
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 50%; height: auto;">
+    <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 45%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Aerial view of buildings in Beirut, Lebanon. This image was captured by iam hogir | <a href="https://www.pexels.com/photo/aerial-view-of-buildings-17463425/">View on Pexels</a>.
     </div>
