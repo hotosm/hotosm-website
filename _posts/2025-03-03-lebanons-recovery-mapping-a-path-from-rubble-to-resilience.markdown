@@ -22,7 +22,7 @@ The devastation wrought by war isn't abstract; it's **geographically specific**.
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 40%; height: auto;">
+    <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 50%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Aerial view of buildings in Beirut, Lebanon. This image was captured by iam hogir | <a href="https://www.pexels.com/photo/aerial-view-of-buildings-17463425/">View on Pexels</a>.
     </div>
@@ -45,7 +45,7 @@ The **environmental impact of conflict**, often overlooked, can also be assessed
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/Southern_Lebanon_coastal_plain.jpg" alt="Panoramic view of the Lebanese coastal plain" style="width: 75%; height: auto;">
+    <img src="/uploads/Southern_Lebanon_coastal_plain.jpg" alt="Panoramic view of the Lebanese coastal plain" style="width: 85%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         A panoramic view of the Lebanese coastal plain from Ras el-Bayyada, showcasing its agricultural use and sandy beaches, which are vital for endangered turtle species. 
         <br>
