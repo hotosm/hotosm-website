@@ -61,10 +61,12 @@ The environmental impact of conflict, often overlooked, can also be assessed and
 
 <br>
 Lebanon's path to recovery will be long and arduous. But by embracing the power of mapping data, we can move beyond simply rebuilding what was lost. We can build back better, smarter, and more resilient. Investing in mapping technologies, supporting initiatives like Humanitarian OpenStreetMap Team (HOT), and empowering local communities to participate in the mapping process are not just technical solutions; they are investments in Lebanon's future. They are investments in a future where data empowers resilience, and where the scars of conflict are transformed into a roadmap for a brighter tomorrow.
+<br>
 
 ---
 
-Join the Global Mapping Movement & Support HOT’s Mission:** Volunteers worldwide can participate in mapathons and online efforts to improve mapping data in Lebanon. Support for HOT, whether through [donations](https://www.hotosm.org/donate/) or time, helps create a data-driven approach to recovery and a more resilient Lebanon. 
+<br>
+**Join the Global Mapping Movement & Support HOT’s Mission:** Volunteers worldwide can participate in mapathons and online efforts to improve mapping data in Lebanon. Support for HOT, whether through [donations](https://www.hotosm.org/donate/) or time, helps create a data-driven approach to recovery and a more resilient Lebanon. 
 
 **Contact:** [data@hotosm.org](mailto:data@hotosm.org)
 
