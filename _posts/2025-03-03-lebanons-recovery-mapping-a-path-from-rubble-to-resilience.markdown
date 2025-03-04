@@ -24,9 +24,10 @@ The devastation wrought by war isn't abstract; it's geographically specific. Kno
 <div style="text-align: center;">
     <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Aerial view of buildings in Beirut, Lebanon. This image is free to use and was captured by <a href="https://www.pexels.com/photo/aerial-view-of-buildings-17463425/">iam hogir</a>.
+        Aerial view of buildings in Beirut, Lebanon. This image was captured by <a href="https://www.pexels.com/photo/aerial-view-of-buildings-17463425/">iam hogir</a>.
     </div>
 </div>
+<br>
 
 --- 
 
@@ -53,7 +54,7 @@ The environmental impact of conflict, often overlooked, can also be assessed and
         <a href="https://commons.wikimedia.org/wiki/File:Southern_Lebanon_coastal_plain.jpg">View on Wikimedia Commons</a>.
     </div>
 </div>
-
+<br>
 
 --- 
 
