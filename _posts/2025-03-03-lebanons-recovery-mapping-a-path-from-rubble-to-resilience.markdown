@@ -20,16 +20,18 @@ The devastation wrought by war isn't abstract; it's **geographically specific**.
 ---
 
 
+<br>
+
 <div style="text-align: center;">
-    <img src="/uploads/damaged_buildings.png" alt="Snapshot of likely damaged or destroyed buildings" style="width: 75%; height: auto;">
+    <img src="/uploads/h3_hexbins_lebanon.png" alt="Count of likely damaged or destroyed buildings" style="width: 90%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Snapshot of likely damaged or destroyed buildings with the date of earliest damage in red. Black building footprints are not likely damaged in this example.
+        Count of likely damaged or destroyed buildings within H3 hexbins. Hexbins with fewer than five buildings labeled as damaged are not included in this visualization.
         <br><br>
-        *Source: Damage analysis of Copernicus Sentinel-1 satellite data by* 
+        Source: Damage analysis of Copernicus Sentinel-1 satellite data by 
         <a href="http://www.whoiscorey.com/">Corey Scher</a> 
-        *of CUNY Graduate Center and* 
+        of CUNY Graduate Center and 
         <a href="https://www.conflict-ecology.org/team#h.p_jXCdhMhBDnGL">Jamon Van Den Hoek</a> 
-        *of Oregon State University. Microsoft building footprints.*
+        of Oregon State University. Microsoft building footprints.
     </div>
 </div>
 <br>
