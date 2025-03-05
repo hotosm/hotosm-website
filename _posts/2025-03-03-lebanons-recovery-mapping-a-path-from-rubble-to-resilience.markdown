@@ -21,9 +21,15 @@ The devastation wrought by war isn't abstract; it's **geographically specific**.
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 45%; height: auto;">
+    <img src="/uploads/damaged_buildings_adm3.png" alt="Percentage of buildings likely damaged or destroyed" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Aerial view of buildings in Beirut, Lebanon. This image was captured by iam hogir | <a href="https://www.pexels.com/photo/aerial-view-of-buildings-17463425/">View on Pexels</a>.
+        Percentage of buildings likely damaged or destroyed within each municipality (administrative level 3).
+        <br><br>
+        *Source: Damage analysis of Copernicus Sentinel-1 satellite data by* 
+        <a href="http://www.whoiscorey.com/">Corey Scher</a> 
+        *of CUNY Graduate Center and* 
+        <a href="https://www.conflict-ecology.org/team#h.p_jXCdhMhBDnGL">Jamon Van Den Hoek</a> 
+        *of Oregon State University. Microsoft building footprints.*
     </div>
 </div>
 <br>
@@ -33,6 +39,15 @@ The devastation wrought by war isn't abstract; it's **geographically specific**.
 Consider the challenge of delivering humanitarian aid. In the chaos following conflict, simply **knowing where people are is a monumental task**. Mapping displaced populations, identifying accessible routes, and locating functioning aid distribution points are critical for ensuring that resources reach those who need them most. Real-time mapping platforms, fed by data from aid workers and local communities, can provide a dynamic picture of the evolving situation, allowing for agile and responsive aid delivery.
 
 Beyond immediate relief, mapping data is essential for **long-term reconstruction planning**. Rebuilding roads, bridges, water systems, and power grids requires a thorough understanding of **pre-conflict conditions**, the extent of damage, and future needs. Urban planners, engineers, and architects can leverage this data to develop informed and sustainable reconstruction plans. Imagine rebuilding a water system: knowing the precise location of damaged pipes, the pre-existing network layout, and the future population density allows for a more **efficient and resilient rebuild**. OpenStreetMap (OSM), with its collaborative and open-source nature, offers a powerful platform for this, enabling communities to actively participate in the mapping process and ensuring that local knowledge informs the rebuilding effort.
+
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 45%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Aerial view of buildings in Beirut, Lebanon. This image was captured by iam hogir | <a href="https://www.pexels.com/photo/aerial-view-of-buildings-17463425/">View on Pexels</a>.
+    </div>
+</div>
+<br>
 
 But recovery isn't just about bricks and mortar; it's about people. **Participatory mapping**, which involves local residents in data collection, empowers communities to take ownership of the recovery process. By contributing their **local knowledge**, residents can ensure that reconstruction reflects their needs and priorities. This fosters a sense of agency and strengthens social cohesion in the aftermath of conflict, crucial ingredients for long-term peace and stability.
 
