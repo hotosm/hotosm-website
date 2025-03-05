@@ -119,6 +119,7 @@ One of the key challenges in Lebanon’s crisis is the diversity of damage analy
 
 HOT is also fostering a **community of practice** among damage analysis stakeholders. This collaborative approach aims to create a shared understanding of how different methodologies can complement each other, ensuring that data is used responsibly and effectively.
 <br>
+<br>
 
 ---
 
