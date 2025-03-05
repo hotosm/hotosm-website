@@ -10,6 +10,7 @@ Country:
 - Somalia
 - South Sudan
 - Ethiopia
+- Lebanon
 Impact Area:
 - Displacement & Safe Migration
 Partner:
@@ -61,6 +62,7 @@ Block 2:
   - Analyzing and Improving OpenStreetMap Data for Anticipatory Action in the Humanitarian
     System
   - Geospatial Data for Humanitarian Response in Sudan Conflict
+  - Collaborative Approaches to Mapping Damage in Lebanon
 Program-summary:
   Program Summary Text: |+
     <span style="font-size: 0.6em;"><font color="#778899">Cover Photo: Soldiers from the Somali National Army stand watch as women wait at an IDP camp near the town of Beletweyne, Somalia / Tobin Jones</font></span>
