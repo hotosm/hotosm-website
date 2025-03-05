@@ -141,16 +141,6 @@ All map edits are live in OSM and can be accessed through HOT’s **Export Tool*
 <br>
 ### Download Based on Areas of Interest
 
-Downloads based on areas where HOT and partners have improved the data through Tasking Manager Projects:
-
-### Southern Lebanon
-- **Buildings**: Pre-conflict building footprints for damage analysis.  
-- **Roads**: Road networks for logistics planning.  
-
-### Beirut and Surroundings
-- **Buildings**: Pre-conflict building footprints for damage analysis.  
-
-<br>
 You can also create your own export using the [HOT Export Tool](https://export.hotosm.org/v3/exports/new/describe), an open service that creates customized extracts of up-to-date OSM data in various file formats.
 <br>
 <br>
