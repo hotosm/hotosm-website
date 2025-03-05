@@ -137,6 +137,7 @@ HOT is also fostering a **community of practice** among damage analysis stakehol
     </div>
 </div>
 
+---
 
 <br>
 ## Data Access and Use
