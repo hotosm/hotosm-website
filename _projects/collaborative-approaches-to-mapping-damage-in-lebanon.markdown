@@ -135,6 +135,7 @@ HOT is also fostering a **community of practice** among damage analysis stakehol
         *of Oregon State University. Microsoft building footprints.*
     </div>
 </div>
+<br>
 
 ---
 
@@ -157,6 +158,9 @@ All map edits are live in OSM and can be accessed through HOT’s **Export Tool*
     <p>You can also create your own export using the <a href="https://export.hotosm.org/v3/exports/new/describe">HOT Export Tool</a>, an open service that creates customized extracts of up-to-date OSM data in various file formats.</p>
 </div>
 
+<br>
+
+---
 
 <br>
 
