@@ -21,7 +21,7 @@ The devastation wrought by war isn't abstract; it's **geographically specific**.
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/damaged_buildings_adm3.png" alt="Percentage of buildings likely damaged or destroyed" style="width: 75%; height: auto;">
+    <img src="/uploads/damaged_buildings_adm3.png" alt="Percentage of buildings likely damaged or destroyed" style="width: 55%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Percentage of buildings likely damaged or destroyed within each municipality (administrative level 3).
         <br><br>
