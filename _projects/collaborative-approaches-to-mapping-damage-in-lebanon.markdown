@@ -79,6 +79,7 @@ Lebanon’s diverse geography, combined with the ongoing conflict, has created s
         *of Oregon State University. Microsoft building footprints.*
     </div>
 </div>
+<br>
 
 ----
 
