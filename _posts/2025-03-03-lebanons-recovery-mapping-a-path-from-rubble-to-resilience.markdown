@@ -72,16 +72,13 @@ Lebanon's path to recovery will be long and arduous. But by embracing the power 
 
 ---
 
-
-<br>
-
-<img src="/uploads/saidSAK_4.png" alt="Description of the image" style="width: 100%; height: auto;">
-<br>
-
-
 <br>
 **Join the Global Mapping Movement & Support HOT’s Mission:** Volunteers worldwide can participate in mapathons and online efforts to improve mapping data in Lebanon. Support for HOT, whether through [donations](https://www.hotosm.org/donate/) or time, helps create a data-driven approach to recovery and a more resilient Lebanon. 
 
 **Contact:** [data@hotosm.org](mailto:data@hotosm.org)
 
+<br>
+
+<img src="/uploads/saidSAK_4.png" alt="Description of the image" style="width: 100%; height: auto;">
+<br>
 
