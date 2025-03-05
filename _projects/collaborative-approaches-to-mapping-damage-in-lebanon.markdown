@@ -124,6 +124,22 @@ HOT is also fostering a **community of practice** among damage analysis stakehol
 ---
 
 <br>
+<div style="text-align: center;">
+    <img src="/uploads/damaged_buildings_adm3.png" alt="Percentage of buildings likely damaged or destroyed" style="width: 55%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Percentage of buildings likely damaged or destroyed within each municipality (administrative level 3).
+        <br><br>
+        *Source: Damage analysis of Copernicus Sentinel-1 satellite data by* 
+        <a href="http://www.whoiscorey.com/">Corey Scher</a> 
+        *of CUNY Graduate Center and* 
+        <a href="https://www.conflict-ecology.org/team#h.p_jXCdhMhBDnGL">Jamon Van Den Hoek</a> 
+        *of Oregon State University. Microsoft building footprints.*
+    </div>
+</div>
+<br>
+
+
+<br>
 ## Data Access and Use
 
 ### Country-Level Data

@@ -19,11 +19,11 @@ The devastation wrought by war isn't abstract; it's **geographically specific**.
 
 ---
 
-<br>
+
 <div style="text-align: center;">
-    <img src="/uploads/damaged_buildings_adm3.png" alt="Percentage of buildings likely damaged or destroyed" style="width: 55%; height: auto;">
+    <img src="/uploads/damaged_buildings.png" alt="Snapshot of likely damaged or destroyed buildings" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Percentage of buildings likely damaged or destroyed within each municipality (administrative level 3).
+        Snapshot of likely damaged or destroyed buildings with the date of earliest damage in red. Black building footprints are not likely damaged in this example.
         <br><br>
         *Source: Damage analysis of Copernicus Sentinel-1 satellite data by* 
         <a href="http://www.whoiscorey.com/">Corey Scher</a> 
@@ -33,7 +33,6 @@ The devastation wrought by war isn't abstract; it's **geographically specific**.
     </div>
 </div>
 <br>
-
 
 <br>
 Consider the challenge of delivering humanitarian aid. In the chaos following conflict, simply **knowing where people are is a monumental task**. Mapping displaced populations, identifying accessible routes, and locating functioning aid distribution points are critical for ensuring that resources reach those who need them most. Real-time mapping platforms, fed by data from aid workers and local communities, can provide a dynamic picture of the evolving situation, allowing for agile and responsive aid delivery.
