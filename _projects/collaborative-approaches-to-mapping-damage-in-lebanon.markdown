@@ -33,7 +33,6 @@ Duration:
     <li><a href="#building-a-community-of-practice-for-damage-analysis" style="color: black;">Building a Community of Practice for Damage Analysis</a></li>
     <li><a href="#data-access-and-use" style="color: black;">Data Access and Use</a></li>
     <li><a href="#country-level-data" style="color: black;">Country-Level Data</a></li>
-    <li><a href="#download-based-on-areas-of-interest" style="color: black;">Download Based on Areas of Interest</a></li>
     <li><a href="#whats-next-upcoming-work-and-focus-areas" style="color: black;">What’s Next? Upcoming Work and Focus Areas</a></li>
     <li><a href="#get-involved" style="color: black;">Get Involved</a></li>
   </ol>
@@ -150,6 +149,7 @@ All map edits are live in OSM and can be accessed through HOT’s **Export Tool*
 - **[Health Facilities](https://data.humdata.org/dataset/hotosm_lbn_health_facilities)**: Locations of hospitals and clinics.  
 - **[Education Facilities](https://data.humdata.org/dataset/hotosm_lbn_education_facilities)**: Schools and universities.  
 - **[Points of Interest](https://data.humdata.org/dataset/hotosm_lbn_points_of_interest)**: Key landmarks and infrastructure.
+<br>
 <br>
 
 <div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px;">
