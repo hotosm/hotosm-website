@@ -136,7 +136,6 @@ HOT is also fostering a **community of practice** among damage analysis stakehol
         *of Oregon State University. Microsoft building footprints.*
     </div>
 </div>
-<br>
 
 
 <br>
