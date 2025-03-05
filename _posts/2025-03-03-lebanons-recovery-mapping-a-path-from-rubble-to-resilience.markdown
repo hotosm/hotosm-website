@@ -25,7 +25,7 @@ The devastation wrought by war isn't abstract; it's **geographically specific**.
 <div style="text-align: center;">
     <img src="/uploads/h3_hexbins_lebanon.png" alt="Count of likely damaged or destroyed buildings" style="width: 90%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        Count of likely damaged or destroyed buildings within H3 hexbins. Hexbins with fewer than five buildings labeled as damaged are not included in this visualization.Source: Damage analysis of Copernicus Sentinel-1 satellite data by 
+        Count of likely damaged or destroyed buildings within H3 hexbins. Hexbins with fewer than five buildings labeled as damaged are not included in this visualization. Source: Damage analysis of Copernicus Sentinel-1 satellite data by 
         <a href="http://www.whoiscorey.com/">Corey Scher</a> 
         of CUNY Graduate Center and 
         <a href="https://www.conflict-ecology.org/team#h.p_jXCdhMhBDnGL">Jamon Van Den Hoek</a> 
