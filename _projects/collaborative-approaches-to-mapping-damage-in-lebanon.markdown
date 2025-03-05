@@ -152,16 +152,11 @@ All map edits are live in OSM and can be accessed through HOT’s **Export Tool*
 - **[Points of Interest](https://data.humdata.org/dataset/hotosm_lbn_points_of_interest)**: Key landmarks and infrastructure.
 <br>
 
----
+<div style="background-color: #f0f0f0; padding: 15px; border-radius: 5px;">
+    <h3>Download Based on Areas of Interest</h3>
+    <p>You can also create your own export using the <a href="https://export.hotosm.org/v3/exports/new/describe">HOT Export Tool</a>, an open service that creates customized extracts of up-to-date OSM data in various file formats.</p>
+</div>
 
-<br>
-### Download Based on Areas of Interest
-
-You can also create your own export using the [HOT Export Tool](https://export.hotosm.org/v3/exports/new/describe), an open service that creates customized extracts of up-to-date OSM data in various file formats.
-<br>
-<br>
-
----
 
 <br>
 
