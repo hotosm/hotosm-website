@@ -42,7 +42,7 @@ Beyond immediate relief, mapping data is essential for **long-term reconstructio
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 45%; height: auto;">
+    <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 40%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Aerial view of buildings in Beirut, Lebanon. This image was captured by iam hogir | <a href="https://www.pexels.com/photo/aerial-view-of-buildings-17463425/">View on Pexels</a>.
     </div>
