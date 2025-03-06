@@ -64,7 +64,7 @@ Despite these challenges, the Nepal field tests provided invaluable insights. We
 ![DroneTM_NepalOrtophoto.png](/uploads/DroneTM_NepalOrtophoto.png)
 *This image showcases the camera positions recorded in WebODM during the process of generating an [orthophoto](https://en.wikipedia.org/wiki/Orthophoto) for a terrain-following project in Nepal. Each camera position represents a point where the drone captured an image, which was later stitched together to create a high-resolution, georeferenced orthophoto. The terrain-following aspect of the project ensures that the drone maintains a consistent altitude relative to the ground, improving the accuracy and quality of the imagery. Source: DroneTM.*
 
-## Field 3. Caribbean Deployment: Dominica and St. Lucia
+### Field 3. Caribbean Deployment: Dominica and St. Lucia
 
 In the Caribbean islands of Dominica and St. Lucia, we deployed DroneTM to support local mapping initiatives. These locations provided an excellent opportunity to test our platform in coastal environments, where accurate mapping is crucial for disaster preparedness and resilience planning. The implementation in these island nations demonstrated DroneTM's capability to handle:
 * Coastal mapping challenges, including varying light conditions over water.
