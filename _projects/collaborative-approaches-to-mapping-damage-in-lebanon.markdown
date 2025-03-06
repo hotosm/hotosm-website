@@ -55,11 +55,11 @@ Lebanon’s diverse geography, combined with the ongoing conflict, has created s
 
 - **Incomplete Building Footprints**: Current datasets, such as Microsoft Machine Learning (ML) buildings, lack the precision needed for reliable damage assessments. For example, Microsoft ML buildings often miss structures or group multiple buildings together, leading to inaccurate damage estimates.  
 
-— Chart and maps from ML, google and overture — 
+- Chart and maps from ML, google and overture 
 
 - **Data Gaps in Rural Areas**: Rural regions face a near-complete absence of reliable geospatial data, making it difficult to detect damage remotely or plan logistics for aid delivery.  
 
-— map on rural areas —
+- map on rural areas
 
 - **Multiple Damage Methodologies**: There are various approaches to damage analysis, each with different inputs, outputs, and levels of transparency. This diversity complicates the data landscape for humanitarian decision-makers.
 
