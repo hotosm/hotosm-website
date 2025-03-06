@@ -29,13 +29,13 @@ De manera colaborativa, se están desarrollando datos cartográficos precisos de
 
 ## **Objetivos**
 
-* **Construir datos cartográficos detallados de transporte público: **Generar datos de rutas de transporte público precisos y actualizados, en formatos pertinentes, en 3 ciudades medianas de México: Toluca, Oaxaca de Juárez, y Salina Cruz.
+* **Construir datos cartográficos detallados de transporte público:** Generar datos de rutas de transporte público precisos y actualizados, en formatos pertinentes, en 3 ciudades medianas de México: Toluca, Oaxaca de Juárez, y Salina Cruz.
 
-* **Fortalecer capacidades locales: **Capacitar a comunidades estudiantiles, ciudadanas y funcionarios públicos en técnicas de mapeo colaborativo y uso de herramientas de código abierto.
+* **Fortalecer capacidades locales:** Capacitar a comunidades estudiantiles, ciudadanas y funcionarios públicos en técnicas de mapeo colaborativo y uso de herramientas de código abierto.
 
-* **Promover la cultura de datos abiertos: **Fomentar la publicación de datos de transporte público en formatos abiertos y accesibles para su reutilización.
+* **Promover la cultura de datos abiertos:** Fomentar la publicación de datos de transporte público en formatos abiertos y accesibles para su reutilización.
 
-* **Fortalecer una comunidad permanente de mapeo: **Establecer una red nacional de mapeo de transporte público, conectando a estudiantes, investigadores y ciudadanos interesados en la temática.
+* **Fortalecer una comunidad permanente de mapeo:** Establecer una red nacional de mapeo de transporte público, conectando a estudiantes, investigadores y ciudadanos interesados en la temática.
 
 ## **Metodología**
 
@@ -61,7 +61,7 @@ Se seleccionaron 2 ciudades medianas (Oaxaca de Juárez y Toluca) con criterios 
 
 * Los datos recopilados son procesados y limpiados rigurosamente para garantizar su calidad.
 
-* Se generan archivos [GTFS (General Transit Feed Specification)](https://gtfs.org/es/) para integrar los datos en apps de planificación de viajes y aplicaciones móviles. 
+* Se generan archivos [GTFS (General Transit Feed Specification)](https://gtfs.org/es/) para integrar los datos en apps de planificación de viajes y aplicaciones móviles.
 
 * Los datos se publicarán en portales y bases de datos nacionales e internacionales, y en los portales de datos abiertos de cada ciudad.
 
@@ -75,24 +75,24 @@ Se seleccionaron 2 ciudades medianas (Oaxaca de Juárez y Toluca) con criterios 
 
 ## **Cronograma**
 
-* **Agosto 2024: **Selección de ciudades y diagnóstico inicial.
+* **Agosto 2024:** Selección de ciudades y diagnóstico inicial.
 
 * **Agosto-Octubre 2024:** Alianzas y planeación.
 
-* **Octubre 2024 - Febrero 2025: **Capacitaciones y actividades de mapeo colaborativo.
+* **Octubre 2024 - Febrero 2025:** Capacitaciones y actividades de mapeo colaborativo.
 
 * **Enero - Abril 2025: **Procesamiento de datos, publicación y presentación de resultados.
 
-* **Mayo - Junio 2025: **Presentación local de los proyectos en cada ciudad; reconocimientos
+* **Mayo - Junio 2025:** Presentación local de los proyectos en cada ciudad; reconocimientos
 
 ## **Impacto esperado**
 
-* **Mejora de la información disponible sobre el transporte público: **Los datos detallados y actualizados de transporte y de la ciudad permitirán completar OpenStreetMap y la creación de un formato GTFS, ambos a disposición de apps existentes y de los gobiernos locales, y como resultado de su uso, una mejor planificación y gestión del transporte.
+* **Mejora de la información disponible sobre el transporte público:** Los datos detallados y actualizados de transporte y de la ciudad permitirán completar OpenStreetMap y la creación de un formato GTFS, ambos a disposición de apps existentes y de los gobiernos locales, y como resultado de su uso, una mejor planificación y gestión del transporte.
 
-* **Empoderamiento ciudadano y estudiantil: **La participación activa de las personas voluntarias en la construcción de los datos fortalecerá el sentido de pertenencia local y el control ciudadano sobre el espacio público.
+* **Empoderamiento ciudadano y estudiantil:** La participación activa de las personas voluntarias en la construcción de los datos fortalecerá el sentido de pertenencia local y el control ciudadano sobre el espacio público.
 
-* **Desarrollo de capacidades locales: **La capacitación en herramientas de código abierto y técnicas de mapeo fortalecerá las capacidades de las comunidades locales y funcionarios.
+* **Desarrollo de capacidades locales:** La capacitación en herramientas de código abierto y técnicas de mapeo fortalecerá las capacidades de las comunidades locales y funcionarios.
 
-* **Fomento de la cultura de datos abiertos: **La publicación de datos de transporte público contribuirá a la transparencia y al fomento de una cultura de colaboración.
+* **Fomento de la cultura de datos abiertos:** La publicación de datos de transporte público contribuirá a la transparencia y al fomento de una cultura de colaboración.
 
 * **Creación de una red de mapeo:** La comunidad de mapeo creada podrá abordar otros desafíos urbanos y contribuir al desarrollo de investigaciones y soluciones innovadoras.
