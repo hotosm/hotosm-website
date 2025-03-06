@@ -10,7 +10,7 @@ Project Summary Text: Lebanon is facing a recovery from crisis, and the Humanita
   and better understand the evolving humanitarian landscape in the country. This work
   is part of a larger initiative to raise awareness and mobilize support for displacement
   and safe migration as part of our program on Conflict and Displacement.
-Feature Image: "/uploads/lebanon_project_banner_2.png"
+Feature Image: "/uploads/lebanon_project_banner_3.png"
 Country:
 - Lebanon
 Impact Area:
