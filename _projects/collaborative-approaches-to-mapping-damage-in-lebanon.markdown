@@ -3,13 +3,13 @@ title: Collaborative Approaches to Mapping Damage in Lebanon
 date: 2025-03-03 18:18:00 Z
 Project Summary Text: Lebanon is facing a recovery from crisis, and the Humanitarian
   OpenStreetMap Team (HOT), with support from the H2H Network and in partnership with
-  OSM Lebanon, is leading a global and local effort to turn incomplete spatial data
-  into reliable data for a stronger response. Using open mapping tools and a growing
-  OpenStreetMap (OSM) community in Lebanon, we are building accurate infrastructure
-  and land use datasets to help humanitarian organizations deliver aid where it is
-  most needed and better understand the evolving humanitarian landscape in the country.
-  This work is part of a larger initiative to raise awareness and mobilize support
-  for displacement and safe migration as part of our program on Conflict and Displacement.
+  OSM Lebanon, is leading a global and local effort to turn incomplete maps into reliable
+  data for a stronger response. Using open mapping tools and a growing OpenStreetMap
+  (OSM) community in Lebanon, we are building accurate infrastructure and land use
+  datasets to help humanitarian organizations deliver aid where it is most needed
+  and better understand the evolving humanitarian landscape in the country. This work
+  is part of a larger initiative to raise awareness and mobilize support for displacement
+  and safe migration as part of our program on Conflict and Displacement.
 Feature Image: "/uploads/lebanon_project_banner_2.png"
 Country:
 - Lebanon
