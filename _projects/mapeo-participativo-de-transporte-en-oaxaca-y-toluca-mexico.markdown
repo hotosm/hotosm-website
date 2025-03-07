@@ -27,7 +27,7 @@ Este proyecto beneficiario de un financiamiento dentro de [TranSIT](https://www.
 
 De manera colaborativa, se están desarrollando datos cartográficos precisos del espacio vial y del transporte público en las ciudades de Oaxaca de Juárez y Toluca, con la participación de estudiantes universitarios locales y regionales, así como colectivos de la sociedad civil y funcionarios públicos locales. El proyecto cuenta con la colaboración temprana  de las Secretarías de Movilidad de ambos estados desde la planeación del proyecto, la selección de áreas, porciones del sistema de transporte, y temas de interés, así como en etapas de validación. Las Secretarías están también activamente involucradas en la socialización interna de resultados, y la inserción de los mismos en procesos administrativos pertinentes. Cuenta con el respaldo técnico de las organizaciones civiles Codeando México, Humanitarian OpenStreetMap Team (HOT) y Trufi Association.
 
-![Proyecto TranSit, HOT Codeando México Trufi Association..jpg](/uploads/Proyecto%20TranSit,%20HOT%20Codeando%20Me%CC%81xico%20Trufi%20Association/jpg)
+![Mapeo de Transporte Público TranSiT GIZ HOT Codeando México Trufi 2.jpg](/uploads/Mapeo%20de%20Transporte%20Pu%CC%81blico%20TranSiT%20GIZ%20HOT%20Codeando%20Me%CC%81xico%20Trufi%202.jpg)
 
 *Fotografía cortesía de Trufi Association muestra voluntaria mapeando en el centro de Oaxaca de Juárez en el contexto del Proyecto TranSit.*
 
