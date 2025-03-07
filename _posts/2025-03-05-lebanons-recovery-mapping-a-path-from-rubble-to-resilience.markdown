@@ -75,6 +75,8 @@ Lebanon's path to recovery will be long and arduous. But by embracing the power 
 <br>
 **Join the Global Mapping Movement & Support HOT’s Mission:** Volunteers worldwide can participate in mapathons and online efforts to improve mapping data in Lebanon. Support for HOT, whether through [donations](https://www.hotosm.org/donate/) or time, helps create a data-driven approach to recovery and a more resilient Lebanon. 
 
+If you are in Lebanon and would like to volunteer with OSM Lebanon, we'd love to hear from you!
+
 **Contact:** [data@hotosm.org](mailto:data@hotosm.org)
 
 <br>

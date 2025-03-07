@@ -1,16 +1,16 @@
 ---
 title: Collaborative Approaches to Mapping Damage in Lebanon
 date: 2025-03-03 18:18:00 Z
-Project Summary Text: Lebanon is facing a humanitarian crisis, and the Humanitarian
+Project Summary Text: Lebanon is facing a recovery from crisis, and the Humanitarian
   OpenStreetMap Team (HOT), with support from the H2H Network and in partnership with
-  OSM Lebanon, is leading a global effort to turn incomplete maps into reliable data
-  for a stronger response. Using open mapping tools and a growing OpenStreetMap (OSM)
-  community in Lebanon, we are building accurate infrastructure and land use datasets
-  to help humanitarian organizations deliver aid where it is most needed and better
-  understand the evolving humanitarian landscape in the country. This work is part
-  of a larger initiative to raise awareness and mobilize support for displacement
+  OSM Lebanon, is leading a global and local effort to turn incomplete maps into reliable
+  data for a stronger response. Using open mapping tools and a growing OpenStreetMap
+  (OSM) community in Lebanon, we are building accurate infrastructure and land use
+  datasets to help humanitarian organizations deliver aid where it is most needed
+  and better understand the evolving humanitarian landscape in the country. This work
+  is part of a larger initiative to raise awareness and mobilize support for displacement
   and safe migration as part of our program on Conflict and Displacement.
-Feature Image: "/uploads/lebanon_project_banner_2.png"
+Feature Image: "/uploads/lebanon_project_banner_3.png"
 Country:
 - Lebanon
 Impact Area:
@@ -55,11 +55,11 @@ Lebanon’s diverse geography, combined with the ongoing conflict, has created s
 
 - **Incomplete Building Footprints**: Current datasets, such as Microsoft Machine Learning (ML) buildings, lack the precision needed for reliable damage assessments. For example, Microsoft ML buildings often miss structures or group multiple buildings together, leading to inaccurate damage estimates.  
 
-— Chart and maps from ML, google and overture — 
+- Chart and maps from ML, google and overture 
 
 - **Data Gaps in Rural Areas**: Rural regions face a near-complete absence of reliable geospatial data, making it difficult to detect damage remotely or plan logistics for aid delivery.  
 
-— map on rural areas —
+- map on rural areas
 
 - **Multiple Damage Methodologies**: There are various approaches to damage analysis, each with different inputs, outputs, and levels of transparency. This diversity complicates the data landscape for humanitarian decision-makers.
 
