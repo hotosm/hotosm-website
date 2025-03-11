@@ -22,6 +22,91 @@ Duration:
   Start Date: 2024-01-01 00:00:00 Z
 ---
 
+<html lang="en">
+<head>
+    <title>Mapping Stats</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f3f5f7;
+        }
+        .stats-container {
+            display: flex;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            justify-content: center;
+            max-width: 1200px;
+            margin-top: 2rem;
+        }
+        .card {
+            background: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            width: 250px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .card h2 {
+            font-size: 2rem;
+            margin: 0;
+            color: #d8433f;
+        }
+        .card p {
+            font-size: 1rem;
+            margin: 0.5rem 0;
+            color: #000;
+        }
+        .tables-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 2rem;
+            max-width: 800px;
+            width: 100%;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 10px;
+        }
+        th, td {
+            padding: 0.75rem;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f3f5f7;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="stats-container">
+        <div class="card">
+            <h2>30,403</h2>
+            <p>Total Buildings</p>
+        </div>
+        <div class="card">
+            <h2>55,117</h2>
+            <p>Total Edits</p>
+        </div>
+    </div>
+</body>
+</html>
+
+<br>
+
 ## Representation of internally displaced people on a map
 
 Humanitarian needs assessments guide resource allocation and strategic action to tackle today’s most pressing humanitarian challenges. Humanitarians use maps to plan representative surveys and engage with people on the ground about their basic needs. In areas with high displacement, keeping maps updated to reflect population shifts is challenging. Without knowing where internally displaced people are living, it becomes difficult to locate them and assess their humanitarian needs.
@@ -108,138 +193,3 @@ There is still work to be done in OSM in Somalia. Newly displaced arrivals are n
 <br>
 
 Are you interested in supporting our work? If you are an intermediate or above mapper in OSM, find projects to contribute to [under the Somalia IDP campaign](https://tasks.hotosm.org/explore?campaign=Somalia%20IDP%20Camps%202024%2F25&omitMapResults=1). If you would like to partner or donate to our work, contact [info@hotosm.org](mailto:info@hotosm.org).
-
-<br>
-
----
-
-## Project Stats
-
-<br>
-
-<html lang="en">
-<head>
-    <title>Mapping Stats</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
-    <style>
-        * { box-sizing: border-box; }
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            background-color: #f3f5f7;
-        }
-        .stats-container {
-            display: flex;
-            gap: 1.5rem;
-            flex-wrap: wrap;
-            justify-content: center;
-            max-width: 1200px;
-            margin-top: 2rem;
-        }
-        .card {
-            background: #fff;
-            padding: 1.5rem;
-            border-radius: 8px;
-            width: 250px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-        .card h2 {
-            font-size: 2rem;
-            margin: 0;
-            color: #d8433f;
-        }
-        .card p {
-            font-size: 1rem;
-            margin: 0.5rem 0;
-            color: #000;
-        }
-        .tables-container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            margin-top: 2rem;
-            max-width: 800px;
-            width: 100%;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            background: #fff;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-            overflow: hidden;
-            margin-bottom: 10px;
-        }
-        th, td {
-            padding: 0.75rem;
-            border: 1px solid #ddd;
-            text-align: left;
-        }
-        th {
-            background-color: #f3f5f7;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <div class="stats-container">
-        <div class="card">
-            <h2>30,403</h2>
-            <p>Total Buildings</p>
-        </div>
-        <div class="card">
-            <h2>55,117</h2>
-            <p>Total Edits</p>
-        </div>
-    </div>
-    <div class="tables-container">
-        <table>
-            <thead>
-                <tr>
-                    <th>Project</th>
-                    <th>Buildings</th>
-                    <th>Edits</th>
-                    <th>Contributors</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>#hotosm-project-15952</td>
-                    <td>25,913</td>
-                    <td>47,926</td>
-                    <td>38</td>
-                </tr>
-                <tr>
-                    <td>#hotosm-project-16307</td>
-                    <td>1,688</td>
-                    <td>1,688</td>
-                    <td>30</td>
-                </tr>
-                <tr>
-                    <td>#hotosm-project-16308</td>
-                    <td>1,014</td>
-                    <td>1,173</td>
-                    <td>8</td>
-                </tr>
-                <tr>
-                    <td>#hotosm-project-16309</td>
-                    <td>1,151</td>
-                    <td>1,161</td>
-                    <td>7</td>
-                </tr>
-                <tr>
-                    <td>#hotosm-project-18133</td>
-                    <td>1,788</td>
-                    <td>4,857</td>
-                    <td>20</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
-</body>
-</html>
