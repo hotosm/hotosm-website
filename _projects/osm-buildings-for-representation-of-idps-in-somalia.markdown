@@ -7,6 +7,7 @@ Project Summary Text: Representative humanitarian needs assessments are crucial 
   populations for needs surveys. To support this effort, the Humanitarian OpenStreetMap
   Team is collaborating with partners to crowdsource updates to OSM building data
   in Somalia’s displacement-affected areas.
+Feature Image: "/uploads/JOSM-screenshot-somalia-idp.png"
 Country:
 - Somalia
 Impact Area:
