@@ -116,7 +116,6 @@ Are you interested in supporting our work? If you are an intermediate or above m
 
 <br>
 
-<!doctype html>
 <html lang="en">
 <head>
     <title>Mapping Stats</title>
