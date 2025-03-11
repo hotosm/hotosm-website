@@ -1,7 +1,6 @@
 ---
 title: 'Staff Spotlight Series: Kennedy Jomokela'
 date: 2025-03-11 20:44:00 Z
-published: false
 categories:
 - staff
 - mapping careers
