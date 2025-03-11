@@ -1,6 +1,7 @@
 ---
 title: Introducing Street-Level Imagery Projects to MapSwipe4Web!
-date: 2025-03-11 20:14:00 Z
+date: 2025-03-13 08:14:00 Z
+published: false
 Summary Text: 'MapSwipe4Web is launching a new street-level view! Ready to know the
   details? Read ahead:'
 Feature Image: "/uploads/MapSwipe_StreetLevelBlog.jpeg"
@@ -36,7 +37,7 @@ At its core, MapSwipe is about making mapping easy and accessible for everyone. 
 With the launch of MapSwipe4Web’s street-level imagery project, we’re continuing to push boundaries. This isn’t just about identifying features on a landscape – it’s about understanding the world we live in and supporting communities with the data they need to thrive.
 
 ![MapSwipe_StreetLevelBlog2.png](/uploads/MapSwipe_StreetLevelBlog2.png)
-*An early prototype asking the user to identify if a road is paved in South Africa, courtesy of the Heidelberg Institute for GeoInformation Technology (HeiGIT). Image source: Mappillary. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/*
+*An early prototype asking the user to identify if a road is paved in South Africa, courtesy of the Heidelberg Institute for GeoInformation Technology (HeiGIT). Image source: Mappillary. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
 
 ## Get Involved!
 
