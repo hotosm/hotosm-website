@@ -111,18 +111,18 @@ Are you interested in supporting our work? If you are an intermediate or above m
 
 <br>
 <br>
-Stats test 
+
+## Stats test 
+
+<br>
+
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mapping Stats</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
     <style>
-        * {
-            box-sizing: border-box;
-        }
-
+        * { box-sizing: border-box; }
         body {
             font-family: Arial, sans-serif;
             margin: 0;
@@ -132,44 +132,63 @@ Stats test
             align-items: center;
             background-color: #f3f5f7;
         }
-
         .stats-container {
             display: flex;
-            flex-wrap: wrap;
             gap: 1.5rem;
+            flex-wrap: wrap;
             justify-content: center;
             max-width: 1200px;
             margin-top: 2rem;
         }
-
         .card {
             background: #fff;
             padding: 1.5rem;
             border-radius: 8px;
-            width: 200px;
+            width: 250px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             text-align: center;
         }
-
-        .card.red {
-            background-color: #d8433f;
-            color: #fff;
-        }
-
         .card h2 {
-            font-size: 1.8rem;
+            font-size: 2rem;
             margin: 0;
+            color: #d8433f;
         }
-
         .card p {
             font-size: 1rem;
             margin: 0.5rem 0;
+            color: #000;
+        }
+        .tables-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-top: 2rem;
+            max-width: 800px;
+            width: 100%;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+            margin-bottom: 10px;
+        }
+        th, td {
+            padding: 0.75rem;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #f3f5f7;
+            font-weight: bold;
         }
     </style>
 </head>
 <body>
     <div class="stats-container">
-        <div class="card red">
+        <div class="card">
             <h2>30,403</h2>
             <p>Total Buildings</p>
         </div>
@@ -177,66 +196,50 @@ Stats test
             <h2>55,117</h2>
             <p>Total Edits</p>
         </div>
-        <div class="card">
-            <h2>25,913</h2>
-            <p>#hotosm-project-15952 Buildings</p>
-        </div>
-        <div class="card">
-            <h2>47,926</h2>
-            <p>#hotosm-project-15952 Edits</p>
-        </div>
-        <div class="card">
-            <h2>38</h2>
-            <p>#hotosm-project-15952 Contributors</p>
-        </div>
-        <div class="card">
-            <h2>1,688</h2>
-            <p>#hotosm-project-16307 Buildings</p>
-        </div>
-        <div class="card">
-            <h2>1,688</h2>
-            <p>#hotosm-project-16307 Edits</p>
-        </div>
-        <div class="card">
-            <h2>30</h2>
-            <p>#hotosm-project-16307 Contributors</p>
-        </div>
-        <div class="card">
-            <h2>1,014</h2>
-            <p>#hotosm-project-16308 Buildings</p>
-        </div>
-        <div class="card">
-            <h2>1,173</h2>
-            <p>#hotosm-project-16308 Edits</p>
-        </div>
-        <div class="card">
-            <h2>8</h2>
-            <p>#hotosm-project-16308 Contributors</p>
-        </div>
-        <div class="card">
-            <h2>1,151</h2>
-            <p>#hotosm-project-16309 Buildings</p>
-        </div>
-        <div class="card">
-            <h2>1,161</h2>
-            <p>#hotosm-project-16309 Edits</p>
-        </div>
-        <div class="card">
-            <h2>7</h2>
-            <p>#hotosm-project-16309 Contributors</p>
-        </div>
-        <div class="card">
-            <h2>1,788</h2>
-            <p>#hotosm-project-18133 Buildings</p>
-        </div>
-        <div class="card">
-            <h2>4,857</h2>
-            <p>#hotosm-project-18133 Edits</p>
-        </div>
-        <div class="card">
-            <h2>20</h2>
-            <p>#hotosm-project-18133 Contributors</p>
-        </div>
+    </div>
+    <div class="tables-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Project</th>
+                    <th>Buildings</th>
+                    <th>Edits</th>
+                    <th>Contributors</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>#hotosm-project-15952</td>
+                    <td>25,913</td>
+                    <td>47,926</td>
+                    <td>38</td>
+                </tr>
+                <tr>
+                    <td>#hotosm-project-16307</td>
+                    <td>1,688</td>
+                    <td>1,688</td>
+                    <td>30</td>
+                </tr>
+                <tr>
+                    <td>#hotosm-project-16308</td>
+                    <td>1,014</td>
+                    <td>1,173</td>
+                    <td>8</td>
+                </tr>
+                <tr>
+                    <td>#hotosm-project-16309</td>
+                    <td>1,151</td>
+                    <td>1,161</td>
+                    <td>7</td>
+                </tr>
+                <tr>
+                    <td>#hotosm-project-18133</td>
+                    <td>1,788</td>
+                    <td>4,857</td>
+                    <td>20</td>
+                </tr>
+            </tbody>
+        </table>
     </div>
 </body>
 </html>
