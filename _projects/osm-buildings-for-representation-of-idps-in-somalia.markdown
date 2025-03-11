@@ -1,7 +1,6 @@
 ---
 title: OSM Buildings for Representation of IDPs in Somalia
 date: 2025-03-11 01:34:00 Z
-published: false
 Project Summary Text: Representative humanitarian needs assessments are crucial for
   effective humanitarian planning. In regions with high numbers of internally displaced
   people (IDPs), up-to-date maps enable humanitarians to identify vulnerable displaced
