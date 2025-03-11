@@ -112,7 +112,6 @@ Are you interested in supporting our work? If you are an intermediate or above m
 <br>
 <br>
 Stats test 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
