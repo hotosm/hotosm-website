@@ -192,4 +192,25 @@ There is still work to be done in OSM in Somalia. Newly displaced arrivals are n
 </div>
 <br>
 
-Are you interested in supporting our work? If you are an intermediate or above mapper in OSM, find projects to contribute to [under the Somalia IDP campaign](https://tasks.hotosm.org/explore?campaign=Somalia%20IDP%20Camps%202024%2F25&omitMapResults=1). If you would like to partner or donate to our work, contact [info@hotosm.org](mailto:info@hotosm.org).
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support Our Work</title>
+    <style>
+        .light-grey-background {
+            background-color: #f0f0f0; /* Light grey color */
+            padding: 20px; /* Add some padding for better readability */
+            border-radius: 5px; /* Optional: rounded corners */
+        }
+    </style>
+</head>
+<body>
+
+<div class="light-grey-background">
+    <p>Are you interested in supporting our work? If you are an intermediate or above mapper in OSM, find projects to contribute to <a href="https://tasks.hotosm.org/explore?campaign=Somalia%20IDP%20Camps%202024%2F25&omitMapResults=1">under the Somalia IDP campaign</a>. If you would like to partner or donate to our work, contact <a href="mailto:info@hotosm.org">info@hotosm.org</a>.</p>
+</div>
+
+</body>
+</html>
