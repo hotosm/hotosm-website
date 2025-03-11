@@ -108,3 +108,136 @@ There is still work to be done in OSM in Somalia. Newly displaced arrivals are n
 <br>
 
 Are you interested in supporting our work? If you are an intermediate or above mapper in OSM, find projects to contribute to [under the Somalia IDP campaign](https://tasks.hotosm.org/explore?campaign=Somalia%20IDP%20Camps%202024%2F25&omitMapResults=1). If you would like to partner or donate to our work, contact [info@hotosm.org](mailto:info@hotosm.org).
+
+<br>
+<br>
+Stats test 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapping Stats</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f3f5f7;
+        }
+
+        .stats-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1.5rem;
+            justify-content: center;
+            max-width: 1200px;
+            margin-top: 2rem;
+        }
+
+        .card {
+            background: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            width: 200px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .card.red {
+            background-color: #d8433f;
+            color: #fff;
+        }
+
+        .card h2 {
+            font-size: 1.8rem;
+            margin: 0;
+        }
+
+        .card p {
+            font-size: 1rem;
+            margin: 0.5rem 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="stats-container">
+        <div class="card red">
+            <h2>30,403</h2>
+            <p>Total Buildings</p>
+        </div>
+        <div class="card">
+            <h2>55,117</h2>
+            <p>Total Edits</p>
+        </div>
+        <div class="card">
+            <h2>25,913</h2>
+            <p>#hotosm-project-15952 Buildings</p>
+        </div>
+        <div class="card">
+            <h2>47,926</h2>
+            <p>#hotosm-project-15952 Edits</p>
+        </div>
+        <div class="card">
+            <h2>38</h2>
+            <p>#hotosm-project-15952 Contributors</p>
+        </div>
+        <div class="card">
+            <h2>1,688</h2>
+            <p>#hotosm-project-16307 Buildings</p>
+        </div>
+        <div class="card">
+            <h2>1,688</h2>
+            <p>#hotosm-project-16307 Edits</p>
+        </div>
+        <div class="card">
+            <h2>30</h2>
+            <p>#hotosm-project-16307 Contributors</p>
+        </div>
+        <div class="card">
+            <h2>1,014</h2>
+            <p>#hotosm-project-16308 Buildings</p>
+        </div>
+        <div class="card">
+            <h2>1,173</h2>
+            <p>#hotosm-project-16308 Edits</p>
+        </div>
+        <div class="card">
+            <h2>8</h2>
+            <p>#hotosm-project-16308 Contributors</p>
+        </div>
+        <div class="card">
+            <h2>1,151</h2>
+            <p>#hotosm-project-16309 Buildings</p>
+        </div>
+        <div class="card">
+            <h2>1,161</h2>
+            <p>#hotosm-project-16309 Edits</p>
+        </div>
+        <div class="card">
+            <h2>7</h2>
+            <p>#hotosm-project-16309 Contributors</p>
+        </div>
+        <div class="card">
+            <h2>1,788</h2>
+            <p>#hotosm-project-18133 Buildings</p>
+        </div>
+        <div class="card">
+            <h2>4,857</h2>
+            <p>#hotosm-project-18133 Edits</p>
+        </div>
+        <div class="card">
+            <h2>20</h2>
+            <p>#hotosm-project-18133 Contributors</p>
+        </div>
+    </div>
+</body>
+</html>
