@@ -192,7 +192,9 @@ There is still work to be done in OSM in Somalia. Newly displaced arrivals are n
 </div>
 <br>
 
-<!DOCTYPE html>
+---
+
+<br>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
