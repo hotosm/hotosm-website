@@ -1,6 +1,7 @@
 ---
 title: 'Staff Spotlight Series: Kennedy Jomokela'
 date: 2025-03-11 20:44:00 Z
+published: false
 categories:
 - staff
 - mapping careers
@@ -13,6 +14,8 @@ Summary Text: 'Each quarter, we feature one of our all-star staff members in a S
   Project Associate at the Eastern and Southern Africa Hub.
 
 '
+Feature Image: "/uploads/StaffSpotlight_Kennedy.jpeg"
+Person: Dana Gallaty
 ---
 
 ## What’s the most unique part about working at HOT?
