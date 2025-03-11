@@ -110,9 +110,10 @@ There is still work to be done in OSM in Somalia. Newly displaced arrivals are n
 Are you interested in supporting our work? If you are an intermediate or above mapper in OSM, find projects to contribute to [under the Somalia IDP campaign](https://tasks.hotosm.org/explore?campaign=Somalia%20IDP%20Camps%202024%2F25&omitMapResults=1). If you would like to partner or donate to our work, contact [info@hotosm.org](mailto:info@hotosm.org).
 
 <br>
-<br>
 
-## Stats test 
+---
+
+## Project Stats
 
 <br>
 
