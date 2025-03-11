@@ -70,7 +70,7 @@ Example digitization of displaced areas in Somalia
 
 ## More efficient and informed ground surveys
 
-### With an updated map of building footprints in OSM, Ground Truth Solutions (GTS) was able to better plan presence in the field by subdividing areas into approximately equal numbers of buildings. 
+With an updated map of building footprints in OSM, Ground Truth Solutions (GTS) was able to better plan presence in the field by subdividing areas into approximately equal numbers of buildings. 
 
 <br>
 <div style="text-align: center;">
@@ -81,7 +81,7 @@ Example digitization of displaced areas in Somalia
 </div>
 <br>
 
-### GTS also used the data to track survey progress. They counted the number of completed household interviews and compared it with the estimated number of buildings to better assess the progress made by their survey team throughout the data collection process.
+GTS also used the data to track survey progress. They counted the number of completed household interviews and compared it with the estimated number of buildings to better assess the progress made by their survey team throughout the data collection process.
 
 <br>
 <div style="text-align: center;">
@@ -92,7 +92,7 @@ Example digitization of displaced areas in Somalia
 </div>
 <br>
 
-### *Finally, the updated OSM data provided quality assurance. During daily quality checks GTS visualized the GPS coordinates of the completed interviews and compared them with the mapped buildings. This allowed GTS to focus on areas which had not been targeted and ask for clarifications (e.g. whether that was a market area, public buildings area etc.).*
+Finally, the updated OSM data provided quality assurance. During daily quality checks GTS visualized the GPS coordinates of the completed interviews and compared them with the mapped buildings. This allowed GTS to focus on areas which had not been targeted and ask for clarifications (e.g. whether that was a market area, public buildings area etc.).
 
 ### Filling remaining gaps in Somalia
 
