@@ -55,7 +55,7 @@ Según Iván Gayton, fundador de la plataforma: *“Drone TM permite que comunid
 
 Como parte de la implementación del proyecto, se llevaron a cabo tres días de talleres de capacitación con 18 participantes, entre ellos 14 integrantes de organizaciones locales aliadas.
 
-Carmen Alcázar, directora de *Wikimedia México*, destaca que al aprender a editar *Wikipedia*, subir contenido a *Wikimedia Commons* y utilizar drones y software de código abierto para el mapeo, se fortalece el conocimiento sobre herramientas clave para documentar problemáticas ambientales y sus soluciones. *“En este caso, registramos la rehabilitación del área a través de la producción de manglares y la restauración de canales, con el objetivo de beneficiar a la comunidad, contribuir a la conservación ecológica y compartir este trabajo mediante Wikipedia y otros proyectos wiki.” *
+Carmen Alcázar, directora de *Wikimedia México*, destaca que al aprender a editar *Wikipedia*, subir contenido a *Wikimedia Commons* y utilizar drones y software de código abierto para el mapeo, se fortalece el conocimiento sobre herramientas clave para documentar problemáticas ambientales y sus soluciones. *“En este caso, registramos la rehabilitación del área a través de la producción de manglares y la restauración de canales, con el objetivo de beneficiar a la comunidad, contribuir a la conservación ecológica y compartir este trabajo mediante Wikipedia y otros proyectos wiki.”*
 
 Aquí un vistazo de lo que logramos durante este taller de tres días:
 
@@ -67,7 +67,7 @@ Exploración de estas plataformas como herramientas de incidencia en temas ambie
 
 * Se subieron más de 3,000 fotografías relacionadas con el monitoreo y protección de manglares, así como imágenes aéreas que conforman las ortofotos generadas durante los vuelos.
 
-* Consulta los archivos multimedia creados \[aquí\].
+* Consulta los archivos multimedia creados [aquí](https://commons.m.wikimedia.org/wiki/Category:Monitoreo_y_protecci%C3%B3n_de_manglares_de_Baja_California_Sur).
 
 ### **Taller de Certificación de Operadores de Drones y Misiones Automatizadas**
 
@@ -100,6 +100,8 @@ loading="lazy">
 
 ## **Construyendo una Comunidad de Drones para la Conservación**
 
+![Drone TM Monitoreo de Manglares HOTOSM BCSicletos.jpg](/uploads/Drone%20TM%20Monitoreo%20de%20Manglares%20HOTOSM%20BCSicletos.jpg)
+
 Con el objetivo continuo de conectar comunidades para que puedan apoyarse mutuamente en el futuro y fomentar la sostenibilidad de un nuevo ecosistema, hemos priorizado la capacitación de personas clave a lo largo de esta iniciativa. Además de involucrar a organizaciones locales activas en la defensa territorial, nos hemos enfocado en profesionales con experiencia en el uso de drones, particularmente aquellos comprometidos con actividades comunitarias o con un fuerte interés en el bienestar colectivo.
 
 La organización del taller de vuelos de drones y fotogrametría fue una oportunidad crucial para capacitar de forma remota a diversos profesionales en el uso de la plataforma *Drone Tasking Manager* en distintas regiones de México. Paralelamente, preparamos al instructor *Dante Loeza Amaro*, quien lideró la formación presencial con las organizaciones locales. Esta capacitación previa amplió el impacto del instructor, llegando a un sector más amplio, incluyendo topógrafos y especialistas en fotogrametría. Como resultado, más profesionales pueden ahora aprovechar *Drone Tasking Manager (DTM)* con drones ligeros, sensibilizando a más personas sobre las luchas ambientales y comunitarias por los derechos territoriales.
@@ -108,7 +110,7 @@ Además, quienes han sido capacitados en esta iniciativa pueden ahora integrarse
 
 La formación de una comunidad de voluntariado estratégicamente distribuida en un territorio vulnerable fortalece la resiliencia ante desastres. También garantiza el acceso a información cartográfica detallada tras las crisis, datos que suelen no estar disponibles cuando más se necesitan pero que son fundamentales tanto para la recuperación inmediata como para mejorar la preparación ante eventos futuros.
 
-### **Invitación Abierta a Gobiernos y Organizaciones**
+## **Invitación Abierta a Gobiernos y Organizaciones**
 
 Les invitamos a explorar [OpenDroneMap](https://www.opendronemap.org/), una plataforma que integra tecnologías abiertas con un enfoque en la democratización técnica, potenciando este modelo.
 
@@ -118,4 +120,4 @@ Gracias a esta tecnología, ahora es posible generar datos accesibles y de alta 
 
 Explora los recursos disponibles en esta plataforma y todo lo que permite en [dronetm.org](https://dronetm.org).
 
-Tú también puedes amplificar el impacto de tus causas y contribuir a la formación de más grupos enfocados en el uso de drones y fotogrametría abierta. Compartir y difundir este conocimiento es clave para fortalecer redes colaborativas y promover el uso estratégico de estas tecnologías en beneficio de los territorios y sus comunidades.\
+Tú también puedes amplificar el impacto de tus causas y contribuir a la formación de más grupos enfocados en el uso de drones y fotogrametría abierta. Compartir y difundir este conocimiento es clave para fortalecer redes colaborativas y promover el uso estratégico de estas tecnologías en beneficio de los territorios y sus comunidades.
