@@ -8,6 +8,8 @@ Summary Text: Discover how collaboration between local communities and the use o
 Person:
 - Céline Jacquin
 - Mariana Marín
+Country:
+- Mexico
 ---
 
 Since 2022, the Humanitarian OpenStreetMap Team (HOT) has worked on projects and emergency responses in Latin America and the Caribbean, focusing on coastal zone issues. One of the most notable projects is Open Cities in Tulum, where support was provided to the municipal government in generating open cartography to address local challenges and facilitate territorial planning. Another key experience was the comprehensive response to the emergency caused by Hurricane Otis in Guerrero.
@@ -15,6 +17,10 @@ Since 2022, the Humanitarian OpenStreetMap Team (HOT) has worked on projects and
 Based on these experiences, the LAC Hub of HOT has systematically investigated coastal issues in Mexico, identifying challenges such as sargassum accumulation, mangrove vulnerability, and the importance of reefs in environmental management. Thanks to funding from the Wikimedia Foundation, planned actions have been carried out alongside local actors committed to defending their natural and urban environment.
 
 ## The Degradation of Mangroves and the Importance of Local Allies
+
+![Monitoreo y Protección de Manglares Las Guardianas del Conchalito.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Las%20Guardianas%20del%20Conchalito.jpg)
+
+*Photos: RollitoDeGuayaba / Wikimedia Commons CC-BY-4.0*
 
 Mangroves are key ecosystems in coastal protection, biodiversity, and carbon sequestration. However, they face threats such as rising sea levels, pollution, and unregulated urban expansion. In Mexico, the loss of mangroves impacts food security, storm resilience, and the economic stability of fishing and tourism communities. The lack of updated data on their health and evolution hinders their protection and restoration, leaving communities with few tools to address these challenges.
 
@@ -32,6 +38,10 @@ The collaboration between these groups enables sustainable actions with real com
 
 ## Lightweight Drones: The Key Tool for Environmental Monitoring
 
+![1-2df3b3.jpg](/uploads/1-2df3b3.jpg)
+
+*Photos: RollitoDeGuayaba / Wikimedia Commons CC-BY-4.0*
+
 The use of the open-source **Drone Tasking Manager (DTM)** platform facilitates the collection of aerial imagery and photogrammetric processing without the need for expensive drones or advanced software and knowledge. With this technology, high-precision cartography can be generated, allowing for a more detailed assessment of threats to these ecosystems and the design of data-driven conservation strategies.
 
 In his work *"Community Use of Lightweight Drones for Land Management, Conservation, and Defense"*, as part of the Red Latindron research network, **Nicolás Vargas-Ramírez** and collaborators highlight how communities can use lightweight drones as accessible and innovative tools to strengthen their territorial causes. These devices allow communities to obtain detailed aerial information autonomously and economically, facilitating environmental conflict documentation and promoting conservation practices. By adopting this technology, communities not only improve their response capacity to threats but also enhance their participation in the sustainable management of their natural resources, promoting territorial justice and local empowerment.
@@ -41,6 +51,10 @@ From a similar perspective, HOT has developed the **Drone Tasking Manager** plat
 According to Iván Gayton, founder of the platform: *"Drone TM enables communities worldwide to use drones without requiring large economic resources. While professional drones can cost large sums, an affordable drone can also be accessible to many social organizations, generating high-quality geospatial data." This democratizes access to cartography, empowering communities to map their territories and respond to environmental challenges".*
 
 ## Training in Action: Wikimedia Workshops, Drone Flights and Tasking Manager
+
+![Monitoreo y Protección de Manglares Wikimedia México HOTOSM.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Wikimedia%20Me%CC%81xico%20HOTOSM.jpg)
+
+*Photos: RollitoDeGuayaba / Wikimedia Commons CC-BY-4.0*
 
 As part of the project’s implementation, three days of training workshops were held with **18 participants, including 14 members of allied local organizations**.
 
@@ -70,7 +84,13 @@ Exploration of these platforms as advocacy tools in environmental topics in the 
 
   * Generation of orthophotos, point clouds, and 3D visualization.
 
+[![Captura de pantalla 2025-03-12 a la(s) 10.47.16 a.m..png](/uploads/Captura%20de%20pantalla%202025-03-12%20a%20la(s)%2010.47.16%E2%80%AFa.m/png)](https://crankyserver.com/public/task/8a7ea9f6-0631-4b8e-8f2a-c8e6a7958dbe/map/?t=orthophoto)
+
+*Photo: Orthophoto from three flights conducted by BSCicletos and Mangles del Manglito during Saturday's practice in El Conchalito. View it [here](https://crankyserver.com/public/task/8a7ea9f6-0631-4b8e-8f2a-c8e6a7958dbe/map/?t=orthophoto).*
+
 ## Building a Drone Community for Conservation
+
+![Monitoreo y Protección de Manglares Las Guardianas del Conchalito 2.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Las%20Guardianas%20del%20Conchalito%202.jpg)
 
 With the ongoing goal of bridging communities so they can support each other in the future and foster the sustainability of a new ecosystem, we have prioritized training key individuals throughout this initiative. In addition to local organizations engaged in territorial actions, we have focused on professionals in drone usage who are involved in community activities or have a strong interest in collective well-being.
 
@@ -82,7 +102,7 @@ The formation of a strategically distributed volunteer community in a vulnerable
 
 ## Open Invitation to Governments and Organizations
 
-We invite you to explore [OpenDroneMap](https://dronetm.org/), a platform that integrates open technologies with a focus on technical democratization, enhancing this approach.
+We invite you to explore [OpenDroneMap](https://www.opendronemap.org/), a platform that integrates open technologies with a focus on technical democratization, enhancing this approach.
 
 This tool allows basic-range drones to perform advanced photogrammetry functions, enabling territorial observations and monitoring that were previously limited to specialized groups with high financial resources.
 
