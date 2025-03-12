@@ -116,6 +116,6 @@ This tool allows basic-range drones to perform advanced photogrammetry functions
 
 Thanks to this technology, it is now possible to generate accessible and high-quality data, strengthening local capacities and creating new opportunities for communities that previously lacked access to these tools. This represents a key step in building more inclusive territorial monitoring and management processes, where more people can actively participate in collecting and utilizing geospatial information.
 
-Explore the available resources on this platform and everything it enables at [dronetm.org](dronetm.org).
+Explore the available resources on this platform and everything it enables at [dronetm.org](https://dronetm.org/).
 
 You too can amplify the impact of your causes and contribute to the formation of more groups focused on drone usage and open photogrammetry. Sharing and spreading this knowledge is key to strengthening collaborative networks and promoting the strategic use of these technologies for the benefit of territories and communities.
