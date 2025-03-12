@@ -1,7 +1,6 @@
 ---
 title: Introducing Street-Level Imagery Projects to MapSwipe4Web!
-date: 2025-03-13 08:14:00 Z
-published: false
+date: 2025-03-12 08:14:00 Z
 Summary Text: 'MapSwipe4Web is launching a new street-level view! Ready to know the
   details? Read ahead:'
 Feature Image: "/uploads/MapSwipe_StreetLevelBlog.jpeg"
