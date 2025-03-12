@@ -5,6 +5,7 @@ date: 2025-03-12 13:32:00 Z
 Summary Text: Discover how collaboration between local communities and the use of
   lightweight drones are revolutionizing mangrove conservation in Mexico, strengthening
   territorial management, and promoting community resilience.
+Feature Image: "/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Las%20Guardianas%20del%20Conchalito%20BSCicletos%20Mangles%20del%20Manglito%20HOTOSM%20Wikimedia%20Me%CC%81xico.jpg"
 Person:
 - Céline Jacquin
 - Mariana Marín
