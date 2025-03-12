@@ -179,7 +179,7 @@ GTS also used the data to track survey progress. They counted the number of comp
 
 Finally, the updated OSM data provided quality assurance. During daily quality checks GTS visualized the GPS coordinates of the completed interviews and compared them with the mapped buildings. This allowed GTS to focus on areas which had not been targeted and ask for clarifications (e.g. whether that was a market area, public buildings area etc.).
 
-### Filling remaining gaps in Somalia
+## Filling remaining gaps in Somalia
 
 There is still work to be done in OSM in Somalia. Newly displaced arrivals are not represented in OSM and we are looking for volunteers to digitize new IDP shelters and buildings hosting displacement.
 
