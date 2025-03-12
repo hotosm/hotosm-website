@@ -13,6 +13,8 @@ Country:
 - Mexico
 ---
 
+**[Versión en Español](https://www.hotosm.org/updates/fortalecimiento-de-comunidades-en-la-conservacion-de-manglares-tecnologia-de-drones-y-colaboracion-local/)**
+
 Since 2022, the Humanitarian OpenStreetMap Team (HOT) has worked on projects and emergency responses in Latin America and the Caribbean, focusing on coastal zone issues. One of the most notable projects is [Open Cities in Tulum](https://www.hotosm.org/projects/open-cities-mexico-dc7e44/), where support was provided to the municipal government in generating open cartography to address local challenges and facilitate territorial planning. Another key experience was the comprehensive response to the emergency caused by Hurricane Otis in Guerrero.
 
 Based on these experiences, the LAC Hub of HOT has systematically investigated coastal issues in Mexico, identifying challenges such as sargassum accumulation, mangrove vulnerability, and the importance of reefs in environmental management. Thanks to funding from the Wikimedia Foundation, planned actions have been carried out alongside local actors committed to defending their natural and urban environment.
@@ -27,7 +29,7 @@ Mangroves are key ecosystems in coastal protection, biodiversity, and carbon seq
 
 To close this information gap and strengthen environmental governance, this initiative promotes the use of open technologies and participatory methodologies to create aerial imagery and data autonomously, allowing for sustainable monitoring and management of mangroves.
 
-The preservation of this ecosystem would not be possible without the participation of local organizations actively working in conservation and territorial defense. **Guardianas del Conchalito** and **BCSicletos** are key allies in this process. Guardianas del Conchalito has led mangrove protection efforts since 2016 with a community and gender perspective, promoting female leadership and economic autonomy through marine conservation. BCSicletos, on the other hand, has worked in territorial defense and urban sustainability in La Paz since 2010, linking environmental activism with mobility and public space use.
+The preservation of this ecosystem would not be possible without the participation of local organizations actively working in conservation and territorial defense. **[Guardianas del Conchalito](https://www.instagram.com/guardianasdelconchalito/)** and **[BSCicletos](https://bcsicletos.org/)** are key allies in this process. Guardianas del Conchalito has led mangrove protection efforts since 2016 with a community and gender perspective, promoting female leadership and economic autonomy through marine conservation. BCSicletos, on the other hand, has worked in territorial defense and urban sustainability in La Paz since 2010, linking environmental activism with mobility and public space use.
 
 **Daniela Bareño,** a member of Guardianas del Conchalito, shares: *"The mangrove is a vital ecosystem that acts as the city's lung, a natural barrier against hurricanes, and an efficient carbon sink, absorbing up to five times more CO₂ than other forests. To strengthen its restoration, the use of drones and technical training will allow us to monitor its condition, identify affected areas, and improve our conservation strategies, as well as train young people in mangrove mapping and protection."*
 
