@@ -13,7 +13,7 @@ Country:
 - Mexico
 ---
 
-Since 2022, the Humanitarian OpenStreetMap Team (HOT) has worked on projects and emergency responses in Latin America and the Caribbean, focusing on coastal zone issues. One of the most notable projects is Open Cities in Tulum, where support was provided to the municipal government in generating open cartography to address local challenges and facilitate territorial planning. Another key experience was the comprehensive response to the emergency caused by Hurricane Otis in Guerrero.
+Since 2022, the Humanitarian OpenStreetMap Team (HOT) has worked on projects and emergency responses in Latin America and the Caribbean, focusing on coastal zone issues. One of the most notable projects is [Open Cities in Tulum](https://www.hotosm.org/projects/open-cities-mexico-dc7e44/), where support was provided to the municipal government in generating open cartography to address local challenges and facilitate territorial planning. Another key experience was the comprehensive response to the emergency caused by Hurricane Otis in Guerrero.
 
 Based on these experiences, the LAC Hub of HOT has systematically investigated coastal issues in Mexico, identifying challenges such as sargassum accumulation, mangrove vulnerability, and the importance of reefs in environmental management. Thanks to funding from the Wikimedia Foundation, planned actions have been carried out alongside local actors committed to defending their natural and urban environment.
 
