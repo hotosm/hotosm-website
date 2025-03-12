@@ -85,9 +85,16 @@ Exploration of these platforms as advocacy tools in environmental topics in the 
 
   * Generation of orthophotos, point clouds, and 3D visualization.
 
-[![Captura de pantalla 2025-03-12 a la(s) 10.47.16 a.m..png](/uploads/Captura%20de%20pantalla%202025-03-12%20a%20la(s)%2010.47.16%E2%80%AFa.m/png)](https://crankyserver.com/public/task/8a7ea9f6-0631-4b8e-8f2a-c8e6a7958dbe/map/?t=orthophoto)
+<iframe
+src="https://crankyserver.com/public/task/8a7ea9f6-0631-4b8e-8f2a-c8e6a7958dbe/3d/"
+width="100%"
+height="700"
+style="border: none;"
+allowfullscreen
+loading="lazy">
+</iframe>
 
-*Photo: Orthophoto from three flights conducted by BSCicletos and Mangles del Manglito during Saturday's practice in El Conchalito. View it [here](https://crankyserver.com/public/task/8a7ea9f6-0631-4b8e-8f2a-c8e6a7958dbe/map/?t=orthophoto).*
+*Frame: Orthophoto from three flights conducted by BSCicletos and Mangles del Manglito during Saturday's practice in El Conchalito. View it [here](https://crankyserver.com/public/task/8a7ea9f6-0631-4b8e-8f2a-c8e6a7958dbe/map/?t=orthophoto).*
 
 ## Building a Drone Community for Conservation
 
