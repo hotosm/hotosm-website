@@ -67,7 +67,7 @@ Exploración de estas plataformas como herramientas de incidencia en temas ambie
 
 * Se subieron más de 3,000 fotografías relacionadas con el monitoreo y protección de manglares, así como imágenes aéreas que conforman las ortofotos generadas durante los vuelos.
 
-* Consulta los archivos multimedia creados \[aquí\].
+* Consulta los archivos multimedia creados *[aquí](https://commons.m.wikimedia.org/wiki/Category:Monitoreo_y_protecci%C3%B3n_de_manglares_de_Baja_California_Sur#)*.
 
 ### **Taller de Certificación de Operadores de Drones y Misiones Automatizadas**
 
