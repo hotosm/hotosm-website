@@ -17,7 +17,7 @@ Desde 2022, el Equipo Humanitario de OpenStreetMap (HOT) ha trabajado en proyect
 
 A partir de estas experiencias, el LAC Hub de HOT ha investigado sistemáticamente las problemáticas costeras en México, identificando desafíos como la acumulación de sargazo, la vulnerabilidad de los manglares y la importancia de los arrecifes en la gestión ambiental. Gracias al financiamiento de la Fundación Wikimedia, se han llevado a cabo acciones planificadas junto a actores locales comprometidos con la defensa de su entorno natural y urbano.
 
-# La Degradación de los Manglares y la Importancia de los Aliados Locales
+## La Degradación de los Manglares y la Importancia de los Aliados Locales
 
 ![Monitoreo y Protección de Manglares Las Guardianas del Conchalito.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Las%20Guardianas%20del%20Conchalito.jpg)
 
@@ -35,7 +35,7 @@ La colaboración entre estos grupos permite desarrollar acciones sostenibles con
 
 Carlos Mancilla, Director Ejecutivo de *BCSicletos*, resalta la importancia de este taller para la organización y cómo lo utilizarán para apoyar a *Guardianas del Conchalito* y otras luchas territoriales sociales: *“La Paz tiene una dinámica urbana única que debe ser protegida para garantizar su sostenibilidad. En BCSicletos, esta capacitación es clave, pues a través de nuestro Laboratorio Urbano Colaborativo desarrollamos herramientas de análisis y generamos información valiosa para la comunidad. Con un enfoque en mapeo comunitario, utilizaremos herramientas como OpenDroneMap y OpenStreetMap para analizar intervenciones viales, cambios territoriales y problemáticas como el derecho a la vivienda, el despojo de tierras y la prevención de desastres naturales, fortaleciendo así nuestras estrategias y el impacto de nuestro trabajo.”*
 
-# **Drones Ligeros: La Herramienta Clave para el Monitoreo Ambiental**
+## **Drones Ligeros: La Herramienta Clave para el Monitoreo Ambiental**
 
 ![1-2df3b3.jpg](/uploads/1-2df3b3.jpg)
 
@@ -47,7 +47,7 @@ Desde una perspectiva similar, *HOT* ha desarrollado la plataforma *Drone Taskin
 
 Según Iván Gayton, fundador de la plataforma: *“Drone TM permite que comunidades de todo el mundo utilicen drones sin requerir grandes recursos económicos. Mientras que los drones profesionales pueden costar sumas elevadas, un dron accesible también puede estar al alcance de muchas organizaciones sociales, generando datos geoespaciales de alta calidad.”* Esta herramienta democratiza el acceso a la cartografía, empoderando a las comunidades para mapear sus territorios y responder a los desafíos ambientales.
 
-# **Capacitación en Acción: Talleres de Wikimedia, Vuelos de Drones y Tasking Manager**
+## **Capacitación en Acción: Talleres de Wikimedia, Vuelos de Drones y Tasking Manager**
 
 ![Monitoreo y Protección de Manglares Wikimedia México HOTOSM.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Wikimedia%20Me%CC%81xico%20HOTOSM.jpg)
 
