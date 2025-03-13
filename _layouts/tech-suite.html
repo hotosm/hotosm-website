@@ -210,14 +210,14 @@ layout: default
               <h2 class="partner-subtitle" style="opacity: 0.1;"> </h2>
         
                   <div class="module-group-tools top-image" style="margin-bottom: 1px">
-                      <a class="module " href="/tech-suite/chat-map/" id="support-programs">
+                      <a class="module " href="/tech-suite/chatmap/" id="support-programs">
                         <div class="block-screenshot-wrap" style="padding: 3%; background-color: white;">
-                          <img src="{{ page['chat-map'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
+                          <img src="{{ page['chatmap'].Image }}" style="height: 350px; width: 100%; object-fit: cover;">
                         </div>
                         <div class="module-details">
-                          <h2 >{{  page['chat-map'].Header }}</h2>
-                          <p>{{ page['chat-map'].Text }}</p>
-                          {% for tool in page['chat-map'].Tools %}
+                          <h2 >{{  page['chatmap'].Header }}</h2>
+                          <p>{{ page['chatmap'].Text }}</p>
+                          {% for tool in page['chatmap'].Tools %}
                           <p class="module-cta" href="www.hotosm.org">{{ tool.Name }}</p>
                           {% endfor %}
                         </div>

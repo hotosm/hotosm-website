@@ -23,13 +23,13 @@ tasking-manager:
   Tools:
   - Name: Learn More
     URL: https://tasks.hotosm.org/
-chat-map:
+chatmap:
   Header: ChatMap
   Text: An easy-to-use web app where you can upload an exported chat from WhatsApp and other IM apps and create a map with it!
   Image: https://www.hotosm.org/uploads/chatmap-banner-2.png
   Tools:
   - Name: Learn More
-    URL: "/tech-suite/chat-map/"
+    URL: "/tech-suite/chatmap/"
 Fair:
   Header: fAIr
   Text: fAIr is an open AI-assisted mapping service developed by the Humanitarian
