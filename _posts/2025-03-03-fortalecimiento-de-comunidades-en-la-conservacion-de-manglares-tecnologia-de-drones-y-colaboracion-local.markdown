@@ -13,6 +13,8 @@ Country:
 - Mexico
 ---
 
+**[English version](https://www.hotosm.org/updates/strengthening-communities-in-mangrove-conservation-drone-technology-and-local-collaboration/)**
+
 Desde 2022, el Equipo Humanitario de OpenStreetMap (HOT) ha trabajado en proyectos y respuestas a emergencias en América Latina y el Caribe, con un enfoque en problemáticas de las zonas costeras. Uno de los proyectos más destacados es [Open Cities en Tulum](https://www.hotosm.org/projects/open-cities-mexico-dc7e44/), donde se apoyó al gobierno municipal en la generación de cartografía abierta para abordar desafíos locales y facilitar la planificación territorial. Otra experiencia clave fue la respuesta integral a la emergencia causada por el Huracán Otis en Guerrero.
 
 A partir de estas experiencias, el LAC Hub de HOT ha investigado sistemáticamente las problemáticas costeras en México, identificando desafíos como la acumulación de sargazo, la vulnerabilidad de los manglares y la importancia de los arrecifes en la gestión ambiental. Gracias al financiamiento de la Fundación Wikimedia, se han llevado a cabo acciones planificadas junto a actores locales comprometidos con la defensa de su entorno natural y urbano.
