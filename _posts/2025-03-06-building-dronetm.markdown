@@ -1,7 +1,6 @@
 ---
 title: 'Building DroneTM: A Digital Public Good Solution To Democratize Drone Mapping'
 date: 2025-03-06 19:16:00 Z
-published: false
 Summary Text: Guest blogger Niraj Adhikari, from our partner NAXA, takes us through
   the motivations that led him to become a geospatial software developer, as well
   as the highs and lows of developing a groundbreaking product such as DroneTM, making
