@@ -25,7 +25,8 @@ tasking-manager:
     URL: https://tasks.hotosm.org/
 chatmap:
   Header: ChatMap
-  Text: An easy-to-use web app where you can upload an exported chat from WhatsApp and other IM apps and create a map with it!
+  Text: An easy-to-use web app where you can upload an exported chat from WhatsApp
+    and other IM apps and create a map with it!
   Image: https://www.hotosm.org/uploads/chatmap-banner-2.png
   Tools:
   - Name: Learn More
