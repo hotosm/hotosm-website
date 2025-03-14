@@ -44,9 +44,9 @@ Block 3:
   - Name: Try it!
     URL: http://chatmap.hotosm.org/
   - Name: GitHub
-    URL: github.com/hotosm/chatmap
+    URL: https://github.com/hotosm/chatmap
   - Name: Docs
-    URL: github.com/hotosm/chatmap/docs
+    URL: https://github.com/hotosm/chatmap/tree/master/docs
 Block 4:
   Header: Open Aerial Map (OAM)
   Text: OpenAerialMap is an open service to provide access to a commons of openly
