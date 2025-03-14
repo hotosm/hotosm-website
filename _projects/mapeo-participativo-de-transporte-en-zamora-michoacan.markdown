@@ -13,6 +13,8 @@ Partner:
 - CoMapper
 - Trufi
 - Gobierno Municipal de Zamora
+Duration:
+  End Date: Completed
 Tools:
 - tool: MapMap
 - tool: OSM Tracker
