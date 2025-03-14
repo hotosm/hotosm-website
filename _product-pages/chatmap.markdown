@@ -8,12 +8,18 @@ Show-content: 'no'
 Tool-name: ChatMap
 Block 0:
   Header: 
-  Text: A super-accesible tool for mapping with chat apps like WhatsApp, Telegram or Signal
+  Text: A super-accesible tool for mapping with chat apps like WhatsApp, Telegram
+    or Signal
   Image: https://www.hotosm.org/uploads/chatmap-hotosm-website.001.png
 Block 1:
   Section: What is it?
-  Header: Nearly 3.5 billion people throughout the world already use an instant messaging app for communications on a routine basis, many of them in high vulnerability locations. What if communities could just simply and easily utilize the existing apps for mapping?
-  Text: ChatMap is a web tool that converts chats to maps. Designed for everyone, requires no complex integrations or trainings, making it accessible and effective for those in need, immediately. Relying on the GPS signal, it also works offline.
+  Header: Nearly 3.5 billion people throughout the world already use an instant messaging
+    app for communications on a routine basis, many of them in high vulnerability
+    locations. What if communities could just simply and easily utilize the existing
+    apps for mapping?
+  Text: ChatMap is a web tool that converts chats to maps. Designed for everyone,
+    requires no complex integrations or trainings, making it accessible and effective
+    for those in need, immediately. Relying on the GPS signal, it also works offline.
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Learn More
@@ -37,8 +43,13 @@ Block 2:
     Highlight: Works in low-connectivity situations, like disasters
 Block 3:
   Header: Why ChatMap?
-  Highlight: This is the ideal tool for working with non-tech savvy people, or when you don’t have the time or capability to run trainings.
-  Text: As easy as it sounds, ChatMap is available right now for everyone.<br><br> Once the chats are uploaded to the ChatMap application, the tool processes this data to extract the relevant locations, text and media and displays it on a map.<br>Check this quick video tutorial to learn how to use it and start mapping with chats apps today! <br><br><a href="https://youtu.be/ScHgVhyj1aw?si=smsyumWkhsn0Khlk">https://youtu.be/ScHgVhyj1aw?si=smsyumWkhsn0Khlk</a><br><br>
+  Highlight: This is the ideal tool for working with non-tech savvy people, or when
+    you don’t have the time or capability to run trainings.
+  Text: As easy as it sounds, ChatMap is available right now for everyone.<br><br>
+    Once the chats are uploaded to the ChatMap application, the tool processes this
+    data to extract the relevant locations, text and media and displays it on a map.<br>Check
+    this quick video tutorial to learn how to use it and start mapping with chats
+    apps today! <br><br><a href="https://youtu.be/ScHgVhyj1aw?si=smsyumWkhsn0Khlk">https://youtu.be/ScHgVhyj1aw?si=smsyumWkhsn0Khlk</a><br><br>
   Image: https://www.hotosm.org/uploads/chatmap-hotosm-website.002.png
   Tools:
   - Name: Try it!
