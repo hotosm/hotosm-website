@@ -20,6 +20,68 @@ Since its creation over 20 years ago, OpenStreetMap (OSM) has grown to a one of 
 Take Sudan, for example. The ongoing civil war has sparked interest and investment in reflecting the territory accurately in OSM. [A recent research paper published in the journal Frontiers in Climate](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2024.1439940/full) demonstrates that 83% of the buildings currently in OSM have been edited recently, between August 2021 and August 2024, aligning with the lead up to, and outbreak of, the current humanitarian crisis in Sudan. 
 
 <br>
+<html lang="en">
+<head>
+    <title>Mapping Stats</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f3f5f7;
+        }
+        .stats-container {
+            display: flex;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            justify-content: center;
+            max-width: 1200px;
+            margin-top: 2rem;
+        }
+        .card {
+            background: #fff;
+            padding: 1.5rem;
+            border-radius: 8px;
+            width: 250px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .card h2 {
+            font-size: 2rem;
+            margin: 0;
+            color: #d8433f;
+        }
+        .card p {
+            font-size: 1rem;
+            margin: 0.5rem 0;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="stats-container">
+        <div class="card">
+            <h2>28.3 K</h2>
+            <p>2014-08-21</p>
+        </div>
+        <div class="card">
+            <h2>1432 K</h2>
+            <p>2024-08-21</p>
+        </div>
+        <div class="card">
+            <h2>4958 %</h2>
+            <p>Growth Rate</p>
+        </div>
+    </div>
+</body>
+</html>
+
+<br>
 
 <html lang="en">
 <head>
