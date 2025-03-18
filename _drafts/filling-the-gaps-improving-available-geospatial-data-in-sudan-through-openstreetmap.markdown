@@ -143,7 +143,7 @@ Take Sudan, for example. The ongoing civil war has sparked interest and investme
                 datasets: [{
                     label: 'Buildings Mapped',
                     data: data,
-                    borderColor: #489FD8,
+                    borderColor: 'blue',
                     backgroundColor: 'rgba(0, 0, 255, 0.2)',
                     fill: true,
                     tension: 0.4,
