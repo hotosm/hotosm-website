@@ -55,7 +55,7 @@ Take Sudan, for example. The ongoing civil war has sparked interest and investme
         .card h2 {
             font-size: 1.5rem; /* Smaller font size */
             margin: 0;
-            color: #d8433f;
+            color: #489FD8;
         }
         .card p {
             font-size: 0.875rem; /* Smaller font size */
