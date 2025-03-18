@@ -96,75 +96,58 @@ Take Sudan, for example. The ongoing civil war has sparked interest and investme
 
 <br>
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OSM Building Growth in Sudan</title>
+    <title>OSM Buildings Growth in Sudan</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        #chartContainer {
-            max-width: 800px;
-            margin: 0 auto;
-        }
-    </style>
 </head>
 <body>
-
-<div id="chartContainer">
-    <canvas id="buildingChart"></canvas>
-</div>
-
-<script>
-    const labels = ["2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024"];
-    const dataPoints = [0, 10_000, 20_000, 40_000, 70_000, 100_000, 200_000, 400_000, 600_000, 1_000_000, 1_500_000];
-    
-    const ctx = document.getElementById('buildingChart').getContext('2d');
-    const buildingChart = new Chart(ctx, {
-        type: 'line',
-        data: {
-            labels: labels,
-            datasets: [{
-                label: 'Buildings Mapped',
-                data: dataPoints,
-                backgroundColor: 'rgba(54, 162, 235, 0.2)',
-                borderColor: 'rgba(54, 162, 235, 1)',
-                borderWidth: 2,
-                fill: true
-            }]
-        },
-        options: {
-            responsive: true,
-            scales: {
-                y: {
-                    beginAtZero: true,
-                    title: {
-                        display: true,
-                        text: 'Total Buildings',
-                        font: { size: 16 }
+    <canvas id="osmChart"></canvas>
+    <script>
+        const ctx = document.getElementById('osmChart').getContext('2d');
+        const osmChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ['2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023', '2024', '2025'],
+                datasets: [{
+                    label: 'Buildings Mapped',
+                    data: [27927, 45234, 57570, 81937, 104896, 111891, 130725, 329857, 550623, 1056326, 1434167, 1617831],
+                    borderColor: 'blue',
+                    backgroundColor: 'rgba(0, 0, 255, 0.2)',
+                    fill: true,
+                    tension: 0.4
+                }]
+            },
+            options: {
+                responsive: true,
+                plugins: {
+                    legend: {
+                        display: true
+                    }
+                },
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Year'
+                        }
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: 'Number of Buildings'
+                        }
                     }
                 }
-            },
-            plugins: {
-                title: {
-                    display: true,
-                    text: 'Total Number of Buildings Mapped in Sudan (OSM)',
-                    font: { size: 18 }
-                }
             }
-        }
-    });
-</script>
-
-<div style="text-align: center; margin-top: 10px; font-size: 0.8em; color: #778899;">
-    <p>Total number of buildings mapped in OpenStreetMap (OSM) across Sudan from 21 August 2014 to 21 August 2024, showing a 4,958% growth rate. Source: <a href="https://dashboard.ohsome.org/" target="_blank">HeiGIT</a>.</p>
-</div>
-
+        });
+    </script>
 </body>
 </html>
+
 
 --- 
 
