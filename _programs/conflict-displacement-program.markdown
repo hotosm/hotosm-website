@@ -63,6 +63,7 @@ Block 2:
     System
   - Geospatial Data for Humanitarian Response in Sudan Conflict
   - Collaborative Approaches to Mapping Damage in Lebanon
+  - OSM Buildings for Representation of IDPs in Somalia
 Program-summary:
   Program Summary Text: |+
     <span style="font-size: 0.6em;"><font color="#778899">Cover Photo: Soldiers from the Somali National Army stand watch as women wait at an IDP camp near the town of Beletweyne, Somalia / Tobin Jones</font></span>
