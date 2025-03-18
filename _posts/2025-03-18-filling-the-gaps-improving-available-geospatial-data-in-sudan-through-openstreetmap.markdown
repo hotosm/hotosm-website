@@ -1,5 +1,5 @@
 ---
-title: 'Filling the gaps: Improving available geospatial data in Sudan through OpenStreetMap'
+title: Humanitarian data improvements in Sudan through OpenStreetMap
 date: 2025-03-18 13:16:00 Z
 published: false
 Summary Text: 'Humanitarian mapping in Sudan has been improving data quality in OpenStreetMap
