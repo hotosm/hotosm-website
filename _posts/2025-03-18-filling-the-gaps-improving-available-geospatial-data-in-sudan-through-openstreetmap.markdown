@@ -1,6 +1,7 @@
 ---
 title: 'Filling the gaps: Improving available geospatial data in Sudan through OpenStreetMap'
 date: 2025-03-18 13:16:00 Z
+published: false
 Summary Text: 'Humanitarian mapping in Sudan has been improving data quality in OpenStreetMap
   (OSM) in otherwise uncovered areas. For those interested in using this OSM data,
   Humanitarian OpenStreetMap Team is making it easier than ever to find what data
@@ -199,12 +200,12 @@ With support from the H2H network, HOT has been working with community organizer
     Are you looking to get involved in our efforts in Sudan, learn more about OSM availability in Sudan, or want to discuss a partnership? Let us know at <a href="mailto:data@hotosm.org">data@hotosm.org</a>.
 </div>
 
+<br>
 
 <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>
-    <a href="https://www.pexels.com/photo/mountains-in-a-reservoir-in-sudan-during-sunset-15745290/">pexels</a>: Mountains in a Reservoir in Sudan During Sunset by Ammad Rasool, Location: Sudan, Free to use.
+    Cover Photo: <a href="https://www.pexels.com/photo/mountains-in-a-reservoir-in-sudan-during-sunset-15745290/">pexels</a>: Mountains in a Reservoir in Sudan During Sunset by Ammad Rasool, Location: Sudan, Free to use.
 </span>
 
     </div>
 
-<br>
