@@ -159,7 +159,9 @@ Take Sudan, for example. The ongoing civil war has sparked interest and investme
     </script>
 </body>
 </html>
-
+<div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+        <span>*Total number of buildings mapped in OpenStreetMap (OSM) across Sudan from 21 August 2014 to 21 August 2024, showing a 4,958% growth rate. Source: [HeiGIT](https://dashboard.ohsome.org/).*</span>
+    </div>
 
 
 --- 
