@@ -144,7 +144,7 @@ Take Sudan, for example. The ongoing civil war has sparked interest and investme
                     label: 'Buildings Mapped',
                     data: data,
                     borderColor: '#489FD8',
-                    backgroundColor: 'rgba(0, 0, 255, 0.2)',
+                    backgroundColor: 'rgba(209, 228, 244, 0.2)',
                     fill: true,
                     tension: 0.4,
                     pointRadius: labels.map(label => label.endsWith('-01') ? 4 : 0)
