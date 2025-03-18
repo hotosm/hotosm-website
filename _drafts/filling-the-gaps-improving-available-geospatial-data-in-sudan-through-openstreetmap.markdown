@@ -25,41 +25,54 @@ Take Sudan, for example. The ongoing civil war has sparked interest and investme
     <title>Mapping Stats</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
     <style>
-        * { box-sizing: border-box; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
         body {
             font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
             display: flex;
-            flex-direction: column;
+            justify-content: center;
             align-items: center;
+            min-height: 100vh;
             background-color: #f3f5f7;
+            padding: 1rem;
         }
         .stats-container {
             display: flex;
-            gap: 1.5rem;
+            gap: 1rem;
             flex-wrap: wrap;
             justify-content: center;
-            max-width: 1200px;
-            margin-top: 2rem;
+            max-width: 800px;
+            width: 100%;
         }
         .card {
             background: #fff;
-            padding: 1.5rem;
+            padding: 1rem;
             border-radius: 8px;
-            width: 250px;
+            width: 150px; /* Smaller width */
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             text-align: center;
+            flex: 1 1 auto; /* Allow cards to grow and shrink */
         }
         .card h2 {
-            font-size: 2rem;
+            font-size: 1.5rem; /* Smaller font size */
             margin: 0;
             color: #d8433f;
         }
         .card p {
-            font-size: 1rem;
-            margin: 0.5rem 0;
+            font-size: 0.875rem; /* Smaller font size */
+            margin: 0.5rem 0 0;
             color: #000;
+        }
+
+        /* Responsive behavior */
+        @media (max-width: 600px) {
+            .stats-container {
+                flex-direction: column;
+                align-items: center;
+            }
+            .card {
+                width: 100%; /* Full width on small screens */
+                max-width: 200px; /* Limit max width for better readability */
+            }
         }
     </style>
 </head>
