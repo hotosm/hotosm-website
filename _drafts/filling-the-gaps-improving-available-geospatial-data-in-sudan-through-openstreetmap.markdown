@@ -153,7 +153,7 @@ Take Sudan, for example. The ongoing civil war has sparked interest and investme
             options: {
                 responsive: true,
                 plugins: { legend: { display: true } },
-                scales: { x: { title: { display: true, text: 'Year' } }, y: { title: { display: true, text: 'Number of Buildings' } } }
+                scales: { x: { title: { display: true, text: 'Year' }, grid: { display: false } }, y: { title: { display: true, text: 'Number of Buildings' },grid: { display: false } } }
             }
         });
     </script>
