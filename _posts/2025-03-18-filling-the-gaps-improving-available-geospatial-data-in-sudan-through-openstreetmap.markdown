@@ -200,8 +200,6 @@ With support from the H2H network, HOT has been working with community organizer
 
 <br>
 
-<br>
-
 <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
         <span>
     Cover Photo: <a href="https://www.pexels.com/photo/mountains-in-a-reservoir-in-sudan-during-sunset-15745290/">pexels</a>: Mountains in a Reservoir in Sudan During Sunset by Ammad Rasool, Location: Sudan, Free to use.
