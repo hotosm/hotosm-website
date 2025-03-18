@@ -163,16 +163,17 @@ Take Sudan, for example. The ongoing civil war has sparked interest and investme
         <span>*Total number of buildings mapped in OpenStreetMap (OSM) across Sudan from 21 August 2014 to 21 August 2024, showing a 4,958% growth rate. Source: [HeiGIT](https://dashboard.ohsome.org/).*</span>
     </div>
 
-
---- 
-
 <br>
 
 But is this data usable? Perceptions are mixed, with some of the interviewees from the study still considering OSM data in Sudan as unreliable due to lag in satellite imagery updates and a dynamic situation on the ground. Other respondents see the strength of OSM data coming from the “crowd’s intelligence”, meaning that when many are contributing together, errors are detected and corrected. But with all edits to OSM being live, and therefore reflected in countrywide exports on OCHA’s Humanitarian Data Exchange (HDX) or through [HOT’s Export Tool](https://export.hotosm.org/v3/), how can users know what OSM data is good? 
 
+<br>
+
 **Finding Updated -and High Quality- OSM Data in Sudan**
 
 Navigating what data in OSM is usable in crisis affected countries can be challenging. Through our [Conflict and Displacement Program](https://www.hotosm.org/programs/conflict-displacement), HOT has been working to facilitate the identification of higher quality data in OSM and to perform comparisons with other data sources.
+
+<br>
 
 **For example, we have introduced summary statistics** to most of our pages on HDX, including spatial coverage and attribute completeness for better understanding and comparison to other data sources. See [Sudan’s OSM roads page](https://data.humdata.org/dataset/hotosm_sdn_buildings)~ for an example. Additionally, when HOT’s partners through Missing Maps and other organizations use ~[HOT’s Tasking Manager](https://tasks.hotosm.org/), a project is only considered “complete” if an expert volunteer has double checked each area mapped for quality and completeness. To understand what data in OSM has been updated through a recent and dedicated humanitarian mapping campaign, [HOT has compiled this information on our dedicated Sudan projects webpage.](https://www.hotosm.org/projects/geospatial-data-for-humanitarian-response-in-sudan-conflict/#data-access-and-use) The page includes download links to all datasets that have been updated and validated through Tasking Manager projects since the onset of the war in Sudan. Nationwide datasets for Sudan are also available on our Sudan [HOTOSM HDX page](https://data.humdata.org/dataset/?groups=sdn&organization=hot&q=&sort=last_modified+desc&ext_page_size=25).
 
@@ -180,7 +181,7 @@ Navigating what data in OSM is usable in crisis affected countries can be challe
 <div style="text-align: center;">
     <img src="/uploads/sdn_sudan_crisis_2023_aoi.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
-        <span>Example of people living in internal displacement in Somalia, as seen by smaller structures above.</span>
+        <span>Map of the Areas of interest and data improvements part of the campaign on Tasking Manager.</span>
     </div>
 </div>
 <br>
@@ -189,4 +190,8 @@ Navigating what data in OSM is usable in crisis affected countries can be challe
 
 With support from the H2H network, HOT has been working with community organizers from Sudan to grow an OSM community amongst the Sudanese diaspora and others from Sudan. The growing community has been busy improving the quality of roads, buildings, points of interest and other infrastructure in Sudan. Learn more about the project [here](https://www.hotosm.org/projects/geospatial-data-for-humanitarian-response-in-sudan-conflict/)~ or sign up for our ~[Data for Good newsletter](https://mailchi.mp/hotosm.org/stories-of-tech-data-and-local-open-mapping-for-good) for more updates on our work.
 
-Are you looking to get involved in our efforts in Sudan, learn more about OSM availability in Sudan, or want to discuss a partnership? Let us know at [data@hotosm.org](mailto:data@hotosm.org).
+<br>
+
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+    Are you looking to get involved in our efforts in Sudan, learn more about OSM availability in Sudan, or want to discuss a partnership? Let us know at <a href="mailto:data@hotosm.org">data@hotosm.org</a>.
+</div>
