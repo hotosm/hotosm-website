@@ -6,7 +6,7 @@ Summary Text: 'Humanitarian mapping in Sudan has been improving data quality in 
   (OSM) in otherwise uncovered areas. For those interested in using this OSM data,
   Humanitarian OpenStreetMap Team is making it easier than ever to find what data
   (and where!) in Sudan has been updated. '
-Feature Image: "/uploads/pexels-ammad-rasool-sudan-56680900-15745290.jpg"
+Feature Image: "/uploads/baylah-sudan-low.png"
 Person: Jessica Pechmann
 Country:
 - Sudan
@@ -202,7 +202,7 @@ With support from the H2H network, HOT has been working with community organizer
 
 <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
         <span>
-    Cover Photo: <a href="https://www.pexels.com/photo/mountains-in-a-reservoir-in-sudan-during-sunset-15745290/">pexels</a>: Mountains in a Reservoir in Sudan During Sunset by Ammad Rasool, Location: Sudan, Free to use.
+    Cover Photo: <a href="https://www.pexels.com/license/">Free to use</a> | <a href="https://www.google.com/maps/search/?api=1&query_place_id=ChIJj6g0mDvgXxYRH2N3q-xt_Fc&query=13.688225,34.83634">Baylah, Al Qadarif, Sudan</a> | Aerial View of a Town between a Few Hills on a Flat Land – Photo by Omar Tarig from <a href="https://www.pexels.com/photo/aerial-view-of-a-town-between-a-few-hills-on-a-flat-land-14348540/">Pexels</a>
 </span>
 
     </div>
