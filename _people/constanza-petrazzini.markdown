@@ -6,7 +6,7 @@ Member Type:
   Is Staff: true
 Job Title: Executive Support Administrator
 Country: Uruguay
-Team: Global
+Team: Latin America and Caribbean Hub
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Constanza%20Petrazzini
 ---
