@@ -7,6 +7,8 @@ Member Type:
 Job Title: Executive Support Administrator
 Country: Uruguay
 Team: Global
+Social Media (Full URL):
+  OSM: https://www.openstreetmap.org/user/Constanza%20Petrazzini
 ---
 
 Constanza began volunteering with HOT’s Latin America and the Caribbean (LAC) Hub in October 2023, supporting events in Montevideo, Uruguay, where she is currently based. From the outset, she was enthusiastic about HOT’s mission and its capacity to impact lives and empower local communities. Specially by creating geographical data using open-source technology to address critical humanitarian and development needs.
