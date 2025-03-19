@@ -202,7 +202,7 @@ With support from the H2H network, HOT has been working with community organizer
 
 <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
         <span>
-    Cover Photo: <a href="https://www.pexels.com/license/">Free to use</a> | <a href="https://www.google.com/maps/search/?api=1&query_place_id=ChIJj6g0mDvgXxYRH2N3q-xt_Fc&query=13.688225,34.83634">Baylah, Al Qadarif, Sudan</a> | Aerial View of a Town between a Few Hills on a Flat Land – Photo by Omar Tarig from <a href="https://www.pexels.com/photo/aerial-view-of-a-town-between-a-few-hills-on-a-flat-land-14348540/">Pexels</a>
+    Cover Photo: <a href="https://www.pexels.com/license/">Free to use</a> | <a href="https://www.openstreetmap.org/node/7730428664#map=14/13.67618/34.83430">Baylah, Al Qadarif, Sudan</a> | Aerial View of a Town between a Few Hills on a Flat Land – Photo by Omar Tarig from <a href="https://www.pexels.com/photo/aerial-view-of-a-town-between-a-few-hills-on-a-flat-land-14348540/">Pexels</a> / Edited Image by HOTOSM. 
 </span>
 
     </div>
