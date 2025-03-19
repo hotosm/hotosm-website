@@ -1,7 +1,6 @@
 ---
 title: Humanitarian Data Improvements in Sudan through OpenStreetMap
 date: 2025-03-18 13:16:00 Z
-published: false
 Summary Text: 'Humanitarian mapping in Sudan has been improving data quality in OpenStreetMap
   (OSM) in otherwise uncovered areas. For those interested in using this OSM data,
   Humanitarian OpenStreetMap Team is making it easier than ever to find what data
