@@ -39,11 +39,11 @@ Participó activamente la comunidad estudiantil de la Universidad Autónoma del 
 
 Algunas de las personas participantes nos comparten sus reflexiones:
 
-> *Hay muchas personas turistas que vienen y no saben que camión tomar, o hasta uno mismo ¿no?, a pesar de que eres de aquí, te preguntas ¿qué camión me lleva para aquí? o ¿qué camión me lleva para allá? entonces creo que (este proyecto) es una ventaja para todos. *—* Benjamín Montiel, estudiante de la UAEMEX en Toluca; mapeador voluntario del proyecto y usuario del transporte público de la ciudad.*
+> *Hay muchas personas turistas que vienen y no saben que camión tomar, o hasta uno mismo ¿no?, a pesar de que eres de aquí, te preguntas ¿qué camión me lleva para aquí? o ¿qué camión me lleva para allá? entonces creo que (este proyecto) es una ventaja para todos. —* Benjamín Montiel, estudiante de la UAEMEX en Toluca; mapeador voluntario del proyecto y usuario del transporte público de la ciudad.
 
 ![Estudiantes mapeadores, representantes de HOT, GEOID-COMAPPER, TOMTOM y ex-SEMOVI (Oaxaca) en la sesión de premiación durante el Open Data Day 2025.jpg](/uploads/Estudiantes%20mapeadores,%20representantes%20de%20HOT,%20GEOID-COMAPPER,%20TOMTOM%20y%20ex-SEMOVI%20(Oaxaca)%20en%20la%20sesio%CC%81n%20de%20premiacio%CC%81n%20durante%20el%20Open%20Data%20Day%202025.jpg)
 
-> ***Me gusta mucho todo el tema del mapeo, el proyecto se me hizo interesante, y se me hizo mucho mejor el poder liberar mi materia de integrativa profesional por medio de algo que me apasiona”. ***— ***Alexander Burreola, **estudiante de la UAEMEX en Toluca**, mapeador voluntario del proyecto.***
+> \*\*\*Me gusta mucho todo el tema del mapeo, el proyecto se me hizo interesante, y se me hizo mucho mejor el poder liberar mi materia de integrativa profesional por medio de algo que me apasiona”. \*\*\*— ***Alexander Burreola, estudiante de la UAEMEX en Toluca**, mapeador voluntario del proyecto.*
 
 En colaboración con GEOID, se realizó una capacitación modular sobre mapeo en OSM, uso de herramientas de edición (JOSM e iDEditor), verificación y corrección de cartografía vial, verificación de puntos de interés (POIs), calidad de datos y el uso de datos de OSM en la toma de decisiones locales. Así mismo los mapeadores se capacitaron en los fundamentos para el [mapeo de datos de transporte público en OSM mediante el MOOC](https://mhub.com.co/enrol/index.php?id=21) desarrollado por Trufi Association en alianza con el [Mobility Hub](https://mhub.com.co/).
 
@@ -53,7 +53,7 @@ Con este trabajo, se logró validar 8,500 inconsistencias en la red vial y agreg
 
 Antonio de Jesús, representante de GEOID-Comapper (socio implementador), nos comparte que para motivar a las personas estudiantes a ser parte del proyecto y por ende, la expansión de la comunidad de OSM para la movilidad, se utilizaron dos formas de vinculación:
 
-1. Los estudiantes recibirían conocimientos que usualmente no son vistos en las clases regulares universitarias, y podrán hacer uso de herramientas de libre acceso que les permita desempeñarse laboralmente sin recurrir en altas inversiones 
+1. Los estudiantes recibirían conocimientos que usualmente no son vistos en las clases regulares universitarias, y podrán hacer uso de herramientas de libre acceso que les permita desempeñarse laboralmente sin recurrir en altas inversiones
 
 2. La participación de comunidades especialistas en mapeo abierto que les podrá demostrar un sin número de metodologías de trabajo. De esa manera, se incentiva también a participar en proyectos internacionales, y a integrar la comunidad OSM en general.
 
@@ -75,4 +75,8 @@ Finalmente, el presente proyecto ha generado amplias mejoras en el mapa de OpenS
 
 ### **Explora el mapa**
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-99.71672058105469%2C19.24495169562434%2C-99.60084915161133%2C19.321511226817186&amp;layer=transportmap" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=14/19.28324/-99.65878&amp;layers=T">Ver el mapa más grande</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-99.71672058105469%2C19.24495169562434%2C-99.60084915161133%2C19.321511226817186&layer=transportmap" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=14/19.28324/-99.65878&layers=T">Ver el mapa más grande</a></small>
+
+<div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">\
+  <span>\
+    Foto de portada: Central de Autobuses de Oaxaca – Foto de <a href="https://donobelo.com/" target="_blank">Donobello</a>, en el marco del proyecto <a href="https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-oaxaca-y-toluca-mexico/" target="_blank

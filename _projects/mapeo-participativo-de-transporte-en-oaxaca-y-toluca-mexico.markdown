@@ -85,7 +85,7 @@ Se seleccionaron 2 ciudades medianas (Oaxaca de Juárez y Toluca) con criterios 
 
 * **Octubre 2024 - Febrero 2025:** Capacitaciones y actividades de mapeo colaborativo.
 
-* \*\*Enero - Abril 2025: \*\*Procesamiento de datos, publicación y presentación de resultados.
+* **Enero - Abril 2025:** Procesamiento de datos, publicación y presentación de resultados.
 
 * **Mayo - Junio 2025:** Presentación local de los proyectos en cada ciudad; reconocimientos
 
