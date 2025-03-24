@@ -64,7 +64,7 @@ El resultado esperado es la creación de un atlas permanente de la zona, con dat
 
 ![Taller Docentes Mapeo Abierto.jpg](/uploads/Taller%20Docentes%20Mapeo%20Abierto.jpg)
 
-### **Mapeo de economías circulares y solidarias en Querétaro**
+### Mapeo de economías circulares y solidarias en Querétaro
 
 En Querétaro, existen múltiples redes de intercambio y comercialización de bienes de segunda mano, pero no están visibilizadas ni sistematizadas. Este proyecto busca documentar y mapear estos espacios para promover la economía circular y solidaria.
 
@@ -74,7 +74,7 @@ El proyecto propone contribuir a fortalecer redes comunitarias y facilitará el 
 
 ![Taller Docentes Mapeo Abierto Tec de Monterrey Querétaro Economías.jpg](/uploads/Taller%20Docentes%20Mapeo%20Abierto%20Tec%20de%20Monterrey%20Quere%CC%81taro%20Economi%CC%81as.jpg)
 
-## Mapeo de expresiones culturales en contextos urbanos diversos
+### Mapeo de expresiones culturales en contextos urbanos diversos
 
 Las manifestaciones culturales y artísticas en los espacios urbanos suelen ser efímeras y poco documentadas. Este proyecto busca capturar y mapear expresiones como grafitis, altares y manifestaciones políticas durante la marcha del 8 de Marzo en la ciudad de Cholula, Puebla, que reflejan la identidad y dinámica social de la ciudad.
 
@@ -92,7 +92,7 @@ Dentro de la metodología, se propone mapear escuelas, bibliotecas y centros com
 
 Los resultados del mapeo ayudarán a generar estrategias de mejora en infraestructura digital y facilitarán la implementación de programas educativos adaptados a las necesidades detectadas.
 
-## Aprendizajes
+### Aprendizajes
 
 ![Taller Docentes Mapeo Abierto Tec de Monterrey Querétaro 2.jpg](/uploads/Taller%20Docentes%20Mapeo%20Abierto%20Tec%20de%20Monterrey%20Quere%CC%81taro%202.jpg)
 
