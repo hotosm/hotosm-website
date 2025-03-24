@@ -93,6 +93,10 @@ The reconstruction process in Acapulco is seen as an opportunity to address stru
 
 We thank and acknowledge all participating organizations and institutions in this activation, whose joint effort has been essential for the reconstruction of Acapulco.
 
+The result of many months of collaborative exploration of all the respective activities and causes, the map below aims to provide visibility among organizations on the work done and the areas where they are concentrating and where they are lacking, as well as to collectively express their work in reports to the Federal Government and funding entities. The aggregated actions and data were compiled for greater practicality using an online Kobotoolbox form and then imported into the free map viewer Umap, tools that allowed for easy management and a short management cycle during times of extreme busyness and lack of technical capacity.
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/es/map/registro-de-acciones-para-la-reconstruccion-de-gue_1066634?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=datalayers&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/es/map/registro-de-acciones-para-la-reconstruccion-de-gue_1066634?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=datalayers&captionBar=false&captionMenus=true">Ver en pantalla completa</a></p>
+
 # **Participating Organizations and Institutions**
 
 * Equipment mapping and data analysis: 17 individuals from 5 universities in Mexico (Metropolitan Autonomous University Cuajimalpa, Autonomous University of the State of Mexico, University of Guanajuato, Autonomous University of Ciudad Juárez (UACJ); Autonomous University of Guerrero)
