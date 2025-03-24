@@ -92,7 +92,7 @@ Dentro de la metodología, se propone mapear escuelas, bibliotecas y centros com
 
 Los resultados del mapeo ayudarán a generar estrategias de mejora en infraestructura digital y facilitarán la implementación de programas educativos adaptados a las necesidades detectadas.
 
-### Aprendizajes
+## Aprendizajes
 
 ![Taller Docentes Mapeo Abierto Tec de Monterrey Querétaro 2.jpg](/uploads/Taller%20Docentes%20Mapeo%20Abierto%20Tec%20de%20Monterrey%20Quere%CC%81taro%202.jpg)
 
