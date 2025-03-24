@@ -1,5 +1,5 @@
 ---
-title: 'Coordinación y Acción: La Articulación de la Respuesta de Mapeo Humanitario
+title: 'Coordinación y acción: La articulación de la respuesta de Mapeo Humanitario
   tras el Huracán Otis'
 date: 2024-03-21 22:12:00 Z
 Summary Text: Tras el huracán Otis en octubre de 2023, el Hub LAC lideró un mapeo
@@ -40,7 +40,7 @@ Esta estrategia tuvo como objetivo optimizar los recursos de mapeo y evitar la d
 
 En las semanas posteriores al desastre, se obtuvieron imágenes de drones sobre algunas áreas urbanas de Acapulco, proporcionadas por distintos actores como [Help.NGO](https://www.help.ngo/) y CENAPRED. Nos encargamos de guiarlos para que estas imágenes se subieran a [OpenAerialMap](https://openaerialmap.org/) y se integrarán al Tasking Manager, con el fin de mapear específicamente los edificios destruidos. Se crearon 17 proyectos para estas áreas, lo que permitió mapear un total de 22,537 estructuras.
 
-[![OVERPASS TURBO - ACAPULCO OTIS.jpg](/uploads/OVERPASS%20TURBO%20-%20ACAPULCO%20OTIS.jpg)](https://overpass-turbo.eu/s/1L9U)
+![OVERPASS TURBO - ACAPULCO OTIS.jpg](/uploads/OVERPASS%20TURBO%20-%20ACAPULCO%20OTIS.jpg)
 
 *Consulta el mapa de edificios daños en la API de Overpass usando este [enlace](https://overpass-turbo.eu/s/1L9U).*
 
@@ -94,6 +94,10 @@ Durante el Retiro Estratégico por Acapulco-Coyuca y Guerrero, donde representan
 El proceso de reconstrucción en Acapulco se vislumbra como una oportunidad para abordar las vulnerabilidades estructurales y fomentar la participación comunitaria en la construcción de un futuro más resiliente e inclusivo. La labor de mapeo humanitario no solo se enfocó en la respuesta inmediata al desastre, sino que también sentó las bases para futuras acciones de mitigación y preparación. La formación de una red de voluntarios geógrafos y geoinformáticos, junto con la colaboración interinstitucional, resalta el potencial de la cartografía participativa como herramienta fundamental en la gestión de crisis y la construcción de resiliencia comunitaria.
 
 Agradecemos y reconocemos a todas las organizaciones e instituciones participantes en esta activación, cuyo esfuerzo conjunto ha sido fundamental para la reconstrucción de Acapulco.
+
+Resultado de largos meses de colaboración de exploración de todas las actividades y causas respectivas, el mapa que pueden ver a continuación, tiene como finalidad visibilizar entre las organizaciones el trabajo hecho y las áreas donde se concentran y donde faltan, así como poder expresar con una voz colectiva el trabajo en reportes ante el Gobierno Federal y hacia entidades fondeadoras. Las acciones y datos agregados, fueron recopiladas para su mayor practicidad con un formulario online de Kobotoolbox e importado luego en el visor de mapas libres Umap, herramientas que permitieron un fácil manejo y ciclo corto de gestión, en tiempos de ocupación extrema y falta de capacidades técnicas.
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/es/map/registro-de-acciones-para-la-reconstruccion-de-gue_1066634?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=datalayers&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/es/map/registro-de-acciones-para-la-reconstruccion-de-gue_1066634?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=datalayers&captionBar=false&captionMenus=true">Ver en pantalla completa</a></p>
 
 # **Comunidades, Organizaciones e Instituciones Participantes**
 
