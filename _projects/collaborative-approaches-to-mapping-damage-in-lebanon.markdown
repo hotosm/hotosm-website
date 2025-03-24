@@ -190,4 +190,4 @@ If you would like to help, please refer to the [wiki](https://wiki.openstreetmap
 **Sponsored by:**
 <br>
 <br>
-<img src="https://www.hotosm.org/uploads/h2h-logo-new-400x400.png" width="100" height="100">"
+<img src="https://www.hotosm.org/uploads/h2h-logo-new-400x400.png" width="100" height="100">
