@@ -77,6 +77,11 @@ Finalmente, el presente proyecto ha generado amplias mejoras en el mapa de OpenS
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-99.71672058105469%2C19.24495169562434%2C-99.60084915161133%2C19.321511226817186&layer=transportmap" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=14/19.28324/-99.65878&layers=T">Ver el mapa más grande</a></small>
 
-<div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">\
-  <span>\
-    Foto de portada: Central de Autobuses de Oaxaca – Foto de <a href="https://donobelo.com/" target="_blank">Donobello</a>, en el marco del proyecto <a href="https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-oaxaca-y-toluca-mexico/" target="_blank
+<div style="font-size: 0.9em; color: #778899; line-height: 1.4; margin-top: 10px; background-color: #f0f0f0; padding: 12px; border-radius: 6px;">
+  Foto de portada: Central de Autobuses de Oaxaca – Foto de 
+  <a href="https://donobelo.com/" target="_blank" rel="noopener noreferrer">Donobello</a>, 
+  en el marco del proyecto 
+  <a href="https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-oaxaca-y-toluca-mexico/" target="_blank" rel="noopener noreferrer">
+    Creando Datos Juntos: Mejora de la Gestión del Transporte Urbano en México
+  </a>.
+</div>
