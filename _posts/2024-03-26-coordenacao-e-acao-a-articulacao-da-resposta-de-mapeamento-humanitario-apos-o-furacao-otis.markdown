@@ -95,6 +95,10 @@ O processo de reconstrução em Acapulco é visto como uma oportunidade para abo
 
 Agradecemos e reconhecemos todas as organizações e instituições participantes nesta ativação, cujo esforço conjunto tem sido fundamental para a reconstrução de Acapulco.
 
+Resultado de meses de exploração colaborativa de todas as respectivas atividades e causas, o mapa abaixo tem como objetivo tornar visível entre as organizações o trabalho realizado e as áreas onde ele está focado e onde está carente, bem como poder expressar esse trabalho com uma voz coletiva em relatórios ao Governo Federal e entidades financiadoras. As ações e os dados agregados foram compilados para maior conveniência usando um formulário on-line do Kobotoolbox e, em seguida, importados para o visualizador de mapas gratuito Umap, ferramentas que permitiram um gerenciamento fácil e um ciclo de gerenciamento curto durante períodos de extrema movimentação e falta de capacidades técnicas.
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/es/map/registro-de-acciones-para-la-reconstruccion-de-gue_1066634?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=datalayers&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/es/map/registro-de-acciones-para-la-reconstruccion-de-gue_1066634?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=datalayers&captionBar=false&captionMenus=true">Ver en pantalla completa</a></p>
+
 # **Comunidades, Organizações e Instituições Participantes**
 
 * Mapeamento de equipamentos e análise de dados: 17 pessoas de 5 universidades do México (Universidade Autônoma Metropolitana Unidade Cuajimalpa, Universidade Autônoma do Estado do México, Universidade de Guanajuato, Universidade Autônoma de Ciudad Juárez (UACJ); Universidade Autônoma de Guerrero)
