@@ -39,11 +39,11 @@ Participó activamente la comunidad estudiantil de la Universidad Autónoma del 
 
 Algunas de las personas participantes nos comparten sus reflexiones:
 
-> *Hay muchas personas turistas que vienen y no saben que camión tomar, o hasta uno mismo ¿no?, a pesar de que eres de aquí, te preguntas ¿qué camión me lleva para aquí? o ¿qué camión me lleva para allá? entonces creo que (este proyecto) es una ventaja para todos. —* Benjamín Montiel, estudiante de la UAEMEX en Toluca; mapeador voluntario del proyecto y usuario del transporte público de la ciudad.
+> *Hay muchas personas turistas que vienen y no saben que camión tomar, o hasta uno mismo ¿no?, a pesar de que eres de aquí, te preguntas ¿qué camión me lleva para aquí? o ¿qué camión me lleva para allá? entonces creo que (este proyecto) es una ventaja para todos.* — Benjamín Montiel, estudiante de la UAEMEX en Toluca; mapeador voluntario del proyecto y usuario del transporte público de la ciudad.
 
 ![Estudiantes mapeadores, representantes de HOT, GEOID-COMAPPER, TOMTOM y ex-SEMOVI (Oaxaca) en la sesión de premiación durante el Open Data Day 2025.jpg](/uploads/Estudiantes%20mapeadores,%20representantes%20de%20HOT,%20GEOID-COMAPPER,%20TOMTOM%20y%20ex-SEMOVI%20(Oaxaca)%20en%20la%20sesio%CC%81n%20de%20premiacio%CC%81n%20durante%20el%20Open%20Data%20Day%202025.jpg)
 
-> \*\*\*Me gusta mucho todo el tema del mapeo, el proyecto se me hizo interesante, y se me hizo mucho mejor el poder liberar mi materia de integrativa profesional por medio de algo que me apasiona”. \*\*\*— ***Alexander Burreola, estudiante de la UAEMEX en Toluca**, mapeador voluntario del proyecto.*
+> *Me gusta mucho todo el tema del mapeo, el proyecto se me hizo interesante, y se me hizo mucho mejor el poder liberar mi materia de integrativa profesional por medio de algo que me apasiona”.* — Alexander Burreola, estudiante de la UAEMEX en Toluca**, mapeador voluntario del proyecto.*
 
 En colaboración con GEOID, se realizó una capacitación modular sobre mapeo en OSM, uso de herramientas de edición (JOSM e iDEditor), verificación y corrección de cartografía vial, verificación de puntos de interés (POIs), calidad de datos y el uso de datos de OSM en la toma de decisiones locales. Así mismo los mapeadores se capacitaron en los fundamentos para el [mapeo de datos de transporte público en OSM mediante el MOOC](https://mhub.com.co/enrol/index.php?id=21) desarrollado por Trufi Association en alianza con el [Mobility Hub](https://mhub.com.co/).
 
