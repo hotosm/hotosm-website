@@ -30,15 +30,15 @@ Ivan Gayton, Product Innovation Manager and Humanitarian Advisor at HOT, emphasi
 
 DroneTM is an intuitive application suite designed to facilitate collaborative aerial imagery collection. Its key features include:
 
-* **Use of Low-Cost lightweight Drones: **Democratizes access to aerial imagery by allowing the use of consumer and DIY drones.
+* **Use of Low-Cost lightweight Drones:** Democratizes access to aerial imagery by allowing the use of consumer and DIY drones.
 
-* **Coordinated Efforts: **Enables multiple operators to collaborate in covering large areas.
+* **Coordinated Efforts:** Enables multiple operators to collaborate in covering large areas.
 
 * **Fully automated imagery processing powered by [OpenDroneMap](https://opendronemap.org)** to generate a 3D model, aerial imagery, and detailed elevation models.
 
-* **Integration with AI and Field Mapping Tools: **Provides essential inputs for analysis algorithms and mapping applications.
+* **Integration with AI and Field Mapping Tools:** Provides essential inputs for analysis algorithms and mapping applications.
 
-* **A Digital Public Good: **Ensures that communities have access to open, high-quality geospatial data without dependency on expensive proprietary solutions.
+* **A Digital Public Good:** Ensures that communities have access to open, high-quality geospatial data without dependency on expensive proprietary solutions.
 
 Along with our partner, [NAXA](https://naxa.com.np/), the Humanitarian OpenStreetMap Team (HOT) has been performing field testing and iterative deployments in diverse regions such as Indonesia, Nepal, Dominica and St. Lucia, [as documented by NAXA’s geospatial software developer Niraj Adhikari.](https://www.hotosm.org/updates/building-dronetm/) Now, for the first time, we have tested its potential to support another frontier of community development: mangrove monitoring and conservation.
 
@@ -72,7 +72,7 @@ As this model grows, Stephen believes the next challenge is scaling through comm
 
 ## Towards a Network of Community Drone Operators
 
-This project in La Paz is just the beginning of a broader vision, **creating a network of community drone operators **trained in using DroneTM. This would allow:
+This project in La Paz is just the beginning of a broader vision, **creating a network of community drone operators** trained in using DroneTM. This would allow:
 
 * Generating additional and more frequent aerial imagery for emergency and disaster response by local communities themselves.
 
@@ -84,15 +84,15 @@ This project in La Paz is just the beginning of a broader vision, **creating a n
 
 DroneTM has the potential to support a variety of community-led initiatives worldwide. Some examples include:
 
-* **Disaster Response: **Capturing real-time aerial imagery after hurricanes, floods, or earthquakes to support emergency relief efforts.
+* **Disaster Response:** Capturing real-time aerial imagery after hurricanes, floods, or earthquakes to support emergency relief efforts.
 
-* **Urban Planning: **Assisting informal settlements in mapping their neighborhoods for improved infrastructure and services.
+* **Urban Planning:** Assisting informal settlements in mapping their neighborhoods for improved infrastructure and services.
 
 * **Land Rights Advocacy:** Supporting Indigenous and rural communities to document land use and protect their territories.
 
-* **Environmental Monitoring: **Tracking plant community composition, biomass, deforestation, coastline erosion, and biodiversity loss in protected areas.
+* **Environmental Monitoring:** Tracking plant community composition, biomass, deforestation, coastline erosion, and biodiversity loss in protected areas.
 
-Céline Jacquin, Latin America Senior Manager at HOT, highlights a key challenge in territorial studies: “Access to aerial imagery remains a fundamental limitation for most territorial studies today, and it becomes even more critical in emergencies or when the area of interest is not a priority for economic, political, or technical leaders of territorial development. This is often the case for rural communities and most Indigenous communities in the region. Democratizing the use of drones and the processing required for their application in cartography was an outstanding need—this represents a major innovation.”
+Céline Jacquin, Latin America Senior Manager at HOT, highlights a key challenge in territorial studies: *“Access to aerial imagery remains a fundamental limitation for most territorial studies today, and it becomes even more critical in emergencies or when the area of interest is not a priority for economic, political, or technical leaders of territorial development. This is often the case for rural communities and most Indigenous communities in the region. Democratizing the use of drones and the processing required for their application in cartography was an outstanding need—this represents a major innovation.”*
 
 ## In summary
 
