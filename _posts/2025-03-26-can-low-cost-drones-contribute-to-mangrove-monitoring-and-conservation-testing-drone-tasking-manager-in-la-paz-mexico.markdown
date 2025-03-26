@@ -67,15 +67,6 @@ Within this project, members of these two organizations, who are also residents 
 
 As monitoring continues, local partners can use DroneTM and its imagery to periodically record key variables like mangrove cover and extent, density and height, vegetation indices, mangrove fragmentation and connectivity, land use change, other degradation processes, mortality and regeneration cycles, etc.
 
-<iframe
-src="https://map.openaerialmap.org/#/-110.42078644037247,24.126750916699837,18/latest/67e32103bfdbb865ae6b147b?_k=hqe5yx"
-width="100%"
-height="700"
-style="border: none;"
-allowfullscreen
-loading="lazy">
-</iframe>
-
 Stephen Mather, Creator of OpenDroneMap, supported the La Paz project onsite and highlights how tools like ODM are changing who gets to create and use geospatial data.
 
 *“Access to creating base-level data, like what communities are producing with low-cost drones and OpenDroneMap, is something that 5 or 10 years ago only high-income states could manage. Now, it can be done locally, at low cost and with high value”, he shares.*
@@ -86,58 +77,14 @@ ODM’s open-source design ensures that communities own and process their data l
 
 As this model grows, Stephen believes the next challenge is scaling through community networks, ensuring training and adoption can spread laterally across regions.
 
-<!-- Swiper Styles & Script (poner una sola vez por página) -->\
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />\
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-
-<!-- Galería Swiper -->\
-<div class="swiper mySwiper" style="width: 100%; max-width: 900px; margin: auto; padding: 2rem 0;">\
-  <div class="swiper-wrapper">\
-    <div class="swiper-slide">\
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Monitoreo_del_manglar_El_Mogote_por_las_Guardianas_del_Conchalito_y_Costa_Salvaje_en_La_Paz%2C_Baja_California_Sur.jpg" alt="Monitoreo del manglar El Mogote">\
-    </div>\
-    <div class="swiper-slide">\
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Sesi%C3%B3n_de_monitoreo_para_protecci%C3%B3n_de_manglares_de_Baja_California_Sur_01.jpg" alt="Sesión de monitoreo para protección de manglares">\
-    </div>\
-    <div class="swiper-slide">\
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Vista_de_La_Paz_desde_el_manglar_El_Mogote_en_Baja_California_Sur.jpg" alt="Vista de La Paz desde El Mogote">\
-    </div>\
-    <div class="swiper-slide">\
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Capacitaci%C3%B3n_de_Uso_de_Drones_y_DroneTM_016.jpg" alt="Capacitación en uso de drones - foto 016">\
-    </div>\
-    <div class="swiper-slide">\
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Capacitaci%C3%B3n_de_Uso_de_Drones_y_DroneTM_045.jpg" alt="Capacitación en uso de drones - foto 045">\
-    </div>\
-    <div class="swiper-slide">\
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LAC_taller_La_Paz_2025_-_d%C3%ADa_2_%26_3_taller_de_drone_en_Instituto_de_la_juventud_-_77.jpg" alt="Taller de drones LAC Hub - día 2 y 3">\
-    </div>\
-    <div class="swiper-slide">\
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Estero_El_Conchalito_en_La_Paz%2C_Baja_California_Sur_desde_vista_a%C3%A9rea_5.jpg" alt="Estero El Conchalito desde vista aérea">\
-    </div>\
-  </div>
-
-  <!-- Controles -->\
-  <div class="swiper-button-next"></div>\
-  <div class="swiper-button-prev"></div>\
-  <div class="swiper-pagination"></div>\
-</div>
-
-<!-- Activación del slider -->\
-<script>\
-  const swiper = new Swiper('.mySwiper', {\
-    loop: true,\
-    spaceBetween: 10,\
-    centeredSlides: true,\
-    pagination: {\
-      el: '.swiper-pagination',\
-      clickable: true,\
-    },\
-    navigation: {\
-      nextEl: '.swiper-button-next',\
-      prevEl: '.swiper-button-prev',\
-    },\
-  });\
-</script>
+<iframe
+src="https://www.openstreetmap.org/edit?editor=id#map=16/24.13695/-110.34826"
+width="100%"
+height="700"
+style="border: none;"
+allowfullscreen
+loading="lazy">
+</iframe>
 
 ## Towards a Network of Community Drone Operators
 
