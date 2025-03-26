@@ -55,7 +55,7 @@ Adriana, a member of Guardianas del Conchalito, describes the breadth of their w
 
 *Image: From left to right — Guardianas del Conchalito learning how to fly a drone, the coordinator reviewing an orthophoto, and finally, the Guardianas conducting monitoring activities in the Mogote mangrove. Credits: RollitoDeGuayaba / Wikimedia Commons, CC BY 4.0*
 
-In February 2025, HOT implemented a DroneTM testing project in La Paz, Baja California Sur, in collaboration with the local organizations [BCSicletos](https://bcsicletos.org/) and [Las Guardianas del Conchalito](https://www.instagram.com/guardianasdelconchalito/), to monitor and conserve the region’s mangroves. These ecosystems are crucial for biodiversity and coastal protection, as well as for locals’ self-sufficiency, as they are home to numerous animals targeted for fishing. However, they also face increasing threats such as uncontrolled urbanization and pollution.
+In February 2025, HOT [implemented a DroneTM testing project in La Paz, Baja California Sur](https://www.hotosm.org/updates/strengthening-communities-in-mangrove-conservation-drone-technology-and-local-collaboration/), in collaboration with the local organizations [BCSicletos](https://bcsicletos.org/) and [Las Guardianas del Conchalito](https://www.instagram.com/guardianasdelconchalito/), to monitor and conserve the region’s mangroves. These ecosystems are crucial for biodiversity and coastal protection, as well as for locals’ self-sufficiency, as they are home to numerous animals targeted for fishing. However, they also face increasing threats such as uncontrolled urbanization and pollution.
 
 Within this project, members of these two organizations, who are also residents of the area as well as the local fishing community:
 
