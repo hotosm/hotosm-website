@@ -78,7 +78,7 @@ ODM’s open-source design ensures that communities own and process their data l
 As this model grows, Stephen believes the next challenge is scaling through community networks, ensuring training and adoption can spread laterally across regions.
 
 <iframe
-src="https://tiles.openaerialmap.org/67e31e50b7908f59174debe0/0/67e31e50b7908f59174debe1/%7Bz%7D/%7Bx%7D/%7By%7D"
+src="https://map.openaerialmap.org/#/-110.42078644037247,24.126750916699837,18/latest/67e32103bfdbb865ae6b147b?_k=kvkvro"
 width="100%"
 height="700"
 style="border: none;"
