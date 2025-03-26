@@ -29,6 +29,8 @@ Ivan Gayton, Product Innovation Manager and Humanitarian Advisor at HOT, emphasi
 
 ![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM.jpg)
 
+*Image: From left to right — BSCicletos presenting the drone that will support the Guardianas del Conchalito, the workshop coordinator demonstrating the DJI Mini 2 drone, and finally, LAC Hub’s senior manager operating the drone.  Credits: RollitoDeGuayaba / Wikimedia Commons, CC BY 4.0*
+
 ## What is Drone TM and How Does It Work?
 
 DroneTM is an intuitive application suite designed to facilitate collaborative aerial imagery collection. Its key features include:
@@ -51,6 +53,8 @@ Adriana, a member of Guardianas del Conchalito, describes the breadth of their w
 
 ![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 4.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM%204.jpg)
 
+*Image: From left to right — Guardianas del Conchalito learning how to fly a drone, the coordinator reviewing an orthophoto, and finally, the Guardianas conducting monitoring activities in the Mogote mangrove. Credits: RollitoDeGuayaba / Wikimedia Commons, CC BY 4.0*
+
 In February 2025, HOT implemented a DroneTM testing project in La Paz, Baja California Sur, in collaboration with the local organizations [BCSicletos](https://bcsicletos.org/) and [Las Guardianas del Conchalito](https://www.instagram.com/guardianasdelconchalito/), to monitor and conserve the region’s mangroves. These ecosystems are crucial for biodiversity and coastal protection, as well as for locals’ self-sufficiency, as they are home to numerous animals targeted for fishing. However, they also face increasing threats such as uncontrolled urbanization and pollution.
 
 Within this project, members of these two organizations, who are also residents of the area as well as the local fishing community:
@@ -64,6 +68,8 @@ Within this project, members of these two organizations, who are also residents 
 * Started creating an open imagery repository in [OpenAerialMap](https://openaerialmap.org/) and [Wikimedia Commons](https://commons.m.wikimedia.org/wiki/Category:Monitoreo_y_protecci%C3%B3n_de_manglares_de_Baja_California_Sur) to support monitoring, protection, and conservation initiatives.
 
 ![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 2.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM%202.jpg)
+
+*Image: Screenshot of the DroneTM website, a platform used for participatory drone mapping and visualization.*
 
 As monitoring continues, local partners can use DroneTM and its imagery to periodically record key variables like mangrove cover and extent, density and height, vegetation indices, mangrove fragmentation and connectivity, land use change, other degradation processes, mortality and regeneration cycles, etc.
 
@@ -85,6 +91,8 @@ style="border: none;"
 allowfullscreen
 loading="lazy">
 </iframe>
+
+*Visualization: Orthophoto generated from drone flights in La Paz, processed with DroneTM, and uploaded to OpenAerialMap for public and open access.*
 
 ## Towards a Network of Community Drone Operators
 
