@@ -124,7 +124,7 @@ Céline Jacquin, Latin America Senior Manager at HOT, highlights a key challenge
 
 This technology is transforming the way communities generate and use geospatial data. By making the technology to generate high-resolution aerial imagery a digital public good, we are enabling more people to make informed decisions, have the tools to participate in public policy, advocate for their rights, and build resilient communities. Moreover, DroneTM is also available for professionals, organizations, and governments interested in enhancing participatory mapping and environmental management.
 
-## Ready to join us? Here’s how you can get involved:
+## Ready to join us? Here’s how you can get involved
 
 * Test[ DroneTM](https://dronetm.org/) in your mapping projects.
 
