@@ -49,9 +49,9 @@ Along with our partner, [NAXA](https://naxa.com.np/), the Humanitarian OpenStree
 
 Adriana, a member of Guardianas del Conchalito, describes the breadth of their work: *“In approximately 14 hectares of mangroves, we carry out surveillance, monitoring, shell collection... hydrological channels, we have a tree nursery, we collaborate with BSCicletos, CONANP, Costa Salvaje.”*
 
-In February 2025, HOT implemented a DroneTM testing project in La Paz, Baja California Sur, in collaboration with the local organizations [BCSicletos](https://bcsicletos.org/) and [Las Guardianas del Conchalito](https://www.instagram.com/guardianasdelconchalito/), to monitor and conserve the region’s mangroves. These ecosystems are crucial for biodiversity and coastal protection, as well as for locals’ self-sufficiency, as they are home to numerous animals targeted for fishing. However, they also face increasing threats such as uncontrolled urbanization and pollution.
+![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 4.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM%204.jpg)
 
-![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 2.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM%202.jpg)
+In February 2025, HOT implemented a DroneTM testing project in La Paz, Baja California Sur, in collaboration with the local organizations [BCSicletos](https://bcsicletos.org/) and [Las Guardianas del Conchalito](https://www.instagram.com/guardianasdelconchalito/), to monitor and conserve the region’s mangroves. These ecosystems are crucial for biodiversity and coastal protection, as well as for locals’ self-sufficiency, as they are home to numerous animals targeted for fishing. However, they also face increasing threats such as uncontrolled urbanization and pollution.
 
 Within this project, members of these two organizations, who are also residents of the area as well as the local fishing community:
 
@@ -62,6 +62,8 @@ Within this project, members of these two organizations, who are also residents 
 * Generated a 3D view of the mangroves and the surrounding landscape using [OpenDroneMap](https://opendronemap.org).
 
 * Started creating an open imagery repository in [OpenAerialMap](https://openaerialmap.org/) and [Wikimedia Commons](https://commons.m.wikimedia.org/wiki/Category:Monitoreo_y_protecci%C3%B3n_de_manglares_de_Baja_California_Sur) to support monitoring, protection, and conservation initiatives.
+
+![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 2.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM%202.jpg)
 
 As monitoring continues, local partners can use DroneTM and its imagery to periodically record key variables like mangrove cover and extent, density and height, vegetation indices, mangrove fragmentation and connectivity, land use change, other degradation processes, mortality and regeneration cycles, etc.
 
@@ -83,6 +85,59 @@ ODM’s open-source design ensures that communities own and process their data l
 ***“Too often, tech democratization is just a temporary effect funded by venture capital—available at low or no cost only until market capture. With OpenDroneMap, the tools and knowledge are Libre and built to last, enabling true participation and mutual support in community-led mapping.”***
 
 As this model grows, Stephen believes the next challenge is scaling through community networks, ensuring training and adoption can spread laterally across regions.
+
+<!-- Swiper Styles & Script (poner una sola vez por página) -->\
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />\
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<!-- Galería Swiper -->\
+<div class="swiper mySwiper" style="width: 100%; max-width: 900px; margin: auto; padding: 2rem 0;">\
+  <div class="swiper-wrapper">\
+    <div class="swiper-slide">\
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Monitoreo_del_manglar_El_Mogote_por_las_Guardianas_del_Conchalito_y_Costa_Salvaje_en_La_Paz%2C_Baja_California_Sur.jpg" alt="Monitoreo del manglar El Mogote">\
+    </div>\
+    <div class="swiper-slide">\
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Sesi%C3%B3n_de_monitoreo_para_protecci%C3%B3n_de_manglares_de_Baja_California_Sur_01.jpg" alt="Sesión de monitoreo para protección de manglares">\
+    </div>\
+    <div class="swiper-slide">\
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Vista_de_La_Paz_desde_el_manglar_El_Mogote_en_Baja_California_Sur.jpg" alt="Vista de La Paz desde El Mogote">\
+    </div>\
+    <div class="swiper-slide">\
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Capacitaci%C3%B3n_de_Uso_de_Drones_y_DroneTM_016.jpg" alt="Capacitación en uso de drones - foto 016">\
+    </div>\
+    <div class="swiper-slide">\
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Capacitaci%C3%B3n_de_Uso_de_Drones_y_DroneTM_045.jpg" alt="Capacitación en uso de drones - foto 045">\
+    </div>\
+    <div class="swiper-slide">\
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LAC_taller_La_Paz_2025_-_d%C3%ADa_2_%26_3_taller_de_drone_en_Instituto_de_la_juventud_-_77.jpg" alt="Taller de drones LAC Hub - día 2 y 3">\
+    </div>\
+    <div class="swiper-slide">\
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Estero_El_Conchalito_en_La_Paz%2C_Baja_California_Sur_desde_vista_a%C3%A9rea_5.jpg" alt="Estero El Conchalito desde vista aérea">\
+    </div>\
+  </div>
+
+  <!-- Controles -->\
+  <div class="swiper-button-next"></div>\
+  <div class="swiper-button-prev"></div>\
+  <div class="swiper-pagination"></div>\
+</div>
+
+<!-- Activación del slider -->\
+<script>\
+  const swiper = new Swiper('.mySwiper', {\
+    loop: true,\
+    spaceBetween: 10,\
+    centeredSlides: true,\
+    pagination: {\
+      el: '.swiper-pagination',\
+      clickable: true,\
+    },\
+    navigation: {\
+      nextEl: '.swiper-button-next',\
+      prevEl: '.swiper-button-prev',\
+    },\
+  });\
+</script>
 
 ## Towards a Network of Community Drone Operators
 
