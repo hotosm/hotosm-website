@@ -6,6 +6,7 @@ Summary Text: Drone Tasking Manager (DroneTM) is a digital public good that enab
   communities to generate high-quality, high resolution aerial imagery using low-cost
   drones. Discover its potential for community-driven mapping and its use in protecting
   mangroves in La Paz, Baja California Sur, Mexico.
+Feature Image: "/uploads/Vuelos%20Drone%20TM.png"
 Person:
 - Céline Jacquin
 - Ivan Buendía Gayton
@@ -25,6 +26,8 @@ Access to aerial imagery has traditionally been limited to commercial satellites
 To change this, Drone Tasking Manager (DroneTM) has been developed as an open-source platform and [digital public good](https://en.wikipedia.org/wiki/Digital_public_goods) that allows anyone with a drone, even a low-cost one, to contribute high-quality, high-resolution aerial imagery to an open and accessible repository. Instead of just reaching feature parity with conventional sources, the quality and detail exceed typical commercial imagery sources.
 
 Ivan Gayton, Product Innovation Manager and Humanitarian Advisor at HOT, emphasizes the shift in accessibility by noting that *“previously, aerial imagery was something only large organizations could collect; today, communities can generate their own aerial data with inexpensive, safe, lightweight (therefore lightly-regulated) and accessible drones.”*
+
+![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM.jpg)
 
 ## What is Drone TM and How Does It Work?
 
@@ -48,6 +51,8 @@ Adriana, a member of Guardianas del Conchalito, describes the breadth of their w
 
 In February 2025, HOT implemented a DroneTM testing project in La Paz, Baja California Sur, in collaboration with the local organizations [BCSicletos](https://bcsicletos.org/) and [Las Guardianas del Conchalito](https://www.instagram.com/guardianasdelconchalito/), to monitor and conserve the region’s mangroves. These ecosystems are crucial for biodiversity and coastal protection, as well as for locals’ self-sufficiency, as they are home to numerous animals targeted for fishing. However, they also face increasing threats such as uncontrolled urbanization and pollution.
 
+![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 2.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM%202.jpg)
+
 Within this project, members of these two organizations, who are also residents of the area as well as the local fishing community:
 
 * Learned to operate drones and collect data using DroneTM.
@@ -59,6 +64,15 @@ Within this project, members of these two organizations, who are also residents 
 * Started creating an open imagery repository in [OpenAerialMap](https://openaerialmap.org/) and [Wikimedia Commons](https://commons.m.wikimedia.org/wiki/Category:Monitoreo_y_protecci%C3%B3n_de_manglares_de_Baja_California_Sur) to support monitoring, protection, and conservation initiatives.
 
 As monitoring continues, local partners can use DroneTM and its imagery to periodically record key variables like mangrove cover and extent, density and height, vegetation indices, mangrove fragmentation and connectivity, land use change, other degradation processes, mortality and regeneration cycles, etc.
+
+<iframe
+src="https://map.openaerialmap.org/#/-110.42078644037247,24.126750916699837,18/latest/67e32103bfdbb865ae6b147b?_k=hqe5yx"
+width="100%"
+height="700"
+style="border: none;"
+allowfullscreen
+loading="lazy">
+</iframe>
 
 Stephen Mather, Creator of OpenDroneMap, supported the La Paz project onsite and highlights how tools like ODM are changing who gets to create and use geospatial data.
 
