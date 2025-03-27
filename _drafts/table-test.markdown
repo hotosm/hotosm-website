@@ -3,6 +3,7 @@ title: Table Test
 date: 2023-03-28 20:14:00 Z
 ---
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
