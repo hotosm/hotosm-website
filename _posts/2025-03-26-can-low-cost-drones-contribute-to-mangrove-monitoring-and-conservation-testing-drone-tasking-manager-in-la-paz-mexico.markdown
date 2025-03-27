@@ -43,7 +43,7 @@ DroneTM is an intuitive application suite designed to facilitate collaborative a
 
 * **Integration with AI and Field Mapping Tools:** Provides essential inputs for analysis algorithms and mapping applications.
 
-* **A Digital Public Good:** Ensures that communities have access to open, high-quality geospatial data without dependency on expensive proprietary solutions.
+* **[A Digital Public Good](https://www.hotosm.org/updates/building-dronetm/):** Ensures that communities have access to open, high-quality geospatial data without dependency on expensive proprietary solutions.
 
 Along with our partner, [NAXA](https://naxa.com.np/), the Humanitarian OpenStreetMap Team (HOT) has been performing field testing and iterative deployments in diverse regions such as Indonesia, Nepal, Dominica and St. Lucia, [as documented by NAXA’s geospatial software developer Niraj Adhikari.](https://www.hotosm.org/updates/building-dronetm/) Now, for the first time, we have tested its potential to support another frontier of community development: mangrove monitoring and conservation.
 
@@ -134,6 +134,10 @@ This technology is transforming the way communities generate and use geospatial 
 
 * For a deep dive into the training and practice activity given to grassroots organizations in La Paz, Mexico, please visit [this publication](https://www.hotosm.org/updates/strengthening-communities-in-mangrove-conservation-drone-technology-and-local-collaboration/).
 
-More readings
+## More readings
 
-Strengthening Communities in Mangrove Conservation: Drone Technology and Local Collaboration
+* [Building DroneTM: A Digital Public Good Solution To Democratize Drone Mapping](https://www.hotosm.org/updates/building-dronetm/)
+
+* [Land care and surveillance drones: open knowledge at the service of the community](https://diff.wikimedia.org/2025/03/26/land-care-and-surveillance-drones-open-knowledge-at-the-service-of-the-community/)
+
+* [Strengthening Communities in Mangrove Conservation: Drone Technology and Local Collaboration](https://www.hotosm.org/updates/strengthening-communities-in-mangrove-conservation-drone-technology-and-local-collaboration/)
