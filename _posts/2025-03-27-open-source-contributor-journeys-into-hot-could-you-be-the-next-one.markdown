@@ -22,7 +22,7 @@ Each journey is different. Every contribution matters. I hope their stories insp
 
 My name is Emir. I’m a freelance software engineer currently based in Novara, Italy.
 
-### **How did you start your journey into tech and open source?**
+### How did you start your journey into tech and open source?
 
 I honestly feel like I was born using a computer. Then my high school computer science teacher showed me what was possible, and from there I started exploring the tech space by following my interests. For me, open-source is the place where I go when I don't even know what questions I should be asking. It felt nice to finally be the one contributing this time instead of just consuming.
 
@@ -34,7 +34,7 @@ I've always been fascinated by nature and mountains - as a kid, I remember watch
 
 While researching possibilities through ChatGPT, I discovered the Humanitarian OpenStreetMap Team (HOT). I reached out to Sam Woodcock on LinkedIn about geospatial work, we had a brief exchange, and after a year. I contacted Sam again about contributing to HOT’s projects. What stood out was how welcoming Sam was. This positive reception made all the difference in my decision to get involved with HOT.
 
-## What was your contribution to HOT - can you tell us a bit more.
+### What was your contribution to HOT - can you tell us a bit more.
 
 My contribution to HOT involved creating a Python package for simple city-level reverse geocoding using PostGIS. The journey began when I spotted an issue Sam had marked as "good first issue" on GitHub, where he had outlined both a problem and a potential solution.
 
@@ -62,11 +62,11 @@ My [professional skillset](https://www.linkedin.com/in/faizjamdar?utm_source=sha
 
 I helped re-design this AI powered tool, to speed up onboarding and reduce the complexity for non-technical users.
 
-### **How did you find out about HOT? What was your journey/ what brought you into HOT?**
+### How did you find out about HOT? What was your journey/ what brought you into HOT?
 
 I found HOT through a tech nonprofit directory. I then sent an email to HOT, asking how I can contribute my skills. HOT is one of the most impactful and largest nonprofits globally so I was most excited to support HOT, out of all the opportunities I was offered.
 
-## What was your contribution to HOT - can you tell us a bit more? What was your experience during the contribution period? How did you feel?
+### What was your contribution to HOT - can you tell us a bit more? What was your experience during the contribution period? How did you feel?
 
 Between January and March 2024, I collaborated asynchronously over a twelve-week period redesigning the fAIr UX/UI, bringing a strong user-centric lens to the project. Through user interviews, regular calls with Senior Product Owner Omran Najjar, and an ideation workshop with six community members, I identified that user onboarding was slow due to excessive customisation options. My main achievement was simplifying the design by reducing visible options, making the tool easier for non-technical users while still allowing data scientists to access hidden advanced settings for their complex needs. This case study contains more detailed information: [https://faizjamdar.com/project/hot-osm](https://faizjamdar.com/project/hot-osm)
 
