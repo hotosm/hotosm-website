@@ -19,6 +19,8 @@ Country:
 - Mexico
 ---
 
+**[English version](https://www.hotosm.org/updates/can-low-cost-drones-contribute-to-mangrove-monitoring-and-conservation-testing-drone-tasking-manager-in-la-paz-mexico/)**
+
 ## Revolucionando la cartografía con un bien público digital
 
 El acceso a imágenes aéreas ha estado tradicionalmente limitado a satélites comerciales, aeronaves convencionales o drones de alto costo. Esto ha excluido a muchas comunidades y organizaciones del uso de estas herramientas para la gestión de desastres, la conservación ambiental y la planificación urbana.
