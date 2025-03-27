@@ -20,19 +20,23 @@ Through this collaboration, we brainstormed ideas on how to make drone-based map
 Traditionally, aerial imagery acquisition has been controlled by big institutions with access to expensive satellites or aircraft-based surveys. While drone technology promises a shift (offering high-resolution imagery at a fraction of the cost), most available tools have major limitations:
 
 * They are proprietary, restricting accessibility and adaptability.
+
 * Mapping workflows are fragmented, requiring multiple disjointed tools for flight planning, execution, and data processing.
+
 * There is no system for large-scale collaboration, making it difficult to coordinate multiple drone pilots for real-time imagery acquisition efforts.
 
 **We wanted to build something open-source, user-friendly, and designed for large-scale collaboration**. DroneTM was created as a tasking platform that allows anyone with a drone to contribute aerial imagery to open mapping efforts—bridging the gap between local knowledge and global impact.
-
 
 ## How DroneTM Works
 
 DroneTM is a platform designed to help organizations, communities, and volunteers organize, execute, and share drone mapping missions seamlessly. With DroneTM, users can:
 
 * **Plan missions easily** - Define mapping areas, generate flight waypoints, and upload them to drone controllers.
+
 * **Coordinate flights across multiple pilots** – A task-based system ensures efficient image collection for large-scale projects.
+
 * **Process and share data seamlessly** – Integration with [OpenDroneMap (ODM)](https://www.opendronemap.org/) automates the transformation of raw drone imagery into usable geospatial datasets.
+
 * **Contribute to open mapping efforts** – Collected imagery is uploaded to [OpenAerialMap](https://openaerialmap.org/), making it freely accessible for humanitarian, conservation, and development use.
 
 ## Field Testing, Deployment, and Real-World Challenges
@@ -66,7 +70,9 @@ Despite these challenges, the Nepal field tests provided invaluable insights. We
 ### Field 3. Caribbean Deployment: Dominica and St. Lucia
 
 In the Caribbean islands of Dominica and St. Lucia, we deployed DroneTM to support local mapping initiatives. These locations provided an excellent opportunity to test our platform in coastal environments, where accurate mapping is crucial for disaster preparedness and resilience planning. The implementation in these island nations demonstrated DroneTM's capability to handle:
+
 * Coastal mapping challenges, including varying light conditions over water.
+
 * Coordination of multiple drone pilots across different administrative regions.
 
 An example project in this area looks like this:
@@ -78,9 +84,19 @@ An example project in this area looks like this:
 DroneTM is not just a tool. It is a movement to make aerial mapping more inclusive, community-driven, and open to all. If you share our vision of using geospatial data for social good, here’s how you can get involved:
 
 * Test [DroneTM](https://dronetm.org/) in your mapping projects.
+
 * Contribute to development via our [GitHub](https://github.com/hotosm/Drone-TM) repository
+
 * Join our community and help shape the future of open drone mapping.
 
 Let’s map the world together—one flight at a time.
+
+## More readings
+
+* [Can low-cost drones contribute to mangrove monitoring and conservation? Testing Drone Tasking Manager in La Paz, Mexico](https://www.hotosm.org/updates/can-low-cost-drones-contribute-to-mangrove-monitoring-and-conservation-testing-drone-tasking-manager-in-la-paz-mexico/)
+
+* [Land care and surveillance drones: open knowledge at the service of the community](https://diff.wikimedia.org/2025/03/26/land-care-and-surveillance-drones-open-knowledge-at-the-service-of-the-community/)
+
+* [Strengthening Communities in Mangrove Conservation: Drone Technology and Local Collaboration](https://www.hotosm.org/updates/strengthening-communities-in-mangrove-conservation-drone-technology-and-local-collaboration/)
 
 ![Drone TM Invite Guest.jpg](/uploads/Drone%20TM%20Invite%20Guest.jpg)
