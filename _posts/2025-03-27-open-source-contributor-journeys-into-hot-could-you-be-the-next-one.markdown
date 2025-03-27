@@ -10,7 +10,7 @@ Working Group:
 - TechandInnovation
 ---
 
-Hi everyone, [Petya](https://www.hotosm.org/people/petya-kangalova/) here - Tech Partnership and Engagement Lead at the Humanitarian OpenStreetMap (HOT). As an open source advocate, community engager and somebody who is very passionate about the role open source community/contributors play, I am so excited to finally bring to life some of the stories of the contributors we don’t often hear from - those are our tech contributors. Instead of me explaining, I’ll let you hear directly from two of them: Emir and Faiz. Each one of them has their own unique story and perspective. I had the chance to chat with them and asked a few questions.
+Hi everyone, [Petya](https://www.hotosm.org/people/petya-kangalova/) here - Tech Partnership and Engagement Lead at the Humanitarian OpenStreetMap (HOTOSM). As an open source advocate, community engager and somebody who is very passionate about the role open source community/contributors play, I am so excited to finally bring to life some of the stories of the contributors we don’t often hear from - those are our tech contributors. Instead of me explaining, I’ll let you hear directly from two of them: Emir and Faiz. Each one of them has their own unique story and perspective. I had the chance to chat with them and asked a few questions.
 
 Each journey is different. Every contribution matters. I hope their stories inspire you to contribute – or at least spark your curiosity about how you can get involved!
 
@@ -18,7 +18,7 @@ Each journey is different. Every contribution matters. I hope their stories insp
 
 ![Open Source Contributor Journeys into HOT - could you be the next one  1.jpg](/uploads/Open%20Source%20Contributor%20Journeys%20into%20HOT%20-%20could%20you%20be%20the%20next%20one%20%201.jpg)
 
-### What is your name, where you feel like home, current role. 
+### What is your name, where you feel like home, current role.
 
 My name is Emir. I’m a freelance software engineer currently based in Novara, Italy.
 
@@ -32,13 +32,13 @@ I discovered HOT through ChatGPT in September 2023.
 
 I've always been fascinated by nature and mountains - as a kid, I remember watching a TV show about Australian firefighters working in rugged environments, clearing mountain debris and conducting rescue operations. That early interest stayed with me. In 2023, I was looking to find an overlap between being a computer nerd and a nature enthusiast.
 
- While researching possibilities through ChatGPT, I discovered the Humanitarian OpenStreetMap Team (HOT). I reached out to Sam Woodcock on LinkedIn about geospatial work, we had a brief exchange, and after a year. I contacted Sam again about contributing to HOT’s projects. What stood out was how welcoming Sam was. This positive reception made all the difference in my decision to get involved with HOT.
+While researching possibilities through ChatGPT, I discovered the Humanitarian OpenStreetMap Team (HOT). I reached out to Sam Woodcock on LinkedIn about geospatial work, we had a brief exchange, and after a year. I contacted Sam again about contributing to HOT’s projects. What stood out was how welcoming Sam was. This positive reception made all the difference in my decision to get involved with HOT.
 
 ## What was your contribution to HOT - can you tell us a bit more.
 
-My contribution to HOT involved creating a Python package for simple city-level reverse geocoding using PostGIS. The journey began when I spotted an issue Sam had marked as "good first issue" on GitHub, where he had outlined both a problem and a potential solution. 
+My contribution to HOT involved creating a Python package for simple city-level reverse geocoding using PostGIS. The journey began when I spotted an issue Sam had marked as "good first issue" on GitHub, where he had outlined both a problem and a potential solution.
 
-After expressing interest, I immediately started working on it. I tested the feasibility of the proposed solution, gathered comparative data against existing alternatives, and presented my findings to Sam. What followed was a collaborative process of technical discussions that helped shape the solution. We worked through multiple iterations, addressing challenges and refining the approach until we finally produced a working package that met HOT's needs. 
+After expressing interest, I immediately started working on it. I tested the feasibility of the proposed solution, gathered comparative data against existing alternatives, and presented my findings to Sam. What followed was a collaborative process of technical discussions that helped shape the solution. We worked through multiple iterations, addressing challenges and refining the approach until we finally produced a working package that met HOT's needs.
 
 The project is now available at [https://github.com/hotosm/pg-nearest-city](https://github.com/hotosm/pg-nearest-city). Beyond the technical aspects, the human connection with Sam was invaluable. His guidance and support throughout the development process made this contribution particularly meaningful.
 
