@@ -19,6 +19,9 @@ Country:
 - Mexico
 ---
 
+[Versión en español
+](https://www.hotosm.org/updates/pueden-los-drones-de-bajo-costo-contribuir-al-monitoreo-y-conservacion-de-manglares-probando-el-drone-tasking-manager-en-la-paz-mexico/)
+
 ## Revolutionizing Cartography with a Digital Public Good
 
 Access to aerial imagery has traditionally been limited to commercial satellites, conventional aircraft, or high-cost drones. This has excluded many communities and organizations from using these tools for disaster management, environmental conservation, and urban planning.
