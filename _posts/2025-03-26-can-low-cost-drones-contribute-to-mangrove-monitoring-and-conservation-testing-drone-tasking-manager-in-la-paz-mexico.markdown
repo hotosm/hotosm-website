@@ -76,7 +76,7 @@ Stephen Mather, Creator of OpenDroneMap, supported the La Paz project onsite and
 
 ODM’s open-source design ensures that communities own and process their data locally, a critical aspect for groups monitoring sensitive areas like mangroves or documenting environmental threats.
 
-*“Too often, tech democratization is just a temporary effect funded by venture capital—available at low or no cost only until market capture. With OpenDroneMap, the tools and knowledge are Libre and built to last, enabling true participation and mutual support in community-led mapping.”*
+*“Too often, tech democratization is just a temporary effect funded by venture capital—available at low or no cost only until market capture. With OpenDroneMap, the tools and knowledge are Libre and built to last, enabling true participation and mutual support in community-led mapping”, Stephen highlights.*
 
 As this model grows, Stephen believes the next challenge is scaling through community networks, ensuring training and adoption can spread laterally across regions.
 
