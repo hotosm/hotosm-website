@@ -1,7 +1,6 @@
 ---
 title: Strengthening Open Data Processing and Mapping for Disaster Resilience - Mozambique
 date: 2025-04-02 14:12:00 Z
-published: false
 Project Summary Text: In partnership with Mozambique's National Disaster Management
   and Emergency Operations agencies, the Fundação para o Desenvolvimento da Comunidade
   (FDC) and with funding from the Bill & Melinda Gates Foundation, HOT's East and
