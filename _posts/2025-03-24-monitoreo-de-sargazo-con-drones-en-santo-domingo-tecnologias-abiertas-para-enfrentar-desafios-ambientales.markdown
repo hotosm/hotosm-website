@@ -29,117 +29,113 @@ Personas investigadoras de la UQROO nos guiaron sobre el estado del arte y las m
 
 Del 12 al 14 de marzo de 2025, se llevó a cabo el taller en Santo Domingo, en las instalaciones de la Oficina Nacional de Estadística, enfocado en el uso de drones para el monitoreo del sargazo, en el que se abordó un proceso integral de creación de datos geográficos. Durante la capacitación, se exploraron desde las técnicas de captura remota de información y la obtención de imágenes ráster, hasta el uso de aplicaciones especializadas para la recolección de datos en campo. Todo el flujo de trabajo se desarrolló dentro de una estructura basada en tecnologías abiertas y gratuitas, utilizando la plataforma DroneTM.
 
-\
-<html lang="en">\
-<head>\
-  <meta charset="UTF-8">\
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">\
-  <title>Photo Carousel</title>\
-  <!-- Swiper CSS -->\
-  <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">\
-  <style>\
-    .swiper-container {\
-      width: 100%;\
-      max-width: 512px; /\* 50% smaller than original \*/\
-      height: 288px; /\* 16:9 aspect ratio \*/\
-      margin: 0 auto;\
-      background: white; /\* White background \*/\
-      border: 1px solid #eee; /\* Optional light border \*/\
-    }\
-    .swiper-slide {\
-      display: flex;\
-      align-items: center;\
-      justify-content: center;\
-      background: white; /\* White background for slides \*/\
-    }\
-    .swiper-slide img {\
-      max-width: 100%;\
-      max-height: 100%;\
-      object-fit: contain;\
-    }\
-    .swiper-button-next,\
-    .swiper-button-prev {\
-      color: #333; /\* Darker arrows for white background \*/\
-      background: rgba(255,255,255,0.8);\
-      width: 30px;\
-      height: 30px;\
-      border-radius: 50%;\
-      border: 1px solid #ddd; /\* Light border for visibility \*/\
-    }\
-    .swiper-button-next:after,\
-    .swiper-button-prev:after {\
-      font-size: 16px;\
-    }\
-    .controls {\
-      text-align: center;\
-      margin-top: 10px;\
-    }\
-    .controls button {\
-      background: #333;\
-      color: white;\
-      border: none;\
-      padding: 5px 15px;\
-      margin: 0 5px;\
-      border-radius: 3px;\
-      cursor: pointer;\
-    }\
-    .controls button:hover {\
-      background: #555;\
-    }\
-  </style>\
-</head>\
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Photo Carousel</title>
+  <!-- Swiper CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css">
+  <style>
+    .swiper {
+      width: 100%;
+      max-width: 512px;
+      height: 288px;
+      margin: 0 auto;
+      background: white;
+      border: 1px solid #eee;
+    }
+    .swiper-slide {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: white;
+    }
+    .swiper-slide img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+    }
+    .swiper-button-next,
+    .swiper-button-prev {
+      color: #333;
+      background: rgba(255,255,255,0.8);
+      width: 30px;
+      height: 30px;
+      border-radius: 50%;
+      border: 1px solid #ddd;
+    }
+    .swiper-button-next::after,
+    .swiper-button-prev::after {
+      font-size: 16px;
+    }
+    .controls {
+      text-align: center;
+      margin-top: 10px;
+    }
+    .controls button {
+      background: #333;
+      color: white;
+      border: none;
+      padding: 5px 15px;
+      margin: 0 5px;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+    .controls button:hover {
+      background: #555;
+    }
+  </style>
+</head>
 <body>
 
-  <!-- Swiper -->\
-  <div class="swiper-container">\
+  <!-- Swiper -->
+  <div class="swiper">
     <div class="swiper-wrapper">
-
-      <div class="swiper-slide">\
-        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWZkMjkzNDM5NDdiNWQ0MjVhOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Imagen 1">\
-      </div>\
-      <div class="swiper-slide">\
-        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA3MjkzNDM5NDdiNWQ0MjVhYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Imagen 2">\
-      </div>\
-      <div class="swiper-slide">\
-        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA1MjkwYmUyNDc0OGRkNGU5MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Imagen 3">\
-      </div>\
-      <div class="swiper-slide">\
-        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWJkMjkwYmUyNDc0OGRkNGU4ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Imagen 4">\
-      </div>\
-      <div class="swiper-slide">\
-        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWVlMjkzNDM5NDdiNWQ0MjVhOC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Imagen 5">\
+      <div class="swiper-slide">
+        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWZkMjkzNDM5NDdiNWQ0MjVhOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 1">
       </div>
-
+      <div class="swiper-slide">
+        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA3MjkzNDM5NDdiNWQ0MjVhYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 2">
+      </div>
+      <div class="swiper-slide">
+        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA1MjkwYmUyNDc0OGRkNGU5MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 3">
+      </div>
+      <div class="swiper-slide">
+        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWJkMjkwYmUyNDc0OGRkNGU4ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 4">
+      </div>
+      <div class="swiper-slide">
+        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWVlMjkzNDM5NDdiNWQ0MjVhOC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 5">
+      </div>
     </div>
 
-    <!-- Navigation buttons -->\
-    <div class="swiper-button-next"></div>\
-    <div class="swiper-button-prev"></div>\
+    <!-- Navigation buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
   </div>
 
-  <!-- Additional manual controls -->\
-  <div class="controls">\
-    <button id="prevBtn">Previous</button>\
-    <button id="nextBtn">Next</button>\
+  <!-- Additional manual controls -->
+  <div class="controls">
+    <button id="prevBtn">Previous</button>
+    <button id="nextBtn">Next</button>
   </div>
 
-  <!-- Swiper JS -->\
-  <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>\
-  <!-- Initialize Swiper -->\
-  <script>\
-    const swiper = new Swiper('.swiper-container', {\
-      loop: true,\
-      navigation: {\
-        nextEl: '.swiper-button-next',\
-        prevEl: '.swiper-button-prev',\
-      },\
+  <!-- Swiper JS -->
+  <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+  <!-- Initialize Swiper -->
+  <script>
+    const swiper = new Swiper('.swiper', {
+      loop: true,
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
     });
 
-    document.getElementById("prevBtn").addEventListener("click", () => swiper.slidePrev());\
-    document.getElementById("nextBtn").addEventListener("click", () => swiper.slideNext());\
+    document.getElementById("prevBtn").addEventListener("click", () => swiper.slidePrev());
+    document.getElementById("nextBtn").addEventListener("click", () => swiper.slideNext());
   </script>
-
-</body>\
+</body>
 </html>
 
 ## **Fortaleciendo la acción comunitaria**
