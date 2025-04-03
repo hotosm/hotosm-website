@@ -14,7 +14,7 @@ Person:
 - Céline Jacquin
 - Mariana Marín
 Country:
-- República Dominicana
+- Dominican Republic
 ---
 
 El Hub de América Latina y el Caribe del Equipo Humanitario de OpenStreetMap (HOT) ha mostrado un compromiso constante con los desafíos del equilibrio ambiental costero en la región, especialmente en la [preservación y restauración de manglares](https://www.hotosm.org/updates/fortalecimiento-de-comunidades-en-la-conservacion-de-manglares-tecnologia-de-drones-y-colaboracion-local/) y el manejo del sargazo. Esta macroalga, asociada al cambio climático y al exceso de nutrientes, genera impactos ambientales severos al reducir el oxígeno en el agua, afectar la fauna marina y deteriorar la calidad del agua además de los problemas químicos en suelos causados por su descomposición (lixiviados y gases que pueden afectar la salud humana. A esto se suma el impacto económico, ya que el sargazo también afecta actividades clave de las regiones costeras: el turismo y la pesca. A pesar de los esfuerzos científicos, su observación y control siguen siendo un reto, especialmente en el Caribe mexicano e insular. 
