@@ -29,6 +29,8 @@ Personas investigadoras de la UQROO nos guiaron sobre el estado del arte y las m
 
 Del 12 al 14 de marzo de 2025, se llevó a cabo el taller en Santo Domingo, en las instalaciones de la Oficina Nacional de Estadística, enfocado en el uso de drones para el monitoreo del sargazo, en el que se abordó un proceso integral de creación de datos geográficos. Durante la capacitación, se exploraron desde las técnicas de captura remota de información y la obtención de imágenes ráster, hasta el uso de aplicaciones especializadas para la recolección de datos en campo. Todo el flujo de trabajo se desarrolló dentro de una estructura basada en tecnologías abiertas y gratuitas, utilizando la plataforma DroneTM.
 
+<br>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -137,6 +139,8 @@ Del 12 al 14 de marzo de 2025, se llevó a cabo el taller en Santo Domingo, en l
   </script>
 </body>
 </html>
+
+<br>
 
 ## **Fortaleciendo la acción comunitaria**
 
