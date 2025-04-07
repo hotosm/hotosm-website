@@ -25,15 +25,15 @@ Además, estas áreas boscosas y de manglares pueden abarcar extensiones territo
 Ante esta necesidad, herramientas accesibles como MapSwipe representan una oportunidad para fortalecer el conocimiento colectivo y promover la participación ciudadana en su defensa. MapSwipe es una tecnología especializada en la observación visual de grandes extensiones, ya que permite a una amplia comunidad de usuarios examinar sucesivamente imágenes satelitales desde sus teléfonos celulares o computadoras, e identificar rápidamente objetos según instrucciones, sin necesidad de contar con competencias cartográficas específicas.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">\
-  <iframe \
-    src="https://www.youtube.com/embed/mwRdtnfFcUw?start=66&si=18gvpSNqED2aSNRf" \
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" \
-    frameborder="0" \
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" \
-    referrerpolicy="strict-origin-when-cross-origin" \
-    allowfullscreen \
-    title="YouTube video player">\
-  </iframe>\
+<iframe \
+src="https://www.youtube.com/embed/mwRdtnfFcUw?start=66&si=18gvpSNqED2aSNRf" \
+style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" \
+frameborder="0" \
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" \
+referrerpolicy="strict-origin-when-cross-origin" \
+allowfullscreen \
+title="YouTube video player">\
+</iframe>\
 </div>
 
 ## **MapSwipe: tecnología participativa frente a la pérdida de ecosistemas**
@@ -82,9 +82,9 @@ Las primeras observaciones se enfocaron en municipios clave como Carmen, Palizad
 
 La creación de cartografía temática presenta varios retos, ya que tradicionalmente se realiza mediante dos metodologías principales:
 
-* **Interpretación visual: **Requiere profesionales altamente capacitados en cartografía, capaces de delimitar coberturas mediante criterios visuales complejos.
+* \*\*Interpretación visual: \*\*Requiere profesionales altamente capacitados en cartografía, capaces de delimitar coberturas mediante criterios visuales complejos.
 
-* **Clasificaciones digitales: **Se basa en algoritmos automatizados para clasificar coberturas según niveles digitales de imagen. Sin embargo, este método enfrenta limitaciones porque distintas coberturas pueden compartir respuestas espectrales similares, o una misma cobertura puede tener variabilidad espectral.
+* \*\*Clasificaciones digitales: \*\*Se basa en algoritmos automatizados para clasificar coberturas según niveles digitales de imagen. Sin embargo, este método enfrenta limitaciones porque distintas coberturas pueden compartir respuestas espectrales similares, o una misma cobertura puede tener variabilidad espectral.
 
 Este piloto en MapSwipe busca superar esas limitaciones al desarrollar un sistema accesible para usuarios no técnicos. Si se logra desligar la construcción de cartografía temática de la dependencia exclusiva de profesionales altamente especializados, se abrirán nuevas posibilidades para la generación de mapas más inclusivos y accesibles.
 
@@ -94,9 +94,9 @@ Este piloto en MapSwipe busca superar esas limitaciones al desarrollar un sistem
 
 En el marco del proyecto piloto desarrollado en colaboración con una iniciativa climática, se trabajó en la conceptualización y diseño técnico del proyecto con el apoyo de Humanitarian OpenStreetMap Team (HOT). La implementación se realizó en una región específica: Michoacán, ubicada en el suroccidente de México. Este territorio fue seleccionado como área de muestreo para llevar a cabo la identificación de dos tipos de coberturas del suelo:
 
-* **Áreas naturales: **que incluyen superficies boscosas en diferentes estados de conservación (primarias, secundarias o terciarias).
+* \*\*Áreas naturales: \*\*que incluyen superficies boscosas en diferentes estados de conservación (primarias, secundarias o terciarias).
 
-* **Áreas intervenidas: **que abarcan zonas agrícolas, pecuarias, industriales, mineras y urbanas.
+* \*\*Áreas intervenidas: \*\*que abarcan zonas agrícolas, pecuarias, industriales, mineras y urbanas.
 
 Para este propósito, se pidió a los participantes que, utilizando la herramienta MapSwipe, realizaran una clasificación básica. Dependiendo de si observaban áreas naturales o áreas artificiales/intervenidas en las imágenes proporcionadas, los participantes debían realizar un número de "taps" específicos en su pantalla en la aplicación.
 
@@ -108,7 +108,11 @@ Para este propósito, se pidió a los participantes que, utilizando la herramien
 
 Los resultados del proyecto piloto ofrecen una perspectiva alentadora sobre el potencial de involucrar a personas no técnicas en la generación de cartografía temática. A nivel específico, se identificaron desafíos inherentes a la tarea de diferenciar entre áreas naturales y artificiales, lo que aporta aprendizajes significativos para ajustar y mejorar la metodología en futuras iniciativas.
 
-***“Lo que estamos haciendo con el apoyo de CONABIO y la Iniciativa Climática Mexicana es realmente valioso, porque MapSwipe nunca se había utilizado más allá de marcar: ‘aquí hay un edificio’. Y esto va más allá de eso”, ***comparte Juan Melo, Especialista en Calidad de Datos del LAC Hub.
+*“Lo que estamos haciendo con el apoyo de CONABIO y la Iniciativa Climática Mexicana es realmente valioso, porque MapSwipe nunca se había utilizado más allá de marcar: ‘aquí hay un edificio’. Y esto va más allá de eso”*, comparte Juan Melo, Especialista en Calidad de Datos del LAC Hub.
+
+![rESULTADOS MAPWSIPE HOT CONABIO.jpg](/uploads/rESULTADOS%20MAPWSIPE%20HOT%20CONABIO.jpg)
+
+*Resultados en MapSwipe de la identificación de cobeturas en Michoacán que pueden explorarse en su totalidad en este [enlace](https://mapswipe.org/en/projects/-OEJrs09tcmfWeGirG-Q/).*
 
 Uno de los principales hallazgos fue la dificultad que enfrentaron los participantes para distinguir ciertas coberturas, como pastos o cultivos arbóreos, de áreas naturales como bosques secundarios o terciarios.
 
