@@ -74,9 +74,9 @@ Las primeras observaciones se enfocaron en municipios clave como Carmen, Palizad
 
 La creación de cartografía temática presenta varios retos, ya que tradicionalmente se realiza mediante dos metodologías principales:
 
-* \*\*Interpretación visual: \*\*Requiere profesionales altamente capacitados en cartografía, capaces de delimitar coberturas mediante criterios visuales complejos.
+* Interpretación visual: Requiere profesionales altamente capacitados en cartografía, capaces de delimitar coberturas mediante criterios visuales complejos.
 
-* \*\*Clasificaciones digitales: \*\*Se basa en algoritmos automatizados para clasificar coberturas según niveles digitales de imagen. Sin embargo, este método enfrenta limitaciones porque distintas coberturas pueden compartir respuestas espectrales similares, o una misma cobertura puede tener variabilidad espectral.
+* Clasificaciones digitales: Se basa en algoritmos automatizados para clasificar coberturas según niveles digitales de imagen. Sin embargo, este método enfrenta limitaciones porque distintas coberturas pueden compartir respuestas espectrales similares, o una misma cobertura puede tener variabilidad espectral.
 
 Este piloto en MapSwipe busca superar esas limitaciones al desarrollar un sistema accesible para usuarios no técnicos. Si se logra desligar la construcción de cartografía temática de la dependencia exclusiva de profesionales altamente especializados, se abrirán nuevas posibilidades para la generación de mapas más inclusivos y accesibles.
 
@@ -86,9 +86,9 @@ Este piloto en MapSwipe busca superar esas limitaciones al desarrollar un sistem
 
 En el marco del proyecto piloto desarrollado en colaboración con una iniciativa climática, se trabajó en la conceptualización y diseño técnico del proyecto con el apoyo de Humanitarian OpenStreetMap Team (HOT). La implementación se realizó en una región específica: Michoacán, ubicada en el suroccidente de México. Este territorio fue seleccionado como área de muestreo para llevar a cabo la identificación de dos tipos de coberturas del suelo:
 
-* **Áreas naturales: **que incluyen superficies boscosas en diferentes estados de conservación (primarias, secundarias o terciarias).
+* \*\*Áreas naturales: \*\*que incluyen superficies boscosas en diferentes estados de conservación (primarias, secundarias o terciarias).
 
-* **Áreas intervenidas: **que abarcan zonas agrícolas, pecuarias, industriales, mineras y urbanas.
+* \*\*Áreas intervenidas: \*\*que abarcan zonas agrícolas, pecuarias, industriales, mineras y urbanas.
 
 Para este propósito, se pidió a los participantes que, utilizando la herramienta MapSwipe, realizaran una clasificación básica. Dependiendo de si observaban áreas naturales o áreas artificiales/intervenidas en las imágenes proporcionadas, los participantes debían realizar un número de "taps" específicos en su pantalla en la aplicación.
 
