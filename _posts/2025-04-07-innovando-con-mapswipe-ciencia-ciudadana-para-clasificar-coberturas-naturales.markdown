@@ -24,17 +24,9 @@ Además, estas áreas boscosas y de manglares pueden abarcar extensiones territo
 
 Ante esta necesidad, herramientas accesibles como MapSwipe representan una oportunidad para fortalecer el conocimiento colectivo y promover la participación ciudadana en su defensa. MapSwipe es una tecnología especializada en la observación visual de grandes extensiones, ya que permite a una amplia comunidad de usuarios examinar sucesivamente imágenes satelitales desde sus teléfonos celulares o computadoras, e identificar rápidamente objetos según instrucciones, sin necesidad de contar con competencias cartográficas específicas.
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">\
-<iframe \
-src="https://www.youtube.com/embed/mwRdtnfFcUw?start=66&si=18gvpSNqED2aSNRf" \
-style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" \
-frameborder="0" \
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" \
-referrerpolicy="strict-origin-when-cross-origin" \
-allowfullscreen \
-title="YouTube video player">\
-</iframe>\
-</div>
+En el siguiente [vídeo](https://youtu.be/mwRdtnfFcUw?si=moqY4pWgsUnlS_EC&t=66), colegas de Médicos Sin Fronteras, demuestran cómo utilizarlo de manera sencilla:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mwRdtnfFcUw?si=moqY4pWgsUnlS_EC&t=66" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **MapSwipe: tecnología participativa frente a la pérdida de ecosistemas**
 
@@ -94,9 +86,9 @@ Este piloto en MapSwipe busca superar esas limitaciones al desarrollar un sistem
 
 En el marco del proyecto piloto desarrollado en colaboración con una iniciativa climática, se trabajó en la conceptualización y diseño técnico del proyecto con el apoyo de Humanitarian OpenStreetMap Team (HOT). La implementación se realizó en una región específica: Michoacán, ubicada en el suroccidente de México. Este territorio fue seleccionado como área de muestreo para llevar a cabo la identificación de dos tipos de coberturas del suelo:
 
-* \*\*Áreas naturales: \*\*que incluyen superficies boscosas en diferentes estados de conservación (primarias, secundarias o terciarias).
+* **Áreas naturales: **que incluyen superficies boscosas en diferentes estados de conservación (primarias, secundarias o terciarias).
 
-* \*\*Áreas intervenidas: \*\*que abarcan zonas agrícolas, pecuarias, industriales, mineras y urbanas.
+* **Áreas intervenidas: **que abarcan zonas agrícolas, pecuarias, industriales, mineras y urbanas.
 
 Para este propósito, se pidió a los participantes que, utilizando la herramienta MapSwipe, realizaran una clasificación básica. Dependiendo de si observaban áreas naturales o áreas artificiales/intervenidas en las imágenes proporcionadas, los participantes debían realizar un número de "taps" específicos en su pantalla en la aplicación.
 
