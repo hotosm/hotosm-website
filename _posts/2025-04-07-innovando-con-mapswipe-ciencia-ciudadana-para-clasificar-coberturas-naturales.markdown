@@ -114,4 +114,4 @@ Además, el proceso de transformación de los datos recopilados en MapSwipe en u
 
 En resumen, este proyecto piloto no solo identificó áreas de mejora en cuanto a la precisión técnica, sino que también validó el potencial de MapSwipe como una herramienta poderosa para empoderar a las comunidades y promover la colaboración en la creación de mapas temáticos de manera inclusiva y eficiente.
 
-¿Formas parte de una organización con objetivos similares y especialización en temas de preservación del bosque? ¿Tienes limitaciones en las observaciones que necesitas hacer de áreas extensas? ¡Contáctanos para compartir tu perspectiva al lachub@hotosm.org!
+¿Formas parte de una organización con objetivos similares y especialización en temas de preservación del bosque? ¿Tienes limitaciones en las observaciones que necesitas hacer de áreas extensas? ¡Contáctanos para compartir tu perspectiva al [hublac@hotosm.org](mailto:hublac@hotosm.org)!
