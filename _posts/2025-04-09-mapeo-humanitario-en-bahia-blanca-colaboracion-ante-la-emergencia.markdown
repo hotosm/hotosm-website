@@ -32,11 +32,11 @@ La activación contó con la participación de la Brigada de Mapeo Humanitario d
 
 En total, se desarrollaron cuatro proyectos de mapeo bajo el Tasking Manager. Los resultados fueron significativos:
 
-* **Personas mapeadoras: **73
+* **Personas mapeadoras:** 73
 
 * **Personas validadoras:** 20
 
-* **Edificaciones mapeadas: **45,837
+* **Edificaciones mapeadas:** 45,837
 
 * **Carreteras cubiertas:** 34 km²
 
