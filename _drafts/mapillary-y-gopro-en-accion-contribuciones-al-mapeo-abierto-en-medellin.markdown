@@ -7,6 +7,7 @@ Summary Text: En el marco de dos proyectos de mapeo en la ciudad de Medellín, s
   Yessica de los Ríos, líder del proyecto, nos cuenta cómo el uso de la cámara GoPro
   contribuyó a alimentar la cartografía abierta de dos barrios vulnerables a distintas
   amenazas naturales.
+Feature Image: "/uploads/Mapillary%20Dron%20San%20Antonio%20de%20Prado%202.jpg"
 Person: Yessica de los Ríos
 Country:
 - Colombia
@@ -26,9 +27,11 @@ El proyecto de mapeo en este corregimiento tuvo como objetivo actualizar cuatro 
 
 4. Socialización de resultados y cierre
 
-El uso de imágenes capturadas con una cámara GoPro, importadas a la plataforma Mapillary, fue determinante en las fases dos y tres.
+El uso de imágenes capturadas con una cámara GoPro, importadas a la plataforma [Mapillary](https://www.mapillary.com/), fue determinante en las fases dos y tres.
 
 En la segunda fase, el objetivo de utilizar imágenes de dron fue obtener una mejor resolución para actualizar una zona con alta ocurrencia de deslizamientos, delimitada en un área de 150 hectáreas. Para definir esta zona, fue clave el reconocimiento previo mediante Mapillary y OSM Tracker. A través de estas herramientas se identificaron puntos potenciales para ejecutar los vuelos con dron —lugares amplios, con buena visibilidad, poco cableado, entre otros criterios— y se verificó el estado de las vías de acceso. Las fotos panorámicas tomadas con la GoPro e importadas a Mapillary permitieron confirmar las condiciones de estos puntos y definir un conjunto de nodos para la ejecución de los vuelos.
+
+![Mapillary Dron San Antonio de Prado.jpg](/uploads/Mapillary%20Dron%20San%20Antonio%20de%20Prado.jpg)
 
 *Figura 1. Área que se priorizó para mapeo con Dron.*
 
@@ -36,9 +39,11 @@ En la tercera fase, los recorridos se extendieron a distintas zonas dentro de la
 
 Es importante resaltar que, durante el proceso de mapeo remoto, las imágenes de Mapillary jugaron un papel clave al proporcionar puntos de referencia útiles para agregar información sobre las edificaciones. Estos puntos de referencia permitieron dividir el área en subzonas de mapeo, organizadas por cuadras o espacios delimitados entre dos postes de electricidad, resaltos, reductores de velocidad, colores distintivos de algunas edificaciones, tapas de alcantarillado, entre otros elementos. De esta manera, se podía determinar con mayor precisión la cantidad de edificaciones entre cada par de referencias, facilitando el mapeo y mejorando la veracidad en la ubicación de cada una.
 
+![Mapillary Dron San Antonio de Prado 2.jpg](/uploads/Mapillary%20Dron%20San%20Antonio%20de%20Prado%202.jpg)
+
 *Figura 2. Edición en OpenStreetMap utilizando la Ortofoto generada y las fotografías de Mapillary vinculadas a la misma plataforma (Puntos verdes)*
 
-**Proyecto de Mapeo participativo para la resiliencia a la Inundación (Nueva Villa la Iguaná)**
+## **Proyecto de Mapeo participativo para la resiliencia a la Inundación (Nueva Villa la Iguaná)**
 
 El objetivo de este proyecto, financiado parcialmente por Global Water Partnership y apoyado por Humanitarian OpenStreetMap Team —quien facilitó implementos como una cámara GoPro y un dron—, es contribuir a la mitigación de la amenaza de inundación que enfrenta este barrio, a través del mapeo abierto y colaborativo. Para ello, se busca actualizar la información de esta zona en OpenStreetMap (OSM), enfocándose principalmente en las áreas inundables.
 
@@ -46,9 +51,15 @@ En este sentido, se realizaron varios recorridos por el barrio para la toma de i
 
 En este caso, al tratarse de un asentamiento, el mapeo representa un gran desafío, y Mapillary cumple un rol fundamental como repositorio de imágenes base para la planificación y logística en campo. Además, estas fotografías también serán utilizadas en el proceso de mapeo remoto, tal como se hizo en el proyecto de San Antonio de Prado, para añadir características del barrio al mapa en OpenStreetMap (OSM).
 
+![Mapillary Dron San Antonio de Prado 3.jpg](/uploads/Mapillary%20Dron%20San%20Antonio%20de%20Prado%203.jpg)
+
 *Imagen 3. Recorrido de toma de imágenes con cámara GoPro en el barrio Nueva Villa de La Iguaná*
 
-**Conclusiones**
+## **Conclusiones**
+
+<iframe width="640" height="320" src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=213021451830725&x=0.5&y=0.5000000000000002&style=split" frameborder="0"></iframe>
+
+*Marco: Las fotografías capturadas se visualizan en Mapillary con formato tipo Street View.*
 
 Su uso representa una ventaja en proyectos de mapeo, ya que permite aportar datos recientes a través de imágenes, lo cual puede beneficiar no solo a los equipos de emergencia e instituciones, sino también a la autogestión comunitaria en la toma de decisiones relacionadas con la gestión del riesgo. Esta herramienta resulta especialmente útil en territorios dinámicos, como aquellos afectados por movimientos en masa o por las consecuencias de inundaciones.
 
