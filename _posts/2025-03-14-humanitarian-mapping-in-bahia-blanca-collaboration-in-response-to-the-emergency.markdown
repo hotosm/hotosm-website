@@ -10,6 +10,8 @@ Country:
 - Argentina
 ---
 
+**[Versión en español](https://www.hotosm.org/updates/mapeo-humanitario-en-bahia-blanca-colaboracion-ante-la-emergencia/)**
+
 The humanitarian mapping response in Bahía Blanca was a clear example of the power of collaboration between local governments, communities, and global actors to respond effectively to a crisis. In March 2025, a series of heavy rains affected various areas in the south of Buenos Aires Province, causing floods that severely damaged homes, infrastructure, and essential services. While multiple towns were impacted, the city of Bahía Blanca established direct coordination with local government officials, who expressed a concrete need for mapping support. In response, the Latin America and Caribbean Open Mapping Hub (LAC Hub) activated an open mapping effort to generate accurate and updated geospatial data, supporting humanitarian aid and reconstruction work.
 
 Bahía Blanca, a strategic port city in southern Buenos Aires Province, has a population of over 300,000 people. In early March, intense rainfall caused several waterways to overflow, affecting both urban and rural areas. The consequences included material damage, displaced people, and interruptions to basic services like electricity, water, and transportation.

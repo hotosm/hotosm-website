@@ -10,6 +10,8 @@ Country:
 - Argentina
 ---
 
+**[English version](https://www.hotosm.org/updates/humanitarian-mapping-in-bahia-blanca-collaboration-in-response-to-the-emergency)**
+
 El mapeo humanitario en Bahía Blanca ha sido una muestra concreta del poder de la colaboración entre gobiernos locales, comunidades y actores globales para responder eficazmente ante una crisis. En marzo de 2025, una serie de intensas lluvias afectaron a distintas zonas del sur de la provincia de Buenos Aires, provocando inundaciones con daños significativos en viviendas, infraestructura y servicios esenciales. Aunque varias localidades se vieron impactadas, fue en la ciudad de Bahía Blanca donde se estableció una coordinación directa con el gobierno local y se expresó una necesidad concreta de mapeo. Como respuesta, el equipo del Hub de Mapeo para América Latina y el Caribe (LAC Hub) activó esfuerzos de mapeo abierto con el objetivo de generar información geoespacial precisa y actualizada, facilitando así la asistencia humanitaria y el trabajo de reconstrucción.
 
 Bahía Blanca, ciudad portuaria estratégica del sur bonaerense, cuenta con una población de más de 300,000 personas. A inicios de marzo, lluvias intensas provocaron el desbordamiento de varios cursos de agua, afectando tanto zonas urbanas como rurales. Las consecuencias incluyeron daños materiales, personas desplazadas y la interrupción de servicios básicos como electricidad, agua y transporte.
