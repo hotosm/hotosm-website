@@ -14,6 +14,8 @@ Country:
 - Mexico
 ---
 
+**[English version](https://www.hotosm.org/updates/innovating-with-mapswipe-citizen-science-to-classify-natural-land-cover/)**
+
 ## **Manglares y bosques nativos: ecosistemas en riesgo**
 
 Los ecosistemas de manglares y bosques nativos en América Latina enfrentan una presión creciente debido al avance de la frontera agrícola, la urbanización descontrolada, la expansión turística y los efectos del cambio climático. En México, esta situación es particularmente crítica: el país alberga más del 5 % de los manglares del mundo, pero ha perdido miles de hectáreas en las últimas décadas.
