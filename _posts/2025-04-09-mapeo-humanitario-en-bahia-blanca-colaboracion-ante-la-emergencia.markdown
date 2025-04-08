@@ -1,5 +1,5 @@
 ---
-title: 'Mapeo humanitario en Bahía Blanca: colaboración ante la emergencia'
+title: 'Mapeo Humanitario en Bahía Blanca: Colaboración ante la Emergencia'
 date: 2025-04-09 14:17:00 Z
 Summary Text: Respuesta rápida y efectiva tras las inundaciones en Bahía Blanca, Argentina.
   el LAC Hub activó a la comunidad de mapeo humanitario para generar datos clave para
