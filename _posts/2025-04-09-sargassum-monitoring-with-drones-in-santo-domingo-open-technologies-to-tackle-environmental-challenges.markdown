@@ -17,7 +17,7 @@ Country:
 - Dominican Republic
 ---
 
-## **The Latin America and Caribbean Hub’s Commitment to Coastal Environmental Balance**
+**[Spanish version](https://www.hotosm.org/updates/monitoreo-de-sargazo-con-drones-en-santo-domingo-tecnologias-abiertas-para-enfrentar-desafios-ambientales/)**
 
 The Latin America and Caribbean Hub of the Humanitarian OpenStreetMap Team (HOT) has shown a consistent commitment to the challenges of coastal environmental balance in the region, especially in the [preservation and restoration of mangroves](https://www.hotosm.org/updates/fortalecimiento-de-comunidades-en-la-conservacion-de-manglares-tecnologia-de-drones-y-colaboracion-local/) and the management of sargassum. This macroalgae, associated with climate change and nutrient overload, causes severe environmental impacts by reducing oxygen levels in water, affecting marine fauna, deteriorating water quality, and causing soil chemistry issues from its decomposition (leachates and gases that can affect human health). On top of that, sargassum also impacts coastal economies by harming key activities such as tourism and fishing. Despite scientific efforts, its observation and control remain challenging—particularly in the Mexican and Caribbean islands.
 
@@ -31,6 +31,121 @@ Researchers at UQROO guided us through the current state of the art and the mode
 
 From March 12–14, 2025, a workshop was held in Santo Domingo, hosted at the ONE offices, focused on drone-based monitoring of sargassum and the complete process of creating geographic data. The training covered everything from remote data capture techniques and raster image acquisition to the use of specialized apps for field data collection. The entire workflow was built on free and open-source technologies using the [DroneTM](https://dronetm.org/) platform.
 
+<br>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Photo Carousel</title>
+<!-- Swiper CSS -->
+<link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css">
+<style>
+.swiper {
+width: 100%;
+max-width: 512px;
+height: 288px;
+margin: 0 auto;
+background: white;
+border: 1px solid #eee;
+}
+.swiper-slide {
+display: flex;
+align-items: center;
+justify-content: center;
+background: white;
+}
+.swiper-slide img {
+max-width: 100%;
+max-height: 100%;
+object-fit: contain;
+}
+.swiper-button-next,
+.swiper-button-prev {
+color: #333;
+background: rgba(255,255,255,0.8);
+width: 30px;
+height: 30px;
+border-radius: 50%;
+border: 1px solid #ddd;
+}
+.swiper-button-next::after,
+.swiper-button-prev::after {
+font-size: 16px;
+}
+.controls {
+text-align: center;
+margin-top: 10px;
+}
+.controls button {
+background: #333;
+color: white;
+border: none;
+padding: 5px 15px;
+margin: 0 5px;
+border-radius: 3px;
+cursor: pointer;
+}
+.controls button:hover {
+background: #555;
+}
+</style>
+</head>
+<body>
+
+<!-- Swiper -->
+<div class="swiper">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWZkMjkzNDM5NDdiNWQ0MjVhOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 1">
+</div>
+<div class="swiper-slide">
+<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA3MjkzNDM5NDdiNWQ0MjVhYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 2">
+</div>
+<div class="swiper-slide">
+<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA1MjkwYmUyNDc0OGRkNGU5MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 3">
+</div>
+<div class="swiper-slide">
+<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWJkMjkwYmUyNDc0OGRkNGU4ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 4">
+</div>
+<div class="swiper-slide">
+<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWVlMjkzNDM5NDdiNWQ0MjVhOC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 5">
+</div>
+</div>
+
+    <!-- Navigation buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+
+</div>
+
+<!-- Additional manual controls -->
+<div class="controls">
+<button id="prevBtn">Previous</button>
+<button id="nextBtn">Next</button>
+</div>
+
+<!-- Swiper JS -->
+<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+<!-- Initialize Swiper -->
+<script>
+const swiper = new Swiper('.swiper', {
+loop: true,
+navigation: {
+nextEl: '.swiper-button-next',
+prevEl: '.swiper-button-prev',
+},
+});
+
+    document.getElementById("prevBtn").addEventListener("click", () => swiper.slidePrev());
+    document.getElementById("nextBtn").addEventListener("click", () => swiper.slideNext());
+
+</script>
+</body>
+</html>
+
+<br>
+
 ## **Strengthening Community Action**
 
 The purpose of the workshop was also to expand the reach and application of innovative methodologies. The integration of HOT’s technologies, combined with the Global Partnership’s experience in community data generation, helped enrich the training experience.
@@ -42,6 +157,15 @@ The workshop lasted two and a half days, structured into theoretical and practic
 The sessions focused on the importance of community mapping as a tool for generating open, useful data in contexts ranging from spatial planning to risk and emergency management. Participants explored the OpenStreetMap ecosystem and engaged in hands-on activities using tools like [Tasking Manager](https://tasks.hotosm.org/), [OsmAnd](https://osmand.net/), [Organic Maps](https://organicmaps.app/), and [Mapillary](https://www.mapillary.com/mobile-apps?locale=es_ES), learning how to collect and visualize data from the field. Drone use was also covered, including flight planning with Drone Tasking Manager and automated image capture from multiple angles to generate precise geospatial outputs.
 
 Participants were also trained on processing collected data using [OpenDroneMap](https://www.opendronemap.org/), which powers Drone Tasking Manager, enabling the creation of orthomosaics, digital elevation models, and surface models. Spatial analysis techniques with QGIS were applied to interpret the data, including practical exercises like sargassum volume modeling based on reference images. Through these activities, participants gained skills to apply accessible technologies in community monitoring and informed decision-making processes.
+
+<iframe
+src="https://map.openaerialmap.org/#/-69.88935470581055,18.467400421223484,18/square/03221130212011210202/67d3328029c3f8a67573d035?_k=87jtmo"
+width="100%"
+height="700"
+style="border: none;"
+allowfullscreen
+loading="lazy">
+</iframe>
 
 ## **Key Collaborations and Lessons Learned**
 
