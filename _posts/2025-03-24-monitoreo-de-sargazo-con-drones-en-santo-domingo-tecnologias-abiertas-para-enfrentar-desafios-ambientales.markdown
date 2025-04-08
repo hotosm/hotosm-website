@@ -17,7 +17,9 @@ Country:
 - Dominican Republic
 ---
 
-El Hub de América Latina y el Caribe del Equipo Humanitario de OpenStreetMap (HOT) ha mostrado un compromiso constante con los desafíos del equilibrio ambiental costero en la región, especialmente en la [preservación y restauración de manglares](https://www.hotosm.org/updates/fortalecimiento-de-comunidades-en-la-conservacion-de-manglares-tecnologia-de-drones-y-colaboracion-local/) y el manejo del sargazo. Esta macroalga, asociada al cambio climático y al exceso de nutrientes, genera impactos ambientales severos al reducir el oxígeno en el agua, afectar la fauna marina y deteriorar la calidad del agua además de los problemas químicos en suelos causados por su descomposición (lixiviados y gases que pueden afectar la salud humana. A esto se suma el impacto económico, ya que el sargazo también afecta actividades clave de las regiones costeras: el turismo y la pesca. A pesar de los esfuerzos científicos, su observación y control siguen siendo un reto, especialmente en el Caribe mexicano e insular. 
+**[English version](https://www.hotosm.org/updates/sargassum-monitoring-with-drones-in-santo-domingo-open-technologies-to-tackle-environmental-challenges/)**
+
+El Hub de América Latina y el Caribe del Equipo Humanitario de OpenStreetMap (HOT) ha mostrado un compromiso constante con los desafíos del equilibrio ambiental costero en la región, especialmente en la [preservación y restauración de manglares](https://www.hotosm.org/updates/fortalecimiento-de-comunidades-en-la-conservacion-de-manglares-tecnologia-de-drones-y-colaboracion-local/) y el manejo del sargazo. Esta macroalga, asociada al cambio climático y al exceso de nutrientes, genera impactos ambientales severos al reducir el oxígeno en el agua, afectar la fauna marina y deteriorar la calidad del agua además de los problemas químicos en suelos causados por su descomposición (lixiviados y gases que pueden afectar la salud humana. A esto se suma el impacto económico, ya que el sargazo también afecta actividades clave de las regiones costeras: el turismo y la pesca. A pesar de los esfuerzos científicos, su observación y control siguen siendo un reto, especialmente en el Caribe mexicano e insular.
 
 Frente a esta situación, identificamos la necesidad de mejorar la disponibilidad y el uso de datos, explorando enfoques colaborativos y ciudadanos. Nuestra colaboración en el tema inició con la [Universidad Nacional de Quintana Roo](https://www.uqroo.mx/) (UQROO) y su Laboratorio de Observación e Investigación Espacial, que desarrolla modelos y estudios sobre el sargazo. Una de las principales limitaciones identificadas fue la escasez de imágenes aéreas o satelitales de alta resolución, en la frecuencia suficiente para monitorear el fenómeno.
 
@@ -33,110 +35,112 @@ Del 12 al 14 de marzo de 2025, se llevó a cabo el taller en Santo Domingo, en l
 
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Photo Carousel</title>
-  <!-- Swiper CSS -->
-  <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css">
-  <style>
-    .swiper {
-      width: 100%;
-      max-width: 512px;
-      height: 288px;
-      margin: 0 auto;
-      background: white;
-      border: 1px solid #eee;
-    }
-    .swiper-slide {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      background: white;
-    }
-    .swiper-slide img {
-      max-width: 100%;
-      max-height: 100%;
-      object-fit: contain;
-    }
-    .swiper-button-next,
-    .swiper-button-prev {
-      color: #333;
-      background: rgba(255,255,255,0.8);
-      width: 30px;
-      height: 30px;
-      border-radius: 50%;
-      border: 1px solid #ddd;
-    }
-    .swiper-button-next::after,
-    .swiper-button-prev::after {
-      font-size: 16px;
-    }
-    .controls {
-      text-align: center;
-      margin-top: 10px;
-    }
-    .controls button {
-      background: #333;
-      color: white;
-      border: none;
-      padding: 5px 15px;
-      margin: 0 5px;
-      border-radius: 3px;
-      cursor: pointer;
-    }
-    .controls button:hover {
-      background: #555;
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Photo Carousel</title>
+<!-- Swiper CSS -->
+<link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css">
+<style>
+.swiper {
+width: 100%;
+max-width: 512px;
+height: 288px;
+margin: 0 auto;
+background: white;
+border: 1px solid #eee;
+}
+.swiper-slide {
+display: flex;
+align-items: center;
+justify-content: center;
+background: white;
+}
+.swiper-slide img {
+max-width: 100%;
+max-height: 100%;
+object-fit: contain;
+}
+.swiper-button-next,
+.swiper-button-prev {
+color: #333;
+background: rgba(255,255,255,0.8);
+width: 30px;
+height: 30px;
+border-radius: 50%;
+border: 1px solid #ddd;
+}
+.swiper-button-next::after,
+.swiper-button-prev::after {
+font-size: 16px;
+}
+.controls {
+text-align: center;
+margin-top: 10px;
+}
+.controls button {
+background: #333;
+color: white;
+border: none;
+padding: 5px 15px;
+margin: 0 5px;
+border-radius: 3px;
+cursor: pointer;
+}
+.controls button:hover {
+background: #555;
+}
+</style>
 </head>
 <body>
 
-  <!-- Swiper -->
-  <div class="swiper">
-    <div class="swiper-wrapper">
-      <div class="swiper-slide">
-        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWZkMjkzNDM5NDdiNWQ0MjVhOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 1">
-      </div>
-      <div class="swiper-slide">
-        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA3MjkzNDM5NDdiNWQ0MjVhYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 2">
-      </div>
-      <div class="swiper-slide">
-        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA1MjkwYmUyNDc0OGRkNGU5MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 3">
-      </div>
-      <div class="swiper-slide">
-        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWJkMjkwYmUyNDc0OGRkNGU4ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 4">
-      </div>
-      <div class="swiper-slide">
-        <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWVlMjkzNDM5NDdiNWQ0MjVhOC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 5">
-      </div>
-    </div>
+<!-- Swiper -->
+<div class="swiper">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWZkMjkzNDM5NDdiNWQ0MjVhOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 1">
+</div>
+<div class="swiper-slide">
+<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA3MjkzNDM5NDdiNWQ0MjVhYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 2">
+</div>
+<div class="swiper-slide">
+<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA1MjkwYmUyNDc0OGRkNGU5MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 3">
+</div>
+<div class="swiper-slide">
+<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWJkMjkwYmUyNDc0OGRkNGU4ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 4">
+</div>
+<div class="swiper-slide">
+<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWVlMjkzNDM5NDdiNWQ0MjVhOC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 5">
+</div>
+</div>
 
     <!-- Navigation buttons -->
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
-  </div>
 
-  <!-- Additional manual controls -->
-  <div class="controls">
-    <button id="prevBtn">Previous</button>
-    <button id="nextBtn">Next</button>
-  </div>
+</div>
 
-  <!-- Swiper JS -->
-  <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
-  <!-- Initialize Swiper -->
-  <script>
-    const swiper = new Swiper('.swiper', {
-      loop: true,
-      navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-      },
-    });
+<!-- Additional manual controls -->
+<div class="controls">
+<button id="prevBtn">Previous</button>
+<button id="nextBtn">Next</button>
+</div>
+
+<!-- Swiper JS -->
+<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+<!-- Initialize Swiper -->
+<script>
+const swiper = new Swiper('.swiper', {
+loop: true,
+navigation: {
+nextEl: '.swiper-button-next',
+prevEl: '.swiper-button-prev',
+},
+});
 
     document.getElementById("prevBtn").addEventListener("click", () => swiper.slidePrev());
     document.getElementById("nextBtn").addEventListener("click", () => swiper.slideNext());
-  </script>
+
+</script>
 </body>
 </html>
 
