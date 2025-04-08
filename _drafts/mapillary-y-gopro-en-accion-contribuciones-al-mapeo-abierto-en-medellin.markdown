@@ -2,11 +2,11 @@
 title: 'Mapillary y GoPro en Acción: Contribuciones al Mapeo Abierto en Medellín'
 date: 2025-01-06 01:03:00 Z
 Summary Text: En el marco de dos proyectos de mapeo en la ciudad de Medellín, se utilizó
-  la cámara Go Pro como parte de las actividades de mapeo en campo. Estas imágenes
-  se importaron a Mapillary, una plataforma para realizar Street Views abiertos. Yessica
-  de los Ríos, líder del proyecto, nos cuenta cómo contribuyó el uso de la cámara
-  GoPro para alimentar la cartografía abierta de dos barrios vulnerables a amenazas
-  naturales diferentes.
+  una cámara GoPro como parte de las actividades de mapeo en campo. Las imágenes capturadas
+  fueron importadas a Mapillary, una plataforma que permite crear Street Views abiertos.
+  Yessica de los Ríos, líder del proyecto, nos cuenta cómo el uso de la cámara GoPro
+  contribuyó a alimentar la cartografía abierta de dos barrios vulnerables a distintas
+  amenazas naturales.
 Person: Yessica de los Ríos
 Country:
 - Colombia
