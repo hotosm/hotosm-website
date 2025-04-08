@@ -13,6 +13,8 @@ Country:
 - Mexico
 ---
 
+**[Spanish version](https://www.hotosm.org/updates/innovando-con-mapswipe-ciencia-ciudadana-para-clasificar-coberturas-naturales/)**
+
 ## **Mangroves and Native Forests: Ecosystems at Risk**
 
 Mangrove and native forest ecosystems in Latin America face increasing pressure due to the expansion of agricultural frontiers, uncontrolled urbanization, tourism development, and the effects of climate change. In Mexico, this situation is especially critical: the country holds over 5% of the world’s mangroves, but has lost thousands of hectares in recent decades.
@@ -86,6 +88,7 @@ This MapSwipe pilot seeks to overcome those limitations by developing an accessi
 As part of the pilot project developed in collaboration with a climate initiative, technical design and conceptualization were carried out with the support of the Humanitarian OpenStreetMap Team (HOT). The implementation took place in a specific region: Michoacán, located in southwestern Mexico. This territory was selected as a sampling area to carry out the identification of two types of land cover:
 
 * **Natural areas:** including forested surfaces in various states of conservation (primary, secondary, or tertiary).
+
 * **Intervened areas:** including agricultural, livestock, industrial, mining, and urban zones.
 
 Participants were asked to use the MapSwipe tool to make a basic classification. Depending on whether they observed natural or artificial/intervened areas in the images, participants were to perform a specific number of "taps" on their screens.
