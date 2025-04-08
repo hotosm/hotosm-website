@@ -16,6 +16,8 @@ Project:
 - Open Mapping for All
 ---
 
+**[English version](https://www.hotosm.org/updates/cultivating-open-knowledge-collaborative-mapping-workshop-for-tec-de-monterrey-teachers-and-librarians/)**
+
 En febrero de 2025, el equipo del Hub de Mapeo Abierto para Latinoamérica y el Caribe (LAC Hub) viajó a Querétaro, México, para capacitar a 40 docentes de las Escuelas de Ciencias Sociales, Humanidades, Arquitectura, Arte y Diseño, además del área de Biblioteca del [Tecnológico de Monterrey](https://tec.mx/). El objetivo era proporcionar un aprendizaje dinámico y accesible sobre el mapeo abierto, permitiendo a los docentes integrar estas herramientas en sus programas académicos y proyectos de impacto social.
 
 Este taller surgió a partir de la Semana I de la especialización de Conflicto y Paz, donde 30 estudiantes de la Escuela de Ciencias Sociales y Gobierno participaron en una capacitación intensiva sobre OpenStreetMap (OSM), el Humanitarian OpenStreetMap Team (HOT) y herramientas de mapeo abierto como Mapillary, Organic Maps y uMap. La iniciativa despertó un gran interés en la comunidad docente, lo que llevó a la creación de un espacio de formación dirigido a profesores universitarios a través de los Cursos de Actualización de la Disciplina (CADI).

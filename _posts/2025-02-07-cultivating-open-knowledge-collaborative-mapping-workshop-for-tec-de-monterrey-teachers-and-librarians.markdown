@@ -1,6 +1,6 @@
 ---
 title: 'Cultivating Open Knowledge: Collaborative Mapping Workshop for Tec de Monterrey
-  Teachers and Librarians'
+  Teachers'
 date: 2025-02-07 02:36:00 Z
 Summary Text: Educators and librarians from Tec de Monterrey were trained in open
   mapping tools to integrate citizen science into higher education. Through theoretical
