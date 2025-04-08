@@ -43,7 +43,7 @@ Algunas de las personas participantes nos comparten sus reflexiones:
 
 ![Estudiantes mapeadores, representantes de HOT, GEOID-COMAPPER, TOMTOM y ex-SEMOVI (Oaxaca) en la sesión de premiación durante el Open Data Day 2025.jpg](/uploads/Estudiantes%20mapeadores,%20representantes%20de%20HOT,%20GEOID-COMAPPER,%20TOMTOM%20y%20ex-SEMOVI%20(Oaxaca)%20en%20la%20sesio%CC%81n%20de%20premiacio%CC%81n%20durante%20el%20Open%20Data%20Day%202025.jpg)
 
-> *Me gusta mucho todo el tema del mapeo, el proyecto se me hizo interesante, y se me hizo mucho mejor el poder liberar mi materia de integrativa profesional por medio de algo que me apasiona”.* — Alexander Burreola, estudiante de la UAEMEX en Toluca**, mapeador voluntario del proyecto.*
+> *Me gusta mucho todo el tema del mapeo, el proyecto se me hizo interesante, y se me hizo mucho mejor el poder liberar mi materia de integrativa profesional por medio de algo que me apasiona”.* — Alexander Burreola, estudiante de la UAEMEX en Toluca\*\*, mapeador voluntario del proyecto.\*
 
 En colaboración con GEOID, se realizó una capacitación modular sobre mapeo en OSM, uso de herramientas de edición (JOSM e iDEditor), verificación y corrección de cartografía vial, verificación de puntos de interés (POIs), calidad de datos y el uso de datos de OSM en la toma de decisiones locales. Así mismo los mapeadores se capacitaron en los fundamentos para el [mapeo de datos de transporte público en OSM mediante el MOOC](https://mhub.com.co/enrol/index.php?id=21) desarrollado por Trufi Association en alianza con el [Mobility Hub](https://mhub.com.co/).
 
@@ -75,24 +75,24 @@ Finalmente, el presente proyecto ha generado amplias mejoras en el mapa de OpenS
 
 ### **Explora el mapa**
 
-<iframe 
-  width="100%" 
-  height="500" 
-  src="https://www.openstreetmap.org/export/embed.html?bbox=-99.71672058105469%2C19.24495169562434%2C-99.60084915161133%2C19.321511226817186&layer=transportmap" 
-  style="border: 1px solid black;">
+<iframe
+width="100%"
+height="500"
+src="https://www.openstreetmap.org/export/embed.html?bbox=-99.71672058105469%2C19.24495169562434%2C-99.60084915161133%2C19.321511226817186&layer=transportmap"
+style="border: 1px solid black;">
 </iframe>
 <br/>
 <small>
-  <a href="https://www.openstreetmap.org/?#map=14/19.28324/-99.65878&layers=T" target="_blank" rel="noopener noreferrer">
-    Ver el mapa más grande
-  </a>
+<a href="https://www.openstreetmap.org/?#map=14/19.28324/-99.65878&layers=T" target="_blank" rel="noopener noreferrer">
+Ver el mapa más grande
+</a>
 </small>
 
 <div style="font-size: 0.9em; color: #778899; line-height: 1.4; margin-top: 10px; background-color: #f0f0f0; padding: 12px; border-radius: 6px;">
-  Foto de portada: Central de Autobuses de Oaxaca – Foto de 
-  <a href="https://donobelo.com/" target="_blank" rel="noopener noreferrer">Donobello</a>, 
-  en el marco del proyecto 
-  <a href="https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-oaxaca-y-toluca-mexico/" target="_blank" rel="noopener noreferrer">
-    Creando Datos Juntos: Mejora de la Gestión del Transporte Urbano en México
-  </a>.
+Foto de portada: Central de Autobuses de Oaxaca – Foto de
+<a href="https://donobelo.com/" target="_blank" rel="noopener noreferrer">Donobelo</a>,
+en el marco del proyecto
+<a href="https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-oaxaca-y-toluca-mexico/" target="_blank" rel="noopener noreferrer">
+Creando Datos Juntos: Mejora de la Gestión del Transporte Urbano en México
+</a>.
 </div>
