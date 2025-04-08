@@ -10,7 +10,7 @@ Summary Text: HOT, together with the Global Partnership for Sustainable Developm
   Caribbean collaboration in the face of growing environmental challenges.
 Feature Image: "/uploads/Sargassum%20Monitoring%20with%20Drones%20in%20Santo%20Domingo-%20Open%20Technologies%20to%20Tackle%20Environmental%20Challenges.jpg"
 Person:
-- Juan Melo
+- Juan Melo Luna
 - Céline Jacquin
 - Mariana Marín
 Country:
