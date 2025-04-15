@@ -92,7 +92,7 @@ HOT team will make available all the documents and contacts necessary to run the
 
 * Conduct rapid capacity building needs assessment of volunteers
 
-* Data Modeling 
+* Data Modeling
 
 * Recruit contact details of nominated volunteers for training
 
@@ -102,7 +102,7 @@ HOT team will make available all the documents and contacts necessary to run the
 
 * Support expedited validation process
 
-* Plan and implement field mapping activities 
+* Plan and implement field mapping activities
 
 * Data Analysis
 
@@ -132,7 +132,7 @@ HOT team will make available all the documents and contacts necessary to run the
 
 The terms of reference in PDF are available **[here](https://drive.google.com/file/d/13KwgBriuKE-zaIp7Lghy-66wzR23IWoO/view)**.
 
-**Submission Guidelines: **Interested entities are invited to submit their letter of interest by April 30, 2025.
+**Submission Guidelines:** Interested entities are invited to submit their letter of interest by April 30, 2025.
 
 Packages should include:
 
