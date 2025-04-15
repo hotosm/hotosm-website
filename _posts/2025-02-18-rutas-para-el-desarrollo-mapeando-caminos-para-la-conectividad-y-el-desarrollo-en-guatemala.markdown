@@ -72,9 +72,9 @@ El resultado de la activación fue impresionante:
 
 En palabras de Juan Carlos, *“las estimaciones iniciales del mapeo eran de 12,000 km, lo cual sabemos ahora que estaba muy por debajo de la realidad. Sin embargo, el Mapatón superó todas las expectativas, cubriendo áreas mucho más amplias y proporcionando datos fundamentales para la planificación."*
 
-![Vías Mapeadas Rutas para el Desarrollo, Guatemala.jpg](/uploads/Vi%CC%81as%20Mapeadas%20Rutas%20para%20el%20Desarrollo,%20Guatemala.jpg)
+![Mapatón Guatemala ES.jpg](/uploads/Mapato%CC%81n%20Guatemala%20ES.jpg)
 
-*Imagen: Vías creadas a partir del mapeo de caminos liderado por PNUD y HOT.*
+*Imagen: La cartografía de caminos existentes y sus condiciones en OpenStreetMap, combinada con capas oficiales, permite identificar con precisión las principales carencias de infraestructura vial que limitan el acceso de las poblaciones a servicios esenciales. Esta información posibilita análisis sencillos pero cruciales para el diseño de ejes de conectividad y la optimización de la inversión pública.*
 
 ## Producto y Uso Político del Mapeo
 

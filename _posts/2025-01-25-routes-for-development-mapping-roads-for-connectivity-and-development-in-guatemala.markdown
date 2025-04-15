@@ -76,9 +76,9 @@ The results of the activation were impressive:
 
 According to Juan Carlos: *“Initial mapping estimates were 12,000 km, which we now know was far below reality. However, the Mapathon exceeded all expectations, covering much larger areas and providing essential data for planning.”*
 
-![Vías Mapeadas Rutas para el Desarrollo, Guatemala.jpg](/uploads/Vi%CC%81as%20Mapeadas%20Rutas%20para%20el%20Desarrollo,%20Guatemala.jpg)
+![Mapatón Guatemala EN.jpg](/uploads/Mapato%CC%81n%20Guatemala%20EN.jpg)
 
-*Image: Roads created through mapping led by UNDP and HOT.*
+*Image: The mapping of existing roads and their conditions in OpenStreetMap, combined with official data layers, allows for the precise identification of major infrastructure gaps that limit communities’ access to essential services. This information enables simple yet critical analyses to design connectivity corridors and optimize public investment.*
 
 ## Mapping as a Political and Planning Tool
 
