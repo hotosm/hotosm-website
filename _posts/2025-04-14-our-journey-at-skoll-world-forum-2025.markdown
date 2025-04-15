@@ -2,7 +2,6 @@
 title: 'Our Journey at Skoll World Forum 2025: a Time for Reflection and Collaboration
   in a New Era'
 date: 2025-04-14 15:35:00 Z
-published: false
 Summary Text: The Skoll World Forum is over, but the reflections that came from it
   will definitely stay with us for a long time. Read more about what our Executive
   Director, Rebecca Firth, and Fabrizio Scrollini, Regional Director for the Open
@@ -14,7 +13,7 @@ Person:
 - Fabrizio Scrollini
 ---
 
-*[Cover image: Rebecca Firth, HOT's Executive Director, and James Nardella from Last Mile Health presented a powerful session on Big Bet Philanthropy for Long-Term Change. Source: Fabrizio Scrollini.]*
+*[Cover image: Rebecca Firth, HOT's Executive Director, and James Nardella, from Last Mile Health, presented a powerful session on Big Bet Philanthropy for Long-Term Change. Source: Fabrizio Scrollini.]*
 
 Last week, we had the opportunity to participate in one of the largest and most relevant gatherings of social entrepreneurs, funders, and innovators in the world: [The Skoll World Forum](https://skoll.org/skoll-world-forum/), hosted at the [University of Oxford’s Saïd Business School](https://www.sbs.ox.ac.uk/). The Forum is organized by [the Skoll Foundation](https://skoll.org/) (also known as Skoll), which has contributed significantly to HOT’s goal of [mapping an area home to 1 billion people affected by disasters or extreme poverty](https://humstats.heigit.org/hot-priority-countries.html) via [the Audacious Project](https://www.hotosm.org/audacious).
 
