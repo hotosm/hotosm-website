@@ -1,5 +1,5 @@
 ---
-title: 'Call for Proposals: Emergency Resources Mapping Project in St.Kitts & Neves'
+title: 'Call for Proposals: Emergency Resources Mapping Project in St.Kitts & Nevis'
 date: 2025-04-15 14:32:00 Z
 Deadline Date: 2025-04-30 23:59:00 Z
 Apply Form Link: https://drive.google.com/file/d/13KwgBriuKE-zaIp7Lghy-66wzR23IWoO/view
