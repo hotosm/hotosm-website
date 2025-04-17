@@ -19,7 +19,7 @@ Like in a natural ecosystem, this has become a reciprocal relationship. [In a re
 ![1-625c9d.jpg](/uploads/1-625c9d.jpg)
 
 <ol>
-<li>Well, the first step would be to <a href="https://www.hotosm.org/tech-suite">get to know a little bit more about our tools</a> (if you already know them, skip this step :wink:)</li>
+<li>Well, the first step would be to <a href="https://www.hotosm.org/tech-suite">get to know a little bit more about our tools</a> (if you already know them, skip this step ;) )</li>
 <li>Once you get a sense of what each of them does, <a href="https://docs.hotosm.org/become-a-contributor">our documentation page</a> lists some of the different approaches you can take:
 <ul>
 <li><b>Code:</b> We’ve identified <a href="https://github.com/search?q=org%3Ahotosm\+label%3A%22good\+first\+issue%22&type=issues">a list of potential good first issues</a> that you can tackle right now on our GitHub.</li>
@@ -47,7 +47,7 @@ Like in a natural ecosystem, this has become a reciprocal relationship. [In a re
 <li>Our overarching documentation is available <a href="https://docs.hotosm.org">here</a>, and is a good starting point. This should link to the documentation sites for most of our tools.
 <li>The documentation site for each tool is built from the code repository. You'll find it by opening the tab `Projects > Tool > Docs`.
 <li>First of all, feel free to try and use our tools while following the docs. If there is anywhere you feel the documentation could be improved, feel free to modify it with a Pull Request, or open an Issue describing the problem you faced and needs clarification.
-<li>If you are feeling creative, creating video tutorials based on your experience would also be very helpful! Check out <a href="https://www.youtube.com/watch?v%3Dkibi_YJ6qXo%26ab_channel%3DHumanitarianOpenStreetMapTeam&sa=D&source=docs&ust=1744910170712658&usg=AOvVaw1Igyy3VOQc7rkbV80sDTK8">this example</a>.
+<li>If you are feeling creative, creating video tutorials based on your experience would also be very helpful! Check out <a href="https://www.youtube.com/watch?v%3Dkibi_YJ6qXo%26ab_channel%3DHumanitarianOpenStreetMapTeam&sa=D&source=docs&ust=1744910170712658&usg=AOvVaw1Igyy3VOQc7rkbV80sDTK8">this example</a>.</li>
 </ul>
 </li>
 </ol>
