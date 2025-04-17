@@ -44,10 +44,10 @@ Like in a natural ecosystem, this has become a reciprocal relationship. [In a re
 <li>Meet the team: We have a very welcoming and supportive team that can help with onboarding for technical issues. Feel free to send us a message and set up a coffee chat.</li>
 <li>Check out all of our resources:
 <ul>
-<li>Our overarching documentation is available <a href="https://docs.hotosm.org">here</a>, and is a good starting point. This should link to the documentation sites for most of our tools.
-<li>The documentation site for each tool is built from the code repository. You'll find it by opening the tab `Projects > Tool > Docs`.
-<li>First of all, feel free to try and use our tools while following the docs. If there is anywhere you feel the documentation could be improved, feel free to modify it with a Pull Request, or open an Issue describing the problem you faced and needs clarification.
-<li>If you are feeling creative, creating video tutorials based on your experience would also be very helpful! Check out <a href="https://www.youtube.com/watch?v%3Dkibi_YJ6qXo%26ab_channel%3DHumanitarianOpenStreetMapTeam&sa=D&source=docs&ust=1744910170712658&usg=AOvVaw1Igyy3VOQc7rkbV80sDTK8">this example</a>.</li>
+<li>Our overarching documentation is available <a href="https://docs.hotosm.org">here</a>, and is a good starting point. This should link to the documentation sites for most of our tools.</li>
+<li>The documentation site for each tool is built from the code repository. You'll find it by opening the tab `Projects > Tool > Docs`.</li>
+<li>First of all, feel free to try and use our tools while following the docs. If there is anywhere you feel the documentation could be improved, feel free to modify it with a Pull Request, or open an Issue describing the problem you faced and needs clarification.</li>
+<li>If you are feeling creative, creating video tutorials based on your experience would also be very helpful! Check out <a href="https://www.youtube.com/watch?v%3Dkibi_YJ6qXo%26ab_channel%3DHumanitarianOpenStreetMapTeam&sa=D&source=docs&ust=1744910170712658&usg=AOvVaw1Igyy3VOQc7rkbV80sDTK8">this example.</a></li>
 </ul>
 </li>
 </ol>
