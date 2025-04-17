@@ -31,7 +31,6 @@ Like in a natural ecosystem, this has become a reciprocal relationship. [In a re
 <li>fAIr could have work done on its <a href="https://github.com/hotosm/fAIr/tree/develop/backend/tests">backend tests,</a> and frontend E2E tests are yet to be implemented too.</li>
 <li>Raw-data-api backend tests are located <a href="https://github.com/hotosm/raw-data-api/tree/develop/tests">here</a>.</li>
 </ul>
-</li>
 <li><b>Report security vulnerabilities:</b> Often, we produce data in sensitive contexts that must be secure. We strive to produce secure software by default, but every piece of software can always benefit from thorough testing of potential vulnerabilities.
 </ul>
 
