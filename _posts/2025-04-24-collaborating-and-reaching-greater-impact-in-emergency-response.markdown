@@ -6,12 +6,13 @@ Summary Text: Help.NGO and HOT collaborated to strengthen emergency response eff
   forest fire assessments in Ucayali, their partnership accelerates access to critical
   post-disaster imagery. These joint actions enable rapid damage assessment, informed
   decision-making, and more effective humanitarian coordination.
+Feature Image: "/uploads/Forest%20fires%20in%20San%20Francisco,%20Ucayali,%20Peru.%20Drone%20mapping%20images%20from%20Help.NGO/jpg"
 Person: Céline Jacquin
 Country:
 - Mexico
 - Peru
 Project:
-- 
+- Hurricane Otis 2023 Response
 - 
 ---
 
@@ -31,7 +32,17 @@ In a coordination chat implemented by the organizations themselves - the first d
 
 In this way, the LAC Hub and the group of organizations on the field had access to post-disaster aerial images in a very short time, something essential for the contribution that HOT can provide to other organizations, as they allow the geospatial identification of destroyed buildings and other characteristics necessary for the actions of humanitarian organizations and the government itself, capturing it on the OpenStreetMap map and thus making this data available to even more actors, for present and future uses.
 
-At the same time, the National Center for Disaster Prevention, Cenapred, sent personnel to the field and also directed drone flights, obtaining images that were added to those of Help.NGO. This created a collaborative dynamic of shared efforts and results. These were complemented by the analyses made by Copernicus and other organizations, to automatically estimate the level of destruction, and guide further observations that could be relevant to other actors. With this timely exchange of resources—both the imagery and the mapping derived from it—it became possible to quickly assess which infrastructure had been destroyed, which remained intact, and which could be repurposed as shelters or collection centers.
+<iframe
+src="https://map.openaerialmap.org/#/-99.88675117492676,16.88061098303345,13?_k=4c5j54"
+width="100%"
+height="700"
+style="border: none;"
+allowfullscreen
+loading="lazy">
+</iframe>
+*Visualization: Orthophotos generated and uploaded to OpenAerialMap for public and open access.*
+
+At the same time, the National Center for Disaster Prevention (Cenapred), sent personnel to the field and also directed drone flights, obtaining images that were added to those of Help.NGO. This created a collaborative dynamic of shared efforts and results. These were complemented by the analyses made by Copernicus and other organizations, to automatically estimate the level of destruction, and guide further observations that could be relevant to other actors. With this timely exchange of resources—both the imagery and the mapping derived from it—it became possible to quickly assess which infrastructure had been destroyed, which remained intact, and which could be repurposed as shelters or collection centers.
 
 Thanks to this rapid and efficient intervention by Help.NGO, the organizations on the ground were able to have recent images that, together with those of Cenapred, allowed them to adequately distribute their actions in the territory and optimize resources.
 
@@ -40,6 +51,8 @@ HOT used the imagery uploaded to the [OpenAerialMap](https://openaerialmap.org/)
 In this way, it was possible to help various organizations and the state and city governments in a very concrete and timely manner in things such as deciding the distribution of drinking water by placing water tanks in public markets that had not suffered damage.
 
 ## **Ucayali, Peru**
+
+![Forest fires in San Francisco, Ucayali, Peru. Drone mapping images from Help.NGO..jpg](/uploads/Forest%20fires%20in%20San%20Francisco,%20Ucayali,%20Peru.%20Drone%20mapping%20images%20from%20Help.NGO/jpg)
 
 *Forest fires in San Francisco, Ucayali, Peru. Drone mapping images from Help.NGO.*
 
@@ -51,6 +64,8 @@ We coordinated the connection between Help.NGO and the OSM Peru people in Ucayal
 
 Additionally, we connected this combined Help.NGO and OSM Peru team with other local organizations in addition to those that were already part of the aid consortium (Alianza Arkana, the Bilingual Institute and the UNIA Student Association) such as Pro Purús and the Association of Youth for Democracy, in order to reach more affected communities.
 
+![Drone images taken at WebODM. Help.NGO team in the community of San Francisco, Ucayali.jpg](/uploads/Drone%20images%20taken%20at%20WebODM.%20Help.NGO%20team%20in%20the%20community%20of%20San%20Francisco,%20Ucayali.jpg)
+
 *Drone images taken at WebODM. Help.NGO team in the community of San Francisco, Ucayali.*
 
 The Help.NGO team spent several days in the regions affected by the forest fires, going out into the field very early to obtain the best possible quality of the images, even reaching remote places where the fires were still active. This considerably expanded the territorial reach of the OSM Peru initiative and the local community.
@@ -59,7 +74,9 @@ The resulting images were processed in WebODM and shared with the OSM Peru team 
 
 Johnattan Rupire, representative of OSM Peru, was very grateful for the support, because as already mentioned, the deployment of the Help.NGO team allowed access to more remote communities that would otherwise have been more difficult to reach, and also allowed obtaining higher quality and more precise images, as well as up-to-date images.
 
-Help.NGO member presenting the work done to representatives of local communities and organizations. Help.NGO member in the community of Santa Clara, Ucayali. Johnattan Rupire from OSM Peru taking pictures with a GoPro.
+![Help.NGO member presenting the work done to representatives of local communities and organizations. Help.NGO member in the community of Santa Clara, Ucayali. Johnattan Rupire from OSM Peru taking pictures with a GoPro.jpg](/uploads/Help.NGO%20member%20presenting%20the%20work%20done%20to%20representatives%20of%20local%20communities%20and%20organizations.%20Help.NGO%20member%20in%20the%20community%20of%20Santa%20Clara,%20Ucayali.%20Johnattan%20Rupire%20from%20OSM%20Peru%20taking%20pictures%20with%20a%20GoPro.jpg)
+
+*Help.NGO member presenting the work done to representatives of local communities and organizations. Help.NGO member in the community of Santa Clara, Ucayali. Johnattan Rupire from OSM Peru taking pictures with a GoPro.*
 
 These joint mapping actions are an example of how technology, collaboration and commitment can make a difference in the response to a humanitarian crisis. By combining the knowledge and skills of different actors, it has been possible to generate valuable information that will contribute to the recovery of the affected territories and the construction of a more sustainable future. We hope that these joint actions will be repeated in the future, as it allows us to provide more precise help to the communities in emergency situations that we serve.
 
