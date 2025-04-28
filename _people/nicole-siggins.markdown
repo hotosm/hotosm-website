@@ -3,7 +3,7 @@ title: Nicole Siggins
 date: 2022-05-26 08:57:00 Z
 Photo: https://cdn.hotosm.org/website/IMG_1718(1).jpg
 Member Type:
-  Is Staff: true
+  Is Staff: false
   Is Voting Member: true
 Job Title: Tech Lead for Partner Engagement
 Country: Germany, Hamburg
