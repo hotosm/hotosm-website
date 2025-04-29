@@ -52,7 +52,7 @@ In this way, it was possible to help various organizations and the state and cit
 
 ## **Ucayali, Peru**
 
-![Forest fires in San Francisco, Ucayali, Peru. Drone mapping images from Help.NGO..jpg](/uploads/Forest%20fires%20in%20San%20Francisco,%20Ucayali,%20Peru.%20Drone%20mapping%20images%20from%20Help.NGO/jpg)
+![Forest_fires_in_SanFrancisco_Ucaya.jpg](/uploads/Forest_fires_in_SanFrancisco_Ucaya.jpg)
 
 *Forest fires in San Francisco, Ucayali, Peru. Drone mapping images from Help.NGO.*
 
