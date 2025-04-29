@@ -14,6 +14,8 @@ Country:
 - Bolivia
 - Colombia
 - Guatemala
+Impact Area:
+- Disasters & Climate Resilience
 Person:
 - Karla Picado
 Partner:
