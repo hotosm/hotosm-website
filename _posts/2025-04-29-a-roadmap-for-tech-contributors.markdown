@@ -1,7 +1,6 @@
 ---
 title: I Joined HOT, Now What? A Roadmap for Tech Contributors
-date: 2025-04-17 16:17:00 Z
-published: false
+date: 2025-04-29 16:17:00 Z
 Feature Image: "/uploads/3-0b24a9.jpg"
 Person:
 - Sam Woodcock
