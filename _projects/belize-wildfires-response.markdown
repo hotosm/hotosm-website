@@ -6,7 +6,7 @@ Project Summary Text: Belize is grappling with wildfires that have destroyed ove
   eight million dollars in damages, particularly in the Cayo and Toledo Districts.
   In response, the Open Mapping Hub in Latin America and the Caribbean is working
   with CDEMA to support recovery, assess data needs, and enhance future preparedness.
-Feature Image: "/uploads/Belize%20Wildfires%20Photo%20Channel%205%20Belize.jpg"
+Feature Image: "/uploads/Central_American_Wildfires_Continue_(MODIS_2024-05-27).jpg"
 Country:
 - Belize
 Impact Area:
@@ -36,3 +36,15 @@ Tools:
 Belize is grappling with unprecedented wildfires that have destroyed over 10,000 hectares of agricultural land, affected more than 200 families, and caused over eight million US dollars in damages¹. The fires, fueled by extreme drought and rising temperatures, have devastated wildlife habitats and threatened communities, particularly in the Cayo and Toledo Districts. The National Emergency Management Organization (NEMO) reported severe impacts in villages like San Pedro Columbia and Crique Jute. In response, the Open Mapping Hub in Latin America and the Caribbean has launched efforts to support recovery, working with local partners to assess data needs and enhance future preparedness.
 
 ¹Based on [Caribbean Disaster Emergency Management Agency's ](https://www.cdema.org/) [situation report](https://www.cdema.org/images/2024/05/CDEMA%20Sitrep%201-Belize%20Wild%20Fires.pdf).
+
+
+<br>
+
+<div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+    <span>
+        Date: Taken on 24 May 2024 | 
+        Source: <a href="https://commons.wikimedia.org/wiki/File:Central_American_Wildfires_Continue_(MODIS_2024-05-27).jpg">Central American Wildfires Continue</a> | 
+        Author: MODIS Land Rapid Response Team, NASA GSFC | 
+        Description: On May 24, the Moderate Resolution Imaging Spectroradiometer (MODIS) acquired a true-color image of copious thick smoke over Mexico, Belize, Guatemala, El Salvador, and Honduras.
+    </span>
+</div>
