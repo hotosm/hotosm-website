@@ -22,7 +22,7 @@ Among other areas of expertise, Help.NGO subject matter experts leverage drone t
 
 ## Acapulco, Mexico
 
-## ![Captura de pantalla 2025-04-24 a la(s) 11.25.34 a.m..png](/uploads/Captura%20de%20pantalla%202025-04-24%20a%20la(s)%2011.25.34%E2%80%AFa.m/png)
+## ![OpenAerialMap Guerrero.jpg](/uploads/OpenAerialMap%20Guerrero.jpg)
 
 *Images contributed to OpenAerialMap.org in Acapulco, 2024. Explore them [here](https://map.openaerialmap.org/#/-99.88881111145018,16.87666858631898,13/square/02331022331033?_k=ycnf75).*
 
