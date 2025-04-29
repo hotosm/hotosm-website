@@ -1,5 +1,5 @@
 ---
-title: 'OpenAerialMap v2: Faster and Better Imagery Access for Humanitarian Mapping'
+title: 'OpenAerialMap v2: Faster, Better Imagery Access for Humanitarian Mapping'
 date: 2025-04-29 14:43:00 Z
 Summary Text: OpenAerialMap is evolving to provide faster, more reliable access to
   satellite and drone imagery for humanitarian mapping. With a new STAC-based infrastructure
