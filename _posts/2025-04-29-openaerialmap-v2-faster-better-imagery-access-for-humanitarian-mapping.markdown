@@ -1,5 +1,5 @@
 ---
-title: 'OpenAerialMap v2: Faster, Better Imagery Access for Humanitarian Mapping'
+title: 'OpenAerialMap v2: Faster and Better Imagery Access for Humanitarian Mapping'
 date: 2025-04-29 14:43:00 Z
 published: false
 Summary Text: OpenAerialMap is evolving to provide faster, more reliable access to
@@ -11,7 +11,9 @@ Feature Image: "/uploads/OAMv2Banner.jpg"
 Person: Cristiano Giovando
 ---
 
-High-resolution satellite and drone imagery is critical for effective humanitarian mapping. It allows us to see the situation on the ground, identify affected areas, plan responses, and monitor recovery efforts. Since 2015, the Humanitarian OpenStreetMap Team (HOT) has developed and maintained [OpenAerialMap](https://openaerialmap.org/) (OAM) as a critical platform for hosting, sharing, and accessing this vital imagery. A foundational principle of OAM is its commitment to open data. Every image available through OAM is openly licensed, ensuring it can be freely used and shared by anyone. This commitment is fundamental to the mission of organizations like HOT and the broader open mapping community, especially during disaster response, where rapid, unrestricted access is vital. From the Nepal Earthquake response in 2015 to recent tropical cyclones, the 2023 earthquake in Turkey and Syria, and the recent Myanmar earthquake response, OAM has been instrumental in quickly getting imagery into the hands of mappers.
+High-resolution satellite and drone imagery is critical for effective humanitarian mapping. It allows us to see the situation on the ground, identify affected areas, plan responses, and monitor recovery efforts. Since 2015, the Humanitarian OpenStreetMap Team (HOT) has developed and maintained [OpenAerialMap](https://openaerialmap.org/) (OAM) as a critical platform for hosting, sharing, and accessing this vital imagery. 
+
+A foundational principle of OAM is its commitment to open data. Every image available through OAM is openly licensed, ensuring it can be freely used and shared by anyone. This commitment is fundamental to the mission of organizations like HOT and the broader open mapping community, especially during disaster response, where rapid, unrestricted access is vital. From the Nepal Earthquake response in 2015 to recent tropical cyclones, the 2023 earthquake in Turkey and Syria, and the recent Myanmar earthquake response, OAM has been instrumental in quickly getting imagery into the hands of mappers.
 
 ![OAM Screenshot.jpg](/uploads/OAM%20Screenshot.jpg)
 *Example of drone imagery from central Monrovia uploaded to OpenAerialMap*
