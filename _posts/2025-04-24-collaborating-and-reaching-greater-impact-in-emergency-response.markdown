@@ -6,7 +6,7 @@ Summary Text: Help.NGO and HOT collaborated to strengthen emergency response eff
   forest fire assessments in Ucayali, their partnership accelerates access to critical
   post-disaster imagery. These joint actions enable rapid damage assessment, informed
   decision-making, and more effective humanitarian coordination.
-Feature Image: "/uploads/Forest%20fires%20in%20San%20Francisco,%20Ucayali,%20Peru.%20Drone%20mapping%20images%20from%20Help.NGO/jpg"
+Feature Image: "/uploads/Forest_fires_in_SanFrancisco_Ucaya.jpg"
 Person: Céline Jacquin
 Country:
 - Mexico
