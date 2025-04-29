@@ -28,7 +28,7 @@ Ante esta necesidad, herramientas accesibles como MapSwipe representan una oport
 
 En el siguiente [vídeo](https://youtu.be/mwRdtnfFcUw?si=moqY4pWgsUnlS_EC&t=66), colegas de Médicos Sin Fronteras, demuestran cómo utilizarlo de manera sencilla:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mwRdtnfFcUw?si=moqY4pWgsUnlS_EC&t=66" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/mwRdtnfFcUw?si=moqY4pWgsUnlS_EC&t=66" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## **MapSwipe: tecnología participativa frente a la pérdida de ecosistemas**
 
