@@ -22,7 +22,7 @@ Like in a natural ecosystem, this has become a reciprocal relationship. [In a re
 ### 2. Once you get a sense of what each of them does, <a href="https://docs.hotosm.org/become-a-contributor">our documentation page</a> lists some of the different approaches you can take:
 
 <ul>
-<li><b>Code:</b> We’ve identified <a href="https://github.com/search?q=org%3Ahotosm\+label%3A%22good\+first\+issue%22&type=issues">a list of potential good first issues</a> that you can tackle right now on our GitHub.</li>
+<li><b>Code:</b> We’ve identified <a href="https://github.com/search?q=org%3Ahotosm+label%3A%22good+first+issue%22&type=issues">a list of potential good first issues</a> that you can tackle right now on our GitHub.</li>
 <li><b>Test:</b> The main goal for backend tests is to increase code coverage (meaning the amount of code that is tested) and try to ensure that changes going forward do not break any existing functionality. On the other hand, the main goal for frontend tests is to test the application’s user interface (UI) and see if the entire workflow works from end-to-end (E2E). These are some automated tests that could be better implemented:
 <ul>
 <li>DroneTM needs a lot of work on its <a href="https://github.com/hotosm/drone-tm/tree/develop/src/backend/tests">backend tests</a>, and frontend E2E tests are yet to be implemented. The testing setup is modeled on that of FieldTM (using PyTest and Playwright as testing tools).</li>
