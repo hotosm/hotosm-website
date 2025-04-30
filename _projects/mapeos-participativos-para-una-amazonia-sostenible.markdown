@@ -28,10 +28,13 @@ Partner:
 Duration:
   Start Date: 2025-05-01 00:00:00 Z
 Tools:
-- tool: OpenStreetMap
-- link: Tasking Manager
-- link: 
-- link: 
+- OpenStreetMap
+- Tasking Manager
+- Mapillary
+- OSMAnd
+- Drone TM
+- ChatMap
+- UMap
 ---
 
 ## CONTEXTO
