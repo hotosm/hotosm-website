@@ -53,7 +53,6 @@ Like in a natural ecosystem, this has become a reciprocal relationship. [In a re
 <li>If you are feeling creative, creating video tutorials based on your experience would also be very helpful! Check out <a href="https://www.youtube.com/watch?v%3Dkibi_YJ6qXo%26ab_channel%3DHumanitarianOpenStreetMapTeam&sa=D&source=docs&ust=1744910170712658&usg=AOvVaw1Igyy3VOQc7rkbV80sDTK8">this example.</a></li>
 </ul>
 
-
-![2-e8a016.jpg](/uploads/2-e8a016.jpg)
+![HOTContributorsTechTeam.jpg](/uploads/HOTContributorsTechTeam.jpg)
 
 **So, did we convince you? Which step will you take first?** We would love to hear your story and get to know you more as you follow your journey as a HOT Tech Contributor. You can reach out to [tech-data@hotosm.org](mailto:tech-data@hotosm.org) or message us on Slack.
