@@ -1,6 +1,7 @@
 ---
 title: Raja Siregar
 date: 2024-01-04 10:18:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/foto+profil_P_Raja+Siregar-7a4b05.jpeg
 Member Type:
   Is Staff: true
