@@ -11,6 +11,8 @@ Feature Image: "/uploads/OAMv2Banner.jpg"
 Person: Cristiano Giovando
 ---
 
+**[English version](https://www.hotosm.org/updates/openaerialmap-v2/)**
+
 Las imágenes satelitales y de drones en alta resolución son fundamentales para el mapeo humanitario efectivo. Permiten visualizar la situación en terreno, identificar zonas afectadas, planificar respuestas y monitorear procesos de recuperación. Desde 2015, el Equipo Humanitario de OpenStreetMap (HOT) ha desarrollado y mantenido [OpenAerialMap](https://openaerialmap.org/) (OAM) como una plataforma clave para alojar, compartir y acceder a estas imágenes esenciales.
 
 Un principio fundamental de OAM es su compromiso con los datos abiertos. Todas las imágenes disponibles en OAM tienen licencias abiertas, lo que garantiza que puedan ser utilizadas y compartidas libremente por cualquier persona. Este compromiso es clave para la misión de organizaciones como HOT y la comunidad de mapeo abierto en general, especialmente en contextos de respuesta a desastres, donde el acceso rápido y sin restricciones es vital. Desde la respuesta al terremoto de Nepal en 2015 hasta los ciclones tropicales recientes, el terremoto de Turquía y Siria en 2023, y la respuesta al sismo en Myanmar, OAM ha sido fundamental para poner imágenes rápidamente en manos de las personas mapeadoras.
