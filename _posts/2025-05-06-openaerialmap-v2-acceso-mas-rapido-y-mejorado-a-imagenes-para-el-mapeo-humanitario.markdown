@@ -15,7 +15,7 @@ Las imágenes satelitales y de drones en alta resolución son fundamentales para
 
 Un principio fundamental de OAM es su compromiso con los datos abiertos. Todas las imágenes disponibles en OAM tienen licencias abiertas, lo que garantiza que puedan ser utilizadas y compartidas libremente por cualquier persona. Este compromiso es clave para la misión de organizaciones como HOT y la comunidad de mapeo abierto en general, especialmente en contextos de respuesta a desastres, donde el acceso rápido y sin restricciones es vital. Desde la respuesta al terremoto de Nepal en 2015 hasta los ciclones tropicales recientes, el terremoto de Turquía y Siria en 2023, y la respuesta al sismo en Myanmar, OAM ha sido fundamental para poner imágenes rápidamente en manos de las personas mapeadoras.
 
-!\[OAM Screenshot.jpg\](/uploads/OAM%20Screenshot.jpg)\
+![OAM Screenshot.jpg](/uploads/OAM%20Screenshot.jpg)\
 **Ejemplo de imágenes de dron de Monrovia central subidas a OpenAerialMap.**
 
 Sin embargo, encontrar las imágenes adecuadas y accesibles, y hacerlas fáciles de usar, sigue siendo un desafío. Los proyectos de mapeo, especialmente las respuestas rápidas coordinadas a través del [Tasking Manager de HOT](https://tasks.hotosm.org/), necesitan una manera fluida de evaluar las imágenes disponibles y acceder a ellas mediante servicios estándar de mapas por mosaicos (TMS).
@@ -42,7 +42,7 @@ Adoptar STAC ofrece ventajas significativas:
 
 Junto con la actualización del backend, reconstruiremos la interfaz del navegador de OAM. Aprovecharemos el [excelente trabajo de diseño del equipo de Kontur](https://www.kontur.io/blog/oam-redesign/) y bibliotecas abiertas de STAC y mapeo web.
 
-!\[OAM-prototype.png\](/uploads/OAM-prototype.png)\
+![OAM-prototype.png](/uploads/OAM-prototype.png)\
 **Prototipo de la nueva versión. Fuente: Kontur.**
 
 ## ¡Involúcrate y entérate más!
