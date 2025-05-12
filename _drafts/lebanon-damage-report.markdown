@@ -409,3 +409,212 @@ date: 2025-05-12 18:31:00 Z
 </div>
 </body>
 </html>
+
+
+<br>
+<br>
+<br>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overture Data Confidence Levels</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #chartContainer {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .footer {
+            text-align: center;
+            font-size: 0.8em;
+            color: #778899;
+            margin-top: 30px;
+        }
+        .legend {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin: 20px 0;
+            gap: 15px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+        }
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            margin-right: 8px;
+            border: 1px solid #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>Overture Data Confidence Levels by City</h1>
+    
+    <div id="chartContainer">
+        <canvas id="confidenceChart"></canvas>
+    </div>
+
+    <div class="legend">
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #FF6384;"></div>
+            <span>Null Confidence</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #FFCE56;"></div>
+            <span>Low Confidence (&lt;0.80)</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #36A2EB;"></div>
+            <span>Medium Confidence (0.81-0.90)</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #4BC0C0;"></div>
+            <span>High Confidence (0.91+)</span>
+        </div>
+    </div>
+
+<script>
+    const confidenceData = [
+        { 
+            city: 'Bint-Jbayl', 
+            total: 36730,
+            null: 19285,
+            low: 70,
+            medium: 573,
+            high: 16500
+        },
+        { 
+            city: 'Maarjyoun', 
+            total: 30889,
+            null: 13863,
+            low: 41,
+            medium: 438,
+            high: 16290
+        },
+        { 
+            city: 'Nabatiyeh', 
+            total: 53739,
+            null: 33032,
+            low: 74,
+            medium: 727,
+            high: 19547
+        },
+        { 
+            city: 'Sour', 
+            total: 70393,
+            null: 48332,
+            low: 57,
+            medium: 625,
+            high: 21090
+        }
+    ];
+
+    const ctx = document.getElementById('confidenceChart').getContext('2d');
+    const confidenceChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: confidenceData.map(item => item.city),
+            datasets: [
+                {
+                    label: 'Null Confidence',
+                    data: confidenceData.map(item => item.null),
+                    backgroundColor: '#FF6384',
+                    borderColor: '#D04664',
+                    borderWidth: 1
+                },
+                {
+                    label: 'Low Confidence (<0.80)',
+                    data: confidenceData.map(item => item.low),
+                    backgroundColor: '#FFCE56',
+                    borderColor: '#D9B04C',
+                    borderWidth: 1
+                },
+                {
+                    label: 'Medium Confidence (0.81-0.90)',
+                    data: confidenceData.map(item => item.medium),
+                    backgroundColor: '#36A2EB',
+                    borderColor: '#2D8BCD',
+                    borderWidth: 1
+                },
+                {
+                    label: 'High Confidence (0.91+)',
+                    data: confidenceData.map(item => item.high),
+                    backgroundColor: '#4BC0C0',
+                    borderColor: '#3DA8A8',
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Overture Data Quality by Confidence Level',
+                    font: { size: 16 }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            const label = context.dataset.label || '';
+                            const value = context.raw;
+                            const total = confidenceData[context.dataIndex].total;
+                            const percentage = Math.round((value / total) * 100);
+                            return `${label}: ${value.toLocaleString()} (${percentage}%)`;
+                        },
+                        afterLabel: function(context) {
+                            return `Total: ${confidenceData[context.dataIndex].total.toLocaleString()}`;
+                        }
+                    }
+                }
+            },
+            scales: {
+                y: {
+                    stacked: true,
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Number of Buildings',
+                        font: { size: 14 }
+                    },
+                    ticks: {
+                        callback: function(value) {
+                            return value.toLocaleString();
+                        }
+                    }
+                },
+                x: {
+                    stacked: true,
+                    title: {
+                        display: true,
+                        text: 'City',
+                        font: { size: 14 }
+                    }
+                }
+            },
+            interaction: {
+                intersect: false,
+                mode: 'index'
+            }
+        }
+    });
+</script>
+
+<div class="footer">
+    This visualization shows the confidence levels of Overture building data across cities in Southern Lebanon.
+    Confidence values indicate the reliability of each building detection in the dataset.
+</div>
+</body>
+</html>
