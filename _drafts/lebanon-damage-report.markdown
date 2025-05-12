@@ -618,3 +618,418 @@ date: 2025-05-12 18:31:00 Z
 </div>
 </body>
 </html>
+
+<br>
+<br>
+<br>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Overture Data Confidence Levels</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f8f9fa;
+        }
+        #chartContainer {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 5px;
+            font-weight: 500;
+        }
+        .subtitle {
+            text-align: center;
+            color: #666;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+        }
+        .footer {
+            text-align: center;
+            font-size: 0.8em;
+            color: #778899;
+            margin-top: 30px;
+            line-height: 1.4;
+        }
+        .legend {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin: 20px 0;
+            gap: 15px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            font-size: 0.85em;
+        }
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            margin-right: 6px;
+            border: 1px solid rgba(0,0,0,0.1);
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Overture Data Confidence Levels</h1>
+    <div class="subtitle">Southern Lebanon Cities</div>
+    
+    <div id="chartContainer">
+        <canvas id="confidenceChart"></canvas>
+    </div>
+
+    <div class="legend">
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #ffcdd2; border-color: #ef9a9a;"></div>
+            <span>Null Confidence</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #ffe0b2; border-color: #ffcc80;"></div>
+            <span>Low/Medium Confidence (&lt;0.91)</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #c8e6c9; border-color: #a5d6a7;"></div>
+            <span>High Confidence (0.91+)</span>
+        </div>
+    </div>
+
+<script>
+    const confidenceData = [
+        { 
+            city: 'Bint-Jbayl', 
+            total: 36730,
+            null: 19285,
+            low_medium: 643,
+            high: 16500
+        },
+        { 
+            city: 'Maarjyoun', 
+            total: 30889,
+            null: 13863,
+            low_medium: 479,
+            high: 16290
+        },
+        { 
+            city: 'Nabatiyeh', 
+            total: 53739,
+            null: 33032,
+            low_medium: 801,
+            high: 19547
+        },
+        { 
+            city: 'Sour', 
+            total: 70393,
+            null: 48332,
+            low_medium: 682,
+            high: 21090
+        }
+    ];
+
+    const ctx = document.getElementById('confidenceChart').getContext('2d');
+    const confidenceChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: confidenceData.map(item => item.city),
+            datasets: [
+                {
+                    label: 'Null Confidence',
+                    data: confidenceData.map(item => item.null),
+                    backgroundColor: 'rgba(255, 205, 210, 0.8)',
+                    borderColor: 'rgba(239, 154, 154, 0.8)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'Low/Medium Confidence (<0.91)',
+                    data: confidenceData.map(item => item.low_medium),
+                    backgroundColor: 'rgba(255, 224, 178, 0.8)',
+                    borderColor: 'rgba(255, 204, 128, 0.8)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'High Confidence (0.91+)',
+                    data: confidenceData.map(item => item.high),
+                    backgroundColor: 'rgba(200, 230, 201, 0.8)',
+                    borderColor: 'rgba(165, 214, 167, 0.8)',
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: false
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            const label = context.dataset.label || '';
+                            const value = context.raw;
+                            const total = confidenceData[context.dataIndex].total;
+                            const percentage = Math.round((value / total) * 100);
+                            return `${label}: ${value.toLocaleString()} (${percentage}%)`;
+                        },
+                        afterLabel: function(context) {
+                            return `Total: ${confidenceData[context.dataIndex].total.toLocaleString()}`;
+                        }
+                    }
+                },
+                legend: {
+                    display: false
+                }
+            },
+            scales: {
+                y: {
+                    stacked: true,
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Number of Buildings',
+                        font: { size: 12, color: '#555' }
+                    },
+                    ticks: {
+                        callback: function(value) {
+                            return value.toLocaleString();
+                        },
+                        font: { color: '#666' }
+                    },
+                    grid: {
+                        color: 'rgba(0,0,0,0.05)'
+                    }
+                },
+                x: {
+                    stacked: true,
+                    title: {
+                        display: true,
+                        text: 'City',
+                        font: { size: 12, color: '#555' }
+                    },
+                    grid: {
+                        display: false
+                    },
+                    ticks: {
+                        font: { color: '#666' }
+                    }
+                }
+            },
+            interaction: {
+                intersect: false,
+                mode: 'index'
+            }
+        }
+    });
+</script>
+
+<div class="footer">
+    This visualization shows the confidence levels of Overture building data across cities in Southern Lebanon.<br>
+    Color progression from left (null confidence) to right (high confidence) indicates improving data quality.
+</div>
+</body>
+</html>
+
+
+
+<br>
+<br>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OSM Building Completeness Analysis</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f8f9fa;
+        }
+        .chart-container {
+            max-width: 900px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 5px;
+            font-weight: 500;
+        }
+        .footer {
+            text-align: center;
+            font-size: 0.8em;
+            color: #778899;
+            margin-top: 30px;
+            line-height: 1.4;
+        }
+        .legend {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin: 20px 0;
+            gap: 15px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            font-size: 0.85em;
+        }
+        .legend-color {
+            width: 16px;
+            height: 16px;
+            margin-right: 6px;
+            border: 1px solid rgba(0,0,0,0.1);
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <h1>OSM Building Completeness Analysis</h1>
+    
+    <div class="chart-container">
+        <canvas id="countChart"></canvas>
+    </div>
+    
+    <div class="chart-container">
+        <canvas id="completenessChart"></canvas>
+    </div>
+
+    <div class="footer">
+        Comparison of OSM building data against AI estimates in Southern Lebanon.<br>
+        Completeness 2 percentage measures how thoroughly buildings are mapped in OSM.
+    </div>
+
+<script>
+    // Data for both charts
+    const cityData = [
+        { city: 'Bint-Jbayl', osmCount: 48470, aiCount: 49026, completeness: 98.87 },
+        { city: 'Maarjyoun', osmCount: 39462, aiCount: 40460, completeness: 97.53 },
+        { city: 'Nabatiyeh', osmCount: 78388, aiCount: 80363, completeness: 97.54 },
+        { city: 'Sour', osmCount: 87344, aiCount: 88929, completeness: 98.22 }
+    ];
+
+    // 1. Building Count Comparison Chart
+    const countCtx = document.getElementById('countChart').getContext('2d');
+    new Chart(countCtx, {
+        type: 'bar',
+        data: {
+            labels: cityData.map(item => item.city),
+            datasets: [
+                {
+                    label: 'OSM Buildings',
+                    data: cityData.map(item => item.osmCount),
+                    backgroundColor: 'rgba(100, 181, 246, 0.7)',
+                    borderColor: 'rgba(66, 165, 245, 0.8)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'AI Estimated Buildings',
+                    data: cityData.map(item => item.aiCount),
+                    backgroundColor: 'rgba(255, 213, 79, 0.7)',
+                    borderColor: 'rgba(255, 202, 40, 0.8)',
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Building Count Comparison',
+                    font: { size: 16 }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return `${context.dataset.label}: ${context.raw.toLocaleString()}`;
+                        }
+                    }
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Number of Buildings'
+                    },
+                    ticks: {
+                        callback: function(value) {
+                            return value.toLocaleString();
+                        }
+                    }
+                }
+            }
+        }
+    });
+
+    // 2. Completeness Percentage Chart
+    const compCtx = document.getElementById('completenessChart').getContext('2d');
+    new Chart(compCtx, {
+        type: 'bar',
+        data: {
+            labels: cityData.map(item => item.city),
+            datasets: [
+                {
+                    label: 'Completeness 2 (%)',
+                    data: cityData.map(item => item.completeness),
+                    backgroundColor: 'rgba(129, 199, 132, 0.7)',
+                    borderColor: 'rgba(102, 187, 106, 0.8)',
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'OSM Completeness 2 Percentage',
+                    font: { size: 16 }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return `${context.dataset.label}: ${context.raw.toFixed(2)}%`;
+                        }
+                    }
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: false,
+                    min: 97,
+                    max: 100,
+                    title: {
+                        display: true,
+                        text: 'Percentage (%)'
+                    },
+                    ticks: {
+                        callback: function(value) {
+                            return value + '%';
+                        }
+                    }
+                }
+            }
+        }
+    });
+</script>
+</body>
+</html>
