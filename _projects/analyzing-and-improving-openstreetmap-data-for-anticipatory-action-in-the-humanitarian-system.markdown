@@ -21,7 +21,7 @@ Impact Area:
 - Disasters & Climate Resilience
 Person:
 - Jessica Pechmann
-- Claudio de los Reyes
+- Claudio de los Reyes Teran
 - Kshitij Sharma
 - Emilio Mariscal
 Partner:

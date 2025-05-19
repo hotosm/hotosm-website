@@ -11,7 +11,7 @@ Impact Area:
 Person:
 - Russell Deffner
 - Antoni Ros Martinez
-- Claudio de los Reyes
+- Claudio de los Reyes Teran
 - Ralph Aytoun
 - Sophie Mower
 - Sam Colchester
