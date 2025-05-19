@@ -10,7 +10,7 @@ Feature Image: https://cdn.hotosm.org/website/TSEQ_Data_Use_1.png
 Is image top aligned: true
 Person:
 - Jessica Pechmann
-- Claudio de los Reyes
+- Claudio de los Reyes Teran
 Country:
 - Turkey
 - Syria

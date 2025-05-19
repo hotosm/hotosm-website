@@ -16,7 +16,7 @@ Summary Text: 'For over 15 years, the Humanitarian OpenStreetMap Team (HOT) has 
 Feature Image: "/uploads/pmtiles-viewer-example.png"
 Person:
 - Kshitij Sharma
-- Claudio de los Reyes
+- Claudio de los Reyes Teran
 ---
 
 > The [OpenStreetMap Export Tool](https://export.hotosm.org/v3/), is a simple tool that allows you to download updated geospatial data for use in your planning and management efforts. Here you will find a [brief usage guide](https://export.hotosm.org/v3/learn/quick_start).
