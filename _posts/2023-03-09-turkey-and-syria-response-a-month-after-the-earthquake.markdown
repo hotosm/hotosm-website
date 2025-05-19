@@ -7,7 +7,7 @@ Feature Image: https://cdn.hotosm.org/website/Hatay_Antakya_Center_After_Earthqu
 Is image top aligned: true
 Person:
 - Pete Masters
-- Claudio de los Reyes
+- Claudio de los Reyes Teran
 Country:
 - Syria
 - Turkey
