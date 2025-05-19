@@ -9,7 +9,7 @@ Is image top aligned: true
 Person:
 - Russell Deffner
 - Antoni Ros Martinez
-- Claudio de los Reyes
+- Claudio de los Reyes Teran
 Project:
 - HOT COVID-19 RESPONSE
 ---

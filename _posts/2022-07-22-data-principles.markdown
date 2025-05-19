@@ -7,7 +7,7 @@ Person:
 - Paul Uithol
 - Jessica Pechmann
 - Shazmane Mandjee Rehamtula
-- Claudio de los Reyes
+- Claudio de los Reyes Teran
 - Leen D'hondt
 ---
 
