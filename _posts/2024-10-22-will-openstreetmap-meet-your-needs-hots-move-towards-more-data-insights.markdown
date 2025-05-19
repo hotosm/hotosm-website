@@ -11,7 +11,7 @@ Summary Text: 'In the spirit of <a href="https://en.wikipedia.org/wiki/FAIR_data
 Feature Image: "/uploads/fair-fmtm-monrovia-osm-footprints.jpg.jpg"
 Person:
 - Jessica Pechmann
-- Claudio de los Reyes
+- Claudio de los Reyes Teran
 Country:
 - Ethiopia
 - Mozambique
