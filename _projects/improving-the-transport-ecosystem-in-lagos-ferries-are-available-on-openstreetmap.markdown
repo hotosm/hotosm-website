@@ -1,7 +1,6 @@
 ---
 title: 'Improving the transport ecosystem in Lagos: Ferries are available on OpenStreetMap!'
 date: 2025-05-21 19:37:00 Z
-published: false
 tags:
 - opencities
 - ferry
