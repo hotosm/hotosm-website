@@ -1,6 +1,10 @@
 ---
 title: 'Improving the transport ecosystem in Lagos: Ferries are available on OpenStreetMap!'
 date: 2025-05-21 19:37:00 Z
+tags:
+- opencities
+- ferry
+- ferrydata
 Project Summary Text: Lagos is home to approximately 21 million people, who grapple
   with congested road networks daily. Yet the city’s defining feature, its intricate
   network of rivers and creeks, is largely untapped by most commuters. Stears Open
@@ -13,17 +17,17 @@ Country:
 Impact Area:
 - Sustainable Cities & Communities
 Person:
-- Melodee Okigbo
 - Omowonuola Akintola
-- Mariana Marín
 Partner:
 - Stears Open Data
 - OSM Community Nigeria
 Duration:
   Start Date: 2025-04-30 00:00:00 Z
   End Date: 2025-05-15 00:00:00 Z
-project_extent: Lagos, Nigeria
-'Coordination:': Omowonuola Akintola
+Data:
+- Key: 
+Tools:
+- Key: 
 ---
 
 Roads and highways account for more than 90% of transportation across the country, with water transport making up less than 1% in a city defined by its islands and peninsulas. Like most urban cities, Lagos struggles with congestion and increased air pollution due to this. Ferries however make for a compelling solution, with the ability to save time by moving a large number of passengers across water with minimal emissions. The city has already begun to integrate boats into its transportation ecosystem with formal modes like the LagFerry and more informal routes, operated by private individuals.Yet most informal operators lack any digital presence, and even Lagos’s LagFerry service is difficult to plan around without accurate, public data.
@@ -32,7 +36,7 @@ When [Stears Open Data](https://www.stears.co/open-data/home/) produced [the fir
 
 > “OpenStreetMap was an ideal data publishing partner because of our shared mission to make important information freely available to the public. They serve tens of millions of registered users around the world, many of whom rely on OpenStreetMap for public transportation data and routing > information. We also respect their commitment to expanding data coverage of Africa and building a network of contributors here.”
 
-Hannah Kates,  Head of Open Data at Stears.
+> *Hannah Kates,  Head of Open Data at Stears.*
 
 ![PXL_20250506_100059365 (1).jpg](/uploads/PXL_20250506_100059365%20(1).jpg)
 
@@ -52,15 +56,15 @@ This session also presented the local OSM trainers  with an opportunity to impro
 
 > “The most impactful moment was when we visualized the cleaned ferry transport data in QGIS. Seeing how previously undocumented ferry terminals suddenly appeared in context with surrounding infrastructure made the team realize the data's potential to improve transportation planning and accessibility. The realization that this data would now be accessible globally via OSM — helping commuters, planners, and even emergency services — reinforced the real-world value of our contributions.”
 
-*Mercy Akintola, OSM Nigeria Contributor*
+> *Mercy Akintola, OSM Nigeria Contributor*
 
 > “Some challenges would be in the context of the tagging of the data to OpenStreetMap Tags, specifically for the routes. Getting to find tags that would match the information given and not go against the OSM tagging guidelines took quite some brainstorming, however, we were able to get through it…by breaking into two groups for the data import upload, where some focused on the jetties , and some focused on the routes for cleaning, tagging, and uploading,”
 
-*Odulana Oluwatoyin, OSM Nigeria Contributor*
+> *Odulana Oluwatoyin, OSM Nigeria Contributor*
 
 > “Beyond this project, I believe this data will serve as a foundation for future data collection on water transport in Lagos. The availability of this data provides a basis for research to identify areas for improvement, gaps in the transportation system and inform and drive policy decisions. It could spur innovations, such as mobile apps designed for real-time ferry tracking and attract investments. Also, this data could be the impetus for taking the mapping of waterways seriously in the country and across Africa.”
 
-*Israel Bankole, OSM Nigeria Contributor*
+> *Israel Bankole, OSM Nigeria Contributor*
 
 By the end of the session, 88 active ferry ports were added to OSM, each with information on facility types, quality, and ownership. Also, 66 routes were included, detailing the number of stops, duration, costs, boat types, and much more. Publishing  this data not only strengthens humanitarian response in the region, but can help inform data-driven urban planning, making for faster, greener commutes across the megacity, and perhaps even sparking similar mapping efforts of underrepresented transportation routes that could be used for humanitarian response, across Africa as a whole.
 
