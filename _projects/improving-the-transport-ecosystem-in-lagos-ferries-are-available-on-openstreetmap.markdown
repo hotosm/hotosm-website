@@ -38,7 +38,7 @@ Roads and highways account for more than 90% of transportation across the countr
 ### How Open Data Helps
 When [Stears Open Data](https://www.stears.co/open-data/home/) produced [the first comprehensive and interactive  map of ferry locations and routes for Lagos](https://www.stears.co/open-data/lagos-ferries/map.html), Nigeria, their goal was to make the information available to as many people as possible increasing awareness and usage of water transportation. Recognizing the value of contributing to open platforms like OpenStreetMap created a strong foundation for a collaboration with the Humanitarian OpenStreetMap Team (HOT). This led to a joint effort to support a data import process and advance the broader open data ecosystem.
 
-> “OpenStreetMap was an ideal data publishing partner because of our shared mission to make important information freely available to the public. They serve tens of millions of registered users around the world, many of whom rely on OpenStreetMap for public transportation data and routing > information. We also respect their commitment to expanding data coverage of Africa and building a network of contributors here.”
+> “OpenStreetMap was an ideal data publishing partner because of our shared mission to make important information freely available to the public. They serve tens of millions of registered users around the world, many of whom rely on OpenStreetMap for public transportation data and routing information. We also respect their commitment to expanding data coverage of Africa and building a network of contributors here.”
 
 > *Hannah Kates,  Head of Open Data at Stears.*
 
