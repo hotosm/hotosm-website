@@ -46,7 +46,7 @@ On the other hand, radar imagery automatically detects damage from multiple angl
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/insar-process.png" alt="InSAR Damage Analysis" style="width: 75%; height: auto;">
+    <img src="/uploads/damage-sudan-v1.3.png" alt="InSAR Damage Analysis" style="width: 65%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         Image showing the process for InSAR damage analysis. Inspired by: Damage analysis of Copernicus Sentinel-1 satellite data by Corey Scher of CUNY Graduate Center and Jamon Van Den Hoek of Oregon State University.
     </div>
@@ -61,7 +61,7 @@ Following a four-year gap in coverage over Sudan, [the European Space Agency's S
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/sentinel1c-pass.png" alt="Sentinel-1C Path" style="width: 75%; height: auto;">
+    <img src="/uploads/sentinel-color.png" alt="Sentinel-1C Path" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         Image showing the path Sentinel-1C in April and May – red showing where it will capture imagery on Apr 30, 2025
     </div>
@@ -91,7 +91,7 @@ The [internal displacement patterns](https://www.unocha.org/publications/report/
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/sudan-idp-map.png" alt="Sudan Displacement Map" style="width: 75%; height: auto;">
+    <img src="/uploads/11%20March%202025,%20ACLED%20&%20IDPs.png" alt="Sudan Displacement Map" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         Map courtesy of Kayne Coy, University College Cork
     </div>
