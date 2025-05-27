@@ -21,72 +21,91 @@ Project:
 - Geospatial Data for Humanitarian Response in Sudan Conflict
 ---
 
-## Optical and Radar Imagery: Two Sides of the Same Coin
+## OpenStreetMap Contributors Needed to Map Khartoum Ahead of New Radar Satellite Imagery
 
-In inaccessible conflict zones like Sudan, remote sensing through satellite imagery is a key tool for damage assessment. **OSM building footprints**, often derived from **optical imagery**, serve as the baseline for identifying urban areas before conflict. However, optical imagery alone can miss subtle or obstructed damage.
-
-**Radar imagery**, like that from Sentinel-1C, provides another dimension. Radar can detect surface changes from multiple angles and reveal structural damage not visible in optical images. Analysts compare radar images over time to determine the scale and distribution of damage across cities and neighborhoods.
-
-<br>
-<div style="text-align: center;">
-    <img src="/uploads/insar-process.png" alt="InSAR damage analysis process" style="width: 75%; height: auto;">
-    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        <span>InSAR process for detecting damage using radar backscatter differences over time</span>
-    </div>
-</div>
-<br>
-
-## New Satellite Insights: The Sentinel-1C Opportunity
-
-The launch of **Sentinel-1C in December 2024** is a major breakthrough. It fills a four-year radar data gap over Sudan. The satellite will capture key conflict-affected areas like **Khartoum** and **Al-Fashir** in **April and May 2025** — providing a chance to compare current conditions with pre-conflict baselines using **Synthetic Aperture Radar (SAR)**.
-
-<br>
-<div style="text-align: center;">
-    <img src="/uploads/diagram-optical-insar-v2.png" alt="Sentinel-1C path over Sudan" style="width: 75%; height: auto;">
-    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        <span>Sentinel-1C coverage over Sudan in April–May 2025 (red areas show Apr 30 pass)</span>
-    </div>
-</div>
-<br>
-
-## The Critical Role of Building Footprints
-
-With new radar imagery incoming, it is **urgent** that **OSM building footprints** are accurate and complete. This data plays a critical role not just in **damage assessment**, but also in **humanitarian planning**:
-
-* Establishes pre-conflict baselines
-* Enables systematic change detection
-* Informs population estimates
-* Supports aid delivery and recovery logistics
-
-Mapping buildings now ensures we can analyze satellite data effectively — and respond to needs on the ground with greater precision.
-
-## Why This Data Is So Urgently Needed
-
-Since April 2023, Sudan has faced devastating violence between the **Sudanese Armed Forces (SAF)** and **Rapid Support Forces (RSF)**. The result:
-
-* Over **14 million people** displaced by late 2024
-* At least **24,000 deaths** reported
-* Nearly **9,000 conflict incidents**, over half in Khartoum
-* **1.77 million IDPs** in **Darfur** alone
-
-<br>
-<div style="text-align: center;">
-    <img src="/uploads/sudan-idp-map.png" alt="Displacement across Sudan" style="width: 75%; height: auto;">
-    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
-        <span>Displacement in Sudan (Map courtesy of Kayne Coy, University College Cork)</span>
-    </div>
-</div>
-<br>
-
-## Call to Action – Mappers Needed!
-
-The Humanitarian OpenStreetMap Team (HOT) is launching a campaign to **digitize buildings in urban centers of Sudan**, including **Khartoum** and **Al-Fashir**. Your contribution will help researchers detect damage, and help humanitarian actors plan recovery efforts based on up-to-date, open data.
-
-🔗 **Map today!** Visit the [HOT Tasking Manager](https://tasks.hotosm.org/explore?campaign=Sudan%20Urban%20Mapping%202025&omitMapResults=1) to find a project.
-
-This initiative is part of HOT’s **Conflict & Displacement Program**.
-To learn more, visit [hotosm.org/programs/conflict-displacement](https://www.hotosm.org/programs/conflict-displacement) or contact us at 📧 [data@hotosm.org](mailto:data@hotosm.org).
+Over the last two years, the conflict in Sudan has driven the country to become the largest humanitarian crisis in the world. Gaps in satellite radar coverage have led to large gaps in understanding damage to urban areas. Fortunately, the European Space Agency’s recent launch of Sentinel-1C will fill that gap of radar data, but for a full damage analysis to be conducted, a comprehensive building footprint dataset from OSM is needed.
 
 ---
 
-Let me know if you'd like me to embed this into HTML or tailor it for another platform!
+## Two Sides of the Same Coin: Optical and Radar Imagery for Damage Analysis
+
+Since our ability to understand and respond to crises in hard-to-reach areas like Sudan depends heavily on earth observation capabilities, primarily through remote sensing technologies due to security constraints on the ground, having updated, appropriate imagery becomes paramount to our work. On one hand, OSM building footprints are derived from optical imagery, and on the other, change detection layers are commonly derived from radar imagery.
+
+In order to identify the impact that a region has sustained during conflict, damage researchers need a pre-conflict baseline from which to base change detection on. In this case, **OSM building footprints that have been digitized using optical satellite imagery**, pre-conflict, are used to determine urbanized areas and as a geographical (spatial) filter. However, optical imagery by itself is not always a good measure of damage, as details can be concealed from the original imagery due to the angle or resolution.
+
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/diagram-optical-insar-v2.png" alt="Optical vs Radar Imagery" style="width: 65%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+        Inspired by fig 1 on Plank, Simon. 2014. "Rapid Damage Assessment by Means of Multi-Temporal SAR — A Comprehensive Review and Outlook to Sentinel-1" <i>Remote Sensing</i> 6, no. 6: 4870–4906. https://doi.org/10.3390/rs6064870
+    </div>
+</div>
+<br>
+
+On the other hand, radar imagery automatically detects damage from multiple angles. By registering different types of surfaces through different amounts of scattering, it is able to register if a building has been damaged. Radar images can be compared across time periods to determine the evolution of damage in a conflict area. However, this means that up-to-date radar imagery is crucial to provide informed damage analyses that reflect the current situation on the ground.
+
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/insar-process.png" alt="InSAR Damage Analysis" style="width: 75%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+        Image showing the process for InSAR damage analysis. Inspired by: Damage analysis of Copernicus Sentinel-1 satellite data by Corey Scher of CUNY Graduate Center and Jamon Van Den Hoek of Oregon State University.
+    </div>
+</div>
+<br>
+
+---
+
+## New Satellite Insights: The Sentinel-1C Opportunity
+
+Following a four-year gap in coverage over Sudan, [the European Space Agency's Sentinel-1C satellite](https://sentinels.copernicus.eu/web/sentinel/copernicus/sentinel-1) with radar sensing was successfully launched in December 2024. [Sentinel-1C will pass over key conflict-affected areas](https://sentinels.copernicus.eu/web/sentinel/copernicus/sentinel-1/acquisition-plans) including Khartoum and Al-Fashir in April and May 2025. [This timing is crucial](https://dataspace.copernicus.eu/news/2025-3-25-sentinel-1c-user-data-opening-26th-march) as it allows for comparison between pre-conflict and current conditions using Synthetic Aperture Radar (SAR) data. **Now, for the first time since the war started, researchers will be able to detect the impact of the conflict on communities at scale.**
+
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/sentinel1c-pass.png" alt="Sentinel-1C Path" style="width: 75%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+        Image showing the path Sentinel-1C in April and May – red showing where it will capture imagery on Apr 30, 2025
+    </div>
+</div>
+<br>
+
+---
+
+## The Critical Importance of Building Footprints
+
+Now that new radar imagery from Sentinel-1C will be used to update conflict damage change layers, it is important that building footprints are also up-to-date and accurate. Beyond being part of damage assessments, this data is also the foundation for humanitarian response and recovery planning. Mapping (digitizing) buildings is particularly crucial for several reasons:
+
+1. Establishes baseline data for comparison with post-conflict imagery
+2. Enables systematic damage assessment through change detection techniques
+3. Helps humanitarian organizations estimate population distribution and needs
+4. Supports planning for aid delivery, reconstruction, and service restoration
+
+---
+
+## Why is this Data Needed So Urgently?
+
+The Sudanese conflict that started in 2023 has evolved into one of the world's most severe humanitarian crises, with impacts that continue to devastate communities across the country. Since fighting erupted between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF) in April 2023, Sudan has faced unprecedented challenges, becoming the country with the largest number of displaced people globally – [with over 14 million people uprooted from their homes as of late 2024](https://www.aljazeera.com/news/2024/11/14/visualising-the-war-in-sudan-conflict-control-and-displacement).
+
+At least 24,000 people have been reported killed in the conflict in Sudan, though the actual death toll is likely much higher when accounting for indirect deaths. According to the [Armed Conflict Location and Event Data Project (ACLED)](https://acleddata.com/explorer/), nearly 9,000 attacks were recorded between April 2023 and October 2024, with more than half occurring in [Khartoum (54%), followed by Gezira State (12%) and North Darfur (9%)](https://www.aljazeera.com/news/2024/11/14/visualising-the-war-in-sudan-conflict-control-and-displacement).
+
+The [internal displacement patterns](https://www.unocha.org/publications/report/sudan/sudan-humanitarian-update-2-november-2023) are similarly alarming. By November 2023, an estimated 5.8 million people had been displaced within and outside Sudan, with approximately 4.63 million internally displaced across all 18 states. In Darfur alone, about 1.77 million internally displaced persons (IDPs) were recorded.
+
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/sudan-idp-map.png" alt="Sudan Displacement Map" style="width: 75%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+        Map courtesy of Kayne Coy, University College Cork
+    </div>
+</div>
+<br>
+
+---
+
+## Call to Action – OSM Mappers Needed!
+
+HOT is coordinating a campaign to map buildings in key urban areas of Sudan in preparation for remote damage analyses once Sentinel-1C fully covers Sudan. By creating open access geospatial data, HOT ensures that humanitarian organizations, researchers, and policymakers can make evidence-based decisions in their response efforts.
+
+**Map today!** Visit the HOT Tasking Manager and look for projects in Khartoum or Al-Fashir or visit this [link](https://tasks.hotosm.org/explore?campaign=H2H+Mapping+for+Sudan+2024&omitMapResults=1).
+
+**This project is part of HOT’s Conflict & Displacement Program. To learn more visit our website: [hotosm.org/programs/conflict-displacement](http://hotosm.org/programs/conflict-displacement) or email us at [data@hotosm.org](mailto:data@hotosm.org)**
+
+---
