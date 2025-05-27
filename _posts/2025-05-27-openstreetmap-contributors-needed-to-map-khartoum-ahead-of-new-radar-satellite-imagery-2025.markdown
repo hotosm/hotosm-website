@@ -2,7 +2,6 @@
 title: OpenStreetMap Contributors Needed to Map Khartoum ahead of new Radar Satellite
   Imagery
 date: 2025-05-27 18:35:00 Z
-published: false
 Summary Text: Over the past two years, conflict in Sudan has driven the country into
   one of the world’s largest humanitarian crises. Satellite radar coverage gaps have
   hindered efforts to assess damage to urban areas. With the launch of the Sentinel-1C
