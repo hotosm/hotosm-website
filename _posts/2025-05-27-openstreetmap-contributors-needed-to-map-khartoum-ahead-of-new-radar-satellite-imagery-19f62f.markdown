@@ -40,7 +40,7 @@ The launch of **Sentinel-1C in December 2024** is a major breakthrough. It fills
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/sentinel1c-path.png" alt="Sentinel-1C path over Sudan" style="width: 75%; height: auto;">
+    <img src="/uploads/diagram-optical-insar-v2.png" alt="Sentinel-1C path over Sudan" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         <span>Sentinel-1C coverage over Sudan in April–May 2025 (red areas show Apr 30 pass)</span>
     </div>
