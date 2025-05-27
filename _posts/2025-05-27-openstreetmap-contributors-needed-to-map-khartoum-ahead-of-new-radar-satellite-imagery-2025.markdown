@@ -1,5 +1,5 @@
 ---
-title: OpenStreetMap Contributors Needed to Map Khartoum ahead of new Radar Satellite
+title: OpenStreetMap Contributors Needed to Map Khartoum ahead of New Radar Satellite
   Imagery
 date: 2025-05-27 18:35:00 Z
 Summary Text: Over the past two years, conflict in Sudan has driven the country into
