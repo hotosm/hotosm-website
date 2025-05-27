@@ -5,9 +5,9 @@ date: 2025-05-27 18:35:00 Z
 published: false
 Summary Text: Over the past two years, conflict in Sudan has driven the country into
   one of the world’s largest humanitarian crises. Satellite radar coverage gaps have
-  hindered efforts to assess damage to urban areas. With the launch of the **Sentinel-1C**
+  hindered efforts to assess damage to urban areas. With the launch of the Sentinel-1C
   radar satellite by the European Space Agency, that gap is beginning to close — but
-  a **comprehensive dataset of building footprints from OpenStreetMap (OSM)** is essential
+  a comprehensive dataset of building footprints from OpenStreetMap (OSM) is essential
   to make this satellite data actionable.
 Feature Image: "/uploads/khartoum-banner.png"
 Is image top aligned: true
@@ -17,6 +17,8 @@ Person:
 - Raiza Pilatowsky Gruner
 Country:
 - Sudan
+Project:
+- Geospatial Data for Humanitarian Response in Sudan Conflict
 ---
 
 ## Optical and Radar Imagery: Two Sides of the Same Coin
