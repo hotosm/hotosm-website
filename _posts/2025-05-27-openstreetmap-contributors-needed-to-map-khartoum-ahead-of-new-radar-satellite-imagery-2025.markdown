@@ -20,12 +20,6 @@ Project:
 - Geospatial Data for Humanitarian Response in Sudan Conflict
 ---
 
-## OpenStreetMap Contributors Needed to Map Khartoum Ahead of New Radar Satellite Imagery
-
-Over the last two years, the conflict in Sudan has driven the country to become the largest humanitarian crisis in the world. Gaps in satellite radar coverage have led to large gaps in understanding damage to urban areas. Fortunately, the European Space Agency’s recent launch of Sentinel-1C will fill that gap of radar data, but for a full damage analysis to be conducted, a comprehensive building footprint dataset from OSM is needed.
-
----
-
 ## Two Sides of the Same Coin: Optical and Radar Imagery for Damage Analysis
 
 Since our ability to understand and respond to crises in hard-to-reach areas like Sudan depends heavily on earth observation capabilities, primarily through remote sensing technologies due to security constraints on the ground, having updated, appropriate imagery becomes paramount to our work. On one hand, OSM building footprints are derived from optical imagery, and on the other, change detection layers are commonly derived from radar imagery.
