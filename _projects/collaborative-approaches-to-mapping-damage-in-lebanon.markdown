@@ -180,7 +180,7 @@ As of January 2025, HOT’s work in Lebanon is far from complete. The next phase
 
 As this project continues, it will require sustained commitment from volunteers, partners, and the global community. Together, we can ensure that Lebanon’s maps are more suitable for recovery, relief, and planning. 
 
-If you would like to help, please refer to the [wiki](https://wiki.openstreetmap.org/wiki/Lebanon_Crisis_2024) where you can find different projects, initiatives, and activities.
+If you would like to help, please refer to the [wiki](https://wiki.openstreetmap.org/wiki/Lebanon:_Conflict_-_October_2024) where you can find different projects, initiatives, and activities.
 
 ### *Are you with an organization working in Lebanon or other conflict-affected areas, or interested in supporting other ways? Contact us at info@hotosm.org to partner, volunteer, or donate to ongoing efforts in conflict-affected areas worldwide*.
 <br>
