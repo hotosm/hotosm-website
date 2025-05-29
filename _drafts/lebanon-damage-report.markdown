@@ -1301,3 +1301,163 @@ date: 2025-05-12 18:31:00 Z
 
 </body>
 </html>
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Building Dataset Comparison - Lebanon</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .table-container {
+            max-width: 900px;
+            margin: 0 auto;
+            overflow-x: auto;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: center;
+            border: 1px solid #ddd;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        .osm { background-color: #e6f7e6; }
+        .ms { background-color: #fff2e6; }
+        .overture { background-color: #e6f2ff; }
+        .overture-osm { background-color: #d9f2d9; }
+        .overture-ms { background-color: #ffe6cc; }
+        .highlight { font-weight: bold; }
+        .legend {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin: 20px 0;
+            gap: 15px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+            margin: 0 15px;
+        }
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            margin-right: 8px;
+            border: 1px solid #555;
+        }
+        .footer {
+            text-align: center;
+            font-size: 0.8em;
+            color: #778899;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Building Dataset Comparison - Southern Lebanon</h1>
+    
+    <div class="legend">
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #e6f7e6;"></div>
+            <span>OpenStreetMap</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #fff2e6;"></div>
+            <span>Microsoft</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #d9f2d9;"></div>
+            <span>Overture (from OSM)</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #ffe6cc;"></div>
+            <span>Overture (from Microsoft)</span>
+        </div>
+    </div>
+
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>City</th>
+                    <th>OSM Buildings</th>
+                    <th>Microsoft Buildings</th>
+                    <th>Overture Total</th>
+                    <th>Overture (from OSM)</th>
+                    <th>Overture (from MS)</th>
+                    <th>% from OSM</th>
+                    <th>% from MS</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Bint-Jbayl</td>
+                    <td class="osm">48,470</td>
+                    <td class="ms">31,176</td>
+                    <td class="overture highlight">36,730</td>
+                    <td class="overture-osm">19,285</td>
+                    <td class="overture-ms">17,445</td>
+                    <td>52.5%</td>
+                    <td>47.5%</td>
+                </tr>
+                <tr>
+                    <td>Maarjyoun</td>
+                    <td class="osm">39,462</td>
+                    <td class="ms">28,647</td>
+                    <td class="overture highlight">30,889</td>
+                    <td class="overture-osm">13,861</td>
+                    <td class="overture-ms">17,028</td>
+                    <td>44.9%</td>
+                    <td>55.1%</td>
+                </tr>
+                <tr>
+                    <td>Nabatiyeh</td>
+                    <td class="osm">78,388</td>
+                    <td class="ms">45,365</td>
+                    <td class="overture highlight">53,739</td>
+                    <td class="overture-osm">29,764</td>
+                    <td class="overture-ms">23,975</td>
+                    <td>55.4%</td>
+                    <td>44.6%</td>
+                </tr>
+                <tr>
+                    <td>Sour</td>
+                    <td class="osm">87,344</td>
+                    <td class="ms">60,515</td>
+                    <td class="overture highlight">70,393</td>
+                    <td class="overture-osm">47,983</td>
+                    <td class="overture-ms">22,410</td>
+                    <td>68.2%</td>
+                    <td>31.8%</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="footer">
+        This table compares building datasets from OpenStreetMap, Microsoft, and Overture in Southern Lebanon.<br>
+        Overture's data is shown with its composition from OSM and Microsoft sources, with percentages indicating the contribution from each source.
+    </div>
+</body>
+</html>
