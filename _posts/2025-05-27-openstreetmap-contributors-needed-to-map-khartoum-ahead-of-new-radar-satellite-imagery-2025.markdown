@@ -28,7 +28,7 @@ In order to identify the impact that a region has sustained during conflict, dam
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/diagram-optical-insar-v2.png" alt="Optical vs Radar Imagery" style="width: 65%; height: auto;">
+    <img src="/uploads/diagram-optical-insar-v3.png" alt="Optical vs Radar Imagery" style="width: 65%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         Inspired by fig 1 on Plank, Simon. 2014. "Rapid Damage Assessment by Means of Multi-Temporal SAR — A Comprehensive Review and Outlook to Sentinel-1" <i>Remote Sensing</i> 6, no. 6: 4870–4906. https://doi.org/10.3390/rs6064870
     </div>
