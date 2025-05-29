@@ -1033,3 +1033,271 @@ date: 2025-05-12 18:31:00 Z
 </script>
 </body>
 </html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Damage Assessment Comparison</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .chart-container {
+            width: 100%;
+            height: 500px;
+            margin: 30px 0;
+            position: relative;
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+        }
+        .custom-labels {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+        }
+        .custom-label {
+            text-align: center;
+            width: 18%;
+        }
+        .label-title {
+            font-weight: bold;
+            font-size: 14px;
+            margin-bottom: 3px;
+        }
+        .label-subtitle {
+            font-size: 13px;
+            margin-bottom: 3px;
+        }
+        .label-date {
+            font-size: 11px;
+            color: #666;
+        }
+        .method-legend {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+            gap: 20px;
+        }
+        .legend-item {
+            display: flex;
+            align-items: center;
+        }
+        .legend-color {
+            width: 20px;
+            height: 20px;
+            margin-right: 8px;
+            border: 1px solid #333;
+        }
+    </style>
+</head>
+<body>
+    <h1>Damage Assessment Comparison</h1>
+    
+    <div class="chart-container">
+        <canvas id="damageChart"></canvas>
+        <div class="custom-labels" id="customLabels"></div>
+    </div>
+
+    <div class="method-legend">
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #1f77b4;"></div>
+            <span>SAR Methods</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #ff7f0e;"></div>
+            <span>Optical Methods</span>
+        </div>
+    </div>
+
+<script>
+    // Updated data with method information
+    const damageData = [
+        { 
+            source: "Scher, Van Den Hoek",
+            assessment: "damaged or destroyed",
+            date: "As of 5 Dec '24",
+            value: 4796,
+            method: "SAR",
+            methodDetail: "inSAR coherent change detection"
+        },
+        { 
+            source: "UN Habitat Commissioned",
+            assessment: "partially/totally destroyed",
+            date: "As of 3 Dec '24",
+            value: 5129,
+            method: "Optical",
+            methodDetail: "Optical visual inspection"
+        },
+        { 
+            source: "ESRI Deep Learning",
+            assessment: "damaged structures",
+            date: "As of 21 Oct '24",
+            value: 5400,
+            method: "Optical",
+            methodDetail: "Optical deep learning"
+        },
+        { 
+            source: "Miyamoto",
+            assessment: "moderately or severely damaged",
+            date: "As of 22 Nov '24",
+            value: 12282,
+            method: "SAR",
+            methodDetail: "SAR backscattering + other"
+        },
+        { 
+            source: "MercyCorps",
+            assessment: "damaged or destroyed",
+            date: "As of 31 Oct '24",
+            value: 14916,
+            method: "SAR",
+            methodDetail: "SAR backscattering"
+        }
+    ];
+
+    // Color definitions
+    const sarColors = {
+        base: '#1f77b4',
+        light: '#5d9cec',
+        dark: '#0d5ba8'
+    };
+    const opticalColors = {
+        base: '#ff7f0e',
+        light: '#ffa042',
+        dark: '#d45b00'
+    };
+
+    // Assign colors based on method and specific technique
+    function getBarColor(item) {
+        if (item.method === "SAR") {
+            if (item.methodDetail.includes("inSAR")) return sarColors.light;
+            if (item.methodDetail.includes("+ other")) return sarColors.base;
+            return sarColors.dark;
+        } else { // Optical
+            if (item.methodDetail.includes("visual")) return opticalColors.light;
+            return opticalColors.base;
+        }
+    }
+
+    // Function to create hierarchical labels
+    function createLabelHtml(item) {
+        let html = `<div class="custom-label">`;
+        html += `<div class="label-title">${item.source}</div>`;
+        html += `<div class="label-subtitle">${item.assessment}</div>`;
+        html += `<div class="label-subtitle" style="font-style: italic;">${item.methodDetail}</div>`;
+        html += `<div class="label-date">${item.date}</div>`;
+        html += `</div>`;
+        return html;
+    }
+
+    // Damage assessment chart
+    const damageCtx = document.getElementById('damageChart').getContext('2d');
+    new Chart(damageCtx, {
+        type: 'bar',
+        data: {
+            labels: damageData.map(() => ''),
+            datasets: [{
+                label: 'Number of Structures',
+                data: damageData.map(item => item.value),
+                backgroundColor: damageData.map(item => getBarColor(item)),
+                borderColor: damageData.map(item => {
+                    return item.method === "SAR" ? sarColors.dark : opticalColors.dark;
+                }),
+                borderWidth: 1,
+                barThickness: 'flex',
+                categoryPercentage: 0.8,
+                barPercentage: 0.9
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Damage Assessment Comparison by Organization and Method',
+                    font: { size: 18 }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            const item = damageData[context.dataIndex];
+                            return [
+                                `${item.source}: ${item.value.toLocaleString()}`,
+                                `Method: ${item.methodDetail}`,
+                                `Date: ${item.date}`
+                            ];
+                        }
+                    }
+                },
+                legend: {
+                    display: false
+                }
+            },
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    grid: {
+                        display: false
+                    },
+                    title: {
+                        display: true,
+                        text: 'Number of Structures',
+                        font: { size: 14 }
+                    },
+                    ticks: {
+                        callback: function(value) {
+                            return value.toLocaleString();
+                        }
+                    }
+                },
+                x: {
+                    grid: {
+                        display: false
+                    },
+                    ticks: {
+                        display: false
+                    }
+                }
+            },
+            animation: {
+                onComplete: function() {
+                    // Add value labels on top of bars
+                    const ctx = this.ctx;
+                    ctx.font = 'bold 12px Arial';
+                    ctx.textAlign = 'center';
+                    ctx.textBaseline = 'bottom';
+                    ctx.fillStyle = '#333';
+                    
+                    this.data.datasets.forEach((dataset, i) => {
+                        const meta = this.getDatasetMeta(i);
+                        meta.data.forEach((bar, index) => {
+                            const data = dataset.data[index];
+                            ctx.fillText(data.toLocaleString(), bar.x, bar.y - 5);
+                        });
+                    });
+                }
+            }
+        }
+    });
+
+    // Add custom labels after chart is created
+    document.addEventListener('DOMContentLoaded', function() {
+        const labelContainer = document.getElementById('customLabels');
+        
+        damageData.forEach(item => {
+            labelContainer.innerHTML += createLabelHtml(item);
+        });
+    });
+</script>
+
+</body>
+</html>
