@@ -35,6 +35,27 @@ The project will focus on filling in gaps in vital OSM data in target affected a
 ⠀
 The project will also leverage open source MapSwipe and Tasking Manager to identify areas of building damage in priority affected areas in Mandalay and Sagaing, and conduct comparisons across several damage analyses to support life-saving humanitarian aid and recovery efforts by building a complete map of infrastructure status to enable returns and avoid potential prolonged displacement. 
 
+## State of the Data 
+
+Various data sources contribute to building footprints, including open data from Google, Overture, Microsoft, and OpenStreetMap (OSM). While all the other sources draw data from AI, OSM stands out for its human validated workflow, the fact that it is community-driven and the diversity of the contributors. 
+
+### Overture
+
+The [Overture Maps Foundation](https://en.wikipedia.org/wiki/Overture%2520Maps%2520Foundation) dataset (licensed under the [Community Database License Agreement – Permissive v2](https://opendatacommons.org/licenses/dbcl/2-0/)) combines OSM buildings with machine-mapped footprints from [Google](https://sites.research.google/gr/open-buildings/) and [Microsoft](https://blogs.bing.com/maps/2023-06/Bing-Maps-Global-Building-Footprints-released). The data is available for exploration and download [here](https://explore.overturemaps.org/), but updates to OSM data occur roughly monthly (check the latest update [here](https://overturemaps.org/download/)), meaning recent OSM edits won’t appear immediately.
+After the Myanmar earthquake, Overture shared its [Myanmar building footprints on HDX](https://data.humdata.org/dataset/myanmar-buildings-overture-maps-export). However:
+* In densely built areas like Mandalay, Overture’s machine-mapped footprints may be less accurate or complete than OSM’s manually mapped data (see comparison GIF in the original text).
+* In rural areas, Overture misses ~⅓ of settlements detectable via satellite imagery, as shown by [MapSwipe project results](https://mapswipe.org/en/projects/-OMTfDy03ThqukWPeBVp/) where volunteers identified built-up areas.
+
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/OSM-vs-Overture-Myanmar_2.gif" alt="OSM vs Overture Buildings in Mandalay" style="width: 75%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+        <span>OSM building footprints mapped and validated during the earthquake response (light red) compared with machine mapped Overture building footprints (bright pink) in Mandalay, Myanmar.</span>
+    </div>
+</div>
+
+
+
 
 <br>
 
