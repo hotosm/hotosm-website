@@ -2,11 +2,11 @@
 title: Myanmar Earthquake Response 2025
 date: 2025-05-30 19:34:00 Z
 published: false
-Project Summary Text: In response to this tragedy, myOSM – Myanmar’s OpenStreetMap
-  Community is launched a mapping initiative to support humanitarian efforts and is
-  calling for your help. Our goal is to provide essential mapping data to local responders,
-  helping them plan and coordinate both immediate emergency relief and long-term reconstruction
-  efforts.
+Project Summary Text: In March 2025, a destructive earthquake hit central Myanmar.
+  In response, HOT in partnership with Myanmar’s OpenStreetMap Community (myOSM) launched
+  a mapping initiative to fill data gaps in OpenStreetMap. Now, through funding from
+  the H2H Network, myOSM will be able to scale their mapping and HOT will support
+  improved data use of humanitarian partners in the region.
 Feature Image: "/uploads/copernicus-mandalay-crop.jpg"
 Project Logo Image: "/uploads/h2h-logo-new-400x400.png"
 Country:
