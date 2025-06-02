@@ -27,16 +27,16 @@ Duration:
   <ol style="color: black;">
     <li><a href="#background" style="color: black;">Background</a></li>
     <li><a href="#approach" style="color: black;">Approach</a>
-      <ul style="list-style-type: none; margin-left: 20px; padding-left: 0;">
-        <li>• <a href="#remote-data-collection" style="color: black;">Remote Data Collection</a></li>
-        <li>• <a href="#local-data-validation" style="color: black;">Local Data Validation</a></li>
-        <li>• <a href="#open-buildings-datasets-source-comparison" style="color: black;">Open Buildings Datasets Comparison</a></li>
+      <ul style="list-style-type: none; margin-left: 20px; padding-left: 3;">
+        <li><a href="#remote-data-collection" style="color: black;">Remote Data Collection</a></li>
+        <li><a href="#local-data-validation" style="color: black;">Local Data Validation</a></li>
+        <li><a href="#open-buildings-datasets-source-comparison" style="color: black;">Open Buildings Datasets Comparison</a></li>
       </ul>
     </li>
     <li><a href="#state-of-the-data-data-access-use" style="color: black;">State of the Data, Data Access and Use</a>
-      <ul style="list-style-type: none; margin-left: 20px; padding-left: 0;">
-        <li>• <a href="#osm" style="color: black;">OSM</a></li>
-        <li>• <a href="#overture" style="color: black;">Overture Dataset</a></li>
+      <ul style="list-style-type: none; margin-left: 20px; padding-left: 3;">
+        <li><a href="#osm" style="color: black;">OSM</a></li>
+        <li><a href="#overture" style="color: black;">Overture Dataset</a></li>
       </ul>
     </li>
   </ol>
