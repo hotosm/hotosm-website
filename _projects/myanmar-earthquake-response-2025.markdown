@@ -41,7 +41,7 @@ The project will also leverage open source MapSwipe and Tasking Manager to ident
 
 <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
         <span>
-    Cover Photo: <a href="https://www.pexels.com/license/">Free to use</a> | <a href="https://www.openstreetmap.org/node/7730428664#map=14/13.67618/34.83430">Baylah, Al Qadarif, Sudan</a> | Aerial View of a Town between a Few Hills on a Flat Land – Photo by Omar Tarig from <a href="https://www.pexels.com/photo/aerial-view-of-a-town-between-a-few-hills-on-a-flat-land-14348540/">Pexels</a> / Edited Image by HOTOSM. 
+    Cover Photo: European Union, Copernicus Emergency Management Service Data </a> | Copernicus 2025-03-31<a  href="https://commons.wikimedia.org/wiki/File:Catastrophic_earthquake_in_Myanmar_(Copernicus_2025-03-31).png">Pexels</a> / Wikimedia 
 </span>
 
     </div>
