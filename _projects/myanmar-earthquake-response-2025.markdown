@@ -1,7 +1,6 @@
 ---
 title: Myanmar Earthquake Response 2025
 date: 2025-05-30 19:34:00 Z
-published: false
 Project Summary Text: In March 2025, a destructive earthquake hit central Myanmar.
   In response, HOT in partnership with Myanmar’s OpenStreetMap Community (myOSM) launched
   a mapping initiative to fill data gaps in OpenStreetMap. Now, through funding from
