@@ -50,7 +50,7 @@ Duration:
 
 Destructive earthquakes on 28 March 2025 in Myanmar exacerbated an already prolonged and complex humanitarian situation. Measuring the impact of the conflict and now earthquake, is challenging due to the limited information coming from those affected, which makes it hard for humanitarians to plan resources or respond.  Accurate and rapid building damage assessment play a critical role in the aftermath of disasters to guide rescue efforts, humanitarian aid, and disaster recovery. However, in the Global South, up-to-date map data – particularly in remote and rural areas — are often not readily open or available. As seen with Myanmar’s recent earthquakes, decades of military rule have led to challenges in information and data sharing. At the onset of the disaster, OpenStreetMap (OSM) buildings data gap stood at 85.93%, in an area that hosts an estimated population of 41,670,509 persons. Data gaps in OSM buildings compromises the reliability of AI-driven damage assessments like from Microsoft AI4G Lab.
 
-HOTSM has been leading a campaign  called "Myanmar Earthquake 2025" to improve building footprint coverage, you can find more info in the [wiki page](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Myanmar_Earthquake_2025). Below some of the stats related to this campaign. 
+HOTSM has been leading a campaign  called "Myanmar Earthquake 2025" to improve building footprint coverage, you can find more info in the [wiki page](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Myanmar_Earthquake_2025). Below some of the stats related to this campaign as of june 2nd 2025. 
 
 <br>
 <div class="stats-container">
