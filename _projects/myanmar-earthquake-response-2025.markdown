@@ -42,7 +42,9 @@ Duration:
   </ol>
 </div>
 <br>
+
 ---
+
 <br>
 ## Background
 
