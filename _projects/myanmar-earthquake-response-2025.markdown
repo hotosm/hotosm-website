@@ -35,3 +35,13 @@ The project will focus on filling in gaps in vital OSM data in target affected a
 
 ⠀
 The project will also leverage open source MapSwipe and Tasking Manager to identify areas of building damage in priority affected areas in Mandalay and Sagaing, and conduct comparisons across several damage analyses to support life-saving humanitarian aid and recovery efforts by building a complete map of infrastructure status to enable returns and avoid potential prolonged displacement. 
+
+
+<br>
+
+<div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+        <span>
+    Cover Photo: <a href="https://www.pexels.com/license/">Free to use</a> | <a href="https://www.openstreetmap.org/node/7730428664#map=14/13.67618/34.83430">Baylah, Al Qadarif, Sudan</a> | Aerial View of a Town between a Few Hills on a Flat Land – Photo by Omar Tarig from <a href="https://www.pexels.com/photo/aerial-view-of-a-town-between-a-few-hills-on-a-flat-land-14348540/">Pexels</a> / Edited Image by HOTOSM. 
+</span>
+
+    </div>
