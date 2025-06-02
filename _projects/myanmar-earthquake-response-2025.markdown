@@ -109,6 +109,7 @@ HOTSM has been leading a campaign  called "Myanmar Earthquake 2025" to improve b
 </style>
 <br>
 
+---
 
 ## Approach:
 
@@ -118,6 +119,8 @@ The project will focus on filling in gaps in vital OSM data in target affected a
 3. **Open Buildings Datasets Source Comparison:** By request from HDX and in consultation with key humanitarian actors, **an agile comparison framework to identify best building footprints data sources** (OSM, Google, Microsoft, and Overture) available across different phases in the disaster response.
 ⠀
 The project will also leverage open source MapSwipe and Tasking Manager to identify areas of building damage in priority affected areas in Mandalay and Sagaing, and conduct comparisons across several damage analyses to support life-saving humanitarian aid and recovery efforts by building a complete map of infrastructure status to enable returns and avoid potential prolonged displacement. 
+
+---
 
 ## State of the Data, Data Access and Use
 
@@ -156,8 +159,9 @@ After the Myanmar earthquake, Overture shared its [Myanmar building footprints o
     </div>
 </div>
 
+<br>
 
-
+---
 
 <br>
 
