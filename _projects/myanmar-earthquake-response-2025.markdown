@@ -34,8 +34,8 @@ Duration:
     </li>
     <li><a href="#state-of-the-data-data-access-use" style="color: black;">State of the Data, Data Access and Use</a>
       <ul style="list-style-type: none; margin-left: 20px; padding-left: 3;">
-        <li><a href="#osm" style="color: black;">OSM</a></li>
-        <li><a href="#overture" style="color: black;">Overture Dataset</a></li>
+        <a href="#osm" style="color: black;">OSM</a>
+        <a href="#overture" style="color: black;">Overture Dataset</a>
       </ul>
     </li>
   </ol>
