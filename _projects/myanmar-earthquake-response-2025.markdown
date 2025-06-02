@@ -32,7 +32,6 @@ The project will focus on filling in gaps in vital OSM data in target affected a
 1. **Remote Data Collection:** Skilled mappers will remotely map building footprints and roads (roads to be determined) using HOT’s [Tasking Manager](https://tasks.hotosm.org/) to expand and improve the quality of baseline open map data across the affected areas.
 2. **Local Data Validation:** data quality checks by Burmese diaspora members who are familiar with local building structures and HOT’s OSM community.
 3. **Open Buildings Datasets Source Comparison:** By request from HDX and in consultation with key humanitarian actors, **an agile comparison framework to identify best building footprints data sources** (OSM, Google, Microsoft, and Overture) available across different phases in the disaster response.
-
 ⠀
 The project will also leverage open source MapSwipe and Tasking Manager to identify areas of building damage in priority affected areas in Mandalay and Sagaing, and conduct comparisons across several damage analyses to support life-saving humanitarian aid and recovery efforts by building a complete map of infrastructure status to enable returns and avoid potential prolonged displacement. 
 
@@ -41,7 +40,7 @@ The project will also leverage open source MapSwipe and Tasking Manager to ident
 
 <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
         <span>
-    Cover Photo: European Union, Copernicus Emergency Management Service Data </a> | Copernicus 2025-03-31<a  href="https://commons.wikimedia.org/wiki/File:Catastrophic_earthquake_in_Myanmar_(Copernicus_2025-03-31).png">Pexels</a> / Wikimedia 
+    Cover Photo: European Union, Copernicus Emergency Management Service Data | Copernicus 2025-03-31<a  href="https://commons.wikimedia.org/wiki/File:Catastrophic_earthquake_in_Myanmar_(Copernicus_2025-03-31).png"> / Wikimedia </a>  
 </span>
 
     </div>
