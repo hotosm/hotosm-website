@@ -33,8 +33,9 @@ Duration:
         <li><a href="#open-buildings-datasets-source-comparison" style="color: black;">Open Buildings Datasets Comparison</a></li>
       </ul>
     </li>
-    <li><a href="#state-of-the-data" style="color: black;">State of the Data</a>
+    <li><a href="#state-of-the-data-data-access-use" style="color: black;">State of the Data, Data Access and Use</a>
       <ul style="list-style-type: disc; margin-left: 20px;">
+        <li><a href="#osm" style="color: black;">OSM</a></li>
         <li><a href="#overture" style="color: black;">Overture Dataset</a></li>
       </ul>
     </li>
@@ -57,9 +58,27 @@ The project will focus on filling in gaps in vital OSM data in target affected a
 ⠀
 The project will also leverage open source MapSwipe and Tasking Manager to identify areas of building damage in priority affected areas in Mandalay and Sagaing, and conduct comparisons across several damage analyses to support life-saving humanitarian aid and recovery efforts by building a complete map of infrastructure status to enable returns and avoid potential prolonged displacement. 
 
-## State of the Data 
+## State of the Data, Data Access and Use
 
 Various data sources contribute to building footprints, including open data from Google, Overture, Microsoft, and OpenStreetMap (OSM). While all the other sources draw data from AI, OSM stands out for its human validated workflow, the fact that it is community-driven and the diversity of the contributors. 
+
+### OSM
+OSM data can be downloaded from HDX. Scroll through this [filtered HDX list](https://data.humdata.org/organization/hot?q=myanmar&sort=last_modified%20desc&ext_page_size=25) or choose from the categories below to visit a specific dataset:
+- [Roads](https://data.humdata.org/dataset/hotosm_mmr_roads)
+- [Buildings](https://data.humdata.org/dataset/hotosm_mmr_buildings)
+- [Waterways](https://data.humdata.org/dataset/hotosm_mmr_waterways)
+- [Railways](https://data.humdata.org/dataset/hotosm_mmr_railways)
+- [Health Facilities](https://data.humdata.org/dataset/hotosm_mmr_health_facilities)
+- [Financial Services](https://data.humdata.org/dataset/hotosm_mmr_financial_services)
+- [Populated Places](https://data.humdata.org/dataset/hotosm_mmr_populated_places)
+- [Education Facilities](https://data.humdata.org/dataset/hotosm_mmr_education_facilities)
+- [Sea Ports](https://data.humdata.org/dataset/hotosm_mmr_sea_ports)
+- [Airports](https://data.humdata.org/dataset/hotosm_mmr_airports)
+- [Points of Interest](https://data.humdata.org/dataset/hotosm_mmr_points_of_interest)
+
+<br>
+
+---
 
 ### Overture
 
