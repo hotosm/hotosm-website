@@ -21,45 +21,51 @@ Duration:
 ---
 
 ---
-<div>
-  <h2>Table of Contents</h2>
-  <div style="color: black; counter-reset: section;">
-    <div style="display: flex; align-items: baseline; margin-bottom: 4px;">
-      <span style="margin-right: 8px;">1.</span>
-      <a href="#background" style="color: black;">Background</a>
+<div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <h2 style="color: #333; border-bottom: 2px solid #489FD8; padding-bottom: 8px; margin-bottom: 16px;">Table of Contents</h2>
+  
+  <div style="display: grid; gap: 8px;">
+    <!-- Main Items -->
+    <div style="display: flex; align-items: center;">
+      <span style="color: #489FD8; font-weight: bold; margin-right: 12px; min-width: 20px;">1.</span>
+      <a href="#background" style="color: #333; text-decoration: none;">Background</a>
     </div>
     
-    <div style="display: flex; align-items: baseline; margin-bottom: 4px;">
-      <span style="margin-right: 8px;">2.</span>
-      <a href="#approach" style="color: black;">Approach</a>
-    </div>
-    <div style="margin-left: 20px; padding-left: 3px; margin-bottom: 4px;">
-      <div style="display: flex; align-items: baseline;">
-        <span style="margin-right: 8px;">•</span>
-        <a href="#remote-data-collection" style="color: black;">Remote Data Collection</a>
+    <div style="display: flex; align-items: flex-start; flex-direction: column;">
+      <div style="display: flex; align-items: center;">
+        <span style="color: #489FD8; font-weight: bold; margin-right: 12px; min-width: 20px;">2.</span>
+        <a href="#approach" style="color: #333; text-decoration: none;">Approach</a>
       </div>
-      <div style="display: flex; align-items: baseline;">
-        <span style="margin-right: 8px;">•</span>
-        <a href="#local-data-validation" style="color: black;">Local Data Validation</a>
-      </div>
-      <div style="display: flex; align-items: baseline;">
-        <span style="margin-right: 8px;">•</span>
-        <a href="#open-buildings-datasets-source-comparison" style="color: black;">Open Buildings Datasets Comparison</a>
+      <div style="margin-left: 32px; margin-top: 4px;">
+        <div style="display: flex; align-items: center; margin-bottom: 4px;">
+          <span style="color: #489FD8; margin-right: 8px;">•</span>
+          <a href="#remote-data-collection" style="color: #333; text-decoration: none; font-size: 0.95em;">Remote Data Collection</a>
+        </div>
+        <div style="display: flex; align-items: center; margin-bottom: 4px;">
+          <span style="color: #489FD8; margin-right: 8px;">•</span>
+          <a href="#local-data-validation" style="color: #333; text-decoration: none; font-size: 0.95em;">Local Data Validation</a>
+        </div>
+        <div style="display: flex; align-items: center;">
+          <span style="color: #489FD8; margin-right: 8px;">•</span>
+          <a href="#open-buildings-datasets-source-comparison" style="color: #333; text-decoration: none; font-size: 0.95em;">Open Buildings Datasets Comparison</a>
+        </div>
       </div>
     </div>
     
-    <div style="display: flex; align-items: baseline; margin-bottom: 4px;">
-      <span style="margin-right: 8px;">3.</span>
-      <a href="#state-of-the-data-data-access-use" style="color: black;">State of the Data, Data Access and Use</a>
-    </div>
-    <div style="margin-left: 20px; padding-left: 3px;">
-      <div style="display: flex; align-items: baseline;">
-        <span style="margin-right: 8px;">•</span>
-        <a href="#osm" style="color: black;">OSM</a>
+    <div style="display: flex; align-items: flex-start; flex-direction: column;">
+      <div style="display: flex; align-items: center;">
+        <span style="color: #489FD8; font-weight: bold; margin-right: 12px; min-width: 20px;">3.</span>
+        <a href="#state-of-the-data-data-access-use" style="color: #333; text-decoration: none;">State of the Data, Data Access and Use</a>
       </div>
-      <div style="display: flex; align-items: baseline;">
-        <span style="margin-right: 8px;">•</span>
-        <a href="#overture" style="color: black;">Overture Dataset</a>
+      <div style="margin-left: 32px; margin-top: 4px;">
+        <div style="display: flex; align-items: center; margin-bottom: 4px;">
+          <span style="color: #489FD8; margin-right: 8px;">•</span>
+          <a href="#osm" style="color: #333; text-decoration: none; font-size: 0.95em;">OSM</a>
+        </div>
+        <div style="display: flex; align-items: center;">
+          <span style="color: #489FD8; margin-right: 8px;">•</span>
+          <a href="#overture" style="color: #333; text-decoration: none; font-size: 0.95em;">Overture Dataset</a>
+        </div>
       </div>
     </div>
   </div>
