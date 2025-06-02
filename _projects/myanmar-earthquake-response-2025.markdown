@@ -21,6 +21,28 @@ Duration:
   Start Date: 2025-04-25 00:00:00 Z
 ---
 
+---
+<div>
+  <h2>Table of Contents</h2>
+  <ol style="color: black;">
+    <li><a href="#background" style="color: black;">Background</a></li>
+    <li><a href="#approach" style="color: black;">Approach</a>
+      <ul style="list-style-type: disc; margin-left: 20px;">
+        <li><a href="#remote-data-collection" style="color: black;">Remote Data Collection</a></li>
+        <li><a href="#local-data-validation" style="color: black;">Local Data Validation</a></li>
+        <li><a href="#open-buildings-datasets-source-comparison" style="color: black;">Open Buildings Datasets Comparison</a></li>
+      </ul>
+    </li>
+    <li><a href="#state-of-the-data" style="color: black;">State of the Data</a>
+      <ul style="list-style-type: disc; margin-left: 20px;">
+        <li><a href="#overture" style="color: black;">Overture Dataset</a></li>
+      </ul>
+    </li>
+  </ol>
+</div>
+<br>
+---
+<br>
 ## Background
 
 Destructive earthquakes on 28 March 2025 in Myanmar exacerbated an already prolonged and complex humanitarian situation. Measuring the impact of the conflict and now earthquake, is challenging due to the limited information coming from those affected, which makes it hard for humanitarians to plan resources or respond.  Accurate and rapid building damage assessment play a critical role in the aftermath of disasters to guide rescue efforts, humanitarian aid, and disaster recovery. However, in the Global South, up-to-date map data – particularly in remote and rural areas — are often not readily open or available. As seen with Myanmar’s recent earthquakes, decades of military rule have led to challenges in information and data sharing. At the onset of the disaster, OpenStreetMap (OSM) buildings data gap stood at 85.93%, in an area that hosts an estimated population of 41,670,509 persons. Data gaps in OSM buildings compromises the reliability of AI-driven damage assessments like from Microsoft AI4G Lab.
