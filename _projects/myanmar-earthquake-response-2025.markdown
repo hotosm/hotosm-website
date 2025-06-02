@@ -21,7 +21,7 @@ Duration:
 ---
 
 ---
-<div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; background: white;">
   <h2 style="color: #333; border-bottom: 2px solid #489FD8; padding-bottom: 8px; margin-bottom: 16px;">Table of Contents</h2>
   
   <div style="display: grid; gap: 8px;">
