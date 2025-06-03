@@ -16,6 +16,8 @@ The Open Mapping Hub - Asia Pacific (AP Hub) was established in early 2021 to ad
 
 By prioritizing local mapping organizations and communities, facilitating knowledge exchange, distributing funding, and providing training and support, we are focusing efforts to work with local organizations and communities to drive high-quality, ethical, local data use cases.
 
+* [Myanmar Earthquake Response 2025](https://www.hotosm.org/projects/myanmar-earthquake-response-2025/)
+
 * [She Leads She Inspires Program](https://www.hotosm.org/projects/she-leads-and-she-inspires/)
 
 * [Map and Chat hour](https://wiki.openstreetmap.org/wiki/Asia_Pacific_Map_and_Chat_Hour)
