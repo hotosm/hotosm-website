@@ -126,3 +126,82 @@ date: 2025-06-03 18:55:00 Z
     </div>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Damage Assessment - Dot Plot</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .chart-container { height: 500px; margin: 30px 0; }
+        h1 { color: #333; text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>Damage Assessment (Dot Plot)</h1>
+    <div class="chart-container">
+        <canvas id="dotPlot"></canvas>
+    </div>
+
+<script>
+    const damageData = [
+        { source: "Scher", value: 4796, method: "SAR" },
+        { source: "UN Habitat", value: 5129, method: "Optical" },
+        { source: "ESRI", value: 5400, method: "Optical" },
+        { source: "Miyamoto", value: 12282, method: "SAR" },
+        { source: "MercyCorps", value: 14916, method: "SAR" }
+    ];
+
+    new Chart(document.getElementById('dotPlot'), {
+        type: 'scatter',
+        data: {
+            datasets: [
+                {
+                    label: 'SAR Methods',
+                    data: damageData.filter(d => d.method === "SAR").map(d => ({
+                        x: d.source,
+                        y: d.value
+                    })),
+                    backgroundColor: '#1f77b4',
+                    pointRadius: 10,
+                    pointHoverRadius: 12
+                },
+                {
+                    label: 'Optical Methods',
+                    data: damageData.filter(d => d.method === "Optical").map(d => ({
+                        x: d.source,
+                        y: d.value
+                    })),
+                    backgroundColor: '#ff7f0e',
+                    pointRadius: 10,
+                    pointHoverRadius: 12
+                }
+            ]
+        },
+        options: {
+            scales: {
+                x: {
+                    type: 'category',
+                    title: { display: true, text: 'Organization' }
+                },
+                y: {
+                    beginAtZero: false,
+                    min: 4000,
+                    title: { display: true, text: 'Number of Structures' },
+                    ticks: { callback: v => v.toLocaleString() }
+                }
+            },
+            plugins: {
+                tooltip: {
+                    callbacks: {
+                        label: ctx => `${ctx.raw.x}: ${ctx.raw.y.toLocaleString()}`
+                    }
+                }
+            }
+        }
+    });
+</script>
+</body>
+</html>
