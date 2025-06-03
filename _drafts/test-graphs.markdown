@@ -263,3 +263,71 @@ date: 2025-06-03 18:55:00 Z
     </div>
 </body>
 </html>
+
+
+<html>
+<head>
+    <title>Damage Assessment - Dot Plot</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body { font-family: Arial; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .chart-container { height: 500px; margin: 30px 0; }
+        h1 { color: #333; text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>Damage Assessment (Dot Plot)</h1>
+    <div class="chart-container">
+        <canvas id="dotPlot"></canvas>
+    </div>
+
+<script>
+    const damageData = [
+        { source: "Scher, Van Den Hoek", value: 4796 },
+        { source: "UN Habitat Commissioned", value: 5129 },
+        { source: "ESRI Deep Learning", value: 5400 },
+        { source: "Miyamoto", value: 12282 },
+        { source: "MercyCorps", value: 14916 }
+    ];
+
+    new Chart(document.getElementById('dotPlot'), {
+        type: 'scatter',
+        data: {
+            datasets: [{
+                data: damageData.map(d => ({
+                    x: d.source,
+                    y: d.value
+                })),
+                backgroundColor: '#459CA0',
+                pointRadius: 10,
+                pointHoverRadius: 12
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    type: 'category',
+                    title: { display: true, text: 'Organization' }
+                },
+                y: {
+                    beginAtZero: false,
+                    min: 4000,
+                    title: { display: true, text: 'Number of Damaged Structures' },
+                    ticks: { callback: v => v.toLocaleString() }
+                }
+            },
+            plugins: {
+                legend: {
+                    display: false
+                },
+                tooltip: {
+                    callbacks: {
+                        label: ctx => `${ctx.raw.x}: ${ctx.raw.y.toLocaleString()}`
+                    }
+                }
+            }
+        }
+    });
+</script>
+</body>
+</html>
