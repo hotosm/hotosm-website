@@ -7,7 +7,7 @@ date: 2025-06-03 18:55:00 Z
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Building Dataset Comparison - Lebanon</title>
+    <title>Total Building Dataset Comparison - Lebanon</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -74,13 +74,28 @@ date: 2025-06-03 18:55:00 Z
     </style>
 </head>
 <body>
-    <h1>Building Dataset Comparison - Southern Lebanon</h1>
+    <h1>Total Building Dataset Comparison - Southern Lebanon</h1>
+    
+    <div class="legend">
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #e6f7e6;"></div>
+            <span>OpenStreetMap</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #fff2e6;"></div>
+            <span>Microsoft</span>
+        </div>
+        <div class="legend-item">
+            <div class="legend-color" style="background-color: #e6f2ff;"></div>
+            <span>Overture</span>
+        </div>
+    </div>
 
     <div class="table-container">
         <table>
             <thead>
                 <tr>
-                    <th>City</th>
+                    <th>District</th>
                     <th>Overture</th>
                     <th>Microsoft Buildings</th>
                     <th>OSM Buildings</th>
@@ -89,7 +104,7 @@ date: 2025-06-03 18:55:00 Z
             </thead>
             <tbody>
                 <tr>
-                    <td>Bint-Jbayl</td>
+                    <td>Bint Jbeil</td>
                     <td class="overture">36,730</td>
                     <td class="ms highlight-second">31,176</td>
                     <td class="osm highlight">48,470</td>
