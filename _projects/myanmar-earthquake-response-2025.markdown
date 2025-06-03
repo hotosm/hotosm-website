@@ -51,22 +51,7 @@ Destructive earthquakes on 28 March 2025 in Myanmar exacerbated an already prolo
 
 HOTSM has been leading a campaign  called "Myanmar Earthquake 2025" to improve building footprint coverage, you can find more info in the [wiki page](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Myanmar_Earthquake_2025). Below some of the stats related to this campaign as of june 2nd 2025. 
 
-<br>
-<div style="width: 100%; margin: 0 auto;">
-    <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" 
-            src="//umap.hotosm.org/en/map/myanmar-earthquake-2025-tasking-manager-projects_161?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">
-    </iframe>
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 5px;">
-        <div style="font-size: 0.8em; color: #778899; line-height: 1.2; background-color: #f0f0f0; padding: 8px 10px; border-radius: 5px; flex-grow: 1;">
-            Myanmar Earthquake 2025 - Tasking Manager Projects | Data source: <a href="https://umap.hotosm.org" style="color: #489FD8;">uMap/HOT</a>
-        </div>
-        <a href="//umap.hotosm.org/en/map/myanmar-earthquake-2025-tasking-manager-projects_161?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true" 
-           style="font-size: 0.8em; color: white; background-color: #489FD8; padding: 8px 12px; border-radius: 5px; text-decoration: none; margin-left: 10px;">
-            Full screen
-        </a>
-    </div>
-</div>
-<br>
+### Tasking Manager Projects and Numbers
 
 
 <br>
@@ -124,6 +109,23 @@ HOTSM has been leading a campaign  called "Myanmar Earthquake 2025" to improve b
         }
     }
 </style>
+
+
+<br>
+<div style="width: 100%; margin: 0 auto;">
+    <iframe width="100%" height="400px" frameborder="0" allowfullscreen allow="geolocation" 
+            src="//umap.hotosm.org/en/map/myanmar-earthquake-2025-tasking-manager-projects_161?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">
+    </iframe>
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 5px;">
+        <div style="font-size: 0.8em; color: #778899; line-height: 1.2; background-color: #f0f0f0; padding: 8px 10px; border-radius: 5px; flex-grow: 1;">
+            Myanmar Earthquake 2025 - Tasking Manager Projects | Data source: <a href="https://umap.hotosm.org" style="color: #489FD8;">uMap/HOT</a>
+        </div>
+        <a href="//umap.hotosm.org/en/map/myanmar-earthquake-2025-tasking-manager-projects_161?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true" 
+           style="font-size: 0.8em; color: white; background-color: #489FD8; padding: 8px 12px; border-radius: 5px; text-decoration: none; margin-left: 10px;">
+            Full screen
+        </a>
+    </div>
+</div>
 <br>
 
 ---
