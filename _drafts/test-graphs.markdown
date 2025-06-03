@@ -71,10 +71,6 @@ date: 2025-06-03 18:55:00 Z
             color: #778899;
             margin-top: 30px;
         }
-        .osm-higher {
-            color: Black;
-            font-weight: bold;
-        }
     </style>
 </head>
 <body>
@@ -100,45 +96,40 @@ date: 2025-06-03 18:55:00 Z
             <thead>
                 <tr>
                     <th>City</th>
+                    <th>Overture</th>
                     <th>Microsoft Buildings</th>
-                    <th>Overture Total</th>
                     <th>OSM Buildings</th>
                     <th>% OSM > MS</th>
-                    <th>% OSM in Overture</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td>Bint-Jbayl</td>
-                    <td class="ms highlight-second">31,176</td>
                     <td class="overture">36,730</td>
+                    <td class="ms highlight-second">31,176</td>
                     <td class="osm highlight">48,470</td>
-                    <td class="osm-higher">+55.5%</td>
-                    <td>52.5%</td>
+                    <td>+55.5%</td>
                 </tr>
                 <tr>
                     <td>Maarjyoun</td>
-                    <td class="ms highlight-second">28,647</td>
                     <td class="overture">30,889</td>
+                    <td class="ms highlight-second">28,647</td>
                     <td class="osm highlight">39,462</td>
-                    <td class="osm-higher">+37.8%</td>
-                    <td>44.9%</td>
+                    <td>+37.8%</td>
                 </tr>
                 <tr>
                     <td>Nabatiyeh</td>
-                    <td class="ms highlight-second">45,365</td>
                     <td class="overture">53,739</td>
+                    <td class="ms highlight-second">45,365</td>
                     <td class="osm highlight">78,388</td>
-                    <td class="osm-higher">+72.8%</td>
-                    <td>55.4%</td>
+                    <td>+72.8%</td>
                 </tr>
                 <tr>
                     <td>Sour</td>
-                    <td class="ms highlight-second">60,515</td>
                     <td class="overture">70,393</td>
+                    <td class="ms highlight-second">60,515</td>
                     <td class="osm highlight">87,344</td>
-                    <td class="osm-higher">+44.3%</td>
-                    <td>68.2%</td>
+                    <td>+44.3%</td>
                 </tr>
             </tbody>
         </table>
@@ -146,8 +137,7 @@ date: 2025-06-03 18:55:00 Z
 
     <div class="footer">
         This table compares building datasets from OpenStreetMap, Microsoft, and Overture in Southern Lebanon.<br>
-        The "% OSM > MS" column shows how much larger the OSM dataset is compared to Microsoft's dataset.<br>
-        The "% OSM in Overture" shows what percentage of Overture's data came from OSM sources.
+        The "% OSM > MS" column shows how much larger the OSM dataset is compared to Microsoft's dataset.
     </div>
 </body>
 </html>
