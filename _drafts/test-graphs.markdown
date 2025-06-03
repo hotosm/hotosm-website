@@ -131,77 +131,135 @@ date: 2025-06-03 18:55:00 Z
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Damage Assessment - Dot Plot</title>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>Damage Assessment Comparison Table</title>
     <style>
-        body { font-family: Arial; max-width: 800px; margin: 0 auto; padding: 20px; }
-        .chart-container { height: 500px; margin: 30px 0; }
-        h1 { color: #333; text-align: center; }
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .data-table th, .data-table td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        .data-table th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+            position: sticky;
+            top: 0;
+        }
+        .data-table tr:hover {
+            background-color: #f5f5f5;
+        }
+        .method-sar {
+            background-color: rgba(31, 119, 180, 0.1);
+            border-left: 4px solid #1f77b4;
+        }
+        .method-optical {
+            background-color: rgba(255, 127, 14, 0.1);
+            border-left: 4px solid #ff7f0e;
+        }
+        .method-label {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+        .sar-label {
+            background-color: #1f77b4;
+            color: white;
+        }
+        .optical-label {
+            background-color: #ff7f0e;
+            color: white;
+        }
+        .value-cell {
+            font-weight: bold;
+            text-align: right;
+        }
+        @media (max-width: 600px) {
+            .data-table {
+                display: block;
+                overflow-x: auto;
+            }
+        }
     </style>
 </head>
 <body>
-    <h1>Damage Assessment (Dot Plot)</h1>
-    <div class="chart-container">
-        <canvas id="dotPlot"></canvas>
+    <h1>Damage Assessment Comparison</h1>
+    
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Organization</th>
+                <th>Assessment Method</th>
+                <th>Damage Classification</th>
+                <th>Date</th>
+                <th class="value-cell">Structures Affected</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr class="method-sar">
+                <td>Scher, Van Den Hoek</td>
+                <td><span class="method-label sar-label">SAR</span></td>
+                <td>inSAR coherent change detection</td>
+                <td>5 Dec 2024</td>
+                <td class="value-cell">4,796</td>
+            </tr>
+            <tr class="method-optical">
+                <td>UN Habitat Commissioned</td>
+                <td><span class="method-label optical-label">Optical</span></td>
+                <td>Optical visual inspection</td>
+                <td>3 Dec 2024</td>
+                <td class="value-cell">5,129</td>
+            </tr>
+            <tr class="method-optical">
+                <td>ESRI Deep Learning</td>
+                <td><span class="method-label optical-label">Optical</span></td>
+                <td>Optical deep learning</td>
+                <td>21 Oct 2024</td>
+                <td class="value-cell">5,400</td>
+            </tr>
+            <tr class="method-sar">
+                <td>Miyamoto</td>
+                <td><span class="method-label sar-label">SAR</span></td>
+                <td>SAR backscattering + other</td>
+                <td>22 Nov 2024</td>
+                <td class="value-cell">12,282</td>
+            </tr>
+            <tr class="method-sar">
+                <td>MercyCorps</td>
+                <td><span class="method-label sar-label">SAR</span></td>
+                <td>SAR backscattering</td>
+                <td>31 Oct 2024</td>
+                <td class="value-cell">14,916</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <div style="margin-top: 40px; text-align: center;">
+        <div style="display: inline-block; margin-right: 20px;">
+            <span style="display: inline-block; width: 15px; height: 15px; background-color: #1f77b4; margin-right: 5px;"></span>
+            <span>SAR Methods</span>
+        </div>
+        <div style="display: inline-block;">
+            <span style="display: inline-block; width: 15px; height: 15px; background-color: #ff7f0e; margin-right: 5px;"></span>
+            <span>Optical Methods</span>
+        </div>
     </div>
-
-<script>
-    const damageData = [
-        { source: "Scher", value: 4796, method: "SAR" },
-        { source: "UN Habitat", value: 5129, method: "Optical" },
-        { source: "ESRI", value: 5400, method: "Optical" },
-        { source: "Miyamoto", value: 12282, method: "SAR" },
-        { source: "MercyCorps", value: 14916, method: "SAR" }
-    ];
-
-    new Chart(document.getElementById('dotPlot'), {
-        type: 'scatter',
-        data: {
-            datasets: [
-                {
-                    label: 'SAR Methods',
-                    data: damageData.filter(d => d.method === "SAR").map(d => ({
-                        x: d.source,
-                        y: d.value
-                    })),
-                    backgroundColor: '#1f77b4',
-                    pointRadius: 10,
-                    pointHoverRadius: 12
-                },
-                {
-                    label: 'Optical Methods',
-                    data: damageData.filter(d => d.method === "Optical").map(d => ({
-                        x: d.source,
-                        y: d.value
-                    })),
-                    backgroundColor: '#ff7f0e',
-                    pointRadius: 10,
-                    pointHoverRadius: 12
-                }
-            ]
-        },
-        options: {
-            scales: {
-                x: {
-                    type: 'category',
-                    title: { display: true, text: 'Organization' }
-                },
-                y: {
-                    beginAtZero: false,
-                    min: 4000,
-                    title: { display: true, text: 'Number of Structures' },
-                    ticks: { callback: v => v.toLocaleString() }
-                }
-            },
-            plugins: {
-                tooltip: {
-                    callbacks: {
-                        label: ctx => `${ctx.raw.x}: ${ctx.raw.y.toLocaleString()}`
-                    }
-                }
-            }
-        }
-    });
-</script>
 </body>
 </html>
