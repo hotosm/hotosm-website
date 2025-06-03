@@ -51,7 +51,7 @@ Destructive earthquakes on 28 March 2025 in Myanmar exacerbated an already prolo
 
 HOTSM has been leading a campaign  called "Myanmar Earthquake 2025" to improve building footprint coverage, you can find more info in the [wiki page](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Myanmar_Earthquake_2025). Below some of the stats related to this campaign as of june 2nd 2025. 
 
-### Tasking Manager Projects and Numbers
+### Tasking Manager Projects and Statistics
 
 
 <br>
