@@ -75,21 +75,6 @@ date: 2025-06-03 18:55:00 Z
 </head>
 <body>
     <h1>Building Dataset Comparison - Southern Lebanon</h1>
-    
-    <div class="legend">
-        <div class="legend-item">
-            <div class="legend-color" style="background-color: #e6f7e6;"></div>
-            <span>OpenStreetMap</span>
-        </div>
-        <div class="legend-item">
-            <div class="legend-color" style="background-color: #fff2e6;"></div>
-            <span>Microsoft</span>
-        </div>
-        <div class="legend-item">
-            <div class="legend-color" style="background-color: #e6f2ff;"></div>
-            <span>Overture</span>
-        </div>
-    </div>
 
     <div class="table-container">
         <table>
