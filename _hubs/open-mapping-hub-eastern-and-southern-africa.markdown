@@ -4,7 +4,7 @@ date: 2023-06-30 02:34:00 Z
 permalink: "/hubs/open-mapping-hub-eastern-and-southern-africa/"
 Page Contact:
   Label: Contact us!
-  Contact Email: esahub@hotosm.org
+  Contact Email: esahub-info@hotosm.org
 Intro Text: Advancing community development and humanitarian response through open
   mapping solutions.
 Page Link:
@@ -87,7 +87,7 @@ We'd love to hear from you! If you are interested in partnering, collaborating, 
 
 * **Office address:** "The Address Building" 12th Floor, Muthangari Drive - Westlands, P.O. Box 20997-0011, Nairobi, Kenya
 
-* **Email:** [esahub@hotosm.org](mailto:esahub@hotosm.org)
+* **Email:** [esahub-info@hotosm.org](mailto:esahub-info@hotosm.org)
 
 *  **Social media**: [Twitter](https://twitter.com/openmapping_esa) | [Facebook](https://www.facebook.com/openmapping.esa) | [LinkedIn](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/) | [Instagram](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/)
 
