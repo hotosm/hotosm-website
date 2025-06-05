@@ -38,7 +38,7 @@ Frente a este desafío, el Equipo Humanitario de OpenStreetMap (HOT) ha asumido 
 
 La cartografía participativa digital es un proceso colaborativo de representación geográfica, donde las comunidades locales participan en la creación de información sobre sus espacios de vida utilizando herramientas tecnológicas de fácil uso. Lejos de ser un ejercicio únicamente técnico, implica una transformación cultural: las personas se vuelven generadoras de conocimiento y datos útiles, de este modo participan en el ciclo de la política pública, para el bien común.
 
-A través de talleres, recorridos de campo y sesiones colectivas de edición, estudiantes, voluntarios, autoridades y organizaciones locales crean datos en tiempo real, integrados posteriormente a OpenStreetMap, y convertidos a  archivos GTFS que se integran a apps de movilidad y a sistemas de planeación urbana. HOT ha promovido activamente este enfoque en México como parte de su misión global de democratizar el acceso a los datos geoespaciales, fomentando la formación y crecimiento de comunidades locales, en red a escala nacional, con capacidad técnica propia, y potencial participación en múltiples temáticas del territorio. 
+A través de talleres, recorridos de campo y sesiones colectivas de edición, estudiantes, voluntarios, autoridades y organizaciones locales crean datos en tiempo real, integrados posteriormente a OpenStreetMap, y convertidos a  archivos GTFS que se integran a apps de movilidad y a sistemas de planeación urbana. HOT ha promovido activamente este enfoque en México como parte de su misión global de democratizar el acceso a los datos geoespaciales, fomentando la formación y crecimiento de comunidades locales, en red a escala nacional, con capacidad técnica propia, y potencial participación en múltiples temáticas del territorio.
 
 ## La visión en México: una estrategia nacional desde abajo
 
@@ -54,7 +54,7 @@ La cartografía para la política local es una necesidad integral, que rara vez,
 
 La metodología diseñada por la alianza HOT, Trufi y Codeando México se estructura en seis etapas:
 
-* **Diagnóstico inicial: **Evaluación técnica y entrevistas con gobiernos locales para definir necesidades, existencia y calidad de datos existentes y capacidades instaladas. Diagnóstico del estado del mapa colaborativo de OpenStreetMap en las localidades de interés.
+* **Diagnóstico inicial:** Evaluación técnica y entrevistas con gobiernos locales para definir necesidades, existencia y calidad de datos existentes y capacidades instaladas. Diagnóstico del estado del mapa colaborativo de OpenStreetMap en las localidades de interés.
 
 * **Formación comunitaria:** Identificación de comunidades técnicas locales, y de los potenciales de fortalecimiento. Identificación de mecanismos de reconocimiento estudiantil pertinentes. Capacitación a estudiantes, colectivos y personal gubernamental en el mapeo integral en OpenStreetMap,  OSMTracker y uso de datos de transporte.
 
@@ -66,55 +66,33 @@ La metodología diseñada por la alianza HOT, Trufi y Codeando México se estruc
 
 * **Sostenibilidad y expansión:** Se incentiva la inclusión del modelo de mapeo colaborativo en programas académicos y de servicio social en temas variados, consolidando la red nacional de mapeadores urbanos que crece en cada nueva iniciativa de mapeo para el desarrollo sustentable.
 
-## **Casos destacados**
+## Casos destacados
 
-### **Zitácuaro (2022)**
+La experiencia acumulada en Zitácuaro, Zamora–Jacona, y en las ciudades de Toluca y Oaxaca ha consolidado un modelo escalable, participativo y multisectorial de cartografía colaborativa del transporte público en México. Cada caso ha aportado aprendizajes clave que han nutrido una estrategia nacional basada en la evidencia, la innovación cívica y la articulación interinstitucional.
 
-En alianza con la ex-COCOTRA de Michoacán, HOT impulsó con aliados del gobierno estatal el primer piloto integral para mapear rutas de transporte. Este piloto fue clave para validar herramientas como OSMTracker y JOSM así como los procesos participativos basados en redes estudiantiles locales y nacionales, así como para demostrar que los datos generados desde la ciudadanía podían lograr un alto nivel de precisión.
+En Zamora, Rosendo Farfán, Director de Movilidad, señala: “*la solución para las ciudades está en el transporte público, tenemos como objetivos mejorar la calidad y eficiencia, reducir la congestión, aumentar la accesibilidad e incrementar los viajes multimodales. Es importante para nosotros destacar el hecho de que por primera vez en nuestro municipio tenemos claro un mapa rutero, indicadores de frecuencia, horarios y tarifas, todo esto gracias a los datos que minuciosamente recopilamos a lo largo de estos meses de trabajo*.”
 
-Se logró:
+Guillermo Velázquez Velázquez y Ángel David Jiménez Hernández, voluntarios en el mapeo de Salina Cruz, expresan: “*es la primera vez que escuchamos sobre estas iniciativas, y estamos gratamente sorprendidos, porque se nota que hace falta un cambio y que hay voluntad para lograrlo. Ojalá que más personas empiecen a usar la tecnología para conocer mejor las rutas y los precios. A veces, cuando hay bloqueos, los urbanos cambian su recorrido y quienes no conocen bien se confunden fácilmente.*”
 
-* El mapeo actualizado de la ciudad en OpenStreetMap, accesible en descarga para cualquier uso por instituciones, organizaciones y empresas.
+Finalmente, Juan Berdeja, exdirector de Planeación y Políticas de la SEMOVI Oaxaca, afirma: “*a la autoridad, el mapeo de rutas le ayuda a generar estrategias para identificar lo que es funcional en la calle y orientar políticas públicas más realistas.*”
 
-* El primer conjunto completo y actualizado de rutas trazadas en OSM en Michoacán.
+Para leer más sobre cada caso, te invitamos a explorar los siguientes recursos:
 
-* Validación de recorridos reales frente a rutas documentadas en el pasado.
+* [Creando Datos Juntos: Mapeo colaborativo para transformar el transporte público en México](https://www.hotosm.org/updates/creando-datos-juntos-mapeo-colaborativo-para-transformar-el-transporte-publico-en-mexico/)
 
-* Consolidación de metodología y modelo de coordinación para el mapeo urbano con más localidades.
+* [Mapeo Participativo de Transporte en Zamora, Michoacán](https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-zamora-michoacan/)
 
-El piloto evidenció que los datos generados desde la ciudadanía y en especial la comunidad académica, podían superar en precisión a los registros formales existentes, en plazos relativamente cortos y rebasando retos presupuestales. Desde entonces, el enfoque participativo se convirtió en eje central del modelo nacional.
+* [Implementación de Mapeo Abierto en la Gestión Municipal: Proyecto de Mapeo Colaborativo de Transporte Público en Zamora](https://www.hotosm.org/updates/implementacion-de-mapeo-abierto-en-la-gestion-municipal-proyecto-de-mapeo-colaborativo-de-transporte-publico-en-zamora/)
 
-### **Zamora y Jacona (2023–2024)**
+* [Mapeo participativo de transporte en Oaxaca y Toluca, México](https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-oaxaca-y-toluca-mexico/)
 
-![Progreso del Mapeo Codeando México.jpg](/uploads/Progreso%20del%20Mapeo%20Codeando%20Me%CC%81xico.jpg)
-
-El proyecto Rutatón-Zamora fue coordinado por la Dirección de Movilidad municipal en alianza con HOT, Codeando México, Trufi y CoMapper, logrando una articulación efectiva entre sociedad civil, academia y gobierno así como un modelo financiero eficiente movilizando fondos municipales. La participación activa de funcionarias municipales en el levantamiento de datos de la cuenca de servicio (que incluyó 12 localidades circundantes) fortaleció el aprendizaje intersectorial y evidenció el valor de la vinculación local en procesos de innovación cívica.
-
-La iniciativa permitió generar el primer mapa digital oficial de transporte colectivo en Zamora, integrar los datos en el diagnóstico del PIMUS y abrirlos para su uso en diversas plataformas tecnológicas para uso de la población. Esta experiencia demostró la viabilidad técnica y organizativa de una cartografía colaborativa del transporte público, con impactos directos en la planificación y la transparencia.
-
-> *La solución para las ciudades está en el transporte público, tenemos como objetivos mejorar la calidad y eficiencia, reducir la congestión, aumentar la accesibilidad e incrementar los viajes multimodales. Es importante para nosotros destacar el hecho de que por primera vez en nuestro municipio tenemos claro un mapa rutero, indicadores de frecuencia, horarios y tarifas, todo esto gracias a los datos que minuciosamente recopilamos a lo largo de estos meses de trabajo.* — Rosendo Farfán, Director de Movilidad.
-
-### **Toluca, Oaxaca, Salina Cruz y Puerto Escondido (2024–2025)**
-
-![Proyecto TranSit, HOT Codeando México Trufi Association..jpg](/uploads/Proyecto%20TranSit,%20HOT%20Codeando%20Me%CC%81xico%20Trufi%20Association/jpg)
-
-En la Zona Metropolitana de Toluca, el proyecto se enfocó en generar capacidades sostenibles a través de la academia. HOT trabajó con la Facultad de Geografía de la UAEMEX para formar un grupo técnico especializado que no solo recopiló datos, sino que también validó errores cartográficos existentes y trabajó en la integración total de los datos en GTFS.
-
-> *Es la primera vez que escuchamos sobre estas iniciativas, y estamos gratamente sorprendidos, porque se nota que hace falta un cambio y que hay voluntad para lograrlo. Ojalá que más personas empiecen a usar la tecnología para conocer mejor las rutas y los precios. A veces, cuando hay bloqueos, los urbanos cambian su recorrido y quienes no conocen bien se confunden fácilmente. *— Guillermo Velázquez Velázquez y Ángel David Jiménez Hernández, voluntarios en el mapeo de Salina Cruz.
-
-Toluca se convierte en un ejemplo de cómo la articulación universidad–ciudad puede construir soluciones locales con proyección nacional.
-
-En Oaxaca, el proyecto se desplegó en tres ciudades con realidades contrastantes: la capital estatal con una densa red de transporte formal/informal; un puerto turístico en crecimiento; y una ciudad media con dispersión territorial. En todos los casos, la Secretaría de Movilidad estatal se integró con estudiantes de la Universidad Regional del Sureste, Universidad La Salle Oaxaca y voluntarios locales, además de un apoyo sustancial de la Universidad Autónoma del Estado de México.
-
-> ***A la autoridad, el mapeo de rutas le ayuda a generar estrategias para identificar lo que es funcional en la calle y orientar políticas públicas más realistas.***\*\* \*\*— Juan Berdeja, exdirector de Planeación y Políticas, SEMOVI Oaxaca
-
-## **Impacto y resultados**
+## Impacto y resultados
 
 * **43 rutas mapeadas** en Zamora y Jacona
 
 * **25,000 puntos de interés** agregados a OSM en Toluca y Oaxaca
 
-* **8,500 errores viales corregidos **en Toluca y Oaxaca
+* **8,500 errores viales corregidos** en Toluca y Oaxaca
 
 * **330 unidades documentadas** y geolocalizadas en Zamora y Jacona
 
@@ -126,7 +104,7 @@ En Oaxaca, el proyecto se desplegó en tres ciudades con realidades contrastante
 
 * Red nacional permanente de mapeadores en formación desde varias temáticas territoriales
 
-## **¡Dialoguemos en Smart Cities!**
+## ¡Dialoguemos en Smart Cities!
 
 Estaremos en la 10a edición de Smart City Expo Latam Congress del 10 al 12 de junio en Puebla, México. Diseñamos un espacio de discusión de una hora para dialogar con autoridades sobre potenciales y retos en más ciudades medias del país. ¿Nos acompañas? Regístrate [aquí](https://registropronusevents.com/SCELC25/).
 
@@ -137,13 +115,3 @@ La cartografía distribuida con participación ciudadana supervisada está trans
 A partir de la experiencia acumulada por HOT a través de su programa de Ciudades Urbanas Resilientes en América Latina y el Caribe, ha demostrado que los gobiernos locales pueden construir resiliencia urbana utilizando herramientas de mapeo abierto en la mayoría de sus problemáticas, con resultados concretos para el transporte, la gestión del riesgo, de la interacción entre lo urbano y el medio ambiente, para un desarrollo más sostenible.
 
 Si tu ciudad enfrenta problemas de transporte público sin datos suficientes, o si buscas fortalecer capacidades para planificar con evidencia y participación, esta es tu oportunidad. ¡Contáctanos: [hublac@hotosm.org](mailto:hublac@hotosm.org)!
-
-## Otros recursos
-
-* [Creando Datos Juntos: Mapeo colaborativo para transformar el transporte público en México](https://www.hotosm.org/updates/creando-datos-juntos-mapeo-colaborativo-para-transformar-el-transporte-publico-en-mexico/)
-
-* [Mapeo Participativo de Transporte en Zamora, Michoacán](https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-zamora-michoacan/)
-
-* [Implementación de Mapeo Abierto en la Gestión Municipal: Proyecto de Mapeo Colaborativo de Transporte Público en Zamora](https://www.hotosm.org/updates/implementacion-de-mapeo-abierto-en-la-gestion-municipal-proyecto-de-mapeo-colaborativo-de-transporte-publico-en-zamora/)
-
-* [Mapeo participativo de transporte en Oaxaca y Toluca, México](https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-oaxaca-y-toluca-mexico/)
