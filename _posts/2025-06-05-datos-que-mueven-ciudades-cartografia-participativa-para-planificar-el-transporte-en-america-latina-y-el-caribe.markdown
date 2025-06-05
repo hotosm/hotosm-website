@@ -18,7 +18,7 @@ Project:
 - Mapeo participativo de transporte en Zitácuaro, Michoacán
 ---
 
-## Del territorio al dato: construir mapas públicos para planificar mejor
+# Del territorio al dato: construir mapas públicos para planificar mejor
 
 ![6-6819e1.jpg](/uploads/6-6819e1.jpg)
 
@@ -30,7 +30,7 @@ La Iniciativa de las Naciones Unidas sobre la Gestión Global de la Información
 
 Frente a este desafío, el Equipo Humanitario de OpenStreetMap (HOT) ha asumido el liderazgo regional en el diseño y la implementación de una estrategia nacional de cartografía participativa enfocada en el desarrollo urbano sostenible, incluido el transporte público. Esta estrategia articula esfuerzos técnicos, comunitarios y gubernamentales. En colaboración con [Codeando México](https://codeandomexico.org/) y [Trufi Association](https://www.trufi-association.org/), HOT ha promovido el uso de herramientas de código abierto para mapear en OpenStreetMap, como OSM Tracker y JOSM, abordando desde la traza urbana hasta los puntos de interés en la movilidad y el transporte. Esta metodología ha demostrado ser eficaz, económica y replicable, permitiendo a los gobiernos locales acceder a datos abiertos de alta calidad y a la ciudadanía participar directamente en su generación.
 
-## ¿Qué es la cartografía participativa digital?
+# ¿Qué es la cartografía participativa digital?
 
 ![4-22e05b.jpg](/uploads/4-22e05b.jpg)
 
@@ -40,7 +40,7 @@ La cartografía participativa digital es un proceso colaborativo de representaci
 
 A través de talleres, recorridos de campo y sesiones colectivas de edición, estudiantes, voluntarios, autoridades y organizaciones locales crean datos en tiempo real, integrados posteriormente a OpenStreetMap, y convertidos a  archivos GTFS que se integran a apps de movilidad y a sistemas de planeación urbana. HOT ha promovido activamente este enfoque en México como parte de su misión global de democratizar el acceso a los datos geoespaciales, fomentando la formación y crecimiento de comunidades locales, en red a escala nacional, con capacidad técnica propia, y potencial participación en múltiples temáticas del territorio.
 
-## La visión en México: una estrategia nacional desde abajo
+# La visión en México: una estrategia nacional desde abajo
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/S1HmvGAstic?si=fa36D0x12NEEz6RH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -50,7 +50,7 @@ Se impulsó una serie de casos en el país desde 2022: Zitácuaro, Zamora, y act
 
 La cartografía para la política local es una necesidad integral, que rara vez, por falta de capacidades, tiempo y recursos, se logra abordar desde este enfoque. Sin embargo, al no tratarlo de esta manera, limitamos el alcance de todas las áreas de la planeación. Es de suma importancia lograr organizar los mecanismos necesarios para en un momento dado tener la mayor parte de las infraestructuras críticas de la ciudad adecuadamente y exhaustivamente cartografiadas. Si bien parece un sueño para cualquier gobierno local, eso se logra desde el principio de colaboración: con más actores de la sociedad civil, con la ciudadanía, y con la comunidad académica.
 
-## Enfoque metodológico
+# Enfoque metodológico
 
 La metodología diseñada por la alianza HOT, Trufi y Codeando México se estructura en seis etapas:
 
@@ -66,7 +66,7 @@ La metodología diseñada por la alianza HOT, Trufi y Codeando México se estruc
 
 * **Sostenibilidad y expansión:** Se incentiva la inclusión del modelo de mapeo colaborativo en programas académicos y de servicio social en temas variados, consolidando la red nacional de mapeadores urbanos que crece en cada nueva iniciativa de mapeo para el desarrollo sustentable.
 
-## Casos destacados
+# Casos destacados
 
 La experiencia acumulada en Zitácuaro, Zamora–Jacona, y en las ciudades de Toluca y Oaxaca ha consolidado un modelo escalable, participativo y multisectorial de cartografía colaborativa del transporte público en México. Cada caso ha aportado aprendizajes clave que han nutrido una estrategia nacional basada en la evidencia, la innovación cívica y la articulación interinstitucional.
 
@@ -86,7 +86,7 @@ Para leer más sobre cada caso, te invitamos a explorar los siguientes recursos:
 
 * [Mapeo participativo de transporte en Oaxaca y Toluca, México](https://www.hotosm.org/projects/mapeo-participativo-de-transporte-en-oaxaca-y-toluca-mexico/)
 
-## Impacto y resultados
+# Impacto y resultados
 
 * **43 rutas mapeadas** en Zamora y Jacona
 
@@ -104,11 +104,11 @@ Para leer más sobre cada caso, te invitamos a explorar los siguientes recursos:
 
 * Red nacional permanente de mapeadores en formación desde varias temáticas territoriales
 
-## ¡Dialoguemos en Smart Cities!
+# ¡Dialoguemos en Smart Cities!
 
 Estaremos en la 10a edición de Smart City Expo Latam Congress del 10 al 12 de junio en Puebla, México. Diseñamos un espacio de discusión de una hora para dialogar con autoridades sobre potenciales y retos en más ciudades medias del país. ¿Nos acompañas? Regístrate [aquí](https://registropronusevents.com/SCELC25/).
 
-## **¿Tu ciudad también necesita mapeo colaborativo?**
+# **¿Tu ciudad también necesita mapeo colaborativo?**
 
 La cartografía distribuida con participación ciudadana supervisada está transformando la forma en que México y América Latina planifican sus territorios y en este caso su movilidad cotidiana. Diseñado para ser abierto, replicable y de bajo costo, el modelo de acción permite generar impacto local tangible al tiempo que establece conexiones estratégicas con redes internacionales.
 
