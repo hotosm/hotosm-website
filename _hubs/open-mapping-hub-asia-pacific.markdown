@@ -26,7 +26,7 @@ Our goal is to drive the evolution and growth of locally-driven, sustainable ope
 
 * [Booster Grants](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Booster_Grants)
 
-Follow us on social media for the latest updates and stories!
+**Follow us on social media for the latest updates and stories!**
 [facebook](https://www.facebook.com/openmapping.ap) | [instagram](https://www.instagram.com/openmapping_ap) | [linkedin](https://www.linkedin.com/showcase/openmapping-ap) | [x (twitter)](https://x.com/openmapping_ap) | [youtube](https://www.youtube.com/@openmapping_ap)
 
 * [Connect with OSM Communities in the AP region](https://openstreetmap.community/)
