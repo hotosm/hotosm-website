@@ -56,15 +56,15 @@ La metodología diseñada por la alianza HOT, Trufi y Codeando México se estruc
 
 * **Diagnóstico inicial: **Evaluación técnica y entrevistas con gobiernos locales para definir necesidades, existencia y calidad de datos existentes y capacidades instaladas. Diagnóstico del estado del mapa colaborativo de OpenStreetMap en las localidades de interés.
 
-* **Formación comunitaria: **Identificación de comunidades técnicas locales, y de los potenciales de fortalecimiento. Identificación de mecanismos de reconocimiento estudiantil pertinentes. Capacitación a estudiantes, colectivos y personal gubernamental en el mapeo integral en OpenStreetMap,  OSMTracker y uso de datos de transporte.
+* **Formación comunitaria:** Identificación de comunidades técnicas locales, y de los potenciales de fortalecimiento. Identificación de mecanismos de reconocimiento estudiantil pertinentes. Capacitación a estudiantes, colectivos y personal gubernamental en el mapeo integral en OpenStreetMap,  OSMTracker y uso de datos de transporte.
 
-* **Recolección de datos en gabinete y en campo: **Equipos mixtos registran la cartografía de la ciudad utilizando imágenes aéreas libres: infraestructura critica, red vial completa, puntos atractores de movilidad ; rutas, frecuencias, horarios, puntos de parada usando apps móviles.
+* **Recolección de datos en gabinete y en campo:** Equipos mixtos registran la cartografía de la ciudad utilizando imágenes aéreas libres: infraestructura critica, red vial completa, puntos atractores de movilidad ; rutas, frecuencias, horarios, puntos de parada usando apps móviles.
 
-* **Procesamiento colaborativo: **A través de datatones con comunidades entrenadas se corrigen errores, se estructuran datos y se integran al ecosistema de OSM.
+* **Procesamiento colaborativo:** A través de datatones con comunidades entrenadas se corrigen errores, se estructuran datos y se integran al ecosistema de OSM.
 
-* **Socialización e integración: **Los datos de la ciudad se pueden descargar directamente en OSM y se liberan en formatos vectoriales y GTFS para su uso en apps de navegación incluida Rutómetro (versión local de Trufi App) y son compartidos con gobiernos municipales y estatales, y con el público en general.
+* **Socialización e integración:** Los datos de la ciudad se pueden descargar directamente en OSM y se liberan en formatos vectoriales y GTFS para su uso en apps de navegación incluida Rutómetro (versión local de Trufi App) y son compartidos con gobiernos municipales y estatales, y con el público en general.
 
-* **Sostenibilidad y expansión: **Se incentiva la inclusión del modelo de mapeo colaborativo en programas académicos y de servicio social en temas variados, consolidando la red nacional de mapeadores urbanos que crece en cada nueva iniciativa de mapeo para el desarrollo sustentable.
+* **Sostenibilidad y expansión:** Se incentiva la inclusión del modelo de mapeo colaborativo en programas académicos y de servicio social en temas variados, consolidando la red nacional de mapeadores urbanos que crece en cada nueva iniciativa de mapeo para el desarrollo sustentable.
 
 ## **Casos destacados**
 
@@ -86,7 +86,7 @@ El piloto evidenció que los datos generados desde la ciudadanía y en especial 
 
 ### **Zamora y Jacona (2023–2024)**
 
-![Progreso del Mapeo Codeando México.jpg](/api/v2/sites/5a708acdd838894824c43445/source/_uploads/Progreso%20del%20Mapeo%20Codeando%20Me%CC%81xico.jpg?download)
+![Progreso del Mapeo Codeando México.jpg](/uploads/Progreso%20del%20Mapeo%20Codeando%20Me%CC%81xico.jpg)
 
 El proyecto Rutatón-Zamora fue coordinado por la Dirección de Movilidad municipal en alianza con HOT, Codeando México, Trufi y CoMapper, logrando una articulación efectiva entre sociedad civil, academia y gobierno así como un modelo financiero eficiente movilizando fondos municipales. La participación activa de funcionarias municipales en el levantamiento de datos de la cuenca de servicio (que incluyó 12 localidades circundantes) fortaleció el aprendizaje intersectorial y evidenció el valor de la vinculación local en procesos de innovación cívica.
 
@@ -106,7 +106,7 @@ Toluca se convierte en un ejemplo de cómo la articulación universidad–ciudad
 
 En Oaxaca, el proyecto se desplegó en tres ciudades con realidades contrastantes: la capital estatal con una densa red de transporte formal/informal; un puerto turístico en crecimiento; y una ciudad media con dispersión territorial. En todos los casos, la Secretaría de Movilidad estatal se integró con estudiantes de la Universidad Regional del Sureste, Universidad La Salle Oaxaca y voluntarios locales, además de un apoyo sustancial de la Universidad Autónoma del Estado de México.
 
-> ***A la autoridad, el mapeo de rutas le ayuda a generar estrategias para identificar lo que es funcional en la calle y orientar políticas públicas más realistas.***** **— Juan Berdeja, exdirector de Planeación y Políticas, SEMOVI Oaxaca
+> ***A la autoridad, el mapeo de rutas le ayuda a generar estrategias para identificar lo que es funcional en la calle y orientar políticas públicas más realistas.***\*\* \*\*— Juan Berdeja, exdirector de Planeación y Políticas, SEMOVI Oaxaca
 
 ## **Impacto y resultados**
 
@@ -114,7 +114,7 @@ En Oaxaca, el proyecto se desplegó en tres ciudades con realidades contrastante
 
 * **25,000 puntos de interés** agregados a OSM en Toluca y Oaxaca
 
-* **8,500 errores viales corregidos en **Toluca y Oaxaca
+* **8,500 errores viales corregidos **en Toluca y Oaxaca
 
 * **330 unidades documentadas** y geolocalizadas en Zamora y Jacona
 
