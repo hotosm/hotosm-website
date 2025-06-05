@@ -6,21 +6,21 @@ Page Contact:
   Contact Email: openmappinghub.ap@hotosm.org
 Page Link:
   Label: Subscribe to the AP Open Mapping Hub newsletter
-  Link: https://hotosm.us9.list-manage.com/subscribe?u=5191e27b207136970f2a9ec1b&id=c500c9856f
+  Link: https://mailchi.mp/hotosm.org/stories-of-tech-data-and-local-open-mapping-for-good
 layout: page
 ---
 
 ![hot_omh_asia_pacific_logo_rev_colour_with_tagline-2-2129x1332.png](https://cdn.hotosm.org/website/hot_omh_asia_pacific_logo_rev_colour_with_tagline-2-2129x1332.png)
 
-The Open Mapping Hub - Asia Pacific (AP Hub) was established in early 2021 to advance the open mapping movement in the Asia-Pacific region. The hub engages open mapping organizations and communities in the region to facilitate the exchange of ideas and expertise across 25 countries in the region. We also provide financial and technical support to massively scale local edits on OpenStreetMap (OSM).
+Established in early 2021, the Open Mapping Hub - Asia Pacific (AP Hub) is dedicated to advancing the open mapping movement across the Asia Pacific region.
 
-By prioritizing local mapping organizations and communities, facilitating knowledge exchange, distributing funding, and providing training and support, we are focusing efforts to work with local organizations and communities to drive high-quality, ethical, local data use cases.
+Our goal is to drive the evolution and growth of locally-driven, sustainable open mapping ecosystems. By leveraging open mapping technology and innovation, we work to empower communities and deliver meaningful impact across the humanitarian and development sectors.
 
 * [Myanmar Earthquake Response 2025](https://www.hotosm.org/projects/myanmar-earthquake-response-2025/)
 
-* [She Leads She Inspires Program](https://www.hotosm.org/projects/she-leads-and-she-inspires/)
+* [Mapping for Climate Ready Cities - Dhaka](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
 
-* [Map and Chat hour](https://wiki.openstreetmap.org/wiki/Asia_Pacific_Map_and_Chat_Hour)
+* [She Leads and She Inspires](https://www.hotosm.org/projects/she-leads-and-she-inspires/)
 
 * [Booster Grants](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Booster_Grants)
 
