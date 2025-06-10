@@ -8,6 +8,7 @@ Summary Text: Amid severe funding cuts in 2025, humanitarian GIS practitioners a
   with global standards. Initiatives like HDX data sharing and the IMWG GIS working
   group demonstrate how partnerships can sustain evidence-based humanitarian action
   despite shrinking budgets.
+Feature Image: "/uploads/hnpw_2025.jpg"
 ---
 
 ## Humanitarian GIS Reflections in Mid-2025: A Collaborative Approach to Geospatial Data
@@ -24,7 +25,7 @@ Yet spatial data offers a path forward. **Maps have always brought people togeth
 
 <br>
 <div style="text-align: center;">
-    <img src="Image_a.jpg" alt="OSM Global Activity Patterns" style="width: 65%; height: auto;">
+    <img src="/uploads/osm_changesets.jpg" alt="OSM Global Activity Patterns" style="width: 65%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         Highest OSM activity per time frame and cell. From Schröder-Bergen, Glasze, and Michel, et al. (2022).
     </div>
