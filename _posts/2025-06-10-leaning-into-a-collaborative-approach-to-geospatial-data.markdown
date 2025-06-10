@@ -14,9 +14,7 @@ Person: Jessica Pechmann
 
 ## Humanitarian GIS Reflections in Mid-2025: A Collaborative Approach to Geospatial Data
 
-The first Humanitarian Networks & Partnerships Weeks (HNPW) I attended in person was in May 2022, when we were coming out of the pandemic. At the time, I felt an energy in the room - a sense that genuine collaboration between organizations was finally within reach after so long living in digital spaces. As excited as we all were to be back in person in our offices and at conferences, there was a clear interest in continuing a remote but connected way of working. 
-
-Three years later, in 2025, that excitement to work together is being quickly prompted into reality as we find ourselves in a very different sector with massive funding cuts. Attending this year’s HNPW in March, these were some of the themes that came up repeatedly throughout the conference:
+The first Humanitarian Networks & Partnerships Weeks (HNPW) I attended in person was in May 2022, as we emerged from the pandemic. That energy for collaboration has now become necessity in 2025's landscape of massive funding cuts. Key themes from this year's HNPW:
 
 1. **Stopping duplication** through increased coordination
 2. Improved working with **local actors**
