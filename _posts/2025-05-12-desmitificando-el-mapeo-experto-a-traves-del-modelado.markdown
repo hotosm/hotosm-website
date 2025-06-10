@@ -51,4 +51,4 @@ Al verbalizar estos momentos, mostramos que el mapeo es activo, que puede ser de
 
 La clave está en ser intencionales, auténticos y reflexivos, dejando que nuestro mapeo sea un modelo para otras personas a través del pensamiento compartido.
 
-Hagamos visible el trabajo invisible del mapeo. Si eres una persona con experiencia mapeando, tu voz y tu forma de pensar podrían ser el puente que alguien más necesita. Como comunidad abierta, es hora de **compartir nuestros pensamientos cuando capacitamos.
+Hagamos visible el trabajo invisible del mapeo. Si eres una persona con experiencia mapeando, tu voz y tu forma de pensar podrían ser el puente que alguien más necesita. Como comunidad abierta, es hora de compartir nuestros pensamientos cuando capacitamos.

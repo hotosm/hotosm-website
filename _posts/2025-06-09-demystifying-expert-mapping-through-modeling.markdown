@@ -10,6 +10,9 @@ Project:
 - Open Mapping for All
 ---
 
+**[Versión en español
+](https://www.hotosm.org/updates/desmitificando-el-mapeo-experto-a-traves-del-modelado/)**
+
 How can we better support beginner mappers in their learning journey? What does an expert mapper know  and do that others do not? Many new mappers have asked me what else they can do, other than just keep on mapping, to become expert mappers. And they are right, we give examples in mapathons, and webinars, but demystifying expert mapping is not high on our priority list. It should be.
 
 Let me suggest a way forward with this: Modeling! Modeling is a strong force that can shape a learning experience, it is all about showing the way and explaining on the way. It means demonstrating a skill, behavior, or way of thinking so that learners can observe, understand, and eventually try it themselves. In our case, we should not only show how we map, but also include an explanation of our thought process. In fancy terms, this is related to metacognition (thinking about your thinking) and of the modeling strategy of “thinking aloud”. Modeling will allow a beginner mapper to understand what an experienced mapper does.
