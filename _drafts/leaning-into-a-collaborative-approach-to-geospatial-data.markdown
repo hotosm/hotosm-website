@@ -3,11 +3,11 @@ title: Leaning into a collaborative approach to geospatial data
 date: 2025-06-10 18:44:00 Z
 Summary Text: Amid severe funding cuts in 2025, humanitarian GIS practitioners are
   prioritizing collaboration to avoid duplication and leverage shared resources like
-  OpenStreetMap (OSM). Spatial data—particularly OSM’s open, community-driven model—offers
-  a resilient framework for coordinated crisis response, combining local knowledge
-  with global standards. Initiatives like HDX data sharing and the IMWG GIS working
-  group demonstrate how partnerships can sustain evidence-based humanitarian action
-  despite shrinking budgets.
+  OSM. Spatial data—particularly OSM’s open, community-driven model—offers a resilient
+  framework for coordinated crisis response, combining local knowledge with global
+  standards. Initiatives like HDX data sharing and the IMWG GIS working group demonstrate
+  how partnerships can sustain evidence-based humanitarian action despite shrinking
+  budgets.
 Feature Image: "/uploads/hnpw_2025.jpg"
 ---
 
@@ -25,7 +25,7 @@ Yet spatial data offers a path forward. **Maps have always brought people togeth
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/osm_changesets.jpg" alt="OSM Global Activity Patterns" style="width: 65%; height: auto;">
+    <img src="/uploads/osm_changesets.jpg" alt="OSM Global Activity Patterns" style="width: 85%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         Highest OSM activity per time frame and cell. From Schröder-Bergen, Glasze, and Michel, et al. (2022).
     </div>
