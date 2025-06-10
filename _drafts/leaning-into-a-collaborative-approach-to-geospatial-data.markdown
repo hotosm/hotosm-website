@@ -34,9 +34,11 @@ Yet spatial data offers a path forward. **Maps have always brought people togeth
 <br>
 
 OSM's value is demonstrated by its popularity on the Humanitarian Data Exchange (HDX), where [OpenStreetMap exports by HOT](https://data.humdata.org/organization/stats/hot) received nearly 5,000 visits in the last 30 days. The model of **locally led systems with global support** - seen in growing OSM communities in [Sudan](https://www.hotosm.org/projects/geospatial-data-for-humanitarian-response-in-sudan-conflict/) and [Lebanon](https://hsph.harvard.edu/atrocity-prevention-lab/news/mapping-hope-rebuilding-lebanon-after-conflict/) - offers a blueprint for sustainable humanitarian mapping.
+<br>
 
 ---
 
+<br>
 ## Call to Action: Three Steps for Collaborative GIS
 
 1. **Identify core spatial data layers** needed across humanitarian responses, starting with HDX's [data grids](https://data.humdata.org/dashboards/overview-of-data-grids) and top OSM datasets (roads, buildings, waterways, etc.)
