@@ -18,7 +18,7 @@ Using modeling to make expert mapping accessible for all will make a big differe
 
 <iframe src="https://giphy.com/embed/mMnQDG9J1C0n0gnkKP" width="800" height="600" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hotosm-ideditor-mMnQDG9J1C0n0gnkKP">via GIPHY</a></p>
 
-"Hmm, I see this road is directly connected to a building, when I move the building, the road moves with it, this should be separated. What can I do? Right-clicking always gives me some options, so let me try that first, I’ll right-click on the point where they meet, and will have a look at the menu. There it is, the “disconnect” option. That is what I need, I’ll select that. Now the house and road are no longer linked. That frees me up to square the building properly and clean up the road alignment too. So, remember, when features are wrongly joined, the right-click menu gives you tools like “disconnect” to fix it. In general, the right-click menu has a few good tools that solve mapping problems”.
+> *"Hmm, I see this road is directly connected to a building, when I move the building, the road moves with it, this should be separated. What can I do? Right-clicking always gives me some options, so let me try that first, I’ll right-click on the point where they meet, and will have a look at the menu. There it is, the “disconnect” option. That is what I need, I’ll select that. Now the house and road are no longer linked. That frees me up to square the building properly and clean up the road alignment too. So, remember, when features are wrongly joined, the right-click menu gives you tools like “disconnect” to fix it. In general, the right-click menu has a few good tools that solve mapping problems”.*
 
 In this example, the experienced mapper talks through the process, shares his thinking, and explains how he gets to the solution. The experienced mapper should role-play from a mindset that they are beginner again and ask themselves simple questions, questions a learner can follow. Modeling like this helps demystify the mapping process, it's not just about what buttons to click, but how to think, question, and improve the map collaboratively.
 
@@ -30,13 +30,13 @@ Modelling is often called "thinking aloud" and we should practice it, verbalizin
 
 For example:
 
-* **Strategies: **“Before jumping in, I like to have a look at the whole area first to get a sense of it, so I will zoom out before mapping anything.”
+* \*\*Strategies: \*\*“Before jumping in, I like to have a look at the whole area first to get a sense of it, so I will zoom out before mapping anything.”
 
 * **Questions:** “I’m asking myself: What was the mapper trying to do here? Why did they map it like this? Has there been an upgrade recently?”
 
-* **Uncertainties: **“I’m not totally sure if this is the best approach, but I’m going to try it and see what happens. If it doesn’t work, I’ll adjust before saving or delete the whole thing.”
+* \*\*Uncertainties: \*\*“I’m not totally sure if this is the best approach, but I’m going to try it and see what happens. If it doesn’t work, I’ll adjust before saving or delete the whole thing.”
 
-* **Mistakes: **“Ah, I see what I did wrong, I mapped something without checking the other imagery. Let me do that now before moving on.”
+* \*\*Mistakes: \*\*“Ah, I see what I did wrong, I mapped something without checking the other imagery. Let me do that now before moving on.”
 
 By verbalizing these moments, you show that mapping is active, that it can be messy, and that reflection is needed. It demystifies expert mapping and invites beginners to develop their own mapping competencies based on the experience of others.
 
