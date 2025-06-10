@@ -1,5 +1,6 @@
 ---
-title: Leaning into a collaborative approach to geospatial data
+title: 'Humanitarian GIS Reflections in Mid-2025: A Collaborative Approach to Geospatial
+  Data'
 date: 2025-06-10 18:44:00 Z
 Summary Text: Amid severe funding cuts in 2025, humanitarian GIS practitioners are
   prioritizing collaboration to avoid duplication and leverage shared resources like
