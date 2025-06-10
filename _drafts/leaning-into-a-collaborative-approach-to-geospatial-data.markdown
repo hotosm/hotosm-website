@@ -5,9 +5,7 @@ Summary Text: Amid severe funding cuts in 2025, humanitarian GIS practitioners a
   prioritizing collaboration to avoid duplication and leverage shared resources like
   OSM. Spatial data—particularly OSM’s open, community-driven model—offers a resilient
   framework for coordinated crisis response, combining local knowledge with global
-  standards. Initiatives like HDX data sharing and the IMWG GIS working group demonstrate
-  how partnerships can sustain evidence-based humanitarian action despite shrinking
-  budgets.
+  standards.
 Feature Image: "/uploads/hnpw_2025.jpg"
 Person: Jessica Pechmann
 ---
