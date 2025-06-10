@@ -9,6 +9,7 @@ Summary Text: Amid severe funding cuts in 2025, humanitarian GIS practitioners a
   how partnerships can sustain evidence-based humanitarian action despite shrinking
   budgets.
 Feature Image: "/uploads/hnpw_2025.jpg"
+Person: Jessica Pechmann
 ---
 
 ## Humanitarian GIS Reflections in Mid-2025: A Collaborative Approach to Geospatial Data
