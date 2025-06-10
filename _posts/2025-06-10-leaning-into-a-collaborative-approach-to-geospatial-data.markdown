@@ -2,6 +2,7 @@
 title: 'Humanitarian GIS Reflections in Mid-2025: A Collaborative Approach to Geospatial
   Data'
 date: 2025-06-10 18:44:00 Z
+published: false
 Summary Text: Amid severe funding cuts in 2025, humanitarian GIS practitioners are
   prioritizing collaboration to avoid duplication and leverage shared resources like
   OSM. Spatial data—particularly OSM’s open, community-driven model—offers a resilient
