@@ -48,7 +48,8 @@ Besides OSM, there are existing systems we are already using to collaborate. Non
 2. **Share** with others if you have information on any of the above datasets in a humanitarian context. Or, be vocal in shared networking spaces if you are looking for a dataset to find others to work together with. 
 3. **Find partners**: Spend the time to work with those outside of your organization to identify similar project overlaps and synergies. 
 <br>
-⠀
+
+
 Some examples of HOT improved datasets of shared need when instigated by a partner in our [Program on Conflict and Displacement](https://www.hotosm.org/programs/conflict-displacement):
 * Updated building footprints in OSM areas of high [displacement in Somalia](https://www.hotosm.org/projects/osm-buildings-for-representation-of-idps-in-somalia/)
 * Building footprints in OSM in [Gaza](https://www.hotosm.org/updates/gaza-osm-buildings-update-2024/)
