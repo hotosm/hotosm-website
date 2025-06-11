@@ -2,7 +2,6 @@
 title: 'Humanitarian GIS Reflections in Mid-2025: A Collaborative Approach to Geospatial
   Data'
 date: 2025-06-10 18:44:00 Z
-published: false
 Summary Text: Amid severe funding cuts in 2025, humanitarian GIS practitioners are
   prioritizing collaboration to avoid duplication and leverage shared resources like
   OSM. Spatial data—particularly OSM’s open, community-driven model—offers a resilient
@@ -50,10 +49,10 @@ Besides OSM, there are existing systems we are already using to collaborate. Oth
 <br>
 
 
-Some examples of HOT improved datasets of shared need when instigated by a partner in our [Program on Conflict and Displacement](https://www.hotosm.org/programs/conflict-displacement):
+Some examples of recently HOT-improved datasets of shared need when instigated by a partner in our [Program on Conflict and Displacement](https://www.hotosm.org/programs/conflict-displacement):
 * Updated building footprints in OSM areas of high [displacement in Somalia](https://www.hotosm.org/projects/osm-buildings-for-representation-of-idps-in-somalia/)
 * Building footprints in OSM in [Gaza](https://www.hotosm.org/updates/gaza-osm-buildings-update-2024/)
-* Mapped heritage sites in OSM Lebanon and [Sudan](https://www.flickr.com/photos/200430814@N03/54580525638/in/gallery-hotosm-72157723905704890/lightbox/)
+* Mapped heritage sites in OSM in Lebanon and [Sudan](https://www.flickr.com/photos/200430814@N03/54580525638/in/gallery-hotosm-72157723905704890/lightbox/)
 * Mapped [logistics data in Sudan](https://www.flickr.com/photos/200430814@N03/54580525648/in/gallery-hotosm-72157723905704890/lightbox/)
 * Improved data quality in parsing English and Arabic [road names in Sudan](https://www.flickr.com/photos/200430814@N03/54580633330/in/gallery-hotosm-72157723905704890/lightbox/)
 
