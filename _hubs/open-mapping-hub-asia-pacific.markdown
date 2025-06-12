@@ -16,7 +16,7 @@ Established in early 2021, the Open Mapping Hub - Asia Pacific (AP Hub) is dedic
 
 Our goal is to drive the evolution and growth of locally-driven, sustainable open mapping ecosystems. By leveraging open mapping technology and innovation, we work to empower communities and deliver meaningful impact across the humanitarian and development sectors.
 
-**Our projects:**
+# Our projects:
 
 * [Myanmar Earthquake Response 2025](https://www.hotosm.org/projects/myanmar-earthquake-response-2025/)
 
