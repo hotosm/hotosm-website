@@ -6,6 +6,9 @@ Summary Text: On 28  May, a devastating flash flood tore through Mokwa, leavin
   damage and update infrastructure using new satellite imagery to enhance analysis
   and impact. [Join the project here.](https://tasks.hotosm.org/projects/22810/#description)
 Feature Image: "/uploads/Mokwa%20Announcement%20Banner.jpg"
+Person: Melodee Okigbo
+Country:
+- Nigeria
 ---
 
 ### What’s Happening In Mokwa?
