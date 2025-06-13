@@ -11,7 +11,7 @@ Country:
 - Nigeria
 ---
 
-##What’s Happening In Mokwa?
+## What’s Happening In Mokwa?
 On 28 May 2025, a sudden flash flood struck Mokwa, a market town in Niger State, Nigeria. The deluge has wrought severe damage across the community:
 
 * 2,000+ homes have been destroyed or inundated.
@@ -25,7 +25,7 @@ Due to a previous project for disaster preparedness and response in collaboratio
 🔗[ https://bit.ly/mokwatowndata](https://data.humdata.org/dataset/?organization=hot&q=mokwa+town)
 
 
-##How You Can Contribute
+## How You Can Contribute
 
 Now, with the availability of post‑disaster satellite imagery provided by Maxar, we’re launching a post‑disaster mapping campaign to support the [Geohazards Risk Mapping Initiative](https://www.georiskmap.org/). Your contributions will potentially enable:
 
