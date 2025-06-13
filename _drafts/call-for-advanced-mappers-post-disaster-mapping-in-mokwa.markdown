@@ -1,7 +1,7 @@
 ---
 title: 'Call for Advanced Mappers: Post‑Disaster Mapping in Mokwa'
 date: 2025-06-13 15:45:00 Z
-Summary Text: On 28  May, a devastating flash flood tore through Mokwa, leaving homes
+Summary Text: A devastating flash flood recently tore through Mokwa, leaving homes
   destroyed and lives upended. We’re calling on advanced mappers to help tag building
   damage and update infrastructure using new satellite imagery to enhance analysis
   and impact.
