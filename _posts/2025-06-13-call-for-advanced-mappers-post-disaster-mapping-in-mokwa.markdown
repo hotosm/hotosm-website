@@ -22,7 +22,9 @@ On 28 May 2025, a sudden flash flood struck Mokwa, a market town in Niger State,
 Disaster response agencies for the region and international NGOs like the [Nigerian Red Cross](https://www.redcrossnigeria.org/flood-response-mokwa-niger-state) are on the ground delivering urgent relief.
 
 Due to a previous project for disaster preparedness and response in collaboration with Médecins Sans Frontières (MSF), **pre‑disaster building footprints, road networks, and more for Mokwa are already mapped and publicly available here**:
-🔗[ https://bit.ly/mokwatowndata](https://data.humdata.org/dataset/?organization=hot&q=mokwa+town)
+[ https://bit.ly/mokwatowndata](https://data.humdata.org/dataset/?organization=hot&q=mokwa+town)
+
+Having relevant data readily available in situations like these highlights the importance of anticipatory mapping, especially in disaster-prone regions.
 
 
 ## How You Can Contribute
@@ -34,7 +36,7 @@ Now, with the availability of post‑disaster satellite imagery provided by Maxa
 * **Resilient rebuilding:** Informing smarter, safer reconstruction plans.
 
 Mapping will consist of:
-* Comparing pre‑ and post‑disaster imagery to identify building damage.
+* Comparing pre- and post-disaster imagery to identify building damage.
 * Tagging damaged structures based on impact extent.
 * Adding new buildings.
 
