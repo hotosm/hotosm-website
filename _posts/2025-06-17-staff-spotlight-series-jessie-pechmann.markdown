@@ -1,7 +1,6 @@
 ---
 title: 'Staff Spotlight Series: Jessie Pechmann'
 date: 2025-06-17 13:41:00 Z
-published: false
 Summary Text: Each quarter, we feature one of our all-star staff members in a Spotlight
   Series. Staff featured in this Series have been peer-nominated for their superb
   performance and values-driven work. This quarter, we spotlight Jessie Pechmann,
