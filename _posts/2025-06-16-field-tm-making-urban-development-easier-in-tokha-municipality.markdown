@@ -1,7 +1,6 @@
 ---
 title: 'Field-TM: Making Urban Development Easier in Tokha Municipality'
 date: 2025-06-16 14:45:00 Z
-published: false
 Summary Text: 55 enumerators and project coordinators used the Field Tasking Manager
   (Field-TM) for a building survey in Tokha, Nepal, to improve metric addressing and
   develop integrated databases. The tool enhanced data collection during a house numbering
