@@ -30,7 +30,8 @@ Duration:
   End Date: 2024-11-20 00:00:00 Z
 Tools:
 - tool: OpenStreetMap
-- tool: iD Editor
+- link: 
+  tool: iD Editor
 - tool: Tasking Manager
 - tool: JOSM
 - tool: Mapillary
@@ -38,6 +39,8 @@ Tools:
 - tool: StreetComplete
 - tool: Export Tool
 ---
+
+[English version](https://www.hotosm.org/projects/humanitarian-mapping-laboratory/)
 
 **CONTEXTO**
 
