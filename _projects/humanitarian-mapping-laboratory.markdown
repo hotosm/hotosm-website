@@ -5,8 +5,9 @@ Project Summary Text: The Humanitarian Mapping Course trained 42 participants fr
   11 countries across Latin America in open mapping tools for disaster preparedness
   and social impact. Designed for people with basic or intermediate knowledge, it
   provided hands-on experience using tools like OSM, iD Editor, JOSM, and Tasking
-  Manager. Sessions included expert talks from Doctors Withous Borders (MSF), UNDRR,
-  and engagement in the Colombia 2024 National Mapathon with UNGRD.
+  Manager. Sessions included expert talks from Doctors Withous Borders (MSF), United
+  Nations Office for Disaster Risk Reduction (UNDRR), and engagement in the Colombia
+  2024 National Mapathon with UNGRD.
 Feature Image: "/uploads/Humanitarian%20Mapping%20Laboratory%20HOT.jpg"
 Project Logo Image: "/uploads/Humanitarian%20Mapping%20Laboratory.jpg"
 Country:
