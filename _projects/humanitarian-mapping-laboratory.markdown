@@ -12,8 +12,8 @@ Feature Image: "/uploads/Humanitarian%20Mapping%20Laboratory%20HOT.jpg"
 Project Logo Image: "/uploads/Humanitarian%20Mapping%20Laboratory.jpg"
 Country:
 - Argentina
-- Brazil
 - Bolivia
+- Brazil
 - Colombia
 - Ecuador
 - Guatemala
@@ -38,6 +38,8 @@ Tools:
 - tool: StreetComplete
 - tool: Export Tool
 ---
+
+[Versión en español](https://www.hotosm.org/projects/laboratorio-de-mapeo-humanitario/)
 
 **CONTEXT**
 
