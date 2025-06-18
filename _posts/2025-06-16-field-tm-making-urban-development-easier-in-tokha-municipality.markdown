@@ -63,6 +63,8 @@ Stay connected for more updates on how Field-TM is contributing to urban develop
 
 ---
 
+About the Author
+
 ## Manjita Pandey
 *Geomatics Engineer, Product Manager at Naxa, Open Data Advocate* 
 
