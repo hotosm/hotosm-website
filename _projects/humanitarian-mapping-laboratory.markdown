@@ -14,6 +14,15 @@ Person:
 Duration:
   Start Date: 2024-04-01 00:00:00 Z
   End Date: 2024-11-20 00:00:00 Z
+Tools:
+- tool: OpenStreetMap
+- tool: iD Editor
+- tool: Tasking Manager
+- tool: JOSM
+- tool: Mapillary
+- tool: OrganicMaps
+- tool: StreetComplete
+- tool: Export Tool
 ---
 
 **CONTEXT**
@@ -64,8 +73,8 @@ Additionally, the course integrated specialized sessions with key humanitarian a
 
 * Gender distribution:
 
-  * Cis women (51.43%)
+  * Women (51.43%)
 
-  * Cis men (47.14%)
+  * Men (47.14%)
 
   * Non-binary (1.43%)
