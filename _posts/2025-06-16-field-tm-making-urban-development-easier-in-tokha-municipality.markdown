@@ -61,7 +61,7 @@ Finally, you can watch [our latest webinar recording](https://www.youtube.com/wa
 
 Stay connected for more updates on how Field-TM is contributing to urban development and other field mapping initiatives worldwide [here](https://github.com/hotosm/fmtm/releases). 
 
-# About the Author:
+---
 
 ## Manjita Pandey
 *Geomatics Engineer, Product Manager at Naxa, Open Data Advocate* 
