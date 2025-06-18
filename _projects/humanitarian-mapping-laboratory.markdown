@@ -9,6 +9,18 @@ Project Summary Text: The Humanitarian Mapping Course trained 42 participants fr
   and engagement in the Colombia 2024 National Mapathon with UNGRD.
 Feature Image: "/uploads/Humanitarian%20Mapping%20Laboratory%20HOT.jpg"
 Project Logo Image: "/uploads/Humanitarian%20Mapping%20Laboratory.jpg"
+Country:
+- Argentina
+- Brazil
+- Bolivia
+- Colombia
+- Ecuador
+- Guatemala
+- Mexico
+- Peru
+- Uruguay
+Impact Area:
+- Disasters & Climate Resilience
 Person:
 - Mariana Marín
 Duration:
