@@ -60,3 +60,16 @@ We invite urban planners, local governments, and mapping communities to explore 
 Finally, you can watch [our latest webinar recording](https://www.youtube.com/watch?v=OUeBevXfOkQ) and mini demo tutorials of the three main workflows: [Organization creation](https://www.youtube.com/watch?v=ayF6byODcD4), [Project Creation](https://www.youtube.com/watch?v=iLCuc2bXLcs), and [Mapping](https://www.youtube.com/watch?v=fAVycJ5rowY), so you can start using Field taskign Manager now!
 
 Stay connected for more updates on how Field-TM is contributing to urban development and other field mapping initiatives worldwide [here](https://github.com/hotosm/fmtm/releases). 
+
+## About the Author:
+
+# Manjita Pandey
+
+**Geomatics Engineer**  
+**Product Manager at Naxa** 
+**Open Data Advocate** 
+
+### Major Interests
+- Disaster Management
+- Climate Change
+- Sustainable Urban Development
