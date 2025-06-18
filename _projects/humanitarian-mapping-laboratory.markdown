@@ -16,7 +16,8 @@ Duration:
   End Date: 2024-11-20 00:00:00 Z
 Tools:
 - tool: OpenStreetMap
-- tool: iD Editor
+- link: 
+  tool: iD Editor
 - tool: Tasking Manager
 - tool: JOSM
 - tool: Mapillary
@@ -78,3 +79,7 @@ Additionally, the course integrated specialized sessions with key humanitarian a
   * Men (47.14%)
 
   * Non-binary (1.43%)
+
+**Future Steps**
+
+The Humanitarian Mapping Lab demonstrated the value of combining structured training with continuous community engagement to foster technical skills and motivation among emerging mappers. Regular communication and spaces for collective reflection helped sustain participation and deepen learning. Going forward, the goal is to continue encouraging these individuals to take part in future mapathons and similar initiatives organized by HOT, expanding their contribution to humanitarian mapping efforts across the region.
