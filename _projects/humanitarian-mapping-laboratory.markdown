@@ -93,6 +93,6 @@ Additionally, the course integrated specialized sessions with key humanitarian a
 
   * Non-binary (1.43%)
 
-**Future Steps**
+**FUTURE STEPS**
 
 The Humanitarian Mapping Lab demonstrated the value of combining structured training with continuous community engagement to foster technical skills and motivation among emerging mappers. Regular communication and spaces for collective reflection helped sustain participation and deepen learning. Going forward, the goal is to continue encouraging these individuals to take part in future mapathons and similar initiatives organized by HOT, expanding their contribution to humanitarian mapping efforts across the region.
