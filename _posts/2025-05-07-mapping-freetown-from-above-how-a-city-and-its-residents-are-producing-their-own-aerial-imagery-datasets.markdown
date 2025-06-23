@@ -16,7 +16,7 @@ Country:
 
 **[Versión en español](https://www.hotosm.org/updates/mapeando-freetown-desde-el-aire-como-una-ciudad-y-sus-habitantes-estan-produciendo-sus-propios-conjuntos-de-datos-de-imagenes-aereas/)**
 
-Imagine if a city didn’t just get mapped — but mapped itself… In Freetown, Sierra Leone, the mayor and the city council have made this a reality. In a world first, the entire city has been mapped by local city residents trained as pilots, processors, and data stewards using inexpensive, lightweight drones and open source software.. And, although technology is a fundamental enabler in this story, it actually demonstrates a more fundamental shift in how city authorities can leverage low cost, high resolution and community-generated aerial imagery to underpin urban development initiatives.
+Imagine if a city didn’t just get mapped — but mapped itself… In Freetown, Sierra Leone, the mayor and the city council have made this a reality. In a world first, the entire city has been drone mapped by local city residents trained as pilots, processors, and data stewards using inexpensive, lightweight drones and open source software. And, although technology is a fundamental enabler in this story, it actually demonstrates a more fundamental shift in how city authorities can leverage low cost, high resolution and community-generated aerial imagery to underpin urban development initiatives.
 
 ![Freetown HOT CFF GIZ 2.jpg](/uploads/Freetown%20HOT%20CFF%20GIZ%202.jpg)
 
