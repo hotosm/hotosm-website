@@ -32,7 +32,7 @@ The community of Sapecho is predominantly composed of people from the Tacana Ind
 
 The workshop, designed and facilitated by HOT and UMSA, was conducted using a participatory, interdisciplinary, and hands-on approach. It combined theoretical sessions, field activities, and community dialogue. The methodology aimed to integrate technological knowledge—such as the use of drones via [Drone Tasking Manager](https://dronetm.org/), OpenStreetMap, and [ChatMap](https://www.hotosm.org/tech-suite/chatmap/)—with local knowledge, to empower participants and generate useful data for fire prevention and integrated territorial management.
 
-![Participatory Mapping for a Sustainable Amazon (Bolivia)](https://live.staticflickr.com/65535/54600038642_ba0a0f2efe_c.jpg)
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720326997724" title="Mapeos Participativos para una Amazonía Sostenible (Bolivia)"><img src="https://live.staticflickr.com/65535/54600038642_ba0a0f2efe_c.jpg" width="800" height="600" alt="Mapeos Participativos para una Amazonía Sostenible (Bolivia)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Engineer Patricia Llanos, the project lead in Bolivia who also directed the field activities in Sapecho, emphasized that this initial workshop marked the beginning of a deep and transformative process. She noted that the experience helped capture the relationship communities have with their environment and laid the foundation for long-term collaboration:
 
@@ -58,7 +58,7 @@ La Tarabita is known for its remarkable ecological and cultural diversity. It en
 
 During the intensive participatory mapping workshop, a wide range of community-centered technological tools were used to facilitate the collection, organization, and visualization of territorial information. These included drones for generating orthophotos, OpenStreetMap, Mapillary, OSMTracker, OsmAnd, Tasking Manager, ChatMap, and QGIS.
 
-![Participatory Mapping for a Sustainable Amazon (Colombia)](https://live.staticflickr.com/65535/54607405926_c2568e8491_c.jpg)
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720327064479" title="Mapeos Participativos para una Amazonía Sostenible (Colombia)"><img src="https://live.staticflickr.com/65535/54607405926_c2568e8491_c.jpg" width="800" height="600" alt="Mapeos Participativos para una Amazonía Sostenible (Colombia)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Leonardo Jiménez, Director of the POMOTE Study Center at UNAULA, shared that the workshop in Santa Rosa was much more than a technical exercise. From his perspective, it was a transformative experience for both the facilitation team and the community:
 
@@ -76,13 +76,13 @@ Juan Melo, part of the HOT team, recalled how during the first few days of the w
 
 By the fifth day, the group had changed. Familiarity with the tools and the process was evident: participants were confidently piloting drones, understanding the logic behind mapping, and clearly aware of why they were doing it. The learning curve had been overcome with commitment and dedication.
 
-![Participatory Mapping for a Sustainable Amazon (Colombia)](https://live.staticflickr.com/65535/54607710910_40a1eb43ee_c.jpg)
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/54607710910/in/album-72177720327064479" title="Mapeos Participativos para una Amazonía Sostenible (Colombia)"><img src="https://live.staticflickr.com/65535/54607710910_40a1eb43ee_c.jpg" width="800" height="450" alt="Mapeos Participativos para una Amazonía Sostenible (Colombia)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The technical results of the exercise came quickly: an orthophoto of the territory was generated and published on OpenAerialMap, and images taken on the ground were uploaded to Mapillary. However, for Juan, the most important outcome was not the products, but the process:
 
 > *What remains is a living experience—an exercise that strengthened the connection between technology and territory, between technical knowledge and ancestral wisdom.*
 
-![Participatory Mapping for a Sustainable Amazon (Colombia)](https://live.staticflickr.com/65535/54607710845_83540d7fa4_c.jpg)
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/54607710845/in/album-72177720327064479" title="Mapeos Participativos para una Amazonía Sostenible (Colombia)"><img src="https://live.staticflickr.com/65535/54607710845_83540d7fa4_c.jpg" width="800" height="450" alt="Mapeos Participativos para una Amazonía Sostenible (Colombia)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Reflecting on the work in Bolivia and Colombia, Céline Jacquin, HOT's Senior Manager for Latin America, believes that this project marks a milestone by combining participatory mapping with a transdisciplinary approach. Beyond its methodological value, she emphasizes its practical impact and long-term vision for the Amazonian territories:
 
