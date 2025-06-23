@@ -22,9 +22,9 @@ Imagine if a city didn’t just get mapped — but mapped itself… In Freetown,
 
 It was [Freetown City Council](https://fcc.gov.sl/) (FCC) who saw the potential of community drone imagery as necessary data infrastructure for the city and secured funding through an ongoing collaboration with [BMZ (German Federal Ministry for Economic Cooperation and Development)](https://www.bmz.de/en/) focused on disability access improvement work. This local institutional commitment and leadership demonstrate what’s possible when cities view developing their people, knowledge, and data as a strategic infrastructure investment.
 
-Since early 2024, FCC has been working with the Humanitarian OpenStreetMap Team (HOT), and Centre of Dialogue on Human Settlement and Poverty Alleviation ([CODOHSAPA / FEDURP)](https://codohsapa.org/) from the [Slum Dwellers International (SDI) Network](https://sdinet.org/) to map Freetown’s informal neighborhoods — areas typically underserved by traditional data systems-in fine grain detail using drones and open mapping tools.
+Since early 2024, FCC has been working with the Humanitarian OpenStreetMap Team (HOT), and Centre of Dialogue on Human Settlement and Poverty Alleviation ([CODOHSAPA / FEDURP)](https://codohsapa.org/) from the [Slum Dwellers International (SDI) Network](https://sdinet.org/) to map a small number of Freetown’s informal neighborhoods — areas typically underserved by traditional data systems-in fine grain detail using drones and open mapping tools.
 
-As urban challenges around climate resilience and inclusive infrastructure grew, so did the city’s ambition to develop geospatial data that was essential for making effective decisions.
+As urban challenges around climate resilience and inclusive infrastructure grew, so did the city’s ambition to develop geospatial data that was essential for making effective decisions. When Freetown City Council saw what was being achieved in these informal settlements, they asked the question, “how do we generate this data for the entire city?”
 
 Instead of outsourcing data collection, FCC embedded capacity. With HOT and BMZ’s support, they were able to launch a citywide drone mapping initiative—the first of its kind to be delivered entirely through an open, community pilot model. Of the thirty people initially trained, 14 went on to form the Freetown Open Drone Mapping Crew, including pilots and processors from FCC, CODOHSAPA, OpenStreetMap Sierra Leone, and informal settlement residents.
 
@@ -32,7 +32,7 @@ Instead of outsourcing data collection, FCC embedded capacity. With HOT and BMZ�
 
 Participants were paid per square kilometer of successfully flown imagery and used open-source tools like[ OpenDroneMap](https://opendronemap.org/) and [OpenAerialMap](https://openaerialmap.org/) to generate and share 5cm resolution imagery, 3D meshes, and digital elevation models. Their work is now allowing city authorities and stakeholders to do analysis, planning, and implementation of key city interventions—from city-wide solid waste management and central business district regeneration to property taxation and improvement of access for people with disabilities from informal settlements.
 
-Most importantly, their role was not peripheral. This model redefines power dynamics in data production by positioning communities as creators—not subjects—through direct collaboration with their government and the strengthening of local expertise within institutions. Unlike models that rely heavily on external consultants, this approach fosters long-term institutional development, builds genuine local capacity, and contributes to the local economy and potential.
+Most importantly, their role was not peripheral. This model redefines power dynamics in data production by positioning communities as creators and stewards—not subjects—through direct collaboration with their government and the strengthening of local expertise within institutions. Unlike models that rely heavily on external consultants, this approach fosters long-term institutional development, builds genuine local capacity, and contributes to the local economy and potential.
 
 # **A Scalable, Replicable Model**
 
@@ -52,7 +52,9 @@ Freetown’s success clearly demonstrates how cities can develop the imagery dat
 
 ## **What Comes Next?**
 
-Freetown is putting the data to work. The city has seen firsthand the power of timely, community-generated data, which is now being used to help Freetown prioritize and address key urban challenges — from optimizing waste collection, to restoring mangroves, designing inclusive public spaces, and reimagining the downtown core. This marks a fundamental shift: the city no longer needs to rely on external datasets. It builds its own, following a model that is inclusive, sustainable, and locally driven — and crucially, one that is low-cost, reliable, and easy to replicate or upgrade over time.
+Freetown is putting the data to work. The drone imagery layer can now be used to generate up-to-date and highly accurate city basemaps, analysis and visualisation products that support specific use cases, and augmented by other data sets held by the city or gathered through field mapping to augment the drone imagery data.
+
+The city has seen firsthand the power of timely, community-generated data, which is now being used to help Freetown prioritize and address key urban challenges — from optimizing waste collection, to restoring mangroves, designing inclusive public spaces, and reimagining the downtown core. This marks a fundamental shift: the city no longer needs to rely on external datasets. It builds its own, following a model that is inclusive, sustainable, and locally driven — and crucially, one that is low-cost, reliable, and easy to replicate or upgrade over time.
 
 Freetown’s open drone mapping crew is ready. Trained, equipped, and embedded in their communities, they now have the tools and skills to respond to future needs — from resilience planning to urban infrastructure and environmental monitoring. This model is not only scalable, adaptable, and affordable — it’s replicable in cities facing similar data gaps and planning challenges across the Global Majority.
 
