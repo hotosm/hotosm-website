@@ -46,10 +46,9 @@ Emilio Mariscal, Gerente de Ingeniería de Software de HOT, resalta que la activ
 
 Durante el taller en Sapecho, Emilio presentó ChatMap, una herramienta de mapeo que funciona desde plataformas de mensajería como WhatsApp, Telegram o Signal. Poco después, desde Argentina, siguió la transmisión del [webinar Mapeos Participativos para una Amazonía Sostenible](https://www.youtube.com/watch?v=hN7RbBTKFhM) y se encontró con una escena inesperada: un joven indígena boliviano compartía cómo había aprendido a usar ChatMap durante el taller y sus planes para mapear la minería ilegal en su comunidad.
 
-> *Este tipo de caso de uso, al que yo llamo orgánico —porque nadie impulsó ni forzó el uso del software, simplemente alguien lo encontró útil y lo adoptó— me resulta interesantísimo.
-> *
+> *Este tipo de caso de uso, al que yo llamo orgánico —porque nadie impulsó ni forzó el uso del software, simplemente alguien lo encontró útil y lo adoptó— me resulta interesantísimo.*
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/es/map/sapecho-amazonia-bolivia_273?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/es/map/sapecho-amazonia-bolivia_273?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">Ver en pantalla completa</a></p>
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/es/map/sapecho-amazonia-bolivia_273?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/es/map/sapecho-amazonia-bolivia_273?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">Ver en pantalla completa</a></p>
 
 # Colombia
 
@@ -89,7 +88,7 @@ A la luz de lo vivido en Bolivia y Colombia, Céline Jacquin, Gerente Sénior pa
 
 > *Su gran valor está en que puede replicarse fácilmente en otros contextos. Al integrar tecnologías libres —como el planificador de vuelo de drones (DroneTaskingManager), ChatMap u OpenStreetMap— con los saberes y prácticas de las comunidades indígenas, se generan herramientas concretas para fortalecer su autonomía territorial, prevenir conflictos socioambientales, incidir políticamente y acceder a apoyos para su propio modelo de desarrollo.*
 
-Para Céline, los resultados en campo hablan por sí mismos. Lo visto en Sapecho y Santa Rosa demuestra que cuando las comunidades se apropian de estas herramientas, no solo protegen mejor sus territorios, sino que logran documentar amenazas —como la deforestación o la minería ilegal— con mayor rapidez, precisión y legitimidad. 
+Para Céline, los resultados en campo hablan por sí mismos. Lo visto en Sapecho y Santa Rosa demuestra que cuando las comunidades se apropian de estas herramientas, no solo protegen mejor sus territorios, sino que logran documentar amenazas —como la deforestación o la minería ilegal— con mayor rapidez, precisión y legitimidad.
 
 > *Este tipo de mapeo no se queda en lo técnico; se convierte en una forma de vigilancia comunitaria y defensa activa del territorio.*
 
