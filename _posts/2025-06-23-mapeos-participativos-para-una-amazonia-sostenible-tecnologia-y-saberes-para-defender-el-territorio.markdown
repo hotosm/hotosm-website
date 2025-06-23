@@ -18,6 +18,8 @@ Project:
 - 
 ---
 
+**[English version](https://www.hotosm.org/updates/participatory-mapping-for-a-sustainable-amazon-technology-and-local-knowledge-to-defend-the-territory/)**
+
 El Equipo Humanitario de OpenStreetMap, en conjunto con la [Universidad Mayor de San Andrés de Bolivia](https://www.umsa.bo/) (UMSA) y la [Universidad Autónoma Latinoamericana de Colombia](https://www.unaula.edu.co/), (UNAULA) está realizando el proyecto [Mapeos participativos para una Amazonía Sostenible](https://www.hotosm.org/projects/mapeos-participativos-para-una-amazonia-sostenible/). Este trabajo se realiza con una subvención del [Instituto Interamericano para la Investigación del Cambio Global (IAI)](https://www.iai.int/es) a través del Fondo Semilla, Bosques Tropicales en las Américas: Enfoques Transdisciplinarios para Transformaciones Ambientales, SG-TF-2024.
 
 Este proyecto tiene como objetivo construir mapas que visibilicen conflictos socioambientales, iniciativas locales de protección y oportunidades de incidencia en políticas públicas, mediante el uso de tecnologías libres y el diálogo de saberes entre actores académicos y comunitarios. En este marco, el pasado mes de mayo comenzaron las labores de campo de los subproyectos de mapeo participativo en Bolivia y Colombia.
