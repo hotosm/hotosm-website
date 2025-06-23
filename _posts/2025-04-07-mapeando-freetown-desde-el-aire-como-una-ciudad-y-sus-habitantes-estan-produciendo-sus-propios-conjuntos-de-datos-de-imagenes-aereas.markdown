@@ -14,7 +14,7 @@ Person:
 
 **[English version](https://www.hotosm.org/updates/mapping-freetown-from-above-how-a-city-and-its-residents-are-producing-their-own-aerial-imagery-datasets/)**
 
-Imagina que una ciudad no solo se mapea… sino que se mapea a sí misma. En Freetown, Sierra Leona, la alcaldesa y el concejo municipal han hecho de esto una realidad. Por primera vez en el mundo, toda la ciudad ha sido mapeada por residentes locales capacitados como pilotos, procesadores y gestores de datos, utilizando drones ligeros y económicos, junto con software de código abierto. Y aunque la tecnología es un habilitador fundamental en esta historia, lo que realmente demuestra es un cambio más profundo en la forma en que las autoridades pueden aprovechar imágenes aéreas comunitarias, de bajo costo y alta resolución, para sustentar iniciativas de desarrollo urbano.
+Imagina que una ciudad no solo se mapea… sino que se mapea a sí misma. En Freetown, Sierra Leona, la alcaldesa y el concejo municipal han hecho de esto una realidad. Por primera vez en el mundo, toda la ciudad ha sido mapeada con drones por residentes locales capacitados como pilotos, procesadores y gestores de datos, utilizando drones ligeros y económicos, junto con software de código abierto. Y aunque la tecnología es un habilitador fundamental en esta historia, lo que realmente demuestra es un cambio más profundo en la forma en que las autoridades pueden aprovechar imágenes aéreas comunitarias, de bajo costo y alta resolución, para sustentar iniciativas de desarrollo urbano.
 
 ![Freetown HOT CFF GIZ 2.jpg](/uploads/Freetown%20HOT%20CFF%20GIZ%202.jpg)
 
