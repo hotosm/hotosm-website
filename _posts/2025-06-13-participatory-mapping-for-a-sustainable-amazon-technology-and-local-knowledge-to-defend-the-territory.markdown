@@ -48,7 +48,7 @@ During the Sapecho workshop, Emilio introduced ChatMap, a mapping tool that work
 
 > *This kind of use case—what I call ‘organic’ because no one pushed or imposed the software, someone just found it useful and adopted it—is incredibly compelling.*
 
-[See interactive map of Sapecho](//umap.hotosm.org/es/map/sapecho-amazonia-bolivia_273?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true)
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/es/map/sapecho-amazonia-bolivia_273?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/es/map/sapecho-amazonia-bolivia_273?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">Watch full screen</a></p>
 
 ## Colombia
 
