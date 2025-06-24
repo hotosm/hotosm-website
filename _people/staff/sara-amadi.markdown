@@ -4,7 +4,8 @@ date: 2018-06-01 19:59:00 Z
 published: false
 Photo: https://cdn.hotosm.org/website/IMG_1715.JPG
 Member Type:
-  Is Staff: true
+  Is Staff: false
+  Is Voting Member: true
 Job Title: Head of Strategy & Impact
 Languages:
 - Deutsch
