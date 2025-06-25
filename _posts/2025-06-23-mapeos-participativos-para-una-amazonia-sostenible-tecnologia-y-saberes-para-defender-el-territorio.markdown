@@ -17,8 +17,6 @@ Project:
 - 
 ---
 
-**[English version](https://www.hotosm.org/updates/participatory-mapping-for-a-sustainable-amazon-technology-and-local-knowledge-to-defend-the-territory/)**
-
 El Equipo Humanitario de OpenStreetMap (HOT), en colaboración con la[ Universidad Mayor de San Andrés de Bolivia](https://www.umsa.bo/) (UMSA), la[ Universidad Autónoma Latinoamericana de Colombia](https://www.unaula.edu.co/) (UNAULA) a través de su [Centro de Estudios con Poblaciones, Movilizaciones y Territorios-POMOTE](https://pomotecestudios.unaula.edu.co/) y la [Universidad Rafael Landívar de Guatemala](https://principal.url.edu.gt/), y en coordinación con el Cabildo Wairari Atun Sacha, en Colombia, Cofradía Ancestral San José Poaquil, en Guatemala, el Consejo Indígena de de la Gran Nación Pueblo Tacana, la Comunidad Indígena Mosetenes en Bolivia, en la región Andino Amazónica y en los Grandes Bosques de Mesoamérica, y la participación del Colectivo Liberarnos o Extinguirnos como un actor articulador de agendas y campañas comunicativas por la preservación de la Amazonía.
 
 Las organizaciones mencionadas se articulan en la realización del proyecto[ Mapeos participativos para una Amazonía Sostenible](https://www.hotosm.org/projects/mapeos-participativos-para-una-amazonia-sostenible/). Este trabajo se realiza con una subvención del[ Instituto Interamericano para la Investigación del Cambio Global (IAI)](https://www.iai.int/es) a través del Fondo Semilla, Bosques Tropicales en las Américas: Enfoques Transdisciplinarios para Transformaciones Ambientales, SG-TF020-2024.
@@ -87,7 +85,7 @@ Los resultados técnicos del ejercicio no tardaron en materializarse: se generó
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/54607710845/in/album-72177720327064479" title="Mapeos Participativos para una Amazonía Sostenible (Colombia)"><img src="https://live.staticflickr.com/65535/54607710845_83540d7fa4_c.jpg" width="800" height="450" alt="Mapeos Participativos para una Amazonía Sostenible (Colombia)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Guatemala
+# Guatemala
 
 Entre 2022 y 2024, las autoridades ancestrales de San José Poaquil, en Guatemala, desarrollaron junto a HOT el proyecto Open Cities, una iniciativa orientada a fortalecer la conservación del bosque comunal a través del mapeo participativo y el uso de tecnologías abiertas. En una región marcada por la lucha por el territorio, la alcaldía indígena y la cofradía ancestral lograron recuperar legalmente la administración de sus tierras y comenzaron un proceso de restauración y vigilancia comunitaria.
 
@@ -97,9 +95,19 @@ La experiencia también transformó a quienes participaron.* “Estas tierras co
 
 Hoy, los aprendizajes de *Open Cities* nutren el proyecto *Mapeos participativos para una Amazonía sostenible*. Esta nueva etapa busca reactivar el uso estratégico de los datos generados, fortalecer a la comunidad joven de San José Poaquil y replicar el modelo en otros territorios indígenas de la región.* “No solo se trata de poner los datos ahí”*, concluye Duarte*, “sino de enseñar cómo pueden usarse para hacer cosas nuevas.”*
 
-En el caso de San José Poatquil, las actividades en campo se han concentrado en la construcción de un diálogo respetuoso con las dos organizaciones indígenas ancestrales encargadas de la gestión de los bosques comunales de la Cofradía Ancestral, para la orientación estratégica del proyecto. Con la nueva etapa, el enfoque fundamental es lograr consolidar una comunidad de práctica sólida, intergeneracional y comprometida con el manejo responsable del territorio y la gobernanza comunal del conocimiento.
+En el caso de San José Poaquil, las actividades en campo se han concentrado en la construcción de un diálogo respetuoso con las dos organizaciones indígenas ancestrales encargadas de la gestión de los bosques comunales de la Cofradía Ancestral, para la orientación estratégica del proyecto. Con la nueva etapa, el enfoque fundamental es lograr consolidar una comunidad de práctica sólida, intergeneracional y comprometida con el manejo responsable del territorio y la gobernanza comunal del conocimiento.
 
-***<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-90.93993187011912%2C14.790737326264107%2C-90.88199615539745%2C14.825879328913917&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?#map=15/14.80831/-90.91096">Ver el mapa más grande</a></small>***
+<iframe\
+  src="https://www.openstreetmap.org/export/embed.html?bbox=-90.94147682189941%2C14.80031828537731%2C-90.88354110717773%2C14.835458734132906&amp;layer=mapnik"\
+  width="100%"\
+  height="500"\
+  style="border: 1px solid black;"\
+  allowfullscreen\
+  loading="lazy">\
+</iframe>\
+<small>\
+  Visualización: <a href="https://www.openstreetmap.org/#map=15/14.81789/-90.91251" target="_blank">Mapa de San José Poaquil, Guatemala</a>.\
+</small>
 
 A la luz de lo vivido en Bolivia y Colombia, [Céline Jacquin](https://www.hotosm.org/people/celine-jacquin/), Gerente Sénior para Latinoamérica, considera que este proyecto marca un hito al combinar el mapeo participativo con un enfoque transdisciplinario. Pero más allá de su valor metodológico, destaca su potencia práctica y su visión de largo plazo para los territorios amazónicos:
 
