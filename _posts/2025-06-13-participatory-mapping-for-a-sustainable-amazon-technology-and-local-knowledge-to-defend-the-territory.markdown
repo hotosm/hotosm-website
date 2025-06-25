@@ -7,7 +7,9 @@ Summary Text: '"Participatory Mapping for a Sustainable Amazon" is advancing in 
   to strengthen the territorial autonomy of Indigenous communities in the Amazon and
   Mesoamerica.'
 Feature Image: "/uploads/Mapeos%20participativos%20para%20una%20Amazoni%CC%81a%20Sostenible-226f40.jpg"
-Person: Juan Arellano Valdivia
+Person:
+- Juan Arellano Valdivia
+- Mariana Marín
 Country:
 - Bolivia
 - Colombia
