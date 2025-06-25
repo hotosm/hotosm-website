@@ -17,7 +17,7 @@ Project:
 - 
 ---
 
-**English version**
+**[English version](https://www.hotosm.org/updates/participatory-mapping-for-a-sustainable-amazon-technology-and-local-knowledge-to-defend-the-territory/)**
 
 El Equipo Humanitario de OpenStreetMap (HOT), en colaboración con la [Universidad Mayor de San Andrés de Bolivia](https://www.umsa.bo/) (UMSA), la [Universidad Autónoma Latinoamericana de Colombia](https://www.unaula.edu.co/) (UNAULA) a través de su [Centro de Estudios con Poblaciones, Movilizaciones y Territorios-POMOTE](https://pomotecestudios.unaula.edu.co/) y la [Universidad Rafael Landívar de Guatemala](https://principal.url.edu.gt/), y en coordinación con el Cabildo Wairari Atun Sacha, en Colombia, Cofradía Ancestral San José Poaquil, en uno de los grandes bosques de Mesoamérica en Guatemala, el Consejo Indígena de de la Gran Nación Pueblo Tacana, la Comunidad Indígena Mosetenes en Bolivia, en la región Andino Amazónica, y la participación del Colectivo Liberarnos o Extinguirnos como un actor articulador de agendas y campañas comunicativas por la preservación de la Amazonía, se articulan en la realización del proyecto [Mapeos participativos para una Amazonía Sostenible](https://www.hotosm.org/projects/mapeos-participativos-para-una-amazonia-sostenible/). Este trabajo se realiza con una subvención del [Instituto Interamericano para la Investigación del Cambio Global (IAI)](https://www.iai.int/es) a través del Fondo Semilla, Bosques Tropicales en las Américas: Enfoques Transdisciplinarios para Transformaciones Ambientales, SG-TF020-2024.
 
