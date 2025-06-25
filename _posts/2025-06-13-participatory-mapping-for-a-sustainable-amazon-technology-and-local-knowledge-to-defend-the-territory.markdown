@@ -2,16 +2,16 @@
 title: 'Participatory mapping for a sustainable Amazon: technology and local knowledge
   to defend the territory'
 date: 2025-06-13 05:18:00 Z
-Summary Text: Supported by the Inter-American Institute for Global Change Research
-  (IAI), the project is led by HOT, the Universidad Mayor de San Andrés in Bolivia,
-  and the Universidad Autónoma Latinoamericana in Colombia. Through the use of open
-  technologies and knowledge exchange, it aims to strengthen the territorial autonomy
-  of communities in the Amazon.
+Summary Text: '"Participatory Mapping for a Sustainable Amazon" is advancing in Bolivia,
+  Colombia, and Guatemala, bringing together knowledge exchange and open technologies
+  to strengthen the territorial autonomy of Indigenous communities in the Amazon and
+  Mesoamerica.'
 Feature Image: "/uploads/Mapeos%20participativos%20para%20una%20Amazoni%CC%81a%20Sostenible-226f40.jpg"
 Person: Juan Arellano Valdivia
 Country:
 - Bolivia
 - Colombia
+- Guatemala
 Project:
 - Mapeos participativos para una Amazonía sostenible
 ---
