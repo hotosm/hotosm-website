@@ -97,17 +97,14 @@ Hoy, los aprendizajes de *Open Cities* nutren el proyecto *Mapeos participativos
 
 En el caso de San José Poaquil, las actividades en campo se han concentrado en la construcción de un diálogo respetuoso con las dos organizaciones indígenas ancestrales encargadas de la gestión de los bosques comunales de la Cofradía Ancestral, para la orientación estratégica del proyecto. Con la nueva etapa, el enfoque fundamental es lograr consolidar una comunidad de práctica sólida, intergeneracional y comprometida con el manejo responsable del territorio y la gobernanza comunal del conocimiento.
 
-<iframe\
-  src="https://www.openstreetmap.org/export/embed.html?bbox=-90.94147682189941%2C14.80031828537731%2C-90.88354110717773%2C14.835458734132906&amp;layer=mapnik"\
-  width="100%"\
-  height="500"\
-  style="border: 1px solid black;"\
-  allowfullscreen\
-  loading="lazy">\
-</iframe>\
-<small>\
-  Visualización: <a href="https://www.openstreetmap.org/#map=15/14.81789/-90.91251" target="_blank">Mapa de San José Poaquil, Guatemala</a>.\
-</small>
+<iframe
+src="https://www.openstreetmap.org/export/embed.html?bbox=-90.94147682189941%2C14.80031828537731%2C-90.88354110717773%2C14.835458734132906&amp;layer=mapnik"
+width="100%"
+height="700"
+style="border: none;"
+allowfullscreen
+loading="lazy">
+</iframe>
 
 A la luz de lo vivido en Bolivia y Colombia, [Céline Jacquin](https://www.hotosm.org/people/celine-jacquin/), Gerente Sénior para Latinoamérica, considera que este proyecto marca un hito al combinar el mapeo participativo con un enfoque transdisciplinario. Pero más allá de su valor metodológico, destaca su potencia práctica y su visión de largo plazo para los territorios amazónicos:
 
