@@ -18,7 +18,7 @@ Project:
 - Mapeos participativos para una Amazonía sostenible
 ---
 
-**[Versión en español](https://www.hotosm.org/projects/mapeos-participativos-para-una-amazonia-sostenible/)**
+**[Versión en español](https://www.hotosm.org/updates/mapeos-participativos-para-una-amazonia-sostenible-tecnologia-y-saberes-para-defender-el-territorio/)**
 
 The Humanitarian OpenStreetMap Team (HOT), in collaboration with the [Universidad Mayor de San Andrés de Bolivia (UMSA)](https://www.umsa.bo/), the [Universidad Autónoma Latinoamericana of Colombia (UNAULA)](https://www.unaula.edu.co/) through its [Center for Studies on Populations, Mobilizations and Territories – POMOTE](https://pomotecestudios.unaula.edu.co/), and the [Rafael Landívar University of Guatemala](https://principal.url.edu.gt/), and in coordination with the Wairari Atún Sacha Cabildo in Colombia, the Ancestral Brotherhood of San José Poaquil in Guatemala, the Indigenous Council of the Great Nation Tacana People, the Mosetene Indigenous Community in Bolivia, across the Andean-Amazon region and the Great Forests of Mesoamerica, along with the participation of the *Liberarnos o Extinguirnos* Collective as a communications and advocacy partner for Amazon preservation, are jointly implementing the [Participatory Mapping for a Sustainable Amazon](https://www.hotosm.org/projects/mapeos-participativos-para-una-amazonia-sostenible/) project. This work is supported by a grant from the [Inter-American Institute for Global Change Research (IAI)](https://www.iai.int/en), through its Seed Grant program *Tropical Forests in the Americas: Transdisciplinary Approaches to Environmental Transformations*, SG-TF020-2024.
 
