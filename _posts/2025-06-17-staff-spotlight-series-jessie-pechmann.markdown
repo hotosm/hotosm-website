@@ -33,7 +33,7 @@ I currently lead HOT’s Conflict & Displacement Program, focusing on OSM data a
 I think personally the most interesting project I’ve worked on at HOT was [the work in Gaza in 2024](https://www.hotosm.org/updates/gaza-osm-buildings-update-2024/). HOT had not worked in a conflict area for a long time, and navigating one of the most sensitive contexts in the world was a challenge. When the project was finally completed, it was nice to hear from a wide range of people who really appreciated the data—from humanitarians to international media outlets! But what really touched me was the volunteers’ reflections on the work they had accomplished in their free time over 5 months.
 
 ![3-e6a79c.jpg](/uploads/3-e6a79c.jpg)
-*Jessie representing and Kiggude Deogratias HOT at the Humanitarian Networks and Partnerships Week, 2024*
+*Jessie and Kiggude Deogratias representing HOT at the Humanitarian Networks and Partnerships Week, 2024*
 
 ## What fulfills you most about your role?
 
