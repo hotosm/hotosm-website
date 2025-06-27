@@ -158,7 +158,7 @@ En principe, nous pouvons déjà mettre en œuvre un flux de travail de type Ges
 
 ### Prochaines étapes
 
-En collaboration avec l'équipe Tech and Communities et les groupes de travail Community et Training, l'équipe Field Programs de HOT organisera un partage de compétences à l'adresse le 9 septembre 2022, où nous ferons la démonstration de l'utilisation d'un flux de travail rudimentaire du Field Mapping Tasking Manager. Tous sont les bienvenus !
+En collaboration avec l'équipe Tech and Communities et les groupes de travail Community et Training, l'équipe Field Programs de HOT organisera un partage de compétences à l'adresse le 9 septembre 2022, où nous ferons la démonstration de l'utilisation d'un flux de travail rudimentaire du Field Tasking Manager. Tous sont les bienvenus !
 
 Les sessions en français et en anglais se tiendront dans plusieurs fuseaux horaires, et des sessions supplémentaires pourront être ajoutées s'il y a un intérêt pour d'autres fuseaux horaires et d'autres langues ( nous pouvons probablement gérer une session en espagnol si les participants sont prêts à entendre la langue de Cervantès impitoyablement massacrée).
 

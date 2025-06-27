@@ -1,18 +1,18 @@
 ---
-title: Monrovia - Improving Map Quality using fAIr & Field Mapping Tasking Manager
+title: Monrovia - Improving Map Quality using fAIr & Field Tasking Manager
   - Pilot
 date: 2024-04-17 09:33:00 Z
 published: false
 tags:
 - tech
-- fmtm
+- fieldtm
 - fair
 - e2e
 Project Summary Text: HOT is currently employing fAIr technology to digitize a specific
   area within Monrovia, Liberia. This effort is conducted in partnership with the
   local Liberian team and WNAH. The digitization process utilizes drone imagery that
   we are promptly acquiring in preparation for a household enumeration project. This
-  project is facilitated through the HOT Field Mapping Tasking Manager, administered
+  project is facilitated through the HOT Field Tasking Manager, administered
   by our partner, Slum Dwellers International.
 Feature Image: "/uploads/fair-fmtm-monrovia-osm-footprints.jpg.jpg"
 Country:
@@ -24,7 +24,7 @@ Person:
 Partner:
 - sdi
 Tools:
-- tool: Field Mapping Tasking Manager
+- tool: Field Tasking Manager
 ---
 
 <h3>Context</h3>
@@ -53,13 +53,13 @@ Buildings are quite visible and clear in the drone imagery. When we overlay the 
 We do not often have sets of similarly-georeferenced, high-resolution imagery from different times in exactly the same location. Urban changesets are a product in massive demand from many data users (not to mention donors) and we have very few practical opportunities to generate them at this high a resolution and quality level (note that the 2014 imagery was acquired using a cheap DJI Mavic 2 belonging to a local person, not with an expensive mapping-specific drone, but it was done using the best practices from HOT’s experience gather local drone imagery with inexpensive devices). 
 
 ![FMTM-Explanation.jpg](https://cdn.hotosm.org/website/FMTM-Explanation.jpg)
-*A project manager who has just created an FMTM project on their laptop demonstrates to a field mapper how they can select their assigned buildings on their phone*
+*A project manager who has just created an FieldTM project on their laptop demonstrates to a field mapper how they can select their assigned buildings on their phone*
 
 <h3>Implementation</3>
 
-<h4>FMTM</h4>
+<h4>FieldTM</h4>
 
-The Liberian team is doing household enumeration surveys, and have been trained using the FMTM to locate each precise building on the map, select it, and complete a detailed form that resembles a long-form census. There is a lot of value in the addition of the building selection; it ties the data to a specific structure, vastly reduces (practically to the point of elimination) duplication and missed structures, and creates a powerful advocacy tool for the local residents seeking better recognition and services for their community. 
+The Liberian team is doing household enumeration surveys, and have been trained using the FieldTM to locate each precise building on the map, select it, and complete a detailed form that resembles a long-form census. There is a lot of value in the addition of the building selection; it ties the data to a specific structure, vastly reduces (practically to the point of elimination) duplication and missed structures, and creates a powerful advocacy tool for the local residents seeking better recognition and services for their community. 
 
 ![Monrovia AOI](/uploads/fair-fmtm-monrovia-aoi-zoom.jpg.jpg)
 *Undigitized area at 1:300 scale; most of the AOI looks a lot like this and needs digitization*

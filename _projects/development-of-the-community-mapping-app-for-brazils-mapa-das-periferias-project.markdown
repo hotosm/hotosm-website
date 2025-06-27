@@ -11,7 +11,7 @@ Project Summary Text: 'HOT joins the Mapa das Periferias'' Community Mapping pro
 '
 ---
 
-As an open mapping partner in the Mapa das Periferias project, HOT is developing a new version of the Field Mapping Tasking Manager, calibrated to provide local community mappers with the tool they need to represent themselves on the map.
+As an open mapping partner in the Mapa das Periferias project, HOT is developing a new version of the Field Tasking Manager, calibrated to provide local community mappers with the tool they need to represent themselves on the map.
 
 In addition, HOT will be working alongside the Mapa das Periferias team to rollout the first full phase of the Mapeamento Popular (popular mapping) campaign.
 

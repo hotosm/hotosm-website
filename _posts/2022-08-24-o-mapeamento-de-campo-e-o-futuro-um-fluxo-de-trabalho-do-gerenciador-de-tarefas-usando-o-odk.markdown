@@ -102,7 +102,7 @@ A existência desses scripts facilita mais a funcionalidade do Tasking Manager, 
 
 **O que precisamos construir?**
 
-Em princípio, já podemos implementar um fluxo de trabalho do Field Mapping Tasking Manager, mas requer muito trabalho manual complicado. Nosso plano é fazer isso e automatizar de forma incremental os pontos problemáticos! O caminho mais provável provavelmente se parece com:
+Em princípio, já podemos implementar um fluxo de trabalho do Field Tasking Manager, mas requer muito trabalho manual complicado. Nosso plano é fazer isso e automatizar de forma incremental os pontos problemáticos! O caminho mais provável provavelmente se parece com:
 
 * Criar um mapa da web compatível com dispositivos móveis (não um aplicativo para dispositivos móveis, apenas um aplicativo da web) que:
 

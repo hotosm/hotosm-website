@@ -66,5 +66,5 @@ Furthermore, Eray Öztürk one of the interns,  played a supportive role in OSM 
 ## Recommendations
 To enhance the efficiency and effectiveness of the Data Quality Internship program, several recommendations have been proposed... 
 * To expand the program's reach and increase diversity, it is recommended that the call for applications be published in different languages such as Spanish and Portuguese.To attract the best talent, it is recommended that the recruitment process be extended to two months to allow ample time for the application review process.
-* To establish a more accurate map that represents realities on the ground, it is advisable to incorporate field mapping and incorporate local knowledge into the map. This may involve integrating the HOT Field Mapping Tasking Manager into the program
+* To establish a more accurate map that represents realities on the ground, it is advisable to incorporate field mapping and incorporate local knowledge into the map. This may involve integrating the HOT Field Tasking Manager into the program
 * To ensure the sustainability of the program, it is crucial to secure funding from donors and establish partnerships. 

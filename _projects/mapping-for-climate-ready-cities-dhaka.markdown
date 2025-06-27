@@ -57,7 +57,7 @@ By catalyzing a vibrant, sustainable, multi-actor open data ecosystem in the cit
 * Tasking Manager - To complete the base data (roads, buildings, water bodies) of Dhaka North with the support and contribution of OSM collaborators worldwide. 
 * OpenAerialMap - To host and serve high resolution drone imagery made available by Dhaka North City Corporation (DNCC)
 * Mapillary - To collect high resolution street-level imagery from the slums and informal settlements of Mirpur. 
-* ODK/FMTM - To collect thematic data at hyper-local level on the field with data collectors and community volunteers
+* ODK/FieldTM - To collect thematic data at hyper-local level on the field with data collectors and community volunteers
 
 **Want more? See this [OSM Diary from Brazil Singh](https://www.openstreetmap.org/user/Brazil%20Singh/diary/403790) for a community member's perspective on the team's April 2024 field mapping and data collection trip to Dhaka.**
 

@@ -53,13 +53,13 @@ We used HOT Tasking Manager to collaboratively and remotely map the buildings of
 
 **STEP 3 - Add local knowledge to the data.**
 
-First in the office, we elaborated a survey collection form with specific questions to be used in the field. In the village, we trained the staff to use HOT’s FMTM (Field Mapping Tasking Manager) to add local context to the buildings generated. In particular the BPBD was interested in the building materials, specific vulnerability to erosion (a big problem in Sega) as well as the number of persons present in buildings at certain periods of the year to assess the human impact of disaster risk. 
+First in the office, we elaborated a survey collection form with specific questions to be used in the field. In the village, we trained the staff to use HOT’s Field-TM (Field Tasking Manager) to add local context to the buildings generated. In particular the BPBD was interested in the building materials, specific vulnerability to erosion (a big problem in Sega) as well as the number of persons present in buildings at certain periods of the year to assess the human impact of disaster risk. 
 
 ![E2E5.jpg](/uploads/E2E5.jpg)
-<figcaption align = "left"><h6>Staff of the BPBD Office and the Chief of the village, using FMTM to add context to buildings in the village.</h6></figcaption><br>
+<figcaption align = "left"><h6>Staff of the BPBD Office and the Chief of the village, using FieldTM to add context to buildings in the village.</h6></figcaption><br>
 
 ![E2E6.png](/uploads/E2E6.png)
-<figcaption align = "left"><h6>Addition of amount of people residing in a building in the village while mapping in the field with FMTM</h6></figcaption><br>
+<figcaption align = "left"><h6>Addition of amount of people residing in a building in the village while mapping in the field with FieldTM</h6></figcaption><br>
 
 **STEP 4 - Make map data accessible** 
 

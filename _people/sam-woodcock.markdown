@@ -12,6 +12,6 @@ Social Media (Full URL):
 
 Sam is a software developer with a broad range of interests spanning engineering and DevOps.
 
-He joined HOT as a volunteer in February 2023 to support the FMTM during the Turkey / Syria earthquakes.
+He joined HOT as a volunteer in February 2023 to support the FieldTM during the Turkey / Syria earthquakes.
 
 He mostly enjoys creating open software tools for the benefit of humanity, but in his downtime you can probably find him either tinkering with his homelab or hiking/cycling half way across the country.

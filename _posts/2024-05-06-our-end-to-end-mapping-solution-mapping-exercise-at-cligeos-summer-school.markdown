@@ -180,17 +180,17 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 
 
 <br>
-- HOT Field Mapping Tasking Manager (FMTM): [Product Page](/tech-suite/field-mapping-tasking-manager) - [website](https://fmtm.hotosm.org/) - [docs](https://fmtm.dev/)<br/>
+- HOT Field Tasking Manager (FieldTM): [Product Page](/tech-suite/field-mapping-tasking-manager) - [website](https://fmtm.hotosm.org/) - [docs](https://fmtm.dev/)<br/>
 - ODK Collect: [website](https://getodk.org/) 
 <br>
 <br>
 
-<strong>Field Mapping Tasking Manager:</strong> To incorporate local knowledge and ground-level details, we established a [Field Mapping Tasking Manager project link](https://fmtm.hotosm.org/project_details/MTAxMTAxMA==). This tool allows for the creation of custom data collection forms and divides the area into tasks for field mapping.
+<strong>Field Tasking Manager:</strong> To incorporate local knowledge and ground-level details, we established a [Field Tasking Manager project link](https://fmtm.hotosm.org/project_details/MTAxMTAxMA==). This tool allows for the creation of custom data collection forms and divides the area into tasks for field mapping.
 
 
 <br>
 <div class="center">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-FMTM.png" alt="FMTM tasks">
+    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-FMTM.png" alt="FieldTM tasks">
 </div>
 <figcaption align = "center"><h6>Participant locking tasks before heading towards field mapping</h6></figcaption><br>
 <br>
@@ -206,7 +206,7 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
     <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-survey.png" alt="Drone lecture" style="width:100%">
   </div>
 </div>
-<figcaption align = "center"><h6>Participants collecting field data using FMTM, Asking house owners for the information</h6></figcaption><br>
+<figcaption align = "center"><h6>Participants collecting field data using FieldTM, Asking house owners for the information</h6></figcaption><br>
 <br>
 
 **STEP 4 - Make map data accessible**
@@ -236,7 +236,7 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 <br>
 <br>
 
-<strong>QGIS Visualization and Analysis:</strong> Participants loaded the downloaded remotely mapped data, field mapped data, and data collected from aerial surveys into QGIS, an open-source geographic information system (GIS) software. Within QGIS, they visualized and analyzed the data, including creating 3D visualizations of the buildings and visualizing plant health. Not all data collected from the field necessarily needed to be uploaded to OpenStreetMap. Therefore, participants performed data cleaning and processing within QGIS itself. They downloaded the Field Mapping Tasking Manager (FMTM) data as a GeoJSON file directly from the FMTM services for further analysis and integration with other datasets.
+<strong>QGIS Visualization and Analysis:</strong> Participants loaded the downloaded remotely mapped data, field mapped data, and data collected from aerial surveys into QGIS, an open-source geographic information system (GIS) software. Within QGIS, they visualized and analyzed the data, including creating 3D visualizations of the buildings and visualizing plant health. Not all data collected from the field necessarily needed to be uploaded to OpenStreetMap. Therefore, participants performed data cleaning and processing within QGIS itself. They downloaded the Field Tasking Manager (FieldTM) data as a GeoJSON file directly from the FieldTM services for further analysis and integration with other datasets.
 
 <br>
 <div class="row align">
@@ -277,7 +277,7 @@ Throughout the exercise, participants actively engaged in hands-on activities, r
 
 <br>
 
-This end-to-end mapping exercise at CLIGEOS-2024 demonstrated the effectiveness of using free and open-source tools in a collaborative environment to conduct comprehensive mapping activities. <strong>Within a short time frame and at a low cost, we were able to generate valuable geospatial data, including orthophotos, digital surface models, vegetation indices, local AI models, and both remote and field mapping data.</strong> The collaborative nature of tools like the HOT Tasking Manager , Field Mapping Tasking Manager and Local Model predictions from fAIr enabled efficient task allocation and resource utilization, maximizing the collective efforts of the participants.
+This end-to-end mapping exercise at CLIGEOS-2024 demonstrated the effectiveness of using free and open-source tools in a collaborative environment to conduct comprehensive mapping activities. <strong>Within a short time frame and at a low cost, we were able to generate valuable geospatial data, including orthophotos, digital surface models, vegetation indices, local AI models, and both remote and field mapping data.</strong> The collaborative nature of tools like the HOT Tasking Manager , Field Tasking Manager and Local Model predictions from fAIr enabled efficient task allocation and resource utilization, maximizing the collective efforts of the participants.
 
 
 <br>

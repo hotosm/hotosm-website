@@ -25,7 +25,7 @@ La résidence a pour mandat de développer et de tester des flux de travail effi
 * Discussions avec différentes communautés OSM au Cameroun, au Sénégal, au Burkina Faso, en Côte d'Ivoire, au Ghana, au Nigeria, en Sierra Leone, au Niger et en RDC pour comprendre les différentes approches qu'elles utilisent pendant les processus d'importation de données OSM et l'édition organisée. D'autres parties prenantes, dont le personnel de HOT et de l'Institut de géoinformatique de Heidelberg, ont également été interrogées. 
 * Exploration de la base de données principale du SIG de MSF pour comprendre le modèle de données qu'ils utilisent en comparaison avec le modèle de données OSM. Suite à cette activité, un plan de marquage est en cours d'élaboration. 
 * Recherche pour comprendre les processus actuels de collecte de données SIG de MSF, les outils, les sources de données et les limites de leur flux de travail actuel de collecte de données. 
-* Projets en cours pour explorer des outils tels que le Field Mapping Tasking Manager (FMTM) qui peut aider à coordonner la cartographie sur le terrain pour les activités de collecte de données sur le terrain. 
+* Projets en cours pour explorer des outils tels que le Field Tasking Manager (FieldTM) qui peut aider à coordonner la cartographie sur le terrain pour les activités de collecte de données sur le terrain. 
 
 **Impact** 
 

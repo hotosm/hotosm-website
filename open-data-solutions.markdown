@@ -82,7 +82,7 @@ Mapillary:
   Tools:
   - Name: Website
     URL: https://www.mapillary.com/
-Fmtm:
+Fieldtm:
   Header: 
   Text: 
   Image: 
@@ -92,7 +92,7 @@ Fmtm:
   - Name: Dev Docs
     URL: https://docs.hotosm.org/
   - Name: GitHub
-    URL: https://github.com/hotosm/fmtm
+    URL: https://github.com/hotosm/field-tm
 Fair:
   Header: 
   Text: 

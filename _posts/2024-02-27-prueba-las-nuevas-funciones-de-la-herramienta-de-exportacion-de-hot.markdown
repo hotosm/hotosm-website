@@ -61,7 +61,7 @@ Hemos implementado la autenticación oauth2.0 para OSM. Esto significa un gran c
 
 La Raw data API (https://github.com/hotosm/raw-data-api/) ahora sirve como un nuevo backend para la herramienta de exportación de OSM para todos los formatos seleccionados en la imagen adjunta. Es decir, GeoJSON, Shapefile, Geopackage, Google Earth KML, Flatgeobuf, y CSV. El umbral de área para esos formatos también se ha incrementado en un 50%. Puedes acceder a la documentación de la API [aquí](https://api-prod.raw-data.hotosm.org/v1/redoc). Enlace a Github [aquí](https://github.com/hotosm/export-tool-api) y nuevo [diagrama de arquitectura](https://miro.com/welcomeonboard/OFIxRlBWUHU0bmIyb2FPZkJqSDhYVzc1ektqZDFzSXRJU1VHTTdYRVlraFVkNUVmUTcweHRvZXRwTDJKZ0ZsMnwzNDU4NzY0NTE1MDkwMjQ0MzIzfDI=?share_link_id=26271906711). La nueva API te permite realizar exportaciones de países, exportaciones personalizadas y también métricas de integridad de datos para el área. Los formatos Garmin, OSM y OSMAnd aún no están disponibles a través de la API y es posible que no tengan el mismo rendimiento que otros.
 
-fAIr, HOT Tasking Manager, y FMTM ya usan la Raw data API, SQL y Mbtiles. Esta nueva integración de backend te brindará resultados más rápidos para los formatos de archivo seleccionados.
+fAIr, HOT Tasking Manager, y FieldTM ya usan la Raw data API, SQL y Mbtiles. Esta nueva integración de backend te brindará resultados más rápidos para los formatos de archivo seleccionados.
 
 ![Export 6.png](https://cdn.hotosm.org/website/Export+6.png)
 

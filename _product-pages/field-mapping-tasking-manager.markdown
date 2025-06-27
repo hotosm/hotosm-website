@@ -1,21 +1,21 @@
 ---
-title: FIELD MAPPING TASKING MANAGER
+title: FIELD TASKING MANAGER
 date: 2018-02-06 15:16:00 Z
 position: 4
 Show-projects: 'yes'
 Show-news: 'yes'
 Show-content: 'no'
-Tool-name: Field Mapping Tasking Manager
+Tool-name: Field Tasking Manager
 Block 0:
   Header: 
   Text: Enhancing field mapping efficiency and accuracy through seamless coordination
   Image: https://cdn.hotosm.org/website/FMTM-Monrovia.jpg
 Block 1:
   Section: What is it?
-  Header: The Field Mapping Tasking Manager (FMTM) helps teams add local knowledge
+  Header: The Field Tasking Manager (FieldTM) helps teams add local knowledge
     to map features by coordinating mapping in the field.
-  Text: FMTM facilitates collaborative mapping by supporting and extending existing
-    mature tools. The FMTM is a standalone mobile and web application that works using
+  Text: FieldTM facilitates collaborative mapping by supporting and extending existing
+    mature tools. The FieldTM is a standalone mobile and web application that works using
     OpenDataKit (ODK), a powerful data collection platform that leverages commonly-available
     mobile Android devices to enable people to input information, including geospatial
     data in the field.
@@ -25,30 +25,30 @@ Block 1:
     URL: https://fmtm.dev/
 Block 2:
   Header: Field Data Collection
-  Text: Unlike other ODK based platforms, FMTM is intended for adding attributes to
+  Text: Unlike other ODK based platforms, FieldTM is intended for adding attributes to
     existing geographical features such as buildings or Points of Interest (POIs).
   Rectangle-1:
     Icon: fa-solid fa-circle-nodes
     Header: Mapping Coordination
-    Highlight: "The FMTM applications improve the mapping productivity (mapped features/person-day)
+    Highlight: "The FieldTM applications improve the mapping productivity (mapped features/person-day)
       by reducing the duplication of efforts an\uFEFFd avoiding missed areas by allocating
       task areas to mappers."
   Rectangle-2:
     Icon: fa-solid fa-magnifying-glass-chart
     Header: Data Quality Assurance
-    Highlight: "FMTM improves data quality by including a validation mechanism that
+    Highlight: "FieldTM improves data quality by including a validation mechanism that
       ensures data completeness and in\uFEFFteroperability."
   Rectangle-3:
     Icon: fa-solid fa-download
     Header: Field Data Coordination
-    Highlight: Unlike other ODK based platforms, FMTM is intended for adding attributes
+    Highlight: Unlike other ODK based platforms, FieldTM is intended for adding attributes
       to existing geographical features such as buildings or Points of Interest (POIs).
 Block 3:
   Header: HOW DOES IT WORK?
   Highlight: Mobile data collection and mapping works well with Open Data Kit (ODK),
-    but field coordination is challenging and FMTM addresses this issue
-  Text: The FMTM was designed and built to facilitate mapping by large teams to cover
-    urban areas effectively, efficiently, and with good quality. <br> Using the FMTM,
+    but field coordination is challenging and FieldTM addresses this issue
+  Text: The FieldTM was designed and built to facilitate mapping by large teams to cover
+    urban areas effectively, efficiently, and with good quality. <br> Using the FieldTM,
     each mapper using ODK Collect on their mobile device can select—or be assigned—a
     single area at a time to map, with a specific set of features (such as buildings)
     to visit. They can easily see where they must go and which features they must
@@ -73,8 +73,8 @@ Block 4:
   - Name: Learn More
     URL: https://openaerialmap.org/
 Block 5:
-  Header: Field Mapping Tasking Manager (FMTM)
-  Text: The FMTM is a standalone mobile and web application that works using OpenDataKit
+  Header: Field Tasking Manager (FieldTM)
+  Text: The FieldTM is a standalone mobile and web application that works using OpenDataKit
     (ODK), a powerful data collection platform that leverages commonly-available mobile
     Android devices to enable people to input information including geospatial data
     in the field.

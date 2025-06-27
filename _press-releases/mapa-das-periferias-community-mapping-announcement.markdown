@@ -19,7 +19,7 @@ The project was officially launched in October of 2023, and through 2024, the te
 
 ## HOT’s Role in the Project
 
-In this new stage, HOT joins the project’s current partners to deliver the ***Community Mapping App***, a customized version of HOT's [Field Mapping Tasking Manager (FMTM)](https://www.hotosm.org/tech-suite/field-mapping-tasking-manager/) tool. This tool will address some of the challenges identified in the previous phases of the project, with the goal of streamlining user experience and making coordination more efficient during the mapping process.
+In this new stage, HOT joins the project’s current partners to deliver the ***Community Mapping App***, a customized version of HOT's [Field Tasking Manager (FieldTM)](https://www.hotosm.org/tech-suite/field-mapping-tasking-manager/) tool. This tool will address some of the challenges identified in the previous phases of the project, with the goal of streamlining user experience and making coordination more efficient during the mapping process.
 
 From April to November of 2025, HOT will support the mobilization of mapping campaigns across Brazil, ensuring the *Community Mapping App* meets the project's expectations.
 
@@ -47,7 +47,7 @@ O projeto foi oficialmente lançado em outubro de 2023, e ao longo de 2024, a eq
 
 ## O Papel da HOT no Projeto
 
-Nesta nova fase, a HOT se junta aos parceiros atuais do projeto para entregar o ***Aplicativo do Mapeamento Popular***, uma versão personalizada da ferramenta [Field Mapping Tasking Manager (FMTM)](https://www.hotosm.org/tech-suite/field-mapping-tasking-manager/). Esta ferramenta abordará alguns dos desafios identificados nas fases anteriores do projeto, com o objetivo de simplificar a experiência do usuário e tornar a coordenação mais eficiente durante o processo de mapeamento.
+Nesta nova fase, a HOT se junta aos parceiros atuais do projeto para entregar o ***Aplicativo do Mapeamento Popular***, uma versão personalizada da ferramenta [Field Tasking Manager (FieldTM)](https://www.hotosm.org/tech-suite/field-mapping-tasking-manager/). Esta ferramenta abordará alguns dos desafios identificados nas fases anteriores do projeto, com o objetivo de simplificar a experiência do usuário e tornar a coordenação mais eficiente durante o processo de mapeamento.
 
 De abril a novembro de 2025, a HOT apoiará a mobilização de campanhas de mapeamento em todo o Brasil, garantindo que o aplicativo para Mapeamento Popular atenda às expectativas do projeto.
 
