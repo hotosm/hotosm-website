@@ -43,7 +43,7 @@ For all those leading several mapping projects and all the work that matters, of
 
 Our second milestone this year is [our recognition as a Digital Public Good (DPG)](https://www.digitalpublicgoods.net/r/hot-tasking-manager), which underscores our commitment to equity, transparency, and open access while serving the vulnerable communities across the globe.
 
-This recognition also brings with it a responsibility to remain open, innovative, and inclusive. Our contributors come from diverse backgrounds with different needs, motivations, and skill levels. So** our tools should always have intuitive workflows that meet people where they are** and be an enabler in their efforts.
+This recognition also brings with it a responsibility to remain open, innovative, and inclusive. Our contributors come from diverse backgrounds with different needs, motivations, and skill levels. So **our tools should always have intuitive workflows that meet people where they are** and be an enabler in their efforts.
 
 ## What’s ahead for HOT TM?
 
