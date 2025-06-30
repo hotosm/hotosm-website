@@ -1,7 +1,6 @@
 ---
 title: 'HOT Tasking Manager: Major Highlights and Celebrations this 2025'
 date: 2025-06-30 13:30:00 Z
-published: false
 Summary Text: In this blog, Ramya Ragupathy, the Tasking Manager's Product Manager,
   celebrates the amazing achievements that came through this year for HOT's flagship
   tool, with the launch of its fifth version after 15-years of existence and its recognition
