@@ -13,7 +13,7 @@ Summary Text: 'Each quarter, we feature one of our all-star staff members in a S
   Project Associate at the Eastern and Southern Africa Hub.
 
 '
-Feature Image: "https://cdn.hotosm.org/website/StaffSpotlight_Kennedy.jpeg"
+Feature Image: https://cdn.hotosm.org/website/StaffSpotlight_Kennedy.jpeg
 Person: Dana Gallaty
 ---
 

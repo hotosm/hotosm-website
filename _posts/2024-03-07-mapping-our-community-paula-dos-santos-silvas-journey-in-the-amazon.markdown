@@ -7,7 +7,7 @@ Summary Text: Explore Paula dos Santos Silva's incredible journey in the Amazon,
   current research on 'fallen lands,' Paula shares her experience and highlights the
   importance of mapping to reveal the roots and traditions of these communities, ensuring
   their visibility and recognition.
-Feature Image: "https://cdn.hotosm.org/website/Paula+-+Tefe%CC%81+1+Amazoni%CC%81a.jpg"
+Feature Image: https://cdn.hotosm.org/website/Paula+-+Tefe%CC%81+1+Amazoni%CC%81a.jpg
 Person: Marina Aragão Santos
 Country:
 - Brazil

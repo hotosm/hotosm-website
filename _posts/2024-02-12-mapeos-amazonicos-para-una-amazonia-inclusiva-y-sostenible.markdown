@@ -13,7 +13,7 @@ Summary Text: Explora la iniciativa Mapeos Amazónicos, un proyecto del Hub de M
   social en la región amazónica. Descubre proyectos clave en Colombia, Ecuador, Brasil
   y Perú para fortalecer la prevención, gestión de emergencias, manejo forestal sostenible
   y resiliencia comunitaria.
-Feature Image: "https://cdn.hotosm.org/website/Mapeamentos++Amazo%CC%82nicos+Webinar+Po%CC%81ster+(1).jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapeamentos++Amazo%CC%82nicos+Webinar+Po%CC%81ster+(1).jpg
 Person: LAC Hub Team
 Country:
 - Brazil

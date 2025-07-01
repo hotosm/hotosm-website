@@ -5,7 +5,7 @@ date: 2025-05-07 15:59:00 Z
 Summary Text: Freetown’s first citywide drone mapping project redefined urban planning
   by putting communities at the center — piloting drones, producing data, and shaping
   the future of their city.
-Feature Image: "https://cdn.hotosm.org/website/Freetown.jpg"
+Feature Image: https://cdn.hotosm.org/website/Freetown.jpg
 Person:
 - Mariana Marín
 - Pete Masters

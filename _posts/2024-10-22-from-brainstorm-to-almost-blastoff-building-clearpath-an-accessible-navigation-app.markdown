@@ -6,7 +6,7 @@ Summary Text: ClearPath, a mobile navigation app, leverages OpenStreetMap to enh
   accessibility in Downtown Kingston for persons with disabilities. Developed with
   support from HOT’s microgrant and collaboration with MSBM, ClearPath aims to map
   key accessibility features like curb cuts and pedestrian crossings.
-Feature Image: "https://cdn.hotosm.org/website/ClearPath.jpg"
+Feature Image: https://cdn.hotosm.org/website/ClearPath.jpg
 Person: Sharon Aiken
 Country:
 - Jamaica

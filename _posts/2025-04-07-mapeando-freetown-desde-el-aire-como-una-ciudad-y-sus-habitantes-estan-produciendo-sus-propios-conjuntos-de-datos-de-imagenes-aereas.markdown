@@ -5,7 +5,7 @@ date: 2025-04-07 16:28:00 Z
 Summary Text: 'El primer proyecto de mapeo con drones a nivel ciudad en Freetown redefinió
   la planificación urbana al poner a las comunidades en el centro: pilotando drones,
   generando datos y moldeando el futuro de su ciudad.'
-Feature Image: "https://cdn.hotosm.org/website/Freetown+HOT+CFF+GIZ.jpg"
+Feature Image: https://cdn.hotosm.org/website/Freetown+HOT+CFF+GIZ.jpg
 Person:
 - Mariana Marín
 - Pete Masters

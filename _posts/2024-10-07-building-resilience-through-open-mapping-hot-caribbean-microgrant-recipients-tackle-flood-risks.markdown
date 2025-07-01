@@ -6,7 +6,7 @@ Summary Text: HOT Caribbean Microgrant Programme is enhancing local communities 
   Trinidad and Tobago and Saint Lucia to build resilience against flood risks through
   open mapping. Learn about community-led disaster risk reduction, youth engagement,
   and geospatial data's role in enhancing disaster preparedness in the Caribbean.
-Feature Image: "https://cdn.hotosm.org/website/Events++Eventos.jpg"
+Feature Image: https://cdn.hotosm.org/website/Events++Eventos.jpg
 Is image top aligned: false
 Person: Louise Mathurin Serieux
 Country:

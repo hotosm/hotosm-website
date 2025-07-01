@@ -6,7 +6,7 @@ Project Summary Text: |
   <br>
   <br>
   Since 2023, Start Fund Nepal (SFN) and HOT's <a href="https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/">Open-Mapping Hub - Asia-Pacific (AP Hub)</a> have collaborated with local communities and the Karnali Integrated Rural Development and Research Centre (KIRDARC) to enhance the capacity of at-risk communities in Karnali Province, Nepal. <b>This pilot project focused on improving existing data on road networks and key disaster response infrastructures in the region</b>, and a series of technical workshops were conducted to engage and build capacities in local stakeholders.
-Feature Image: "https://cdn.hotosm.org/website/RoadNewtorkCover.jpg"
+Feature Image: https://cdn.hotosm.org/website/RoadNewtorkCover.jpg
 Is image top aligned: false
 Country:
 - Nepal

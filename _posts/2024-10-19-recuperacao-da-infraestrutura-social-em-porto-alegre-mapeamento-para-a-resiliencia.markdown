@@ -5,7 +5,7 @@ Summary Text: Após as enchentes de 2024 em Porto Alegre, Brasil, o BID e a HOT 
   uniram para mapear e avaliar a infraestrutura danificada. Utilizando dados georreferenciados
   e o envolvimento da comunidade, essa colaboração promove uma recuperação sustentável
   e resiliente para as populações mais vulneráveis da cidade.
-Feature Image: "https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg"
+Feature Image: https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg
 Person:
 - Mariana Marín
 - Céline Jacquin

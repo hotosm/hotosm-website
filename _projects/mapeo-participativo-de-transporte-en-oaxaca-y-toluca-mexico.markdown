@@ -6,7 +6,7 @@ Project Summary Text: Impulsamos el mapeo colaborativo del transporte público e
   Association, HOT y Codeando México, con financiamiento de la GIZ, el proyecto involucra
   a estudiantes, gobiernos y sociedad civil en Oaxaca, Salina Cruz y Toluca para mejorar
   la gestión y planificación del transporte urbano.
-Feature Image: "https://cdn.hotosm.org/website/Mapeo+de+Transporte+Pu%CC%81blico+TranSiT+GIZ+HOT+Codeando+Me%CC%81xico+Trufi.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapeo+de+Transporte+Pu%CC%81blico+TranSiT+GIZ+HOT+Codeando+Me%CC%81xico+Trufi.jpg
 Country:
 - Mexico
 Impact Area:

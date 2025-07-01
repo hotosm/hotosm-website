@@ -1,7 +1,7 @@
 ---
 title: Brazil Singh
 date: 2025-06-24 12:07:00 Z
-Photo: "https://cdn.hotosm.org/website/Brazil+-+Brazil+Singh.jpg"
+Photo: https://cdn.hotosm.org/website/Brazil+-+Brazil+Singh.jpg
 Member Type:
   Is Voting Member: true
 Social Media (Full URL):

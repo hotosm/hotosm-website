@@ -6,7 +6,7 @@ Summary Text: '"Participatory Mapping for a Sustainable Amazon" is advancing in 
   Colombia, and Guatemala, bringing together knowledge exchange and open technologies
   to strengthen the territorial autonomy of Indigenous communities in the Amazon and
   Mesoamerica.'
-Feature Image: "https://cdn.hotosm.org/website/Mapeos+participativos+para+una+Amazoni%CC%81a+Sostenible-226f40.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapeos+participativos+para+una+Amazoni%CC%81a+Sostenible-226f40.jpg
 Person:
 - Juan Arellano Valdivia
 - Mariana Marín

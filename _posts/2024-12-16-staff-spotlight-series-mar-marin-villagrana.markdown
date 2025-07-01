@@ -10,7 +10,7 @@ tags:
 Summary Text: Each quarter, we’re featuring one of our all-star staff members. Staff
   featured in this Spotlight Series have been peer-nominated for their superb performance
   and values-driven work.
-Feature Image: "https://cdn.hotosm.org/website/Picture+1-7e3289.png"
+Feature Image: https://cdn.hotosm.org/website/Picture+1-7e3289.png
 Is image top aligned: true
 Person: Dana Gallaty
 ---

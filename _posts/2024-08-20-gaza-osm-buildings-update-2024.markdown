@@ -11,7 +11,7 @@ Summary Text: 'As damage reaches record levels in the Gaza Strip, expert volunte
   (AI/ML) in the sector.
 
 '
-Feature Image: "https://cdn.hotosm.org/website/GazaCity.jpg"
+Feature Image: https://cdn.hotosm.org/website/GazaCity.jpg
 Person: Jessica Pechmann
 Country:
 - Palestinian Territory

@@ -6,7 +6,7 @@ Summary Text: Explore como a tecnologia GNSS de baixo custo está revolucionando
   conduzido pela Universidade Federal de São João del-Rei, promove uma cartografia
   participativa, melhorando a gestão de recursos e a resiliência das comunidades ribeirinhas
   na Amazônia Brasileira.
-Feature Image: "https://cdn.hotosm.org/website/Mapeamento+do+Me%CC%81dio+Solimo%CC%83es.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapeamento+do+Me%CC%81dio+Solimo%CC%83es.jpg
 Person:
 - Silvia Elena Ventorini
 - Ana Luísa Teixeira

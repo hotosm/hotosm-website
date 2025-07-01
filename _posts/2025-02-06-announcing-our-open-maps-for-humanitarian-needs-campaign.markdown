@@ -4,7 +4,7 @@ date: 2025-02-06 18:41:00 Z
 Summary Text: 'Anticipating a potential drop in information on humanitarian contexts
   in the coming months, and while humanitarians find a way forward, we are launching
   a 90 day campaign of Open Maps for Humanitarian Needs. '
-Feature Image: "https://cdn.hotosm.org/website/HNO_Global_Map_featured.png"
+Feature Image: https://cdn.hotosm.org/website/HNO_Global_Map_featured.png
 Person:
 - Jessica Pechmann
 - Raiza Pilatowsky Gruner

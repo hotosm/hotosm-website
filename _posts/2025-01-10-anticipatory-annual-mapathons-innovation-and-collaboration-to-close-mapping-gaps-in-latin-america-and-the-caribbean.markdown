@@ -6,7 +6,7 @@ Summary Text: The Annual National Anticipatory Mapathons (MANA) are an innovativ
   strategy to close mapping gaps in Latin America and the Caribbean, strengthening
   risk prevention and management. In 2024, MANA made an impact in Ecuador, Peru, Colombia,
   and Guatemala, showcasing the power of open mapping to build more resilient communities.
-Feature Image: "https://cdn.hotosm.org/website/Mapatones+Anuales+Anticipatorios+en+Latinoame%CC%81rica+HOT.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapatones+Anuales+Anticipatorios+en+Latinoame%CC%81rica+HOT.jpg
 Person:
 - Céline Jacquin
 - Constanza Petrazzini

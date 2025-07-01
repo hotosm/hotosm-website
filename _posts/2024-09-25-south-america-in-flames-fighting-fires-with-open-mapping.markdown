@@ -11,7 +11,7 @@ tags:
 Summary Text: Wildfires in South America are consuming thousands of hectares of crops
   and forests in conservation areas in countries such as Bolivia, Peru, Ecuador and
   others. Let's learn about the relief efforts emerging from open mapping communities.
-Feature Image: "https://cdn.hotosm.org/website/iqair.jpg"
+Feature Image: https://cdn.hotosm.org/website/iqair.jpg
 ---
 
 This year's wildfire season in South America is breaking [dangerous records](https://www.reuters.com/world/americas/continent-ablaze-south-america-surpasses-record-fires-2024-09-12/) in terms of its extent and intensity. The main countries affected are [Bolivia](https://reliefweb.int/disaster/wf-2024-000134-bol), [Brazil](https://agenciabrasil.ebc.com.br/en/geral/noticia/2024-09/brazil-fires-impact-1139-mi-hectares-year), [Colombia](https://www.france24.com/en/live-news/20240922-colombia-battles-fires-as-drought-fuels-latin-american-flames), [Ecuador](https://crisis24.garda.com/alerts/2024/09/ecuador-authorities-responding-to-forest-fires-in-quito-area-as-of-late-sept-24), [Paraguay](https://en.mercopress.com/2024/09/10/virtual-schooling-adopted-in-paraguayan-areas-hit-by-wildfires), [Perú](https://www.reuters.com/world/americas/fires-burn-out-control-peru-hitting-crops-archaeological-sites-2024-09-20/) and [Venezuela](https://crisis24.garda.com/alerts/2024/09/venezuela-emergency-crews-responding-to-large-fire-in-southern-caracas-sept-6). Even countries far from the critical zone, like [Uruguay](https://www.livescience.com/planet-earth/climate-change/record-breaking-fires-engulf-south-america-bringing-black-rain-green-rivers-and-toxic-air-to-the-continent) have been impacted by smoke from the fires.

@@ -4,7 +4,7 @@ date: 2024-03-06 19:32:00 Z
 Project Summary Text: 'Young women from Montserrat were trained on how to use HOT
   Tasking Manager and participated in a mapathon to map critical facilities on the
   island that are vulnerable to climate change impacts. '
-Feature Image: "https://cdn.hotosm.org/website/SIDS-Montserrat3.jpg"
+Feature Image: https://cdn.hotosm.org/website/SIDS-Montserrat3.jpg
 Country:
 - Montserrat
 Impact Area:

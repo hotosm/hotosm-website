@@ -8,7 +8,7 @@ Summary Text: Over the past two years, conflict in Sudan has driven the country 
   radar satellite by the European Space Agency, that gap is beginning to close — but
   a comprehensive dataset of building footprints from OpenStreetMap (OSM) is essential
   to make this satellite data actionable.
-Feature Image: "https://cdn.hotosm.org/website/khartoum-banner-lowres.jpg"
+Feature Image: https://cdn.hotosm.org/website/khartoum-banner-lowres.jpg
 Is image top aligned: true
 Person:
 - Claudio de los Reyes Teran

@@ -7,7 +7,7 @@ Summary Text: Explora la increíble jornada de Paula dos Santos Silva en la Amaz
   trabajo de investigación sobre las "terras caídas", Paula comparte su experiencia
   y resalta la importancia del mapeo para revelar las raíces y tradiciones de estas
   comunidades, asegurando su visibilidad y reconocimiento.
-Feature Image: "https://cdn.hotosm.org/website/Paula+-+Tefe%CC%81+2+Amazoni%CC%81a.jpg"
+Feature Image: https://cdn.hotosm.org/website/Paula+-+Tefe%CC%81+2+Amazoni%CC%81a.jpg
 Person: Marina Aragão Santos
 Country:
 - Brazil

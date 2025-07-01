@@ -5,7 +5,7 @@ Summary Text: Each quarter, we feature one of our all-star staff members in a St
   Spotlight Series. Staff featured in this Series have been peer-nominated for their
   superb performance and values-driven work. This quarter, we spotlight Carter Draper,
   our Programs Senior Manager at the West and Northern Africa Open Mapping Hub.
-Feature Image: "https://cdn.hotosm.org/website/CarterSpotlight.jpg"
+Feature Image: https://cdn.hotosm.org/website/CarterSpotlight.jpg
 ---
 
 ## What first attracted you to work at HOT?

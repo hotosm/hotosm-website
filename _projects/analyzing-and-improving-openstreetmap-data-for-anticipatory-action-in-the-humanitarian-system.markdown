@@ -9,8 +9,8 @@ Project Summary Text: “Is an OpenStreetMap dataset good enough to use?” is a
   Anticipatory Action Accelerator</a>, HOT is working to develop more data insights
   through data completeness statistics. Our aim is to provide more transparency on
   the usability of OpenStreetMap (OSM) data and other open spatial datasets.
-Feature Image: "https://cdn.hotosm.org/website/53888550299_47e3b3dbba_k.jpg"
-Project Logo Image: "https://cdn.hotosm.org/website/h2h-logo-new-400x400.png"
+Feature Image: https://cdn.hotosm.org/website/53888550299_47e3b3dbba_k.jpg
+Project Logo Image: https://cdn.hotosm.org/website/h2h-logo-new-400x400.png
 Country:
 - Ethiopia
 - Somalia

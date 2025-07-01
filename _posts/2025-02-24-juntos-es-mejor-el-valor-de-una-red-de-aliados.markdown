@@ -4,7 +4,7 @@ date: 2025-02-24 18:57:00 Z
 Summary Text: En tiempos de crisis, la colaboración es clave. El Hub de América Latina
   y el Caribe fortalece el trabajo humanitario con una red de aliadas y aliados, impulsando
   el mapeo abierto para generar soluciones resilientes y sostenibles.
-Feature Image: "https://cdn.hotosm.org/website/Red+de+Mapeo+Abierto+del+Equipo+Humanitario+de+OpenStreetMap.jpg"
+Feature Image: https://cdn.hotosm.org/website/Red+de+Mapeo+Abierto+del+Equipo+Humanitario+de+OpenStreetMap.jpg
 Person: Juan Arellano Valdivia
 ---
 

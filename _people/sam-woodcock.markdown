@@ -1,7 +1,7 @@
 ---
 title: Sam Woodcock
 date: 2024-10-28 15:58:00 Z
-Photo: "https://cdn.hotosm.org/website/307-0-2.jpg"
+Photo: https://cdn.hotosm.org/website/307-0-2.jpg
 Member Type:
   Is Staff: true
 Job Title: Senior Technical Lead

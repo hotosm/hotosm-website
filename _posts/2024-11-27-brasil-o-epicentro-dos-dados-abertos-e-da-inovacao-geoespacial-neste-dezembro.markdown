@@ -6,7 +6,7 @@ Summary Text: Uma semana extraordinária, três eventos transformadores! Améric
   a 6 de dezembro e de 6 a 8 de dezembro. Esses eventos reunirão as mentes mais brilhantes
   em dados abertos e inovação geoespacial, e estamos entusiasmadas em anunciar que
   a HOT estará no centro da ação.
-Feature Image: "https://cdn.hotosm.org/website/HOTOSM+FOSSFG%2C+State+of+the+Map+Be%CC%81lem%2C+Ame%CC%81rica+Abierta+Brasilia+v2.jpg"
+Feature Image: https://cdn.hotosm.org/website/HOTOSM+FOSSFG%2C+State+of+the+Map+Be%CC%81lem%2C+Ame%CC%81rica+Abierta+Brasilia+v2.jpg
 Person:
 - Petya Kangalova
 - Mariana Marín

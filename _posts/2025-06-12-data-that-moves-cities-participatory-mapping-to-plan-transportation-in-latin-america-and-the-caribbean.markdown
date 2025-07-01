@@ -7,7 +7,7 @@ Summary Text: From Zitácuaro to Salina Cruz, communities, universities, and loc
   strategy is led by the Humanitarian OpenStreetMap Team (HOT), in collaboration with
   Codeando México and Trufi Association, to digitize routes, support transportation
   modernization efforts, and reduce gaps in urban mobility.
-Feature Image: "https://cdn.hotosm.org/website/5-14b6a9.jpg"
+Feature Image: https://cdn.hotosm.org/website/5-14b6a9.jpg
 Person:
 - Mariana Marín
 - Céline Jacquin

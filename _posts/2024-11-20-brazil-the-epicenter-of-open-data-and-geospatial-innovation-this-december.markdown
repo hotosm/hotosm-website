@@ -6,7 +6,7 @@ Summary Text: One extraordinary week, three transformative events! Open Americas
   taking place from December 2–6 and December 6–8. These events will bring together
   the brightest minds in open data and geospatial innovation, and we’re thrilled to
   announce that HOT will be right at the center of the action.
-Feature Image: "https://cdn.hotosm.org/website/HOTOSM+FOSSFG%2C+State+of+the+Map+Be%CC%81lem%2C+Open+America+Brasilia.jpg"
+Feature Image: https://cdn.hotosm.org/website/HOTOSM+FOSSFG%2C+State+of+the+Map+Be%CC%81lem%2C+Open+America+Brasilia.jpg
 Person:
 - Petya Kangalova
 - Mariana Marín

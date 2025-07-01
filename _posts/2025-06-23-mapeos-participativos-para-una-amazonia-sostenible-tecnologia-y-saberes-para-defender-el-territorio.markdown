@@ -5,7 +5,7 @@ date: 2025-06-23 04:34:00 Z
 Summary Text: '"Mapeos participativos para una Amazonía sostenible" avanza en Bolivia,
   Colombia y Guatemala, uniendo diálogo de saberes y tecnologías libres para fortalecer
   la autonomía territorial de comunidades indígenas en la Amazonía y Mesoamérica.'
-Feature Image: "https://cdn.hotosm.org/website/Mapeos+participativos+para+una+Amazoni%CC%81a+Sostenible-226f40.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapeos+participativos+para+una+Amazoni%CC%81a+Sostenible-226f40.jpg
 Person:
 - Juan Arellano Valdivia
 - Mariana Marín

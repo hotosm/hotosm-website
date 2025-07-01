@@ -3,7 +3,7 @@ title: Conflict & Displacement Program
 date: 2024-10-01 05:01:00 Z
 permalink: "/programs/conflict-displacement"
 position: 88
-Feature Image: "https://cdn.hotosm.org/website/UNsomalia-27332415045_217de2d978_o.jpg"
+Feature Image: https://cdn.hotosm.org/website/UNsomalia-27332415045_217de2d978_o.jpg
 Country:
 - Palestinian Territory
 - Sudan
@@ -38,7 +38,7 @@ Stats:
   text4: OSM Contributors
   hover4: The number of distinct users that have edited OSM data. Projects in this
     program are only open to expert mappers.
-Feature-Image: "https://cdn.hotosm.org/website/UNsomalia-27332415045_217de2d978_o.jpg"
+Feature-Image: https://cdn.hotosm.org/website/UNsomalia-27332415045_217de2d978_o.jpg
 Event Promo:
   Event Name: Conflict & Displacement Program
   Description: "<a style='color: white; font-weight: bold;'></a>"
@@ -53,7 +53,7 @@ Block 2:
   Text: Through the Missing Maps project, the HOT global community creates maps of
     high vulnerability areas where data is scarce, putting an area home to millions
     of people onto the world map in OpenStreetMap.
-  Image: "https://cdn.hotosm.org/website/hot-staff-img-2235-flipped.jpg"
+  Image: https://cdn.hotosm.org/website/hot-staff-img-2235-flipped.jpg
   Figcaption: 'Refugee Crisis Mapping project  in Arua district, Uganda in collaboration
     with Global Partnership for Sustainable Development Data (GPSDD). Photo by: Shamillah
     Ssekandi Nassozi, HOT Staff.'
@@ -185,7 +185,7 @@ Project-1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
     for humanitarian and development programs.
-  Image: "https://cdn.hotosm.org/website/LAC_OpenCitiesMX_1.jpeg"
+  Image: https://cdn.hotosm.org/website/LAC_OpenCitiesMX_1.jpeg
   Call to Action: View the tools
   URL: "/projects/dar_ramani_huria_dar_open_map"
 Project-2:
@@ -193,7 +193,7 @@ Project-2:
   Text: Learn about the community and the latest events — especially about the Open
     Summit 2023, a decentralized, year-long program of 13 global, regional, and local
     conferences.
-  Image: "https://cdn.hotosm.org/website/opensummit-banner-2023-2024.png"
+  Image: https://cdn.hotosm.org/website/opensummit-banner-2023-2024.png
   Call to Action: Learn more
   URL: "/projects/dar_ramani_huria_dar_open_map"
 Project-3:

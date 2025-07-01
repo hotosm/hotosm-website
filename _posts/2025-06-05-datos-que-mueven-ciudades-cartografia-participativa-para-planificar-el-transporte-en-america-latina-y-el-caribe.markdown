@@ -7,7 +7,7 @@ Summary Text: Desde Zitácuaro hasta Salina Cruz, comunidades, universidades y g
   nacional es liderada por el Equipo Humanitario de OpenStreetMap (HOT), en colaboración
   con Codeando México y Trufi Association, para digitalizar rutas, ayudar en esfuerzos
   de modernización del transporte, reducir brechas en la movilidad urbana.
-Feature Image: "https://cdn.hotosm.org/website/5-14b6a9.jpg"
+Feature Image: https://cdn.hotosm.org/website/5-14b6a9.jpg
 Person:
 - Mariana Marín
 - Céline Jacquin

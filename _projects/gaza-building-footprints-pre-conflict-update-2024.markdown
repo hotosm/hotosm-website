@@ -9,7 +9,7 @@ Project Summary Text: "Escalation of conflict in Gaza, starting in October 2023,
   volunteers using HOT’s Tasking Manager.  Using pre-October 2023 imagery, this effort
   added a net total of 59,223 buildings to the dataset and improved thousands of existing
   features through 469,152 map edits. \n"
-Feature Image: "https://cdn.hotosm.org/website/Al-Jazeera-gaza-in-war-023.jpg"
+Feature Image: https://cdn.hotosm.org/website/Al-Jazeera-gaza-in-war-023.jpg
 Country:
 - Palestinian Territory
 Impact Area:

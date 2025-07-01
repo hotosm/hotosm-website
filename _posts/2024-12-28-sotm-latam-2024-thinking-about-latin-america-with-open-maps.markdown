@@ -9,7 +9,7 @@ Summary Text: In Belém, geotech activists exchanged experiences to address issu
   such as the climate crisis. Since open data and cartography are essential in the
   search for popular sovereignty in the territories, how can they serve the Amazonian
   peoples?
-Feature Image: "https://cdn.hotosm.org/website/postop2.jpg"
+Feature Image: https://cdn.hotosm.org/website/postop2.jpg
 Person: Antonio Laranjeira
 ---
 

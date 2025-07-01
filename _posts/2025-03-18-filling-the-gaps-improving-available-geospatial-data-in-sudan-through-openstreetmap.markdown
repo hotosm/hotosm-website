@@ -5,7 +5,7 @@ Summary Text: 'Humanitarian mapping in Sudan has been improving data quality in 
   (OSM) in otherwise uncovered areas. For those interested in using this OSM data,
   Humanitarian OpenStreetMap Team is making it easier than ever to find what data
   (and where!) in Sudan has been updated. '
-Feature Image: "https://cdn.hotosm.org/website/baylah-sudan-low.png"
+Feature Image: https://cdn.hotosm.org/website/baylah-sudan-low.png
 Person: Jessica Pechmann
 Country:
 - Sudan

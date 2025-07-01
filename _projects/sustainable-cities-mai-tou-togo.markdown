@@ -8,7 +8,7 @@ Project Summary Text: This project, which has received a national award, is prov
   approach. Local municipalities require well-organized and structured geospatial
   data to comprehend better and manage vital aspects of urban infrastructure, services,
   and resources.
-Feature Image: "https://cdn.hotosm.org/website/Togo2022LeadImageB.jpg"
+Feature Image: https://cdn.hotosm.org/website/Togo2022LeadImageB.jpg
 Country:
 - Togo
 Impact Area:

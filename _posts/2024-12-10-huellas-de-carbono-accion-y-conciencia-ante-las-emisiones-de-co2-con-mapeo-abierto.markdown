@@ -7,7 +7,7 @@ Summary Text: Estudiantes de la asignatura de “Orientación y Ecología” del
   medir las consecuencias ambientales que tienen los medios de transportes utilizados
   y así proponer medidas con las cuales las emisiones de CO2 podrían ser reducidas
   en la localidad.
-Feature Image: "https://cdn.hotosm.org/website/Foto+Huella+02.jpg"
+Feature Image: https://cdn.hotosm.org/website/Foto+Huella+02.jpg
 Person: Luis Miguel Bande Jaramillo
 Country:
 - Argentina

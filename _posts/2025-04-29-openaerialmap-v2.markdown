@@ -6,7 +6,7 @@ Summary Text: OpenAerialMap is evolving to provide faster, more reliable access 
   and modern tools, HOT and Development Seed are rebuilding OAM to meet today’s urgent
   mapping needs. Discover how this upgrade will improve interoperability, speed, and
   usability for disaster response and recovery efforts.
-Feature Image: "https://cdn.hotosm.org/website/OAMv2Banner.jpg"
+Feature Image: https://cdn.hotosm.org/website/OAMv2Banner.jpg
 Person: Cristiano Giovando
 ---
 

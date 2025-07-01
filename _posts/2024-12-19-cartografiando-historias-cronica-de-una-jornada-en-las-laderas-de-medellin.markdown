@@ -4,7 +4,7 @@ date: 2024-12-19 02:42:00 Z
 Summary Text: En Altos de la Torre, Medellín, un taller de mapeo reunió al Hub de
   Mapeo, POMOTE y colectivos locales. Usando ChatMap, se visibilizó el territorio
   y se fortaleció a la comunidad frente a riesgos socionaturales.
-Feature Image: "https://cdn.hotosm.org/website/Laderas+Blog.jpg"
+Feature Image: https://cdn.hotosm.org/website/Laderas+Blog.jpg
 Person: Juan Arellano Valdivia
 Country:
 - Colombia

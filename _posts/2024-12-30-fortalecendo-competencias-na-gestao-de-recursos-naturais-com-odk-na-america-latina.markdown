@@ -5,7 +5,7 @@ date: 2024-12-30 17:49:00 Z
 Summary Text: A Guatemala, em colaboração com a HOT, o PNUD e o MARN, está trabalhando
   na gestão de resíduos e recursos naturais, identificando locais críticos e capacitando
   funcionários para melhorar as infraestruturas.
-Feature Image: "https://cdn.hotosm.org/website/GUATEMALA+GESTIO%CC%81N+DE+RESIDUOS+KOBO+EQUIPO+HUMANITARIO+DE+OPENSTREETMAP+PNUD+GUATEMALA.jpg"
+Feature Image: https://cdn.hotosm.org/website/GUATEMALA+GESTIO%CC%81N+DE+RESIDUOS+KOBO+EQUIPO+HUMANITARIO+DE+OPENSTREETMAP+PNUD+GUATEMALA.jpg
 Person: Céline Jacquin
 Country:
 - Guatemala

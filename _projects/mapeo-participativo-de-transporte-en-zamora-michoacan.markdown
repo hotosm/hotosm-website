@@ -1,7 +1,7 @@
 ---
 title: Mapeo Participativo de Transporte en Zamora, Michoacán
 date: 2024-07-11 01:37:00 Z
-Feature Image: "https://cdn.hotosm.org/website/Mapeo+Colaborativo+de+Transporte+Pu%CC%81blico+-+HOT%2C+CoMapper+y+Codeando+Me%CC%81xico.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapeo+Colaborativo+de+Transporte+Pu%CC%81blico+-+HOT%2C+CoMapper+y+Codeando+Me%CC%81xico.jpg
 Country:
 - México
 Impact Area:

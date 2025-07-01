@@ -7,7 +7,7 @@ Project Summary Text: From June to November 2023, HOT's Open Mapping Hub partner
   Territory Mapping in Medellín. The initiative engaged 18 social processes, collaborating
   with local organizations, university researchers, and municipal departments, focusing
   on social cartography methodologies and free mapping tools linked to OpenStreetMap.
-Feature Image: "https://cdn.hotosm.org/website/Pomote+UnAula+Workshops.jpg"
+Feature Image: https://cdn.hotosm.org/website/Pomote+UnAula+Workshops.jpg
 Is Community-Led: true
 Country:
 - Colombia

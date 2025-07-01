@@ -9,7 +9,7 @@ Summary Text: A cohort of 30 young volunteers in Belize was trained in open data
   strengthens local capacity for disaster risk reduction and anticipatory action.
   This successful pilot sets the stage for scaling up open mapping efforts across
   the Caribbean.
-Feature Image: "https://cdn.hotosm.org/website/Emergency+Resource+Mapping+in+Corozal,+Belize++1.jpg"
+Feature Image: https://cdn.hotosm.org/website/Emergency+Resource+Mapping+in+Corozal,+Belize++1.jpg
 Person:
 - Arnelle Isaac
 - Fabrizio Scrollini

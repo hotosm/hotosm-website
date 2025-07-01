@@ -5,7 +5,7 @@ Summary Text: "As we celebrate the Humanitarian OpenStreetMap Team’s 15 annive
   we reflect on the role of community-generated geospatial data in solving many of
   the core challenges we face this century. How can our wider data-centered international
   community bring in voices that are often left out? \n"
-Feature Image: "https://cdn.hotosm.org/website/Geospatial+data+haves+and+nots.jpg"
+Feature Image: https://cdn.hotosm.org/website/Geospatial+data+haves+and+nots.jpg
 Person:
 - Liz Chamberlain
 - Fabrizio Scrollini

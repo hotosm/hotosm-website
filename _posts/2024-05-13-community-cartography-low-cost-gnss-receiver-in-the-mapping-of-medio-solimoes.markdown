@@ -6,7 +6,7 @@ Summary Text: Explore how low-cost GNSS technology is revolutionizing mapping in
   conducted by the Federal University of São João del-Rei, promotes participatory
   cartography, improving resource management and resilience of riverside communities
   in the Brazilian Amazon.
-Feature Image: "https://cdn.hotosm.org/website/Mapeamento+do+Me%CC%81dio+Solimo%CC%83es.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapeamento+do+Me%CC%81dio+Solimo%CC%83es.jpg
 Person:
 - Silvia Elena Ventorini
 - Ana Luísa Teixeira

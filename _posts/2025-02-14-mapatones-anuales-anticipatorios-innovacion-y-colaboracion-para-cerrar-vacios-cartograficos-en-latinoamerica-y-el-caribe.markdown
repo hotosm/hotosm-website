@@ -7,7 +7,7 @@ Summary Text: Los Mapatones Nacionales Anuales Anticipatorios (MANA) son una est
   la prevención y gestión de riesgos. En 2024, los MANA impactaron en Ecuador, Perú,
   Colombia y Guatemala, demostrando el poder del mapeo abierto para construir comunidades
   más resilientes.
-Feature Image: "https://cdn.hotosm.org/website/Mapatones+Anuales+Anticipatorios+en+Latinoame%CC%81rica+HOT.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapatones+Anuales+Anticipatorios+en+Latinoame%CC%81rica+HOT.jpg
 Person:
 - Céline Jacquin
 - Constanza Petrazzini

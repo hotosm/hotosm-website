@@ -4,7 +4,7 @@ date: 2025-03-14 16:50:00 Z
 Summary Text: Swift and effective response after the floods in Bahía Blanca, Argentina.
   The LAC Hub mobilized the humanitarian mapping community to generate key data for
   response and recovery efforts.
-Feature Image: "https://cdn.hotosm.org/website/Bahi%CC%81a+Blanca+Inundanciones+Activacio%CC%81n+Humanitaria.jpg"
+Feature Image: https://cdn.hotosm.org/website/Bahi%CC%81a+Blanca+Inundanciones+Activacio%CC%81n+Humanitaria.jpg
 Person: Mariana Marín
 Country:
 - Argentina

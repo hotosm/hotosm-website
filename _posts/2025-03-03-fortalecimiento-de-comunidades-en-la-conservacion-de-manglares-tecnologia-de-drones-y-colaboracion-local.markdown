@@ -5,7 +5,7 @@ date: 2025-03-03 21:05:00 Z
 Summary Text: Descubre cómo la colaboración con comunidades locales y el uso de drones
   ligeros están revolucionando la conservación de los manglares en México, fortaleciendo
   la gestión territorial y promoviendo la resiliencia comunitaria.
-Feature Image: "https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+Las+Guardianas+del+Conchalito+BSCicletos+Mangles+del+Manglito+HOTOSM+Wikimedia+Me%CC%81xico+OpenDroneMap.jpg"
+Feature Image: https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+Las+Guardianas+del+Conchalito+BSCicletos+Mangles+del+Manglito+HOTOSM+Wikimedia+Me%CC%81xico+OpenDroneMap.jpg
 Person:
 - Céline Jacquin
 - Mariana Marín

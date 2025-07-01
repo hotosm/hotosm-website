@@ -6,7 +6,7 @@ Summary Text: Únete a Open Mapping for All y descubre cómo captar la atención
   estudiantes con herramientas de mapeo abierto. Aborda temas locales de manera creativa,
   interactiva y divertida. Participa en el concurso para recibir capacitaciones, acompañamiento
   y la oportunidad de ganar financiamiento para tu proyecto educativo.
-Feature Image: "https://cdn.hotosm.org/website/OM4A+-+Blog+2.jpg"
+Feature Image: https://cdn.hotosm.org/website/OM4A+-+Blog+2.jpg
 Person:
 - Tim DeWinter
 - Constanza Petrazzini

@@ -5,7 +5,7 @@ Summary Text: Nuestra iniciativa en la Amazonía Ecuatoriana, con el LAC Hub y O
   capacita a comunidades en mapeo de riesgos de desastres usando OSM y Mapillary.
   Las sesiones en ciudades como Tena y Macas permiten mejorar la gestión de riesgos
   naturales y la calidad de vida comunitaria mediante datos geográficos.
-Feature Image: "https://cdn.hotosm.org/website/Blog+Mapeos+Amazo%CC%81nicos+Ecuador+OpenLabEc.jpg"
+Feature Image: https://cdn.hotosm.org/website/Blog+Mapeos+Amazo%CC%81nicos+Ecuador+OpenLabEc.jpg
 Person: Juan Arellano Valdivia
 Country:
 - Ecuador

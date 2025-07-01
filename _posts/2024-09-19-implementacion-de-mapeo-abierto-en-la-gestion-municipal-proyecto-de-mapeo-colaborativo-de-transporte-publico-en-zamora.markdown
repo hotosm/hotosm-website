@@ -8,7 +8,7 @@ Summary Text: El proyecto Rutatón-Zamora, liderado por la Dirección de Movilid
   de HOT, se han generado datos precisos sobre rutas y unidades de transporte, facilitando
   a las autoridades locales tomar decisiones más informadas para optimizar el transporte
   público y mejorar la accesibilidad en la región.
-Feature Image: "https://cdn.hotosm.org/website/Rutato%CC%81n+-+Mapeo+Colaborativo+de+Transporte+Pu%CC%81blico+en+Zamora.jpg"
+Feature Image: https://cdn.hotosm.org/website/Rutato%CC%81n+-+Mapeo+Colaborativo+de+Transporte+Pu%CC%81blico+en+Zamora.jpg
 Person:
 - Mariana Marín
 - Codeando México

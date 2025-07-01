@@ -6,7 +6,7 @@ Summary Text: 'Mexico is making progress with its public policy proposals for th
   regulation and modernization of public transportation. Learn how HOT contributed
   to the project “Creating Data Together: Improving Urban Transport Management in
   Mexico.”'
-Feature Image: "https://cdn.hotosm.org/website/Creando+Datos+Juntos+Mapeo+de+Transporte+Pu%CC%81blico+GIZ+Codeando+Me%CC%81xico+HOT+Trufi.jpeg"
+Feature Image: https://cdn.hotosm.org/website/Creando+Datos+Juntos+Mapeo+de+Transporte+Pu%CC%81blico+GIZ+Codeando+Me%CC%81xico+HOT+Trufi.jpeg
 Person:
 - Céline Jacquin
 - Juan Arellano Valdivia

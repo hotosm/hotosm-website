@@ -5,7 +5,7 @@ Summary Text: A devastating flash flood recently tore through Mokwa, leaving hom
   destroyed and lives upended. We’re calling on advanced mappers to help tag building
   damage and update infrastructure using new satellite imagery to enhance analysis
   and impact.
-Feature Image: "https://cdn.hotosm.org/website/Mokwa+Announcement+Banner.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mokwa+Announcement+Banner.jpg
 Person: Melodee Okigbo
 Country:
 - Nigeria

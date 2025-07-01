@@ -6,7 +6,7 @@ Project Summary Text: Amid Sudan’s crisis, a global effort led by HOT, with su
   a better response. By connecting local knowledge with tech, we are creating data
   and maps that can support humanitarian organizations deliver aid where it's needed
   most.
-Feature Image: "https://cdn.hotosm.org/website/Khartoum_ISS010E23451_lrg.jpg"
+Feature Image: https://cdn.hotosm.org/website/Khartoum_ISS010E23451_lrg.jpg
 Country:
 - Sudan
 Impact Area:

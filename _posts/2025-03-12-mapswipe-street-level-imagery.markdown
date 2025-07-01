@@ -3,7 +3,7 @@ title: Introducing Street-Level Imagery Projects to MapSwipe4Web!
 date: 2025-03-12 08:14:00 Z
 Summary Text: 'MapSwipe4Web is launching a new street-level view! Ready to know the
   details? Read ahead:'
-Feature Image: "https://cdn.hotosm.org/website/MapSwipe_StreetLevelBlog.jpeg"
+Feature Image: https://cdn.hotosm.org/website/MapSwipe_StreetLevelBlog.jpeg
 Person: Nicole Siggins
 ---
 

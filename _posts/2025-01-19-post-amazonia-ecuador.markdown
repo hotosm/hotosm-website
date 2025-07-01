@@ -13,7 +13,7 @@ Summary Text: Junto a la Fundación OpenLab, HOT llevo a cabo un proyecto de cap
   en mapeo abierto en las ciudades de Nueva Loja, Archidona, Puyo, Tena y Macas, en
   la región amazónica de Ecuador.  Entérese del impacto que se logró y las posibilidades
   de cooperación que han quedado abiertas.
-Feature Image: "https://cdn.hotosm.org/website/mapaMapeoAmazonia.jpg"
+Feature Image: https://cdn.hotosm.org/website/mapaMapeoAmazonia.jpg
 Person: Juan Arellano Valdivia
 Country:
 - Ecuador

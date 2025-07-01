@@ -4,7 +4,7 @@ date: 2025-02-20 13:30:00 Z
 Summary Text: In times of crisis, collaboration is key. The Latin America and Caribbean
   Hub strengthens humanitarian efforts through a network of allies, driving open mapping
   to create resilient and sustainable solutions.
-Feature Image: "https://cdn.hotosm.org/website/Red+de+Mapeo+Abierto+del+Equipo+Humanitario+de+OpenStreetMap.jpg"
+Feature Image: https://cdn.hotosm.org/website/Red+de+Mapeo+Abierto+del+Equipo+Humanitario+de+OpenStreetMap.jpg
 Person: Juan Arellano Valdivia
 ---
 

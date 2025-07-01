@@ -9,7 +9,7 @@ Summary Text: Em 27 de abril de 2024, a represa hidrelétrica de 14 de julho col
   e negociando o acesso a imagens pós-desastre. Este esforço, em colaboração com o
   Banco Interamericano de Desenvolvimento (BID), focou em criar dados geográficos
   de alta qualidade e desenvolver ferramentas úteis para a recuperação.
-Feature Image: "https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg"
+Feature Image: https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg
 Person:
 - Mariana Marín
 - Céline Jacquin

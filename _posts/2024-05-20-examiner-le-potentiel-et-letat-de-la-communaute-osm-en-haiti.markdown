@@ -7,7 +7,7 @@ Summary Text: Explorez le potentiel et l'état actuel de la communauté OpenStre
   pour la durabilité soulignent la nécessité de partenariats solides et de conférences
   annuelles pour soutenir l'action humanitaire et la réponse aux crises en utilisant
   des données géospatiales ouvertes.
-Feature Image: "https://cdn.hotosm.org/website/HAITI+OSM+(1).jpg"
+Feature Image: https://cdn.hotosm.org/website/HAITI+OSM+(1).jpg
 Person: Louise Mathurin Serieux
 Country:
 - Haiti

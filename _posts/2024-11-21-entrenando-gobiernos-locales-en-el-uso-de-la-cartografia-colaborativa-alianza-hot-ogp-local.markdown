@@ -5,7 +5,7 @@ date: 2024-11-21 03:55:00 Z
 Summary Text: El proyecto "Ciudades Abiertas Resilientes" capacitó a seis gobiernos
   en datos abiertos y herramientas geográficas, promoviendo soluciones resilientes
   y colaborativas frente a desafíos urbanos y climáticos.
-Feature Image: "https://cdn.hotosm.org/website/Entrenando+Gobiernos+Locales+en+el+Uso+de+la+Cartografi%CC%81a+Colaborativa.jpg"
+Feature Image: https://cdn.hotosm.org/website/Entrenando+Gobiernos+Locales+en+el+Uso+de+la+Cartografi%CC%81a+Colaborativa.jpg
 Person:
 - Juan Arellano Valdivia
 - Mariana Marín

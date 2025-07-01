@@ -5,7 +5,7 @@ date: 2025-01-25 17:30:00 Z
 Summary Text: Guatemala, in collaboration with HOT, UNDP and MARN, is working on waste
   and natural resource management by identifying critical sites and training officials
   to improve infrastructure.
-Feature Image: "https://cdn.hotosm.org/website/GUATEMALA+GESTIO%CC%81N+DE+RESIDUOS+KOBO+EQUIPO+HUMANITARIO+DE+OPENSTREETMAP+PNUD+GUATEMALA.jpg"
+Feature Image: https://cdn.hotosm.org/website/GUATEMALA+GESTIO%CC%81N+DE+RESIDUOS+KOBO+EQUIPO+HUMANITARIO+DE+OPENSTREETMAP+PNUD+GUATEMALA.jpg
 Person: Céline Jacquin
 Country:
 - Guatemala

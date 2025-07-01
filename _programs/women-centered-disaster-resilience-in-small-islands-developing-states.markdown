@@ -194,7 +194,7 @@ Project-1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
     for humanitarian and development programs.
-  Image: "https://cdn.hotosm.org/website/LAC_OpenCitiesMX_1.jpeg"
+  Image: https://cdn.hotosm.org/website/LAC_OpenCitiesMX_1.jpeg
   Call to Action: View the tools
   URL: "/projects/dar_ramani_huria_dar_open_map"
 Project-2:
@@ -202,7 +202,7 @@ Project-2:
   Text: Learn about the community and the latest events — especially about the Open
     Summit 2023, a decentralized, year-long program of 13 global, regional, and local
     conferences.
-  Image: "https://cdn.hotosm.org/website/opensummit-banner-2023-2024.png"
+  Image: https://cdn.hotosm.org/website/opensummit-banner-2023-2024.png
   Call to Action: Learn more
   URL: "/projects/dar_ramani_huria_dar_open_map"
 Project-3:

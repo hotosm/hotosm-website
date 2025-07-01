@@ -5,7 +5,7 @@ date: 2024-12-10 02:48:00 Z
 Summary Text: En Medellín, estudiantes de 9˚, 10˚ y 11˚ de la Institución Educativa
   Tricentenario se unieron para identificar y cartografiar los espacios que perciben
   como seguros y acogedores para expresar su identidad libremente.
-Feature Image: "https://cdn.hotosm.org/website/Aqui%CC%81+03.jpg"
+Feature Image: https://cdn.hotosm.org/website/Aqui%CC%81+03.jpg
 Person: Luis Miguel Bande Jaramillo
 Country:
 - Colombia

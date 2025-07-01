@@ -6,7 +6,7 @@ Project Summary Text: Through the Open-Mapping for Social Enterprises (OMSE) Pro
   Asia-Pacific region in using open map data to improve their operations and decision-making
   processes. This project highlights our work with Tarun Bharat Sangh in Rajasthan,
   India.
-Feature Image: "https://cdn.hotosm.org/website/sherni-river-museum-2023-final.png"
+Feature Image: https://cdn.hotosm.org/website/sherni-river-museum-2023-final.png
 Country:
 - India
 Impact Area:

@@ -5,7 +5,7 @@ Summary Text: Discover the inspiring journeys of Emir and Faiz, two tech contrib
   making a real impact with the Humanitarian OpenStreetMap Team (HOT). From Python
   packages to user-centered design, their stories show how open source skills can
   power humanitarian change. Could you be the next to join HOT’s open source movement?
-Feature Image: "https://cdn.hotosm.org/website/Open+Source+Journey+HOT.jpg"
+Feature Image: https://cdn.hotosm.org/website/Open+Source+Journey+HOT.jpg
 Person: Petya Kangalova
 Working Group:
 - TechandInnovation

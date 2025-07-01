@@ -7,7 +7,7 @@ Summary Text: Discover how our collaboration with the University of the West Ind
   University, and the Caribbean Islands Higher Education Resilience Consortium is
   enhancing resilience planning in Coulibistrie, Dominica, through the use of drone
   imagery.
-Feature Image: "https://cdn.hotosm.org/website/Collaborative+Efforts+using+Drone+Imagery+in+Coulibistrie,+Dominica+(2).jpg"
+Feature Image: https://cdn.hotosm.org/website/Collaborative+Efforts+using+Drone+Imagery+in+Coulibistrie,+Dominica+(2).jpg
 Person: Mariana Marín
 Country:
 - Dominica

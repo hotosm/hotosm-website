@@ -8,7 +8,7 @@ Summary Text: 'In the spirit of <a href="https://en.wikipedia.org/wiki/FAIR_data
   improved metadata of its datasets.
 
 '
-Feature Image: "https://cdn.hotosm.org/website/fair-fmtm-monrovia-osm-footprints.jpg.jpg"
+Feature Image: https://cdn.hotosm.org/website/fair-fmtm-monrovia-osm-footprints.jpg.jpg
 Person:
 - Jessica Pechmann
 - Claudio de los Reyes Teran

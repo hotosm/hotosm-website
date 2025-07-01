@@ -8,7 +8,7 @@ Summary Text: HOT, junto al Global Partnership for Sustainable Development Data 
   tecnologías abiertas para la generación de datos geoespaciales. Participaron representantes
   de la sociedad civil, academia e instituciones públicas. Esta experiencia refuerza
   la colaboración caribeña ante desafíos ambientales crecientes.
-Feature Image: "https://cdn.hotosm.org/website/Juancho+-+ONE+13.jpg"
+Feature Image: https://cdn.hotosm.org/website/Juancho+-+ONE+13.jpg
 Person:
 - Juan Melo Luna
 - Céline Jacquin

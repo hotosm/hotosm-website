@@ -6,7 +6,7 @@ Summary Text: 'México avanza en relación con sus propuestas de políticas púb
   para la regulación y modernización del transporte público. Entérate como HOT contribuyó
   al proyecto “Creando Datos Juntos: Mejora de la Gestión del Transporte Urbano en
   México”.'
-Feature Image: "https://cdn.hotosm.org/website/Creando+Datos+Juntos+Mapeo+de+Transporte+Pu%CC%81blico+GIZ+Codeando+Me%CC%81xico+HOT+Trufi.jpeg"
+Feature Image: https://cdn.hotosm.org/website/Creando+Datos+Juntos+Mapeo+de+Transporte+Pu%CC%81blico+GIZ+Codeando+Me%CC%81xico+HOT+Trufi.jpeg
 Person:
 - Céline Jacquin
 - Juan Arellano Valdivia

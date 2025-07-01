@@ -8,7 +8,7 @@ Summary Text: HOT, together with the Global Partnership for Sustainable Developm
   open technologies for generating geospatial data. Participants included representatives
   from civil society, academia, and public institutions. This experience strengthens
   Caribbean collaboration in the face of growing environmental challenges.
-Feature Image: "https://cdn.hotosm.org/website/Sargassum+Monitoring+with+Drones+in+Santo+Domingo-+Open+Technologies+to+Tackle+Environmental+Challenges.jpg"
+Feature Image: https://cdn.hotosm.org/website/Sargassum+Monitoring+with+Drones+in+Santo+Domingo-+Open+Technologies+to+Tackle+Environmental+Challenges.jpg
 Person:
 - Juan Melo Luna
 - Céline Jacquin

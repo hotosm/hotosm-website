@@ -6,7 +6,7 @@ Summary Text: The Open Mapping Hub for Latin America and the Caribbean concluded
   2024 activities with a community gathering where volunteers, representatives of
   partner organizations, and mappers came together to celebrate the end of the year
   and the beginning of 2025, calling for continued community-driven mapping efforts.
-Feature Image: "https://cdn.hotosm.org/website/cierre+comunidades+Fin+de+Ano+2024.jpg"
+Feature Image: https://cdn.hotosm.org/website/cierre+comunidades+Fin+de+Ano+2024.jpg
 Person: " Constanza Petrazzini"
 ---
 

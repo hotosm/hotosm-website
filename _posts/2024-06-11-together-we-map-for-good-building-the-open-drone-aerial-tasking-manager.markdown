@@ -12,7 +12,7 @@ tags:
 Summary Text: Leveraging drones and crowdsourcing, DroneTM equips local pilots and
   disaster-prone communities with tools to create high-resolution aerial maps, enhancing
   disaster response and community resilience.
-Feature Image: "https://cdn.hotosm.org/website/DroneTM+-+Open+Drone+Aerial+Tasking+Manager.jpg"
+Feature Image: https://cdn.hotosm.org/website/DroneTM+-+Open+Drone+Aerial+Tasking+Manager.jpg
 Person:
 - Fabrizio Scrollini
 - Paul Uithol

@@ -5,7 +5,7 @@ Summary Text: Lebanon is grappling with severe destruction and displacement from
   conflict. A data-driven approach using mapping is essential for effective humanitarian
   aid and long-term recovery. By leveraging mapping tools and community involvement,
   reconstruction can better address local needs and ensure a sustainable future.
-Feature Image: "https://cdn.hotosm.org/website/Southern_Lebanon_coastal_plain_b%26w.png"
+Feature Image: https://cdn.hotosm.org/website/Southern_Lebanon_coastal_plain_b%26w.png
 Person: Said Abou Kharroub
 Country:
 - Lebanon

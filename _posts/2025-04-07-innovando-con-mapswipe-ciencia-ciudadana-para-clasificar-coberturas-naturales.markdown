@@ -5,7 +5,7 @@ Summary Text: Un proyecto piloto que involucró a CONABIO y la Iniciativa Climá
   Mexicana junto a HOT explora el uso de MapSwipe para identificar coberturas naturales
   del suelo, mostrando su potencial para la ciencia ciudadana y el monitoreo participativo
   ambiental.
-Feature Image: "https://cdn.hotosm.org/website/A%CC%81rea+de+mapa+generado+a+partir+de+MapSwipe+2.jpg"
+Feature Image: https://cdn.hotosm.org/website/A%CC%81rea+de+mapa+generado+a+partir+de+MapSwipe+2.jpg
 Person:
 - Céline Jacquin
 - Juan Melo Luna

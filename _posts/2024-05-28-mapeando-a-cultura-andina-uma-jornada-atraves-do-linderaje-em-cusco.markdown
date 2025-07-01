@@ -6,7 +6,7 @@ Summary Text: As pessoas docentes da GAL School em Cusco, Peru, utilizam ferrame
   tecnologia com práticas ancestrais. Através do programa Open Mapping for All, docentes
   e estudantes empregam tecnologias de empoderamento e participação, fortalecendo
   assim a educação e a identidade comunitária.
-Feature Image: "https://cdn.hotosm.org/website/Linderaje+Cusco+GAL+School+PT.jpg"
+Feature Image: https://cdn.hotosm.org/website/Linderaje+Cusco+GAL+School+PT.jpg
 Person: Mariana Marín
 Country:
 - Peru

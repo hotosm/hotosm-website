@@ -4,7 +4,7 @@ date: 2025-03-17 23:55:00 Z
 Summary Text: A pilot project involving CONABIO, the Mexican Climate Initiative, and
   HOT explores the use of MapSwipe to identify natural land cover, showcasing its
   potential for citizen science and participatory environmental monitoring.
-Feature Image: "https://cdn.hotosm.org/website/A%CC%81rea+de+mapa+generado+a+partir+de+MapSwipe+.jpg"
+Feature Image: https://cdn.hotosm.org/website/A%CC%81rea+de+mapa+generado+a+partir+de+MapSwipe+.jpg
 Person:
 - Céline Jacquin
 - Juan Melo Luna

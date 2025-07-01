@@ -11,7 +11,7 @@ Project Summary Text: Lagos is home to approximately 21 million people, who grap
   Data is a non-profit initiative that is partnering with HOT’s West and Northern
   Africa Hub to make Lagos’s ferry routes, docks, schedules, and fares available on
   OpenStreetMap, unlocking a cleaner, faster, and more inclusive way to get around.
-Feature Image: "https://cdn.hotosm.org/website/Screenshot+2025-05-14+181319.png"
+Feature Image: https://cdn.hotosm.org/website/Screenshot+2025-05-14+181319.png
 Country:
 - Nigeria
 Impact Area:

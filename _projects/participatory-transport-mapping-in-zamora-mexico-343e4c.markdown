@@ -6,7 +6,7 @@ Project Summary Text: Mid-sized Mexican cities face challenges due to insufficie
   aims to create accurate maps for better urban planning and mobility. By engaging
   local stakeholders in collaborative mapping, we seek to empower communities and
   improve quality of life in Zamora.
-Feature Image: "https://cdn.hotosm.org/website/Mapeo+Colaborativo+de+Transporte+Pu%CC%81blico+-+HOT%2C+CoMapper+y+Codeando+Me%CC%81xico.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapeo+Colaborativo+de+Transporte+Pu%CC%81blico+-+HOT%2C+CoMapper+y+Codeando+Me%CC%81xico.jpg
 Country:
 - Mexico
 Person:

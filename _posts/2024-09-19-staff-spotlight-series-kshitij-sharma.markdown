@@ -11,7 +11,7 @@ Summary Text: Each quarter, we feature one of our all-star staff members in a St
   Spotlight Series. Staff featured in this Series have been peer-nominated for their
   superb performance and values-driven work. This quarter, we spotlight Kshitij Sharma,
   HOT's Product Owner for Map Data Access Services.
-Feature Image: "https://cdn.hotosm.org/website/Kshitij-Blog.jpg"
+Feature Image: https://cdn.hotosm.org/website/Kshitij-Blog.jpg
 Person:
 - Dana Gallaty
 - Kshitij Sharma

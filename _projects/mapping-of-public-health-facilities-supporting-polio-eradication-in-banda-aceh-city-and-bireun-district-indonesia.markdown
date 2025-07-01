@@ -7,7 +7,7 @@ Project Summary Text: "The project in Indonesia has transformed lives by trainin
   Red Cross to analyze polio immunization progress and prioritize health promotion
   efforts. This has empowered communities and improved access to essential services,
   making a tangible difference in people's daily lives. \n\n\n\n\n"
-Feature Image: "https://cdn.hotosm.org/website/IMG_1143.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_1143.jpg
 Is image top aligned: false
 Is Community-Led: true
 Country:

@@ -6,7 +6,7 @@ Summary Text: Meninas da Geo, a women-led mapping group, is enabling Quilombola 
   in the Amazon through open mapping. Learn how participatory mapping is strengthening
   their land rights, promoting sustainable practices, and preserving cultural heritage
   amidst industrial pressures in Moju-PA, Brazil.
-Feature Image: "https://cdn.hotosm.org/website/Meet+the+Women-Led+Mapping+Group+Enabling+Quilombola+Communities+in+the+Amazon+Through+Open+Mapping.jpg"
+Feature Image: https://cdn.hotosm.org/website/Meet+the+Women-Led+Mapping+Group+Enabling+Quilombola+Communities+in+the+Amazon+Through+Open+Mapping.jpg
 Person:
 - Mariana Marín
 - Carla Habif

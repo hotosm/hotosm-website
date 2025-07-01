@@ -4,7 +4,7 @@ date: 2024-03-19 16:26:00 Z
 Summary Text: 'Follow Petya Kangalova, HOT''s Networks and Engagement Lead, as she
   talks about the importance of mentorship in the open-source tech space and how our
   partnership with Outreachy promotes inclusivity. '
-Feature Image: "https://cdn.hotosm.org/website/OutreachyCover.jpeg"
+Feature Image: https://cdn.hotosm.org/website/OutreachyCover.jpeg
 Person: Petya Kangalova
 ---
 

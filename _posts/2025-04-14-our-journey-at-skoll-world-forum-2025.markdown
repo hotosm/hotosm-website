@@ -7,7 +7,7 @@ Summary Text: The Skoll World Forum is over, but the reflections that came from 
   Director, Rebecca Firth, and Fabrizio Scrollini, Regional Director for the Open
   Mapping Hub –Latin America and the Caribbean (LAC), learned during the week of April
   1-4, 2025.
-Feature Image: "https://cdn.hotosm.org/website/RebeccaSkollWorldForum2025.jpg"
+Feature Image: https://cdn.hotosm.org/website/RebeccaSkollWorldForum2025.jpg
 Person:
 - Rebecca Firth
 - Fabrizio Scrollini

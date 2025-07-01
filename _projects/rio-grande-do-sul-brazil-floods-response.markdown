@@ -9,7 +9,7 @@ Project Summary Text: Following the collapse of the July 14th hydroelectric dam 
   infrastructure, and facilitated a crucial partnership with the Inter American Development
   Bank (IDB), an international development finance institution, to support recovery
   and provide valuable tools for the community in Porto Alegre.
-Feature Image: "https://cdn.hotosm.org/website/Rio+Grande+do+Sul+Floods+Response+in+Brazil.jpg"
+Feature Image: https://cdn.hotosm.org/website/Rio+Grande+do+Sul+Floods+Response+in+Brazil.jpg
 Is image top aligned: false
 Is Community-Led: true
 Country:

@@ -5,7 +5,7 @@ Summary Text: When I started at the Humanitarian OpenStreetMap Team (HOT) almost
   years ago, I joined the organization with years of experience using geographic information
   systems (GIS) in the public and humanitarian sectors but little —okay, embarrassingly
   little— experience in OpenStreetMap (OSM).
-Feature Image: "https://cdn.hotosm.org/website/GISOSMLead.png"
+Feature Image: https://cdn.hotosm.org/website/GISOSMLead.png
 Person: Jessica Pechmann
 ---
 

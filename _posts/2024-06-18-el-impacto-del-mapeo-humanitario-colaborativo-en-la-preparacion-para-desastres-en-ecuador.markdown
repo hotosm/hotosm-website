@@ -6,7 +6,7 @@ Summary Text: El mapeo humanitario colaborativo mejora la gestión del riesgo en
   Latina y el Caribe, como demostró la rápida respuesta ante las inundaciones en Esmeraldas,
   Ecuador. La colaboración y los datos abiertos fueron clave para decisiones informadas
   y eficaces.
-Feature Image: "https://cdn.hotosm.org/website/Ecuador+Terremoto+2016+-+Mapeo+Humanitario+LAC+Hub+-+HOTOSM.jpg"
+Feature Image: https://cdn.hotosm.org/website/Ecuador+Terremoto+2016+-+Mapeo+Humanitario+LAC+Hub+-+HOTOSM.jpg
 Person:
 - Céline Jacquin
 - Mariana Marín

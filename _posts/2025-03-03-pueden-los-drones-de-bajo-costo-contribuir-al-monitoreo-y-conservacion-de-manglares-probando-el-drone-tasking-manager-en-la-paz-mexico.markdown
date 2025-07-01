@@ -6,7 +6,7 @@ Summary Text: Drone Tasking Manager (DroneTM) es un bien digital público que pe
   a las comunidades generar imágenes aéreas de alta calidad y resolución utilizando
   drones de bajo costo. Descubre su potencial para el mapeo comunitario y su aplicación
   en la protección de manglares en La Paz, Baja California Sur, México.
-Feature Image: "https://cdn.hotosm.org/website/Vuelos+Drone+TM.png"
+Feature Image: https://cdn.hotosm.org/website/Vuelos+Drone+TM.png
 Person:
 - Céline Jacquin
 - Ivan Buendía Gayton

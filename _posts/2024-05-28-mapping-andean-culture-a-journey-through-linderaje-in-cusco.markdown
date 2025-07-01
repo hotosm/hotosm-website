@@ -5,7 +5,7 @@ Summary Text: Teachers at GAL School in Cusco, Peru use open mapping tools to do
   and preserve traditions such as linderaje, merging technology with ancestral practices.
   Through the Open Mapping for All program, teachers and students employ empowerment
   and participation technologies, thereby strengthening education and community identity.
-Feature Image: "https://cdn.hotosm.org/website/Linderaje+Cusco+GAL+School+Blog+English.jpg"
+Feature Image: https://cdn.hotosm.org/website/Linderaje+Cusco+GAL+School+Blog+English.jpg
 Person: Mariana Marín
 Country:
 - Peru

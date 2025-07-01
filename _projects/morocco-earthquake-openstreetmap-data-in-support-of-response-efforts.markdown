@@ -7,7 +7,7 @@ Project Summary Text: "In the early hours of the Morocco Earthquake, the Humanit
   contributors around the world to crowdsource information in the impacted area. WNAH
   and the local OSM community in Morocco coordinated the mapping efforts, directing
   volunteers to map priority areas alongside other stakeholders. \n"
-Feature Image: "https://cdn.hotosm.org/website/53388094764_a0d3053666_k.jpg"
+Feature Image: https://cdn.hotosm.org/website/53388094764_a0d3053666_k.jpg
 Is image top aligned: false
 Country:
 - Morocco

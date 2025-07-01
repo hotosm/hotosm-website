@@ -13,7 +13,7 @@ Summary Text: 'For over 15 years, the Humanitarian OpenStreetMap Team (HOT) has 
   helping users access OpenStreetMap (OSM) data through the Export Tool, an easy interface
   that allows downloads in popular spatial data formats. This week we introduce two
   new tile formats and the ability to get User Info + Timestamps. '
-Feature Image: "https://cdn.hotosm.org/website/pmtiles-viewer-example.png"
+Feature Image: https://cdn.hotosm.org/website/pmtiles-viewer-example.png
 Person:
 - Kshitij Sharma
 - Claudio de los Reyes Teran

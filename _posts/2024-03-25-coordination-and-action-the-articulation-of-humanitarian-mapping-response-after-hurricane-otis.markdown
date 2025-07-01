@@ -7,7 +7,7 @@ Summary Text: After Hurricane Otis in October 2023, the Hub LAC led a digital hu
   collaboration with the national community and international organizations, highlighting
   the importance of participatory mapping and laying the groundwork for future mitigation
   actions through interinstitutional collaboration in building community resilience.
-Feature Image: "https://cdn.hotosm.org/website/Otis+Respuesta+Mapeo+Humanitario+HOT.jpg"
+Feature Image: https://cdn.hotosm.org/website/Otis+Respuesta+Mapeo+Humanitario+HOT.jpg
 Person:
 - Céline Jacquin
 - Mariana Marín

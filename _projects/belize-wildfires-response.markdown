@@ -6,7 +6,7 @@ Project Summary Text: Belize is grappling with wildfires that have destroyed ove
   eight million dollars in damages, particularly in the Cayo and Toledo Districts.
   In response, the Open Mapping Hub in Latin America and the Caribbean is working
   with CDEMA to support recovery, assess data needs, and enhance future preparedness.
-Feature Image: "https://cdn.hotosm.org/website/Central_American_Wildfires_Continue_(MODIS_2024-05-27).jpg"
+Feature Image: https://cdn.hotosm.org/website/Central_American_Wildfires_Continue_(MODIS_2024-05-27).jpg
 Country:
 - Belize
 Impact Area:

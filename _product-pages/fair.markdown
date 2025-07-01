@@ -71,7 +71,7 @@ Block 3:
     AI models, this due to AI models being either closed source or were built once
     and made available to end users so enhancements would require repeating the process
     from scratch.. <br> <br> '
-  Image: "https://cdn.hotosm.org/website/fair-fmtm-monrovia-digitizing.jpg"
+  Image: https://cdn.hotosm.org/website/fair-fmtm-monrovia-digitizing.jpg
   Tools:
   - Name: Website
     URL: https://fair.hotosm.org/

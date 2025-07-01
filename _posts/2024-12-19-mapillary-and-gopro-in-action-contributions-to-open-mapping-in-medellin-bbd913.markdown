@@ -6,7 +6,7 @@ Summary Text: As part of two mapping projects in the city of Medellín, a GoPro 
   a platform that enables the creation of open Street Views. Yessica de los Ríos,
   the project lead, shares how the use of the GoPro camera contributed to enriching
   the open mapping of two neighborhoods vulnerable to different natural hazards.
-Feature Image: "https://cdn.hotosm.org/website/Mapillary+Dron+San+Antonio+de+Prado+2.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapillary+Dron+San+Antonio+de+Prado+2.jpg
 Person: Yessica de los Ríos
 Country:
 - Colombia

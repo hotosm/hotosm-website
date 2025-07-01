@@ -13,7 +13,7 @@ Summary Text: Junto a OpenStreetMap Perú, HOT llevó a cabo un proyecto para ma
   territorios bajo amenaza con miembros de la Comunidad Nativa Shipibo – Konibo en
   la Amazonía peruana.  Entérese del impacto que se logró en la comunidad y las posibilidades
   de cooperación que han quedado abiertas.
-Feature Image: "https://cdn.hotosm.org/website/yar2.jpg"
+Feature Image: https://cdn.hotosm.org/website/yar2.jpg
 Person: Juan Arellano Valdivia
 ---
 

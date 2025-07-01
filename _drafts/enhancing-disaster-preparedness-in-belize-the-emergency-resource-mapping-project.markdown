@@ -7,7 +7,7 @@ Summary Text: Belize faces major disaster risks like hurricanes and floods. The 
   key areas. Using open-source tools, it provided vital geospatial data and built
   local capacity. The project fostered a culture of open mapping for stronger community
   resilience.
-Feature Image: "https://cdn.hotosm.org/website/Studentbz+BELIZE.jpg"
+Feature Image: https://cdn.hotosm.org/website/Studentbz+BELIZE.jpg
 Person:
 - Ivan Vias
 - Vasni Pech

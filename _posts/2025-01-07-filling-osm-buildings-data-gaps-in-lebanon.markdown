@@ -6,7 +6,7 @@ Summary Text: Recent conflict has impacted the humanitarian situation in Lebanon
   data is needed to plan a humanitarian response. HOT is working with volunteers to
   crowdsource the mapping of pre-conflict building footprints to serve as a baseline
   dataset and improve the accuracy of damage estimates.
-Feature Image: "https://cdn.hotosm.org/website/lebanon_banner.JPG"
+Feature Image: https://cdn.hotosm.org/website/lebanon_banner.JPG
 Person: Jessica Pechmann
 Country:
 - Lebanon

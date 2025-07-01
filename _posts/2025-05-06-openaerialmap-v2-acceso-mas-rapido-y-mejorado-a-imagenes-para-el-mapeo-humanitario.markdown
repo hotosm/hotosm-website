@@ -7,7 +7,7 @@ Summary Text: OpenAerialMap está evolucionando para ofrecer un acceso más ráp
   Seed están reconstruyendo OAM para responder a las necesidades urgentes de mapeo
   actuales. Descubre cómo esta actualización mejorará la interoperabilidad, velocidad
   y usabilidad en los esfuerzos de respuesta y recuperación ante desastres.
-Feature Image: "https://cdn.hotosm.org/website/OAMv2Banner.jpg"
+Feature Image: https://cdn.hotosm.org/website/OAMv2Banner.jpg
 Person: Cristiano Giovando
 ---
 

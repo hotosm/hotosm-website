@@ -6,7 +6,7 @@ Summary Text: O mapeamento humanitário colaborativo aprimora a gestão de risco
   América Latina e no Caribe, como demonstrado pela rápida resposta às enchentes em
   Esmeraldas, Equador. A colaboração e os dados abertos foram fundamentais para tomar
   decisões informadas e eficazes.
-Feature Image: "https://cdn.hotosm.org/website/O+Impacto+do+Mapeamento+Humanita%CC%81rio+Colaborativo+na+Preparac%CC%A7a%CC%83o+para+Desastres+no+Equador.jpg"
+Feature Image: https://cdn.hotosm.org/website/O+Impacto+do+Mapeamento+Humanita%CC%81rio+Colaborativo+na+Preparac%CC%A7a%CC%83o+para+Desastres+no+Equador.jpg
 Person:
 - Céline Jacquin
 - Mariana Marín

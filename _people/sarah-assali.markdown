@@ -1,7 +1,7 @@
 ---
 title: Sarah Assali
 date: 2025-02-28 19:52:00 Z
-Photo: "https://cdn.hotosm.org/website/Sarah+Assali.jpg"
+Photo: https://cdn.hotosm.org/website/Sarah+Assali.jpg
 Member Type:
   Is Staff: true
 Job Title: Senior Manager, Business Development

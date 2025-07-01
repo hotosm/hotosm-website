@@ -1,7 +1,7 @@
 ---
 title: Maria Andrea
 date: 2024-05-27 09:08:00 Z
-Photo: "https://cdn.hotosm.org/website/Rino,+Maria+Andrea+Joshua+(2).jpg"
+Photo: https://cdn.hotosm.org/website/Rino,+Maria+Andrea+Joshua+(2).jpg
 Member Type:
   Is Staff: true
 Job Title: People Operations Associate -  Asia-Pacific Hub

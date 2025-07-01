@@ -7,7 +7,7 @@ Summary Text: Explora cómo la cartografía abierta está descubriendo la relaci
   LATAM abordan desafíos como la preservación cultural y la defensa de derechos. Reflexiones
   de expertos y experiencias concretas destacan la importancia de reconocer la diversidad
   y autonomía de estas comunidades.
-Feature Image: "https://cdn.hotosm.org/website/Soberani%CC%81a+de+datos%2C+mapeo+abierto+y+territorios+indi%CC%81genas.jpg"
+Feature Image: https://cdn.hotosm.org/website/Soberani%CC%81a+de+datos%2C+mapeo+abierto+y+territorios+indi%CC%81genas.jpg
 Person: Juan Arellano Valdivia
 ---
 

@@ -5,7 +5,7 @@ Summary Text: Guest blogger Niraj Adhikari, from our partner NAXA, takes us thro
   the motivations that led him to become a geospatial software developer, as well
   as the highs and lows of developing a groundbreaking product such as DroneTM, making
   the vision of accessible and community-driven drone-based mapping a reality.
-Feature Image: "https://cdn.hotosm.org/website/DroneTMGuestBanner.jpeg"
+Feature Image: https://cdn.hotosm.org/website/DroneTMGuestBanner.jpeg
 Person: Niraj Adhikari
 ---
 

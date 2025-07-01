@@ -5,7 +5,7 @@ Summary Text: In this blog, Ramya Ragupathy, the Tasking Manager's Product Manag
   celebrates the amazing achievements that came through this year for HOT's flagship
   tool, with the launch of its fifth version after 15-years of existence and its recognition
   as a Digital Public Good.
-Feature Image: "https://cdn.hotosm.org/website/HOT+Tech+Contributors+Blog-1.jpg"
+Feature Image: https://cdn.hotosm.org/website/HOT+Tech+Contributors+Blog-1.jpg
 Person: Ramya Ragupathy
 ---
 

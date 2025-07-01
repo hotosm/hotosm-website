@@ -11,7 +11,7 @@ Summary Text: The Humanitarian OpenStreetMap Team (HOT) released an impact repor
   response in West and Northern Africa. Key successes include vital infrastructure
   mapping in Morocco, Senegal, Liberia, and Nigeria, showcasing the importance of
   accurate data and community collaboration.
-Feature Image: "https://cdn.hotosm.org/website/54052636132_bdc259c3c8_o.jpg"
+Feature Image: https://cdn.hotosm.org/website/54052636132_bdc259c3c8_o.jpg
 Person: El hadji Ndiaye
 Country:
 - Morocco

@@ -6,8 +6,8 @@ Project Summary Text: In March 2025, a destructive earthquake hit central Myanma
   a mapping initiative to fill data gaps in OpenStreetMap. Now, through funding from
   the H2H Network, myOSM will be able to scale their mapping and HOT will support
   improved data use of humanitarian partners in the region.
-Feature Image: "https://cdn.hotosm.org/website/copernicus-mandalay-crop.jpg"
-Project Logo Image: "https://cdn.hotosm.org/website/h2h-logo-new-400x400.png"
+Feature Image: https://cdn.hotosm.org/website/copernicus-mandalay-crop.jpg
+Project Logo Image: https://cdn.hotosm.org/website/h2h-logo-new-400x400.png
 Country:
 - Myanmar
 Impact Area:

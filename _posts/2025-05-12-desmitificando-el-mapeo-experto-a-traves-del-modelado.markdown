@@ -5,7 +5,7 @@ Summary Text: Tim DeWinter, nuestro Coordinador de la iniciativa Mapeo Abierto p
   Todas las Personas, te invita a explorar cómo el modelado puede hacer que las habilidades
   expertas en OpenStreetMap sean más accesibles para quienes están comenzando y fortalecer
   así una comunidad de mapeo más sólida.
-Feature Image: "https://cdn.hotosm.org/website/OM4A.jpg"
+Feature Image: https://cdn.hotosm.org/website/OM4A.jpg
 Person: Tim DeWinter
 Project:
 - Open Mapping for All

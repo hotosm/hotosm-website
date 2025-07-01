@@ -7,7 +7,7 @@ Summary Text: Descubra a incrível jornada de Paula dos Santos Silva na Amazôni
   sobre as "terras caídas", Paula compartilha sua experiência e destaca a importância
   do mapeamento para revelar as raízes e tradições dessas comunidades, garantindo
   sua visibilidade e reconhecimento.
-Feature Image: "https://cdn.hotosm.org/website/Paula+dos+Santos+Silva+na+Amazo%CC%82nia.jpg"
+Feature Image: https://cdn.hotosm.org/website/Paula+dos+Santos+Silva+na+Amazo%CC%82nia.jpg
 Person: Marina Aragão Santos
 Country:
 - Brazil

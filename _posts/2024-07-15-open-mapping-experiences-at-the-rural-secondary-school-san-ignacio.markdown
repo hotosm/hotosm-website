@@ -5,7 +5,7 @@ Summary Text: Through the Open Mapping for All program, teachers and students at
   educational institution in Argentine Patagonia use Open Mapping tools to document,
   recognize, and improve school physical infrastructure while connecting with their
   environment and cultural values.
-Feature Image: "https://cdn.hotosm.org/website/Experiencias+de+Mapeo+Abierto+en+el+Centro+de+Educacio%CC%81n+Integral+%E2%80%9CSan+Ignacio%E2%80%9D.jpg"
+Feature Image: https://cdn.hotosm.org/website/Experiencias+de+Mapeo+Abierto+en+el+Centro+de+Educacio%CC%81n+Integral+%E2%80%9CSan+Ignacio%E2%80%9D.jpg
 Person: Luis Miguel Bande Jaramillo
 Country:
 - Argentina

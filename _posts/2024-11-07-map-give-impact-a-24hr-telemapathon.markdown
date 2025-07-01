@@ -5,7 +5,7 @@ Summary Text: Open map data has a powerful impact on communities in vulnerable r
   but this wouldn’t be possible without the dedication of people around the world.
   Whether it’s a few hours each week, a portion of their income, or teaching others
   how to map, their contributions make a difference.
-Feature Image: "https://cdn.hotosm.org/website/1.png"
+Feature Image: https://cdn.hotosm.org/website/1.png
 Person:
 - Raelene Dugger
 - Raiza Pilatowsky Gruner

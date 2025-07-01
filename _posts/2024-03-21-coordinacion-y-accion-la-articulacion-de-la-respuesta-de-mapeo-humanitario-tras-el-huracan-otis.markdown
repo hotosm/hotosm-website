@@ -8,7 +8,7 @@ Summary Text: Tras el huracán Otis en octubre de 2023, el Hub LAC lideró un ma
   resaltando la importancia de la cartografía participativa y sentando bases para
   futuras acciones de mitigación mediante la colaboración interinstitucional en la
   construcción de resiliencia comunitaria.
-Feature Image: "https://cdn.hotosm.org/website/Otis+Respuesta+Mapeo+Humanitario+HOT.jpg"
+Feature Image: https://cdn.hotosm.org/website/Otis+Respuesta+Mapeo+Humanitario+HOT.jpg
 Person:
 - Céline Jacquin
 - Mariana Marín

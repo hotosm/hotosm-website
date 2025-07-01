@@ -6,7 +6,7 @@ Summary Text: Después de las inundaciones de 2024 en Porto Alegre, Brasil, el B
   georreferenciados y la participación comunitaria, esta colaboración impulsa una
   recuperación sostenible y resiliente para las poblaciones más vulnerables de la
   ciudad.
-Feature Image: "https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg"
+Feature Image: https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg
 Person:
 - Mariana Marín
 - Céline Jacquin

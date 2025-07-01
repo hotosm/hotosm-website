@@ -9,8 +9,8 @@ Project Summary Text: El Curso de Mapeo Humanitario capacitó a 42 participantes
   Sin Fronteras (MSF), la Oficina de las Naciones Unidas para la Reducción del Riesgo
   de Desastres (UNDRR) y la participación en el Mapatón Nacional de Colombia 2024
   junto con la UNGRD.
-Feature Image: "https://cdn.hotosm.org/website/Laboratorio+de+Mapeo+Humanitario.jpg"
-Project Logo Image: "https://cdn.hotosm.org/website/Laboratorio+de+Mapeo+Humanitario+HOT+Logo.jpg"
+Feature Image: https://cdn.hotosm.org/website/Laboratorio+de+Mapeo+Humanitario.jpg
+Project Logo Image: https://cdn.hotosm.org/website/Laboratorio+de+Mapeo+Humanitario+HOT+Logo.jpg
 Country:
 - Argentina
 - Bolivia

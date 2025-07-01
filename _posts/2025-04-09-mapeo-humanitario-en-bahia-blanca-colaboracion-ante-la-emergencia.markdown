@@ -4,7 +4,7 @@ date: 2025-04-09 14:17:00 Z
 Summary Text: Respuesta rápida y efectiva tras las inundaciones en Bahía Blanca, Argentina.
   el LAC Hub activó a la comunidad de mapeo humanitario para generar datos clave para
   la atención y recuperación.
-Feature Image: "https://cdn.hotosm.org/website/Bahi%CC%81a+Blanca+Inundanciones+Activacio%CC%81n+Humanitaria.jpg"
+Feature Image: https://cdn.hotosm.org/website/Bahi%CC%81a+Blanca+Inundanciones+Activacio%CC%81n+Humanitaria.jpg
 Person: Mariana Marín
 Country:
 - Argentina

@@ -6,7 +6,7 @@ Summary Text: Drone Tasking Manager (DroneTM) is a digital public good that enab
   communities to generate high-quality, high resolution aerial imagery using low-cost
   drones. Discover its potential for community-driven mapping and its use in protecting
   mangroves in La Paz, Baja California Sur, Mexico.
-Feature Image: "https://cdn.hotosm.org/website/Vuelos+Drone+TM.png"
+Feature Image: https://cdn.hotosm.org/website/Vuelos+Drone+TM.png
 Person:
 - Céline Jacquin
 - Ivan Buendía Gayton

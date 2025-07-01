@@ -13,7 +13,7 @@ Summary Text: 'The devastating impacts of climate change, from intense cyclones 
   open mapping solutions for community development and social impact.
 
 '
-Feature Image: "https://cdn.hotosm.org/website/MAL_8295+(1).jpg"
+Feature Image: https://cdn.hotosm.org/website/MAL_8295+(1).jpg
 Person:
 - Wilson Munyaradzi
 - Pauline Omagwa

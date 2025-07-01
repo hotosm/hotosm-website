@@ -12,7 +12,7 @@ tags:
 Summary Text: Junto a la Fundación Internet Bolivia, HOT llevo a cabo un proyecto
   para mapear la comunidad Tacana de Tumupasa en la región amazónica de Bolivia. Explora
   el impacto que se logró en la comunidad y las posibilidades de cooperación.
-Feature Image: "https://cdn.hotosm.org/website/Bol1.jpg"
+Feature Image: https://cdn.hotosm.org/website/Bol1.jpg
 Person: Juan Arellano Valdivia
 Country:
 - Bolivia

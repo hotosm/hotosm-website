@@ -4,7 +4,7 @@ date: 2024-12-06 19:57:00 Z
 Summary Text: ChatMap convierte los chats de WhatsApp en mapas instantáneos, extrayendo
   datos de ubicación y mensajes. Ideal para áreas propensas a desastres, fortalece
   a comunidades con habilidades tecnológicas limitadas, incluso sin conexión.
-Feature Image: "https://cdn.hotosm.org/website/chatmap+whatsapp+humanitarian+openstreetmap.jpg"
+Feature Image: https://cdn.hotosm.org/website/chatmap+whatsapp+humanitarian+openstreetmap.jpg
 Person: Emilio Mariscal
 ---
 

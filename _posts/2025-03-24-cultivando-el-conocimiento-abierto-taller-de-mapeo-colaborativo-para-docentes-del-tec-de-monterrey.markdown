@@ -8,7 +8,7 @@ Summary Text: Docentes del Tec de Monterrey se capacitaron en herramientas de ma
   usando plataformas como OpenStreetMap, Mapillary y uMap. El taller fortaleció su
   rol como agentes de cambio, promoviendo el mapeo colaborativo como herramienta para
   la acción territorial y la justicia social.
-Feature Image: "https://cdn.hotosm.org/website/Taller+Docentes+Mapeo+Abierto+Tec+de+Monterrey+Quere%CC%81taro+3.jpg"
+Feature Image: https://cdn.hotosm.org/website/Taller+Docentes+Mapeo+Abierto+Tec+de+Monterrey+Quere%CC%81taro+3.jpg
 Person: Mariana Marín
 Country:
 - Mexico

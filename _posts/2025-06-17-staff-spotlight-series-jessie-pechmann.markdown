@@ -5,7 +5,7 @@ Summary Text: Each quarter, we feature one of our all-star staff members in a Sp
   Series. Staff featured in this Series have been peer-nominated for their superb
   performance and values-driven work. This quarter, we spotlight Jessie Pechmann,
   HOT’s Conflict & Displacement Program lead.
-Feature Image: "https://cdn.hotosm.org/website/1-6bcf1f.jpg"
+Feature Image: https://cdn.hotosm.org/website/1-6bcf1f.jpg
 Person: Dana Gallaty
 ---
 

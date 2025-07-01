@@ -7,7 +7,7 @@ Summary Text: "¡Una semana extraordinaria, tres eventos transformadores! Améri
   llevándose a cabo del 2 al 6 de diciembre y del 6 al 8 de diciembre. Estos eventos
   reunirán a las mentes más brillantes en datos abiertos e innovación geoespacial,
   y estamos emocionadas de anunciar que HOT estará en el corazón de la acción."
-Feature Image: "https://cdn.hotosm.org/website/HOTOSM+FOSSFG%2C+State+of+the+Map+Be%CC%81lem%2C+Ame%CC%81rica+Abierta+Brasilia.jpg"
+Feature Image: https://cdn.hotosm.org/website/HOTOSM+FOSSFG%2C+State+of+the+Map+Be%CC%81lem%2C+Ame%CC%81rica+Abierta+Brasilia.jpg
 Person:
 - Petya Kangalova
 - Mariana Marín

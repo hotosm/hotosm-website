@@ -5,7 +5,7 @@ Summary Text: After the 2024 floods in Porto Alegre, Brazil, the IDB and HOT par
   to map and assess damaged infrastructure. Using georeferenced data and community
   involvement, the collaboration supports sustainable recovery and resilience for
   the city’s most vulnerable.
-Feature Image: "https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg"
+Feature Image: https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg
 Person:
 - Mariana Marín
 - Céline Jacquin

@@ -14,7 +14,7 @@ Project Summary Text: HOT is currently employing fAIr technology to digitize a s
   we are promptly acquiring in preparation for a household enumeration project. This
   project is facilitated through the HOT Field Mapping Tasking Manager, administered
   by our partner, Slum Dwellers International.
-Feature Image: "https://cdn.hotosm.org/website/fair-fmtm-monrovia-osm-footprints.jpg.jpg"
+Feature Image: https://cdn.hotosm.org/website/fair-fmtm-monrovia-osm-footprints.jpg.jpg
 Country:
 - Liberia
 Impact Area:

@@ -12,7 +12,7 @@ Project Summary Text: 'Humanitarian OpenStreetMap Team’s Eastern and Southern 
   of innovative technology in addressing community challenges.
 
 '
-Feature Image: "https://cdn.hotosm.org/website/Picture+1-18e93d.png"
+Feature Image: https://cdn.hotosm.org/website/Picture+1-18e93d.png
 Country:
 - 'Kenya '
 Impact Area:

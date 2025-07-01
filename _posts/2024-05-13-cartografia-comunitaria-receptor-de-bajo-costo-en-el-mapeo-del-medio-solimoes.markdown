@@ -6,7 +6,7 @@ Summary Text: Explora cómo la tecnología GNSS de bajo costo está revolucionan
   llevado a cabo por la Universidad Federal de São João del-Rei, promueve una cartografía
   participativa, mejorando la gestión de recursos y la resiliencia de las comunidades
   ribereñas en la Amazonía Brasileña.
-Feature Image: "https://cdn.hotosm.org/website/Mapeamento+do+Me%CC%81dio+Solimo%CC%83es.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapeamento+do+Me%CC%81dio+Solimo%CC%83es.jpg
 Person:
 - Silvia Elena Ventorini
 - " Ana Luísa Teixeira"

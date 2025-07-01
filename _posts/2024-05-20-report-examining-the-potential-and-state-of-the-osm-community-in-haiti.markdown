@@ -6,7 +6,7 @@ Summary Text: Explore the potential and current state of the OpenStreetMap (OSM)
   in Haiti and the significant challenges they face. Recommendations for sustainability
   emphasize the need for strong partnerships and annual conferences to support humanitarian
   action and crisis response using open geospatial data.
-Feature Image: "https://cdn.hotosm.org/website/HAITI+OSM+(1).jpg"
+Feature Image: https://cdn.hotosm.org/website/HAITI+OSM+(1).jpg
 Person: Louise Mathurin Serieux
 Country:
 - Haiti

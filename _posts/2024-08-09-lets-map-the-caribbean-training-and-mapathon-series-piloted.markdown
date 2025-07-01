@@ -7,7 +7,7 @@ Summary Text: The HOT Caribbean Programme team led a series of mapathons with tr
   while also promoting mapping for anticipatory action. This is expected to positively
   impact the Caribbean’s capacity to use digital maps for disaster preparedness and
   response.
-Feature Image: "https://cdn.hotosm.org/website/Let's+map+the+Caribbean+Banner.jpg"
+Feature Image: https://cdn.hotosm.org/website/Let's+map+the+Caribbean+Banner.jpg
 Person:
 - Arnelle Isaac
 - Louise Mathurin Serieux

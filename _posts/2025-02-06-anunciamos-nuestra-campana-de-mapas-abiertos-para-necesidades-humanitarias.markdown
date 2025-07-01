@@ -5,7 +5,7 @@ Summary Text: Ante la posible disminución de información sobre contextos human
   en los próximos meses, y mientras la comunidad humanitaria encuentra el camino a
   seguir, estamos lanzando una campaña de 90 días de Mapas Abiertos para Necesidades
   Humanitarias.
-Feature Image: "https://cdn.hotosm.org/website/HNO_Global_Map_featured.png"
+Feature Image: https://cdn.hotosm.org/website/HNO_Global_Map_featured.png
 Person:
 - Jessica Pechmann
 - Raiza Pilatowsky Gruner

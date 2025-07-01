@@ -7,7 +7,7 @@ Summary Text: En el marco de dos proyectos de mapeo en la ciudad de Medellín, s
   Yessica de los Ríos, líder del proyecto, nos cuenta cómo el uso de la cámara GoPro
   contribuyó a alimentar la cartografía abierta de dos barrios vulnerables a distintas
   amenazas naturales.
-Feature Image: "https://cdn.hotosm.org/website/Mapillary+Dron+San+Antonio+de+Prado+2.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapillary+Dron+San+Antonio+de+Prado+2.jpg
 Person: Yessica de los Ríos
 Country:
 - Colombia

@@ -8,7 +8,7 @@ Summary Text: Educators and librarians from Tec de Monterrey were trained in ope
   platforms such as OpenStreetMap, Mapillary, and uMap. The workshop strengthened
   their role as agents of change, promoting collaborative mapping as a tool for territorial
   action and social justice.
-Feature Image: "https://cdn.hotosm.org/website/Cultivating+Open+Knowledge-+Collaborative+Mapping+Workshop+for+Tec+de+Monterrey+Teachers+and+Librarians.jpg"
+Feature Image: https://cdn.hotosm.org/website/Cultivating+Open+Knowledge-+Collaborative+Mapping+Workshop+for+Tec+de+Monterrey+Teachers+and+Librarians.jpg
 Person: Mariana Marín
 Country:
 - Mexico

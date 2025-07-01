@@ -8,7 +8,7 @@ Project Summary Text: In partnership with Marie Stopes Senegal, the project work
   its partners, the Sunnu Wer Gi Yaram project provided the necessary data to support
   Marie Stopes and the Ministry of Health in enhancing their programs and community
   health services in the Matam region of Senegal.
-Feature Image: "https://cdn.hotosm.org/website/Senegal2022LeadB.png"
+Feature Image: https://cdn.hotosm.org/website/Senegal2022LeadB.png
 Country:
 - Senegal
 Impact Area:

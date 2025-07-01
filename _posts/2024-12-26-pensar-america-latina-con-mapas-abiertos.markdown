@@ -9,7 +9,7 @@ Summary Text: En Belém, activistas de la geotecnología intercambiaron experien
   para abordar cuestiones como la crisis climática. Ya que los datos abiertos y la
   cartografía son esenciales en la búsqueda de la soberanía popular en los territorios
   ¿Cómo pueden servir a los pueblos amazónicos?
-Feature Image: "https://cdn.hotosm.org/website/postop2.jpg"
+Feature Image: https://cdn.hotosm.org/website/postop2.jpg
 Person: Antonio Laranjeira
 ---
 

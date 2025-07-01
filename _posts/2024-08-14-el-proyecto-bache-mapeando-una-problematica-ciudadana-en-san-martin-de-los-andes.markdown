@@ -6,7 +6,7 @@ Summary Text: Estudiantes y docentes de la secundaria del CPEM-13 en San Martín
   los Andes, Argentina, emplean herramientas de mapeo abierto para abordar problemas
   viales mediante el programa Open Mapping for All, facilitando la identificación
   de problemas y la búsqueda de soluciones.
-Feature Image: "https://cdn.hotosm.org/website/Imagen+01+Bache.jpg"
+Feature Image: https://cdn.hotosm.org/website/Imagen+01+Bache.jpg
 Person: Luis Miguel Bande Jaramillo
 Country:
 - Argentina

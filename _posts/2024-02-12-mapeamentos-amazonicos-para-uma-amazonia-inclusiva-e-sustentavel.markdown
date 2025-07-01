@@ -6,7 +6,7 @@ Summary Text: Explore a iniciativa Mapeamentos Amazônicos, um projeto do Hub de
   social na região amazônica. Descubra projetos-chave na Colômbia, Equador, Brasil
   e Peru para fortalecer a prevenção, gestão de emergências, manejo florestal sustentável
   e resiliência comunitária.
-Feature Image: "https://cdn.hotosm.org/website/Mapeamentos++Amazo%CC%82nicos+Webinar+Po%CC%81ster.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapeamentos++Amazo%CC%82nicos+Webinar+Po%CC%81ster.jpg
 Person: LAC Hub Team
 Country:
 - Brazil

@@ -7,8 +7,8 @@ Project Summary Text: The Humanitarian Mapping Brigade, led by HOT and the LAC H
   specialized, timely mapping efforts. Its goal is to provide reliable data for better
   disaster preparedness and to promote a robust culture of humanitarian mapping in
   the region.
-Feature Image: "https://cdn.hotosm.org/website/Humanitarian+Mapping+Brigade+-+HOT+-+LAC+Hub.jpg"
-Project Logo Image: "https://cdn.hotosm.org/website/Humanitarian+Mapping+Brigade.jpg"
+Feature Image: https://cdn.hotosm.org/website/Humanitarian+Mapping+Brigade+-+HOT+-+LAC+Hub.jpg
+Project Logo Image: https://cdn.hotosm.org/website/Humanitarian+Mapping+Brigade.jpg
 Country:
 - Argentina
 - Brazil

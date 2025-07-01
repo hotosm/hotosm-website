@@ -7,7 +7,7 @@ Summary Text: In the context of a big, international event such as this year’s
   and Engagement Lead, and Omran Najjar, Senior Technical Product Owner- AI, reflect
   on their attendance and the importance of keeping AI developments close to the humans
   they intend to serve.
-Feature Image: "https://cdn.hotosm.org/website/Petya_AIActionSummit_2025.jpg"
+Feature Image: https://cdn.hotosm.org/website/Petya_AIActionSummit_2025.jpg
 Person:
 - Petya Kangalova
 - Omran Najjar

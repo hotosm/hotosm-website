@@ -6,7 +6,7 @@ Summary Text: Collaborative humanitarian mapping enhances risk management in Lat
   America and the Caribbean, as demonstrated by the rapid response to the floods in
   Esmeraldas, Ecuador. Collaboration and open data were key to making informed and
   effective decisions.
-Feature Image: "https://cdn.hotosm.org/website/The+Impact+of+Collaborative+Humanitarian+Mapping+on+Disaster+Preparedness+in+Ecuador.jpg"
+Feature Image: https://cdn.hotosm.org/website/The+Impact+of+Collaborative+Humanitarian+Mapping+on+Disaster+Preparedness+in+Ecuador.jpg
 Person:
 - Céline Jacquin
 - Mariana Marín

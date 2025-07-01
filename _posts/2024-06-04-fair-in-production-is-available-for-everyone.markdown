@@ -6,7 +6,7 @@ tags:
 Summary Text: We are nearly halfway through 2024 and are excited to share some updates
   on HOT's AI-assisted mapping service (fAIr) - specifically the successful fAIr production
   release on 31 May 2024!
-Feature Image: "https://cdn.hotosm.org/website/fAIrJune2024A.png"
+Feature Image: https://cdn.hotosm.org/website/fAIrJune2024A.png
 Is image top aligned: true
 Person: Omran Najjar
 ---

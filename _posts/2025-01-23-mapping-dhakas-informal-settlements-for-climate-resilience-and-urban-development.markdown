@@ -4,7 +4,7 @@ date: 2025-01-23 20:14:00 Z
 Summary Text: Discover how the Dhaka Thrive Project is working with local stakeholders
   to collect open geospatial data to address rapid urbanization, climate change, and
   public health challenges in Dhaka's informal settlements.
-Feature Image: "https://cdn.hotosm.org/website/Dhaka+Thrives+Mapping+OSM.jpg"
+Feature Image: https://cdn.hotosm.org/website/Dhaka+Thrives+Mapping+OSM.jpg
 Person:
 - Bernard Heng
 - Harry Mahardhika Machmud
