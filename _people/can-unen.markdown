@@ -1,7 +1,7 @@
 ---
 title: Can Unen
 date: 2024-08-19 17:11:00 Z
-Photo: "/uploads/CanUnen%20photo.jpeg"
+Photo: "https://cdn.hotosm.org/website/CanUnen+photo.jpeg"
 Member Type:
   Is Voting Member: true
 Country: Turkey

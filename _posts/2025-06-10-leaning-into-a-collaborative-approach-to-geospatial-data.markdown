@@ -7,7 +7,7 @@ Summary Text: Amid severe funding cuts in 2025, humanitarian GIS practitioners a
   OSM. Spatial data—particularly OSM’s open, community-driven model—offers a resilient
   framework for coordinated crisis response, combining local knowledge with global
   standards.
-Feature Image: "/uploads/hnpw_2025.jpg"
+Feature Image: "https://cdn.hotosm.org/website/hnpw_2025.jpg"
 Person: Jessica Pechmann
 ---
 
@@ -29,7 +29,7 @@ OpenStreetMap (OSM), HOT’s core system of use, is one of the best examples of 
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/osm_changesets.jpg" alt="OSM Global Activity Patterns" style="width: 85%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/osm_changesets.jpg" alt="OSM Global Activity Patterns" style="width: 85%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         Highest OSM activity per time frame and cell. From Schröder-Bergen, Glasze, and Michel, et al. (2022).
     </div>

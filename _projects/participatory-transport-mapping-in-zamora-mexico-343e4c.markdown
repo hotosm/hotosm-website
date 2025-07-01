@@ -6,7 +6,7 @@ Project Summary Text: Mid-sized Mexican cities face challenges due to insufficie
   aims to create accurate maps for better urban planning and mobility. By engaging
   local stakeholders in collaborative mapping, we seek to empower communities and
   improve quality of life in Zamora.
-Feature Image: "/uploads/Mapeo%20Colaborativo%20de%20Transporte%20Pu%CC%81blico%20-%20HOT,%20CoMapper%20y%20Codeando%20Me%CC%81xico.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Mapeo+Colaborativo+de+Transporte+Pu%CC%81blico+-+HOT%2C+CoMapper+y+Codeando+Me%CC%81xico.jpg"
 Country:
 - Mexico
 Person:
@@ -27,7 +27,7 @@ Tools:
 
 Zamora, a municipality in western Michoacán with 150,000 residents, faces significant challenges due to the absence of precise transport data. Despite 80,000 people relying on public transport daily, there is no reliable information about the system. This gap hampers effective planning and decision-making, leading to inefficient routes, traffic congestion, and limited transport options. For residents, this lack of information complicates accessing reliable mobility options, making daily commutes difficult, costly, and unsafe. Addressing this issue is critical for updating transport policies and ensuring equitable access to mobility solutions.
 
-![Progreso del Mapeo Codeando México.jpg](/uploads/Progreso%20del%20Mapeo%20Codeando%20Me%CC%81xico.jpg)
+![Progreso del Mapeo Codeando México.jpg](https://cdn.hotosm.org/website/Progreso+del+Mapeo+Codeando+Me%CC%81xico.jpg)
 *Image: 43 routes mapped so far in Zamora.*
 
 # APPROACH

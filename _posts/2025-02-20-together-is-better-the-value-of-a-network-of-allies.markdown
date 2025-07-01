@@ -4,7 +4,7 @@ date: 2025-02-20 13:30:00 Z
 Summary Text: In times of crisis, collaboration is key. The Latin America and Caribbean
   Hub strengthens humanitarian efforts through a network of allies, driving open mapping
   to create resilient and sustainable solutions.
-Feature Image: "/uploads/Red%20de%20Mapeo%20Abierto%20del%20Equipo%20Humanitario%20de%20OpenStreetMap.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Red+de+Mapeo+Abierto+del+Equipo+Humanitario+de+OpenStreetMap.jpg"
 Person: Juan Arellano Valdivia
 ---
 
@@ -16,7 +16,7 @@ Being allies means much more than collaborating on a project. It involves buildi
 
 Below, we present some of the organizations and individuals who have become our closest collaborators and strategic allies in the region.
 
-![Red de Mapeo Abierto del Equipo Humanitario de OpenStreetMap.jpg](/uploads/Red%20de%20Mapeo%20Abierto%20del%20Equipo%20Humanitario%20de%20OpenStreetMap.jpg)
+![Red de Mapeo Abierto del Equipo Humanitario de OpenStreetMap.jpg](https://cdn.hotosm.org/website/Red+de+Mapeo+Abierto+del+Equipo+Humanitario+de+OpenStreetMap.jpg)
 
 ### **[Co.Mapper](https://site.comapper.org/)**
 
@@ -82,7 +82,7 @@ Virgilio highlights: *"In collaboration with HOT and the National Secretariat fo
 
 ## **Where Are We Headed?**
 
-![Red de Mapeo Abierto del Equipo Humanitario de OpenStreetMap 2.jpg](/uploads/Red%20de%20Mapeo%20Abierto%20del%20Equipo%20Humanitario%20de%20OpenStreetMap%202.jpg)
+![Red de Mapeo Abierto del Equipo Humanitario de OpenStreetMap 2.jpg](https://cdn.hotosm.org/website/Red+de+Mapeo+Abierto+del+Equipo+Humanitario+de+OpenStreetMap+2.jpg)
 
 Building a network of allies strengthens our capacities and amplifies the impact of our initiatives, but above all, it allows us to activate collective intelligence. In a global context of increasingly complex challenges, humanitarian work requires collaboration and solidarity more than ever. Through knowledge exchange, methodologies, and experiences, co-creating ideas, and adapting to different contexts, this network helps us innovate and respond more effectively to the needs of our communities. More than just sharing tools, we build new approaches, common narratives, strengthen local autonomy, and promote citizen participation to drive sustainable and democratic change.
 

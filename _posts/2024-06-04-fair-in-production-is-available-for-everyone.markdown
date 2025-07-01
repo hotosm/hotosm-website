@@ -6,7 +6,7 @@ tags:
 Summary Text: We are nearly halfway through 2024 and are excited to share some updates
   on HOT's AI-assisted mapping service (fAIr) - specifically the successful fAIr production
   release on 31 May 2024!
-Feature Image: "/uploads/fAIrJune2024A.png"
+Feature Image: "https://cdn.hotosm.org/website/fAIrJune2024A.png"
 Is image top aligned: true
 Person: Omran Najjar
 ---
@@ -15,7 +15,7 @@ The fAIr production release is a crucial milestone in fAIr’s roadmap in 2024. 
 
 We have tested with up to 100 users using fAIr to predict buildings on open aerial imagery OAM simultaneously with zero failures and [documented in github](https://github.com/hotosm/fairpredictor/issues/9#issuecomment-2127000592). 
 
-![fAIrJune2024B.gif](/uploads/fAIrJune2024B.gif)
+![fAIrJune2024B.gif](https://cdn.hotosm.org/website/fAIrJune2024B.gif)
 
 **Read below for more technical details about the load-testing scenarios we have followed.**
 
@@ -39,7 +39,7 @@ In the second chart, the average response time for each prediction ranged from 1
 
 Finally, the bottom figure shows the total number of predictions requested, with +19k requests sent within 50 minutes and an average response time of 13.9 seconds.
 
-![fAIrJune2024C.png](/uploads/fAIrJune2024C.png)
+![fAIrJune2024C.png](https://cdn.hotosm.org/website/fAIrJune2024C.png)
 
 In conclusion, fAIr production can confidently support 100 users attending a mapathon to map using AI assistance and scale up based on usage.
 

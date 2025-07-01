@@ -5,7 +5,7 @@ date: 2025-04-07 16:28:00 Z
 Summary Text: 'El primer proyecto de mapeo con drones a nivel ciudad en Freetown redefinió
   la planificación urbana al poner a las comunidades en el centro: pilotando drones,
   generando datos y moldeando el futuro de su ciudad.'
-Feature Image: "/uploads/Freetown%20HOT%20CFF%20GIZ.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Freetown+HOT+CFF+GIZ.jpg"
 Person:
 - Mariana Marín
 - Pete Masters
@@ -16,7 +16,7 @@ Person:
 
 Imagina que una ciudad no solo se mapea… sino que se mapea a sí misma. En Freetown, Sierra Leona, la alcaldesa y el concejo municipal han hecho de esto una realidad. Por primera vez en el mundo, toda la ciudad ha sido mapeada por residentes locales capacitados como pilotos, procesadores y gestores de datos, utilizando drones ligeros y económicos, junto con software de código abierto. Y aunque la tecnología es un habilitador fundamental en esta historia, lo que realmente demuestra es un cambio más profundo en la forma en que las autoridades pueden aprovechar imágenes aéreas comunitarias, de bajo costo y alta resolución, para sustentar iniciativas de desarrollo urbano.
 
-![Freetown HOT CFF GIZ 2.jpg](/uploads/Freetown%20HOT%20CFF%20GIZ%202.jpg)
+![Freetown HOT CFF GIZ 2.jpg](https://cdn.hotosm.org/website/Freetown+HOT+CFF+GIZ+2.jpg)
 
 Fue el [Concejo Municipal de Freetown](https://fcc.gov.sl/) (FCC) quien vio el potencial de las imágenes aéreas comunitarias como infraestructura de datos necesaria para la ciudad, y aseguró financiamiento a través de una colaboración continua con [GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit)](https://www.giz.de/en), enfocada en mejorar el acceso para personas con discapacidad. Este compromiso institucional local y liderazgo demuestran lo que es posible cuando las ciudades consideran el desarrollo de su gente, conocimiento y datos como una inversión estratégica en infraestructura.
 
@@ -26,7 +26,7 @@ A medida que crecieron los desafíos urbanos relacionados con la resiliencia cli
 
 En lugar de subcontratar la recolección de datos, el FCC incorporó capacidades. Con el apoyo de HOT y GIZ, lograron lanzar una iniciativa de mapeo con drones a nivel ciudad —la primera de su tipo entregada completamente a través de un modelo abierto con pilotos comunitarios. De las treinta personas capacitadas inicialmente, 14 formaron la **Tripulación de Mapeo Abierto con Drones de Freetown**, incluyendo pilotos y procesadores del FCC, CODOHSAPA, OpenStreetMap Sierra Leona y residentes de asentamientos informales.
 
-![Freetown HOT CFF GIZ.jpg](/uploads/Freetown%20HOT%20CFF%20GIZ.jpg)
+![Freetown HOT CFF GIZ.jpg](https://cdn.hotosm.org/website/Freetown+HOT+CFF+GIZ.jpg)
 
 Las y los participantes fueron remunerados por kilómetro cuadrado de imágenes voladas con éxito, utilizando herramientas de código abierto como [OpenDroneMap](https://opendronemap.org/) y [OpenAerialMap](https://openaerialmap.org/) para generar y compartir imágenes con resolución de 5 cm, modelos 3D y modelos digitales de elevación. Su trabajo ahora permite a las autoridades municipales y actores clave analizar, planificar e implementar intervenciones estratégicas —desde la gestión de residuos sólidos a nivel ciudad y la regeneración del centro urbano, hasta la recaudación de impuestos prediales y la mejora del acceso para personas con discapacidad en asentamientos informales.
 
@@ -34,7 +34,7 @@ Lo más importante es que su rol no fue periférico. Este modelo redefine las di
 
 # Un modelo escalable y replicable
 
-![Freetown HOT CFF GIZ 3.jpg](/uploads/Freetown%20HOT%20CFF%20GIZ%203.jpg)
+![Freetown HOT CFF GIZ 3.jpg](https://cdn.hotosm.org/website/Freetown+HOT+CFF+GIZ+3.jpg)
 
 Este modelo representa un cambio fundamental —del asistencialismo a la autonomía, y de proyectos de ayuda aislados a capacidades locales integradas y soberanía de datos. En lugar de depender de subvenciones de corto plazo para financiar servicios de creación de datos, Freetown firmó un contrato de servicio respaldado por financiamiento bilateral, reconociendo los datos geoespaciales como infraestructura pública vital. El resultado: ejecución más rápida, menor costo, total apropiación local y replicabilidad flexible.
 
@@ -46,7 +46,7 @@ Y la demanda está creciendo. Freetown ha demostrado que las imágenes hiperloca
 
 El éxito de Freetown demuestra claramente cómo las ciudades pueden generar los datos de imágenes que necesitan mediante un modelo abierto y cooperativo, donde las y los miembros de la comunidad son participantes activos en el ecosistema de datos de su ciudad. Como pilotos y gestores de datos, no solo recogen información para apoyar la planificación y resiliencia urbana —también adquieren habilidades, generan ingresos y usan su experiencia para mejorar herramientas y procesos para otras personas.
 
-![Freetown HOT CFF GIZ 4.jpg](/uploads/Freetown%20HOT%20CFF%20GIZ%204.jpg)
+![Freetown HOT CFF GIZ 4.jpg](https://cdn.hotosm.org/website/Freetown+HOT+CFF+GIZ+4.jpg)
 
 # ¿Qué sigue?
 

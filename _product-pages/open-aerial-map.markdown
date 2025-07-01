@@ -57,7 +57,7 @@ Block 3:
     start helping out, whether it’s drone pilots in areas of crisis or mappers who
     want to trace from home. If you’re a provider of aerial imagery and would like
     to get involved, get started and contribute.
-  Image: https://www.hotosm.org/uploads/open-aerial-map-screenshot.png
+  Image: https://cdn.hotosm.org/website/open-aerial-map-screenshot.png
   Tools:
   - Name: Website
     URL: https://openaerialmap.org/

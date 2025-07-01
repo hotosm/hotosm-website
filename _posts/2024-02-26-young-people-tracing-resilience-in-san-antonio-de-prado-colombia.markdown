@@ -43,7 +43,7 @@ In this context, we asked Ana to provide us with a deeper perspective on landsli
 In 2022, [San Antonio de Prado experienced a significant landslide that resulted in two deaths](https://uk.news.yahoo.com/two-reported-dead-following-lanslide-011513394.html?guccounter=1), triggering an alert throughout the community. This event was a wake-up call that highlighted the vulnerability of the area. Furthermore, in the pathways of Potrerito and Montañita, two of the seven that make up the township, there were landslides that destroyed a key road. Also, in Potrerito, a rock obstructed the flow of water during heavy rains, causing floods and damage to homes. These incidents highlighted the urgent need to address the issue of landslides and ensure the safety of the community.
 
 # YOUTH ENGAGED IN COMMUNITY MAPPING: DRIVING CHANGE
-![Jóvenes Mapeadoras en San Antonio de Prado.jpg](/uploads/Jo%CC%81venes%20Mapeadoras%20en%20San%20Antonio%20de%20Prado.jpg)
+![Jóvenes Mapeadoras en San Antonio de Prado.jpg](https://cdn.hotosm.org/website/Jo%CC%81venes+Mapeadoras+en+San+Antonio+de+Prado.jpg)
 
 Ana learned about the project through social networks when she saw an invitation from the research group of the University of Antioquia announcing a participatory mapping in San Antonio de Prado. Her excitement was immediate, as in the previous semester, she had immersed herself in the world of geographic information systems. She signed up and attended the first meeting, where they explained the essence of the project. Although she found it a bit confusing at first, she became enthusiastic when she discovered that it was something simple, an opportunity where she could contribute and learn at the same time.
 

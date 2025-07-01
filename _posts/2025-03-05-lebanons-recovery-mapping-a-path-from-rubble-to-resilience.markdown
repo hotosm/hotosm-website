@@ -5,7 +5,7 @@ Summary Text: Lebanon is grappling with severe destruction and displacement from
   conflict. A data-driven approach using mapping is essential for effective humanitarian
   aid and long-term recovery. By leveraging mapping tools and community involvement,
   reconstruction can better address local needs and ensure a sustainable future.
-Feature Image: "/uploads/Southern_Lebanon_coastal_plain_b&w.png"
+Feature Image: "https://cdn.hotosm.org/website/Southern_Lebanon_coastal_plain_bhttps://cdn.hotosm.org/website/Southern_Lebanon_coastal_plain_bhttps://cdn.hotosm.org/website/Southern_Lebanon_coastal_plain_b%26w.pngw.pngw.png"
 Person: Said Abou Kharroub
 Country:
 - Lebanon
@@ -23,7 +23,7 @@ The devastation wrought by war isn't abstract; it's **geographically specific**.
 <br>
 
 <div style="text-align: center;">
-    <img src="/uploads/h3_hexbins_lebanon.png" alt="Count of likely damaged or destroyed buildings" style="width: 90%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/h3_hexbins_lebanon.png" alt="Count of likely damaged or destroyed buildings" style="width: 90%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Count of likely damaged or destroyed buildings within H3 hexbins. Hexbins with fewer than five buildings labeled as damaged are not included in this visualization. Source: Damage analysis of Copernicus Sentinel-1 satellite data by 
         <a href="http://www.whoiscorey.com/">Corey Scher</a> 
@@ -41,7 +41,7 @@ Beyond immediate relief, mapping data is essential for **long-term reconstructio
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 40%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/pexels-iamhogir-17463425_lowres.jpg" alt="Aerial View of Buildings" style="width: 40%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Aerial view of buildings in Beirut, Lebanon. This image was captured by iam hogir | <a href="https://www.pexels.com/photo/aerial-view-of-buildings-17463425/">View on Pexels</a>.
     </div>
@@ -58,7 +58,7 @@ The **environmental impact of conflict**, often overlooked, can also be assessed
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/Southern_Lebanon_coastal_plain.jpg" alt="Panoramic view of the Lebanese coastal plain" style="width: 85%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/Southern_Lebanon_coastal_plain.jpg" alt="Panoramic view of the Lebanese coastal plain" style="width: 85%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         A panoramic view of the Lebanese coastal plain from Ras el-Bayyada, showcasing its agricultural use and sandy beaches, which are vital for endangered turtle species. Date: 14 June 2024 | Source: Own work | Author: Osmhsn2004 | Camera location: 33° 09′ 48.85″ N, 35° 10′ 54.98″ E | 
         <a href="https://commons.wikimedia.org/wiki/File:Southern_Lebanon_coastal_plain.jpg">View on Wikimedia Commons</a>.
@@ -81,6 +81,6 @@ If you are in Lebanon and would like to volunteer with OSM Lebanon, we'd love to
 
 <br>
 
-<img src="/uploads/saidSAK_4.png" alt="Description of the image" style="width: 100%; height: auto;">
+<img src="https://cdn.hotosm.org/website/saidSAK_4.png" alt="Description of the image" style="width: 100%; height: auto;">
 <br>
 

@@ -7,7 +7,7 @@ Summary Text: Los Mapatones Nacionales Anuales Anticipatorios (MANA) son una est
   la prevención y gestión de riesgos. En 2024, los MANA impactaron en Ecuador, Perú,
   Colombia y Guatemala, demostrando el poder del mapeo abierto para construir comunidades
   más resilientes.
-Feature Image: "/uploads/Mapatones%20Anuales%20Anticipatorios%20en%20Latinoame%CC%81rica%20HOT.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Mapatones+Anuales+Anticipatorios+en+Latinoame%CC%81rica+HOT.jpg"
 Person:
 - Céline Jacquin
 - Constanza Petrazzini
@@ -47,7 +47,7 @@ En 2024, la Secretaría de Gestión de Riesgo concretó el Segundo Mapatón Naci
 
 La colaboración entre HOT y la Secretaría de Gestión de Riesgos resultó en la firma de un convenio para garantizar la continuidad de esta iniciativa a largo plazo.
 
-![Cuenca, Ecuador Gestión de Riesgos Mapatones HOTOSM.jpg](/uploads/Cuenca,%20Ecuador%20Gestio%CC%81n%20de%20Riesgos%20Mapatones%20HOTOSM.jpg)
+![Cuenca, Ecuador Gestión de Riesgos Mapatones HOTOSM.jpg](https://cdn.hotosm.org/website/Cuenca%2C+Ecuador+Gestio%CC%81n+de+Riesgos+Mapatones+HOTOSM.jpg)
 
 *Imagen: Comparación del antes y después del mapeo en Cuenca, Ecuador, realizado durante el Mapatón de Gestión de Riesgos.*
 
@@ -73,7 +73,7 @@ En colaboración con la [Unidad Nacional para la Gestión del Riesgo de Desastre
 
 El proyecto, desarrollado en colaboración desde el inicio con grupos de jóvenes Youth Mappers locales como [SAGeMA](https://wiki.openstreetmap.org/wiki/ES:Colombia/SAGEMA) y [Tadeo Mappers](https://www.instagram.com/gnutadeo?igsh=M2loNWxhNTIzMnc5), culminó en octubre durante la Semana Internacional para la Reducción de Desastres. Este esfuerzo cimentó una base sólida para expandir la iniciativa en 2025, destacando la importancia de la colaboración multisectorial y el liderazgo comunitario.
 
-![Mapatón Nacional de Gestión de Riesgos MANAS Hotosm Colombia.jpg](/uploads/Mapato%CC%81n%20Nacional%20de%20Gestio%CC%81n%20de%20Riesgos%20MANAS%20Hotosm%20Colombia.jpg)
+![Mapatón Nacional de Gestión de Riesgos MANAS Hotosm Colombia.jpg](https://cdn.hotosm.org/website/Mapato%CC%81n+Nacional+de+Gestio%CC%81n+de+Riesgos+MANAS+Hotosm+Colombia.jpg)
 
 *Imagen: Sesión de capacitación del grupo juvenil SAGeMa durante el Mapatón Nacional de Gestión de Riesgos en Colombia.*
 
@@ -83,7 +83,7 @@ Ante esta situación, el mapatón permitió enfocar los esfuerzos de los volunta
 
 Esta experiencia permitió demostrar a la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) las ventajas del mapeo participativo y el potencial de una comunidad activa en la generación de cartografía básica para la atención de emergencias y la gestión del riesgo ante desastres.
 
-![Puerto Calceido, Colombia Mapatón de Gestión de Riesgos HOTOSM](/uploads/Puerto%20Calceido,%20Colombia%20Mapato%CC%81n%20de%20Gestio%CC%81n%20de%20Riesgos%20HOTOSM)
+![Puerto Calceido, Colombia Mapatón de Gestión de Riesgos HOTOSM](https://cdn.hotosm.org/website/Puerto+Calceido%2C+Colombia+Mapato%CC%81n+de+Gestio%CC%81n+de+Riesgos+HOTOSM)
 
 *Imagen: Comparación del antes y después del mapeo en Puerto Calcedo, Colombia, realizado durante el Mapatón de Gestión de Riesgos.*
 
@@ -93,7 +93,7 @@ En 2024, Guatemala llevó a cabo su primer gran mapatón de Caminos Rurales, ada
 
 Para maximizar la participación, convocamos a voluntarios a través de la plataforma de Voluntarios de la ONU e invitamos directamente a profesores y estudiantes de diversas universidades, con un enfoque especial en las sedes del departamento prioritario de Alta Verapaz. Más allá de la recolección de datos, este mapatón se convirtió en una oportunidad estratégica para fortalecer y consolidar la comunidad mapeadora en Guatemala, alineándose con un objetivo concreto y unificador para la ciudadanía.
 
-![Cobán, Guatemala Avenidas del Buen Vivir.png](/uploads/Coba%CC%81n,%20Guatemala%20Avenidas%20del%20Buen%20Vivir.png)
+![Cobán, Guatemala Avenidas del Buen Vivir.png](https://cdn.hotosm.org/website/Coba%CC%81n%2C+Guatemala+Avenidas+del+Buen+Vivir.png)
 
 *Vídeo: Comparación del antes y después del mapeo de caminos en Cobán, Guatemala, durante el Mapatón de Avenidas del Buen Vivir.*
 
@@ -127,7 +127,7 @@ El impacto del mapatón va más allá de los números. Estos son algunos de los 
 
 Con los resultados del mapatón como base, el gobierno busca integrar esta información en distintos programas nacionales relacionados con el desarrollo de áreas rezagadas.
 
-![Vías Mapeadas Rutas para el Desarrollo, Guatemala.jpg](/uploads/Vi%CC%81as%20Mapeadas%20Rutas%20para%20el%20Desarrollo,%20Guatemala.jpg)
+![Vías Mapeadas Rutas para el Desarrollo, Guatemala.jpg](https://cdn.hotosm.org/website/Vi%CC%81as+Mapeadas+Rutas+para+el+Desarrollo%2C+Guatemala.jpg)
 
 *Imagen: Mapeo completo de la red de caminos en Guatemala como parte de la actualización de Avenidas del Buen Vivir.*
 

@@ -5,7 +5,7 @@ date: 2025-01-25 17:30:00 Z
 Summary Text: Guatemala, in collaboration with HOT, UNDP and MARN, is working on waste
   and natural resource management by identifying critical sites and training officials
   to improve infrastructure.
-Feature Image: "/uploads/GUATEMALA%20GESTIO%CC%81N%20DE%20RESIDUOS%20KOBO%20EQUIPO%20HUMANITARIO%20DE%20OPENSTREETMAP%20PNUD%20GUATEMALA.jpg"
+Feature Image: "https://cdn.hotosm.org/website/GUATEMALA+GESTIO%CC%81N+DE+RESIDUOS+KOBO+EQUIPO+HUMANITARIO+DE+OPENSTREETMAP+PNUD+GUATEMALA.jpg"
 Person: Céline Jacquin
 Country:
 - Guatemala
@@ -21,13 +21,13 @@ The first phase of collaboration showcased to the Ministry of Environment the po
 
 HOT and UNDP developed a household survey strategy using Open Data Kit (ODK), piloted in various areas of Guatemala City. The qualitative results were shared with the Ministry and visualized through an interactive dashboard in Power BI by the UNDP team. This demonstration motivated the Ministry to develop a more sophisticated strategy aligned with its needs before the administration’s term ended, recognizing the potential for a complete inventory of municipal infrastructure nationwide with the technical and methodological support provided.
 
-![GESTIÓN DE RESIDUOS GUATEMALA BI HOT.png](/uploads/GESTIO%CC%81N%20DE%20RESIDUOS%20GUATEMALA%20BI%20HOT.png)
+![GESTIÓN DE RESIDUOS GUATEMALA BI HOT.png](https://cdn.hotosm.org/website/GESTIO%CC%81N+DE+RESIDUOS+GUATEMALA+BI+HOT.png)
 
 Subsequently, the three institutions collaborated on structuring a georeferenced survey tool for municipalities to uniformly, comprehensively, and promptly report information on the infrastructure, capacity, conditions, activity, coverage, and costs of wastewater and solid waste treatment to the Ministry. This eliminated the need for manual intervention at various data collection and aggregation points, a common issue.
 
 In parallel, a practical reflection was carried out on data sovereignty and its appropriate localization within the Ministry’s services. At the same time, sustainable access was ensured despite impending administrative changes. Given MARN's limited IT capabilities, the information was entrusted to UNDP, which could deliver it to the incoming government.
 
-![ODK COLLECT KOBO GESTIÓN DE RESIDUOS GUATEMALA.png](/uploads/ODK%20COLLECT%20KOBO%20GESTIO%CC%81N%20DE%20RESIDUOS%20GUATEMALA.png)
+![ODK COLLECT KOBO GESTIÓN DE RESIDUOS GUATEMALA.png](https://cdn.hotosm.org/website/ODK+COLLECT+KOBO+GESTIO%CC%81N+DE+RESIDUOS+GUATEMALA.png)
 
 ## Building Capacity in Data Management with ODK
 

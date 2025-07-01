@@ -5,7 +5,7 @@ Summary Text: Discover the inspiring journeys of Emir and Faiz, two tech contrib
   making a real impact with the Humanitarian OpenStreetMap Team (HOT). From Python
   packages to user-centered design, their stories show how open source skills can
   power humanitarian change. Could you be the next to join HOT’s open source movement?
-Feature Image: "/uploads/Open%20Source%20Journey%20HOT.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Open+Source+Journey+HOT.jpg"
 Person: Petya Kangalova
 Working Group:
 - TechandInnovation
@@ -17,7 +17,7 @@ Each journey is different. Every contribution matters. I hope their stories insp
 
 ## **[Emir](https://www.linkedin.com/in/emir-fabio-cognigni-4222a1216/)’s journey into HOTOSM**
 
-![Open Source Contributor Journeys into HOT - could you be the next one  1.jpg](/uploads/Open%20Source%20Contributor%20Journeys%20into%20HOT%20-%20could%20you%20be%20the%20next%20one%20%201.jpg)
+![Open Source Contributor Journeys into HOT - could you be the next one  1.jpg](https://cdn.hotosm.org/website/Open+Source+Contributor+Journeys+into+HOT+-+could+you+be+the+next+one++1.jpg)
 
 ### What is your name, where you feel like home, current role.
 
@@ -49,7 +49,7 @@ Do it, but do it with intention. Contributing to an open-source project like HOT
 
 ## **[Faiz](https://www.linkedin.com/in/faizjamdar/)’s journey into HOTOSM**
 
-![Open Source Contributor Journeys into HOT - could you be the next one 2.jpg](/uploads/Open%20Source%20Contributor%20Journeys%20into%20HOT%20-%20could%20you%20be%20the%20next%20one%202.jpg)
+![Open Source Contributor Journeys into HOT - could you be the next one 2.jpg](https://cdn.hotosm.org/website/Open+Source+Contributor+Journeys+into+HOT+-+could+you+be+the+next+one+2.jpg)
 
 ### What is your name, where you feel like home, current role.
 

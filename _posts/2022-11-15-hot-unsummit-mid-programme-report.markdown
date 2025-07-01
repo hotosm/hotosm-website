@@ -103,7 +103,7 @@ The number of community members supported to attend events only accounts for tho
 # What kind of topics have been shared and discussed?
 We think more than 100 humanitarian or development / open mapping focused sessions have taken place across all seven of these events and 31 of those have been directly enabled by the HOT unSummit program.
 
-![unSummit 9.png](/uploads/unSummit%209.png)
+![unSummit 9.png](https://cdn.hotosm.org/website/unSummit+9.png)
 
 We have categorized these by HOT’s impact areas, but also included categories for Community Building and Tech, Tools and Data for those sessions without a specific impact area focus. 
 

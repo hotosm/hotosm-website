@@ -4,7 +4,7 @@ date: 2025-02-24 18:57:00 Z
 Summary Text: En tiempos de crisis, la colaboración es clave. El Hub de América Latina
   y el Caribe fortalece el trabajo humanitario con una red de aliadas y aliados, impulsando
   el mapeo abierto para generar soluciones resilientes y sostenibles.
-Feature Image: "/uploads/Red%20de%20Mapeo%20Abierto%20del%20Equipo%20Humanitario%20de%20OpenStreetMap.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Red+de+Mapeo+Abierto+del+Equipo+Humanitario+de+OpenStreetMap.jpg"
 Person: Juan Arellano Valdivia
 ---
 
@@ -16,7 +16,7 @@ Ser aliados significa mucho más que colaborar en un proyecto. Implica construir
 
 A continuación, presentamos algunas de las organizaciones y personas que se han convertido en nuestros colaboradores más cercanos y aliados estratégicos en la región.
 
-![Red de Mapeo Abierto del Equipo Humanitario de OpenStreetMap.jpg](/uploads/Red%20de%20Mapeo%20Abierto%20del%20Equipo%20Humanitario%20de%20OpenStreetMap.jpg)
+![Red de Mapeo Abierto del Equipo Humanitario de OpenStreetMap.jpg](https://cdn.hotosm.org/website/Red+de+Mapeo+Abierto+del+Equipo+Humanitario+de+OpenStreetMap.jpg)
 
 ### **[Co.Mapper](https://site.comapper.org/)**
 
@@ -82,7 +82,7 @@ Virgilio destaca que, “en colaboración con HOT y la Secretaría Nacional de G
 
 ## ¿Hacia a dónde vamos?
 
-![Red de Mapeo Abierto del Equipo Humanitario de OpenStreetMap 2.jpg](/uploads/Red%20de%20Mapeo%20Abierto%20del%20Equipo%20Humanitario%20de%20OpenStreetMap%202.jpg)
+![Red de Mapeo Abierto del Equipo Humanitario de OpenStreetMap 2.jpg](https://cdn.hotosm.org/website/Red+de+Mapeo+Abierto+del+Equipo+Humanitario+de+OpenStreetMap+2.jpg)
 
 La construcción de una red de aliadas y aliados fortalece nuestras capacidades y amplifica el impacto de nuestras iniciativas, pero, sobre todo, nos permite activar la inteligencia colectiva. En un contexto global de desafíos cada vez más complejos, el trabajo humanitario requiere más que nunca de la colaboración y la solidaridad. A través del intercambio de conocimientos, metodologías y experiencias, la co-construcción de ideas y la adaptación a distintos contextos, esta red nos ayuda a innovar y responder de manera más efectiva a las necesidades de nuestras comunidades. Más que compartir herramientas, construimos enfoques nuevos, narrativas comunes, fortalecemos la autonomía local y promovemos la participación ciudadana para generar cambios sostenibles y democráticos.
 

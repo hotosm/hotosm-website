@@ -49,7 +49,7 @@ En 2022, San Antonio de Prado experimentó [un deslizamiento importante que resu
 
 # LA JUVENTUD COMPROMETIDA EN EL MAPEO COMUNITARIO: IMPULSANDO EL CAMBIO
 
-![Jóvenes Mapeadoras en San Antonio de Prado.jpg](/uploads/Jo%CC%81venes%20Mapeadoras%20en%20San%20Antonio%20de%20Prado.jpg)
+![Jóvenes Mapeadoras en San Antonio de Prado.jpg](https://cdn.hotosm.org/website/Jo%CC%81venes+Mapeadoras+en+San+Antonio+de+Prado.jpg)
 
 Ana se enteró del proyecto a través de las redes sociales cuando vio una invitación del grupo de investigación de la Universidad de Antioquia que anunciaba un mapeo participativo en San Antonio de Prado. Su emoción fue inmediata, ya que en el semestre anterior se había sumergido en el mundo de los sistemas de información geográfica. Se inscribió y asistió al primer encuentro, donde les explicaron la esencia del proyecto. Aunque al principio le pareció un poco confuso, se entusiasmó al descubrir que era algo simple, una oportunidad en la que podía contribuir y aprender al mismo tiempo.
 

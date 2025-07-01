@@ -71,7 +71,7 @@ The activities focused on three areas [the capital city Roseau](https://www.q95d
 
 ## Impact: Supporting the Battle Against Crippling Disasters
 
-The new datasets produced proved to be valuable for hazard analysis, particularly given the island’s recent history with [highly destructive storms](https://www.gfdrr.org/en/dominica-hurricane-maria-post-disaster-assessment-and-support-recovery-planning) and Dominica’s own commitment to becoming a more resilient nation. Please see the project [IMPACT REPORT](https://www.hotosm.orghttps://cdn.hotosm.org/website/Open+Cities_Impact+Report_Dominica.pdf) for more details.
+The new datasets produced proved to be valuable for hazard analysis, particularly given the island’s recent history with [highly destructive storms](https://www.gfdrr.org/en/dominica-hurricane-maria-post-disaster-assessment-and-support-recovery-planning) and Dominica’s own commitment to becoming a more resilient nation. Please see the project [IMPACT REPORT](https://cdn.hotosm.org/website/Open+Cities_Impact+Report_Dominica.pdf) for more details.
 
 ![IMG-20230114-WA0005.jpg](https://cdn.hotosm.org/website/IMG-20230114-WA0005.jpg)
 

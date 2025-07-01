@@ -6,7 +6,7 @@ Summary Text: Help.NGO and HOT collaborated to strengthen emergency response eff
   forest fire assessments in Ucayali, their partnership accelerates access to critical
   post-disaster imagery. These joint actions enable rapid damage assessment, informed
   decision-making, and more effective humanitarian coordination.
-Feature Image: "/uploads/Forest_fires_in_SanFrancisco_Ucaya.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Forest_fires_in_SanFrancisco_Ucaya.jpg"
 Person: Céline Jacquin
 Country:
 - Mexico
@@ -22,7 +22,7 @@ Among other areas of expertise, Help.NGO subject matter experts leverage drone t
 
 ## Acapulco, Mexico
 
-## ![OpenAerialMap Guerrero.jpg](/uploads/OpenAerialMap%20Guerrero.jpg)
+## ![OpenAerialMap Guerrero.jpg](https://cdn.hotosm.org/website/OpenAerialMap+Guerrero.jpg)
 
 *Images contributed to OpenAerialMap.org in Acapulco, 2024. Explore them [here](https://map.openaerialmap.org/#/-99.88881111145018,16.87666858631898,13/square/02331022331033?_k=ycnf75).*
 
@@ -52,7 +52,7 @@ In this way, it was possible to help various organizations and the state and cit
 
 ## **Ucayali, Peru**
 
-![Forest_fires_in_SanFrancisco_Ucaya.jpg](/uploads/Forest_fires_in_SanFrancisco_Ucaya.jpg)
+![Forest_fires_in_SanFrancisco_Ucaya.jpg](https://cdn.hotosm.org/website/Forest_fires_in_SanFrancisco_Ucaya.jpg)
 
 *Forest fires in San Francisco, Ucayali, Peru. Drone mapping images from Help.NGO.*
 
@@ -64,7 +64,7 @@ We coordinated the connection between Help.NGO and the OSM Peru people in Ucayal
 
 Additionally, we connected this combined Help.NGO and OSM Peru team with other local organizations in addition to those that were already part of the aid consortium (Alianza Arkana, the Bilingual Institute and the UNIA Student Association) such as Pro Purús and the Association of Youth for Democracy, in order to reach more affected communities.
 
-![Drone images taken at WebODM. Help.NGO team in the community of San Francisco, Ucayali.jpg](/uploads/Drone%20images%20taken%20at%20WebODM.%20Help.NGO%20team%20in%20the%20community%20of%20San%20Francisco,%20Ucayali.jpg)
+![Drone images taken at WebODM. Help.NGO team in the community of San Francisco, Ucayali.jpg](https://cdn.hotosm.org/website/Drone+images+taken+at+WebODM.+Help.NGO+team+in+the+community+of+San+Francisco,+Ucayali.jpg)
 
 *Drone images taken at WebODM. Help.NGO team in the community of San Francisco, Ucayali.*
 
@@ -74,7 +74,7 @@ The resulting images were processed in WebODM and shared with the OSM Peru team 
 
 Johnattan Rupire, representative of OSM Peru, was very grateful for the support, because as already mentioned, the deployment of the Help.NGO team allowed access to more remote communities that would otherwise have been more difficult to reach, and also allowed obtaining higher quality and more precise images, as well as up-to-date images.
 
-![Help.NGO member presenting the work done to representatives of local communities and organizations. Help.NGO member in the community of Santa Clara, Ucayali. Johnattan Rupire from OSM Peru taking pictures with a GoPro.jpg](/uploads/Help.NGO%20member%20presenting%20the%20work%20done%20to%20representatives%20of%20local%20communities%20and%20organizations.%20Help.NGO%20member%20in%20the%20community%20of%20Santa%20Clara,%20Ucayali.%20Johnattan%20Rupire%20from%20OSM%20Peru%20taking%20pictures%20with%20a%20GoPro.jpg)
+![Help.NGO member presenting the work done to representatives of local communities and organizations. Help.NGO member in the community of Santa Clara, Ucayali. Johnattan Rupire from OSM Peru taking pictures with a GoPro.jpg](https://cdn.hotosm.org/website/Help.NGO+member+presenting+the+work+done+to+representatives+of+local+communities+and+organizations.+Help.NGO+member+in+the+community+of+Santa+Clara,+Ucayali.+Johnattan+Rupire+from+OSM+Peru+taking+pictures+with+a+GoPro.jpg)
 
 *Help.NGO member presenting the work done to representatives of local communities and organizations. Help.NGO member in the community of Santa Clara, Ucayali. Johnattan Rupire from OSM Peru taking pictures with a GoPro.*
 

@@ -13,7 +13,7 @@ Summary Text: Junto a la Fundación OpenLab, HOT llevo a cabo un proyecto de cap
   en mapeo abierto en las ciudades de Nueva Loja, Archidona, Puyo, Tena y Macas, en
   la región amazónica de Ecuador.  Entérese del impacto que se logró y las posibilidades
   de cooperación que han quedado abiertas.
-Feature Image: "/uploads/mapaMapeoAmazonia.jpg"
+Feature Image: "https://cdn.hotosm.org/website/mapaMapeoAmazonia.jpg"
 Person: Juan Arellano Valdivia
 Country:
 - Ecuador
@@ -27,7 +27,7 @@ Los talleres fueron espacios no solo de formación técnica, sino también de in
 
 Se llevaron a cabo talleres de mapeo participativo en las ciudades amazónicas de [Nueva Loja](https://www.openstreetmap.org/#map=11/0.1109/-76.8539), [Archidona](https://www.openstreetmap.org/#map=13/-0.89784/-77.82021), [Puyo](https://www.openstreetmap.org/#map=12/-1.4749/-78.0481), [Tena](https://www.openstreetmap.org/#map=13/-0.98829/-77.83925) y [Macas](https://www.openstreetmap.org/#map=13/-2.29201/-78.14843), sobre los cuales ya [informamos](https://www.hotosm.org/updates/creando-capacidades-mapeadoras-en-la-amazonia-ecuatoriana/) anteriormente. En estos talleres participaron asistentes del sector público como los Gobiernos Autónomos Descentralizados, del sector académico representado por profesores de las distintas universidades que nos dieron sede, organizaciones no gubernamentales (ONG) y la sociedad civil en general.
 
-![mapaMapeoAmazonia.jpg](/uploads/mapaMapeoAmazonia.jpg)*[Ubicación de cada ciudad donde se dieron talleres, más la asistencia registrada](https://umap.openstreetmap.fr/es/map/mapa-sin-titulo_1125963#8/-1.250/-79.299)*
+![mapaMapeoAmazonia.jpg](https://cdn.hotosm.org/website/mapaMapeoAmazonia.jpg)*[Ubicación de cada ciudad donde se dieron talleres, más la asistencia registrada](https://umap.openstreetmap.fr/es/map/mapa-sin-titulo_1125963#8/-1.250/-79.299)*
 
 Las valoraciones de los talleres fueron altamente positivas, destacando entre ellas la opinión de la Dra. Ana Lucía Chafla, PhD, quien subrayó la relevancia de estos eventos para preparar a los estudiantes frente a los desafíos del entorno laboral actual. Además, se recibieron sugerencias valiosas por parte de los maestros, quienes manifestaron el interés de realizar futuras ediciones de los talleres, profundizando en los aspectos teóricos y promoviendo más actividades prácticas en el campo para afianzar los conocimientos adquiridos.
 
@@ -44,7 +44,7 @@ Los talleres realizados lograron fortalecer las capacidades locales en el uso de
 
 * Alianzas con instituciones educativas como: Universidad Estatal Amazónica, la Universidad Ikiam, la Universidad Católica de Cuenca Sede Morona, que están dispuestas a volver a cobijar eventos de esta naturaleza.
 
-![ec0.jpg](/uploads/ec0.jpg)*Imágenes del taller en la Universidad Estatal Amazónica, Nueva Loja, Ecuador.*
+![ec0.jpg](https://cdn.hotosm.org/website/ec0.jpg)*Imágenes del taller en la Universidad Estatal Amazónica, Nueva Loja, Ecuador.*
 
 Nuestro proyecto "**Mapeo como una herramienta para la gestión de riesgos**" ha demostrado ser una iniciativa valiosa para la Amazonía ecuatoriana. La participación activa de diversas comunidades y sectores, el uso de herramientas tecnológicas abiertas, y el enfoque en la gestión de riesgos territoriales contribuyen a mejorar la planificación y toma de decisiones en una de las regiones más vulnerables del país. La colaboración entre instituciones y comunidades seguirá siendo clave para el éxito de futuros proyectos de mapeo en la región.
 

@@ -5,7 +5,7 @@ Summary Text: 'Humanitarian mapping in Sudan has been improving data quality in 
   (OSM) in otherwise uncovered areas. For those interested in using this OSM data,
   Humanitarian OpenStreetMap Team is making it easier than ever to find what data
   (and where!) in Sudan has been updated. '
-Feature Image: "/uploads/baylah-sudan-low.png"
+Feature Image: "https://cdn.hotosm.org/website/baylah-sudan-low.png"
 Person: Jessica Pechmann
 Country:
 - Sudan
@@ -182,7 +182,7 @@ Navigating what data in OSM is usable in crisis affected countries can be challe
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/sdn_sudan_crisis_2023_aoi.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/sdn_sudan_crisis_2023_aoi.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>Map of the Areas of interest and data improvements part of the campaign on Tasking Manager.</span>
     </div>

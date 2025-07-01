@@ -6,7 +6,7 @@ Summary Text: The Open Mapping Hub for Latin America and the Caribbean concluded
   2024 activities with a community gathering where volunteers, representatives of
   partner organizations, and mappers came together to celebrate the end of the year
   and the beginning of 2025, calling for continued community-driven mapping efforts.
-Feature Image: "/uploads/cierre%20comunidades%20Fin%20de%20Ano%202024.jpg"
+Feature Image: "https://cdn.hotosm.org/website/cierre+comunidades+Fin+de+Ano+2024.jpg"
 Person: " Constanza Petrazzini"
 ---
 
@@ -74,7 +74,7 @@ Finally, Mar Marín, responsible for the Humanitarian Mapping Lab, reflected on 
 
 > "When Céline shared the vision of creating a community of practice, it was a significant challenge. I deeply thank everyone who answered the call to learn and apply knowledge to benefit their communities. It’s been inspiring to witness this dynamic, interdisciplinary, and diverse group grow and thrive, making it a rich and motivating experience for all."
 
-![cierre comunidades Fin de Ano 2024.jpg](/uploads/cierre%20comunidades%20Fin%20de%20Ano%202024.jpg)
+![cierre comunidades Fin de Ano 2024.jpg](https://cdn.hotosm.org/website/cierre+comunidades+Fin+de+Ano+2024.jpg)
 
 ## Let’s Keep Mapping Together in 2025!
 

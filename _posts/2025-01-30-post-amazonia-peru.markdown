@@ -13,7 +13,7 @@ Summary Text: Junto a OpenStreetMap Perú, HOT llevó a cabo un proyecto para ma
   territorios bajo amenaza con miembros de la Comunidad Nativa Shipibo – Konibo en
   la Amazonía peruana.  Entérese del impacto que se logró en la comunidad y las posibilidades
   de cooperación que han quedado abiertas.
-Feature Image: "/uploads/yar2.jpg"
+Feature Image: "https://cdn.hotosm.org/website/yar2.jpg"
 Person: Juan Arellano Valdivia
 ---
 
@@ -25,7 +25,7 @@ En este contexto la mayor parte de las comunidades indígenas peruanas de la Ama
 
 Como parte del interés en que nuestro programa de [mapeo amazónico](https://www.hotosm.org/updates/mapeos-amazonicos-para-una-amazonia-inclusiva-y-sostenible/) incluya a la Amazonía peruana, nos asociamos con el Mg. Jonathan Rupire de [OpenStreetMap Perú](https://osm.org.pe/) quien a su vez comprometió el apoyo de el [Instituto Superior Público Pedagógico Bilingüe de Yarinacocha](https://es.wikipedia.org/wiki/Instituto_de_Educaci%C3%B3n_Superior_Pedag%C3%B3gico_P%C3%BAblico_Biling%C3%BCe) (ISPPB) y la ONG [Alianza Arkana](https://www.facebook.com/AlianzaArkana/), para realizar el curso taller [“Introducción a la cartografía socioambiental colaborativa en la amazonía](https://osm.org.pe/curso-introduccion-a-la-cartografia-socioambiental-colaborativa-en-la-amazonia/)”, con el objetivo de mapear territorios bajo amenaza de diferentes peligros naturales y antrópicos como incendios forestales y la deforestación, principalmente con miembros de la Comunidad Nativa Shipibo – Konibo Santa Clara.
 
-![yar2.jpg](/uploads/yar2.jpg)*Taller en el ISPPB. Mapa del ISPPB en OSM. Participantes del taller en bote rumbo a mapear una comunidad.*
+![yar2.jpg](https://cdn.hotosm.org/website/yar2.jpg)*Taller en el ISPPB. Mapa del ISPPB en OSM. Participantes del taller en bote rumbo a mapear una comunidad.*
 
 > A lo largo de 10 sesiones, exploraremos los fundamentos teóricos y prácticos de la cartografía socioambiental colaborativa, propiciando que las y los participantes adquieran desde la práctica y la creación de representaciones cartográfica, las habilidades esenciales para involucrar a sus comunidades en la gestión ecológica sostenible del territorio \[y\] contribuir a la gestión comunitaria responsable  \[...\] a través de su incidencia en los tomadores de decisiones.
 
@@ -35,7 +35,7 @@ Por otra parte, el inexistente acondicionamiento climático del laboratorio del 
 
 Otro desafío importante fue la condición económica y la carga familiar de los estudiantes: extremadamente precaria en el sentido monetario. Aun cubriendo la falta de equipos, movilidad y alimentación de todas las personas durante el desarrollo del curso, esto significó poco en relación a la atención de sus necesidades de vida, al detener su actividad económica durante varios días. Fue inevitable la inclusión de sus familias en partes del curso para suplir su alimentación, lo que se tornó en un beneficio relativo pues permitió reconocer la potencialidad de la formación de pares, padres e hijos, desde el reconocimiento de la ventaja que tienen los menores para hacerse de familiaridad con la tecnología. Esta situación no había sido prevista pero fue bien aprovechada (con la autorización de sus padres).
 
-![yar.jpg](/uploads/yar.jpg)*Imágenes del taller en las instalaciones de Alianza Arkana*
+![yar.jpg](https://cdn.hotosm.org/website/yar.jpg)*Imágenes del taller en las instalaciones de Alianza Arkana*
 
 A pesar de todos estos contratiempos se lograron algunos impactos importantes:
 

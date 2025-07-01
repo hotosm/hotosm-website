@@ -5,7 +5,7 @@ Summary Text: Após as enchentes de 2024 em Porto Alegre, Brasil, o BID e a HOT 
   uniram para mapear e avaliar a infraestrutura danificada. Utilizando dados georreferenciados
   e o envolvimento da comunidade, essa colaboração promove uma recuperação sustentável
   e resiliente para as populações mais vulneráveis da cidade.
-Feature Image: "/uploads/Porto%20Alegre%20Floods%20-%20Enchentes%20BID%20-%20HOT%20Response.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg"
 Person:
 - Mariana Marín
 - Céline Jacquin
@@ -25,7 +25,7 @@ Antes das inundações, o [Banco Interamericano de Desenvolvimento](https://www.
 
 À medida que a emergência deu lugar aos esforços de resposta e reconstrução, tornou-se crucial compreender o estado atual da infraestrutura educacional, de saúde e de serviços sociais, particularmente nas áreas mais vulneráveis da cidade. Nesse contexto, para avaliar com precisão a situação no terreno e oferecer apoio específico às autoridades, uma missão conjunta do BID e da HOT visitou Porto Alegre em junho passado.
 
-![Blog Porto Alegre.jpg](/uploads/Blog%20Porto%20Alegre.jpg)
+![Blog Porto Alegre.jpg](https://cdn.hotosm.org/website/Blog+Porto+Alegre.jpg)
 
 A missão, liderada conjuntamente pela equipe da Humanitarian OpenStreetMap e um grupo multidisciplinar do Setor Social do BID, concentrou-se em identificar e mapear edifícios que necessitavam de avaliação de danos, revisar dados existentes e avaliações anteriores, e abordar lacunas críticas de informação para apoiar uma avaliação georreferenciada das instalações públicas. Para facilitar a tomada de decisões em tempo hábil, foi criada uma ferramenta de pesquisa online que permitiu coletar dados precisos, comparáveis e georreferenciados de maneira eficiente. Este trabalho foi realizado em estreita colaboração com a Secretaria de Planejamento e Assuntos Estratégicos de Porto Alegre, juntamente com representantes das Secretarias de Educação, Saúde, Assistência Social e Esportes.
 

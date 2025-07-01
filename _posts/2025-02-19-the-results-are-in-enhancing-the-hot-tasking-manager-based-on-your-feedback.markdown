@@ -23,7 +23,7 @@ The NPS is calculated by subtracting the percentage of detractors from the perce
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/NPS_explainer.png" alt="Description of the role of Promoters, Passives, Descriptors" style="width: 30%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/NPS_explainer.png" alt="Description of the role of Promoters, Passives, Descriptors" style="width: 30%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>Definition of Promoters, Passives, and Detractors for calculating an NPS (Sources: 
   <a href="https://www.eliassen.com/blog/elas-blog-posts/net-promoter-scores-what-do-the-numbers-really-mean" target="_blank">Eliassen Group</a>, 

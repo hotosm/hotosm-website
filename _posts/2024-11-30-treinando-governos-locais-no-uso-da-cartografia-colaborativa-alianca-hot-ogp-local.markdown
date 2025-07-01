@@ -5,7 +5,7 @@ date: 2024-11-30 10:50:00 Z
 Summary Text: O projeto "Cidades Abertas Resilientes" capacitou seis governos em dados
   abertos e ferramentas geográficas, promovendo soluções resilientes e colaborativas
   diante de desafios urbanos e climáticos.
-Feature Image: "/uploads/Entrenando%20Gobiernos%20Locales%20en%20el%20Uso%20de%20la%20Cartografi%CC%81a%20Colaborativa.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Entrenando+Gobiernos+Locales+en+el+Uso+de+la+Cartografi%CC%81a+Colaborativa.jpg"
 Person:
 - Juan Arellano Valdivia
 - Mariana Marín
@@ -62,7 +62,7 @@ O levantamento de dados foi realizado usando o KoboToolbox, com participação c
 
 Francisco Medina, responsável pela Unidade de Planejamento e Desenvolvimento do Município de Maipú, destacou que os dados geográficos coletados serão cruzados com informações sobre ilhas de calor. Essa análise ajudará a identificar as áreas prioritárias para projetos de regeneração urbana que facilitem a adaptação às mudanças climáticas, especialmente diante de ondas de calor.
 
-![Chile - OGP - Cartografía Colaborativa.png](/uploads/Chile%20-%20OGP%20-%20Cartografi%CC%81a%20Colaborativa.png)
+![Chile - OGP - Cartografía Colaborativa.png](https://cdn.hotosm.org/website/Chile+-+OGP+-+Cartografi%CC%81a+Colaborativa.png)
 
 *Imagem: Mapa EPA para teste piloto.*
 

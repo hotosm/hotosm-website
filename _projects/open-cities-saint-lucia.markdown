@@ -37,7 +37,7 @@ An added result of the exercise is a pilot for establishing  and growing an Open
 
 The focus of the OpenCities Project Saint Lucia was mapping areas most vulnerable to floods and landslides and [building resilience](https://thevoiceslu.com/2022/01/digital-crowd-sourced-mapping-to-kick-off-in-saint-lucia/) in communities such as unplanned settlements in high flood zones. However, when taking a closer look at the project, one would see its impact beyond “just mapping”, and specifically with regards to the strengthening of the mapping community on the island.
 
-This post provides highlights of how this project impacted the open mapping landscape, for further details please go to the [Impact Report](https://www.hotosm.orghttps://cdn.hotosm.org/website/Open+Cities_Impact+Report_SaintLucia.pdf).
+This post provides highlights of how this project impacted the open mapping landscape, for further details please go to the [Impact Report](https://cdn.hotosm.org/website/Open+Cities_Impact+Report_SaintLucia.pdf).
 
 ![Community Meeting in Bexon Saint Lucia.jpg](https://cdn.hotosm.org/website/Community+Meeting+in+Bexon+Saint+Lucia.jpg)
 
@@ -74,6 +74,6 @@ The sustainability of this boost is also reflected in the global partnerships fa
 
 The project involved 135 new participants (44% of whom were women), engaged with 3 public institutions. In addition, 24,035 new features were added on the map, 11,159 buildings and 381 km of roads were mapped, impacting approximately 81,279 people.
 
-More details provided in the [Impact Report](https://www.hotosm.orghttps://cdn.hotosm.org/website/Open+Cities_Impact+Report_SaintLucia.pdf).
+More details provided in the [Impact Report](https://cdn.hotosm.org/website/Open+Cities_Impact+Report_SaintLucia.pdf).
 
 This would not had been possible without our partners: [Swiss Re Foundation](https://www.swissrefoundation.org/), [Global Facility for Disaster Reduction and Recovery (GFDRR)](https://www.gfdrr.org/en), [Caritas Antilles](https://www.caritas.org/where-caritas-work/latin-america/antilles/), [Saint Lucia Red Cross](https://www.saintluciaredcross.org/), [Youth Emergency Action Committees of Saint Lucia (YEAC)](https://www.facebook.com/YEACSLU), [OSM Saint Lucia](https://wiki.openstreetmap.org/wiki/WikiProject_Saint_Lucia).

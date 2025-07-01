@@ -6,7 +6,7 @@ Summary Text: 'Mexico is making progress with its public policy proposals for th
   regulation and modernization of public transportation. Learn how HOT contributed
   to the project “Creating Data Together: Improving Urban Transport Management in
   Mexico.”'
-Feature Image: "/uploads/Creando%20Datos%20Juntos%20Mapeo%20de%20Transporte%20Pu%CC%81blico%20GIZ%20Codeando%20Me%CC%81xico%20HOT%20Trufi.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/Creando+Datos+Juntos+Mapeo+de+Transporte+Pu%CC%81blico+GIZ+Codeando+Me%CC%81xico+HOT+Trufi.jpeg"
 Person:
 - Céline Jacquin
 - Juan Arellano Valdivia
@@ -25,7 +25,7 @@ The collaboration between these three organizations builds on a two-year history
 
 For this project, in close collaboration with the State Governments of Oaxaca and the State of Mexico, represented by their Mobility Secretariats (SEMOVI), the data needs were defined in line with public policy proposals aimed at the regulation and modernization of public transport. The selected cities included Oaxaca, Puerto Escondido, Salina Cruz, and the Metropolitan Area of Toluca in the State of Mexico.
 
-![Public Transport Mapping in OpenStreetMap - Toluca and Oaxaca GIZ.png](/uploads/Mapeo%20de%20Transporte%20Pu%CC%81blico%20en%20OpenStreetMap%20-%20Toluca%20y%20Oaxaca%20GIZ.png)\
+![Public Transport Mapping in OpenStreetMap - Toluca and Oaxaca GIZ.png](https://cdn.hotosm.org/website/Mapeo+de+Transporte+Pu%CC%81blico+en+OpenStreetMap+-+Toluca+y+Oaxaca+GIZ.png)\
 *Visualization of contributions (OpenStreetMap changesets) in the Toluca Valley.*
 
 Juan Berdeja, former Director of Planning and Policies at Oaxaca's SEMOVI, shares:
@@ -46,7 +46,7 @@ Some of the participants shared their reflections:
 
 > *"Many tourists come and don’t know which bus to take, and even locals like me ask: 'Which bus takes me here or there?' So I think this project is a great advantage for everyone."* — Benjamín Montiel, student at UAEMEX in Toluca; project volunteer and local public transport user.
 
-![Mapping students, HOT, GEOID-COMAPPER, TOMTOM and ex-SEMOVI (Oaxaca) representatives during the award session at Open Data Day 2025.jpg](/uploads/Estudiantes%20mapeadores,%20representantes%20de%20HOT,%20GEOID-COMAPPER,%20TOMTOM%20y%20ex-SEMOVI%20(Oaxaca)%20en%20la%20sesio%CC%81n%20de%20premiacio%CC%81n%20durante%20el%20Open%20Data%20Day%202025.jpg)
+![Mapping students, HOT, GEOID-COMAPPER, TOMTOM and ex-SEMOVI (Oaxaca) representatives during the award session at Open Data Day 2025.jpg](https://cdn.hotosm.org/website/Estudiantes+mapeadores%2C+representantes+de+HOT%2C+GEOID-COMAPPER%2C+TOMTOM+y+ex-SEMOVI+(Oaxaca)%20en%20la%20sesio%CC%81n%20de%20premiacio%CC%81n%20durante%20el%20Open%20Data%20Day%202025.jpg)
 
 > *"I really like mapping. The project was interesting, and it was even better to be able to fulfill my professional integration course with something I'm passionate about.”* — Alexander Burreola, UAEMEX student in Toluca; project volunteer.
 
@@ -64,7 +64,7 @@ Antonio de Jesús, representative of GEOID-Comapper (implementing partner), expl
 
 This mapping process concluded during the celebration of **Open Data Day** at UAEMEX, with an award ceremony recognizing all participants.
 
-![Group photo with student mappers, HOT, GEOID-COMAPPER, TOMTOM and ex-SEMOVI (Oaxaca) representatives at the award ceremony during Open Data Day 2025.jpg](/uploads/Foto%20grupal%20con%20estudiantes%20mapeadores,%20representantes%20de%20HOT,%20GEOID-COMAPPER,%20TOMTOM%20y%20ex-SEMOVI%20(Oaxaca)%20en%20la%20sesio%CC%81n%20de%20premiacio%CC%81n%20durante%20el%20Open%20Data%20Day%202025.jpg)
+![Group photo with student mappers, HOT, GEOID-COMAPPER, TOMTOM and ex-SEMOVI (Oaxaca) representatives at the award ceremony during Open Data Day 2025.jpg](https://cdn.hotosm.org/website/Foto+grupal+con+estudiantes+mapeadores%2C+representantes+de+HOT%2C+GEOID-COMAPPER%2C+TOMTOM+y+ex-SEMOVI+(Oaxaca)%20en%20la%20sesio%CC%81n%20de%20premiacio%CC%81n%20durante%20el%20Open%20Data%20Day%202025.jpg)
 
 *Group photo with student mappers, HOT, GEOID-COMAPPER, TOMTOM and former SEMOVI (Oaxaca) officials during the award ceremony at Open Data Day 2025.*
 

@@ -6,7 +6,7 @@ Summary Text: Explore the potential and current state of the OpenStreetMap (OSM)
   in Haiti and the significant challenges they face. Recommendations for sustainability
   emphasize the need for strong partnerships and annual conferences to support humanitarian
   action and crisis response using open geospatial data.
-Feature Image: "/uploads/HAITI%20OSM%20(1).jpg"
+Feature Image: "https://cdn.hotosm.org/website/HAITI+OSM+(1).jpg"
 Person: Louise Mathurin Serieux
 Country:
 - Haiti
@@ -22,7 +22,7 @@ This blog shares some of the findings of this report which includes recommendati
 
 ## OSM Haiti: a merciless struggle for survival
 
-![HAITI (3).jpg](/uploads/HAITI%20(3).jpg)
+![HAITI (3).jpg](https://cdn.hotosm.org/website/HAITI+(3).jpg)
 
 The report explores the link between the emergence of the first OSM communities in Haiti and the response to the devastating 7.2 magnitude earthquake on January 12, 2010. It highlights the vital role of cartography during this unprecedented crisis and follows the development of this group from young individuals trained by HOT to support effective crisis response through map data usage.
 
@@ -30,7 +30,7 @@ The report explores the link between the emergence of the first OSM communities 
 
 ## The struggle for sustainable communities
 
-![HAITI (4).jpg](/uploads/HAITI%20(4).jpg)
+![HAITI (4).jpg](https://cdn.hotosm.org/website/HAITI+(4).jpg)
 
 The research involved interviewing leaders and members of the OSM community in Haiti to understand their past and current experiences within their organizations and the broader ecosystem. The report discovered that despite the dedicated efforts of community leaders and advocates, they face difficulties in securing the resources necessary to maintain continuity and the desired level of activity for a thriving OSM community.
 
@@ -40,7 +40,7 @@ The research involved interviewing leaders and members of the OSM community in H
 
 ## **The importance of strong partnerships**
 
-![HAITI (5).jpg](/uploads/HAITI%20(5).jpg)
+![HAITI (5).jpg](https://cdn.hotosm.org/website/HAITI+(5).jpg)
 
 The report highlighted the importance of forming partnerships with open source actors and stakeholders to build sustainable OSM communities. It viewed this as a mutually beneficial relationship, where stakeholders who rely on cartographic data recognize the value of continuous collaboration with OSM communities that keep such data updated. By bringing these stakeholders and open source actors together, it fosters networking and mutual understanding. Therefore, the main recommendations of the report included organizing an annual conference focused on humanitarian action, crisis response, cartographic data, and open data, featuring workshops, presentations, and training sessions to facilitate shared experiences.
 

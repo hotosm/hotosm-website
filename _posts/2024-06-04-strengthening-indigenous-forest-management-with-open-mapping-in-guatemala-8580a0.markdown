@@ -4,7 +4,7 @@ date: 2024-06-04 02:07:00 Z
 Summary Text: Explore the transformative impact of the OpenCities project in San José
   Poaquil, Guatemala, where geospatial data and community engagement are enabling
   indigenous forest management, and helping communities adapt to climate change.
-Feature Image: "/uploads/Strengthening%20Indigenous%20Forest%20Management%20with%20Open%20Mapping%20in%20Guatemala-0abff0.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Strengthening+Indigenous+Forest+Management+with+Open+Mapping+in+Guatemala-0abff0.jpg"
 Person: Carlos Duarte
 Country:
 - Guatemala
@@ -14,7 +14,7 @@ Project:
 
 Guatemala is considered the fifth biodiversity hotspot in the world, and their forests are not only a source of diverse habitat and support livelihoods, but are crucial for climate change adaptation and mitigation. Over the years, the biodiversity and the livelihoods have been impacted by the increasing environmental pressures.
 
-![Guatemala Map San José Poaquil - OpenCities Guatemala - Geotecnológica de Centroamérica vF.jpg](/uploads/Guatemala%20Map%20San%20Jose%CC%81%20Poaquil%20-%20OpenCities%20Guatemala%20-%20Geotecnolo%CC%81gica%20de%20Centroame%CC%81rica%20vF.jpg)
+![Guatemala Map San José Poaquil - OpenCities Guatemala - Geotecnológica de Centroamérica vF.jpg](https://cdn.hotosm.org/website/Guatemala+Map+San+Jose%CC%81+Poaquil+-+OpenCities+Guatemala+-+Geotecnolo%CC%81gica+de+Centroame%CC%81rica+vF.jpg)
 
 The [OpenCities project in San José Poaquil](https://www.hotosm.org/projects/opencities-guatemala-EN/), spearheaded by the [Latin America and the Caribbean Open Mapping Hub (LAC Hub)](https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/), has played a pivotal role in enhancing community forest management by using geospatial data and encouraging active indigenous community participation. Through capacity building and detailed mapping, the project has provided valuable insights into the communal forest's various layers, natural and cultural values, and threats like deforestation, illegal extraction, and forest fires.
 
@@ -42,7 +42,7 @@ The project anticipates that the production of basic cartography to formulate a 
 
 One of the significant challenges of this project is the level of interaction with the local culture and traditional knowledge for forest management. From the beginning of the project, efforts were made to build a strong relationship with the local ancestral authorities, who were included in the decision-making and project strategy design from the very inception stage, providing valuable feedback on how to interact with people, and on use of local languages as a mark of respect to their culture and knowledge. Furthermore, the community forest management plan that the community is currently developing incorporates the principles of ancestral knowledge for forest management and combines them with modern techniques of forestry and forest conservation.
 
-![Brotherhood of the town of San José Poaquil - OpenCities Guatemala - Geotecnológica de Centroamérica.jpg](/uploads/Brotherhood%20of%20the%20town%20of%20San%20Jose%CC%81%20Poaquil%20-%20OpenCities%20Guatemala%20-%20Geotecnolo%CC%81gica%20de%20Centroame%CC%81rica.jpg)
+![Brotherhood of the town of San José Poaquil - OpenCities Guatemala - Geotecnológica de Centroamérica.jpg](https://cdn.hotosm.org/website/Brotherhood+of+the+town+of+San+Jose%CC%81+Poaquil+-+OpenCities+Guatemala+-+Geotecnolo%CC%81gica+de+Centroame%CC%81rica.jpg)
 
 In order to ensure long-term sustainability of the project's achievements several strategies were implemented: only open-source software tools were used in all project phases, including the development of mobile applications and the design of the project's data visualization web platform, in order to avoid the need to purchase software in the future that could threaten continuity.
 
@@ -50,7 +50,7 @@ A governance and support mechanism was developed in which our local partner, [Fu
 
 # Successes and Future Prospects
 
-![Brotherhood of the town of San José Poaquil - OpenCities Guatemala - Geotecnológica de Centroamérica vF.jpg](/uploads/Brotherhood%20of%20the%20town%20of%20San%20Jose%CC%81%20Poaquil%20-%20OpenCities%20Guatemala%20-%20Geotecnolo%CC%81gica%20de%20Centroame%CC%81rica%20vF.jpg)
+![Brotherhood of the town of San José Poaquil - OpenCities Guatemala - Geotecnológica de Centroamérica vF.jpg](https://cdn.hotosm.org/website/Brotherhood+of+the+town+of+San+Jose%CC%81+Poaquil+-+OpenCities+Guatemala+-+Geotecnolo%CC%81gica+de+Centroame%CC%81rica+vF.jpg)
 
 While the project was very successful, it also faced significant execution challenges. Coordination of activities due to reduced time commitment from local authorities and project participants led to significant delays. Political activities and elections also added to the challenge in securing time and participation of local participants.
 
@@ -64,4 +64,4 @@ San José Poaquil’s experience highlights the importance of blending ancestral
 
 ## This blog was written by:
 
-![Carlos Duarte - OpenCities Guatemala - Geotecnológica de Centroamérica.jpg](/uploads/Carlos%20Duarte%20-%20OpenCities%20Guatemala%20-%20Geotecnolo%CC%81gica%20de%20Centroame%CC%81rica.jpg)
+![Carlos Duarte - OpenCities Guatemala - Geotecnológica de Centroamérica.jpg](https://cdn.hotosm.org/website/Carlos+Duarte+-+OpenCities+Guatemala+-+Geotecnolo%CC%81gica+de+Centroame%CC%81rica.jpg)

@@ -14,7 +14,7 @@ Summary Text: The escalation of the Lebanon conflict in October 2024 left a deva
 <br>
 
 <div style="text-align: center;">
-    <img src="/uploads/h3_hexbins_lebanon.png" alt="Count of likely damaged or destroyed buildings" style="width: 90%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/h3_hexbins_lebanon.png" alt="Count of likely damaged or destroyed buildings" style="width: 90%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Description
         <a href="link">Link</a> 
@@ -58,7 +58,7 @@ The RDNA report emphasizes the importance of community engagement and local capa
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/Southern_Lebanon_coastal_plain.jpg" alt="Panoramic view of the Lebanese coastal plain" style="width: 85%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/Southern_Lebanon_coastal_plain.jpg" alt="Panoramic view of the Lebanese coastal plain" style="width: 85%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         A panoramic view of the Lebanese coastal plain from Ras el-Bayyada, showcasing its agricultural use and sandy beaches, which are vital for endangered turtle species. Date: 14 June 2024 | Source: Own work | Author: Osmhsn2004 | Camera location: 33° 09′ 48.85″ N, 35° 10′ 54.98″ E | 
         <a href="https://commons.wikimedia.org/wiki/File:Southern_Lebanon_coastal_plain.jpg">View on Wikimedia Commons</a>.
@@ -89,7 +89,7 @@ If you are interested in volunteering, partnering, or supporting our work in Leb
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/h3_hexbins_lebanon.png" alt="Count of likely damaged or destroyed buildings" style="width: 90%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/h3_hexbins_lebanon.png" alt="Count of likely damaged or destroyed buildings" style="width: 90%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Description
         <a href="link">Link</a> 
@@ -101,7 +101,7 @@ If you are interested in volunteering, partnering, or supporting our work in Leb
 
 <br>
 
-<img src="/uploads/saidSAK_4.png" alt="Description of the image" style="width: 100%; height: auto;">
+<img src="https://cdn.hotosm.org/website/saidSAK_4.png" alt="Description of the image" style="width: 100%; height: auto;">
 <br>
 
 

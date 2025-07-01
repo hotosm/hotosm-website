@@ -8,7 +8,7 @@ Summary Text: Docentes del Tec de Monterrey se capacitaron en herramientas de ma
   usando plataformas como OpenStreetMap, Mapillary y uMap. El taller fortaleció su
   rol como agentes de cambio, promoviendo el mapeo colaborativo como herramienta para
   la acción territorial y la justicia social.
-Feature Image: "/uploads/Taller%20Docentes%20Mapeo%20Abierto%20Tec%20de%20Monterrey%20Quere%CC%81taro%203.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Taller+Docentes+Mapeo+Abierto+Tec+de+Monterrey+Quere%CC%81taro+3.jpg"
 Person: Mariana Marín
 Country:
 - Mexico
@@ -34,13 +34,13 @@ El curso se estructuró en tres jornadas intensivas con sesiones teóricas y pr�
 
 Los docentes exploraron el concepto de ciencia ciudadana y cómo los mapas han evolucionado en herramientas clave para la toma de decisiones en crisis humanitarias y proyectos de desarrollo. Se introdujo OpenStreetMap (OSM) y HOT, destacando casos de éxito en su aplicación para derechos humanos y acción social. Además, se realizó un taller práctico sobre el editor iD para mapear elementos básicos en la plataforma.
 
-![CADi de Mapeo Abierto a Docentes del Tec de Monterrey, Campus Querétaro 2.jpg](/uploads/CADi%20de%20Mapeo%20Abierto%20a%20Docentes%20del%20Tec%20de%20Monterrey,%20Campus%20Quere%CC%81taro%202.jpg)
+![CADi de Mapeo Abierto a Docentes del Tec de Monterrey, Campus Querétaro 2.jpg](https://cdn.hotosm.org/website/CADi+de+Mapeo+Abierto+a+Docentes+del+Tec+de+Monterrey%2C+Campus+Quere%CC%81taro+2.jpg)
 
 ### **Día 2: Herramientas avanzadas y gestión de proyectos de mapeo**
 
 El segundo día se enfocó en la calidad de los datos geoespaciales, el uso del Tasking Manager para coordinar proyectos de mapeo colaborativo, y la introducción a herramientas como MapRoulette para la corrección de datos en OSM. Los participantes aprendieron a descargar y aplicar datos de OSM en proyectos educativos y exploraron aplicaciones como Kobo Toolbox, Mapillary y Organic Maps.
 
-![CADi de Mapeo Abierto a Docentes del Tec de Monterrey, Campus Querétaro.jpg](/uploads/CADi%20de%20Mapeo%20Abierto%20a%20Docentes%20del%20Tec%20de%20Monterrey,%20Campus%20Quere%CC%81taro.jpg)
+![CADi de Mapeo Abierto a Docentes del Tec de Monterrey, Campus Querétaro.jpg](https://cdn.hotosm.org/website/CADi+de+Mapeo+Abierto+a+Docentes+del+Tec+de+Monterrey%2C+Campus+Quere%CC%81taro.jpg)
 
 ### Día 3: Aplicación práctica y mapeo comunitario
 
@@ -50,7 +50,7 @@ Durante la jornada, se enfatizaron estrategias para integrar el mapeo en la curr
 
 Finalmente, los docentes participaron en una dinámica de co-creación donde diseñaron proyectos de impacto social basados en mapeo abierto. La ideación de los proyectos se comparte a continuación.
 
-![CADi de Mapeo Abierto a Docentes del Tec de Monterrey, Campus Querétaro 3.jpg](/uploads/CADi%20de%20Mapeo%20Abierto%20a%20Docentes%20del%20Tec%20de%20Monterrey,%20Campus%20Quere%CC%81taro%203.jpg)
+![CADi de Mapeo Abierto a Docentes del Tec de Monterrey, Campus Querétaro 3.jpg](https://cdn.hotosm.org/website/CADi+de+Mapeo+Abierto+a+Docentes+del+Tec+de+Monterrey%2C+Campus+Quere%CC%81taro+3.jpg)
 
 ## Ideas que transforman: proyectos de mapeo nacidos en el taller
 
@@ -64,7 +64,7 @@ La metodología propuesta emplea técnicas de mapeo abierto como recorridos urba
 
 El resultado esperado es la creación de un atlas permanente de la zona, con datos que permitan visualizar aspectos sociales, económicos y ambientales. Además, el proyecto busca fomentar la participación de la comunidad en la toma de decisiones sobre su entorno.
 
-![Taller Docentes Mapeo Abierto.jpg](/uploads/Taller%20Docentes%20Mapeo%20Abierto.jpg)
+![Taller Docentes Mapeo Abierto.jpg](https://cdn.hotosm.org/website/Taller+Docentes+Mapeo+Abierto.jpg)
 
 ### Mapeo de economías circulares y solidarias en Querétaro
 
@@ -74,7 +74,7 @@ Dentro de la metodología, se propone recopilar datos de unidades económicas re
 
 El proyecto propone contribuir a fortalecer redes comunitarias y facilitará el acceso a estos espacios por parte de la población. También se espera que los datos generados ayuden a desarrollar estrategias de economía circular a nivel municipal.
 
-![Taller Docentes Mapeo Abierto Tec de Monterrey Querétaro Economías.jpg](/uploads/Taller%20Docentes%20Mapeo%20Abierto%20Tec%20de%20Monterrey%20Quere%CC%81taro%20Economi%CC%81as.jpg)
+![Taller Docentes Mapeo Abierto Tec de Monterrey Querétaro Economías.jpg](https://cdn.hotosm.org/website/Taller+Docentes+Mapeo+Abierto+Tec+de+Monterrey+Quere%CC%81taro+Economi%CC%81as.jpg)
 
 ### Mapeo de expresiones culturales en contextos urbanos diversos
 
@@ -84,7 +84,7 @@ El proyecto propone diseñar recorridos estratégicos donde se capturarán datos
 
 Finalmente, dentro del impacto se sugiere generar un archivo visual y georreferenciado de expresiones culturales urbanas, proporcionando insumos para futuras investigaciones y estrategias de conservación patrimonial.
 
-![Taller Docentes Mapeo Abierto Tec de Monterrey Querétaro.jpg](/uploads/Taller%20Docentes%20Mapeo%20Abierto%20Tec%20de%20Monterrey%20Quere%CC%81taro.jpg)
+![Taller Docentes Mapeo Abierto Tec de Monterrey Querétaro.jpg](https://cdn.hotosm.org/website/Taller+Docentes+Mapeo+Abierto+Tec+de+Monterrey+Quere%CC%81taro.jpg)
 
 ### Mapeo de brechas de aprendizaje digital en comunidades desatendidas
 
@@ -96,7 +96,7 @@ Los resultados del mapeo ayudarán a generar estrategias de mejora en infraestru
 
 ## Aprendizajes
 
-![Taller Docentes Mapeo Abierto Tec de Monterrey Querétaro 2.jpg](/uploads/Taller%20Docentes%20Mapeo%20Abierto%20Tec%20de%20Monterrey%20Quere%CC%81taro%202.jpg)
+![Taller Docentes Mapeo Abierto Tec de Monterrey Querétaro 2.jpg](https://cdn.hotosm.org/website/Taller+Docentes+Mapeo+Abierto+Tec+de+Monterrey+Quere%CC%81taro+2.jpg)
 
 El taller permitió a las personas docentes no solo adquirir habilidades técnicas en mapeo abierto, sino también visualizar el impacto que estas herramientas pueden tener en la enseñanza y la transformación social. Desde las aulas, los docentes se consolidan como agentes clave para expandir la cultura del mapeo abierto, promoviendo su uso como una herramienta de fortalecimiento y participación comunitaria.
 

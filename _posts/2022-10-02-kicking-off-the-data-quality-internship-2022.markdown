@@ -54,7 +54,7 @@ My Professional  mapping experience 
 
 Through this program I would like to improve my knowledge of OpenStreetMap data validation and quality control tools and share this knowledge with other contributors so that together we can contribute to the quality of OSM data and it can be used effectively for community development.
 
-![Eray_Öztürk 4x4.jpg](/uploads/Eray_O%CC%88ztu%CC%88rk%204x4.jpg)
+![Eray_Öztürk 4x4.jpg](https://cdn.hotosm.org/website/Eray_O%CC%88ztu%CC%88rk+4x4.jpg)
 
 **Eray Öztürk**
 

@@ -5,7 +5,7 @@ Summary Text: Através do programa Open Mapping for All, docentes e estudantes d
   instituição educativa na Patagônia Argentina, empregam ferramentas de Mapeamento
   Aberto para documentar, reconhecer e melhorar a infraestrutura física escolar, ao
   mesmo tempo que se conectam com seu entorno e seus valores culturais.
-Feature Image: "/uploads/Experiencias%20de%20Mapeo%20Abierto%20en%20el%20Centro%20de%20Educacio%CC%81n%20Integral%20%E2%80%9CSan%20Ignacio%E2%80%9D.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Experiencias+de+Mapeo+Abierto+en+el+Centro+de+Educacio%CC%81n+Integral+%E2%80%9CSan+Ignacio%E2%80%9D.jpg"
 Person: Luis Miguel Bande Jaramillo
 Country:
 - Argentina
@@ -23,7 +23,7 @@ Nossa história se desenvolve em um contexto enriquecido pela natureza agreste e
 
 # Resolvendo Problemas de Infraestrutura Escolar com Mapeamento Aberto
 
-![1.jpg](/uploads/1.jpg)
+![1.jpg](https://cdn.hotosm.org/website/1.jpg)
 
 Desde o final de 2022 até meados de fevereiro de 2023, foram realizadas uma série de reuniões para coordenar atividades entre a equipe do Humanitarian OpenStreetMap Team (HOT) e o CEI. Além disso, foram realizados workshops para capacitar diferentes professores da escola no uso de ferramentas de mapeamento aberto disponíveis, como Editor e UMap.
 
@@ -39,7 +39,7 @@ Em fevereiro de 2024, um cano de gás foi quebrado devido ao desconhecimento de 
 
 # Conectando com o Ambiente e os Valores Culturais através do Mapeamento Aberto
 
-![2.jpg](/uploads/2.jpg)
+![2.jpg](https://cdn.hotosm.org/website/2.jpg)
 
 O mapeamento aberto não só resolveu problemas dentro da própria instituição, mas também permitiu que os alunos documentassem problemas sociais e interesses pessoais e educacionais. De fins de janeiro a fevereiro de 2024, foram realizados workshops para os alunos do quarto e quinto anos do Ensino Médio, muitos dos quais decidiram mapear suas localidades, áreas remotas e comunidades de origem, como Aucapán, Chiquilihuín, Atreuco, Espinazo del Zorro, Añelo, Paso Aguerre, Trompul, Laguna Blanca e Villa del Puente Picún Leufú. Um aluno de Naupa Huen, uma pequena localidade em Rio Negro, decidiu mapear sua comunidade invisível nos mapas, demonstrando o poder do mapeamento como uma ferramenta de visibilidade.
 
@@ -49,7 +49,7 @@ Yamila, uma aluna de Paso Aguerre, mapeou sua área para planejar futuros canais
 
 Outro exemplo foi vivido por María e Trinidad, amigas e alunas do quinto ano. Ambas são oriundas de Laguna Blanca, uma área remota no centro da Província de Neuquén, dentro do Parque Nacional Laguna Blanca. Muitos dos habitantes são Mapuches ancestrais que praticam a pecuária transumante. É uma região extensa e inóspita, onde as casas dos moradores estão muito distantes umas das outras. María e Trinidad criaram um mapa exaustivo, onde não deixaram nenhum edifício sem referência geográfica, empregando uma grande variedade de etiquetas. O trabalho delas não terminou aí, pois continuaram com as mesmas tarefas na área da Villa del Puente Picún Leufú, onde mapearam mais edifícios. Isso mostra que muitas localidades merecem ser localizadas para deixar de ser "invisíveis" para o mundo.
 
-![4-1902d9.jpg](/uploads/4-1902d9.jpg)
+![4-1902d9.jpg](https://cdn.hotosm.org/website/4-1902d9.jpg)
 
 Outros alunos conectaram o uso do Mapeamento Aberto com diversas experiências. Segundo, aluno do quarto ano de Pilo Lil, dedicou-se a mapear as belezas paisagísticas de sua propriedade familiar, que inclui uma caverna com geoformas e arte rupestre de 500 anos de antiguidade. Utilizando o UMap, criou um mapa interativo sobre os passeios a cavalo que sua família oferece.
 
@@ -67,7 +67,7 @@ Esses exemplos destacam as experiências de aprendizado com Mapeamento Aberto no
 
 # A Utilidade das Ferramentas de Mapeamento Aberto
 
-![3.jpg](/uploads/3.jpg)
+![3.jpg](https://cdn.hotosm.org/website/3.jpg)
 
 Os alunos e professores utilizaram diversas ferramentas digitais para documentar a experiência, garantindo que todos os aspectos relacionados às suas preocupações fossem capturados e que pudessem coletar todos os dados necessários para elaborar seus mapas. E, embora muitas das aplicações já tenham sido mencionadas ao longo deste relato, é importante resumi-las a seguir.
 
@@ -89,7 +89,7 @@ Estas foram as ferramentas utilizadas:
 
 # Reflexões sobre o Aprendizado utilizando o Mapeamento Aberto
 
-![5.jpg](/uploads/5.jpg)
+![5.jpg](https://cdn.hotosm.org/website/5.jpg)
 
 As ferramentas de Mapeamento Aberto oferecem aos alunos e professores a oportunidade de realizar contribuições significativas para os mapas já estabelecidos, tornando-se um recurso pedagógico inovador e rentável. Essas ferramentas reduzem custos em comparação com opções mais caras. A maior vantagem reside no fato de que os usuários, ao conhecerem perfeitamente a área mapeada, podem enriquecer os mapas com informações precisas, que posteriormente serão validadas por especialistas.
 
@@ -97,4 +97,4 @@ Essas ferramentas digitais facilitam o armazenamento, organização e coleta de 
 
 ## Este blog foi escrito por:
 
-![PT - Luis MIguel Bande Jaramillo.jpg](/uploads/PT%20-%20Luis%20MIguel%20Bande%20Jaramillo.jpg)
+![PT - Luis MIguel Bande Jaramillo.jpg](https://cdn.hotosm.org/website/PT+-+Luis+MIguel+Bande+Jaramillo.jpg)

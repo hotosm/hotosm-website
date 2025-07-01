@@ -7,8 +7,8 @@ Project Summary Text: The Humanitarian Mapping Brigade, led by HOT and the LAC H
   specialized, timely mapping efforts. Its goal is to provide reliable data for better
   disaster preparedness and to promote a robust culture of humanitarian mapping in
   the region.
-Feature Image: "/uploads/Humanitarian%20Mapping%20Brigade%20-%20HOT%20-%20LAC%20Hub.jpg"
-Project Logo Image: "/uploads/Humanitarian%20Mapping%20Brigade.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Humanitarian+Mapping+Brigade+-+HOT+-+LAC+Hub.jpg"
+Project Logo Image: "https://cdn.hotosm.org/website/Humanitarian+Mapping+Brigade.jpg"
 Country:
 - Argentina
 - Brazil
@@ -36,7 +36,7 @@ The Brigade will act under specific circumstances, deploying to support collabor
 
 The Humanitarian Mapping Brigade project has made significant progress, refining its goals and working methods. At the end of 2023, a pilot phase was implemented with seven members of YouthMappers to complete projects during the [First Risk Management Mapathon 2023 in Ecuador](https://www.hotosm.org/updates/de-la-reaccion-a-la-prevencion-mapeo-de-riesgos-en-ecuador/), managing to finish projects in just over a month. Subsequently, the team expanded to 31 members selected for their advanced experience in mapping on OpenStreetMap, participation in projects of the Humanitarian OpenStreetMap Team, and proficiency in the JOSM tool, covering the needs of all of Latin America and the Caribbean.
 
-![Brigade EN.jpg](/uploads/Brigade%20EN.jpg)
+![Brigade EN.jpg](https://cdn.hotosm.org/website/Brigade+EN.jpg)
 
 ## APPROACH
 Mapper selection for the humanitarian brigade prioritized individuals with extensive and proven experience in mapping within the OpenStreetMap platform. Active participation in projects backed by the Humanitarian OpenStreetMap Team (HOT), utilizing the Tasking Manager and other tools provided by the organization, was also highly valued.

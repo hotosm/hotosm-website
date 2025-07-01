@@ -9,7 +9,7 @@ Summary Text: Em 27 de abril de 2024, a represa hidrelétrica de 14 de julho col
   e negociando o acesso a imagens pós-desastre. Este esforço, em colaboração com o
   Banco Interamericano de Desenvolvimento (BID), focou em criar dados geográficos
   de alta qualidade e desenvolver ferramentas úteis para a recuperação.
-Feature Image: "/uploads/Porto%20Alegre%20Floods%20-%20Enchentes%20BID%20-%20HOT%20Response.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg"
 Person:
 - Mariana Marín
 - Céline Jacquin
@@ -27,7 +27,7 @@ Este evento marcou o segundo desastre significativo em menos de um ano para o es
 
 Em 9 de maio de 2024, em resposta a este desastre, o Hub de Mapeamento Aberto na América Latina e no Caribe (LAC Hub) lançou uma ativação para apoiar os esforços de resposta, impulsionada por conversas com a comunidade OSM Brasil. A iniciativa contou com a solidariedade de comunidades mapeadoras de diversas universidades, da Brigada Humanitária de Mapeamento, de diversos capítulos do Youthmappers: Youthmappers UERGS, Youthmappers UFRJ, Mapeadores Livres UFPR e Youthmappers UFV, além de outros mapeadores independentes.
 
-![Edificações.jpg](/uploads/Edificac%CC%A7o%CC%83es.jpg)
+![Edificações.jpg](https://cdn.hotosm.org/website/Edificac%CC%A7o%CC%83es.jpg)
 
 *uMap realizado pela equipe da HOT para visualizar edifícios mapeados e construções destruídas.*
 
@@ -40,7 +40,7 @@ De 15 de junho a 15 de julho de 2024, o LAC Hub colaborou com o Banco Interameri
 A equipe da HOT, liderada por Céline Jacquin, Everton Bortollini e Juan Melo, desenvolveu uma metodologia de pesquisa para diagnosticar os danos às instalações públicas e sociais. Esta ferramenta foi co-desenvolvida com funcionários locais e engenheiros civis do BID para obter informações úteis tanto para o governo municipal quanto para os financiadores. Os danos são significativos, com edifícios submersos até três metros por mais de um mês, causando danos materiais e estruturais severos e perdas totais em muitos casos.
 
 Céline enfatizou a importância de organizar as informações para priorizar as ações necessárias:
-![Porto Alegre - Misión BID - HOT - Triage - PT.jpg](/uploads/Porto%20Alegre%20-%20Misio%CC%81n%20BID%20-%20HOT%20-%20Triage%20-%20PT.jpg)
+![Porto Alegre - Misión BID - HOT - Triage - PT.jpg](https://cdn.hotosm.org/website/Porto+Alegre+-+Misio%CC%81n+BID+-+HOT+-+Triage+-+PT.jpg)
 
 Durante as visitas a clínicas, escolas, instalações esportivas e centros de triagem, a equipe pôde observar o impacto das enchentes, que duraram entre 30 e 40 dias, criando condições insalubres e danos estruturais significativos. A prefeitura está publicando dados georreferenciados em sua infraestrutura de dados espaciais, centralizando as informações de cada secretaria para disponibilizá-las tanto para a população quanto para a administração municipal. Isso permitirá uma melhor coordenação e resposta em futuros eventos de emergência.
 

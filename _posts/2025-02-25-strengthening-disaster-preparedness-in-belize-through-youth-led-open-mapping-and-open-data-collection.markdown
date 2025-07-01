@@ -9,7 +9,7 @@ Summary Text: A cohort of 30 young volunteers in Belize was trained in open data
   strengthens local capacity for disaster risk reduction and anticipatory action.
   This successful pilot sets the stage for scaling up open mapping efforts across
   the Caribbean.
-Feature Image: "/uploads/Emergency%20Resource%20Mapping%20in%20Corozal,%20Belize%20%201.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Emergency+Resource+Mapping+in+Corozal,+Belize++1.jpg"
 Person:
 - Arnelle Isaac
 - Fabrizio Scrollini
@@ -25,7 +25,7 @@ The Emergency Resources Mapping project was conducted primarily in partnership w
 
 As HOT continues expanding its presence in the Caribbean, it recognizes that regional and local partnerships—such as those with CDEMA, NEMO, and other organizations—are critical for strengthening education on DRR and DRM. This project aims to train relevant stakeholders on open data and mapping for anticipatory action and emergency response. The primary outcome is a comprehensive map/database of emergency resources within the implementing countries, which will be shared with stakeholders to enhance disaster preparedness while identifying gaps and needs.
 
-![Emergency Resource Mapping in Corozal, Belize 6.jpg](/uploads/Emergency%20Resource%20Mapping%20in%20Corozal,%20Belize%206.jpg)
+![Emergency Resource Mapping in Corozal, Belize 6.jpg](https://cdn.hotosm.org/website/Emergency+Resource+Mapping+in+Corozal,+Belize+6.jpg)
 
 ## **Implementing the Pilot in Belize**
 
@@ -43,7 +43,7 @@ A cadre of 30 young volunteers was trained in open-source data collection and ma
 
 One of the participants, Jessie, Galen University Student, reflected on the training’s impact: *"This GIS training has given me a new perspective. When you’re out in the field, you see things at ground level. But through GIS mapping, you gain a bird’s-eye view, allowing for better visualization and strategic response planning."*
 
-![Emergency Resource Mapping in Corozal, Belize  2.jpg](/uploads/Emergency%20Resource%20Mapping%20in%20Corozal,%20Belize%20%202.jpg)
+![Emergency Resource Mapping in Corozal, Belize  2.jpg](https://cdn.hotosm.org/website/Emergency+Resource+Mapping+in+Corozal,+Belize++2.jpg)
 
 ## **Mapping Critical Resources for Disaster Preparedness**
 
@@ -61,7 +61,7 @@ Beyond training, the HOT team also visited several communities that are highly s
 
 This experience further cemented HOT’s commitment to supporting NEMO Belize in future projects. Discussions are already underway with additional partners to scale up the initiative.
 
-![Emergency Resource Mapping in Corozal, Belize 4.jpg](/uploads/Emergency%20Resource%20Mapping%20in%20Corozal,%20Belize%204.jpg)
+![Emergency Resource Mapping in Corozal, Belize 4.jpg](https://cdn.hotosm.org/website/Emergency+Resource+Mapping+in+Corozal,+Belize+4.jpg)
 
 ## **Looking Ahead**
 

@@ -1,7 +1,7 @@
 ---
 title: HOT's statement on the one-year anniversary of the war in Sudan
 date: 2024-04-15 18:00:00 Z
-Feature Image: "/uploads/Sudan%20(1400%20x%20788%20px).jpg"
+Feature Image: "https://cdn.hotosm.org/website/Sudan+(1400+x+788+px).jpg"
 ---
 
 Today marks the one-year anniversary of the start of the war in Sudan. The conflict has resulted in more than [14,000 lost lives](https://acleddata.com/2024/03/15/sudan-situation-update-march-2024-sudan-escalating-conflict-in-khartoum-and-attacks-on-civilians-in-al-jazirah-and-south-kordofan/), 8 million people displaced internally and outside of its borders, and nearly 28 million people facing acute food insecurity, [as stated by senior United Nations officials](https://press.un.org/en/2024/sc15634.doc.htm). Sadly, this is not the only case, as recent conflicts around the world have impacted millions of people who face deteriorating humanitarian conditions in Haiti, Gaza, Ethiopia, Yemen, and more. 

@@ -66,7 +66,7 @@ El proyecto fomentó colaboraciones con organizaciones locales, como [YouthMappe
 
 ## **RESULTADO E IMPACTO**
 
-![Jessi de los Ríos - San Antonio de Prado.jpg](/uploads/Jessi%20de%20los%20Ri%CC%81os%20-%20San%20Antonio%20de%20Prado.jpg)
+![Jessi de los Ríos - San Antonio de Prado.jpg](https://cdn.hotosm.org/website/Jessi+de+los+Ri%CC%81os+-+San+Antonio+de+Prado.jpg)
 *Foto: Yessi de los Ríos capacitando a participantes.*
 
 La iniciativa involucró efectivamente a la comunidad en actividades de mapeo, recopilando datos cruciales sobre las amenazas de deslizamientos de tierra y actualizando información geoespacial. El mapeo con drones proporcionó una ortofoto precisa, mejorando nuestra comprensión de la topografía local y la susceptibilidad a los deslizamientos de tierra. Los miembros de la comunidad participaron activamente en talleres y tareas de mapeo, contribuyendo a un enfoque colaborativo para la gestión del riesgo de desastres. Las lecciones aprendidas incluyen la importancia de adaptar herramientas a las condiciones locales y la necesidad de una participación continua de la comunidad.

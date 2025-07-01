@@ -1,7 +1,7 @@
 ---
 title: Arnalie Vicario
 date: 2024-08-19 12:43:00 Z
-Photo: "/uploads/arnalie_headshot2024.jpg"
+Photo: "https://cdn.hotosm.org/website/arnalie_headshot2024.jpg"
 Member Type:
   Is Voting Member: true
 Country: Philippines

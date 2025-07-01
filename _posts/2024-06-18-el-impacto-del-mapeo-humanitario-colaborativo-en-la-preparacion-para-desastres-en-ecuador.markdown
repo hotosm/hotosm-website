@@ -6,7 +6,7 @@ Summary Text: El mapeo humanitario colaborativo mejora la gestión del riesgo en
   Latina y el Caribe, como demostró la rápida respuesta ante las inundaciones en Esmeraldas,
   Ecuador. La colaboración y los datos abiertos fueron clave para decisiones informadas
   y eficaces.
-Feature Image: "/uploads/Ecuador%20Terremoto%202016%20-%20Mapeo%20Humanitario%20LAC%20Hub%20-%20HOTOSM.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Ecuador+Terremoto+2016+-+Mapeo+Humanitario+LAC+Hub+-+HOTOSM.jpg"
 Person:
 - Céline Jacquin
 - Mariana Marín
@@ -24,7 +24,7 @@ En junio de 2023, en respuesta a las alertas de la comunidad OSM de Ecuador sobr
 
 La Secretaría de Gestión de Riesgos de Ecuador mostró interés, y el [mapeo colaborativo en Esmeraldas](https://www.hotosm.org/updates/El-mapeo-como-respuesta-al-desastre-en-Esmeraldas-Ecuador/) demostró la eficacia del trabajo conjunto. En pocas semanas, se movilizó a la comunidad de OSM de América Latina para cartografiar el área afectada, aunque algunas partes residuales quedaron sin mapear, algo común en situaciones de este tipo, especialmente en zonas urbanas densas.
 
-![Activación en Ecuador.gif](/uploads/Activacio%CC%81n%20en%20Ecuador.gif)\
+![Activación en Ecuador.gif](https://cdn.hotosm.org/website/Activacio%CC%81n+en+Ecuador.gif)\
 *Imagen de Cube antes/después de Activación*
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcFuLBljrGkgl8VMi3RFQo_2Xk97xf3Mf4jdf4DPZNy-iwutE9y_yZR2pVXZ-t-ZJLr4jyo5kc-owun6PFOSPeDAxR6PAbXmQdZlc3jLfegfguiwsNOOg6PeCTJuc5Eduh6VZ-E-alLlS_7Es57CZ38VqQo?key=KoQAk8FtBfpNmYxNDEnjfA)\
@@ -68,9 +68,9 @@ La experiencia fue una demostración de cómo la colaboración entre diferentes 
 
 ## Resultados
 
-![MapSwipe.jpg](/uploads/MapSwipe.jpg)
+![MapSwipe.jpg](https://cdn.hotosm.org/website/MapSwipe.jpg)
 
-![Tasking Manager-35688b.jpg](/uploads/Tasking%20Manager-35688b.jpg)
+![Tasking Manager-35688b.jpg](https://cdn.hotosm.org/website/Tasking+Manager-35688b.jpg)
 
 Estos datos corresponden a **tres pueblos**, **42 villas** y **368 centros poblados mapeados**.
 

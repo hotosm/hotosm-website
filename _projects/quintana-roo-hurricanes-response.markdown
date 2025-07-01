@@ -4,7 +4,7 @@ date: 2024-07-02 04:02:00 Z
 Project Summary Text: Tropical Storm Alberto and Hurricane Beryl have caused significant
   disruptions in the Caribbean and South Mexico, prompting authorities to activate
   emergency shelters, and anticipatory mapping of the damages.
-Feature Image: "/uploads/Huracanes%20Alberto%20y%20Beryl%20-%20Mapeo%20de%20Refugios%20en%20Quintana%20Roo.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Huracanes+Alberto+y+Beryl+-+Mapeo+de+Refugios+en+Quintana+Roo.jpg"
 Country:
 - Mexico
 Impact Area:

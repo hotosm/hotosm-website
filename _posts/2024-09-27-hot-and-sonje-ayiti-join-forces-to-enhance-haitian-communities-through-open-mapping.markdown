@@ -7,7 +7,7 @@ Summary Text: HOT and Sonje Ayiti Organisation are enhancing Haitian communities
   mapping skills, enabling them to contribute to disaster management and development
   efforts. Through this initiative, a new generation of mappers is being cultivated,
   enhancing community resilience amid Haiti’s socio-political challenges.
-Feature Image: "/uploads/Sonje%20Ayiti%20Organization%20Open%20Mapping%20Haiti%20HOT%202.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Sonje+Ayiti+Organization+Open+Mapping+Haiti+HOT+2.jpg"
 Person: Wendy Delva
 ---
 
@@ -21,7 +21,7 @@ Between July 2023 and February 2024, HOT funded a report on the state of communi
 
 # **Training the Next Generation of Mappers**
 
-![Haiti - HOT - Sonje Ayiti Organization.jpg](/uploads/Haiti%20-%20HOT%20-%20Sonje%20Ayiti%20Organization.jpg)
+![Haiti - HOT - Sonje Ayiti Organization.jpg](https://cdn.hotosm.org/website/Haiti+-+HOT+-+Sonje+Ayiti+Organization.jpg)
 
 The week-long OSM training, funded by HOT, focused on students from the Faculty of Earth and Environmental Sciences and Territorial Planning at the Henri Christophe Campus in Limonade. These students, nearing graduation, face the challenge of entering a workforce shaped by Haiti's tough socio-economic conditions. Sonje Ayiti recruited around twenty eager students, offering them a unique opportunity to gain practical skills in open-source mapping. The training sparked enthusiasm, with students engaging in lively discussions and hands-on activities, equipping them for future roles in disaster management, urban planning, and development.
 
@@ -29,7 +29,7 @@ The training, led by seasoned OSM trainer Wendy Delva, focused on hands-on learn
 
 # **Feedback and Reflections from the Participants**
 
-![Sonje Ayiti Organization Open Mapping Haiti HOT.jpg](/uploads/Sonje%20Ayiti%20Organization%20Open%20Mapping%20Haiti%20HOT.jpg)
+![Sonje Ayiti Organization Open Mapping Haiti HOT.jpg](https://cdn.hotosm.org/website/Sonje+Ayiti+Organization+Open+Mapping+Haiti+HOT.jpg)
 
 The participants' reflections on the OSM training emphasize the transformative impact it had on their skills and perspectives. Many began with limited knowledge or interest in mapping, but by the end, they felt empowered and eager to continue contributing to the field. Their feedback highlights the importance of practical, engaging instruction and the potential for these new skills to make a meaningful difference locally and globally.
 
@@ -47,7 +47,7 @@ Jude Mania, a finishing student in Geography and Regional Planning (CHCL-UEH), e
 
 # **Informed Facilitators, for Support Adapted to the Learning Environment**
 
-![HAITI.jpg](/uploads/HAITI.jpg)
+![HAITI.jpg](https://cdn.hotosm.org/website/HAITI.jpg)
 
 The success of the OSM training was not only a result of the participants' enthusiasm but also the dedicated support from a team of skilled facilitators. Four professionals—Kedy César (Computer Engineer, SAO), Michelin Etienne (Sociologist, SAO), Réginald Sterlin (Cartographer, COSMHANNE), and Westner Turenne (Cartographer, COSMHANNE)—played a pivotal role in making the sessions engaging and impactful. Their expertise ensured that participants could fully benefit from both the theoretical and practical aspects of the training.
 
@@ -61,7 +61,7 @@ Overall, the results show strong engagement and learning, with participants demo
 
 # **The Road Ahead: Expanding OSM and Mapping Key Resources**
 
-![HAITI (1).jpg](/uploads/HAITI%20(1).jpg)
+![HAITI (1).jpg](https://cdn.hotosm.org/website/HAITI+(1).jpg)
 
 While the training week was a success, the journey doesn't end here. There is significant potential to expand this initiative, not just in Haiti but across the Caribbean. Future training could focus on mapping key resources, such as health facilities, schools, and other vital infrastructure, which are crucial for humanitarian and development planning. By integrating these efforts with ongoing disaster preparedness and risk management strategies, the mapping community can play an even more significant role in building resilient communities.
 

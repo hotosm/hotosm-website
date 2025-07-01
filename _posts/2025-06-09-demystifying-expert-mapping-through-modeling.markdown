@@ -4,7 +4,7 @@ date: 2025-06-09 21:07:00 Z
 Summary Text: Tim DeWinter, our Open Mapping for All Coordinator, invites you to explore
   how modeling can make expert OpenStreetMap skills more accessible to beginners and
   foster a stronger mapping community.
-Feature Image: "/uploads/OM4A.jpg"
+Feature Image: "https://cdn.hotosm.org/website/OM4A.jpg"
 Person: Tim DeWinter
 Project:
 - Open Mapping for All

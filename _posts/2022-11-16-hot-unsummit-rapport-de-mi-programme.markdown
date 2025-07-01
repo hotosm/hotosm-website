@@ -102,7 +102,7 @@ Le nombre de membres de la communauté soutenus pour assister aux événements n
 # Quels types de sujets ont été partagés et discutés?
 Nous pensons que plus de 100 sessions axées sur l'humanitaire ou le développement / la cartographie ouverte ont eu lieu lors de ces sept événements et 31 d'entre elles ont été directement activées par le programme HOT unSummit.
 
-![unSummit 9.png](/uploads/unSummit%209.png)
+![unSummit 9.png](https://cdn.hotosm.org/website/unSummit+9.png)
 
 Nous les avons classés par domaines d'impact de HOT, mais nous avons également inclus des catégories pour la communauté et technologie, les outils et les données pour les sessions sans cible de domaine d'impact spécifique. 
 

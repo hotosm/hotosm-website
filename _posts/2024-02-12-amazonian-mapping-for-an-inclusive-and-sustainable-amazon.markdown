@@ -6,7 +6,7 @@ Summary Text: Explore the Amazonian Mapping initiative, a project by the Open Ma
   in the Amazon region. Discover key projects in Colombia, Ecuador, Brazil, and Peru
   to strengthen prevention, emergency management, sustainable forest management, and
   community resilience.
-Feature Image: "/uploads/Amazonian%20Mappings%20English.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Amazonian+Mappings+English.jpg"
 Person: LAC Hub Team
 Country:
 - Brazil
@@ -19,7 +19,7 @@ Country:
 
 Few things represent a region as iconically as the Amazon: eight countries share the care of an area where 20% of the world's freshwater reserves are found. The diversity, richness, and development potential of this region are a source of hope for the communities that inhabit it, as well as a source of conflicts and challenges common to the region and the world. Here, we face situations that jeopardize biodiversity, subsistence, and the security of local communities. Deforestation, climate change, and economic pressures have created a complex landscape that demands understanding and action.
 
-![Amazon rainforest on the Urubu river, Amazonas State, Brazil. Bajo licencia Creative Commons Attribution 2.0 Generic.](/uploads/800px-Amazonia.jpg)
+![Amazon rainforest on the Urubu river, Amazonas State, Brazil. Bajo licencia Creative Commons Attribution 2.0 Generic.](https://cdn.hotosm.org/website/800px-Amazonia.jpg)
 
 *Amazon rainforest on the Urubu river, Amazonas State, Brazil. Licensed under the Creative Commons Attribution 2.0 Generic license.*
 
@@ -37,7 +37,7 @@ On the occasion of the International Day of the Amazon, on February 12, we launc
 
 ## **Flood Risk Monitoring in Tefe, Brazil**
 
-![Tefe - Mapeos Amazónicos - HOT.jpg](/uploads/Tefe%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
+![Tefe - Mapeos Amazónicos - HOT.jpg](https://cdn.hotosm.org/website/Tefe+-+Mapeos+Amazo%CC%81nicos+-+HOT.jpg)
 
 Tefe is one of the last inhabited cities on the borders of the Brazilian Amazon. The municipality is not accessible by land, and difficult access is compounded by other challenges such as extreme poverty, exclusion of public services from its indigenous population, and the challenges posed by the impact of climate change. Much of the community living around Tefe is not represented on maps, and therefore authorities cannot reach them. Additionally, erosion caused by private deforestation is a critical problem requiring constant monitoring.
 
@@ -51,7 +51,7 @@ On the other hand, teams from the Federal University of São João del-Rei and U
 
 ## **[Collaborative and Inclusive Mapping in the Middle Solimões, Brazil](https://www.hotosm.org/projects/collaborative-and-inclusive-mapping-of-the-middle-solimoes/)**
 
-![Médio Solimões - Mapeos Amazónicos - HOT-1efddc.jpg](/uploads/Me%CC%81dio%20Solimo%CC%83es%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT-1efddc.jpg)
+![Médio Solimões - Mapeos Amazónicos - HOT-1efddc.jpg](https://cdn.hotosm.org/website/Me%CC%81dio+Solimo%CC%83es+-+Mapeos+Amazo%CC%81nicos+-+HOT-1efddc.jpg)
 
 Researchers from the Federal University of São João del-Rei, the Center for Higher Studies of Tefe, and the LAC Hub are working to complete maps of the Amazon region by using the OpenStreetMap (OSM) platform and training local communities in affordable technologies to monitor climate change.
 
@@ -61,7 +61,7 @@ We emphasize local commitment and collaboration as fundamental pillars to addres
 
 ## **Training of indigenous educators in open mapping, Pucallpa, Peru**
 
-![Jornada_de_mapeo_del_ISPPBY_cartografía_socioambiental](/uploads/Jornada_de_mapeo_del_ISPPBY_cartograf%C3%ADa_socioambiental.jpg)
+![Jornada_de_mapeo_del_ISPPBY_cartografía_socioambiental](https://cdn.hotosm.org/website/Jornada_de_mapeo_del_ISPPBY_cartograf%C3%ADa_socioambiental.jpg)
 
 The environmental issue is of great importance in the area and especially for indigenous communities, who see their ancestral territories threatened by deforestation resulting from illegal logging and also by pollution from various sources that makes the rivers and lakes that provide them with water and food unhealthy.
 
@@ -69,7 +69,7 @@ In Pucallpa, Peru, we are laying the groundwork for a group of local educators f
 
 ## **[Mapping as a tool for risk management in the Ecuadorian Amazon](https://www.hotosm.org/updates/creando-capacidades-mapeadoras-en-la-amazonia-ecuatoriana/)**
 
-![Mapeos Amazónicos Perú.jpg](/uploads/Mapeos%20Amazo%CC%81nicos%20Peru%CC%81.jpg)
+![Mapeos Amazónicos Perú.jpg](https://cdn.hotosm.org/website/Mapeos+Amazo%CC%81nicos+Peru%CC%81.jpg)
 
 Much of the social and economic infrastructure of the Ecuadorian Amazon - which covers an area of ​​approximately 120,000 km2, 956,000 inhabitants and represents almost half of the surface area of ​​Ecuador - is invisible on the OSM map and few data on this region are available on official cartography.
 
@@ -77,7 +77,7 @@ Our initiative in the Ecuadorian Amazon, with the support of OpenLabEc, trains c
 
 ## **Advancing our Partnerships with Civil Protection**
 
-![Proteção Civil - Mapeos Amazónicos - HOT.jpg](/uploads/Protec%CC%A7a%CC%83o%20Civil%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
+![Proteção Civil - Mapeos Amazónicos - HOT.jpg](https://cdn.hotosm.org/website/Protec%CC%A7a%CC%83o+Civil+-+Mapeos+Amazo%CC%81nicos+-+HOT.jpg)
 
 In Latin America, we have a variety of networks and actors dedicated to risk management. Our goal is to consolidate our position as a reliable actor in improving information for risk and disaster management throughout the region and progressively mapping vulnerable areas, filling the gaps in available official cartography. This information will be key for these organizations, and its use is part of our core objectives.
 
@@ -87,7 +87,7 @@ This is a continuous and systematic effort that will allow us to provide more ef
 
 ## **Anticipatory Mapping of Risk Areas in the Amazon**
 
-![Tasking Manager - English.jpg](/uploads/Tasking%20Manager%20-%20English.jpg)
+![Tasking Manager - English.jpg](https://cdn.hotosm.org/website/Tasking+Manager+-+English.jpg)
 
 In coordination with the authorities responsible for risk management in Ecuador, Colombia, and Brazil, we have identified the most vulnerable areas in the first quarter of 2024 for these countries, many of which are related to extreme droughts caused by the El Niño phenomenon in forested areas. Therefore, [we have launched mapping projects on the HOT Tasking Manager](https://bit.ly/MapeosAmazonicos).
 

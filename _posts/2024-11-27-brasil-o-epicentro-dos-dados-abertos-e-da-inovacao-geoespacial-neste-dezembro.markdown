@@ -6,7 +6,7 @@ Summary Text: Uma semana extraordinária, três eventos transformadores! Améric
   a 6 de dezembro e de 6 a 8 de dezembro. Esses eventos reunirão as mentes mais brilhantes
   em dados abertos e inovação geoespacial, e estamos entusiasmadas em anunciar que
   a HOT estará no centro da ação.
-Feature Image: "/uploads/HOTOSM%20FOSSFG,%20State%20of%20the%20Map%20Be%CC%81lem,%20Ame%CC%81rica%20Abierta%20Brasilia%20v2.jpg"
+Feature Image: "https://cdn.hotosm.org/website/HOTOSM+FOSSFG%2C+State+of+the+Map+Be%CC%81lem%2C+Ame%CC%81rica+Abierta+Brasilia+v2.jpg"
 Person:
 - Petya Kangalova
 - Mariana Marín
@@ -20,7 +20,7 @@ Country:
 
 Neste dezembro, o Brasil se tornará o epicentro das comunidades globais de dados abertos e geoespaciais, reunindo especialistas em uma semana sem precedentes de eventos. De 2 a 8 de dezembro, três conferências principais transformarão o Brasil em um centro de inovação e colaboração: América Abierta em Brasília, FOSS4G Belém 2024 e State of the Map LATAM 2024 em Belém, Pará.
 
-![HOTOSM FOSSFG, State of the Map Bélem,  América Abierta Brasilia v2.gif](/uploads/HOTOSM%20FOSSFG,%20State%20of%20the%20Map%20Be%CC%81lem,%20%20Ame%CC%81rica%20Abierta%20Brasilia%20v2.gif)
+![HOTOSM FOSSFG, State of the Map Bélem,  América Abierta Brasilia v2.gif](https://cdn.hotosm.org/website/HOTOSM+FOSSFG%2C+State+of+the+Map+Be%CC%81lem%2C++Ame%CC%81rica+Abierta+Brasilia+v2.gif)
 
 Esses eventos vão além de simples conferências; são plataformas para discussões revolucionárias, troca de conhecimentos e aprendizado prático sobre o poder transformador dos dados abertos e das tecnologias geoespaciais.
 

@@ -5,7 +5,7 @@ date: 2025-03-12 13:32:00 Z
 Summary Text: Discover how collaboration between local communities and the use of
   lightweight drones are revolutionizing mangrove conservation in Mexico, strengthening
   territorial management, and promoting community resilience.
-Feature Image: "/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Las%20Guardianas%20del%20Conchalito%20BSCicletos%20Mangles%20del%20Manglito%20HOTOSM%20Wikimedia%20Me%CC%81xico.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+Las+Guardianas+del+Conchalito+BSCicletos+Mangles+del+Manglito+HOTOSM+Wikimedia+Me%CC%81xico.jpg"
 Person:
 - Céline Jacquin
 - Mariana Marín
@@ -21,7 +21,7 @@ Based on these experiences, the LAC Hub of HOT has systematically investigated c
 
 ## The Degradation of Mangroves and the Importance of Local Allies
 
-![Monitoreo y Protección de Manglares Las Guardianas del Conchalito.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Las%20Guardianas%20del%20Conchalito.jpg)
+![Monitoreo y Protección de Manglares Las Guardianas del Conchalito.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+Las+Guardianas+del+Conchalito.jpg)
 
 *Photos: RollitoDeGuayaba / Wikimedia Commons CC-BY-4.0*
 
@@ -41,7 +41,7 @@ The collaboration between these groups enables sustainable actions with real com
 
 ## Lightweight Drones: The Key Tool for Environmental Monitoring
 
-![1-2df3b3.jpg](/uploads/1-2df3b3.jpg)
+![1-2df3b3.jpg](https://cdn.hotosm.org/website/1-2df3b3.jpg)
 
 *Photos: RollitoDeGuayaba / Wikimedia Commons CC-BY-4.0*
 
@@ -55,7 +55,7 @@ According to Iván Gayton, founder of the platform: *"Drone TM enables communiti
 
 ## Training in Action: Wikimedia Workshops, Drone Flights and Tasking Manager
 
-![Monitoreo y Protección de Manglares Wikimedia México HOTOSM.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Wikimedia%20Me%CC%81xico%20HOTOSM.jpg)
+![Monitoreo y Protección de Manglares Wikimedia México HOTOSM.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+Wikimedia+Me%CC%81xico+HOTOSM.jpg)
 
 *Photos: RollitoDeGuayaba / Wikimedia Commons CC-BY-4.0*
 
@@ -100,7 +100,7 @@ loading="lazy">
 
 ## Building a Drone Community for Conservation
 
-![Monitoreo y Protección de Manglares Las Guardianas del Conchalito 2.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Las%20Guardianas%20del%20Conchalito%202.jpg)
+![Monitoreo y Protección de Manglares Las Guardianas del Conchalito 2.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+Las+Guardianas+del+Conchalito+2.jpg)
 
 With the ongoing goal of bridging communities so they can support each other in the future and foster the sustainability of a new ecosystem, we have prioritized training key individuals throughout this initiative. In addition to local organizations engaged in territorial actions, we have focused on professionals in drone usage who are involved in community activities or have a strong interest in collective well-being.
 

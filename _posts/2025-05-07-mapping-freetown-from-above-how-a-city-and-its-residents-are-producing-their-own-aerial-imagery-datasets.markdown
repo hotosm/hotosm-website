@@ -5,7 +5,7 @@ date: 2025-05-07 15:59:00 Z
 Summary Text: Freetown’s first citywide drone mapping project redefined urban planning
   by putting communities at the center — piloting drones, producing data, and shaping
   the future of their city.
-Feature Image: "/uploads/Freetown.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Freetown.jpg"
 Person:
 - Mariana Marín
 - Pete Masters
@@ -18,7 +18,7 @@ Country:
 
 Imagine if a city didn’t just get mapped — but mapped itself… In Freetown, Sierra Leone, the mayor and the city council have made this a reality. In a world first, the entire city has been mapped by local city residents trained as pilots, processors, and data stewards using inexpensive, lightweight drones and open source software.. And, although technology is a fundamental enabler in this story, it actually demonstrates a more fundamental shift in how city authorities can leverage low cost, high resolution and community-generated aerial imagery to underpin urban development initiatives.
 
-![Freetown HOT CFF GIZ 2.jpg](/uploads/Freetown%20HOT%20CFF%20GIZ%202.jpg)
+![Freetown HOT CFF GIZ 2.jpg](https://cdn.hotosm.org/website/Freetown+HOT+CFF+GIZ+2.jpg)
 
 It was [Freetown City Council](https://fcc.gov.sl/) (FCC) who saw the potential of community drone imagery as necessary data infrastructure for the city and secured funding through an ongoing collaboration with [BMZ (German Federal Ministry for Economic Cooperation and Development)](https://www.bmz.de/en/) focused on disability access improvement work. This local institutional commitment and leadership demonstrate what’s possible when cities view developing their people, knowledge, and data as a strategic infrastructure investment.
 
@@ -28,7 +28,7 @@ As urban challenges around climate resilience and inclusive infrastructure grew,
 
 Instead of outsourcing data collection, FCC embedded capacity. With HOT and BMZ’s support, they were able to launch a citywide drone mapping initiative—the first of its kind to be delivered entirely through an open, community pilot model. Of the thirty people initially trained, 14 went on to form the Freetown Open Drone Mapping Crew, including pilots and processors from FCC, CODOHSAPA, OpenStreetMap Sierra Leone, and informal settlement residents.
 
-![Freetown HOT CFF GIZ.jpg](/uploads/Freetown%20HOT%20CFF%20GIZ.jpg)
+![Freetown HOT CFF GIZ.jpg](https://cdn.hotosm.org/website/Freetown+HOT+CFF+GIZ.jpg)
 
 Participants were paid per square kilometer of successfully flown imagery and used open-source tools like[ OpenDroneMap](https://opendronemap.org/) and [OpenAerialMap](https://openaerialmap.org/) to generate and share 5cm resolution imagery, 3D meshes, and digital elevation models. Their work is now allowing city authorities and stakeholders to do analysis, planning, and implementation of key city interventions—from city-wide solid waste management and central business district regeneration to property taxation and improvement of access for people with disabilities from informal settlements.
 
@@ -36,7 +36,7 @@ Most importantly, their role was not peripheral. This model redefines power dyna
 
 # **A Scalable, Replicable Model**
 
-![Freetown HOT CFF GIZ 3.jpg](/uploads/Freetown%20HOT%20CFF%20GIZ%203.jpg)
+![Freetown HOT CFF GIZ 3.jpg](https://cdn.hotosm.org/website/Freetown+HOT+CFF+GIZ+3.jpg)
 
 This model represents a fundamental shift—from dependency to autonomy and from one-off aid projects to embedded local capacity and data sovereignty. Rather than relying on short-term donor grants to fund high-level data creation services, Freetown signed a service contract backed by bilateral funding, recognizing geospatial data as vital public infrastructure. The result: faster execution, lower costs, full local ownership, and flexible replicability.
 
@@ -48,7 +48,7 @@ And the demand is growing. Freetown proved that hyperlocal, 5 cm-resolution dron
 
 Freetown’s success clearly demonstrates how cities can develop the imagery data they need through an open, cooperative model, where community members are active participants in their city’s data ecosystem. As pilots and data stewards, they don’t just collect information to inform the city’s planning and resilience efforts, they build skills, earn income, and use their experience to improve tools and processes for others.
 
-![Freetown HOT CFF GIZ 4.jpg](/uploads/Freetown%20HOT%20CFF%20GIZ%204.jpg)
+![Freetown HOT CFF GIZ 4.jpg](https://cdn.hotosm.org/website/Freetown+HOT+CFF+GIZ+4.jpg)
 
 ## **What Comes Next?**
 

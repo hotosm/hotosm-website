@@ -13,7 +13,9 @@ echo $DIR
 # Loop through the files in _uploads
 
 FILES=$DIR/_uploads/*
-for f in $FILES
+
+while IFS= read -rd '' f
+# for f in $FILES
 do
 	# a bunch of different ways to make the filename/path. Example: ./_uploads/image name.jpg
 	FNAME=$(basename "$f")                          # image name.jpg
@@ -45,6 +47,6 @@ do
 			echo "could not find reference in any file"
 		fi
 		# move the file to an untracked archive (eg delete from git tracking). enable when everything else is working
-		# mv $f $OUTDIR/$FNAME
+		mv $f $OUTDIR/$FNAME
 	fi
-done
+done < <(find $FILES -maxdepth 1 -print0)

@@ -7,7 +7,7 @@ Summary Text: Explore how open cartography is transforming the relationship betw
   address challenges such as cultural preservation and the defense of rights. Reflections
   from experts and concrete experiences highlight the importance of recognizing the
   diversity and autonomy of these communities.
-Feature Image: "/uploads/Soberani%CC%81a%20de%20datos,%20mapeo%20abierto%20y%20territorios%20indi%CC%81genas.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Soberani%CC%81a+de+datos%2C+mapeo+abierto+y+territorios+indi%CC%81genas.jpg"
 Person: Juan Arellano Valdivia
 ---
 

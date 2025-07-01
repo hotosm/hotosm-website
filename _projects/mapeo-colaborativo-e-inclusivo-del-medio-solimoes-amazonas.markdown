@@ -41,7 +41,7 @@ La región amazónica lucha contra la invisibilidad cartográfica, obstaculizand
 
 El objetivo es aliviar la invisibilidad cartográfica y promover el desarrollo sostenible. Aprendiendo del exitoso proyecto de Tefé, la participación comunitaria y el aprendizaje entre pares son cruciales. Esta propuesta busca expandir el impacto del proyecto a la región más amplia del Medio Solimões, basándose en estrategias probadas para un enfoque más integral.
 
-![Imágenes blog (4).jpg](/uploads/Ima%CC%81genes%20blog%20(4).jpg)
+![Imágenes blog (4).jpg](https://cdn.hotosm.org/website/Ima%CC%81genes+blog+(4).jpg)
 
 ## **ENFOQUE**
 
@@ -51,7 +51,7 @@ Reconociendo posibles desafíos en la entrega de equipos, las complejidades log�
 
 Expandiendo el enfoque integral establecido en el proyecto de Tefé, el Proyecto de Mapeamento Colaborativo en el Medio Solimões incorpora una estrategia multifacética que abarca seminarios, talleres, recolección de datos de campo, instalación de bases GNSS y vuelos de aeronaves pilotadas a distancia. El objetivo principal es capturar imágenes de alta resolución y recopilar datos para análisis geográficos, contribuyendo en última instancia a una representación más precisa y completa de la región en los mapas.
 
-![Imágenes blog (7).jpg](/uploads/Ima%CC%81genes%20blog%20(7).jpg)
+![Imágenes blog (7).jpg](https://cdn.hotosm.org/website/Ima%CC%81genes+blog+(7).jpg)
 
 ## **RESULTADO Y IMPACTO**
 

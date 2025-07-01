@@ -4,7 +4,7 @@ date: 2024-12-02 17:02:00 Z
 Summary Text: 'Our #MapGiveImpact global, 24-hour telemapathon is just around the
   corner. We are excited to present our star-studded guest speaker lineup for each
   of the 2-hour sessions.'
-Feature Image: "/uploads/Mountain%20%20%20No%20Logo.png"
+Feature Image: "https://cdn.hotosm.org/website/Mountain+++No+Logo.png"
 Person:
 - Raelene Dugger
 - Raiza Pilatowsky Gruner

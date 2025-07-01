@@ -11,7 +11,7 @@ Summary Text: Los incendios forestales en Sudamérica están consumiendo miles d
   de sembríos y bosques de áreas de preservación en países como Bolivia, Perú, Ecuador
   y otros. Conozcamos los esfuerzos de ayuda que van surgiendo desde las comunidades
   de cartografía abierta.
-Feature Image: "/uploads/iqair.jpg"
+Feature Image: "https://cdn.hotosm.org/website/iqair.jpg"
 ---
 
 La temporada de incendios forestales de este año en Sudamérica está batiendo [peligrosos récords](https://www.opendemocracy.net/es/arden-bosques-america-latina/) en cuanto a su amplitud e intensidad. Los principales países afectados son [Bolivia](https://www.dw.com/es/bolivia-en-emergencia-nacional-por-los-incendios-forestales/a-70163283), [Brasil](https://agenciabrasil.ebc.com.br/es/geral/noticia/2024-09/brasil-concentra-el-76-de-los-incendios-forestales-en-sudamerica), [Colombia](https://forbes.co/2024/09/17/sostenibilidad/el-fuego-arrasa-mas-de-12-000-hectareas-de-bosques-en-colombia-que-lidia-con-20-incendios), [Ecuador](https://www.primicias.ec/sociedad/incendios-forestales-ecuador-balance-hectareas-78858/), [Paraguay](https://www.abc.com.py/nacionales/2024/09/19/incendios-forestales-danos-de-nuevo-incendio-y-el-de-las-semanas-pasadas-supera-las-200-mil-hectareas/), [Perú](https://larepublica.pe/sociedad/2024/09/18/incendios-forestales-en-amazonas-peru-2024-hoy-ultimas-noticias-causas-consecuencias-mapa-zonas-afectadas-como-ayudar-y-todo-sobre-la-crisis-que-vive-la-amazonia-peruana-1419030) y [Venezuela](https://noticialdia.com/al-dia/venezuela-es-el-tercer-pais-de-suramerica-donde-mas-se-han-producido-incendios-forestales-en-lo-que-va-de-2024/). Incluso países alejados de la zona crítica como [Uruguay](https://www.elobservador.com.uy/nacional/el-humo-los-incendios-del-amazonas-uruguay-meteorologos-explican-cuando-estara-la-region-n5960531) se han visto afectados por el humo producido por los incendios.
@@ -20,7 +20,7 @@ Según Jones et al. (2022), los [incendios forestales](https://es.wikipedia.org/
 
 Aunque la respuesta a esta emergencia varía en cada país y la sociedad civil reacciona de diferentes maneras, desde la cartografía abierta y participativa han surgido diversas iniciativas para contribuir en la lucha contra esta situación.
 
-![mapatonymbol.jpg](/uploads/mapatonymbol.jpg)
+![mapatonymbol.jpg](https://cdn.hotosm.org/website/mapatonymbol.jpg)
 *Imagen de la cuenta [youthmappersumsa.bo](https://www.instagram.com/p/C_zmLBOOQls/?img_index=1)*
 
 La comunidad YouthMappers de la Universidad Mayor de San Andrés (UMSA-Bolivia) organizó un Mapatón por los Incendios Forestales el pasado 31 de agosto. En su Instagram comentan: "La región oriental de Bolivia, en particular San Matías y San Ramón, ha sido gravemente afectada por incendios forestales desde hace aproximadamente un mes. Estos incendios no solo impactan a la población local, sino también a la flora y fauna del departamento de Santa Cruz, donde aún persisten varios focos de calor".
@@ -36,7 +36,7 @@ En Perú, los incendios han afectado regiones amazónicas como Tarapoto, Amazona
 Aprovechando su estancia, y la disposición de la comunidad de Santa Clara y de organizaciones de la sociedad civil locales, están organizando un taller de [Registro de tierras quemadas en incendios forestales](https://osm.org.pe/2024/09/23/taller-registro-de-tierras-quemadas-en-incendios-forestales/), para la recolección de fotografías con drones (ortofotos) de las áreas quemadas durante los incendios. Posteriormente se realizará un **taller en Gestión de riesgos en incendios forestales**, con la participación de la Universidad Nacional Intercultural de la Amazonía, posibilitando que los materiales a producir estén también en algunas lenguas amazónicas como el shipibo.
 
 *Qué datos recolectar al enfrentar un incendio*
-![antesdurantedespues.jpg](/uploads/antesdurantedespues.jpg)
+![antesdurantedespues.jpg](https://cdn.hotosm.org/website/antesdurantedespues.jpg)
 *Emilio Mariscal.*
 
 Nuestro colega Emilio Mariscal, desarrollador de software para HOT y bombero voluntario, señala: "Los mapas abiertos son fundamentales antes, durante y después de los incendios forestales. Nos apoyan desde el trabajo preventivo, facilitando la acción coordinada durante el incendio, hasta la evaluación post-fuego. Nos permiten evaluar los riesgos, ubicar nuestra posición en relación con el fuego y planificar estrategias, no solo para contabilizar las hectáreas quemadas y los daños sufridos, sino también para restaurar los bosques y ayudar a las personas afectadas a reconstruir sus vidas".

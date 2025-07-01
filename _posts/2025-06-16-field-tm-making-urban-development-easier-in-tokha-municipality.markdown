@@ -2,7 +2,7 @@
 title: 'Field-TM: Making Urban Development Easier in Tokha Municipality'
 date: 2025-06-16 14:45:00 Z
 published: false
-Feature Image: "/uploads/ManjitaFieldTM_Cover.jpg"
+Feature Image: "https://cdn.hotosm.org/website/ManjitaFieldTM_Cover.jpg"
 Person: Manjita Pandey
 Country:
 - Nepal
@@ -18,7 +18,7 @@ With rapid urban growth, maintaining accurate and updated geospatial data is ess
 
 Tokha Municipality is experiencing **rapid population growth and infrastructure development**, largely influenced by Kathmandu Metropolitan City. As the municipality expands, maintaining an **accurate geospatial database** is essential for effective urban planning. One key component of this planning is **house numbering**, which provides a structured address system for residents. To achieve this, Tokha Municipality initiated a **comprehensive field survey** covering approximately **17 km², with an estimated 30,000 buildings**. Field-TM was utilized to make the whole process more efficient.
 
-![FieldTM-3.png](/uploads/FieldTM-3.png)
+![FieldTM-3.png](https://cdn.hotosm.org/website/FieldTM-3.png)
 *Screenshot of the Thokha Building Survey project as seen in Field-TM's interface*
 
 ## How It Worked
@@ -37,7 +37,7 @@ Like any large-scale field survey, this project too had its fair share of challe
 2. Device Troubles: Some devices struggled with [ODK](https://getodk.org/) form submissions or had trouble loading the building layer. We debugged device compatibility issues and offered alternative workflows for affected users.
 3. OSM Account Requirement: Field mappers were required to create an [OpenStreetMap (OSM)](www.openstreetmap.org/) account to track submissions, adding complexity to the process. Considering the field requirements, we are working on adding **Google login** for easier authentication and contribution tracking.
 
-![Field-TM_Tokha.jpg](/uploads/Field-TM_Tokha.jpg)
+![Field-TM_Tokha.jpg](https://cdn.hotosm.org/website/Field-TM_Tokha.jpg)
 
 The remaining features, mostly marked as bad and some left in the first go, have been downloaded to create another project at the whole municipality level. 
 
@@ -45,7 +45,7 @@ Despite the challenges, the field mapping activity in Tokha Municipality is bein
 
 The municipality primarily plans to use this data to assign house numbers to each household. Additionally, they are developing an integrated municipal database to support house inventory management and urban data planning and management.
 
-![ManjitaFieldTM_Presentation.jpg](/uploads/ManjitaFieldTM_Presentation.jpg)
+![ManjitaFieldTM_Presentation.jpg](https://cdn.hotosm.org/website/ManjitaFieldTM_Presentation.jpg)
 
 As urban areas continue to grow, tools like Field-TM play a crucial role in ensuring efficient data collection and informed decision-making for urban development. Continuous improvements to the platform will further enhance its usability, making field mapping more accessible and effective.
 We invite urban planners, local governments, and mapping communities to explore Field-TM and see how it can streamline their field surveys. **If you’re interested in collaborating, sharing feedback, or learning more about how Field-TM can support your projects, reach out to the team (https://docs.fmtm.dev/about/team/) or on [HOT's Field-TM Slack channel](https://slack.hotosm.org/).**

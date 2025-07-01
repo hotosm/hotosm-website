@@ -6,8 +6,8 @@ Project Summary Text: In March 2025, a destructive earthquake hit central Myanma
   a mapping initiative to fill data gaps in OpenStreetMap. Now, through funding from
   the H2H Network, myOSM will be able to scale their mapping and HOT will support
   improved data use of humanitarian partners in the region.
-Feature Image: "/uploads/copernicus-mandalay-crop.jpg"
-Project Logo Image: "/uploads/h2h-logo-new-400x400.png"
+Feature Image: "https://cdn.hotosm.org/website/copernicus-mandalay-crop.jpg"
+Project Logo Image: "https://cdn.hotosm.org/website/h2h-logo-new-400x400.png"
 Country:
 - Myanmar
 Impact Area:
@@ -172,7 +172,7 @@ After the Myanmar earthquake, Overture shared its [Myanmar building footprints o
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/OSM-vs-Overture-Myanmar_2.gif" alt="OSM vs Overture Buildings in Mandalay" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/OSM-vs-Overture-Myanmar_2.gif" alt="OSM vs Overture Buildings in Mandalay" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>OSM building footprints mapped and validated during the earthquake response (light red) compared with machine mapped Overture building footprints (bright pink) in Mandalay, Myanmar.</span>
     </div>
