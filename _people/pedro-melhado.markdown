@@ -1,7 +1,7 @@
 ---
 title: Pedro Melhado
 date: 2025-06-30 12:10:00 Z
-Photo: "/uploads/Pedro%20Melhado.jpg"
+Photo: "https://cdn.hotosm.org/website/Pedro+Melhado.jpg"
 Member Type:
   Is Voting Member: true
 Social Media (Full URL):

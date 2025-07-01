@@ -26,4 +26,4 @@ Duration:
 
 HOT supported the collection and preparation of geospatial data for the entire country of Indonesia. Technical tasks for HOT included identifying appropriate official sources of required data, obtaining data in digital or hard-copy format, processing data to specifications, and cataloging resulting data sets. Additional tasks included identification and processing of relevant data from non-government of Indonesia sources where appropriate.
 
-The final report can be found [here](https://www.pdc.org/wp-content/uploads/NDPBA_IDN_Final_Report_English.pdf).
+The final report can be found [here](https://www.pdc.org/wp-contenthttps://cdn.hotosm.org/website/NDPBA_IDN_Final_Report_English.pdf).

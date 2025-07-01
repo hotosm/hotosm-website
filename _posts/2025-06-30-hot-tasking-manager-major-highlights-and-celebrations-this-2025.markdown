@@ -5,13 +5,13 @@ Summary Text: In this blog, Ramya Ragupathy, the Tasking Manager's Product Manag
   celebrates the amazing achievements that came through this year for HOT's flagship
   tool, with the launch of its fifth version after 15-years of existence and its recognition
   as a Digital Public Good.
-Feature Image: "/uploads/HOT%20Tech%20Contributors%20Blog-1.jpg"
+Feature Image: "https://cdn.hotosm.org/website/HOT+Tech+Contributors+Blog-1.jpg"
 Person: Ramya Ragupathy
 ---
 
 A decade ago, I started my first steps towards digital humanitarianism by tracing roads and buildings in [HOT Tasking Manager v2](https://wiki.openstreetmap.org/wiki/History_of_the_OSM_Tasking_Manager), taking part in the volunteer response for [the 2015 Nepal Earthquake](https://wiki.openstreetmap.org/wiki/2015_Nepal_earthquake). I didn’t know much about mapping then, just that it felt like a small yet meaningful way to help. That moment was my first encounter with HOT and my first glimpse into how digital tools connect people in times of crisis. I still remember learning the basics of building mapping from [fellow OpenStreetMapper Chetan Gowda](https://www.openstreetmap.org/user/Chetan_Gowda), patiently guiding me through the iD and JOSM interfaces. Those early days were about finding my place in a global community, one node and one way at a time.
 
-![2015_04_26_Nepal_Earthquake_Kathmandu_living_lab.png](/uploads/2015_04_26_Nepal_Earthquake_Kathmandu_living_lab.png)
+![2015_04_26_Nepal_Earthquake_Kathmandu_living_lab.png](https://cdn.hotosm.org/website/2015_04_26_Nepal_Earthquake_Kathmandu_living_lab.png)
 
 *Kathmandu Living Lab OSM contributors activate one day after the 2015 Earthquake. Source: [OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/File:2015_04_26_Nepal_Earthquake_Kathmandu_living_lab.png)*
 
@@ -25,7 +25,7 @@ This year has brought two milestones that are particularly meaningful to me, bot
 
 This April 2025, [we rolled out v5 of the Tasking Manager](https://github.com/hotosm/tasking-manager/releases/tag/v5.0.0), which is a major release not just in terms of technical upgrade, but also laying the groundwork for future upgrades for the mapping community. To put things in perspective:
 
-![HOT Tech Contributors Blog.jpg](/uploads/HOT%20Tech%20Contributors%20Blog.jpg)
+![HOT Tech Contributors Blog.jpg](https://cdn.hotosm.org/website/HOT+Tech+Contributors+Blog.jpg)
 *HOT Tasking Manager Evolution as shown from its versions over the years and its different user interfaces.*
 
 With v5, the backend has been fully migrated to [FastAPI](https://fastapi.tiangolo.com/) and [containerized](https://en.wikipedia.org/wiki/Containerization_(computing)) infrastructure, unlocking several key benefits:

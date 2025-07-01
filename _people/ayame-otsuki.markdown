@@ -1,7 +1,7 @@
 ---
 title: Ayame Otsuki
 date: 2025-06-24 12:02:00 Z
-Photo: "/uploads/ayameo.jpeg"
+Photo: "https://cdn.hotosm.org/website/ayameo.jpeg"
 Member Type:
   Is Voting Member: true
 Country: Japan

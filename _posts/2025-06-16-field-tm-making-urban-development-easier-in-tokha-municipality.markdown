@@ -9,7 +9,7 @@ Summary Text: 55 enumerators and project coordinators used the Field Tasking Man
   smoothly, providing insights for enhancing Field-TM. The municipality plans to use
   the data for assigning house numbers and urban management, highlighting the importance
   of efficient data collection in growing urban areas.
-Feature Image: "/uploads/ManjitaFieldTM_Cover.jpg"
+Feature Image: "https://cdn.hotosm.org/website/ManjitaFieldTM_Cover.jpg"
 Person: Manjita Pandey
 Country:
 - Nepal
