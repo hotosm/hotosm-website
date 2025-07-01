@@ -1,7 +1,7 @@
 ---
 title: Vanessa Jones
 date: 2024-08-19 17:13:00 Z
-Photo: "/uploads/V.%20Jones%20Headshot.jpg"
+Photo: "https://cdn.hotosm.org/website/V.+Jones+Headshot.jpg"
 Member Type:
   Is Voting Member: true
 ---

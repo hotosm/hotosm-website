@@ -1,7 +1,7 @@
 ---
 title: Mapeo Participativo de Transporte en Zamora, Michoacán
 date: 2024-07-11 01:37:00 Z
-Feature Image: "/uploads/Mapeo%20Colaborativo%20de%20Transporte%20Pu%CC%81blico%20-%20HOT,%20CoMapper%20y%20Codeando%20Me%CC%81xico.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Mapeo+Colaborativo+de+Transporte+Pu%CC%81blico+-+HOT%2C+CoMapper+y+Codeando+Me%CC%81xico.jpg"
 Country:
 - México
 Impact Area:
@@ -24,7 +24,7 @@ Tools:
 
 Zamora, un municipio en el oeste de Michoacán con 150,000 residentes, enfrenta desafíos significativos debido a la ausencia de datos precisos de transporte. A pesar de que 80,000 personas dependen del transporte público diariamente, no hay información confiable sobre el sistema. Esta brecha obstaculiza la planificación efectiva y la toma de decisiones, llevando a rutas ineficientes, congestión de tráfico y opciones limitadas de transporte. Para los residentes, esta falta de información complica el acceso a opciones de movilidad confiables, haciendo los desplazamientos diarios difíciles, costosos e inseguros. Abordar este problema es crucial para actualizar las políticas de transporte y garantizar el acceso equitativo a soluciones de movilidad.
 
-![Progreso del Mapeo Codeando México.jpg](/uploads/Progreso%20del%20Mapeo%20Codeando%20Me%CC%81xico.jpg)
+![Progreso del Mapeo Codeando México.jpg](https://cdn.hotosm.org/website/Progreso+del+Mapeo+Codeando+Me%CC%81xico.jpg)
 
 *Imagen: 43 rutas mapeadas hasta ahora en Zamora.*
 

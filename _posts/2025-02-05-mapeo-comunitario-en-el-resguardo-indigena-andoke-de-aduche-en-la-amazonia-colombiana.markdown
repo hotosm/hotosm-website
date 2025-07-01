@@ -6,7 +6,7 @@ Summary Text: Mapeo comunitario en Araracuara fortalece la gestión territorial 
   pueblo Andoque mediante el uso de drones, OpenStreetMap y SIG. La iniciativa combina
   conocimientos ancestrales y tecnología para documentar y proteger su territorio
   frente a la deforestación y el cambio climático.
-Feature Image: "/uploads/Araracuara.png"
+Feature Image: "https://cdn.hotosm.org/website/Araracuara.png"
 Person:
 - Juan Melo Luna
 - Mariana Marín

@@ -13,7 +13,7 @@ Summary Text: Explora la iniciativa Mapeos Amazónicos, un proyecto del Hub de M
   social en la región amazónica. Descubre proyectos clave en Colombia, Ecuador, Brasil
   y Perú para fortalecer la prevención, gestión de emergencias, manejo forestal sostenible
   y resiliencia comunitaria.
-Feature Image: "/uploads/Mapeamentos%20%20Amazo%CC%82nicos%20Webinar%20Po%CC%81ster%20(1).jpg"
+Feature Image: "https://cdn.hotosm.org/website/Mapeamentos++Amazo%CC%82nicos+Webinar+Po%CC%81ster+(1).jpg"
 Person: LAC Hub Team
 Country:
 - Brazil
@@ -26,7 +26,7 @@ Country:
 
 Pocas cosas representan tan icónicamente a una región como la Amazonía: ocho países comparten el cuidado de una superficie donde se encuentra el 20% de las reservas de agua dulce a nivel mundial. La diversidad, riqueza y potencial de desarrollo de esta región es fuente de esperanza para las comunidades que allí la habitan, así como fuente de conflictos y desafíos  comunes a  la región y el mundo. Aquí nos encontramos con situaciones que ponen en riesgo la biodiversidad, la subsistencia y la seguridad de las comunidades locales. La deforestación, el cambio climático y las presiones económicas han generado un panorama complejo que demanda comprensión y acción.
 
-![Selva amazónica en el río Urubu, estado de Amazonas, Brasil. Bajo licencia Creative Commons Attribution 2.0 Generic.](/uploads/800px-Amazonia.jpg)
+![Selva amazónica en el río Urubu, estado de Amazonas, Brasil. Bajo licencia Creative Commons Attribution 2.0 Generic.](https://cdn.hotosm.org/website/800px-Amazonia.jpg)
 
 *Selva amazónica en el río Urubu, estado de Amazonas, Brasil. Bajo licencia Creative Commons Attribution 2.0 Generic.*
 
@@ -44,7 +44,7 @@ En el marco del Día Internacional de la Amazonía, el 12 de febrero del 2024 la
 
 ## **Monitoreo del riesgo de inundación en Tefé, Brasil**
 
-![Tefe - Mapeos Amazónicos - HOT.jpg](/uploads/Tefe%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
+![Tefe - Mapeos Amazónicos - HOT.jpg](https://cdn.hotosm.org/website/Tefe+-+Mapeos+Amazo%CC%81nicos+-+HOT.jpg)
 
 Tefé, es una de las últimas ciudades habitadas en las fronteras de la amazonía brasileña. El municipio no es accesible por tierra, y al difícil acceso se suman otros desafíos como la extrema pobreza, la exclusión de los servicios públicos de parte de su población de origen indígena, y los desafíos que plantea el impacto del cambio climático. Buena parte de la comunidad que vive en los alrededores de Tefé, no está representada en los mapas y por ende las autoridades no pueden llegar a ellas. Además, la erosión causada por la deforestación privada es un problema crítico que requiere monitoreo constante.
 En nuestro trabajo en Tefé (aún en marcha), estamos explorando tres formas de trabajo junto a la comunidad de esta región: capacitación para la inclusión, innovación y uso de mapas por parte de las autoridades locales.
@@ -57,7 +57,7 @@ Por otro lado, los equipos de la Universidad Federal de São João del-Rei y la 
 
 ## **[Mapeo colaborativo e inclusivo en el Medio Solimões, Brasil](https://www.hotosm.org/projects/mapeo-colaborativo-e-inclusivo-del-medio-solimoes-amazonas/)**
 
-![Médio Solimões - Mapeos Amazónicos - HOT-1efddc.jpg](/uploads/Me%CC%81dio%20Solimo%CC%83es%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT-1efddc.jpg)
+![Médio Solimões - Mapeos Amazónicos - HOT-1efddc.jpg](https://cdn.hotosm.org/website/Me%CC%81dio+Solimo%CC%83es+-+Mapeos+Amazo%CC%81nicos+-+HOT-1efddc.jpg)
 
 Uniendo esfuerzos, investigadores de la Universidad Federal de São João del-Rei, el Centro de Estudios Superiores de Tefé y el LAC Hub trabajan para completar los mapas de la región amazónica mediante el uso de la plataforma OpenStreetMap (OSM) y la capacitación de las comunidades locales en tecnologías asequibles para monitorear el cambio climático.
 
@@ -67,7 +67,7 @@ Destacamos el compromiso local y la colaboración como pilares fundamentales par
 
 ## **Capacitación de educadores indígenas en el mapeo abierto, Pucallpa, Perú**
 
-![Jornada_de_mapeo_del_ISPPBY_cartografía_socioambiental](/uploads/Jornada_de_mapeo_del_ISPPBY_cartograf%C3%ADa_socioambiental.jpg)
+![Jornada_de_mapeo_del_ISPPBY_cartografía_socioambiental](https://cdn.hotosm.org/website/Jornada_de_mapeo_del_ISPPBY_cartograf%C3%ADa_socioambiental.jpg)
 
 El tema medioambiental es de gran importancia en la zona y sobre todo para las comunidades indígenas, que ven amenazados sus territorios ancestrales por la deforestación producto de la tala ilegal y también por la contaminación de diversas fuentes que torna insalubres los ríos y lagunas que les proveen agua y alimento.
 
@@ -75,7 +75,7 @@ En Pucallpa, Perú, estamos estableciendo las bases para un grupo de educadores 
 
 ## **[El mapeo como herramienta para la gestión de riesgos en la Amazonía ecuatoriana](https://www.hotosm.org/updates/creando-capacidades-mapeadoras-en-la-amazonia-ecuatoriana/)**
 
-![Mapeos Amazónicos Perú.jpg](/uploads/Mapeos%20Amazo%CC%81nicos%20Peru%CC%81.jpg)
+![Mapeos Amazónicos Perú.jpg](https://cdn.hotosm.org/website/Mapeos+Amazo%CC%81nicos+Peru%CC%81.jpg)
 
 Buena parte de la infraestructura social y económica de la Amazonía ecuatoriana -que consta de un área aproximada de 120.000 km2, 956.000 habitantes y representa casi la mitad de la superficie de Ecuador- está invisibilizada en el mapa de OSM y pocos datos de esta región están disponibles en la cartografía oficial.
 
@@ -83,7 +83,7 @@ Nuestra iniciativa en la Amazonía ecuatoriana, con el apoyo del OpenLabEc, capa
 
 ## **Avanzando nuestras alianzas con Protección Civil**
 
-![Proteção Civil - Mapeos Amazónicos - HOT.jpg](/uploads/Protec%CC%A7a%CC%83o%20Civil%20-%20Mapeos%20Amazo%CC%81nicos%20-%20HOT.jpg)
+![Proteção Civil - Mapeos Amazónicos - HOT.jpg](https://cdn.hotosm.org/website/Protec%CC%A7a%CC%83o+Civil+-+Mapeos+Amazo%CC%81nicos+-+HOT.jpg)
 
 En América Latina, contamos con una variedad de redes y actores dedicados a la gestión de riesgos. Nuestro objetivo es consolidar nuestra posición como un actor confiable en la mejora de la información para la gestión de riesgos y desastres en toda la región y un mapeo progresivo de las áreas vulnerables, que supla las lagunas de la cartografía oficial disponible. Esta información será clave para estas organizaciones y su uso parte de nuestros objetivos centrales.
 
@@ -93,7 +93,7 @@ Este es un esfuerzo continuo y con enfoque sistemático que nos permitirá ofrec
 
 ## **Mapeos anticipatorios de la zonas de riesgo de la Amazonía**
 
-![Mapeo Amazónico - Español 8.jpg](/uploads/Mapeo%20Amazo%CC%81nico%20-%20Espan%CC%83ol%208.jpg)
+![Mapeo Amazónico - Español 8.jpg](https://cdn.hotosm.org/website/Mapeo+Amazo%CC%81nico+-+Espan%CC%83ol+8.jpg)
 
 En articulación con las autoridades encargadas de la gestión de riesgos en Ecuador, Colombia y Brasil, hemos identificado las áreas más vulnerables en el primer trimestre de 2024 para estos países, muchas de las cuales están relacionadas con sequías extremas causadas por el fenómeno del Niño en zonas boscosas. Por ello, lanzamos proyectos de mapeo en el Tasking Manager de HOT.
 

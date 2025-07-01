@@ -7,7 +7,7 @@ Summary Text: Desde Zitácuaro hasta Salina Cruz, comunidades, universidades y g
   nacional es liderada por el Equipo Humanitario de OpenStreetMap (HOT), en colaboración
   con Codeando México y Trufi Association, para digitalizar rutas, ayudar en esfuerzos
   de modernización del transporte, reducir brechas en la movilidad urbana.
-Feature Image: "/uploads/5-14b6a9.jpg"
+Feature Image: "https://cdn.hotosm.org/website/5-14b6a9.jpg"
 Person:
 - Mariana Marín
 - Céline Jacquin
@@ -20,7 +20,7 @@ Project:
 
 # Del territorio al dato: construir mapas públicos para planificar mejor
 
-![6-6819e1.jpg](/uploads/6-6819e1.jpg)
+![6-6819e1.jpg](https://cdn.hotosm.org/website/6-6819e1.jpg)
 
 *Imagen cortesía de Donobelo y Trufi.*
 
@@ -32,7 +32,7 @@ Frente a este desafío, el Equipo Humanitario de OpenStreetMap (HOT) ha asumido 
 
 # ¿Qué es la cartografía participativa digital?
 
-![4-22e05b.jpg](/uploads/4-22e05b.jpg)
+![4-22e05b.jpg](https://cdn.hotosm.org/website/4-22e05b.jpg)
 
 *Imagen cortesía de Donobelo y Trufi. Se muestra el taller de mapeo en OSM dado por CoMapper.*
 

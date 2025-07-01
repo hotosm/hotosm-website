@@ -9,7 +9,7 @@ Summary Text: El 27 de abril de 2024, la represa hidroeléctrica del 14 de julio
   mapas y negociando el acceso a imágenes post desastre. Este esfuerzo, en colaboración
   con el BID, se centró en crear datos geográficos de alta calidad y desarrollar herramientas
   útiles para la recuperación.
-Feature Image: "/uploads/Porto%20Alegre%20Floods%20-%20Enchentes%20BID%20-%20HOT%20Response.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg"
 Person:
 - Mariana Marín
 - Céline Jacquin
@@ -27,7 +27,7 @@ Este evento marcó el segundo desastre significativo en menos de un año para el
 
 El 9 de mayo de 2024, en respuesta a este desastre, el Hub de Mapeo Abierto en América Latina y el Caribe (LAC Hub) lanzó una activación para apoyar los esfuerzos de respuesta, impulsada por conversaciones con la comunidad OSM Brasil. A esta iniciativa se sumaron solidariamente comunidades mapeadoras de varias universidades, la Brigada de Mapeo humanitario, diversos capítulos de Youthmappers: Youthmappers UERGS, Youthmappers UFRJ, el Mapeadores Livres UFPR y Youthmappers UFV, y otros mapeadores independientes.
 
-![Edificações.jpg](/uploads/Edificac%CC%A7o%CC%83es.jpg)
+![Edificações.jpg](https://cdn.hotosm.org/website/Edificac%CC%A7o%CC%83es.jpg)
 
 *uMap realizado por el equipo de HOT para visualizar edificios mapeados y edificaciones destruidas.*
 
@@ -35,7 +35,7 @@ Este esfuerzo se centró en actualizar el mapa, ya muy desarrollado, en las zona
 
 # **Articulación con el Banco Interamericano de Desarrollo**
 
-![Misión BID Porto Alegre - HOT.jpg](/uploads/Misio%CC%81n%20BID%20Porto%20Alegre%20-%20HOT.jpg)
+![Misión BID Porto Alegre - HOT.jpg](https://cdn.hotosm.org/website/Misio%CC%81n+BID+Porto+Alegre+-+HOT.jpg)
 
 Del 15 de junio al 15 de julio de 2024, el LAC Hub colaboró con el Banco Interamericano de Desarrollo (BID) y los departamentos de educación, salud, deportes y asistencia social del gobierno de Porto Alegre para abordar los daños causados por las inundaciones. Esta colaboración se centró en el desarrollo y prueba de un método de evaluación inicial georreferenciada de las instalaciones afectadas y la sistematización de datos, y propuesta de  una campaña participativa para el monitoreo cartográfico de la recuperación en futuros meses. El objetivo principal es ayudar el esfuerzo local de  desarrollo e implementación de planes de reconstrucción y transformación en las áreas más afectadas, promoviendo la participación comunitaria y asegurando un enfoque inclusivo y sostenible.
 
@@ -43,7 +43,7 @@ El equipo de HOT, liderado por Céline Jacquin, Everton Bortollini y Juan Melo, 
 
 Céline destacó la importancia de organizar la información para priorizar las acciones necesarias:
 
-![Porto Alegre - Misión BID - HOT - Triage.jpg](/uploads/Porto%20Alegre%20-%20Misio%CC%81n%20BID%20-%20HOT%20-%20Triage.jpg)
+![Porto Alegre - Misión BID - HOT - Triage.jpg](https://cdn.hotosm.org/website/Porto+Alegre+-+Misio%CC%81n+BID+-+HOT+-+Triage.jpg)
 
 Durante las visitas a clínicas, escuelas, instalaciones deportivas y centros de triage, el equipo pudo observar el impacto de las inundaciones, que duraron entre 30 y 40 días, creando condiciones insalubres y daños estructurales significativos. La prefectura está publicando datos georreferenciados en su infraestructura de datos espaciales, centralizando la información de cada secretaría para que esté disponible tanto para la población como para la alcaldía. Esto permitirá una mejor coordinación y respuesta en futuros eventos de emergencia.
 

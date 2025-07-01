@@ -4,7 +4,7 @@ date: 2025-01-23 20:14:00 Z
 Summary Text: Discover how the Dhaka Thrive Project is working with local stakeholders
   to collect open geospatial data to address rapid urbanization, climate change, and
   public health challenges in Dhaka's informal settlements.
-Feature Image: "/uploads/Dhaka%20Thrives%20Mapping%20OSM.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Dhaka+Thrives+Mapping+OSM.jpg"
 Person:
 - Bernard Heng
 - Harry Mahardhika Machmud
@@ -36,13 +36,13 @@ The collected data reveals connected risks between dengue and flooding. For exam
 
 “I had the opportunity to visit Mirpur’s slum population during a field visit to Millat Camp and Duaripara. Demonstrating open mapping tools and data collection methodologies to community members highlighted the gaps and needs in terms of data and information. I found this to be an amazing experience.” – Brazil Singh, Open Mapping Guru, Bangladesh
 
-![Brazil - Dhaka Thrive.jpg](/uploads/Brazil%20-%20Dhaka%20Thrive.jpg)
+![Brazil - Dhaka Thrive.jpg](https://cdn.hotosm.org/website/Brazil+-+Dhaka+Thrive.jpg)
 
 ## Interactive dashboard: explore the data
 
 The uMap dashboard for Dhaka Thrive was built using the open-source uMap tool, which leverages the OpenStreetMap database. This platform provides a user-friendly interface for creating interactive maps, visualizing geographic data, and more importantly sharing updated open geospatial data from OSM. The dashboard is designed to showcase open datasets collected from the field mapping project. You can explore the dashboard here:[ ](http://u.osmfr.org/m/1123060)[tinyurl.com/dhakathrivedashboard](http://tinyurl.com/dhakathrivedashboard).
 
-![Dhaka Thrives Mapping OSM Asia Pacific GIF.gif](/uploads/Dhaka%20Thrives%20Mapping%20OSM%20Asia%20Pacific%20GIF.gif)
+![Dhaka Thrives Mapping OSM Asia Pacific GIF.gif](https://cdn.hotosm.org/website/Dhaka+Thrives+Mapping+OSM+Asia+Pacific+GIF.gif)
 *Figure 1: Critical lifeline facilities that are essential for a thriving community*
 
 These include healthcare facilities, educational institutions, places of worship, water points, WASH facilities, and others. To avoid visual clutter, these points are clustered on the map. Zooming in reveals individual icons representing each facility, and hovering over a point displays its name. Clicking on a facility opens a pop-up window that provides detailed attributes collected by field mappers and uploaded to OpenStreetMap.
@@ -65,7 +65,7 @@ In 2025, the project aims to work with relevant stakeholders to:
 
 Dr. Rahul Mathew, Deputy Director of World Vision Bangladesh, emphasized the significance of this effort: "Dhaka Thrive is not just a mapping initiative; it is a transformative project designed to tackle the profound challenges of urbanization and climate resilience in Dhaka. By updating and expanding geospatial data accessible to local stakeholders, this project targets critical areas like Mirpur, known for its dense slum populations and significant influx of climate migrants.”
 
-![Dhaka Mappers.png](/uploads/Dhaka%20Mappers.png)
+![Dhaka Mappers.png](https://cdn.hotosm.org/website/Dhaka+Mappers.png)
 
 The Dhaka Thrive Project exemplifies the power of open geospatial data in addressing climate change and urban challenges. By combining locally-led open data generation and data-driven insights, it is laying the groundwork for climate-resilient cities. Stakeholders will benefit from comprehensive maps, actionable insights, training resources, and a strong community of open-mapping champions, ensuring the open data collected translates into meaningful and sustainable impacts for all.
 

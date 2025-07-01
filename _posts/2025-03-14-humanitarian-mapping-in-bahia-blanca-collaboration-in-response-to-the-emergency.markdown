@@ -4,7 +4,7 @@ date: 2025-03-14 16:50:00 Z
 Summary Text: Swift and effective response after the floods in Bahía Blanca, Argentina.
   The LAC Hub mobilized the humanitarian mapping community to generate key data for
   response and recovery efforts.
-Feature Image: "/uploads/Bahi%CC%81a%20Blanca%20Inundanciones%20Activacio%CC%81n%20Humanitaria.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Bahi%CC%81a+Blanca+Inundanciones+Activacio%CC%81n+Humanitaria.jpg"
 Person: Mariana Marín
 Country:
 - Argentina
@@ -48,7 +48,7 @@ The local government team had recently taken office, so an updated base map was 
 
 > *“We are very grateful for the activation; the data has been extremely useful for our early response actions, and also for future city planning.”*
 
-![Bahía Blanca Activation.jpg](/uploads/Bahi%CC%81a%20Blanca%20Activation.jpg)\
+![Bahía Blanca Activation.jpg](https://cdn.hotosm.org/website/Bahi%CC%81a+Blanca+Activation.jpg)\
 *Image: Results from the activation — 45,837 buildings, 34 km² of roads, 73 mappers, 20 validators, and 4 projects.*
 
 ## **Beyond the Emergency: Urban Planning and New Partnerships**

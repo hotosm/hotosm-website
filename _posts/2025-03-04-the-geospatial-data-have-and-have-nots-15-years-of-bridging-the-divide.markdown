@@ -5,7 +5,7 @@ Summary Text: "As we celebrate the Humanitarian OpenStreetMap Team’s 15 annive
   we reflect on the role of community-generated geospatial data in solving many of
   the core challenges we face this century. How can our wider data-centered international
   community bring in voices that are often left out? \n"
-Feature Image: "/uploads/Geospatial%20data%20haves%20and%20nots.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Geospatial+data+haves+and+nots.jpg"
 Person:
 - Liz Chamberlain
 - Fabrizio Scrollini
@@ -23,14 +23,14 @@ At the Humanitarian OpenStreetMap Team (HOT), we work in places at the other end
 
 Our approach is based on the power of open geospatial data and the role local people play in becoming “data-have” communities and countries. Most of our work is based on the [OpenStreetMap (OSM)](www.openstreetmap.org/) platform, created more than 20 years ago by volunteers around the world to have a free, editable, and useful map of the world. It is widely used by corporate organizations, government agencies, and regular people, and in many parts of the world, it is the most reliable geospatial data platform. Using OSM, we engage communities, volunteers, governments, and civil society organizations around key challenges and use the data to understand the problem and identify solutions. But in order to do this, **they need the right tools and skills**. 
 
-![MapComparison.png](/uploads/MapComparison.png)
+![MapComparison.png](https://cdn.hotosm.org/website/MapComparison.png)
 *Image: Side-by-side comparison of the same area surrounding Baraka city, Democratic Republic of the Congo (DRC), as shown in Google Maps vs OpenStreetMap. Source: [Map Compare by Geofrabrik](https://tools.geofabrik.de/mc/#13/-4.1077/29.1027&num=4&mt0=google-map&mt1=mapnik&mt2=mapnik-german&mt3=here-map).*
 
 For example, open-source **tools** are essential to democratize access to geospatial information. At HOT, we have identified key gaps in open mapping technologies and developed [new tools accordingly](https://www.hotosm.org/tech-suite). Our flagship tool, [the HOT Tasking Manager](https://www.hotosm.org/tech-suite/tasking-manager/), allows digital volunteers to collect extensive amounts of geospatial information in an efficient and effective way, particularly during disasters and humanitarian responses. Additionally, we develop tools that cover other crucial steps of collecting, downloading, and analyzing open geospatial data, centering the people who need it in the tools’ design. For example, gathering more granular information requires purposefully crafted surveys collected through inexpensive tools, which is why we are spearheading a product called the [Field Mapping Tasking Manager](https://www.hotosm.org/updates/field-mapping-tasking-manager-fmtm/). In Dominica and St. Lucia, [we tested our Drone Tasking Manager](https://www.youtube.com/watch?v=Jk_KjmJU1zM), which aims to make drone data collection more accessible to governments and local groups. Finally, [our AI tool fAIr](https://www.hotosm.org/tech-suite/fair/) has workflows that include localized validation of AI models, which lead to higher quality geodata at larger scales. 
 
 But data and tools can only go so far. **It is the use and engagement with community members that matters.** To foster and democratize geospatial data collection and use, it is essential to build **skills** among different kinds of users. At HOT, we find that people can pick up mapping skills quite easily with adequate training. Flying a drone, adding features or information to a geospatial database on a smartphone, and even analyzing data have been done successfully by women’s groups, youth groups, those in very remote communities, and more. HOT provides basic training and hands-on guidance to individuals and communities, as well as more in-depth training & support to governments and partners. The skills needed to create useful geospatial data are attainable, and the potential end results themselves, like thematic maps, engage people in a way that other forms of data visualization can’t do.
 
-![DroneTmCaribbeanTest.jpg](/uploads/DroneTmCaribbeanTest.jpg)
+![DroneTmCaribbeanTest.jpg](https://cdn.hotosm.org/website/DroneTmCaribbeanTest.jpg)
 
 *The Caribbean Drone Task Manager Training, led by Jamaica Flying Labs and funded by GFDRR, enhanced local expertise in drone mapping and geospatial data processing in Dominica and St. Lucia during September and October 2024. Participants gained advanced skills in drone technology, photogrammetry, and the use of Drone Task Manager software, completing real-world missions to produce geospatial products like orthomosaics and 3D models.*
 

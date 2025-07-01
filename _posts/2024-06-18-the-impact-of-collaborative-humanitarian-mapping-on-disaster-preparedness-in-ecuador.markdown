@@ -6,7 +6,7 @@ Summary Text: Collaborative humanitarian mapping enhances risk management in Lat
   America and the Caribbean, as demonstrated by the rapid response to the floods in
   Esmeraldas, Ecuador. Collaboration and open data were key to making informed and
   effective decisions.
-Feature Image: "/uploads/The%20Impact%20of%20Collaborative%20Humanitarian%20Mapping%20on%20Disaster%20Preparedness%20in%20Ecuador.jpg"
+Feature Image: "https://cdn.hotosm.org/website/The+Impact+of+Collaborative+Humanitarian+Mapping+on+Disaster+Preparedness+in+Ecuador.jpg"
 Person:
 - Céline Jacquin
 - Mariana Marín
@@ -24,7 +24,7 @@ In June 2023, responding to alerts from the OSM community in Ecuador about sever
 
 The Risk Management Secretariat of Ecuador showed interest, and the [collaborative mapping in Esmeraldas](https://www.hotosm.org/updates/El-mapeo-como-respuesta-al-desastre-en-Esmeraldas-Ecuador/) demonstrated the effectiveness of joint efforts. In a few weeks, the Latin American OSM community was mobilized to map the affected area, though some residual parts remained unmapped, which is common in such situations, especially in densely urban areas.
 
-![Activation in Ecuador.gif](/uploads/Activacio%CC%81n%20en%20Ecuador.gif)
+![Activation in Ecuador.gif](https://cdn.hotosm.org/website/Activacio%CC%81n+en+Ecuador.gif)
 *Image of Cube before/after Activation*
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcFuLBljrGkgl8VMi3RFQo_2Xk97xf3Mf4jdf4DPZNy-iwutE9y_yZR2pVXZ-t-ZJLr4jyo5kc-owun6PFOSPeDAxR6PAbXmQdZlc3jLfegfguiwsNOOg6PeCTJuc5Eduh6VZ-E-alLlS_7Es57CZ38VqQo?key=KoQAk8FtBfpNmYxNDEnjfA)
@@ -68,9 +68,9 @@ The experience was a demonstration of how collaboration between different actors
 
 ## Results
 
-![Tasking Manager - Ecuador - Projects.jpg](/uploads/Tasking%20Manager%20-%20Ecuador%20-%20Projects.jpg)
+![Tasking Manager - Ecuador - Projects.jpg](https://cdn.hotosm.org/website/Tasking+Manager+-+Ecuador+-+Projects.jpg)
 
-![MapSwipe - Ecuador - Projects-a0cc8b.jpg](/uploads/MapSwipe%20-%20Ecuador%20-%20Projects-a0cc8b.jpg)
+![MapSwipe - Ecuador - Projects-a0cc8b.jpg](https://cdn.hotosm.org/website/MapSwipe+-+Ecuador+-+Projects-a0cc8b.jpg)
 
 These data correspond to **three towns**, **42 villages**, and **368 mapped population centers**.
 

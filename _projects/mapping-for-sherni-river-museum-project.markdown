@@ -6,7 +6,7 @@ Project Summary Text: Through the Open-Mapping for Social Enterprises (OMSE) Pro
   Asia-Pacific region in using open map data to improve their operations and decision-making
   processes. This project highlights our work with Tarun Bharat Sangh in Rajasthan,
   India.
-Feature Image: "/uploads/sherni-river-museum-2023-final.png"
+Feature Image: "https://cdn.hotosm.org/website/sherni-river-museum-2023-final.png"
 Country:
 - India
 Impact Area:
@@ -32,7 +32,7 @@ Tools:
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/storymap_AP-sherni-river-museum-2023.jpg" alt="KPIs achieved during the project" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/storymap_AP-sherni-river-museum-2023.jpg" alt="KPIs achieved during the project" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Front page of the <a href="https://uploads.knightlab.com/storymapjs/098b0d609ca0e9d67ec21c07c4b1ffc8/tbs-test-map/index.html">Sherni River Museum storymap</a> on the browser. This visual showcases the extensive data collection efforts that took place over several months, combining field research, community mapping, and remote sensing to gather thousands of images, stories, and other data points.
     </div>
@@ -49,7 +49,7 @@ Thus, it is important to capture a longitudinal study of the rivers in India, i.
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span><a> Photo by: </a>
         <a href="https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/">AP Hub</a> - 
@@ -90,7 +90,7 @@ The AP Hub held a workshop to discuss possible use cases for the OSM data acquir
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/sherni-stats.png" alt="Dashboard accounting mapped features during the project." style="width: 75%; height: auto;"/>
+    <img src="https://cdn.hotosm.org/website/sherni-stats.png" alt="Dashboard accounting mapped features during the project." style="width: 75%; height: auto;"/>
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Dashboard accounting mapped features during the project. 
     </div>
@@ -99,7 +99,7 @@ The AP Hub held a workshop to discuss possible use cases for the OSM data acquir
 # Creating a River Museum
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/Map1_AP-sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/Map1_AP-sherni-river-museum-2023.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>Map by: <a href="https://www.hotosm.org/hubs/open-mapping-hub-latin-america-and-the-caribbean/">AP Hub</a> - This map analyses the accessibility of water bodies and water points to settlements within the Sherni River Basin [...]</span>
     </div>
@@ -110,8 +110,8 @@ This pilot project focused on improving existing data of local water bodies and 
 <br>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="/uploads/ohsome1_AP-sherni-river-museum-2023.jpg" alt="OSM Data Growth 1" style="width: 45%; height: auto; margin: 0 10px;">
-    <img src="/uploads/ohsome2_AP-sherni-river-museum-2023.jpg" alt="OSM Data Growth 2" style="width: 45%; height: auto; margin: 0 10px;">
+    <img src="https://cdn.hotosm.org/website/ohsome1_AP-sherni-river-museum-2023.jpg" alt="OSM Data Growth 1" style="width: 45%; height: auto; margin: 0 10px;">
+    <img src="https://cdn.hotosm.org/website/ohsome2_AP-sherni-river-museum-2023.jpg" alt="OSM Data Growth 2" style="width: 45%; height: auto; margin: 0 10px;">
 </div>
 <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
     OSM Data growth and changes between Oct 2023 and June 2024 (left: <a href="https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=none&time=2024-01-01T00%3A00%3A00Z%2F2024-07-02T12%3A00%3A00Z%2FP1W&filter=building%3D*+and+%28type%3Away+or+type%3Arelation%29&measure=count&bcircles=77.3029417%2C26.6422145%2C10575.9700429">ohsome, 2024</a>; right: <a href="https://dashboard.ohsome.org/#backend=ohsomeApi&groupBy=none&time=2024-01-01T00%3A00%3A00Z%2F2024-07-02T12%3A00%3A00Z%2FP1W&filter=%28water%3D*+or+waterway%3D*%29+and+%28type%3Away+or+type%3Arelation%29&measure=perimeter&bcircles=77.3029417%2C26.6422145%2C10575.9700429">ohsome, 2024</a>).
@@ -121,7 +121,7 @@ This pilot project focused on improving existing data of local water bodies and 
 In the long term, it is expected that the mapped and validated data will serve as key base maps that can support the local communities in monitoring the health of the rivers and the impact of river conservation efforts. In the short term, the data will help convey key geo-coded information on these water bodies and support TBS in advocating the importance of protecting these previously uncharted water bodies to stakeholders across India.
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/dashboard_AP-sherni-river-museum-2023.jpg" alt="KPIs achieved during the project" style="width: 60%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/dashboard_AP-sherni-river-museum-2023.jpg" alt="KPIs achieved during the project" style="width: 60%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         KPIs achieved during the project.
     </div>

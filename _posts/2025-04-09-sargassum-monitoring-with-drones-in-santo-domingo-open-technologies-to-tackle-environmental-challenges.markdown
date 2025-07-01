@@ -8,7 +8,7 @@ Summary Text: HOT, together with the Global Partnership for Sustainable Developm
   open technologies for generating geospatial data. Participants included representatives
   from civil society, academia, and public institutions. This experience strengthens
   Caribbean collaboration in the face of growing environmental challenges.
-Feature Image: "/uploads/Sargassum%20Monitoring%20with%20Drones%20in%20Santo%20Domingo-%20Open%20Technologies%20to%20Tackle%20Environmental%20Challenges.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Sargassum+Monitoring+with+Drones+in+Santo+Domingo-+Open+Technologies+to+Tackle+Environmental+Challenges.jpg"
 Person:
 - Juan Melo Luna
 - Céline Jacquin
@@ -183,7 +183,7 @@ The experience shared by Leidis Zabala, from the Economic Statistics Directorate
 
 These lessons and practical applications reinforce the importance of connecting open, collaborative technical knowledge with contemporary territorial challenges in our region.
 
-![Sargassum monitoring with drones in Santo Domingo - open technologies for environmental challenges.jpg](/uploads/Monitoreo%20de%20sargazo%20con%20drones%20en%20Santo%20Domingo%20tecnologi%CC%81as%20abiertas%20para%20enfrentar%20desafi%CC%81os%20ambientales.jpg)
+![Sargassum monitoring with drones in Santo Domingo - open technologies for environmental challenges.jpg](https://cdn.hotosm.org/website/Monitoreo+de+sargazo+con+drones+en+Santo+Domingo+tecnologi%CC%81as+abiertas+para+enfrentar+desafi%CC%81os+ambientales.jpg)
 
 Looking ahead, we plan to replicate and promote more exchange spaces between regional experts—both scientists and community actors—focused on territory observation and decision-making, powered by the many possibilities of citizen science and open tools.
 

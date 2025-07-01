@@ -6,7 +6,7 @@ Summary Text: O mapeamento humanitário colaborativo aprimora a gestão de risco
   América Latina e no Caribe, como demonstrado pela rápida resposta às enchentes em
   Esmeraldas, Equador. A colaboração e os dados abertos foram fundamentais para tomar
   decisões informadas e eficazes.
-Feature Image: "/uploads/O%20Impacto%20do%20Mapeamento%20Humanita%CC%81rio%20Colaborativo%20na%20Preparac%CC%A7a%CC%83o%20para%20Desastres%20no%20Equador.jpg"
+Feature Image: "https://cdn.hotosm.org/website/O+Impacto+do+Mapeamento+Humanita%CC%81rio+Colaborativo+na+Preparac%CC%A7a%CC%83o+para+Desastres+no+Equador.jpg"
 Person:
 - Céline Jacquin
 - Mariana Marín
@@ -22,7 +22,7 @@ Em junho de 2023, respondendo aos alertas da comunidade OSM no Equador sobre gra
 
 A Secretaria de Gestão de Riscos do Equador demonstrou interesse, e o [mapeamento colaborativo em Esmeraldas](https://www.hotosm.org/updates/El-mapeo-como-respuesta-al-desastre-en-Esmeraldas-Ecuador/) demonstrou a eficácia dos esforços conjuntos. Em poucas semanas, a comunidade OSM da América Latina foi mobilizada para mapear a área afetada, embora algumas partes residuais tenham permanecido não mapeadas, o que é comum em tais situações, especialmente em áreas urbanas densamente povoadas.
 
-![Ativação no Equador.gif](/uploads/Activacio%CC%81n%20en%20Ecuador.gif)
+![Ativação no Equador.gif](https://cdn.hotosm.org/website/Activacio%CC%81n+en+Ecuador.gif)
 *Imagem do Cube antes/depois da Ativação*
 
 ![](https://lh7-us.googleusercontent.com/docsz/AD_4nXcFuLBljrGkgl8VMi3RFQo_2Xk97xf3Mf4jdf4DPZNy-iwutE9y_yZR2pVXZ-t-ZJLr4jyo5kc-owun6PFOSPeDAxR6PAbXmQdZlc3jLfegfguiwsNOOg6PeCTJuc5Eduh6VZ-E-alLlS_7Es57CZ38VqQo?key=KoQAk8FtBfpNmYxNDEnjfA)
@@ -68,9 +68,9 @@ reforçou a importância da colaboração multissetorial na gestão de riscos na
 
 ## Resultados
 
-![MapSwipe - Equador - Projetos.jpg](/uploads/MapSwipe%20-%20Equador%20-%20Projetos.jpg)
+![MapSwipe - Equador - Projetos.jpg](https://cdn.hotosm.org/website/MapSwipe+-+Equador+-+Projetos.jpg)
 
-![Tasking Manager - Equador - Projetos-67d7ee.jpg](/uploads/Tasking%20Manager%20-%20Equador%20-%20Projetos-67d7ee.jpg)
+![Tasking Manager - Equador - Projetos-67d7ee.jpg](https://cdn.hotosm.org/website/Tasking+Manager+-+Equador+-+Projetos-67d7ee.jpg)
 
 Esses dados correspondem a **três cidades**, **42 vilarejos** e **368 centros populacionais mapeados**.
 

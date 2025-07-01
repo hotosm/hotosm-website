@@ -9,7 +9,7 @@ Project Summary Text: "Escalation of conflict in Gaza, starting in October 2023,
   volunteers using HOT’s Tasking Manager.  Using pre-October 2023 imagery, this effort
   added a net total of 59,223 buildings to the dataset and improved thousands of existing
   features through 469,152 map edits. \n"
-Feature Image: "/uploads/Al-Jazeera-gaza-in-war-023.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Al-Jazeera-gaza-in-war-023.jpg"
 Country:
 - Palestinian Territory
 Impact Area:
@@ -44,7 +44,7 @@ The updated OSM data in Gaza is live in OpenStreetMap and available via [HDX](ht
 
 <br>
 
-![Example of increased data quality in OpenStreetMap building footprints in Gaza B](https://www.hotosm.org/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza%20B.png)
+![Example of increased data quality in OpenStreetMap building footprints in Gaza B](https://cdn.hotosm.org/website/Example+of+increased+data+quality+in+OpenStreetMap+building+footprints+in+Gaza+B.png)
 
 <br>
 

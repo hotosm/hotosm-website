@@ -69,7 +69,7 @@ The project successfully mapped over **52,000 buildings**, **639 km of roads**, 
 
 As part of the outcomes, the mapping initiative covered over **700 educational institutions in Acapulco de Juárez**, incorporating data from DENUE and local authorities, spanning central and peripheral locations. Additionally, **170 healthcare centers in Acapulco de Juárez and Coyuca de Benítez** and all **53 public markets** mentioned in the National Statistical Directory of Economic Units (DENUE) were thoroughly mapped.
 
-![Campaña Acapulco (1930 x 1090 px).gif](/uploads/Campan%CC%83a%20Acapulco%20(1930%20x%201090%20px).gif)
+![Campaña Acapulco (1930 x 1090 px).gif](https://cdn.hotosm.org/website/Campan%CC%83a+Acapulco+(1930+x+1090+px).gif)
 
 ## **LESSONS LEARNED**
 

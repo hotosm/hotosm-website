@@ -3,7 +3,7 @@ title: Introducing Street-Level Imagery Projects to MapSwipe4Web!
 date: 2025-03-12 08:14:00 Z
 Summary Text: 'MapSwipe4Web is launching a new street-level view! Ready to know the
   details? Read ahead:'
-Feature Image: "/uploads/MapSwipe_StreetLevelBlog.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/MapSwipe_StreetLevelBlog.jpeg"
 Person: Nicole Siggins
 ---
 
@@ -13,7 +13,7 @@ Big news, MapSwipers! [MapSwipe](https://web.mapswipe.org) is stepping up its ga
 
 What’s this new project type all about? Imagine this: you’re looking at ground-level imagery from [Mapillary](https://www.mapillary.com/)–a street-level view that feels like you’re walking right through the area. **Your mission?** Spot specific details in the images. For example, you might be asked: is the road paved or unpaved? Or, do you see any solid waste in the image?
 
-![MapSwipe_StreetLevelBlog3.png](/uploads/MapSwipe_StreetLevelBlog3.png)
+![MapSwipe_StreetLevelBlog3.png](https://cdn.hotosm.org/website/MapSwipe_StreetLevelBlog3.png)
 *Mapping solid waste in Dar es Salaam, Tanzania-a thesis project based out of the Heidelberg Institute for GeoInformation Technology (HeiGIT). Image source: Mappillary. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
 
 ## Why Is This a Big Deal?
@@ -35,7 +35,7 @@ At its core, MapSwipe is about making mapping easy and accessible for everyone. 
 
 With the launch of MapSwipe4Web’s street-level imagery project, we’re continuing to push boundaries. This isn’t just about identifying features on a landscape – it’s about understanding the world we live in and supporting communities with the data they need to thrive.
 
-![MapSwipe_StreetLevelBlog2.png](/uploads/MapSwipe_StreetLevelBlog2.png)
+![MapSwipe_StreetLevelBlog2.png](https://cdn.hotosm.org/website/MapSwipe_StreetLevelBlog2.png)
 *An early prototype asking the user to identify if a road is paved in South Africa, courtesy of the Heidelberg Institute for GeoInformation Technology (HeiGIT). Image source: Mappillary. [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
 
 ## Get Involved!

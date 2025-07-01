@@ -6,7 +6,7 @@ Project Summary Text: Amid Sudan’s crisis, a global effort led by HOT, with su
   a better response. By connecting local knowledge with tech, we are creating data
   and maps that can support humanitarian organizations deliver aid where it's needed
   most.
-Feature Image: "/uploads/Khartoum_ISS010E23451_lrg.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Khartoum_ISS010E23451_lrg.jpg"
 Country:
 - Sudan
 Impact Area:
@@ -282,7 +282,7 @@ The Sudanese diaspora plays a crucial role. Members of these communities possess
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/sudan-training-2025.jpeg" alt="Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/sudan-training-2025.jpeg" alt="Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Two-day OpenStreetMap training with Sudanese refugees in Kampala in 2025. Participants explored different open source mapping tools, and learned about basic concepts Geographic Information Systems(GIS) concepts.
     </div>
@@ -343,7 +343,7 @@ OSM data can be downloaded from HDX. Scroll through this [filtered HDX list](htt
 ### Download Based on Areas of Interest
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/sdn_sudan_crisis_2023_aoi.png" alt="Map showing data quality issues such as lack of completness and inaccurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/sdn_sudan_crisis_2023_aoi.png" alt="Map showing data quality issues such as lack of completness and inaccurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Map of the Areas of interest and data improvements part of the campaign on Tasking Manager. 
     </div>
@@ -409,4 +409,4 @@ If you would like to help, please refer to the [wiki](https://wiki.openstreetmap
 **Sponsored by:**
 <br>
 <br>
-<img src="https://www.hotosm.org/uploads/h2h-logo-new-400x400.png" width="100" height="100">
+<img src="https://cdn.hotosm.org/website/h2h-logo-new-400x400.png" width="100" height="100">

@@ -10,7 +10,7 @@ Intro Text: "HOT collaborates with a wide range of organizations to leverage ope
   data. \n<br>\n<br>\nHOT has a growing community of partners, including:\n<br>\n<br>\n<a
   href=\"https://aws.amazon.com/what-is-cloud-computing\"><img src=\"https://d0.awsstatic.com/logos/powered-by-aws.png\"
   alt=\"Powered by AWS Cloud Computing\"></a>\n<a href=\"https://www.datacamp.com/\"><img
-  src=\"https://hotosm.org/uploads/DataCamp_LOGO.png\" alt=\"DataCamp\"></a>"
+  src=\"https://cdn.hotosm.org/website/DataCamp_LOGO.png\" alt=\"DataCamp\"></a>"
 Page Contact:
   Label: Partner with us
   Text: Interested in partnering with HOT?

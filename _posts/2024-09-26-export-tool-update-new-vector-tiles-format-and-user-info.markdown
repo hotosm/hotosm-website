@@ -13,7 +13,7 @@ Summary Text: 'For over 15 years, the Humanitarian OpenStreetMap Team (HOT) has 
   helping users access OpenStreetMap (OSM) data through the Export Tool, an easy interface
   that allows downloads in popular spatial data formats. This week we introduce two
   new tile formats and the ability to get User Info + Timestamps. '
-Feature Image: "/uploads/pmtiles-viewer-example.png"
+Feature Image: "https://cdn.hotosm.org/website/pmtiles-viewer-example.png"
 Person:
 - Kshitij Sharma
 - Claudio de los Reyes Teran
@@ -29,7 +29,7 @@ Person:
 
 ## 1) New formats and their uses: PMTiles and MVT
 
-![mapatonymbol.jpg](/uploads/mvt-pmtiles-export-tool.png)
+![mapatonymbol.jpg](https://cdn.hotosm.org/website/mvt-pmtiles-export-tool.png)
 *Image depicting the checkboxes that need to be selected for the two new formats on the [OpenStreetMap Export Tool](https://export.hotosm.org/v3/)*
 
 <br>
@@ -60,7 +60,7 @@ One of the tile format’s unique advantages is that they are optimized for web-
 ## 2) New Features: Metainfo
 
 
-![mapatonymbol.jpg](/uploads/user-info-export-tool.png)
+![mapatonymbol.jpg](https://cdn.hotosm.org/website/user-info-export-tool.png)
 *Image of the [Export Tool](https://export.hotosm.org/v3/) showing how the checkbox to include user info and timestamps on your export.*
 
 <br>
@@ -98,7 +98,7 @@ The "osm_user" metadata provides valuable context about who contributed to the m
 
 *Example use of User Info and Timestamp with spatial element*
 
-![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](/uploads/Surabaya-GIFrecord-Sept%2022.gif)
+![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](https://cdn.hotosm.org/website/Surabaya-GIFrecord-Sept+22.gif)
 *With the user info and timestamp, you can identify the amount of contributors and the time of their contribution. In this example, HOTOSM Indonesia 
  shows the mapping pace and location over a period of time for a campaign ins Surabaya in 2016 by *
 

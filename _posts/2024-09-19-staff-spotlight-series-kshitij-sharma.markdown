@@ -11,7 +11,7 @@ Summary Text: Each quarter, we feature one of our all-star staff members in a St
   Spotlight Series. Staff featured in this Series have been peer-nominated for their
   superb performance and values-driven work. This quarter, we spotlight Kshitij Sharma,
   HOT's Product Owner for Map Data Access Services.
-Feature Image: "/uploads/Kshitij-Blog.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Kshitij-Blog.jpg"
 Person:
 - Dana Gallaty
 - Kshitij Sharma
@@ -34,7 +34,7 @@ OSM has changed the way people think about openness in data, and HOT has demonst
 
 I started as a Backend Engineer, which allowed me to develop a solid foundation for problem-solving. As I gained experience and confidence, I transitioned into a Product Owner for map data access services. Advancement in my career occurred when I worked on the fAIr project, a free AI initiative that sparked my interest in AI. This led to my current position as an AI Engineer, which has also motivated me to pursue my master's degree. Throughout my time at HOT, I have led a couple of key projects, including the raw-data-api project, which helped establish our data access services. I also worked on making map data more accessible and user-friendly, and integrated these services with the [Tasking Manager](https://tasks.hotosm.org/), simplifying work for volunteers and staff. Additionally, I ensured the reliability and consistency of our data for humanitarian efforts, and explored innovative methods to enhance our maps, such as utilizing vector tiles. My approach to problem-solving, rooted in thorough research and a focus on finding stable solutions with solid proof of concepts, has been instrumental in my growth and transition into an AI Engineer.
 
-![Kshitij-Blog-2.jpg](/uploads/Kshitij-Blog-2.jpg)
+![Kshitij-Blog-2.jpg](https://cdn.hotosm.org/website/Kshitij-Blog-2.jpg)
 *Kshitij is a Graduate Geomatics engineer from the Institute of Engineering, Tribhuvan University Nepal. He has been engaged with OpenStreetMap since 2016. Besides that, he loves to play basketball, FIFA and travel in his free time.*
 
 ## What’s one thing that surprised you about your current role?

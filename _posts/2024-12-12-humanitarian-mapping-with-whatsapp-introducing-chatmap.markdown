@@ -4,7 +4,7 @@ date: 2024-12-12 19:06:00 Z
 Summary Text: ChatMap, turns WhatsApp chats into instant maps, extracting location
   data and messages. Ideal for disaster-prone areas, it enhances communities with
   limited tech skills, even offline.
-Feature Image: "/uploads/chatmap%20whatsapp%20humanitarian%20openstreetmap.jpg"
+Feature Image: "https://cdn.hotosm.org/website/chatmap+whatsapp+humanitarian+openstreetmap.jpg"
 Person: Emilio Mariscal
 ---
 
@@ -20,7 +20,7 @@ A few months later, in the city of Porto Alegre, Brazil, [big floods affected a 
 
 As a volunteer firefighter, I have experienced this need firsthand. In the place where I live, street names are something new, so it’s common for people to share their location with us via their phones to help us find their houses during emergencies.
 
-![Humanitarian Mapping ChatMap WhatsApp.jpg](/uploads/Humanitarian%20Mapping%20ChatMap%20WhatsApp.jpg)
+![Humanitarian Mapping ChatMap WhatsApp.jpg](https://cdn.hotosm.org/website/Humanitarian+Mapping+ChatMap+WhatsApp.jpg)
 
 I aimed to create something incredibly simple and accessible—something anyone could use, even those unfamiliar with geographic coordinates. Instant messaging is widely used, everyone has an app installed for that, and, almost, everyone knows how to send messages. WhatsApp is installed in almost every phone in Latin America, but also in other areas of the world. For example, India alone has 535.8 million users.
 
@@ -34,14 +34,14 @@ This solution provides complete independence, as it does not require users to ad
 
 We’re already using it! Recently, as part of a community mapping project to assess the risks in the slopes of Comuna 8 in Medellín, an area vulnerable to repeated flooding, a group of students and local collectives collaborated with the Humanitarian OpenStreetMap (HOT) to map areas affected by landslides and other disaster impacts. This initiative facilitated the identification and characterization of settlements, supporting humanitarian aid efforts.
 
-![Humanitarian Mapping ChatMap.jpg](/uploads/Humanitarian%20Mapping%20ChatMap.jpg)*\
+![Humanitarian Mapping ChatMap.jpg](https://cdn.hotosm.org/website/Humanitarian+Mapping+ChatMap.jpg)*\
 **Photo by Daniela Arbeláez Suárez (source: WhatsApp)***
 
 As shown in the picture, the community explored the area on foot, using their phones to take photos and notes, and shared them along with the location. It was incredibly simple!
 
 The data gathered during this activity was transformed 20 minutes later (once getting access to a WIFI network) into a map, which was then uploaded to our online platform powered by uMap ([umap.hotosm.org](http://umap.hotosm.org)).
 
-![Humanitarian Mapping ChatMap WhatsApp Colombia.jpg](/uploads/Humanitarian%20Mapping%20ChatMap%20WhatsApp%20Colombia.jpg)\
+![Humanitarian Mapping ChatMap WhatsApp Colombia.jpg](https://cdn.hotosm.org/website/Humanitarian+Mapping+ChatMap+WhatsApp+Colombia.jpg)\
 *See more at **[https://umap.hotosm.org/en/map/unaula-mapea-con-whatsapp_38](https://umap.hotosm.org/en/map/unaula-mapea-con-whatsapp_38#17/6.24974/-75.53854)***
 
 # **What’s next?**

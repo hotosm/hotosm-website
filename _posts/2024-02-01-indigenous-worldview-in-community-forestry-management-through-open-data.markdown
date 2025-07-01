@@ -4,7 +4,7 @@ date: 2024-02-01 19:51:00 Z
 Summary Text: Explore the Open Cities Guatemala Project, enhancing Indigenous autonomy
   in San José Poaquil. Discover the innovative use of geographic data, participatory
   mapping, and tech-enabled applications in sustainable community forestry management.
-Feature Image: "/uploads/Open%20Cities%20Guatemala%20-%20San%20Jose%CC%81%20Poaquil.png"
+Feature Image: "https://cdn.hotosm.org/website/Open+Cities+Guatemala+-+San+Jose%CC%81+Poaquil.png"
 Person: Ana Prada
 Country:
 - Guatemala

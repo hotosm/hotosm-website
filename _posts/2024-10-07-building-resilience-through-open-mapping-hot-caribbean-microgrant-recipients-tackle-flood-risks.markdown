@@ -6,7 +6,7 @@ Summary Text: HOT Caribbean Microgrant Programme is enhancing local communities 
   Trinidad and Tobago and Saint Lucia to build resilience against flood risks through
   open mapping. Learn about community-led disaster risk reduction, youth engagement,
   and geospatial data's role in enhancing disaster preparedness in the Caribbean.
-Feature Image: "/uploads/Events%20%20Eventos.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Events++Eventos.jpg"
 Is image top aligned: false
 Person: Louise Mathurin Serieux
 Country:
@@ -24,7 +24,7 @@ The invitation to submit proposals closed on July 16, 2024, followed by a review
 
 ## *GISSTT Mapping the Woodlands for Flood Resilience*
 
-![7.jpg](/uploads/7.jpg)
+![7.jpg](https://cdn.hotosm.org/website/7.jpg)
 
 The GIS Society of Trinidad and Tobago (GISSTT) is partnering with the Office of Disaster Preparedness and Management (ODPM) and local community members from the Woodland Flood Action Group to implement the Woodland Mapping Project. The project aims to strengthen GISSTT’s mapping community and local disaster management agencies in collecting reliable data for risk assessments through training and capacity-building. Woodland, located in southwestern Trinidad, is prone to flooding due to its low-lying terrain and poor drainage infrastructure. Floods in the area often disrupt daily life and cause economic losses.
 
@@ -36,7 +36,7 @@ Priya Harnarine, Vice President of GISSTT, highlighted the importance of this pa
 
 ## *Youth Emergency Action Committees (YEAC) Community-Led Mapping for DRR*
 
-![6.jpg](/uploads/6.jpg)
+![6.jpg](https://cdn.hotosm.org/website/6.jpg)
 
 Community-Led Mapping for DRR (CLMDRR) project will involve 16 individuals: 12 from CBO and 4 youth mappers from Marc, Bexon, St. Lucia. This initiative aims to train and empower community-centered mappers on OSM. Youth mappers will share their skills and help train the 12 project participants in mapping and data collection on OSM. Field mapping sessions will be held to gather information for the community’s Hazard Vulnerability and Capacity Assessment (HVCA), which will guide future mitigation projects. A mapathon will be held at the CBO’s center to conclude the project, and the best mappers will be recognized.
 

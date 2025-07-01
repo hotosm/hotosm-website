@@ -16,7 +16,7 @@ Summary Text: |-
   Climate change has led to an increase in <a href="https://www.unep.org/resources/report/spreading-wildfire-rising-threat-extraordinary-landscape-fires?gad_source=1&gclid=EAIaIQobChMIo_qmwrOYiAMVADXUAR2NCwYcEAAYASAAEgIMT_D_BwE">wildfire</a> season length, wildfire frequency, and burned areas around the world. The wildfire season has lengthened in many areas due to factors including warmer springs, longer summer dry seasons, and drier soils and vegetation.
 
   Given this context, people from the Alpa Corral region in Córdoba, Argentina, who want to protect our native forests and towns, met from July 26 to 28 to see how the Humanitarian OpenStreetMap Team’s End-to-End Open Mapping Tech can help people prepare themselves to face disasters together.
-Feature Image: "/uploads/f18866432_ftyp.jpg"
+Feature Image: "https://cdn.hotosm.org/website/f18866432_ftyp.jpg"
 Is image top aligned: true
 Person: Emilio Mariscal
 Country:
@@ -32,7 +32,7 @@ In the small town of Alpa Corral our team coordinated with the local government,
 
 This is the process that we followed, using tech tools that are available to everyone for free.
 
-![PreparingDrone.jpg](/uploads/PreparingDrone.jpg)
+![PreparingDrone.jpg](https://cdn.hotosm.org/website/PreparingDrone.jpg)
 *Preparing for drone flying, photo by Ignacio Mariscal*
 
 ## Creating our own aerial map
@@ -49,7 +49,7 @@ All captured images were processed and then published as a browsable aerial map 
 
 We then moved to map buildings, because it’s easier than to map other features like forests or highways. In order to map in a collaborative and organized way, we created a [HOT Tasking Manager project](https://tasks.hotosm.org/projects/17259), dividing the area in a grid of tasks that each mapper could take. People mapped together 1466 buildings in what we call a *mapathon*. 
 
-![IMG_3269.jpg](/uploads/IMG_3269.jpg)
+![IMG_3269.jpg](https://cdn.hotosm.org/website/IMG_3269.jpg)
 *Remote mapping with Tasking Manager, photo by Daniel Bellomo*
 
 During remote mapping, people drew polygons for each building manually over satellite or aerial imagery when this was available. At HOT, we’re currently working on a way to make this work more efficient, taking some of the mapped buildings and creating an AI model for mapping the rest. During the workshop we did a quick demonstration of the product that we’re developing to achieve this goal in the near future: [fAIr](https://fair-dev.hotosm.org/).
@@ -60,7 +60,7 @@ Remote mapping is not enough to have a full map because there are things that ca
 
 To add local knowledge to the data, we created a project in the [HOT Field Mapping Tasking Manager (FMTM)](https://fmtm.hotosm.org/), with a grid of tasks and a customized data collection [form ](https://github.com/hotosm/fmtm/blob/development/docs/example-xlsforms/simple_building_survey_wildfires.xlsx)that was then used with a field data collection app ([ODK Collect](https://docs.getodk.org/collect-intro/)) in order to enrich the previously mapped buildings.
 
-![IMG_3199.jpg](/uploads/IMG_3199.jpg)
+![IMG_3199.jpg](https://cdn.hotosm.org/website/IMG_3199.jpg)
 *Adding local knowledge with Field Mapping Tasking Manager, photo by Daniel Bellomo*
 
 ## Obtaining all the data
@@ -78,7 +78,7 @@ Lots of people went outside to fight the fire, while others stayed inside, getti
 
 We prepared the scenario in the field days before, adding color marks for hot spots (red = fire; yellow = no fire, but hot; green = no fire, cold) and evacuation (red = people not evacuated, green = people evacuated). We also had a secret plan (it was not disclosed to everyone, only some event organizers knew) for how the incident should develop.
 
-![IMG_3290.jpg](/uploads/IMG_3290.jpg)
+![IMG_3290.jpg](https://cdn.hotosm.org/website/IMG_3290.jpg)
 *Looking for buildings in risk during the wildfire drill, photo by Daniel Bellomo*
 
 Once the drill started, we organized following an ICS (Incident Command System), something that’s very common in disaster situations. The ICS is a "top-down" management system for incidents widely used across the world. 
@@ -99,7 +99,7 @@ Data collected in the field was added to the map, mostly in the following way:
 4. The GIS Operator in charge of publishing the data added it to uMap.
 5. The Information Officer shared the news with everyone using the projector screen. 
 
-![uMap.jpg](/uploads/uMap.jpg)
+![uMap.jpg](https://cdn.hotosm.org/website/uMap.jpg)
 *Resulting map as displayed in [uMap.](https://umap.openstreetmap.fr/en/map/if-alpa-corral_1098291#16)*
 
 # Thank you, people

@@ -7,7 +7,7 @@ Summary Text: From Zitácuaro to Salina Cruz, communities, universities, and loc
   strategy is led by the Humanitarian OpenStreetMap Team (HOT), in collaboration with
   Codeando México and Trufi Association, to digitize routes, support transportation
   modernization efforts, and reduce gaps in urban mobility.
-Feature Image: "/uploads/5-14b6a9.jpg"
+Feature Image: "https://cdn.hotosm.org/website/5-14b6a9.jpg"
 Person:
 - Mariana Marín
 - Céline Jacquin
@@ -21,7 +21,7 @@ Project:
 
 # From Territory to Data: Building Public Maps for Better Planning
 
-![6-6819e1.jpg](/uploads/6-6819e1.jpg)
+![6-6819e1.jpg](https://cdn.hotosm.org/website/6-6819e1.jpg)
 
 *Image courtesy of Donobelo and Trufi.*
 
@@ -33,7 +33,7 @@ In response, the Humanitarian OpenStreetMap Team (HOT) has taken regional leader
 
 # What is Digital Participatory Mapping?
 
-![4-22e05b.jpg](/uploads/4-22e05b.jpg)
+![4-22e05b.jpg](https://cdn.hotosm.org/website/4-22e05b.jpg)
 
 *Image courtesy of Donobelo and Trufi. Shows the OSM mapping workshop by CoMapper.*
 

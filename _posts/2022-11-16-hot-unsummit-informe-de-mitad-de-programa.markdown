@@ -102,7 +102,7 @@ El número de miembros de la comunidad apoyados para asistir a eventos solo repr
 # ¿Qué tipo de temas se han compartido y discutido?
 Estimamos que se han llevado a cabo más de 100 sesiones centradas en temas humanitarios o de desarrollo/mapeo abierto en los siete eventos y 31 de ellas han sido habilitadas directamente por el programa HOT unSummit.
 
-![unSummit 9.png](/uploads/unSummit%209.png)
+![unSummit 9.png](https://cdn.hotosm.org/website/unSummit+9.png)
 
 Los hemos categorizado por las áreas de impacto de HOT, pero también incluimos categorías para *Desarrollo comunitario y Tecnología, herramientas y datos* para aquellas sesiones sin un enfoque de área de impacto específico. 
 

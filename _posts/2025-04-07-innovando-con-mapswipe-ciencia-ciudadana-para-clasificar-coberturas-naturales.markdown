@@ -5,7 +5,7 @@ Summary Text: Un proyecto piloto que involucró a CONABIO y la Iniciativa Climá
   Mexicana junto a HOT explora el uso de MapSwipe para identificar coberturas naturales
   del suelo, mostrando su potencial para la ciencia ciudadana y el monitoreo participativo
   ambiental.
-Feature Image: "/uploads/A%CC%81rea%20de%20mapa%20generado%20a%20partir%20de%20MapSwipe%202.jpg"
+Feature Image: "https://cdn.hotosm.org/website/A%CC%81rea+de+mapa+generado+a+partir+de+MapSwipe+2.jpg"
 Person:
 - Céline Jacquin
 - Juan Melo Luna
@@ -84,7 +84,7 @@ Este piloto en MapSwipe busca superar esas limitaciones al desarrollar un sistem
 
 ## Innovación del Proyecto
 
-![Área de mapa generado a partir de MapSwipe .jpg](/uploads/A%CC%81rea%20de%20mapa%20generado%20a%20partir%20de%20MapSwipe%20.jpg)
+![Área de mapa generado a partir de MapSwipe .jpg](https://cdn.hotosm.org/website/A%CC%81rea+de+mapa+generado+a+partir+de+MapSwipe+.jpg)
 
 En el marco del proyecto piloto desarrollado en colaboración con una iniciativa climática, se trabajó en la conceptualización y diseño técnico del proyecto con el apoyo de Humanitarian OpenStreetMap Team (HOT). La implementación se realizó en una región específica: Michoacán, ubicada en el suroccidente de México. Este territorio fue seleccionado como área de muestreo para llevar a cabo la identificación de dos tipos de coberturas del suelo:
 
@@ -96,7 +96,7 @@ Para este propósito, se pidió a los participantes que, utilizando la herramien
 
 *“Este análisis está muy bien planteado y nos da varias pistas para el futuro. El ejercicio nos ayuda a pensar cómo podemos socializar más y sumar a la comunidad y al público en general en este tipo de ejercicios”*, José Morales, Gerente de Ecosistemas y Cambio Climático de la Iniciativa Climática de México.
 
-![Área de mapa generado a partir de MapSwipe 2.jpg](/uploads/A%CC%81rea%20de%20mapa%20generado%20a%20partir%20de%20MapSwipe%202.jpg)
+![Área de mapa generado a partir de MapSwipe 2.jpg](https://cdn.hotosm.org/website/A%CC%81rea+de+mapa+generado+a+partir+de+MapSwipe+2.jpg)
 
 ## Resultados
 
@@ -104,7 +104,7 @@ Los resultados del proyecto piloto ofrecen una perspectiva alentadora sobre el p
 
 *“Lo que estamos haciendo con el apoyo de CONABIO y la Iniciativa Climática Mexicana es realmente valioso, porque MapSwipe nunca se había utilizado más allá de marcar: ‘aquí hay un edificio’. Y esto va más allá de eso”*, comparte Juan Melo, Especialista en Calidad de Datos del LAC Hub.
 
-![rESULTADOS MAPWSIPE HOT CONABIO.jpg](/uploads/rESULTADOS%20MAPWSIPE%20HOT%20CONABIO.jpg)
+![rESULTADOS MAPWSIPE HOT CONABIO.jpg](https://cdn.hotosm.org/website/rESULTADOS+MAPWSIPE+HOT+CONABIO.jpg)
 
 *Resultados en MapSwipe de la identificación de cobeturas en Michoacán que pueden explorarse en su totalidad en este [enlace](https://mapswipe.org/en/projects/-OEJrs09tcmfWeGirG-Q/).*
 

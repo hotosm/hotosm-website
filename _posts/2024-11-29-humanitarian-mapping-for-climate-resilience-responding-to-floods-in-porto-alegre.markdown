@@ -5,7 +5,7 @@ Summary Text: After the 2024 floods in Porto Alegre, Brazil, the IDB and HOT par
   to map and assess damaged infrastructure. Using georeferenced data and community
   involvement, the collaboration supports sustainable recovery and resilience for
   the city’s most vulnerable.
-Feature Image: "/uploads/Porto%20Alegre%20Floods%20-%20Enchentes%20BID%20-%20HOT%20Response.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg"
 Person:
 - Mariana Marín
 - Céline Jacquin
@@ -25,7 +25,7 @@ Before the floods, the [Inter-American Development Bank](https://www.iadb.org/en
 
 As the emergency gave way to response and rebuilding efforts, it became crucial to understand the current infrastructure status of education, health, and social services facilities, particularly affected in the city’s most vulnerable areas. In this context, to accurately assess the situation on the ground and provide tailored support to the authorities, an IDB and HOT mission visited Porto Alegre last June.
 
-![Blog Porto Alegre.jpg](/uploads/Blog%20Porto%20Alegre.jpg)
+![Blog Porto Alegre.jpg](https://cdn.hotosm.org/website/Blog+Porto+Alegre.jpg)
 
 The mission, co-led by the Humanitarian OpenStreetMap team and a multidisciplinary group from the IDB’s Social Sector, focused on identifying and mapping buildings in need of damage assessment, reviewing existing data and past evaluations, and addressing critical information gaps to support a georeferenced assessment of public facilities. To aid timely decision-making, an online survey tool was created, allowing for the efficient collection of accurate, comparable, and georeferenced data. This work relied on close collaboration with Porto Alegre’s Secretariat of Planning and Strategic Affairs, along with representatives from the Secretariats of Education, Health, Social Assistance, and Sports.
 

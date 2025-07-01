@@ -6,7 +6,7 @@ Summary Text: OpenAerialMap is evolving to provide faster, more reliable access 
   and modern tools, HOT and Development Seed are rebuilding OAM to meet today’s urgent
   mapping needs. Discover how this upgrade will improve interoperability, speed, and
   usability for disaster response and recovery efforts.
-Feature Image: "/uploads/OAMv2Banner.jpg"
+Feature Image: "https://cdn.hotosm.org/website/OAMv2Banner.jpg"
 Person: Cristiano Giovando
 ---
 
@@ -16,7 +16,7 @@ High-resolution satellite and drone imagery is critical for effective humanitari
 
 A foundational principle of OAM is its commitment to open data. Every image available through OAM is openly licensed, ensuring it can be freely used and shared by anyone. This commitment is fundamental to the mission of organizations like HOT and the broader open mapping community, especially during disaster response, where rapid, unrestricted access is vital. From the Nepal Earthquake response in 2015 to recent tropical cyclones, the 2023 earthquake in Turkey and Syria, and the recent Myanmar earthquake response, OAM has been instrumental in quickly getting imagery into the hands of mappers.
 
-![OAM Screenshot.jpg](/uploads/OAM%20Screenshot.jpg)
+![OAM Screenshot.jpg](https://cdn.hotosm.org/website/OAM+Screenshot.jpg)
 *Example of drone imagery from central Monrovia uploaded to OpenAerialMap*
 
 However, finding the right and accessible imagery, and making it easily usable, remains challenging. Mapping projects, especially rapid responses coordinated through [HOT's Tasking Manager](https://tasks.hotosm.org/), need a seamless way to assess available imagery and access it through standard tile map services (TMS).
@@ -43,7 +43,7 @@ Adopting STAC offers significant advantages:
 
 Alongside the backend overhaul, we're looking to rebuild the OAM Browser interface. We'll leverage the[ excellent design work done by the Kontur team](https://www.kontur.io/blog/oam-redesign/) and existing open source STAC and web mapping libraries.
 
-![OAM-prototype.png](/uploads/OAM-prototype.png)
+![OAM-prototype.png](https://cdn.hotosm.org/website/OAM-prototype.png)
 *Prototype of the new version. Source: Kontur.*
 
 ## Get Involved & Learn More!

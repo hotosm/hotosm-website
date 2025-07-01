@@ -67,27 +67,27 @@ date: 2023-03-28 20:14:00 Z
     <div class="swiper-container">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
-                <img src="https://diff.wikimedia.org/wp-content/uploads/2025/03/Guardianas_del_Conchalito_y_Costa_Salvaje_monitorean_el_manglar_El_Mogote_en_La_Paz_Baja_California_Sur_c4b532.jpg?w=512" 
+                <img src="https://diff.wikimedia.org/wp-contenthttps://cdn.hotosm.org/website/2025/03/Guardianas_del_Conchalito_y_Costa_Salvaje_monitorean_el_manglar_El_Mogote_en_La_Paz_Baja_California_Sur_c4b532.jpg?w=512" 
                      alt="Guardianas monitoring mangroves">
             </div>
             <div class="swiper-slide">
-                <img src="https://diff.wikimedia.org/wp-content/uploads/2025/03/Estero_El_Conchalito_en_La_Paz_Baja_California_Sur_desde_vista_aerea_3_ee8e3e.jpg?w=512" 
+                <img src="https://diff.wikimedia.org/wp-contenthttps://cdn.hotosm.org/website/2025/03/Estero_El_Conchalito_en_La_Paz_Baja_California_Sur_desde_vista_aerea_3_ee8e3e.jpg?w=512" 
                      alt="Aerial view of El Conchalito">
             </div>
             <div class="swiper-slide">
-                <img src="https://diff.wikimedia.org/wp-content/uploads/2025/03/Sesion_de_monitoreo_para_proteccion_de_manglares_de_Baja_California_Sur_01_429c47.jpg?w=512" 
+                <img src="https://diff.wikimedia.org/wp-contenthttps://cdn.hotosm.org/website/2025/03/Sesion_de_monitoreo_para_proteccion_de_manglares_de_Baja_California_Sur_01_429c47.jpg?w=512" 
                      alt="Mangrove monitoring session">
             </div>
             <div class="swiper-slide">
-                <img src="https://diff.wikimedia.org/wp-content/uploads/2025/03/Guardianas_del_Conchalito_en_el_manglar_El_Mogote_durante_monitoreos_de_mangle_en_La_Paz_Baja_California_Sur_09b1a1.jpg?w=512" 
+                <img src="https://diff.wikimedia.org/wp-contenthttps://cdn.hotosm.org/website/2025/03/Guardianas_del_Conchalito_en_el_manglar_El_Mogote_durante_monitoreos_de_mangle_en_La_Paz_Baja_California_Sur_09b1a1.jpg?w=512" 
                      alt="Guardianas in El Mogote mangroves">
             </div>
             <div class="swiper-slide">
-                <img src="https://diff.wikimedia.org/wp-content/uploads/2025/03/Editaton_Monitoreo_y_proteccion_de_manglares_de_Baja_California_Sur_06_f42b68.jpg?w=512" 
+                <img src="https://diff.wikimedia.org/wp-contenthttps://cdn.hotosm.org/website/2025/03/Editaton_Monitoreo_y_proteccion_de_manglares_de_Baja_California_Sur_06_f42b68.jpg?w=512" 
                      alt="Mangrove protection editathon">
             </div>
             <div class="swiper-slide">
-                <img src="https://diff.wikimedia.org/wp-content/uploads/2025/03/Editaton_Monitoreo_y_proteccion_de_manglares_de_Baja_California_Sur_01_0e881d.jpg?w=512" 
+                <img src="https://diff.wikimedia.org/wp-contenthttps://cdn.hotosm.org/website/2025/03/Editaton_Monitoreo_y_proteccion_de_manglares_de_Baja_California_Sur_01_0e881d.jpg?w=512" 
                      alt="Mangrove protection workshop">
             </div>
         </div>

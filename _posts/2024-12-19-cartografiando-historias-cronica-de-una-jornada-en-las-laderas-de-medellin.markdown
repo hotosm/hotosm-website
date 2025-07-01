@@ -4,7 +4,7 @@ date: 2024-12-19 02:42:00 Z
 Summary Text: En Altos de la Torre, Medellín, un taller de mapeo reunió al Hub de
   Mapeo, POMOTE y colectivos locales. Usando ChatMap, se visibilizó el territorio
   y se fortaleció a la comunidad frente a riesgos socionaturales.
-Feature Image: "/uploads/Laderas%20Blog.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Laderas+Blog.jpg"
 Person: Juan Arellano Valdivia
 Country:
 - Colombia
@@ -14,7 +14,7 @@ Project:
 
 El ascenso por la ladera era empinado y desafiante. Cosa de media hora, decían. Al final, resultaron casi dos horas de caminata, que bien compensaron una semana de cardio para quienes tenemos la suerte de vivir en la parte plana de la ciudad. Para los locales, sin embargo, es parte de su rutina diaria. Bienvenidxs al Medellín no mapeado.
 
-![Laderas Blog.jpg](/uploads/Laderas%20Blog.jpg)
+![Laderas Blog.jpg](https://cdn.hotosm.org/website/Laderas+Blog.jpg)
 
 [POMOTE](https://pomotecestudios.unaula.edu.co/), el Centro de Estudios de Poblaciones, Movilización y Territorios de la Universidad Autónoma Latinoamericana (UNAULA), lleva varios años trabajando en procesos de educación, investigación y sistematización de experiencias. Su objetivo es fortalecer las capacidades de las comunidades y organizaciones que habitan en estas zonas altas de Medellín, conocidas como laderas.
 
@@ -24,7 +24,7 @@ Desde hace dos años el Hub de Mapeo se ha asociado con el POMOTE para ofrecer u
 
 En este contexto, se organizó una salida de campo al barrio [Altos de la Torre](https://barriosenmedellin.wordpress.com/2013/02/27/altos-de-la-torre-un-barrio-por-todo-lo-alto/) con participación del Equipo Humanitario de OpenStreetMap (HOT), POMOTE, los colectivos Ciudad en Movimiento y Psicólogas sin Fronteras; y, representantes de la comunidad local. El objetivo era mostrar a los colectivos cómo hacer mapeo sobre el terreno con diversas herramientas y que estos puedan replicar el conocimiento en los territorios sobre los cuales trabajan, y que la comunidad local pudiera mostrar la realidad de su día a día a través del mapeo.
 
-![Laderas Blog 2.jpg](/uploads/Laderas%20Blog%202.jpg)
+![Laderas Blog 2.jpg](https://cdn.hotosm.org/website/Laderas+Blog+2.jpg)
 
 La caminata nos permitió apreciar las características especiales de la zona —y comunes a otras zonas del mundo similares conocidas como favelas, barriadas o slums— que la hacen complicada de mapear en forma remota. Encontramos: construcciones de diversos materiales que se superponen unas a otras, pasajes ocultos por construcciones, direcciones informales o inexistentes, cursos de agua fluyendo por entre las casas montaña abajo, puentes precarios hechos con troncos, etcétera.
 

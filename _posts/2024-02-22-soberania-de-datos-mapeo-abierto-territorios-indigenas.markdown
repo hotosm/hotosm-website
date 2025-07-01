@@ -7,7 +7,7 @@ Summary Text: Explora cómo la cartografía abierta está descubriendo la relaci
   LATAM abordan desafíos como la preservación cultural y la defensa de derechos. Reflexiones
   de expertos y experiencias concretas destacan la importancia de reconocer la diversidad
   y autonomía de estas comunidades.
-Feature Image: "/uploads/Soberani%CC%81a%20de%20datos,%20mapeo%20abierto%20y%20territorios%20indi%CC%81genas.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Soberani%CC%81a+de+datos%2C+mapeo+abierto+y+territorios+indi%CC%81genas.jpg"
 Person: Juan Arellano Valdivia
 ---
 
@@ -29,7 +29,7 @@ El sociólogo **[Johnattan Rupire](https://www.linkedin.com/in/johnarupire/?orig
 > 
 > Pero, los proyectos se basan en las comunidades; en este sentido, quienes financian y apoyan deben abrirse a rendir cuentas a las personas y a la comunidad. ¡Hay que saber qué prioridades tener! “Tu no me molestas, yo no te molesto”. El peligro está en configurar un escenario en el que por un lado se encuentren los pueblos amazónicos y por otro “la sociedad” en general, los Estados, las organizaciones de reforestación, empresas, etc., que se enfrentan por ser muy distintos de los tipos de organizaciones representativas indígenas. En este contexto, las universidades, ONGs, etc., son quienes establecen un vínculo y median.
 
-![Jonatthan Rupire - Soberanía de Datos vF.jpg](/uploads/Jonatthan%20Rupire%20-%20Soberani%CC%81a%20de%20Datos%20vF.jpg)
+![Jonatthan Rupire - Soberanía de Datos vF.jpg](https://cdn.hotosm.org/website/Jonatthan+Rupire+-+Soberani%CC%81a+de+Datos+vF.jpg)
 
 Desde una experiencia similar con comunidades indígenas en Guatemala, el ingeniero **[Carlos Duarte](https://www.linkedin.com/in/carlos-alberto-duarte-8b627b64/)**, de Geotecnológica, destaca un aspecto relevante. En su país, el 47% de la población se autoreconoce como indígena, y hay un 25% adicional de la población que tiene origen indígena pero, después de una o dos generaciones de haber migrado a la ciudad, sus modos de vida cambian y ya no se identifican como indígenas, sino como urbanos. Esta situación subraya la necesidad de generar soluciones sostenibles en el tiempo, como la automatización de tareas y el crecimiento en la cantidad de personas involucradas y en la dimensión de los proyectos.
 
@@ -37,7 +37,7 @@ Desde una experiencia similar con comunidades indígenas en Guatemala, el ingeni
 > 
 > Se puede clonar un proyecto con una adaptación al problema, pero extrapolando la metodología para monitorear otras cuestiones, como la propiedad de las tierras, la violación de los derechos humanos, la contaminación de ríos, las industrias extractivistas, entre otros. Esta metodología permite generar datos que denuncien con mucho más peso, complementando testimonios existentes para explicar la situación y presentar denuncias formales con evidencia justificable. Sin embargo, los indígenas se sienten amenazados por los drones, ya que los asocian con intereses privados que ponen en peligro su territorio. A su vez, los privados y las empresas también perciben la amenaza de los indígenas utilizando drones y fortaleciéndose. Se han observado respuestas muy reticentes y defensivas por parte de estos grandes actores, lo que sugiere que estas herramientas otorgan poder y defensa a las comunidades.
 
-![Carlos Duarte - Soberanía de Datos.jpg](/uploads/Carlos%20Duarte%20-%20Soberani%CC%81a%20de%20Datos.jpg)
+![Carlos Duarte - Soberanía de Datos.jpg](https://cdn.hotosm.org/website/Carlos+Duarte+-+Soberani%CC%81a+de+Datos.jpg)
 
 Finalmente, el comunicador **[Leonardo Jiménez](https://www.linkedin.com/in/leonardo-jim%C3%A9nez-garc%C3%ADa-60262b253/)**, Director del [Centro de Estudios con Poblaciones, Movilizaciones y Territorios de la Universidad Autónoma Latinoamericana de Medellín](https://pomotecestudios.unaula.edu.co/), en Colombia, compartió algunas reflexiones sobre temas que considera importantes tener en cuenta desde su experiencia en el trabajo con diversas comunidades urbanas y rurales en su país.
 
@@ -45,7 +45,7 @@ Finalmente, el comunicador **[Leonardo Jiménez](https://www.linkedin.com/in/leo
 
 La implementación exitosa de proyectos como los mencionados ejemplifica el potencial transformador que [el proceso de mapeo y la cartografía sea descolonizado a través del mapa realizado de manera fiel a la diversidad y realidad de los territorios](https://www.hotosm.org/updates/colonialism-in-open-data-and-mapping/), reconociendo la voz y autonomía de quienes lo habitan. Ante ello, [**Fabrizio Scrollini**](https://www.hotosm.org/people/fabrizio-scrollini/), Director del Hub de Latinoamérica y el Caribe, expone una reflexión crucial: **el mapa no es el mapa sin su identidad en él.**
 
-![Fabrizio Scrollini - Soberanía de Datos.jpg](/uploads/Fabrizio%20Scrollini%20-%20Soberani%CC%81a%20de%20Datos.jpg)
+![Fabrizio Scrollini - Soberanía de Datos.jpg](https://cdn.hotosm.org/website/Fabrizio+Scrollini+-+Soberani%CC%81a+de+Datos.jpg)
 
 > Por siglos, creímos que nuestros mapas representaban el estado de nuestro territorio en los países de América Latina. Pero en realidad esos mapas, fueron hechos por quienes tenían el poder de facto, no por quienes genuinamente habitaron, vivieron y tienen derecho a proteger y sostener el territorio. Quien mapea, es quién en el fondo define lo que es el territorio, y quienes han sido excluido de estos procesos (y en América Latina es un gran grupo) no pueden reconocer su propio espacio o en el peor de los casos, el mismo les ha sido arrebatado.
 > 

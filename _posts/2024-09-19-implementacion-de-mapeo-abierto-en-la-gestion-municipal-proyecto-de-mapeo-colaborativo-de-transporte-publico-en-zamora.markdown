@@ -8,7 +8,7 @@ Summary Text: El proyecto Rutatón-Zamora, liderado por la Dirección de Movilid
   de HOT, se han generado datos precisos sobre rutas y unidades de transporte, facilitando
   a las autoridades locales tomar decisiones más informadas para optimizar el transporte
   público y mejorar la accesibilidad en la región.
-Feature Image: "/uploads/Rutato%CC%81n%20-%20Mapeo%20Colaborativo%20de%20Transporte%20Pu%CC%81blico%20en%20Zamora.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Rutato%CC%81n+-+Mapeo+Colaborativo+de+Transporte+Pu%CC%81blico+en+Zamora.jpg"
 Person:
 - Mariana Marín
 - Codeando México
@@ -52,7 +52,7 @@ Las herramientas utilizadas incluyeron:
 
 Daniel destaca que, “OSMTracker fue muy amigable y se programó específicamente para nuestro ejercicio. Nos ayudó a visualizar las paradas del transporte público, rastrear las rutas y complementarlo con fotos de los paraderos.”
 
-![Progreso del Mapeo Codeando México.jpg](/uploads/Progreso%20del%20Mapeo%20Codeando%20Me%CC%81xico.jpg)
+![Progreso del Mapeo Codeando México.jpg](https://cdn.hotosm.org/website/Progreso+del+Mapeo+Codeando+Me%CC%81xico.jpg)
 
 *Imagen: El total de rutas (43) fue mapeado en Zamora.*
 

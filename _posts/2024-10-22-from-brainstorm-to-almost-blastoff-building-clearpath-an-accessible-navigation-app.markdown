@@ -6,7 +6,7 @@ Summary Text: ClearPath, a mobile navigation app, leverages OpenStreetMap to enh
   accessibility in Downtown Kingston for persons with disabilities. Developed with
   support from HOT’s microgrant and collaboration with MSBM, ClearPath aims to map
   key accessibility features like curb cuts and pedestrian crossings.
-Feature Image: "/uploads/ClearPath.jpg"
+Feature Image: "https://cdn.hotosm.org/website/ClearPath.jpg"
 Person: Sharon Aiken
 Country:
 - Jamaica
@@ -14,7 +14,7 @@ Country:
 
 Forget roller coasters, the past two months have been a whirlwind adventure in app development! Our goal was ClearPath, a mobile navigation app that uses the power of OpenStreetMap to enhance accessibility in Downtown Kingston for persons with disabilities. This wasn't all smooth sailing, especially when it came to finding the right developer, but it has been an incredible learning experience fueled by my dedication and deep dives into research (and, of course, Cherika's invaluable support!). We're well on our way to creating something impactful.
 
-![ClearPath OSM.jpg](/uploads/ClearPath%20OSM.jpg)
+![ClearPath OSM.jpg](https://cdn.hotosm.org/website/ClearPath+OSM.jpg)
 
 How did we get here? Let me take you back in time.
 
@@ -26,7 +26,7 @@ Back in 2022, we were students at CSOD learning to map using OpenStreetMap. Fast
 
 A cornerstone of ClearPath is the robust mapping data provided by OpenStreetMap. Our team of mappers— including my teammate Nicholas and UWI student mappers Aniece, Eyanie and Shaunapage— enhanced this data by identifying and mapping crucial accessibility features within Downtown Kingston, such as curb cuts, accessible entrances, and pedestrian crossings. Armed with their phones and using apps like [Mapillary](https://www.mapillary.com/), [KoBoCollect](https://www.kobotoolbox.org/), AR Measure and [StreetComplete](https://streetcomplete.app/) they spent hours meticulously surveying the area, capturing detailed information about the environment for people with disabilities. This invaluable groundwork laid the foundation for the app, and shows that yes we can create a navigation tool that accurately reflects the ground realities for people with disabilities in Jamaica.
 
-![ClearPath Accessible Navigation App.jpg](/uploads/ClearPath%20Accessible%20Navigation%20App.jpg)
+![ClearPath Accessible Navigation App.jpg](https://cdn.hotosm.org/website/ClearPath+Accessible+Navigation+App.jpg)
 
 We began with grand ambitions—a fully developed mobile accessible navigation app with augmented reality features. However, after exploring options on platforms like Fiverr, we realised our initial budget wouldn't stretch that far. This is where we learned a valuable lesson: pivoting! We adapted our vision to focus on a Minimum Viable Product (MVP)—a streamlined version of the app with the most essential features for our target users.
 
@@ -38,7 +38,7 @@ Once the developer search was over, we hit the ground running with user research
 
 The internet became my best friend and, at times, my worst enemy!. Developing an app involved a whole new world of terms and concepts. There were moments where deciphering developer jargon felt like learning a foreign language! But that's part of the adventure! Through countless hours of research, I explored app development processes, design principles, and user testing practices.
 
-![ClearPath OSM Accesibilty Features.jpg](/uploads/ClearPath%20OSM%20Accesibilty%20Features.jpg)
+![ClearPath OSM Accesibilty Features.jpg](https://cdn.hotosm.org/website/ClearPath+OSM+Accesibilty+Features.jpg)
 
 ## **From Brainstorm to (Almost) Blastoff!**
 
@@ -62,4 +62,4 @@ While we haven't launched the full app yet, these past two months have been an i
 
 ## This blog was written by:
 
-![EN - Sharon Aiken.jpg](/uploads/EN%20-%20Sharon%20Aiken.jpg)
+![EN - Sharon Aiken.jpg](https://cdn.hotosm.org/website/EN+-+Sharon+Aiken.jpg)

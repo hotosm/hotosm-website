@@ -7,7 +7,7 @@ tags:
 Summary Text: In April 2024, we had the opportunity to demonstrate the power of open
   mapping tools and workflows at the CLImbing for CLImate GEOspatial School (CLIGEOS-2024)
   in Annapurna-3, Lumle-Pokhara, Nepal.
-Feature Image: https://www.hotosm.org/uploads/CLIGEOS-2024-group.png
+Feature Image: https://cdn.hotosm.org/website/CLIGEOS-2024-group.png
 Person: Kshitij Sharma
 Country:
 - Nepal
@@ -80,10 +80,10 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 <br>
 <div class="row align">
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-flower.png" alt="flower">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-flower.png" alt="flower">
   </div>
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-porters.png" alt="porters" style="width:48%">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-porters.png" alt="porters" style="width:48%">
   </div>
 </div>
 <figcaption align = "center"><h6>Left: National flower Rhododendron - Photographer Beneesh Shrestha <br> Right: Farmers carrying organic manure to field seen during our field exercise <br>photo by Ritika Sunar  </h6></figcaption><br>
@@ -109,10 +109,10 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 <br>
 <div class="row align2">
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-drone-demonstration.png" alt="Drone demostration" style="width:100%">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-drone-demonstration.png" alt="Drone demostration" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-drone-lecture.png" alt="Drone lecture" style="width:100%">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-drone-lecture.png" alt="Drone lecture" style="width:100%">
   </div>
 </div>
 <figcaption align = "center"><h6>A HOT Staff member, Kshitij demonstrating how drone work  and how to capture imagery.</h6></figcaption><br>
@@ -123,10 +123,10 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 <br>
 <div class="row align2">
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-lecture.png" alt="Lecture in progress" style="width:100%">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-lecture.png" alt="Lecture in progress" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-OAM.png" alt="Analysis of Aerial Imagery" style="width:100%">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-OAM.png" alt="Analysis of Aerial Imagery" style="width:100%">
   </div>
 </div>
 <figcaption align = "center"><h6>Walking through the steps and instructions to process drone image and upload</h6></figcaption><br>
@@ -153,10 +153,10 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 <br>
 <div class="row align">
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-task.png" alt="Tasking Manager">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-task.png" alt="Tasking Manager">
   </div>
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-workshop.png" alt="Workshop participants" style="width:63%">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-workshop.png" alt="Workshop participants" style="width:63%">
   </div>
 </div>
 <figcaption align = "center"><h6>Participants doing remote mapping using Tasking Manager </h6></figcaption><br>
@@ -167,7 +167,7 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 
 <br>
 <div class="center">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-fAIr.png" alt="fAIr results">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-fAIr.png" alt="fAIr results">
 </div>
 <figcaption align = "center"><h6>Localized AI Model created for the area <br> and how to capture imagery.</h6></figcaption><br>
 <br>
@@ -190,7 +190,7 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 
 <br>
 <div class="center">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-FMTM.png" alt="FMTM tasks">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-FMTM.png" alt="FMTM tasks">
 </div>
 <figcaption align = "center"><h6>Participant locking tasks before heading towards field mapping</h6></figcaption><br>
 <br>
@@ -200,10 +200,10 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 <br>
 <div class="row align3">
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-building.png" alt="Drone demostration" style="width:100%">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-building.png" alt="Drone demostration" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-survey.png" alt="Drone lecture" style="width:100%">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-survey.png" alt="Drone lecture" style="width:100%">
   </div>
 </div>
 <figcaption align = "center"><h6>Participants collecting field data using FMTM, Asking house owners for the information</h6></figcaption><br>
@@ -222,7 +222,7 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 <br>
 <br>
 <div class="center">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-export-tool.png" alt="Export tool">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-export-tool.png" alt="Export tool">
 </div>
 <figcaption align = "center"><h6>Export of the area of Interest</h6></figcaption><br>
 <br>
@@ -241,10 +241,10 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 <br>
 <div class="row align">
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-analysis.png" alt="Data layers on GIS program" style="width:100%">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-analysis.png" alt="Data layers on GIS program" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-data-collected.png" alt="Data collected in the field" style="width:80%">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-data-collected.png" alt="Data collected in the field" style="width:80%">
   </div>
 </div>
 <figcaption align = "center"><h6>Left: Visualization of remotely mapped data and drone data <br>Right: Data collected from the field</h6></figcaption><br>
@@ -256,10 +256,10 @@ The area for our exercise was the beautiful, diverse perimeter of the Agricultur
 <br>
 <div class="row alig3">
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-visualization.png" alt="Group presentations" style="width:100%">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-visualization.png" alt="Group presentations" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-methodology.png" alt="Methodology" style="width:100%">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-methodology.png" alt="Methodology" style="width:100%">
   </div>
 </div>
 <figcaption align = "center"><h6>One of the group presenting their work based on the data collected</h6></figcaption><br>
@@ -282,7 +282,7 @@ This end-to-end mapping exercise at CLIGEOS-2024 demonstrated the effectiveness 
 
 <br>
 <div class="center">
-    <img src="https://www.hotosm.org/uploads/CLIGEOS-2024-group.png" alt="Participants">
+    <img src="https://cdn.hotosm.org/website/CLIGEOS-2024-group.png" alt="Participants">
 </div>
 <figcaption align = "center"><h6>Team and Participants of Summer School</h6></figcaption><br>
 <br>

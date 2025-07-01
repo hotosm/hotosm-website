@@ -10,7 +10,7 @@ Project Summary Text: Lebanon is facing a recovery from crisis, and the Humanita
   and better understand the evolving humanitarian landscape in the country. This work
   is part of a larger initiative to raise awareness and mobilize support for displacement
   and safe migration as part of our program on Conflict and Displacement.
-Feature Image: "/uploads/lebanon_project_banner_3.png"
+Feature Image: "https://cdn.hotosm.org/website/lebanon_project_banner_3.png"
 Country:
 - Lebanon
 Impact Area:
@@ -66,7 +66,7 @@ Lebanon’s diverse geography, combined with the ongoing conflict, has created s
 <br>
 
 <div style="text-align: center;">
-    <img src="/uploads/damaged_buildings.png" alt="Snapshot of likely damaged or destroyed buildings" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/damaged_buildings.png" alt="Snapshot of likely damaged or destroyed buildings" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Snapshot of likely damaged or destroyed buildings with the date of earliest damage in red. Black building footprints are not likely damaged in this example.
         <br><br>
@@ -94,7 +94,7 @@ HOT’s project leverages the power of **open mapping** and **community-driven d
 <br>
 
 <div style="text-align: center;">
-    <img src="/uploads/h3_hexbins_lebanon.png" alt="Count of likely damaged or destroyed buildings" style="width: 90%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/h3_hexbins_lebanon.png" alt="Count of likely damaged or destroyed buildings" style="width: 90%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Count of likely damaged or destroyed buildings within H3 hexbins. Hexbins with fewer than five buildings labeled as damaged are not included in this visualization.
         <br><br>
@@ -124,7 +124,7 @@ HOT is also fostering a **community of practice** among damage analysis stakehol
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/damaged_buildings_adm3.png" alt="Percentage of buildings likely damaged or destroyed" style="width: 55%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/damaged_buildings_adm3.png" alt="Percentage of buildings likely damaged or destroyed" style="width: 55%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Percentage of buildings likely damaged or destroyed within each municipality (administrative level 3).
         <br><br>
@@ -190,4 +190,4 @@ If you would like to help, please refer to the [wiki](https://wiki.openstreetmap
 **Sponsored by:**
 <br>
 <br>
-<img src="https://www.hotosm.org/uploads/h2h-logo-new-400x400.png" width="100" height="100">
+<img src="https://cdn.hotosm.org/website/h2h-logo-new-400x400.png" width="100" height="100">

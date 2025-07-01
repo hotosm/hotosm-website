@@ -10,7 +10,7 @@ Block 0:
   Header: 
   Text: A super-accesible tool for mapping with chat apps like WhatsApp, Telegram
     or Signal
-  Image: https://www.hotosm.org/uploads/chatmap-hotosm-website.001.png
+  Image: https://cdn.hotosm.org/website/chatmap-hotosm-website.001.png
 Block 1:
   Section: What is it?
   Header: Nearly 3.5 billion people throughout the world already use an instant messaging
@@ -50,7 +50,7 @@ Block 3:
     data to extract the relevant locations, text and media and displays it on a map.<br>Check
     this quick video tutorial to learn how to use it and start mapping with chats
     apps today! <br><br><a href="https://youtu.be/ScHgVhyj1aw?si=smsyumWkhsn0Khlk">https://youtu.be/ScHgVhyj1aw?si=smsyumWkhsn0Khlk</a><br><br>
-  Image: https://www.hotosm.org/uploads/chatmap-hotosm-website.002.png
+  Image: https://cdn.hotosm.org/website/chatmap-hotosm-website.002.png
   Tools:
   - Name: Try it!
     URL: http://chatmap.hotosm.org/

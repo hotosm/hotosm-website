@@ -1,7 +1,7 @@
 ---
 title: Thank you note and best wishes for the New Year
 date: 2024-12-24 08:13:00 Z
-Feature Image: "/uploads/4.png"
+Feature Image: "https://cdn.hotosm.org/website/4.png"
 Person:
 - 
 - 

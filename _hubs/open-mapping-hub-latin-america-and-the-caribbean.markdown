@@ -28,7 +28,7 @@ The LAC Hub was established in 2023 with the intention to locate actions advanci
 
 # LAC Humanitarian Programme
 
-![OTIS - LAC Humanitarian Programme.jpg](/uploads/OTIS%20-%20LAC%20Humanitarian%20Programme.jpg)
+![OTIS - LAC Humanitarian Programme.jpg](https://cdn.hotosm.org/website/OTIS+-+LAC+Humanitarian+Programme.jpg)
 
 Reliably responding to and enhancing preparedness for every relevant disaster incident in the region, our efforts aim to assist local actors in cultivating a culture of risk awareness through the use of open cartographic data.
 
@@ -52,7 +52,7 @@ Reliably responding to and enhancing preparedness for every relevant disaster in
 
 # Amazonia Program
 
-![Amazonia Program.jpg](/uploads/Amazonia%20Program.jpg)
+![Amazonia Program.jpg](https://cdn.hotosm.org/website/Amazonia+Program.jpg)
 
 Leading grassroots monitoring and fostering interactions among populations with the Amazonia, we focus on various aspects, including environmental preservation, social vulnerability risks, and rights. A particular emphasis is placed on collaborative work with indigenous groups to enable effective territory management through the utilization of data.
 
@@ -63,7 +63,7 @@ Get to know more about the project [here](https://www.hotosm.org/updates/amazoni
 
 # Open Mapping for All
 
-![Open Mapping for All.jpg](/uploads/Open%20Mapping%20for%20All.jpg)
+![Open Mapping for All.jpg](https://cdn.hotosm.org/website/Open+Mapping+for+All.jpg)
 
 Exploring and integrating open mapping tools into educational projects while training the next generation of open mappers, starting in high schools across Argentina, Colombia, and Peru.
 
@@ -73,7 +73,7 @@ Get to know more about the project [here](https://www.hotosm.org/projects/open-m
 
 # Caribbean Program
 
-![Caribbean Program.jpg](/uploads/Caribbean%20Program.jpg)
+![Caribbean Program.jpg](https://cdn.hotosm.org/website/Caribbean+Program.jpg)
 
 Our efforts in the Caribbean have focused on establishing a strong presence and fostering a culture of practice, innovation, and resilience. By forging partnerships with local stakeholders and organizations like the Caribbean Disaster Emergency Management Agency (CDEMA), we've facilitated engagement in development and disaster management. The launch of the OSM Caribbean Community underscores our commitment to collaboration and knowledge sharing. Through initiatives like the Drone Training program in Dominica, we've empowered locals to capture critical data, enhancing disaster preparedness. Additionally, our Women-Centered Disaster Resilience in SIDS initiative prioritizes equipping women and girls with essential mapping skills, enabling their active involvement in disaster response across several Caribbean nations.
 
@@ -86,7 +86,7 @@ Our efforts in the Caribbean have focused on establishing a strong presence and 
 4. [Women-Centered Disaster Resilience In Small Island Developing States](https://www.hotosm.org/projects/women-centered-disaster-resilience-in-small-island-developing-states-trinidad-and-tobago/)
 
 # Urban Resilience Open Data Solutions
-![Mapeo de Transporte Colectivo.jpg](/uploads/Mapeo%20de%20Transporte%20Colectivo.jpg)
+![Mapeo de Transporte Colectivo.jpg](https://cdn.hotosm.org/website/Mapeo+de+Transporte+Colectivo.jpg)
 
 We aim to strengthen urban communities through integrated solutions that enhance technical capabilities in using information for various sectors involved in territorial management, both governmental and civic. Our focus spans key areas such as transportation, disaster risk management, and sustainable urban growth, with the purpose of assisting cities in facing and adapting to constantly changing challenges. We work closely with communities and local stakeholders to develop adaptive solutions centered on territorial data management that meet their specific needs.
 
@@ -111,6 +111,6 @@ We produce detailed maps identifying the location and accessibility of essential
 
 # Follow us on social media
 
-![Social Media - Open Mapping Hub Latin America and the Caribbean.png](/uploads/Social%20Media%20-%20Open%20Mapping%20Hub%20Latin%20America%20and%20the%20Caribbean.png)
+![Social Media - Open Mapping Hub Latin America and the Caribbean.png](https://cdn.hotosm.org/website/Social+Media+-+Open+Mapping+Hub+Latin+America+and+the+Caribbean.png)
 
 **[Twitter](https://twitter.com/MapHubLAC)** |  **[Instagram](https://www.instagram.com/maphublac/)** | **[Facebook](https://www.facebook.com/MapHubLAC)** | **[LinkedIn](https://www.linkedin.com/showcase/maphublac)** | **[Youtube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA)**

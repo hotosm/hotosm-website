@@ -8,7 +8,7 @@ Summary Text: HOT, junto al Global Partnership for Sustainable Development Data 
   tecnologías abiertas para la generación de datos geoespaciales. Participaron representantes
   de la sociedad civil, academia e instituciones públicas. Esta experiencia refuerza
   la colaboración caribeña ante desafíos ambientales crecientes.
-Feature Image: "/uploads/Juancho%20-%20ONE%2013.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Juancho+-+ONE+13.jpg"
 Person:
 - Juan Melo Luna
 - Céline Jacquin
@@ -183,7 +183,7 @@ La experiencia compartida por Leidis Zabala, de la Dirección de Estadísticas E
 
 Este tipo de aprendizajes y aplicaciones prácticas refuerzan la importancia de conectar el conocimiento técnico abierto y colaborativo con los desafíos territoriales contemporáneos de nuestra región.
 
-![Monitoreo de sargazo con drones en Santo Domingo tecnologías abiertas para enfrentar desafíos ambientales.jpg](/uploads/Monitoreo%20de%20sargazo%20con%20drones%20en%20Santo%20Domingo%20tecnologi%CC%81as%20abiertas%20para%20enfrentar%20desafi%CC%81os%20ambientales.jpg)
+![Monitoreo de sargazo con drones en Santo Domingo tecnologías abiertas para enfrentar desafíos ambientales.jpg](https://cdn.hotosm.org/website/Monitoreo+de+sargazo+con+drones+en+Santo+Domingo+tecnologi%CC%81as+abiertas+para+enfrentar+desafi%CC%81os+ambientales.jpg)
 
 A futuro, se planea replicar y promover más espacios de intercambio entre actores especialistas de la región, tanto desde la ciencia como desde la comunidad, abordando temas relacionados con la observación del territorio y la toma de decisiones, con apoyo de los múltiples potenciales de la ciencia ciudadana y herramientas abiertas.
 

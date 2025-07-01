@@ -27,7 +27,7 @@ chatmap:
   Header: ChatMap
   Text: An easy-to-use web app where you can upload an exported chat from WhatsApp
     and other IM apps and create a map with it!
-  Image: https://www.hotosm.org/uploads/chatmap-banner-2.png
+  Image: https://cdn.hotosm.org/website/chatmap-banner-2.png
   Tools:
   - Name: Learn More
     URL: "/tech-suite/chatmap/"
@@ -36,7 +36,7 @@ Fair:
   Text: fAIr is an open AI-assisted mapping service developed by the Humanitarian
     OpenStreetMap Team (HOT) that aims to improve the efficiency and accuracy of mapping
     efforts for humanitarian purposes.
-  Image: https://www.hotosm.org/uploads/fair-demo.png
+  Image: https://cdn.hotosm.org/website/fair-demo.png
   Tools:
   - Name: Learn More
     URL: https://fair.hotosm.org/

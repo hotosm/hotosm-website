@@ -9,7 +9,7 @@ Summary Text: In Belém, geotech activists exchanged experiences to address issu
   such as the climate crisis. Since open data and cartography are essential in the
   search for popular sovereignty in the territories, how can they serve the Amazonian
   peoples?
-Feature Image: "/uploads/postop2.jpg"
+Feature Image: "https://cdn.hotosm.org/website/postop2.jpg"
 Person: Antonio Laranjeira
 ---
 
@@ -19,7 +19,7 @@ Belém do Pará is in the center of world attention. In 2025, the city will host
 
 The conference brought together cartographers, governments and businesses interested in geospatial data and its applications for citizens, with a free programme of talks and workshops taking place on 6, 7 and 8 December.
 
-![postop1.jpg](/uploads/postop1.jpg)
+![postop1.jpg](https://cdn.hotosm.org/website/postop1.jpg)
 
 Geospatial data is information linked to geographic location, such as interactive maps, satellite images and digital terrain models. This data plays a fundamental role in the organization of public space, environmental monitoring and decision-making.
 
@@ -29,7 +29,7 @@ While the Google Maps platform popularized maps, it was [OpenStreetMap](https://
 
 The open mapping movement was born in 2004 with the creation of the OpenStreetMap platform, and has since transformed the way we see the world. In contrast to the monopoly of platforms such as Google Maps, OpenStreetMap offers a decentralized and accessible alternative that reflects local realities and respects territorial diversity.
 
-![postop2.jpg](/uploads/postop2.jpg)
+![postop2.jpg](https://cdn.hotosm.org/website/postop2.jpg)
 
 In the Amazon, this approach is particularly relevant. Being on the map means belonging, exercising autonomy and asserting sovereignty over the lived territory. Visibilities and territorialities are at stake in a region often ignored or distorted by hegemonic cartographies.
 
@@ -51,13 +51,13 @@ The [Meninas da Geo](https://meninasdageo.com.br/) project,  which since 2019 ha
 
 **Johnattan Rupire** presented the experience of the Collaborative Socio-Environmental Cartography Course in the Peruvian Amazon, an initiative that trained 31 people for collaborative mapping, including indigenous leaders, students and representatives of civil society organizations (see photo below). The training, [carried out in Yarinacocha, sought to prepare communities to monitor and protect their territories against threats such as deforestation and forest fires.](https://talks.osgeo.org/sotm2024-latam/talk/CSZAQK/). Despite challenges such as inequality in access to resources and technology, the course achieved significant results such as the creation of a local network of indigenous cartographers; the implementation of a pilot cartography curriculum in local schools; the establishment of partnerships for mapping projects in remote territories. An assumption that cartographic data in OpenStreetMap can become an asset for the defense and empowerment of the territorial sovereignty of indigenous peoples.
 
-![postop3.jpg](/uploads/postop3.jpg)
+![postop3.jpg](https://cdn.hotosm.org/website/postop3.jpg)
 
 **Juan Carlos Melo Luna** brought to light the issue of [Geographical invisibility of indigenous communities in the Colombian Amazon](https://talks.osgeo.org/sotm2024-latam/talk/NCRW8B/). With the support of the Humanitarian OpenStreetMap Team (HOT), a project was implemented to map territories using drones and collaborative cartography. Communities themselves took on the role of mappers after specific training, becoming protagonists in the construction of open data. The resulting maps were made available on public platforms, redistributing the power of spatial representation and ensuring that the needs of these regions were visible to external actors and policy makers.
 
 The impact of fallen lands (fluvial erosion common in the Solimões River region) was the topic of the presentation of **Davy Rabelo**. Using satellite images and drones, he told the story of [Paula dos Santos Silva](https://www.hotosm.org/updates/mapping-our-community-paula-dos-santos-silvas-journey-in-the-amazon/) (foto abajo), with whom he [mapped the affected areas in riverside communities in the Amazon](https://talks.osgeo.org/sotm2024-latam/talk/VG3TRF/), revealing the urgency of constant monitoring to avoid catastrophes. The work also highlighted the role of OpenStreetMap in disseminating essential data for public policy formulation.
 
-![postop4.png](/uploads/postop4.png)
+![postop4.png](https://cdn.hotosm.org/website/postop4.png)
 
 On Ecuador, **Iván Terceros** reported on a series of workshops conducted by the Openlab Ecuador Foundation, in collaboration with local universities and municipal governments. [Collaborative mapping training reached more than 250 people](https://talks.osgeo.org/sotm2024-latam/talk/NBVQ8B/), promoting a culture of open data collection and use for risk management and regional development planning.
 
@@ -69,13 +69,13 @@ The **Geochicas** collective, made up of feminists active in OpenStreetMap, seek
 
 **Carolina García Mancero** highlighted a project that [mapped vulnerable communities and evacuation routes in areas near volcanoes in Ecuador](https://talks.osgeo.org/sotm2024-latam/talk/UULA3X/). Using tools such as OpenStreetMap and Mapillary, the project brought together a team in the field (see photo below) to collect critical data for risk management and strengthening local resilience, promoting collaboration between communities and organizations.
 
-![postop5.jpg](/uploads/postop5.jpg)
+![postop5.jpg](https://cdn.hotosm.org/website/postop5.jpg)
 
 **Séverin Ménard** presented [Panoramax](https://panoramax.fr/), [a community project to create a decentralized and accessible “Street View”](https://talks.osgeo.org/sotm2024-latam/talk/7MNEJ9/). The workshop covered everything from image capture to publication and reuse, promoting the use of open standards and collaboration for their application in local contexts.
 
 **Emilio Mariscal and Ivan Gayton** showed how the Humanitarian OpenStreetMap Team’s integrated open source tools enable [end-to-end open humanitarian mapping](https://talks.osgeo.org/sotm2024-latam/talk/ENQEPY/). The workshop (pictured below) covered processes from drone image capture to field data collection and map export, reinforcing the impact of open technology on disasters and community action.
 
-![postop6.jpg](/uploads/postop6.jpg)
+![postop6.jpg](https://cdn.hotosm.org/website/postop6.jpg)
 
 ### Stories of public space management
 
@@ -85,7 +85,7 @@ In Argentina, the agroecological movement has gained strength in recent years, e
 
 The experience of [mapping public transport has proven to be a crucial tool for improving urban mobility in Latin America](https://talks.osgeo.org/sotm2024-latam/talk/LAQDXA/), and this was the subject of the presentation by **Leonardo Gutiérrez** who has developed several projects for the Trufi Association, which operates in Mexico, Peru, Colombia and Bolivia. These projects often involve collaboration between local authorities and mapping communities, with the aim of generating accurate data on formal and informal transport routes. The use of tools such as OpenStreetMap and the JOSM editor has expanded as an effective solution for Latin American cities facing challenges related to the collection and organization of this data.
 
-![postop7.jpg](/uploads/postop7.jpg)
+![postop7.jpg](https://cdn.hotosm.org/website/postop7.jpg)
 
 **Céline Jacquin** demonstrated how [OpenStreetMap mapping has played an important role in the response to natural disasters in Latin America](https://talks.osgeo.org/sotm2024-latam/talk/PUDX3E/). The experience of the Humanitarian OpenStreetMap Team (HOT) in countries such as Peru, Ecuador, Mexico and Brazil shows how collaboration between governments, universities, organisations and communities has been vital in managing crises such as the El Niño and La Niña phenomena (see photo above). In emergency situations, the rapid creation of detailed maps has enabled a more efficient response, with up-to-date and easily accessible data. Training of local communities has also been a priority, promoting technical empowerment and helping to establish support networks on the ground.
 

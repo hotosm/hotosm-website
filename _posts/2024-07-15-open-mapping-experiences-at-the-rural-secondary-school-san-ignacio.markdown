@@ -5,7 +5,7 @@ Summary Text: Through the Open Mapping for All program, teachers and students at
   educational institution in Argentine Patagonia use Open Mapping tools to document,
   recognize, and improve school physical infrastructure while connecting with their
   environment and cultural values.
-Feature Image: "/uploads/Experiencias%20de%20Mapeo%20Abierto%20en%20el%20Centro%20de%20Educacio%CC%81n%20Integral%20%E2%80%9CSan%20Ignacio%E2%80%9D.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Experiencias+de+Mapeo+Abierto+en+el+Centro+de+Educacio%CC%81n+Integral+%E2%80%9CSan+Ignacio%E2%80%9D.jpg"
 Person: Luis Miguel Bande Jaramillo
 Country:
 - Argentina
@@ -23,7 +23,7 @@ Our story unfolds in a context enriched by rugged nature and cultural diversity.
 
 # Solving School Infrastructure Problems with Open Mapping
 
-![1.jpg](/uploads/1.jpg)
+![1.jpg](https://cdn.hotosm.org/website/1.jpg)
 
 From the end of 2022 to mid-February 2023, a series of meetings were held to coordinate activities between the Humanitarian OpenStreetMap Team (HOT) and the CEI. Additionally, workshops were conducted to train different teachers at the school in the use of available open mapping tools like Editor and UMap.
 
@@ -42,7 +42,7 @@ In February 2024, a gas pipe was broken due to a lack of knowledge about its rou
 
 # Connecting with the Environment and Cultural Values through Open Mapping
 
-![2.jpg](/uploads/2.jpg)
+![2.jpg](https://cdn.hotosm.org/website/2.jpg)
 
 Open mapping has not only solved problems within the institution but also allowed students to document social issues and personal and educational interests. From late January to February 2024, workshops were held for fourth and fifth-year secondary students, many of whom decided to map their localities, remote areas, and communities of origin, such as Aucapán, Chiquilihuín, Atreuco, Espinazo del Zorro, Añelo, Paso Aguerre, Trompul, Laguna Blanca, and Villa del Puente Picún Leufú. A student from Naupa Huen, a small town in Rio Negro, decided to map his community, which is invisible on maps, demonstrating the power of mapping as a visibility tool.
 
@@ -52,7 +52,7 @@ Yamila, a student from Paso Aguerre, mapped her area to plan future irrigation c
 
 Another example was experienced by María and Trinidad, friends and fifth-year students. Both students are from Laguna Blanca, a remote area in the center of the Province of Neuquén within the Laguna Blanca National Park. Many of the inhabitants are ancestral Mapuche practicing transhumant livestock farming. It is an extensive and inhospitable region, where residents' homes are far apart. María and Trinidad created an exhaustive map where they did not leave a single building unreferenced, employing a wide variety of tags. Their work did not end there, as they continued with the same tasks in the Villa del Puente Picún Leufú area, where they mapped more buildings. This shows that many localities deserve to be located to stop being "invisible" to the world.
 
-![4-1902d9.jpg](/uploads/4-1902d9.jpg)
+![4-1902d9.jpg](https://cdn.hotosm.org/website/4-1902d9.jpg)
 
 Other students connected the use of Open Mapping with various experiences. Segundo, a fourth-year student from Pilo Lil, dedicated himself to mapping the scenic beauty of his family's estancia, which includes a cave with geologic formations and 500-year-old rock art. Using UMap, he created an interactive map of the horseback riding routes his family offers.
 
@@ -68,7 +68,7 @@ These examples highlight the learning experiences with Open Mapping at the Rural
 
 # The Utility of Open Mapping Tools
 
-![3.jpg](/uploads/3.jpg)
+![3.jpg](https://cdn.hotosm.org/website/3.jpg)
 
 Students and teachers used various digital tools to document the experience, ensuring that every aspect related to their concerns was captured, and they could collect all the necessary data to create their maps. Although many of the applications have already been mentioned throughout this review, it is essential to summarize them below.
 
@@ -90,7 +90,7 @@ These were the tools used:
 
 # Reflections on Learning Using Open Mapping
 
-![5.jpg](/uploads/5.jpg)
+![5.jpg](https://cdn.hotosm.org/website/5.jpg)
 
 Open Mapping tools offer students and teachers the opportunity to make significant contributions to already established maps, becoming an innovative and cost-effective pedagogical resource. These tools reduce costs compared to more expensive options. The greatest advantage is that users, who know the mapped area perfectly, can enrich the maps with precise information, which will later be validated by experts.
 
@@ -98,4 +98,4 @@ These digital tools facilitate the storage, organization, and collection of new 
 
 ## This blog was written by:
 
-![EN - Luis MIguel Bande Jaramillo.jpg](/uploads/EN%20-%20Luis%20MIguel%20Bande%20Jaramillo.jpg)
+![EN - Luis MIguel Bande Jaramillo.jpg](https://cdn.hotosm.org/website/EN+-+Luis+MIguel+Bande+Jaramillo.jpg)

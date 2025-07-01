@@ -37,7 +37,7 @@ The Amazon region grapples with cartographic invisibility, hindering accurate re
 
 The objective is to alleviate cartographic invisibility and promote sustainable development. Learning from the successful Tefé project, community engagement and peer-to-peer learning are crucial. This proposal aims to expand the project's impact to the broader Middle Solimões region, building on proven strategies for a more comprehensive approach.
 
-![Imágenes blog (4).jpg](/uploads/Ima%CC%81genes%20blog%20(4).jpg)
+![Imágenes blog (4).jpg](https://cdn.hotosm.org/website/Ima%CC%81genes+blog+(4).jpg)
 
 ## **APPROACH**
 This project places a strong emphasis on collaborative mapping as a means to surmount challenges. The OSM platform takes center stage, acting as a pivotal tool that facilitates cooperation to fill cartographic gaps. The lessons gleaned from the Tefé project underscore the effectiveness of such collaborations and showcase the potential to empower local communities.
@@ -46,7 +46,7 @@ Acknowledging potential challenges in equipment delivery, logistical intricacies
 
 Expanding on the comprehensive approach established in the Tefé project, the Collaborative Mapping Project in the Middle Solimões incorporates a multifaceted strategy encompassing seminars, workshops, field data collection, the installation of GNSS bases, and RPA flights. The overarching goal is to capture high-resolution images and gather data for geographical analyses, ultimately contributing to a more precise and comprehensive representation of the region on maps.
 
-![Imágenes blog (7).jpg](/uploads/Ima%CC%81genes%20blog%20(7).jpg)
+![Imágenes blog (7).jpg](https://cdn.hotosm.org/website/Ima%CC%81genes+blog+(7).jpg)
 
 ## **OUTCOME AND IMPACT**
 The aerial data collection has enhanced the monitoring of OSM's outdated data, particularly in the São Luís do Macarí community, which undergoes frequent landslides causing constant changes in its maps. Training local students has facilitated regular area monitoring, improving access for public bodies. This is crucial as children in this community, lacking a local school, must trek over 2 km through the forest during the dry season to reach their study location. The community has long suffered from landslides, making field data essential for analyzing and monitoring these events.

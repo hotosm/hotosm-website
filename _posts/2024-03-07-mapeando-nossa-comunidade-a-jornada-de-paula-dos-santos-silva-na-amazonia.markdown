@@ -7,7 +7,7 @@ Summary Text: Descubra a incrível jornada de Paula dos Santos Silva na Amazôni
   sobre as "terras caídas", Paula compartilha sua experiência e destaca a importância
   do mapeamento para revelar as raízes e tradições dessas comunidades, garantindo
   sua visibilidade e reconhecimento.
-Feature Image: "/uploads/Paula%20dos%20Santos%20Silva%20na%20Amazo%CC%82nia.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Paula+dos+Santos+Silva+na+Amazo%CC%82nia.jpg"
 Person: Marina Aragão Santos
 Country:
 - Brazil
@@ -22,19 +22,19 @@ A trajetória acadêmica de Paula teve início em Tefé, movida pelo desejo de a
 
 Para Paula, mapear vai além das quatro paredes da sala de aula. Ela compartilha sua vivência, destacando a importância da visão da comunidade para a compreensão de seu trabalho. Em suas palavras, "Mapear é o que eu amo fazer; na geografia, eu não tive essa base, pois estava sem professores na UEA. Ficamos sem professor e tivemos algumas dificuldades. Quando voltou da pandemia, meu maior suporte foi o professor Dr. Francisco Davy Braz Rabelo. Tive que aprender quase tudo sozinha, contei com suporte fundamental de oficinas com a Universidade Federal de São João del Rei (UFSJ)”.
  
-![Paula - Tefé, Amazônia.png](/uploads/Paula%20-%20Tefe%CC%81,%20Amazo%CC%82nia.png)
+![Paula - Tefé, Amazônia.png](https://cdn.hotosm.org/website/Paula+-+Tefe%CC%81%2C+Amazo%CC%82nia.png)
 
 As atividades de mapeamento de Paula buscam dar visibilidade às comunidades ribeirinhas, revelando suas raízes e tradições. Ela destaca a necessidade de os alunos se enxergarem e reconhecerem sua existência. "Serviços não vão chegar se não tem visibilidade do território, de como chegar. A Amazônia é muito dinâmica, precisa mapear constantemente", enfatiza Paula, consciente da importância vital de seu trabalho.
 
-![Paula 2 - Tefé, Amazônia.png](/uploads/Paula%202%20-%20Tefe%CC%81,%20Amazo%CC%82nia.png)
+![Paula 2 - Tefé, Amazônia.png](https://cdn.hotosm.org/website/Paula+2+-+Tefe%CC%81%2C+Amazo%CC%82nia.png)
 
 A participação ativa da comunidade é um pilar central para Paula. Antigos moradores compartilham conhecimentos valiosos, mostrando locais afetados pela erosão e fornecendo informações cruciais. Para ela, “o conhecimento de mapear seria de grande relevância para os ribeirinhos mapear seus próprios territórios é o conhecimento empírico junto a ciências.” Paula enfrenta desafios como a distância e a falta de infraestrutura ao se dividir entre a comunidade antiga e a nova, mas sempre com o propósito de garantir que essas comunidades não se tornem invisíveis. Nas palavras de Paula, “mapear significa que as comunidades serão reconhecidas no mapa, eu existo”.
 
-![Paula 3 - Tefé, Amazônia.png](/uploads/Paula%203%20-%20Tefe%CC%81,%20Amazo%CC%82nia.png)
+![Paula 3 - Tefé, Amazônia.png](https://cdn.hotosm.org/website/Paula+3+-+Tefe%CC%81%2C+Amazo%CC%82nia.png)
 
 Os desafios tecnológicos, enfrentados ao utilizar geotecnologias, também são compartilhados por Paula. "Onde está e o que está aqui?" questiona ela, destacando a colaboração coletiva entre alunos como fundamental. Paula reforça a importância de unir sua vivência com as tecnologias para superar obstáculos e aprender durante sua jornada.
 
-![Paula 4 - Tefé, Amazônia.png](/uploads/Paula%204%20-%20Tefe%CC%81,%20Amazo%CC%82nia.png)
+![Paula 4 - Tefé, Amazônia.png](https://cdn.hotosm.org/website/Paula+4+-+Tefe%CC%81%2C+Amazo%CC%82nia.png)
 
 A Defesa Civil desempenha um papel crucial no suporte às comunidades, algo que Paula ressalta com ênfase. Ela destaca a importância de ter mapas para garantir o acesso em situações de desastre e a necessidade de capacitações constantes para os agentes da Defesa Civil, que frequentemente enfrentam lacunas de recursos e ferramentas.
 

@@ -6,7 +6,7 @@ Summary Text: 'México avanza en relación con sus propuestas de políticas púb
   para la regulación y modernización del transporte público. Entérate como HOT contribuyó
   al proyecto “Creando Datos Juntos: Mejora de la Gestión del Transporte Urbano en
   México”.'
-Feature Image: "/uploads/Creando%20Datos%20Juntos%20Mapeo%20de%20Transporte%20Pu%CC%81blico%20GIZ%20Codeando%20Me%CC%81xico%20HOT%20Trufi.jpeg"
+Feature Image: "https://cdn.hotosm.org/website/Creando+Datos+Juntos+Mapeo+de+Transporte+Pu%CC%81blico+GIZ+Codeando+Me%CC%81xico+HOT+Trufi.jpeg"
 Person:
 - Céline Jacquin
 - Juan Arellano Valdivia
@@ -25,7 +25,7 @@ La colaboración entre las tres organizaciones ya tiene dos años de historia en
 
 Para este proyecto, en estrecha colaboración con los Gobiernos Estatales de Oaxaca y México representados por sus Secretarías de Movilidad (SEMOVI), se definieron las necesidades de datos en relación con sus propuestas de políticas públicas para la regulación y modernización del transporte público, quedando seleccionadas las ciudades de Oaxaca, Puerto Escondido y Salina Cruz, así como la Zona Metropolitana de Toluca en el Estado de México.
 
-![Mapeo de Transporte Público en OpenStreetMap - Toluca y Oaxaca GIZ.png](/uploads/Mapeo%20de%20Transporte%20Pu%CC%81blico%20en%20OpenStreetMap%20-%20Toluca%20y%20Oaxaca%20GIZ.png)
+![Mapeo de Transporte Público en OpenStreetMap - Toluca y Oaxaca GIZ.png](https://cdn.hotosm.org/website/Mapeo+de+Transporte+Pu%CC%81blico+en+OpenStreetMap+-+Toluca+y+Oaxaca+GIZ.png)
 
 *Visualización de las contribuciones (conjuntos de cambios de OpenStreetMap) en el Valle de Toluca.*
 
@@ -43,7 +43,7 @@ Algunas de las personas participantes nos comparten sus reflexiones:
 
 > *Hay muchas personas turistas que vienen y no saben que camión tomar, o hasta uno mismo ¿no?, a pesar de que eres de aquí, te preguntas ¿qué camión me lleva para aquí? o ¿qué camión me lleva para allá? entonces creo que (este proyecto) es una ventaja para todos.* — Benjamín Montiel, estudiante de la UAEMEX en Toluca; mapeador voluntario del proyecto y usuario del transporte público de la ciudad.
 
-![Estudiantes mapeadores, representantes de HOT, GEOID-COMAPPER, TOMTOM y ex-SEMOVI (Oaxaca) en la sesión de premiación durante el Open Data Day 2025.jpg](/uploads/Estudiantes%20mapeadores,%20representantes%20de%20HOT,%20GEOID-COMAPPER,%20TOMTOM%20y%20ex-SEMOVI%20(Oaxaca)%20en%20la%20sesio%CC%81n%20de%20premiacio%CC%81n%20durante%20el%20Open%20Data%20Day%202025.jpg)
+![Estudiantes mapeadores, representantes de HOT, GEOID-COMAPPER, TOMTOM y ex-SEMOVI (Oaxaca) en la sesión de premiación durante el Open Data Day 2025.jpg](https://cdn.hotosm.org/website/Estudiantes+mapeadores%2C+representantes+de+HOT%2C+GEOID-COMAPPER%2C+TOMTOM+y+ex-SEMOVI+(Oaxaca)%20en%20la%20sesio%CC%81n%20de%20premiacio%CC%81n%20durante%20el%20Open%20Data%20Day%202025.jpg)
 
 > *Me gusta mucho todo el tema del mapeo, el proyecto se me hizo interesante, y se me hizo mucho mejor el poder liberar mi materia de integrativa profesional por medio de algo que me apasiona”.* — Alexander Burreola, estudiante de la UAEMEX en Toluca\*\*, mapeador voluntario del proyecto.\*
 
@@ -61,7 +61,7 @@ Antonio de Jesús, representante de GEOID-Comapper (socio implementador), nos co
 
 Este proceso de mapeo, cerró en el marco de la celebración del Día Internacional de los Datos Abiertos (Open Data Day) en la UAEMEX, culminando con la entrega de los reconocimientos y premiación a los participantes.
 
-![Foto grupal con estudiantes mapeadores, representantes de HOT, GEOID-COMAPPER, TOMTOM y ex-SEMOVI (Oaxaca) en la sesión de premiación durante el Open Data Day 2025.jpg](/uploads/Foto%20grupal%20con%20estudiantes%20mapeadores,%20representantes%20de%20HOT,%20GEOID-COMAPPER,%20TOMTOM%20y%20ex-SEMOVI%20(Oaxaca)%20en%20la%20sesio%CC%81n%20de%20premiacio%CC%81n%20durante%20el%20Open%20Data%20Day%202025.jpg)
+![Foto grupal con estudiantes mapeadores, representantes de HOT, GEOID-COMAPPER, TOMTOM y ex-SEMOVI (Oaxaca) en la sesión de premiación durante el Open Data Day 2025.jpg](https://cdn.hotosm.org/website/Foto+grupal+con+estudiantes+mapeadores%2C+representantes+de+HOT%2C+GEOID-COMAPPER%2C+TOMTOM+y+ex-SEMOVI+(Oaxaca)%20en%20la%20sesio%CC%81n%20de%20premiacio%CC%81n%20durante%20el%20Open%20Data%20Day%202025.jpg)
 
 *Foto grupal con estudiantes mapeadores, representantes de HOT, GEOID-COMAPPER, TOMTOM y ex-SEMOVI (Oaxaca) en la sesión de premiación durante el Open Data Day 2025.*
 

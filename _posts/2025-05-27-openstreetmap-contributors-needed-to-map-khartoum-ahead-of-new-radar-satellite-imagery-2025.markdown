@@ -8,7 +8,7 @@ Summary Text: Over the past two years, conflict in Sudan has driven the country 
   radar satellite by the European Space Agency, that gap is beginning to close — but
   a comprehensive dataset of building footprints from OpenStreetMap (OSM) is essential
   to make this satellite data actionable.
-Feature Image: "/uploads/khartoum-banner-lowres.jpg"
+Feature Image: "https://cdn.hotosm.org/website/khartoum-banner-lowres.jpg"
 Is image top aligned: true
 Person:
 - Claudio de los Reyes Teran
@@ -28,7 +28,7 @@ In order to identify the impact that a region has sustained during conflict, dam
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/diagram-optical-insar-v4.png" alt="Optical vs Radar Imagery" style="width: 65%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/diagram-optical-insar-v4.png" alt="Optical vs Radar Imagery" style="width: 65%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         Inspired by fig 1 on Plank, Simon. 2014. "Rapid Damage Assessment by Means of Multi-Temporal SAR — A Comprehensive Review and Outlook to Sentinel-1" <i>Remote Sensing</i> 6, no. 6: 4870–4906. https://doi.org/10.3390/rs6064870
     </div>
@@ -39,7 +39,7 @@ On the other hand, radar imagery automatically detects damage from multiple angl
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/damage-sudan-v1.6.png" alt="InSAR Damage Analysis" style="width: 65%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/damage-sudan-v1.6.png" alt="InSAR Damage Analysis" style="width: 65%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         Image showing the process for InSAR damage analysis. Inspired by: Damage analysis of Copernicus Sentinel-1 satellite data by Corey Scher of CUNY Graduate Center and Jamon Van Den Hoek of Oregon State University.
     </div>
@@ -54,7 +54,7 @@ Following a four-year gap in coverage over Sudan, [the European Space Agency's S
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/sentinel-color.png" alt="Sentinel-1C Path" style="width: 65%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/sentinel-color.png" alt="Sentinel-1C Path" style="width: 65%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         Image showing the path Sentinel-1C in April and May – red showing where it will capture imagery on Apr 30, 2025
     </div>
@@ -84,7 +84,7 @@ The [internal displacement patterns](https://www.unocha.org/publications/report/
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/11%20March%202025,%20ACLED%20&%20IDPs.png" alt="Sudan Displacement Map" style="width: 65%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/11+March+2025,+ACLED+https://cdn.hotosm.org/website/11+March+2025,+ACLED+https://cdn.hotosm.org/website/11+March+2025,+ACLED+https://cdn.hotosm.org/website/11+March+2025,+ACLED+https://cdn.hotosm.org/website/11+March+2025%2C+ACLED+%26+IDPs.png+IDPs.png+IDPs.png+IDPs.png+IDPs.png" alt="Sudan Displacement Map" style="width: 65%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         Map courtesy of Kayne Coy, University College Cork
     </div>

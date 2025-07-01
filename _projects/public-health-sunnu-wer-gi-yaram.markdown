@@ -8,7 +8,7 @@ Project Summary Text: In partnership with Marie Stopes Senegal, the project work
   its partners, the Sunnu Wer Gi Yaram project provided the necessary data to support
   Marie Stopes and the Ministry of Health in enhancing their programs and community
   health services in the Matam region of Senegal.
-Feature Image: "/uploads/Senegal2022LeadB.png"
+Feature Image: "https://cdn.hotosm.org/website/Senegal2022LeadB.png"
 Country:
 - Senegal
 Impact Area:
@@ -28,7 +28,7 @@ During the Ebola Virus Disease and COVID-19 pandemics, healthcare systems were p
 
 In the region, surveillance, monitoring(recovery, outbreaks), emergency preparedness, disease prevention, research, data and analysis, communication, and health promotion notably need a lot of support due to the lack of resources, adequate information, and technical expertise.
 
-![Senegal20221.png](/uploads/Senegal20221.png)
+![Senegal20221.png](https://cdn.hotosm.org/website/Senegal20221.png)
 
 Access to quality healthcare services in Senegal is mainly limited to urban areas, leaving rural populations with inadequate access to primary healthcare. The cost of healthcare is also a factor that affects the sector, as it is expensive to locate health facilities, and there is a scarcity of drugs and personnel and a shortage of specialized doctors. This makes it difficult for low-income earners to access healthcare services due to the high cost of limited treatment.
 
@@ -42,7 +42,7 @@ The project successfully achieved its objectives by adopting an inclusive and pa
 * Project data is being used to create data products such as datasets and maps that support supply chain management and drug dispensation and ensure that public health facilities services are readily available to all region inhabitants and beyond.
 * Establish partnerships with key stakeholders to implement practical interventions based on the project's findings and recommendations.
 
-![Senegal20222.png](/uploads/Senegal20222.png)
+![Senegal20222.png](https://cdn.hotosm.org/website/Senegal20222.png)
 
 ## Approach
 
@@ -81,7 +81,7 @@ The project contributed:
 * 2 clinics
 * 28 pharmacies
 
-![Senegal20223.png](/uploads/Senegal20223.png)
+![Senegal20223.png](https://cdn.hotosm.org/website/Senegal20223.png)
 
 ## Next Steps and Lessons Learned
 

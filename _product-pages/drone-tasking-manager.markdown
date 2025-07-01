@@ -9,7 +9,7 @@ Tool-name: Open Drone Aerial Tasking Manager
 Block 0:
   Header: 
   Text: Open-Source Tool Designed to Contribute to an Open Aerial Imagery Repository
-  Image: "/uploads/droneTM-front.jpg"
+  Image: "https://cdn.hotosm.org/website/droneTM-front.jpg"
 Block 1:
   Section: What is it?
   Header: A user-friendly, inclusive application suite enabling anyone with access

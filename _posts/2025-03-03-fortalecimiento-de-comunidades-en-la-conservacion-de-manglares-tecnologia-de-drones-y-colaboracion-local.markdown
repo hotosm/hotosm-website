@@ -5,7 +5,7 @@ date: 2025-03-03 21:05:00 Z
 Summary Text: Descubre cómo la colaboración con comunidades locales y el uso de drones
   ligeros están revolucionando la conservación de los manglares en México, fortaleciendo
   la gestión territorial y promoviendo la resiliencia comunitaria.
-Feature Image: "/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Las%20Guardianas%20del%20Conchalito%20BSCicletos%20Mangles%20del%20Manglito%20HOTOSM%20Wikimedia%20Me%CC%81xico%20OpenDroneMap.jpg"
+Feature Image: "https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+Las+Guardianas+del+Conchalito+BSCicletos+Mangles+del+Manglito+HOTOSM+Wikimedia+Me%CC%81xico+OpenDroneMap.jpg"
 Person:
 - Céline Jacquin
 - Mariana Marín
@@ -21,7 +21,7 @@ A partir de estas experiencias, el LAC Hub de HOT ha investigado sistemáticamen
 
 ## La Degradación de los Manglares y la Importancia de los Aliados Locales
 
-![Monitoreo y Protección de Manglares Las Guardianas del Conchalito.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Las%20Guardianas%20del%20Conchalito.jpg)
+![Monitoreo y Protección de Manglares Las Guardianas del Conchalito.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+Las+Guardianas+del+Conchalito.jpg)
 
 *Fotos: RollitoDeGuayaba / Wikimedia Commons CC-BY-4.0*
 
@@ -39,7 +39,7 @@ Carlos Mancilla, Director Ejecutivo de *BCSicletos*, resalta la importancia de e
 
 ## **Drones Ligeros: La Herramienta Clave para el Monitoreo Ambiental**
 
-![1-2df3b3.jpg](/uploads/1-2df3b3.jpg)
+![1-2df3b3.jpg](https://cdn.hotosm.org/website/1-2df3b3.jpg)
 
 El uso de la plataforma de código abierto *Drone Tasking Manager (DTM)* facilita la recopilación de imágenes aéreas y el procesamiento fotogramétrico sin necesidad de drones costosos ni conocimientos avanzados en software. Con esta tecnología, se puede generar cartografía de alta precisión, permitiendo una evaluación más detallada de las amenazas a estos ecosistemas y el diseño de estrategias de conservación basadas en datos.
 
@@ -51,7 +51,7 @@ Según Iván Gayton, fundador de la plataforma: *“Drone TM permite que comunid
 
 ## **Capacitación en Acción: Talleres de Wikimedia, Vuelos de Drones y Tasking Manager**
 
-![Monitoreo y Protección de Manglares Wikimedia México HOTOSM.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20Wikimedia%20Me%CC%81xico%20HOTOSM.jpg)
+![Monitoreo y Protección de Manglares Wikimedia México HOTOSM.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+Wikimedia+Me%CC%81xico+HOTOSM.jpg)
 
 *Fotos: RollitoDeGuayaba / Wikimedia Commons CC-BY-4.0*
 
@@ -102,7 +102,7 @@ loading="lazy">
 
 ## **Construyendo una Comunidad de Drones para la Conservación**
 
-![Drone TM Monitoreo de Manglares HOTOSM BCSicletos.jpg](/uploads/Drone%20TM%20Monitoreo%20de%20Manglares%20HOTOSM%20BCSicletos.jpg)
+![Drone TM Monitoreo de Manglares HOTOSM BCSicletos.jpg](https://cdn.hotosm.org/website/Drone+TM+Monitoreo+de+Manglares+HOTOSM+BCSicletos.jpg)
 
 Con el objetivo continuo de conectar comunidades para que puedan apoyarse mutuamente en el futuro y fomentar la sostenibilidad de un nuevo ecosistema, hemos priorizado la capacitación de personas clave a lo largo de esta iniciativa. Además de involucrar a organizaciones locales activas en la defensa territorial, nos hemos enfocado en profesionales con experiencia en el uso de drones, particularmente aquellos comprometidos con actividades comunitarias o con un fuerte interés en el bienestar colectivo.
 
