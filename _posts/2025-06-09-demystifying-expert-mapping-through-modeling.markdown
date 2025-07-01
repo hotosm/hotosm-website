@@ -19,7 +19,7 @@ Let me suggest a way forward with this: Modeling! Modeling is a strong force tha
 
 Using modeling to make expert mapping accessible for all will make a big difference for beginner mappers. Let’s lead by example and start modeling our thinking aloud.
 
-<iframe src="https://giphy.com/embed/mMnQDG9J1C0n0gnkKP" width="800" height="600" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hotosm-ideditor-mMnQDG9J1C0n0gnkKP">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/mMnQDG9J1C0n0gnkKP" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/hotosm-ideditor-mMnQDG9J1C0n0gnkKP">via GIPHY</a></p>
 
 > *"Hmm, I see this road is directly connected to a building, when I move the building, the road moves with it, this should be separated. What can I do? Right-clicking always gives me some options, so let me try that first, I’ll right-click on the point where they meet, and will have a look at the menu. There it is, the “disconnect” option. That is what I need, I’ll select that. Now the house and road are no longer linked. That frees me up to square the building properly and clean up the road alignment too. So, remember, when features are wrongly joined, the right-click menu gives you tools like “disconnect” to fix it. In general, the right-click menu has a few good tools that solve mapping problems”.*
 

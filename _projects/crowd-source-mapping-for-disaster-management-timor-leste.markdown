@@ -1,5 +1,5 @@
 ---
-title: Crowd-Source Mapping for Disaster Management (Timor Leste)
+title: Crowdsource Mapping for Disaster Management (Timor-Leste)
 date: 2023-05-16 20:41:00 Z
 Project Summary Text: 'Equipping local communities with the ability to use OpenStreetMap
   for decision-making and providing relevant information/attributes for disaster management.
@@ -11,7 +11,6 @@ Country:
 Impact Area:
 - Disasters & Climate Resilience
 - Sustainable Cities & Communities
-Highlight: Sustainable Cities & Communities
 Partner:
 - World Vision Timor-Leste
 - Simile Timor-Leste
@@ -20,6 +19,7 @@ Duration:
   End Date: 2022-08-11 00:00:00 Z
 Tools:
 - tool: inaSAFE
+Highlight: Sustainable Cities & Communities
 ---
 
 As part of the Open Mapping Hub Asia Pacific's dedication to strengthening data usage and promoting disaster resilience throughout the Asia-Pacific Region, we are collaborating with local communities and partners in Timor-Leste to provide training on OSM for Disaster Management. In collaboration with World Vision Timor-Leste, Simile Timor-Leste, and other local agencies, the training program was launched with a virtual session, followed by an in-person session where several community members and INGOs participated.

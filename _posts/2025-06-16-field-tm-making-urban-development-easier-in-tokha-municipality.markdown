@@ -1,8 +1,15 @@
 ---
 title: 'Field-TM: Making Urban Development Easier in Tokha Municipality'
 date: 2025-06-16 14:45:00 Z
-published: false
 Feature Image: "https://cdn.hotosm.org/website/ManjitaFieldTM_Cover.jpg"
+Summary Text: 55 enumerators and project coordinators used the Field Tasking Manager
+  (Field-TM) for a building survey in Tokha, Nepal, to improve metric addressing and
+  develop integrated databases. The tool enhanced data collection during a house numbering
+  survey of 17 km² and 30,000 buildings. Despite challenges, the project progressed
+  smoothly, providing insights for enhancing Field-TM. The municipality plans to use
+  the data for assigning house numbers and urban management, highlighting the importance
+  of efficient data collection in growing urban areas.
+Feature Image: "/uploads/ManjitaFieldTM_Cover.jpg"
 Person: Manjita Pandey
 Country:
 - Nepal
@@ -41,15 +48,31 @@ Like any large-scale field survey, this project too had its fair share of challe
 
 The remaining features, mostly marked as bad and some left in the first go, have been downloaded to create another project at the whole municipality level. 
 
-Despite the challenges, the field mapping activity in Tokha Municipality is being finalised smoothly without major project disruptions. The insights gained from this initiative are being used to enhance Field-TM, paving the way for more efficient and scalable field mapping solutions in future urban development projects. 
+Despite the challenges, the field mapping activity in Tokha Municipality is being finalized smoothly without major project disruptions. The insights gained from this initiative are being used to enhance Field-TM, paving the way for more efficient and scalable field mapping solutions in future urban development projects. 
 
 The municipality primarily plans to use this data to assign house numbers to each household. Additionally, they are developing an integrated municipal database to support house inventory management and urban data planning and management.
 
 ![ManjitaFieldTM_Presentation.jpg](https://cdn.hotosm.org/website/ManjitaFieldTM_Presentation.jpg)
 
 As urban areas continue to grow, tools like Field-TM play a crucial role in ensuring efficient data collection and informed decision-making for urban development. Continuous improvements to the platform will further enhance its usability, making field mapping more accessible and effective.
-We invite urban planners, local governments, and mapping communities to explore Field-TM and see how it can streamline their field surveys. **If you’re interested in collaborating, sharing feedback, or learning more about how Field-TM can support your projects, reach out to the team (https://docs.fmtm.dev/about/team/) or on [HOT's Field-TM Slack channel](https://slack.hotosm.org/).**
+We invite urban planners, local governments, and mapping communities to explore Field-TM and see how it can streamline their field surveys. **If you’re interested in collaborating, sharing feedback, or learning more about how Field-TM can support your projects, reach out [to the team] (https://docs.fmtm.dev/about/team/) or on [HOT's Field-TM Slack channel](https://slack.hotosm.org/).**
 
 Finally, you can watch [our latest webinar recording](https://www.youtube.com/watch?v=OUeBevXfOkQ) and mini demo tutorials of the three main workflows: [Organization creation](https://www.youtube.com/watch?v=ayF6byODcD4), [Project Creation](https://www.youtube.com/watch?v=iLCuc2bXLcs), and [Mapping](https://www.youtube.com/watch?v=fAVycJ5rowY), so you can start using Field taskign Manager now!
 
 Stay connected for more updates on how Field-TM is contributing to urban development and other field mapping initiatives worldwide [here](https://github.com/hotosm/fmtm/releases). 
+
+<br>
+
+About the Author
+
+---
+
+
+
+## Manjita Pandey
+*Geomatics Engineer, Product Manager at Naxa, Open Data Advocate* 
+
+### Major Interests
+- Disaster Management
+- Climate Change
+- Sustainable Urban Development

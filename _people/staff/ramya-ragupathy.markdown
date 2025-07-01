@@ -4,6 +4,7 @@ date: 2018-09-15 09:47:00 Z
 Photo: https://cdn.hotosm.org/website/Ramya-Kenya.jpg
 Member Type:
   Is Staff: true
+  Is Voting Member: true
 Job Title: Product Manager
 Working Group:
 - OSM Galaxy (Technical)
