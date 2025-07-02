@@ -1,7 +1,6 @@
 ---
 title: David Lemayian
 date: 2025-07-02 15:33:00 Z
-published: false
 Photo: "/uploads/David.jpg"
 Member Type:
   Is Staff: true
