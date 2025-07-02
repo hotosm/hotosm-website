@@ -7,7 +7,7 @@ Project Summary Text: "Through our Mapping for Climate Ready Cities program, HOT
   priority regions.\n\n\nThis project page highlights our work in Liberia and Sierra
   Leone. "
 Feature Image: https://cdn.hotosm.org/website/image.png
-Is image top aligned: true
+Is image top aligned: false
 Country:
 - Liberia
 - Sierra Leone
