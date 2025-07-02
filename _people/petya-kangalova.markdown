@@ -1,7 +1,6 @@
 ---
 title: Petya Kangalova
 date: 2022-02-07 02:13:00 Z
-published: false
 Photo: https://cdn.hotosm.org/website/Petya_photo.jpg
 Member Type:
   Is Staff: true
