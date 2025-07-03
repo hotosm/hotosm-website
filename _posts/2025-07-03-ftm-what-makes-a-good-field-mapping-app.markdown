@@ -3,14 +3,20 @@ title: What Makes a Good Field Mapping App? Exploring the Newest Updates to the 
   Tasking Manager
 date: 2025-07-03 18:13:00 Z
 published: false
+Summary Text: 'In late 2022, HOT’s tech team started a prototype of what would become
+  the Field Tasking Manager, or Field-TM. Among a variety of [already available good
+  field mapping apps](https://docs.fmtm.dev/about/faq/#dont-other-tools-do-similar-things),
+  we decided to embark on this journey to add an element that was clearly missing
+  for us: the ability to facilitate coordination between mappers. With many contributions,
+  tests, and [updates](https://www.hotosm.org/updates/field-mapping-tasking-manager-fmtm/)
+  over the last years, **we are excited to share that Field Tasking Manager is now
+  production-ready. Yes, that means [it is ready for use](https://fmtm.hotosm.org/)!**'
 Feature Image: "/uploads/8.jpg"
 Person:
 - Petya Kangalova
 - Carter Draper
 - Sam Woodcock
 ---
-
-In late 2022, HOT’s tech team started a prototype of what would become the Field Tasking Manager, or Field-TM. Among a variety of [already available good field mapping apps](https://docs.fmtm.dev/about/faq/#dont-other-tools-do-similar-things), we decided to embark on this journey to add an element that was clearly missing for us: the ability to facilitate coordination between mappers. With many contributions, tests, and [updates](https://www.hotosm.org/updates/field-mapping-tasking-manager-fmtm/) over the last years, **we are excited to share that Field Tasking Manager is now production-ready. Yes, that means [it is ready for use](https://fmtm.hotosm.org/)!**
 
 As HOT’s Tech Partnership and Engagement Lead, I decided to speak directly to [Sam Woodcock](https://www.hotosm.org/people/sam-woodcock/), our Senior Technical Lead, and the developer behind Field-TM, as well as [Carter Draper](https://www.hotosm.org/people/carter-draper/), Senior Manager of Programs at our West and Northern Africa Hub, who has tested this tool in several local projects. By bringing together the voices of both users and developers, I hope to encourage more mappers to use Field-TM! 
 
