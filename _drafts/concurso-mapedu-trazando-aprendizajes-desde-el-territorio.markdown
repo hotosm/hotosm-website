@@ -64,6 +64,8 @@ CPEM 57, San Martín de los Andes, Argentina\
 **Docente: **Ayelén Correa\
 Creación de un mapa público sobre los puntos de disposición de residuos, con impacto en la comunidad local y reconocimiento oficial. [¡Explora el mapa!](https://umap.openstreetmap.fr/es/map/gestion-de-residuos-sma_1060409)
 
+![Mapeando Accesos.jpg](/uploads/Mapeando%20Accesos.jpg)
+
 *Conoce el impacto en esta [nota](https://www.adnsur.com.ar/sociedad/estudiantes-neuquinos-recibieron-un-importante-premio-internacional_a66d117e9ed4ceb8238b0875e).*
 
 **Segundo lugar: mapa de riesgos naturales**\
@@ -85,6 +87,10 @@ CPEM 57, San Martín de los Andes, Argentina\
 **Docente: **Alejandra Limido\
 Estudiantes midieron las emisiones de CO₂ generadas por sus medios de transporte y propusieron medidas de mitigación. [¡Explora el mapa!](https://umap.openstreetmap.fr/es/map/huella-de-carbono-4-b-tt-cpem-n57_1081859)
 
+![Foto Huella 01.jpg](https://cdn.hotosm.org/website/Foto\+Huella\+01.jpg)
+
+*Lee más en esta [historia de impacto](https://www.hotosm.org/updates/huellas-de-carbono-accion-y-conciencia-ante-las-emisiones-de-co2-con-mapeo-abierto/).*
+
 **Segundo lugar: fecto de la implementación del mapeo de zona en el Humedal Córdoba**\
 Colegio Gimnasio Kaiporé, Bogotá, Colombia\
 **Docente: **César Mendoza\
@@ -103,6 +109,10 @@ Los proyectos de esta categoría utilizaron el mapeo para mejorar la vida cotidi
 CPEM 13, San Martín de los Andes, Argentina\
 **Docente: **Melisa Sansotta\
 Mapeo participativo de baches urbanos con imágenes georreferenciadas, orientado a incidir en políticas locales de mantenimiento vial.
+
+![Bache.jpg](/uploads/Bache.jpg)
+
+Conoce la [historia de impacto](https://www.hotosm.org/updates/el-proyecto-bache-mapeando-una-problematica-ciudadana-en-san-martin-de-los-andes/).
 
 **Segundo lugar: identificación de POI y zonas rurales**\
 I.E. Técnica Valle de Tenza, Guateque, Colombia**\
