@@ -3,7 +3,7 @@ title: 'Concurso MapEdu: trazando aprendizajes desde el territorio'
 date: 2025-07-04 00:47:00 Z
 Summary Text: Conoce MapEdu a través de los proyectos ganadores de 2024 y entérate
   cómo docentes y estudiantes de 10 a 18 años pueden transformar su territorio en
-  la segunda edición del MapEdu 2025.
+  la segunda edición del Concurso MapEdu 2025.
 Feature Image: cdn.hotosm.org/website/Foto\+Huella\+01.jpg
 Person:
 - Tim DeWinter
