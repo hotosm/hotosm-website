@@ -22,11 +22,11 @@ Person:
 
 ## Contexto
 
-En un contexto donde los currículos escolares demandan el uso de Tecnologías de la Información y la Comunicación (TICs) y la participación ciudadana se vuelve clave para resolver desafíos locales, las herramientas de mapeo abierto ofrecen una alternativa innovadora y significativa para el aprendizaje. En muchos países de América Latina, las escuelas enfrentan limitaciones tecnológicas, falta de conexión con sus comunidades y dificultades para fomentar habilidades del siglo XXI.\
-\
+En un contexto donde los currículos escolares demandan el uso de Tecnologías de la Información y la Comunicación (TICs) y la participación ciudadana se vuelve clave para resolver desafíos locales, las herramientas de mapeo abierto ofrecen una alternativa innovadora y significativa para el aprendizaje. En muchos países de América Latina, las escuelas enfrentan limitaciones tecnológicas, falta de conexión con sus comunidades y dificultades para fomentar habilidades del siglo XXI.
+
 El Hub de Mapeo Abierto en América Latina y el Caribe con el Equipo Humanitario de OpenStreetMap lanzó MapEdu para reducir estas brechas, ofreciendo un acompañamiento técnico y pedagógico a docentes y estudiantes. Cada edición del concurso invita a mapear un tema vinculado al entorno y al currículo escolar: ciencia y tecnología, cambio climático, género y equidad, y desarrollo comunitario.
 
-## **Metodología**
+## Metodología
 
 MapEdu se basa en una metodología de Aprendizaje Basado en Proyectos (PBL), fomentando autonomía, dominio de herramientas, y propósito comunitario en los participantes. El enfoque incluye:
 
