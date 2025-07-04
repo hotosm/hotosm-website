@@ -4,6 +4,7 @@ date: 2025-07-04 00:47:00 Z
 Summary Text: Conoce MapEdu a través de los proyectos ganadores de 2024 y entérate
   cómo docentes y estudiantes de 10 a 18 años pueden transformar su territorio en
   la segunda edición del MapEdu 2025.
+Feature Image: cdn.hotosm.org/website/Foto\+Huella\+01.jpg
 Person:
 - Tim DeWinter
 - Mariana Marín
@@ -91,7 +92,7 @@ Estudiantes midieron las emisiones de CO₂ generadas por sus medios de transpor
 
 *Lee más en esta [historia de impacto](https://www.hotosm.org/updates/huellas-de-carbono-accion-y-conciencia-ante-las-emisiones-de-co2-con-mapeo-abierto/).*
 
-**Segundo lugar: fecto de la implementación del mapeo de zona en el Humedal Córdoba**\
+**Segundo lugar: efecto de la implementación del mapeo de zona en el Humedal Córdoba**\
 Colegio Gimnasio Kaiporé, Bogotá, Colombia\
 **Docente: **César Mendoza\
 Estudio de fuentes de gases de efecto invernadero que afectan a humedales urbanos, con propuestas de restauración y monitoreo. [Ver documento](https://docs.google.com/document/d/1ws__EHDHnm58Xf-q7IJxxALpoSfm6lUN/edit)
