@@ -38,17 +38,21 @@ Este eje reconoció proyectos que promueven la reflexión crítica sobre los est
 
 **Primer lugar: Aquí podemos ser**\
 I.E. Tricentenario, Medellín, Colombia\
-**Docente: Gustavo Álvarez**\
-**Estudiantes mapearon lugares que consideran espacios seguros para expresarse, convivir y realizar actividades artísticas, deportivas o recreativas.**[¡Explora el mapa!](https://escuelanacionaldelgrito.com/aqui-podemos-ser/)
+**Docente: **Gustavo Álvarez\
+Estudiantes mapearon lugares que consideran espacios seguros para expresarse, convivir y realizar actividades artísticas, deportivas o recreativas.[¡Explora el mapa!](https://escuelanacionaldelgrito.com/aqui-podemos-ser/)
+
+![Aquí 02.jpg](https://cdn.hotosm.org/website/Aqui%CC%81\+02.jpg)
+
+*Lee más en nuestra [historia de impacto](https://www.hotosm.org/updates/aqui-podemos-ser-cartografia-de-espacios-seguros-en-medellin-a-traves-del-mapeo-abierto/).*
 
 **Segundo lugar: Cartografía social de las violencias de género\
 *Colegio Mayor de Antioquia, Medellín, Colombia\
-Docente:* Diana Jaramillo**\
+*Docente: **Diana Jaramillo\
 Mapeo participativo de violencias de género con estudiantes de formación técnica. El proceso incluyó talleres de sensibilización y trabajo psicosocial. **[¡Explora el mapa!](http://u.osmfr.org/m/1095715/)**
 
 **Tercer lugar: cuestionando estereotipos de género**\
 GAL School (Global Active Learning), Cusco, Perú\
-Docente: **Karina Castillo**\
+**Docente: **Karina Castillo\
 Aplicación de una encuesta en KoboToolbox para identificar estereotipos de género en diversos contextos sociales y profesionales de la ciudad.
 
 ## **Cambio climático**
@@ -59,6 +63,8 @@ Los proyectos de esta categoría abordaron el cambio climático desde el anális
 CPEM 57, San Martín de los Andes, Argentina\
 **Docente: **Ayelén Correa\
 Creación de un mapa público sobre los puntos de disposición de residuos, con impacto en la comunidad local y reconocimiento oficial. [¡Explora el mapa!](https://umap.openstreetmap.fr/es/map/gestion-de-residuos-sma_1060409)
+
+*Conoce el impacto en esta [nota](https://www.adnsur.com.ar/sociedad/estudiantes-neuquinos-recibieron-un-importante-premio-internacional_a66d117e9ed4ceb8238b0875e).*
 
 **Segundo lugar: mapa de riesgos naturales**\
 Unidad Educativa Jaime Roldós, Santa Isabel, Ecuador\
