@@ -20,19 +20,19 @@ El LAC Hub de HOT lanzó MapEdu para reducir estas brechas, ofreciendo un acompa
 
 MapEdu se basa en una metodología de Aprendizaje Basado en Proyectos (PBL), fomentando autonomía, dominio de herramientas, y propósito comunitario en los participantes. El enfoque incluye:
 
-* **Convocatoria Abierta: **A escuelas de toda América Latina con estudiantes de 14 años en adelante.
+* **Convocatoria Abierta:** A escuelas de toda América Latina con estudiantes de 14 años en adelante.
 
-* **Selección de Tema: **Cada grupo elige un tema según contexto local, necesidades curriculares o intereses estudiantiles.
+* **Selección de Tema:** Cada grupo elige un tema según contexto local, necesidades curriculares o intereses estudiantiles.
 
-* **Acompañamiento Técnico y Pedagógico: **Se brinda formación y asesoría sobre herramientas como uMap, KoboToolbox, Mapillary y OSM.
+* **Acompañamiento Técnico y Pedagógico** Se brinda formación y asesoría sobre herramientas como uMap, KoboToolbox, Mapillary y OSM.
 
-* **Mapeo Educativo Guiado: **Los proyectos combinan trabajo en aula, mapeo en campo y edición colaborativa.
+* **Mapeo Educativo Guiado:** Los proyectos combinan trabajo en aula, mapeo en campo y edición colaborativa.
 
-* **Documentación Creativa: **Se exige presentar el mapa final y un video u otro recurso audiovisual que documente el proceso de aprendizaje.
+* **Documentación Creativa:** Se exige presentar el mapa final y un video u otro recurso audiovisual que documente el proceso de aprendizaje.
 
 * **Evaluación por Impacto y Creatividad:** Los proyectos se evalúan por su creatividad, pertinencia curricular, calidad técnica, participación estudiantil y relevancia comunitaria.
 
-* **Premios y Reconocimientos: **Se otorgan premios en efectivo (1000, 500, 250 USD) por cada uno de los cuatro temas.
+* **Premios y Reconocimientos:** Se otorgan premios en efectivo (1000, 500, 250 USD) por cada uno de los cuatro temas.
 
 ## Impacto
 
