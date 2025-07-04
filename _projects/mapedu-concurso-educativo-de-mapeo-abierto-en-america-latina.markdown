@@ -6,6 +6,16 @@ Project Summary Text: MapEdu es un concurso regional educativo liderado por el L
   Latina. A través de la iniciativa OM4A (Open Mapping for All), busca fortalecer
   competencias digitales, pensamiento crítico y ciudadanía activa entre estudiantes
   de 10 a 18 años, generando datos abiertos con impacto comunitario.
+Feature Image: cdn.hotosm.org/website/Foto\+Huella\+01.jpg
+Country:
+- Argentina
+- Colombia
+- Ecuador
+- Peru
+Impact Area:
+- Sustainable Cities & Communities
+- Disasters & Climate Resilience
+- Gender Equality
 Person:
 - Tim DeWinter
 ---
