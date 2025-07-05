@@ -4,7 +4,7 @@ date: 2025-07-04 00:47:00 Z
 Summary Text: Conoce MapEdu a través de los proyectos ganadores de 2024 y entérate
   cómo docentes y estudiantes de 10 a 18 años pueden transformar su territorio en
   la segunda edición del Concurso MapEdu 2025.
-Feature Image: "/uploads/MapEdu.jpg"
+Feature Image: "/uploads/MapEdu4.jpg"
 Person:
 - Tim DeWinter
 - Mariana Marín
@@ -47,8 +47,7 @@ Este eje reconoció proyectos que promueven la reflexión crítica sobre los est
 
 *Lee más en nuestra [historia de impacto](https://www.hotosm.org/updates/aqui-podemos-ser-cartografia-de-espacios-seguros-en-medellin-a-traves-del-mapeo-abierto/).*
 
-
-![El Grito - Open Mapping for All.jpg](https://cdn.hotosm.org/website/El\+Grito\+-\+Open\+Mapping\+for\+All.jpg)
+![MapEdu2.jpg](/uploads/MapEdu2.jpg)
 
 **Segundo lugar: Cartografía social de las violencias de género**
 
@@ -78,7 +77,7 @@ Los proyectos de esta categoría abordaron el cambio climático desde el anális
 
 * Creación de un mapa público sobre los puntos de disposición de residuos, con impacto en la comunidad local y reconocimiento oficial. [¡Explora el mapa!](https://umap.openstreetmap.fr/es/map/gestion-de-residuos-sma_1060409)
 
-![Mapeando Accesos.jpg](/uploads/Mapeando%20Accesos.jpg)
+![MapEdu3.jpg](/uploads/MapEdu3.jpg)
 
 *Conoce el impacto en esta [nota](https://www.adnsur.com.ar/sociedad/estudiantes-neuquinos-recibieron-un-importante-premio-internacional_a66d117e9ed4ceb8238b0875e).*
 
@@ -110,7 +109,7 @@ En este eje, los equipos aplicaron herramientas de análisis, medición y mapeo 
 
 * Estudiantes midieron las emisiones de CO₂ generadas por sus medios de transporte y propusieron medidas de mitigación. [¡Explora el mapa!](https://umap.openstreetmap.fr/es/map/huella-de-carbono-4-b-tt-cpem-n57_1081859)
 
-![Foto Huella 01.jpg](https://cdn.hotosm.org/website/Foto\+Huella\+01.jpg)
+![MapEdu4.jpg](/uploads/MapEdu4.jpg)
 
 *Lee más en esta [historia de impacto](https://www.hotosm.org/updates/huellas-de-carbono-accion-y-conciencia-ante-las-emisiones-de-co2-con-mapeo-abierto/).*
 
