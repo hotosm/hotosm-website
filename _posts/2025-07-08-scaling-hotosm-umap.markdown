@@ -3,6 +3,14 @@ title: 'Scaling HOT''s uMap: Exciting Updates for Humanitarian Geospatial Data V
   and Use'
 date: 2025-07-08 15:28:00 Z
 published: false
+Summary Text: 'In this post, Emilio Mariscal, HOT''s Software Engineering Manager,
+  explores why and how we are expanding <a href="umap.hotosm.org">HOT''s uMap</a>
+  to improve geospatial data visualization and use for humanitarian and community
+  development purposes.
+
+'
+Feature Image: "/uploads/uMap%20blog%20images.png"
+Person: Emilio Mariscal
 ---
 
 As any mapper knows, the way you choose to visualize and use your geospatial data is the key to a successful mapping project. Having an accessible, flexible, and dependable tool has the potential to facilitate this process. This is why we are moving forward with [our own instance of uMap](umap.hotosm.org). 
@@ -15,7 +23,7 @@ Having our own uMap instance (to which we will temporarily refer to as "HOT's uM
 
 ### Templates: Simplifying Data Visualization
 
-One of the latest additions to uMap is initial templates, which provide a starting point for common use cases. We're developing a set of initial templates **specifically designed for humanitarian and disaster relief situations**. This feature will help users create maps with minimal setup, focusing on visualizing their data effectively, lowering the barrier for map visualization and use.
+One of the latest additions to uMap are initial templates, which provide a starting point for common use cases. We're developing a set of initial templates **specifically designed for humanitarian and disaster relief situations**. This feature will help users create maps with minimal setup, focusing on visualizing their data effectively, lowering the barrier for map visualization and use.
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/en/map/damage-mapping-for-flooding_353?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/en/map/damage-mapping-for-flooding_353?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">See full screen</a></p>
 
@@ -44,6 +52,8 @@ See practical examples of uMap in action,
 * [Sudan Data Gaps](https://umap.hotosm.org/en/map/sudan-data-gaps-map_84#6/16.046/30.333)
 * [Luján Floods](https://umap.hotosm.org/en/map/lujan-inundaciones-mayo-2025_247)
 * [Improving access to healthcare services for women and girls in the Matam region of Senegal](https://umap.hotosm.org/en/map/improving-access-to-healthcare-services-for-women-_174)
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/en/map/sudan-data-gaps-map_84?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/en/map/sudan-data-gaps-map_84?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
 
 ## Completing the Workflow: HOT’s uMap as part of out End-To-End Open Mapping Solution
 
