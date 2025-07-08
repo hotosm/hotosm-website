@@ -48,9 +48,9 @@ See practical examples of uMap in action,
 * [Myanmar earthquake](https://umap.hotosm.org/en/map/myanmar-earthquake-2025-tasking-manager-projects_161#8/21.282/97.130) 
 * [Collaborative Mapping Workshop for Teachers in Mexico](https://www.hotosm.org/updates/cultivating-open-knowledge-collaborative-mapping-workshop-for-tec-de-monterrey-teachers-and-librarians/)
 * [Mapping Dhaka’s Informal Settlements for Climate Resilience and Urban Development](https://www.hotosm.org/updates/mapping-dhakas-informal-settlements-for-climate-resilience-and-urban-development/)
-* [Sudan Data Gaps](https://umap.hotosm.org/en/map/sudan-data-gaps-map_84#6/16.046/30.333)
 * [Luján Floods](https://umap.hotosm.org/en/map/lujan-inundaciones-mayo-2025_247)
 * [Improving access to healthcare services for women and girls in the Matam region of Senegal](https://umap.hotosm.org/en/map/improving-access-to-healthcare-services-for-women-_174)
+* [Sudan Data Gaps](https://umap.hotosm.org/en/map/sudan-data-gaps-map_84#6/16.046/30.333). See below:
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/en/map/sudan-data-gaps-map_84?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/en/map/sudan-data-gaps-map_84?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
 
