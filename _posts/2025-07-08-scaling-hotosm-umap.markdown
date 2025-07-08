@@ -2,7 +2,6 @@
 title: 'Scaling HOT''s uMap: Exciting Updates for Humanitarian Geospatial Data Visualization
   and Use'
 date: 2025-07-08 15:28:00 Z
-published: false
 Summary Text: 'In this post, Emilio Mariscal, HOT''s Software Engineering Manager,
   explores why and how we are expanding <a href="umap.hotosm.org">HOT''s uMap</a>
   to improve geospatial data visualization and use for humanitarian and community
@@ -55,11 +54,11 @@ See practical examples of uMap in action,
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/en/map/sudan-data-gaps-map_84?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/en/map/sudan-data-gaps-map_84?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
 
-## Completing the Workflow: HOT’s uMap as part of out End-To-End Open Mapping Solution
+## Completing the Workflow: HOT’s uMap as Part of our End-To-End Open Mapping Solution
 
 HOT’s instance of uMap is a key part of the HOT’s Tech team end-to-end mapping workflow, which includes solutions for generating and using geospatial data, from creating aerial imagery to digitization, enrichment with local knowledge, and easy access. Make sure to [check out the full range of our tools](https://www.hotosm.org/tech-suite) and see how HOT's uMap fits into the full workflow.
 
 ----
-**Are you a developer and/or do you want to contribute?** Check out the project’s [GitHub repository](https://github.com/hotosm/umap) or [write to us.](mailto:tech@hotosm.org)
+**Are you a developer and/or do you want to contribute?** Check out the project’s [GitHub repository](https://github.com/hotosm/umap) or [write to us.](mailto:tech-data@hotosm.org)
 
 
