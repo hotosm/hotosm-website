@@ -3,7 +3,7 @@ title: 'Scaling HOT''s uMap: Exciting Updates for Humanitarian Geospatial Data V
   and Use'
 date: 2025-07-08 15:28:00 Z
 Summary Text: 'In this post, Emilio Mariscal, HOT''s Software Engineering Manager,
-  explores why and how we are expanding <a href="umap.hotosm.org">HOT''s uMap</a>
+  explores why and how we are expanding <a href="https://umap.hotosm.org">HOT''s uMap</a>
   to improve geospatial data visualization and use for humanitarian and community
   development purposes.
 
@@ -12,7 +12,7 @@ Feature Image: "/uploads/uMap%20blog%20images.png"
 Person: Emilio Mariscal
 ---
 
-As any mapper knows, the way you choose to visualize and use your geospatial data is the key to a successful mapping project. Having an accessible, flexible, and dependable tool has the potential to facilitate this process. This is why we are moving forward with [our own instance of uMap](umap.hotosm.org). 
+As any mapper knows, the way you choose to visualize and use your geospatial data is the key to a successful mapping project. Having an accessible, flexible, and dependable tool has the potential to facilitate this process. This is why we are moving forward with [our own instance of uMap](https://umap.hotosm.org). 
 
 ## uMap: A Perfect Fit for Map Data Visualization & Use
 
