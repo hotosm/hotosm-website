@@ -11,7 +11,7 @@ Impact Area:
 - Sustainable Cities & Communities
 - Disasters & Climate Resilience
 Person:
-- 
+- Louise Mathurin Serieux
 - 
 Partner:
 - Caribbean School of Open Data
