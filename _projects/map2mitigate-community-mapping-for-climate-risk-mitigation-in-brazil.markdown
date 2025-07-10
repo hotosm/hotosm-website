@@ -1,6 +1,6 @@
 ---
 title: 'Map2Mitigate: Community Mapping for Climate Risk Mitigation in Brazil'
-date: 2025-07-10 00:42:00 Z
+date: 2025-04-01 00:42:00 Z
 Project Summary Text: The Map2Mitigate project aims to generate basic open mapping
   data and strengthen community capacities to monitor and address risks associated
   with the El Niño phenomenon in vulnerable areas of the Metropolitan Region of Salvador
