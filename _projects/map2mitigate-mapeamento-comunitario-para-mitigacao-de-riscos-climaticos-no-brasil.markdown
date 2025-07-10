@@ -1,7 +1,7 @@
 ---
 title: 'Map2Mitigate: Mapeamento comunitário para mitigação de riscos climáticos no
   Brasil'
-date: 2025-07-10 00:33:00 Z
+date: 2025-05-05 00:33:00 Z
 Project Summary Text: O projeto Map2Mitigate visa gerar dados básicos de cartografia
   aberta e fortalecer capacidades comunitárias para monitorar e enfrentar riscos associados
   ao fenômeno El Niño em áreas vulneráveis da Região Metropolitana de Salvador (Bahia,
@@ -23,7 +23,8 @@ Partner:
 - Defensa Civil
 Tools:
 - tool: Drone Tasking Manager
-- tool: HOT Tasking Manager
+- link: 
+  tool: HOT Tasking Manager
 - tool: fAIr
 ---
 
