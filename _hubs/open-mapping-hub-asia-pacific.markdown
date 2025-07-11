@@ -16,15 +16,57 @@ Established in early 2021, the Open Mapping Hub - Asia Pacific (AP Hub) is dedic
 
 Our goal is to drive the evolution and growth of locally-driven, sustainable open mapping ecosystems. By leveraging open mapping technology and innovation, we work to empower communities and deliver meaningful impact across the humanitarian and development sectors.
 
-# Our projects:
+---
 
-* [Myanmar Earthquake Response 2025](https://www.hotosm.org/projects/myanmar-earthquake-response-2025/)
+# Current projects:
 
 * [Mapping for Climate Ready Cities - Dhaka](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
 
+*Partner: World Vision Bangladesh*
+
+Launched in 2024, Dhaka Thrive is a transformative initiative focused on addressing the challenges of informal settlements in Dhaka, Bangladesh. We worked closely with local stakeholders to create comprehensive, up-to-date open map data and vulnerability analysis of these settlements.
+
+Building on this success, we are currently actively working to expand mapping efforts into other areas, enhance our dashboard, and further empower communities by increasing their direct involvement in data collection and use—ultimately improving urban planning and disaster response.
+
+* [Myanmar Earthquake Response 2025](https://www.hotosm.org/projects/myanmar-earthquake-response-2025/)
+
+*Partner: Myanmar’s OpenStreetMap Community (myOSM), funded by H2H Network*
+
+In March 2025, a destructive earthquake hit central Myanmar. In response, HOT partners with myOSM to launch a mapping initiative to fill data gaps in OpenStreetMap. The improved data will be essential in supporting recovery and rebuilding efforts.
+
+* Map4Mangrove
+
+*Partner: Indonesia Biodiversity Foundation (Yayasan KEHATI), Yayasan Lestari Alam Kita (SALAKA)*
+
+Mangroves play a crucial role in coastal protection, biodiversity conservation, and carbon sequestration. Despite ongoing restoration efforts, there is still limited availability of integrated, open geospatial data to support monitoring, reporting, and decision-making.
+
+Through the Map4Mangrove project, AP Hub aims to collaborate with KEHATI to bridge gaps in mangrove monitoring by integrating open mapping technology, tools, and data to support broader biodiversity and conservation efforts.
+
+* Climate Resilience Fellowship
+
+*Partner: World Vision Bangladesh, funded by NetHope*
+
+The Climate Resilience Fellowship empowers young leaders across Bangladesh to design and implement community-led projects–known as “capstone projects”–to address urgent climate issues. By combining climate data and open mapping technologies with local knowledge and people-centered approaches, fellows work directly with communities to reduce climate risks and strengthen climate resilience.
+
+* Open Mapping Guru
+
+The Open Mapping Hub - Asia Pacific (AP Hub), in collaboration with the local OpenStreetMap (OSM) communities, co-created the Open Mapping Guru (OM Guru) project to catalyze a regional network of dedicated and experienced OSM contributors, champions, and mappers. This growing network of experts—also known as “Gurus”—are key players in driving a more localized, regional community building.
+
+---
+
+# Past projects:
+
 * [She Leads and She Inspires](https://www.hotosm.org/projects/she-leads-and-she-inspires/)
 
+* [Crowdsource Mapping for Disaster Management (Timor-Leste)](https://www.hotosm.org/projects/crowd-source-mapping-for-disaster-management-timor-leste/)
+
+* [Mapping For Climate-Ready Cities: Nepal Road Network Validatio](https://www.hotosm.org/projects/nepal-road-network-validation/)
+
+* [Mapping for Sherni River Museum Project](https://www.hotosm.org/projects/mapping-for-sherni-river-museum-project/)
+
 * [Booster Grants](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Booster_Grants)
+
+---
 
 **Follow us on social media for the latest updates and stories!**
 [facebook](https://www.facebook.com/openmapping.ap) | [instagram](https://www.instagram.com/openmapping_ap) | [linkedin](https://www.linkedin.com/showcase/openmapping-ap) | [x (twitter)](https://x.com/openmapping_ap) | [youtube](https://www.youtube.com/@openmapping_ap)
