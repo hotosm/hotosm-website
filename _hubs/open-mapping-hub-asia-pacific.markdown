@@ -20,7 +20,7 @@ Our goal is to drive the evolution and growth of locally-driven, sustainable ope
 
 # Current projects:
 
-
+<br>
 * [**[Mapping for Climate Ready Cities - Dhaka]**](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
 
 *Partner: World Vision Bangladesh*
@@ -57,7 +57,7 @@ The Open Mapping Hub - Asia Pacific (AP Hub), in collaboration with the local Op
 
 # Past projects:
 
-
+<br>
 * [She Leads and She Inspires](https://www.hotosm.org/projects/she-leads-and-she-inspires/)
 
 * [Crowdsource Mapping for Disaster Management (Timor-Leste)](https://www.hotosm.org/projects/crowd-source-mapping-for-disaster-management-timor-leste/)
@@ -69,7 +69,7 @@ The Open Mapping Hub - Asia Pacific (AP Hub), in collaboration with the local Op
 * [Booster Grants](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Booster_Grants)
 
 ---
-
+<br>
 
 **Follow us on social media for the latest updates and stories!**
 [facebook](https://www.facebook.com/openmapping.ap) | [instagram](https://www.instagram.com/openmapping_ap) | [linkedin](https://www.linkedin.com/showcase/openmapping-ap) | [x (twitter)](https://x.com/openmapping_ap) | [youtube](https://www.youtube.com/@openmapping_ap)
