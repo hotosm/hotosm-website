@@ -26,12 +26,6 @@ HOT Tasking Manager Campaign [Statistics](https://stats.now.ohsome.org/dashboard
 
 <br>
 
-
-OpenStreetMap Buildings in southern Lebanon
-
-
-MAP OF OSM BUILDINGS 
-
 **Is OSM now complete in the 4 southern districts in Lebanon?** 
 
 Yes. Besides the entire area being double checked by expert OSM validators (see [validation example from Turkey earthquake](https://www.hotosm.org/updates/hot-approach-to-osm-data-validation-to-eq-mapping-projects/) for more on validation), AI estimates also give confidence the OSM dataset is near complete. Using AI calculations by Kontur derived from population and density, **OSM coverage in the 4 districts can be considered nearly complete**. See the graph below where blue are OSM counts, and yellow are AI estimated counts. 
