@@ -37,8 +37,6 @@ In March 2025, a destructive earthquake hit central Myanmar. In response, HOT pa
 
 *Partner: Indonesian Biodiversity Foundation (Yayasan KEHATI), Yayasan Lestari Alam Kita (SALAKA)*
 
-Mangroves play a crucial role in coastal protection, biodiversity conservation, and carbon sequestration. Despite ongoing restoration efforts, there is still limited availability of integrated, open geospatial data to support monitoring, reporting, and decision-making.
-
 Through the Map4Mangrove project, AP Hub aims to collaborate with KEHATI to bridge gaps in mangrove monitoring by integrating open mapping technology, tools, and data to support broader biodiversity and conservation efforts.
 
 * **Climate Resilience Fellowship** - page coming soon
