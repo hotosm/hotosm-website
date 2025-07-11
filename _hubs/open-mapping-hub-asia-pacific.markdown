@@ -43,7 +43,7 @@ Through the Map4Mangrove project, AP Hub aims to collaborate with KEHATI to brid
 
 *Partner: World Vision Bangladesh, funded by NetHope*
 
-The Climate Resilience Fellowship empowers young leaders across Bangladesh to design and implement community-led projects–known as “capstone projects”–to address urgent climate issues. By combining climate data and open mapping technologies with local knowledge and people-centered approaches, fellows work directly with communities to reduce climate risks and strengthen climate resilience.
+The Climate Resilience Fellowship empowers young leaders across Bangladesh to design and implement community-led projects–known as “capstone projects”–to address urgent climate issues.
 
 * **Open Mapping Guru** (page coming soon)
 
