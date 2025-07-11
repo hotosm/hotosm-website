@@ -21,7 +21,7 @@ Our goal is to drive the evolution and growth of locally-driven, sustainable ope
 # Current projects:
 
 <br>
-* [**[Mapping for Climate Ready Cities - Dhaka]**](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
+* [**Mapping for Climate Ready Cities - Dhaka**](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
 
 *Partner: World Vision Bangladesh*
 
@@ -29,7 +29,7 @@ Launched in 2024, Dhaka Thrive is a transformative initiative focused on address
 
 Building on this success, we are currently actively working to expand mapping efforts into other areas, enhance our [dashboard](http://bit.ly/dhakathrivedashboard), and further empower communities by increasing their direct involvement in data collection and use—ultimately improving urban development and climate resilience.
 
-* [**[Myanmar Earthquake Response 2025]**](https://www.hotosm.org/projects/myanmar-earthquake-response-2025/)
+* [**Myanmar Earthquake Response 2025**](https://www.hotosm.org/projects/myanmar-earthquake-response-2025/)
 
 *Partner: Myanmar’s OpenStreetMap Community (myOSM), funded by H2H Network*
 
