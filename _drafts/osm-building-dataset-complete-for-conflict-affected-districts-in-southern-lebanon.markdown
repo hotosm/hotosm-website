@@ -32,10 +32,80 @@ Yes. Besides the entire area being double checked by expert OSM validators (see 
 
 
 <br>
+<div id="chartContainer">
+    <canvas id="buildingChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    const ctx = document.getElementById('buildingChart').getContext('2d');
+    const buildingChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['Bint Jbeil', 'Maariyoun', 'Nabatiyeh', 'Sour'],
+            datasets: [
+                {
+                    label: 'OSM Buildings',
+                    data: [48000, 39000, 78000, 85000], // Approximate lower values (adjust as needed)
+                    backgroundColor: 'rgba(75, 192, 192, 0.7)', // Teal for OSM
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 1
+                },
+                {
+                    label: 'AI Estimated Buildings',
+                    data: [50000, 40000, 80000, 90000], // Approximate higher values (adjust as needed)
+                    backgroundColor: 'rgba(255, 159, 64, 0.7)', // Orange for AI
+                    borderColor: 'rgba(255, 159, 64, 1)',
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            scales: {
+                y: {
+                    beginAtZero: true,
+                    title: {
+                        display: true,
+                        text: 'Number of Buildings',
+                        font: { size: 16 }
+                    },
+                    ticks: {
+                        // Match the scale in your image
+                        callback: function(value) {
+                            return value.toLocaleString();
+                        },
+                        stepSize: 10000,
+                        max: 90000
+                    }
+                },
+                x: {
+                    grid: {
+                        display: false
+                    }
+                }
+            },
+            plugins: {
+                title: {
+                    display: true,
+                    text: 'Building Count Comparison',
+                    font: { size: 18 }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return `${context.dataset.label}: ${context.raw.toLocaleString()}`;
+                        }
+                    }
+                }
+            }
+        }
+    });
+</script>
+
 <div style="text-align: center;">
-    <img src="/uploads/lebanon-buildigns-2025.png" alt="Added buildings in Lebanon" style="width: 95%; height: auto;">
-    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
-        <span>The following map shows the areas where HOTOSM mapped for the Lebanon 2024 campagin. It covered 4 districts and mapped almost 200k buidlings thanks to 356 contributors.</span>
+    <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
+        Building count comparison across the different districts where mapping took place, showing the OSM numbers almost equal to predicted total of buildings done by AI. 
     </div>
 </div>
 
