@@ -12,14 +12,14 @@ Conflict in southern Lebanon escalated sharply from October - November 2024, fol
 To fill the buildings data gap in southern Lebanon, HOT coordinated 357 volunteer OSM contributors, who made over 319,00 edits to OSM from November 2024-March 2025. Some of those mappers came from a new and growing OSM community in Lebanon, see [Mapping Hope: Rebuilding Lebanon After Conflict](https://hsph.harvard.edu/atrocity-prevention-lab/news/mapping-hope-rebuilding-lebanon-after-conflict/). 
 
 HOT Tasking Manager Campaign [Statistics](https://stats.now.ohsome.org/dashboard#hashtag=LebanonUpdate2024&start=2024-10-01T06:00:00Z&end=2025-07-04T06:00:00Z&interval=P1M&active_topic=edit&countries=&topics=building,contributor,road,edit), #LebanonUpdate2024
-**OSM edit activity below in red**  
+**OSM building activity below in fuchsia**  
 
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/lebanon-buildigns-2025.png" alt="Added buildings in Lebanon" style="width: 95%; height: auto;">
+    <img src="/uploads/ohsome-dashboard-lebanonupdate2024.png" alt="Added buildings in Lebanon according to OHSOME dashboard" style="width: 95%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
-        <span>The following map shows the areas where HOTOSM mapped for the Lebanon 2024 campagin. It covered 4 districts and mapped almost 200k buidlings thanks to 356 contributors.</span>
+        <span>Number of buildings as shown with the [OHSOME dashboard](https://stats.now.ohsome.org/dashboard#hashtag=lebanonupdate2024&start=2024-10-31T20:00:00Z&end=2025-03-31T21:00:00Z&interval=P1W&active_topic=building&countries=&topics=building,contributor,road,edit) for the Lebanon HOTOSM campaign.</span>
     </div>
 </div>
 
