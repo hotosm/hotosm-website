@@ -27,7 +27,7 @@ Our goal is to drive the evolution and growth of locally-driven, sustainable ope
 
 Launched in 2024, Dhaka Thrive is a transformative initiative focused on addressing the challenges of informal settlements in Dhaka, Bangladesh. We worked closely with local stakeholders to create comprehensive, up-to-date open map data and vulnerability analysis of these settlements.
 
-Building on this success, we are currently actively working to expand mapping efforts into other areas, enhance our dashboard, and further empower communities by increasing their direct involvement in data collection and use—ultimately improving urban planning and disaster response.
+Building on this success, we are currently actively working to expand mapping efforts into other areas, enhance our [dashboard](http://bit.ly/dhakathrivedashboard), and further empower communities by increasing their direct involvement in data collection and use—ultimately improving urban development and climate resilience.
 
 * **[Myanmar Earthquake Response 2025]**(https://www.hotosm.org/projects/myanmar-earthquake-response-2025/)
 
