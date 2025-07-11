@@ -21,7 +21,7 @@ Our goal is to drive the evolution and growth of locally-driven, sustainable ope
 # Current projects:
 
 
-* [Mapping for Climate Ready Cities - Dhaka](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
+* **[Mapping for Climate Ready Cities - Dhaka]**(https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
 
 *Partner: World Vision Bangladesh*
 
@@ -29,13 +29,13 @@ Launched in 2024, Dhaka Thrive is a transformative initiative focused on address
 
 Building on this success, we are currently actively working to expand mapping efforts into other areas, enhance our dashboard, and further empower communities by increasing their direct involvement in data collection and use—ultimately improving urban planning and disaster response.
 
-* [Myanmar Earthquake Response 2025](https://www.hotosm.org/projects/myanmar-earthquake-response-2025/)
+* **[Myanmar Earthquake Response 2025]**(https://www.hotosm.org/projects/myanmar-earthquake-response-2025/)
 
 *Partner: Myanmar’s OpenStreetMap Community (myOSM), funded by H2H Network*
 
 In March 2025, a destructive earthquake hit central Myanmar. In response, HOT partners with myOSM to launch a mapping initiative to fill data gaps in OpenStreetMap. The improved data will be essential in supporting recovery and rebuilding efforts.
 
-* Map4Mangrove – page coming soon
+* **Map4Mangrove** – page coming soon
 
 *Partner: Indonesia Biodiversity Foundation (Yayasan KEHATI), Yayasan Lestari Alam Kita (SALAKA)*
 
@@ -43,13 +43,13 @@ Mangroves play a crucial role in coastal protection, biodiversity conservation, 
 
 Through the Map4Mangrove project, AP Hub aims to collaborate with KEHATI to bridge gaps in mangrove monitoring by integrating open mapping technology, tools, and data to support broader biodiversity and conservation efforts.
 
-* Climate Resilience Fellowship - page coming soon
+* **Climate Resilience Fellowship** - page coming soon
 
 *Partner: World Vision Bangladesh, funded by NetHope*
 
 The Climate Resilience Fellowship empowers young leaders across Bangladesh to design and implement community-led projects–known as “capstone projects”–to address urgent climate issues. By combining climate data and open mapping technologies with local knowledge and people-centered approaches, fellows work directly with communities to reduce climate risks and strengthen climate resilience.
 
-* Open Mapping Guru - page coming soon
+* **Open Mapping Guru** - page coming soon
 
 The Open Mapping Hub - Asia Pacific (AP Hub), in collaboration with the local OpenStreetMap (OSM) communities, co-created the Open Mapping Guru (OM Guru) project to catalyze a regional network of dedicated and experienced OSM contributors, champions, and mappers. This growing network of experts—also known as “Gurus”—are key players in driving a more localized, regional community building.
 
