@@ -19,7 +19,7 @@ Our goal is to drive the evolution and growth of locally-driven, sustainable ope
 ---
 
 # Current projects:
-<div>
+<br>
 * [**Mapping for Climate Ready Cities - Dhaka - Bangladesh**](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
 
 *Partner: World Vision Bangladesh*
