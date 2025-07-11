@@ -58,7 +58,7 @@ AP Hub, in collaboration with the local OpenStreetMap (OSM) communities, co-crea
 
 * [Crowdsource Mapping for Disaster Management - Timor-Leste](https://www.hotosm.org/projects/crowd-source-mapping-for-disaster-management-timor-leste/)
 
-* [Mapping For Climate-Ready Cities: Nepal Road Network Validation](https://www.hotosm.org/projects/nepal-road-network-validation/)
+* [Mapping for Climate-Ready Cities: Nepal Road Network Validation](https://www.hotosm.org/projects/nepal-road-network-validation/)
 
 * [Mapping for Sherni River Museum Project - India](https://www.hotosm.org/projects/mapping-for-sherni-river-museum-project/)
 
