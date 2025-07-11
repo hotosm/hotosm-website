@@ -11,6 +11,8 @@ Country:
 Impact Area:
 - Disasters & Climate Resilience
 - Sustainable Cities & Communities
+Person:
+- Harry Mahardhika Machmud
 Partner:
 - World Vision Timor-Leste
 - Simile Timor-Leste
@@ -70,3 +72,5 @@ We are happy to support any forms of future open mapping and data use initiative
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720305520375" title="Crowd-source mapping for Disaster Management in Timor-Leste"><img src="https://live.staticflickr.com/65535/52649437682_5acdafbcf4_z.jpg" width="640" height="480" alt="Crowd-source mapping for Disaster Management in Timor-Leste"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 **Please do not hesitate to contact us at harry.mahardika@hotosm.org if you would like any support on mapping for Disaster Risk Reduction.**
+
+**Explore the project's continued impact years after its implementation in [HOT's Climate Resilience Case Studies (2025)](https://www.hotosm.org/uploads/ClimateResilienceCaseStudiesOfficial2025.pdf).**
