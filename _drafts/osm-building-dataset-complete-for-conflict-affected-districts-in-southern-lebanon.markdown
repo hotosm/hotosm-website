@@ -119,12 +119,112 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 
 
 <br>
-<div style="text-align: center;">
-    <img src="/uploads/lebanon-buildigns-2025.png" alt="Added buildings in Lebanon" style="width: 95%; height: auto;">
-    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
-        <span>The following map shows the areas where HOTOSM mapped for the Lebanon 2024 campagin. It covered 4 districts and mapped almost 200k buidlings thanks to 356 contributors.</span>
-    </div>
+
+<div class="lebanon-building-table">
+  <h2>Total Building Dataset Comparison - Southern Lebanon</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>District</th>
+        <th>Overture</th>
+        <th>Microsoft Buildings</th>
+        <th>OSM Buildings</th>
+        <th>% OSM > MS</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Bint Jbeil</td>
+        <td>36,730</td>
+        <td>31,176</td>
+        <td class="osm-cell">48,470</td>
+        <td class="percent-cell">+55.5%</td>
+      </tr>
+      <tr>
+        <td>Maarjyoun</td>
+        <td>30,889</td>
+        <td>28,647</td>
+        <td class="osm-cell">39,462</td>
+        <td class="percent-cell">+37.8%</td>
+      </tr>
+      <tr>
+        <td>Nabatiyeh</td>
+        <td>53,739</td>
+        <td>45,365</td>
+        <td class="osm-cell">78,388</td>
+        <td class="percent-cell">+72.8%</td>
+      </tr>
+      <tr>
+        <td>Sour</td>
+        <td>70,393</td>
+        <td>60,515</td>
+        <td class="osm-cell">87,344</td>
+        <td class="percent-cell">+44.3%</td>
+      </tr>
+    </tbody>
+  </table>
+  <div class="table-footer">
+    This table compares building datasets from OpenStreetMap, Microsoft, and Overture in Southern Lebanon.<br>
+    The "% OSM > MS" column shows how much larger the OSM dataset is compared to Microsoft's dataset.
+  </div>
 </div>
+
+<style>
+.lebanon-building-table {
+  font-family: Arial, sans-serif;
+  max-width: 800px;
+  margin: 20px auto;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.lebanon-building-table h2 {
+  color: #333;
+  font-size: 1.3em;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.lebanon-building-table table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.lebanon-building-table th {
+  background-color: #f2f2f2;
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 2px solid #ddd;
+  font-weight: bold;
+}
+
+.lebanon-building-table td {
+  padding: 10px 15px;
+  border-bottom: 1px solid #eee;
+}
+
+.lebanon-building-table tr:hover {
+  background-color: #f9f9f9;
+}
+
+.osm-cell {
+  color: #4bc0c0;
+  font-weight: bold;
+}
+
+.percent-cell {
+  color: #2ecc71;
+  font-weight: bold;
+}
+
+.table-footer {
+  margin-top: 15px;
+  font-size: 0.9em;
+  color: #666;
+  line-height: 1.5;
+}
+</style>
 
 <br>
 
