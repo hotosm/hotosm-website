@@ -19,7 +19,7 @@ HOT Tasking Manager Campaign [Statistics](https://stats.now.ohsome.org/dashboard
 <div style="text-align: center;">
     <img src="/uploads/ohsome-dashboard-lebanonupdate2024.png" alt="Added buildings in Lebanon according to OHSOME dashboard" style="width: 95%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
-        <span>Number of buildings as shown with the [OHSOME dashboard](https://stats.now.ohsome.org/dashboard#hashtag=lebanonupdate2024&start=2024-10-31T20:00:00Z&end=2025-03-31T21:00:00Z&interval=P1W&active_topic=building&countries=&topics=building,contributor,road,edit) for the Lebanon HOTOSM campaign.
+        <span>Number of buildings as shown with the <a href="https://stats.now.ohsome.org/dashboard#hashtag=lebanonupdate2024&start=2024-10-31T20:00:00Z&end=2025-03-31T21:00:00Z&interval=P1W&active_topic=building&countries=&topics=building,contributor,road,edit">OHSOME dashboard</a> for the Lebanon HOTOSM campaign.
 </span>
     </div>
 </div>
