@@ -93,3 +93,15 @@ Resources are needed to engage more OSM communities and students to complete OSM
 
 [Read more about HOT’s Conflict and Displacement Program.](https://www.hotosm.org/programs/conflict-displacement)
 
+<br>
+
+---
+
+<br>
+
+<div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+        <span>
+    Cover Photo: European Union, Copernicus Emergency Management Service Data | Copernicus 2025-03-31<a  href="https://commons.wikimedia.org/wiki/File:Catastrophic_earthquake_in_Myanmar_(Copernicus_2025-03-31).png"> / Wikimedia </a>  
+</span>
+
+    </div>
