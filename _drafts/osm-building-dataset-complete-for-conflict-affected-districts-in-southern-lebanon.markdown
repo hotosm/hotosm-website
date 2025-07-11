@@ -36,8 +36,15 @@ MAP OF OSM BUILDINGS 
 Yes. Besides the entire area being double checked by expert OSM validators (see [validation example from Turkey earthquake](https://www.hotosm.org/updates/hot-approach-to-osm-data-validation-to-eq-mapping-projects/) for more on validation), AI estimates also give confidence the OSM dataset is near complete. Using AI calculations by Kontur derived from population and density, **OSM coverage in the 4 districts can be considered nearly complete**. See the graph below where blue are OSM counts, and yellow are AI estimated counts. 
 
 
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/lebanon-buildigns-2025.png" alt="Added buildings in Lebanon" style="width: 95%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+        <span>The following map shows the areas where HOTOSM mapped for the Lebanon 2024 campagin. It covered 4 districts and mapped almost 200k buidlings thanks to 356 contributors.</span>
+    </div>
+</div>
 
-**IMAGE**
+<br>
 
 
 
@@ -46,15 +53,30 @@ Yes. Besides the entire area being double checked by expert OSM validators (see 
 In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown to outperform automated machine learning datasets in terms of coverage and precision,** such as [in Gaza last year](https://www.hotosm.org/updates/gaza-osm-buildings-update-2024/)**.**  The same holds true in Lebanon, where **OSM also has 65% more buildings in the 4 districts than the other leading open buildings footprints dataset from Microsoft (165,703 vs 253,664).**   Overture, an emerging aggregator of open data, can lags behind OSM updates, as shown by the lower numbers of Overture than OSM as of May 2025 below. 
 
 
-**IMAGE**
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/lebanon-buildigns-2025.png" alt="Added buildings in Lebanon" style="width: 95%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+        <span>The following map shows the areas where HOTOSM mapped for the Lebanon 2024 campagin. It covered 4 districts and mapped almost 200k buidlings thanks to 356 contributors.</span>
+    </div>
+</div>
 
+<br>
 
 Beyond counts, is OSM more accurate than other data sources? 
 
 Humans-in-the-loop validated OSM data also produces more precise building footprint geometries than automated methods. On visual inspection in Lebanon, OSM building geometry is more accurate when compared with Microsoft Machine Learning Buildings Footprints in Lebanon, see examples below.
 
 
-**IMAGE**
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/lebanon-buildigns-2025.png" alt="Added buildings in Lebanon" style="width: 95%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+        <span>The following map shows the areas where HOTOSM mapped for the Lebanon 2024 campagin. It covered 4 districts and mapped almost 200k buidlings thanks to 356 contributors.</span>
+    </div>
+</div>
+
+<br>
 
 **Fast building data immediately vs better data later**
 
