@@ -32,7 +32,7 @@ Building on this success, we are actively working to expand mapping efforts into
 
 *Partner: Myanmar’s OpenStreetMap Community (myOSM), funded by H2H Network*
 
-In March 2025, a destructive earthquake hit central Myanmar. In response, HOT partners with myOSM to launch a mapping initiative to fill data gaps in OpenStreetMap. The improved data will be essential in supporting recovery and rebuilding efforts.
+In March 2025, a destructive earthquake hit central Myanmar. In response, HOT through AP Hub partners with myOSM to launch a mapping initiative to fill data gaps in OpenStreetMap. The improved data will be essential in supporting recovery and rebuilding efforts.
 
 * **Map4Mangrove - Indonesia** (page coming soon)
 
@@ -48,7 +48,7 @@ The Climate Resilience Fellowship empowers young leaders across Bangladesh to de
 
 * **Open Mapping Guru** (page coming soon)
 
-The Open Mapping Hub - Asia Pacific (AP Hub), in collaboration with the local OpenStreetMap (OSM) communities, co-created the Open Mapping Guru (OM Guru) project to catalyze a regional network of dedicated and experienced OSM contributors, champions, and mappers. This growing network of experts—also known as “Gurus”—are key players in driving a more localized, regional community building.
+AP Hub, in collaboration with the local OpenStreetMap (OSM) communities, co-created the Open Mapping Guru (OM Guru) project to catalyze a regional network of dedicated and experienced OSM contributors, champions, and mappers. This growing network of experts—also known as “Gurus”—are key players in driving a more localized, regional community building.
 
 ---
 
