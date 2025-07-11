@@ -36,7 +36,7 @@ In March 2025, a destructive earthquake hit central Myanmar. In response, HOT pa
 
 * **Map4Mangrove** – page coming soon
 
-*Partner: Indonesia Biodiversity Foundation (Yayasan KEHATI), Yayasan Lestari Alam Kita (SALAKA)*
+*Partner: Indonesian Biodiversity Foundation (Yayasan KEHATI), Yayasan Lestari Alam Kita (SALAKA)*
 
 Mangroves play a crucial role in coastal protection, biodiversity conservation, and carbon sequestration. Despite ongoing restoration efforts, there is still limited availability of integrated, open geospatial data to support monitoring, reporting, and decision-making.
 
