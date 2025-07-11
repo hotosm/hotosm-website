@@ -5,8 +5,8 @@ Page Contact:
   Label: Contact us!
   Contact Email: openmappinghub.ap@hotosm.org
 Page Link:
-  Label: Subscribe to the AP Open Mapping Hub newsletter
-  Link: https://mailchi.mp/hotosm.org/stories-of-tech-data-and-local-open-mapping-for-good
+  Label: Follow us on social media!
+  Link: https://linktr.ee/openmapping_ap
 layout: page
 ---
 
@@ -60,7 +60,7 @@ The Open Mapping Hub - Asia Pacific (AP Hub), in collaboration with the local Op
 
 * [Crowdsource Mapping for Disaster Management (Timor-Leste)](https://www.hotosm.org/projects/crowd-source-mapping-for-disaster-management-timor-leste/)
 
-* [Mapping For Climate-Ready Cities: Nepal Road Network Validatio](https://www.hotosm.org/projects/nepal-road-network-validation/)
+* [Mapping For Climate-Ready Cities: Nepal Road Network Validation](https://www.hotosm.org/projects/nepal-road-network-validation/)
 
 * [Mapping for Sherni River Museum Project](https://www.hotosm.org/projects/mapping-for-sherni-river-museum-project/)
 
