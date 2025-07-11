@@ -17,7 +17,7 @@ HOT Tasking Manager Campaign [Statistics](https://stats.now.ohsome.org/dashboard
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/lebanon-buildigns-2025.png" alt="Added buildings in Lebanon" style="width: 75%; height: auto;">
+    <img src="/uploads/lebanon-buildigns-2025.png" alt="Added buildings in Lebanon" style="width: 95%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>The following map shows the areas where HOTOSM mapped for the Lebanon 2024 campagin. It covered 4 districts and mapped almost 200k buidlings thanks to 356 contributors.</span>
     </div>
