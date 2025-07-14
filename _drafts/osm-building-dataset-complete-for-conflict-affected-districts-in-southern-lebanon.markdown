@@ -9,6 +9,16 @@ Summary Text: 'Accurate building footprints are needed to identify the impact of
 
 Conflict in southern Lebanon escalated sharply from October - November 2024, following the 2023 Gaza/Israeli conflict that heightened tensions among Israel, Lebanon, and Palestine ([ACLED: Lebanon ceasefire](https://acleddata.com/2025/01/29/lebanon-ceasefire-despite-extensive-demolitions-israel-says-its-job-isnt-finished/)). In order to understand the impact of the conflict on communities, an accurate building footprint dataset was needed, but Microsoft and OpenStreetMap building footprints were quickly identified as incomplete, see [Filling OSM Buildings Data Gaps for Recovery in Lebanon](https://www.hotosm.org/updates/filling-osm-buildings-data-gaps-in-lebanon/). Identifying potentially impacted buildings in a rural mountainous region proved difficult for humanitarian analysts.
 
+<br>
+<div style="text-align: center;">
+    <img src="/uploads/lebanon-buildigns-2025.png" alt="Added buildings in Lebanon" style="width: 95%; height: auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+        <span>The following map shows the areas where HOTOSM mapped for the Lebanon 2024 campagin. It covered 4 districts and mapped almost 200k buidlings thanks to 356 contributors.</span>
+    </div>
+</div>
+
+<br>
+
 To fill the buildings data gap in southern Lebanon, HOT coordinated 357 volunteer OSM contributors, who made over 319,00 edits to OSM from November 2024-March 2025. Some of those mappers came from a new and growing OSM community in Lebanon, see [Mapping Hope: Rebuilding Lebanon After Conflict](https://hsph.harvard.edu/atrocity-prevention-lab/news/mapping-hope-rebuilding-lebanon-after-conflict/). 
 
 HOT Tasking Manager Campaign [Statistics](https://stats.now.ohsome.org/dashboard#hashtag=LebanonUpdate2024&start=2024-10-01T06:00:00Z&end=2025-07-04T06:00:00Z&interval=P1M&active_topic=edit&countries=&topics=building,contributor,road,edit), #LebanonUpdate2024
@@ -228,7 +238,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 
 <br>
 
-Beyond counts, is OSM more accurate than other data sources? 
+**Beyond counts, is OSM more accurate than other data sources? 
 
 Humans-in-the-loop validated OSM data also produces more precise building footprint geometries than automated methods. On visual inspection in Lebanon, OSM building geometry is more accurate when compared with Microsoft Machine Learning Buildings Footprints in Lebanon, see examples below.
 
