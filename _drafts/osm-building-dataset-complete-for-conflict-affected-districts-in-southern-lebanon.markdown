@@ -36,7 +36,7 @@ HOT Tasking Manager Campaign [Statistics](https://stats.now.ohsome.org/dashboard
 
 <br>
 
-**Is OSM now complete in the 4 southern districts in Lebanon?** 
+## Is OSM now complete in the 4 southern districts in Lebanon?
 
 Yes. Besides the entire area being double checked by expert OSM validators (see [validation example from Turkey earthquake](https://www.hotosm.org/updates/hot-approach-to-osm-data-validation-to-eq-mapping-projects/) for more on validation), AI estimates also give confidence the OSM dataset is near complete. Using AI calculations by Kontur derived from population and density, **OSM coverage in the 4 districts can be considered nearly complete**. See the graph below where blue are OSM counts, and yellow are AI estimated counts. 
 
@@ -123,7 +123,7 @@ Yes. Besides the entire area being double checked by expert OSM validators (see 
 
 
 
-**How does OSM building footprints compare to other popular data sources?** 
+## How does OSM building footprints compare to other popular data sources?
 
 In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown to outperform automated machine learning datasets in terms of coverage and precision,** such as [in Gaza last year](https://www.hotosm.org/updates/gaza-osm-buildings-update-2024/)**.**  The same holds true in Lebanon, where **OSM also has 65% more buildings in the 4 districts than the other leading open buildings footprints dataset from Microsoft (165,703 vs 253,664).**   Overture, an emerging aggregator of open data, can lags behind OSM updates, as shown by the lower numbers of Overture than OSM as of May 2025 below. 
 
@@ -253,15 +253,15 @@ Humans-in-the-loop validated OSM data also produces more precise building footpr
 
 <br>
 
-**Fast building data immediately vs better data later**
+## Fast building data immediately vs better data later
 
 While coverage of building footprints in OSM is improving constantly, there are still gaps globally, see [Analysis of OSM building data completeness using new data](https://heigit.org/analysis-of-osm-building-data-completeness-using-new-data/). When HOT launches a campaign to improve building footprints in a given area after a rapid onset crisis, it usually will not be complete enough for immediate rapid humanitarian needs. Other open automated datasets (such as from Microsoft), are used. **As crowdsourced and validated OSM is shown to outperform these datasets, it is important to update any analysis in southern Lebanon that originally used  Microsoft or other automated footprints.** 
 
-**Buildings use in damage assessments**
+## Buildings use in damage assessments
 
 Supported by the [H2H Network](https://h2hnetwork.org/h2hsupport-package-conflict-lebanon/), HOT has been reviewing damage assessments completed after the increase of conflict in Southern Lebanon at the end of 2024. Damage assessments use building footprints as a reference to where infrastructure is located. There were at least four remote damage assessments from different organizations that came out before January 2025 that used Microsoft Buildings. **As Microsoft had 65% fewer buildings than OSM, it is possible that these early assessments were not representative estimates of damage**. Watch for HOT’s publication expected this quarter of an overview on navigating the different organization’s damage assessments.
 
-**What’s next**
+## What’s next
 
 To make OSM more useful earlier in disaster response cycles, there is promising research on integrating AI into OSM workflows, see [AI-generated buildings in OpenStreetMap: frequency of use and differences from non-AI-generated buildings](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2473637#d1e176). HOT’s [fAIR](https://www.hotosm.org/tech-suite/fair/) tool also can increase the rate of mapping by incorporating machine learning into OSM workflows when there is higher resolution imagery available. **In the meantime, expect OSM to take time, but be more accurate.** 
 
