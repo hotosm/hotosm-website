@@ -56,7 +56,7 @@ Yes. Besides the entire area being double checked by expert OSM validators (see 
             datasets: [
                 {
                     label: 'OSM Buildings',
-                    data: [48000, 39000, 78000, 85000], // Approximate lower values (adjust as needed)
+                    data: [48,470, 39,462, 78,388, 87,344], // Approximate lower values (adjust as needed)
                     backgroundColor: 'rgba(75, 192, 192, 0.7)', // Teal for OSM
                     borderColor: 'rgba(75, 192, 192, 1)',
                     borderWidth: 1
