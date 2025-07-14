@@ -238,7 +238,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 
 <br>
 
-### Beyond counts, is OSM more accurate than other data sources? 
+## Beyond counts, is OSM more accurate than other data sources? 
 
 Humans-in-the-loop validated OSM data also produces more precise building footprint geometries than automated methods. On visual inspection in Lebanon, OSM building geometry is more accurate when compared with Microsoft Machine Learning Buildings Footprints in Lebanon, see examples below.
 
