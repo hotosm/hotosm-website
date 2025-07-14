@@ -247,7 +247,7 @@ Humans-in-the-loop validated OSM data also produces more precise building footpr
 <div style="text-align: center;">
     <img src="/uploads/data_quality_lebanon_2025.png" alt="Added buildings in Lebanon" style="width: 95%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
-        <span>The following map shows the areas where HOTOSM mapped for the Lebanon 2024 campagin. It covered 4 districts and mapped almost 200k buidlings thanks to 356 contributors.</span>
+        <span>The table above shows a comparison side by side of building footprints from two sources, Microsoft and OpenStreeMap. It compares them for position, geometry and completeness</span>
     </div>
 </div>
 
