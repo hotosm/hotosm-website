@@ -247,18 +247,6 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 
 <br>
 
-<br>
-
----
-
-<br>
-
-<div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-    <span>
-        Cover Photo: European Union, Copernicus Emergency Management Service Data | Copernicus 2025-03-31<a href="https://commons.wikimedia.org/wiki/File:Catastrophic_earthquake_in_Myanmar_(Copernicus_2025-03-31).png"> / Wikimedia </a>  
-    </span>
-</div>
-
 <div id="chartContainer" style="width: 65%; height: 500px; margin: 0 auto;">
     <canvas id="bubbleChart"></canvas>
 </div>
@@ -385,3 +373,15 @@ We can also do better as an OpenStreetMap community to map buildings in anticipa
 Resources are needed to engage more OSM communities and students to complete OSM buildings in conflicted affected areas. Please reach out to [data@hotosm.org](mailto:data@hotosm.org) to donate or work with us on data priorities and collection. 
 
 [Read more about HOT’s Conflict and Displacement Program.](https://www.hotosm.org/programs/conflict-displacement)
+
+<br>
+
+---
+
+<br>
+
+<div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+    <span>
+        Cover Photo: Imagery provided by Bing. For more information, visit <a href="https://www.bing.com/maps" target="_blank">Bing Maps</a>.  
+    </span>
+</div>
