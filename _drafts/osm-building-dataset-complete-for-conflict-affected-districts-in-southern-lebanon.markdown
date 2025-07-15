@@ -252,7 +252,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 Humans-in-the-loop validated OSM data also produces more precise building footprint geometries than automated methods. On visual inspection in Lebanon, OSM building geometry is more accurate when compared with Microsoft Machine Learning Buildings Footprints in Lebanon, see examples below.
 
 <br>
-<div style="text-align: center; width: 75%; margin: 0 auto;">
+<div style="text-align: center; width: 55%; margin: 0 auto;">
     <img src="/uploads/data_quality_lebanon_2025.png" alt="Added buildings in Lebanon" style="display: block; margin: 0 auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>The table above shows a comparison side by side of building footprints from two sources, Microsoft and OpenStreeMap. It compares them for position, geometry and completeness</span>
