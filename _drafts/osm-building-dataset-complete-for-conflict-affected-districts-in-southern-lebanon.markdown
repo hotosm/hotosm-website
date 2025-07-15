@@ -295,7 +295,7 @@ Resources are needed to engage more OSM communities and students to complete OSM
     </span>
 </div>
 
-<div id="chartContainer" style="width: 75%; height: 500px; margin: 0 auto;">
+<div id="chartContainer" style="width: 65%; height: 500px; margin: 0 auto;">
     <canvas id="bubbleChart"></canvas>
 </div>
 
