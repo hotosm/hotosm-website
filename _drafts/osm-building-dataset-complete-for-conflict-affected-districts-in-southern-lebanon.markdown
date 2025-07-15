@@ -5,6 +5,14 @@ Summary Text: 'Accurate building footprints are needed to identify the impact of
   on affected communities. After a dedicated volunteer effort, OSM building footprints
   are now the leading data source in the southern Lebanon districts of Sour, Bint
   Jbeil, Marjayoun, and El Nabatieh. '
+Feature Image: "/uploads/lebanon-overview-buildings-sat-3.jpg"
+Person:
+- Jessica Pechmann
+- Claudio de los Reyes Teran
+Country:
+- Lebanon
+Project:
+- Collaborative Approaches to Mapping Damage in Lebanon
 ---
 
 Conflict in southern Lebanon escalated sharply from October - November 2024, following the 2023 Gaza/Israeli conflict that heightened tensions among Israel, Lebanon, and Palestine ([ACLED: Lebanon ceasefire](https://acleddata.com/2025/01/29/lebanon-ceasefire-despite-extensive-demolitions-israel-says-its-job-isnt-finished/)). In order to understand the impact of the conflict on communities, an accurate building footprint dataset was needed, but Microsoft and OpenStreetMap building footprints were quickly identified as incomplete, see [Filling OSM Buildings Data Gaps for Recovery in Lebanon](https://www.hotosm.org/updates/filling-osm-buildings-data-gaps-in-lebanon/). Identifying potentially impacted buildings in a rural mountainous region proved difficult for humanitarian analysts.
@@ -27,7 +35,7 @@ HOT Tasking Manager Campaign [Statistics](https://stats.now.ohsome.org/dashboard
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/ohsome-dashboard-lebanonupdate2024.png" alt="Added buildings in Lebanon according to OHSOME dashboard" style="width: 95%; height: auto;">
+    <img src="/uploads/ohsome-dashboard-lebanonupdate2024.png" alt="Added buildings in Lebanon according to OHSOME dashboard" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>Number of buildings as shown with the <a href="https://stats.now.ohsome.org/dashboard#hashtag=lebanonupdate2024&start=2024-10-31T20:00:00Z&end=2025-03-31T21:00:00Z&interval=P1W&active_topic=building&countries=&topics=building,contributor,road,edit">OHSOME dashboard</a> for the Lebanon HOTOSM campaign.
 </span>
@@ -272,16 +280,3 @@ We can also do better as an OpenStreetMap community to map buildings in anticipa
 Resources are needed to engage more OSM communities and students to complete OSM buildings in conflicted affected areas. Please reach out to [data@hotosm.org](mailto:data@hotosm.org) to donate or work with us on data priorities and collection. 
 
 [Read more about HOT’s Conflict and Displacement Program.](https://www.hotosm.org/programs/conflict-displacement)
-
-<br>
-
----
-
-<br>
-
-<div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-        <span>
-    Cover Photo: European Union, Copernicus Emergency Management Service Data | Copernicus 2025-03-31<a  href="https://commons.wikimedia.org/wiki/File:Catastrophic_earthquake_in_Myanmar_(Copernicus_2025-03-31).png"> / Wikimedia </a>  
-</span>
-
-    </div>
