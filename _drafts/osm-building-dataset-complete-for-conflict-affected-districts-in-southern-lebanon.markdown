@@ -272,7 +272,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                     {
                         label: 'Microsoft',
                         data: [{
-                            x: 45.56,
+                            x: 1,
                             y: 165950,
                             r: 4.556 // Set radius for Microsoft
                         }],
@@ -282,7 +282,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                     {
                         label: 'OSM',
                         data: [{
-                            x: 53.90,
+                            x: 10,
                             y: 234444,
                             r: 5.390 // Set radius for OSM
                         }],
@@ -292,7 +292,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                     {
                         label: 'Overture',
                         data: [{
-                            x: 48.64,  // Total Area of Buildings (km²)
+                            x: 3.7,  // Total Area of Buildings (km²)
                             y: 191751, // Total Features Counted
                             r: 4.864      // Set radius for Total
                         }],
