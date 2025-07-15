@@ -325,7 +325,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                     y: {
                         title: {
                             display: true,
-                            text: 'Overture'
+                            text: 'Total Building Count'
                         },
                         min: 150000,
                         max: 250000,
