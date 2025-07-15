@@ -35,15 +35,15 @@ HOT Tasking Manager Campaign [Statistics](https://stats.now.ohsome.org/dashboard
 
 
 <br>
-<div style="text-align: center; width: 75%; height: auto;">
+<div style="text-align: center; width: 75%; margin: 0 auto;">
     <img src="/uploads/ohsome-dashboard-lebanonupdate2024.png" alt="Added buildings in Lebanon according to OHSOME dashboard" style="display: block; margin: 0 auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
-        <span>Number of buildings as shown with the <a href="https://stats.now.ohsome.org/dashboard#hashtag=lebanonupdate2024&start=2024-10-31T20:00:00Z&end=2025-03-31T21:00:00Z&interval=P1W&active_topic=building&countries=&topics=building,contributor,road,edit">OHSOME dashboard</a> for the Lebanon HOTOSM campaign.
-</span>
+        <span>Number of buildings as shown with the <a href="https://stats.now.ohsome.org/dashboard#hashtag=lebanonupdate2024&start=2024-10-31T20:00:00Z&end=2025-03-31T21:00:00Z&interval=P1W&active_topic=building&countries=&topics=building,contributor,road,edit">OHSOME dashboard</a> for the Lebanon HOTOSM campaign.</span>
     </div>
 </div>
 
 <br>
+
 
 ## Is OSM now complete in the 4 southern districts in Lebanon?
 
