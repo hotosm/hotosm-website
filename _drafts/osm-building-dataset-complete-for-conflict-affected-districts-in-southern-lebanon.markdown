@@ -247,42 +247,6 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 
 <br>
 
-## Beyond counts, is OSM more accurate than other data sources? 
-
-Humans-in-the-loop validated OSM data also produces more precise building footprint geometries than automated methods. On visual inspection in Lebanon, OSM building geometry is more accurate when compared with Microsoft Machine Learning Buildings Footprints in Lebanon, see examples below.
-
-<br>
-<div style="text-align: center; width: 55%; margin: 0 auto;">
-    <img src="/uploads/data_quality_lebanon_2025.png" alt="Added buildings in Lebanon" style="display: block; margin: 0 auto;">
-    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
-        <span>The table above shows a comparison side by side of building footprints from two sources, Microsoft and OpenStreeMap. It compares them for position, geometry and completeness</span>
-    </div>
-</div>
-
-<br>
-
-## Fast building data immediately vs better data later
-
-While coverage of building footprints in OSM is improving constantly, there are still gaps globally, see [Analysis of OSM building data completeness using new data](https://heigit.org/analysis-of-osm-building-data-completeness-using-new-data/). When HOT launches a campaign to improve building footprints in a given area after a rapid onset crisis, it usually will not be complete enough for immediate rapid humanitarian needs. Other open automated datasets (such as from Microsoft), are used. **As crowdsourced and validated OSM is shown to outperform these datasets, it is important to update any analysis in southern Lebanon that originally used  Microsoft or other automated footprints.** 
-
-## Buildings use in damage assessments
-
-Supported by the [H2H Network](https://h2hnetwork.org/h2hsupport-package-conflict-lebanon/), HOT has been reviewing damage assessments completed after the increase of conflict in Southern Lebanon at the end of 2024. Damage assessments use building footprints as a reference to where infrastructure is located. There were at least four remote damage assessments from different organizations that came out before January 2025 that used Microsoft Buildings. **As Microsoft had 65% fewer buildings than OSM, it is possible that these early assessments were not representative estimates of damage**. Watch for HOT’s publication expected this quarter of an overview on navigating the different organization’s damage assessments.
-
-## What’s next
-
-To make OSM more useful earlier in disaster response cycles, there is promising research on integrating AI into OSM workflows, see [AI-generated buildings in OpenStreetMap: frequency of use and differences from non-AI-generated buildings](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2473637#d1e176). HOT’s [fAIR](https://www.hotosm.org/tech-suite/fair/) tool also can increase the rate of mapping by incorporating machine learning into OSM workflows when there is higher resolution imagery available. **In the meantime, expect OSM to take time, but be more accurate.** 
-
-We can also do better as an OpenStreetMap community to map buildings in anticipation of need. In conflict, that can mean proactively mapping before detailed remote sensing analysis is conducted or in partnership with conflict analysts. In Khartoum, Sudan, we are doing just that: [OpenStreetMap Contributors Needed to Map Khartoum Ahead of New Radar Satellite Imagery](https://www.hotosm.org/updates/openstreetmap-contributors-needed-to-map-khartoum-ahead-of-new-radar-satellite-imagery-2025/).
-
-**Partner with us!** 
-
-Resources are needed to engage more OSM communities and students to complete OSM buildings in conflicted affected areas. Please reach out to [data@hotosm.org](mailto:data@hotosm.org) to donate or work with us on data priorities and collection. 
-
-[Read more about HOT’s Conflict and Displacement Program.](https://www.hotosm.org/programs/conflict-displacement)
-
-
-
 <br>
 
 ---
@@ -384,3 +348,40 @@ Resources are needed to engage more OSM communities and students to complete OSM
         });
     });
 </script>
+
+<br>
+<br>
+
+## Beyond counts, is OSM more accurate than other data sources? 
+
+Humans-in-the-loop validated OSM data also produces more precise building footprint geometries than automated methods. On visual inspection in Lebanon, OSM building geometry is more accurate when compared with Microsoft Machine Learning Buildings Footprints in Lebanon, see examples below.
+
+<br>
+<div style="text-align: center; width: 55%; margin: 0 auto;">
+    <img src="/uploads/data_quality_lebanon_2025.png" alt="Added buildings in Lebanon" style="display: block; margin: 0 auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+        <span>The table above shows a comparison side by side of building footprints from two sources, Microsoft and OpenStreeMap. It compares them for position, geometry and completeness</span>
+    </div>
+</div>
+
+<br>
+
+## Fast building data immediately vs better data later
+
+While coverage of building footprints in OSM is improving constantly, there are still gaps globally, see [Analysis of OSM building data completeness using new data](https://heigit.org/analysis-of-osm-building-data-completeness-using-new-data/). When HOT launches a campaign to improve building footprints in a given area after a rapid onset crisis, it usually will not be complete enough for immediate rapid humanitarian needs. Other open automated datasets (such as from Microsoft), are used. **As crowdsourced and validated OSM is shown to outperform these datasets, it is important to update any analysis in southern Lebanon that originally used  Microsoft or other automated footprints.** 
+
+## Buildings use in damage assessments
+
+Supported by the [H2H Network](https://h2hnetwork.org/h2hsupport-package-conflict-lebanon/), HOT has been reviewing damage assessments completed after the increase of conflict in Southern Lebanon at the end of 2024. Damage assessments use building footprints as a reference to where infrastructure is located. There were at least four remote damage assessments from different organizations that came out before January 2025 that used Microsoft Buildings. **As Microsoft had 65% fewer buildings than OSM, it is possible that these early assessments were not representative estimates of damage**. Watch for HOT’s publication expected this quarter of an overview on navigating the different organization’s damage assessments.
+
+## What’s next
+
+To make OSM more useful earlier in disaster response cycles, there is promising research on integrating AI into OSM workflows, see [AI-generated buildings in OpenStreetMap: frequency of use and differences from non-AI-generated buildings](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2473637#d1e176). HOT’s [fAIR](https://www.hotosm.org/tech-suite/fair/) tool also can increase the rate of mapping by incorporating machine learning into OSM workflows when there is higher resolution imagery available. **In the meantime, expect OSM to take time, but be more accurate.** 
+
+We can also do better as an OpenStreetMap community to map buildings in anticipation of need. In conflict, that can mean proactively mapping before detailed remote sensing analysis is conducted or in partnership with conflict analysts. In Khartoum, Sudan, we are doing just that: [OpenStreetMap Contributors Needed to Map Khartoum Ahead of New Radar Satellite Imagery](https://www.hotosm.org/updates/openstreetmap-contributors-needed-to-map-khartoum-ahead-of-new-radar-satellite-imagery-2025/).
+
+**Partner with us!** 
+
+Resources are needed to engage more OSM communities and students to complete OSM buildings in conflicted affected areas. Please reach out to [data@hotosm.org](mailto:data@hotosm.org) to donate or work with us on data priorities and collection. 
+
+[Read more about HOT’s Conflict and Displacement Program.](https://www.hotosm.org/programs/conflict-displacement)
