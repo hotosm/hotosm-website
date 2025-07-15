@@ -247,6 +247,10 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 
 <br>
 
+---
+
+<br>
+
 <div id="chartContainer" style="width: 65%; height: 500px; margin: 0 auto;">
     <canvas id="bubbleChart"></canvas>
 </div>
