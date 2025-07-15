@@ -252,7 +252,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 
 <br>
 
-<h2 style="text-align: center; color: #333; margin-top: 20px;">Total Building Dataset Comparison, Area and Count</h2>
+<h2 style="text-align: center; color: #333; margin-top: 20px;">Total Building Dataset Comparison, Area and Count TEST</h2>
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 10px;">
     This chart compares the total area of buildings and the total building count from three datasets: Microsoft, OSM, and Overture.
 </div>
