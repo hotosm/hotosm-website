@@ -252,7 +252,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 
 <br>
 
-<h2 style="text-align: center; color: #333; margin-top: 20px;">Total Building Dataset Comparison, Area and Count TEST</h2>
+<h2 style="text-align: center; color: #333; margin-top: 20px;">Total Building Dataset Comparison, Area and Count</h2>
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 10px;">
     This chart compares the total area of buildings and the total building count from three datasets: Microsoft, OSM, and Overture.
 </div>
@@ -275,7 +275,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                         data: [{
                             x: 45.56,
                             y: 165950,
-                            r: 20 // Set radius for Microsoft
+                            r: 5 // Set radius for Microsoft
                         }],
                         backgroundColor: 'rgba(54, 162, 235, 0.7)',
                         borderColor: 'rgba(54, 162, 235, 1)',
@@ -285,7 +285,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                         data: [{
                             x: 53.90,
                             y: 234444,
-                            r: 20 // Set radius for OSM
+                            r: 5 // Set radius for OSM
                         }],
                         backgroundColor: 'rgba(75, 192, 192, 0.7)',
                         borderColor: 'rgba(75, 192, 192, 1)',
@@ -295,7 +295,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                         data: [{
                             x: 48.64,  // Total Area of Buildings (km²)
                             y: 191751, // Total Features Counted
-                            r: 20      // Set radius for Total
+                            r: 5      // Set radius for Total
                         }],
                         backgroundColor: 'rgba(255, 99, 132, 0.7)',
                         borderColor: 'rgba(255, 99, 132, 1)',
