@@ -313,7 +313,7 @@ Resources are needed to engage more OSM communities and students to complete OSM
                         data: [{
                             x: 45.56,
                             y: 165950,
-                            r: 20
+                            r: 20 // Set radius for Microsoft
                         }],
                         backgroundColor: 'rgba(54, 162, 235, 0.7)',
                         borderColor: 'rgba(54, 162, 235, 1)',
@@ -323,7 +323,7 @@ Resources are needed to engage more OSM communities and students to complete OSM
                         data: [{
                             x: 53.90,
                             y: 234444,
-                            r: 25
+                            r: 25 // Set radius for OSM
                         }],
                         backgroundColor: 'rgba(75, 192, 192, 0.7)',
                         borderColor: 'rgba(75, 192, 192, 1)',
@@ -333,7 +333,7 @@ Resources are needed to engage more OSM communities and students to complete OSM
                         data: [{
                             x: 48.64,  // Total Area of Buildings (km²)
                             y: 191751, // Total Features Counted
-                            r: 30      // Radius of the bubble
+                            r: 30      // Set radius for Total
                         }],
                         backgroundColor: 'rgba(255, 99, 132, 0.7)',
                         borderColor: 'rgba(255, 99, 132, 1)',
@@ -343,6 +343,20 @@ Resources are needed to engage more OSM communities and students to complete OSM
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
+                plugins: {
+                    tooltip: {
+                        callbacks: {
+                            label: function(tooltipItem) {
+                                // Return only the label and the x, y values without the radius
+                                return [
+                                    tooltipItem.dataset.label + ':',
+                                    'Area: ' + tooltipItem.raw.x + ' km²',
+                                    'Features: ' + tooltipItem.raw.y.toLocaleString()
+                                ];
+                            }
+                        }
+                    }
+                },
                 scales: {
                     x: {
                         title: {
