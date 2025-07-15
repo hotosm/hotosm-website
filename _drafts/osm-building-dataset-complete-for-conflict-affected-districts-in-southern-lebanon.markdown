@@ -280,3 +280,93 @@ We can also do better as an OpenStreetMap community to map buildings in anticipa
 Resources are needed to engage more OSM communities and students to complete OSM buildings in conflicted affected areas. Please reach out to [data@hotosm.org](mailto:data@hotosm.org) to donate or work with us on data priorities and collection. 
 
 [Read more about HOT’s Conflict and Displacement Program.](https://www.hotosm.org/programs/conflict-displacement)
+
+
+
+<br>
+
+---
+
+<br>
+
+<div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px; background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
+    <span>
+        Cover Photo: European Union, Copernicus Emergency Management Service Data | Copernicus 2025-03-31<a href="https://commons.wikimedia.org/wiki/File:Catastrophic_earthquake_in_Myanmar_(Copernicus_2025-03-31).png"> / Wikimedia </a>  
+    </span>
+</div>
+
+<div id="chartContainer" style="width: 75%; height: 500px; margin: 0 auto;">
+    <canvas id="bubbleChart"></canvas>
+</div>
+
+<!-- Use correct CDN URL (removed the colon after https) -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const ctx = document.getElementById('bubbleChart').getContext('2d');
+        const bubbleChart = new Chart(ctx, {
+            type: 'bubble',
+            data: {
+                datasets: [
+                    {
+                        label: 'Microsoft',
+                        data: [{
+                            x: 45.56,
+                            y: 165950,
+                            r: 20
+                        }],
+                        backgroundColor: 'rgba(54, 162, 235, 0.7)',
+                        borderColor: 'rgba(54, 162, 235, 1)',
+                    },
+                    {
+                        label: 'OSM',
+                        data: [{
+                            x: 53.90,
+                            y: 234444,
+                            r: 25
+                        }],
+                        backgroundColor: 'rgba(75, 192, 192, 0.7)',
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                    },
+                    {
+                        label: 'Total',
+                        data: [{
+                            x: 48.64,  // Total Area of Buildings (km²)
+                            y: 191751, // Total Features Counted
+                            r: 30      // Radius of the bubble
+                        }],
+                        backgroundColor: 'rgba(255, 99, 132, 0.7)',
+                        borderColor: 'rgba(255, 99, 132, 1)',
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        title: {
+                            display: true,
+                            text: 'Total Area of Buildings (km²)'
+                        },
+                        min: 40,
+                        max: 60
+                    },
+                    y: {
+                        title: {
+                            display: true,
+                            text: 'Total Features Counted'
+                        },
+                        min: 150000,
+                        max: 250000,
+                        ticks: {
+                            callback: function(value) {
+                                return value.toLocaleString();
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    });
+</script>
