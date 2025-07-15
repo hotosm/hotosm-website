@@ -329,7 +329,7 @@ Resources are needed to engage more OSM communities and students to complete OSM
                         borderColor: 'rgba(75, 192, 192, 1)',
                     },
                     {
-                        label: 'Total',
+                        label: 'Overture',
                         data: [{
                             x: 48.64,  // Total Area of Buildings (km²)
                             y: 191751, // Total Features Counted
@@ -369,7 +369,7 @@ Resources are needed to engage more OSM communities and students to complete OSM
                     y: {
                         title: {
                             display: true,
-                            text: 'Total Features Counted'
+                            text: 'Overture'
                         },
                         min: 150000,
                         max: 250000,
