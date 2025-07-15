@@ -122,7 +122,7 @@ Yes. Besides the entire area being double checked by expert OSM validators (see 
     });
 </script>
 
-<div style="text-align: center;">
+<div style="text-align: center; width: 75%; height: auto; margin: 0 auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Building count comparison across the different districts where mapping took place, showing the OSM numbers almost equal to predicted total of buildings done by AI. 
     </div>
