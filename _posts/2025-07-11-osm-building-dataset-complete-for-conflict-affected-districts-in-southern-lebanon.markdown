@@ -1,6 +1,7 @@
 ---
 title: OSM Building Dataset Complete for Conflict Affected Districts in Southern Lebanon
 date: 2025-07-11 17:33:00 Z
+published: false
 Summary Text: 'Accurate building footprints are needed to identify the impact of conflict
   on affected communities. After a dedicated volunteer effort, OSM building footprints
   are now the leading data source in the southern Lebanon districts of Sour, Bint
@@ -253,7 +254,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 
 <h2 style="text-align: center; color: #333; margin-top: 20px;">Total Building Dataset Comparison, Area and Count</h2>
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 10px;">
-    This chart compares the total area of buildings and the total building count from three datasets: Microsoft, OSM, and Overture. The radius of the bubbles is also proportional to the total area of all the buildings in the dataset in Km².
+    This chart compares the total area of buildings and the total building count from three datasets: Microsoft, OSM, and Overture.
 </div>
 
 <div id="chartContainer" style="width: 65%; height: 500px; margin: 0 auto;">
@@ -272,9 +273,9 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                     {
                         label: 'Microsoft',
                         data: [{
-                            x: 1,
+                            x: 45.56,
                             y: 165950,
-                            r: 4.556 // Set radius for Microsoft
+                            r: 20 // Set radius for Microsoft
                         }],
                         backgroundColor: 'rgba(54, 162, 235, 0.7)',
                         borderColor: 'rgba(54, 162, 235, 1)',
@@ -282,9 +283,9 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                     {
                         label: 'OSM',
                         data: [{
-                            x: 10,
+                            x: 53.90,
                             y: 234444,
-                            r: 5.390 // Set radius for OSM
+                            r: 20 // Set radius for OSM
                         }],
                         backgroundColor: 'rgba(75, 192, 192, 0.7)',
                         borderColor: 'rgba(75, 192, 192, 1)',
@@ -292,9 +293,9 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                     {
                         label: 'Overture',
                         data: [{
-                            x: 3.7,  // Total Area of Buildings (km²)
+                            x: 48.64,  // Total Area of Buildings (km²)
                             y: 191751, // Total Features Counted
-                            r: 4.864      // Set radius for Total
+                            r: 20      // Set radius for Total
                         }],
                         backgroundColor: 'rgba(255, 99, 132, 0.7)',
                         borderColor: 'rgba(255, 99, 132, 1)',
