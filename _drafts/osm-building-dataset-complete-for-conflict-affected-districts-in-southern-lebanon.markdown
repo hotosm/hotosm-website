@@ -50,7 +50,7 @@ Yes. Besides the entire area being double checked by expert OSM validators (see 
 
 
 <br>
-<div id="chartContainer">
+<div id="chartContainer" style="width: 75%; height: auto; margin: 0 auto;">
     <canvas id="buildingChart"></canvas>
 </div>
 
