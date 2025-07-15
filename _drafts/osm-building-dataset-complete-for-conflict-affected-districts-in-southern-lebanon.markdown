@@ -251,13 +251,13 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 
 <br>
 
-<div id="chartContainer" style="width: 65%; height: 500px; margin: 0 auto;">
-    <canvas id="bubbleChart"></canvas>
-</div>
-
 <h2 style="text-align: center; color: #333; margin-top: 20px;">Total Building Dataset Comparison, Area and Count</h2>
 <div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 10px;">
-    This chart compares the total area of buildings and the total building count from three datasets: Microsoft, OSM, and Overture. The radius of the bubbles is also proportional to the total area of all the buildings in the dataset in Km2.
+    This chart compares the total area of buildings and the total building count from three datasets: Microsoft, OSM, and Overture. The radius of the bubbles is also proportional to the total area of all the buildings in the dataset in Km².
+</div>
+
+<div id="chartContainer" style="width: 65%; height: 500px; margin: 0 auto;">
+    <canvas id="bubbleChart"></canvas>
 </div>
 
 <!-- Use correct CDN URL (removed the colon after https) -->
@@ -274,7 +274,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                         data: [{
                             x: 45.56,
                             y: 165950,
-                            r: 45.56 // Set radius for Microsoft
+                            r: 14.556 // Set radius for Microsoft
                         }],
                         backgroundColor: 'rgba(54, 162, 235, 0.7)',
                         borderColor: 'rgba(54, 162, 235, 1)',
@@ -284,7 +284,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                         data: [{
                             x: 53.90,
                             y: 234444,
-                            r: 53.90 // Set radius for OSM
+                            r: 15.390 // Set radius for OSM
                         }],
                         backgroundColor: 'rgba(75, 192, 192, 0.7)',
                         borderColor: 'rgba(75, 192, 192, 1)',
@@ -294,7 +294,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
                         data: [{
                             x: 48.64,  // Total Area of Buildings (km²)
                             y: 191751, // Total Features Counted
-                            r: 48.64      // Set radius for Total
+                            r: 14.864      // Set radius for Total
                         }],
                         backgroundColor: 'rgba(255, 99, 132, 0.7)',
                         borderColor: 'rgba(255, 99, 132, 1)',
@@ -351,6 +351,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
         margin-bottom: 20px;
     }
 </style>
+
 
 
 <br>
