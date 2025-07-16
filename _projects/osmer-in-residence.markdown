@@ -38,7 +38,7 @@ Since the start of the program in August, the residence has gone through a serie
 
 * Research to understand the current MSF GIS data collection processes, the tools, the data sources and the limitations of their current data collection workflow.
 
-* Ongoing plans to explore tools like the Field Mapping Tasking Manager (FMTM) that can help support coordinated field mapping for field data collection activities.
+* Ongoing plans to explore tools like the Field Tasking Manager (FieldTM) that can help support coordinated field mapping for field data collection activities.
 
 
 ## Impact

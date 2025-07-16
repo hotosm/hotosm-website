@@ -68,8 +68,8 @@ Block 4:
   - Name: Learn More
     URL: https://openaerialmap.org/
 Block 5:
-  Header: Field Mapping Tasking Manager (FMTM)
-  Text: The FMTM is a standalone mobile and web application that works using OpenDataKit
+  Header: Field Tasking Manager (FieldTM)
+  Text: The FieldTM is a standalone mobile and web application that works using OpenDataKit
     (ODK), a powerful data collection platform that leverages commonly-available mobile
     Android devices to enable people to input information including geospatial data
     in the field.

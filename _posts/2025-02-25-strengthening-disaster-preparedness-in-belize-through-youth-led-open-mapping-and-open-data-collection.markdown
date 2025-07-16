@@ -71,6 +71,6 @@ More importantly, this initiative empowers young people to take an active role i
 
 HOT aims to continue working with CDEMA and the broader Caribbean region to expand capacity-building efforts, improve map quality, and provide agencies with better data analysis tools.
 
-Caribbean countries are shifting their approach—not only focusing on disaster response but also on recovery efforts and economic development. Geospatial data and new tools—such as our Drone Tasking Manager and Field Mapping Tasking Manager—can support agencies beyond emergency management, helping them make data-driven decisions for long-term development.
+Caribbean countries are shifting their approach—not only focusing on disaster response but also on recovery efforts and economic development. Geospatial data and new tools—such as our Drone Tasking Manager and Field Tasking Manager—can support agencies beyond emergency management, helping them make data-driven decisions for long-term development.
 
 The Caribbean remains an innovative hub, and HOT looks forward to collaborating with professionals and young people to further enhance these tools and advance disaster preparedness across the region.

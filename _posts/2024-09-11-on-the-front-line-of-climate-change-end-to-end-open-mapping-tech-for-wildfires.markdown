@@ -58,14 +58,16 @@ During remote mapping, people drew polygons for each building manually over sate
 
 Remote mapping is not enough to have a full map because there are things that can’t be seen from above. To identify what type of building we’ve mapped (house, emergency service, commercial, etc.) and add more details like the name of the place or the building material (something very important for addressing fire risk) we have to be in the field.
 
-To add local knowledge to the data, we created a project in the [HOT Field Mapping Tasking Manager (FMTM)](https://fmtm.hotosm.org/), with a grid of tasks and a customized data collection [form ](https://github.com/hotosm/fmtm/blob/development/docs/example-xlsforms/simple_building_survey_wildfires.xlsx)that was then used with a field data collection app ([ODK Collect](https://docs.getodk.org/collect-intro/)) in order to enrich the previously mapped buildings.
+To add local knowledge to the data, we created a project in the [HOT Field Tasking Manager (FieldTM)](https://fmtm.hotosm.org/), with a grid of tasks and a customized data collection [form ](https://github.com/hotosm/field-tm/blob/dev/docs/example-xlsforms/simple_building_survey_wildfires.xlsx)that was then used with a field data collection app ([ODK Collect](https://docs.getodk.org/collect-intro/)) in order to enrich the previously mapped buildings.
 
-![IMG_3199.jpg](https://cdn.hotosm.org/website/IMG_3199.jpg)
-*Adding local knowledge with Field Mapping Tasking Manager, photo by Daniel Bellomo*
+
+![IMG_3199.jpg](/uploads/IMG_3199.jpg)
+*Adding local knowledge with Field Tasking Manager, photo by Daniel Bellomo*
+
 
 ## Obtaining all the data
 
-We used the [HOT Export Tool](https://export.hotosm.org/v3/) to download the previously mapped data into our computers. Also, we downloaded field mapped data from HOT Field Mapping Tasking Manager and offline maps for having on our phones, using [OsmAnd](https://osmand.net/) and [Organic Maps](https://organicmaps.app/).
+We used the [HOT Export Tool](https://export.hotosm.org/v3/) to download the previously mapped data into our computers. Also, we downloaded field mapped data from HOT Field Tasking Manager and offline maps for having on our phones, using [OsmAnd](https://osmand.net/) and [Organic Maps](https://organicmaps.app/).
 
 # Put the map to work
 

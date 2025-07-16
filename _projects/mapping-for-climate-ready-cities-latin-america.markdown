@@ -21,7 +21,7 @@ Tools:
 - tool: Mapillary
 - tool: QGIS
 - tool: IDeditor
-- tool: Field Mapping Tasking Manager
+- tool: Field Tasking Manager
 - tool: StreetComplete
 - tool: Organic Maps
 ---

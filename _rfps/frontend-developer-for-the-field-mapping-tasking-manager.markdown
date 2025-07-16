@@ -1,5 +1,5 @@
 ---
-title: Frontend Developer for the Field Mapping Tasking Manager
+title: Frontend Developer for the Field Tasking Manager
 date: 2024-12-10 16:54:00 Z
 Deadline Date: 2025-01-04 23:59:00 Z
 Page Contact:
@@ -44,7 +44,7 @@ In 2020, the work of the HOT community was recognized by [TED's Audacious Projec
 
 ## Background
 
-HOT has developed the Field Mapping Tasking Manager (FMTM) over the past two years. The tool ([https://fmtm.dev/](https://fmtm.dev/)) allows field mapping in a coordinated manner. FMTM is an open-source project, and all source code is available on [GitHub](https://github.com/hotosm/fmtm). The awarded developer(s) would contribute pull requests to the GitHub repository and maintain the credit of their contributions.
+HOT has developed the Field Tasking Manager (FieldTM) over the past two years. The tool ([https://fmtm.dev/](https://fmtm.dev/)) allows field mapping in a coordinated manner. FieldTM is an open-source project, and all source code is available on [GitHub](https://github.com/hotosm/field-tm). The awarded developer(s) would contribute pull requests to the GitHub repository and maintain the credit of their contributions.
 
 Currently, the project source code includes a frontend in React and Svelte and a backend project in Python. It currently connects to the [ODK](https://getodk.org) ecosystem via the Central data collection server and Collect mobile data collection app. Full documentation is available [here.](https://docs.fmtm.dev/)
 
@@ -59,13 +59,13 @@ Development of the mapper frontend started around August 2024, with the goal to 
 * A planned embedded navigation system.
 * Many other things arising from user requirements!
 
-One of the main obstacles to mapping at present is the complexity of managing ODK alongside FMTM. While we are certain that ODK integration is key to the project's success, from a user perspective they do not wish to have to swap between applications during the mapping process (FMTM → ODK Collect → FMTM).
+One of the main obstacles to mapping at present is the complexity of managing ODK alongside FieldTM. While we are certain that ODK integration is key to the project's success, from a user perspective they do not wish to have to swap between applications during the mapping process (FieldTM → ODK Collect → FieldTM).
 
 With the introduction of [Web Forms](https://github.com/getodk/web-forms) from ODK in recent months, we have the beginnings of a fully integrated application where both feature navigation/selection can be carried out alongside survey data collection.
 
 ## Objective of the Assignment
 
-*Objective 1*: Creation of a new FMTM workflow for survey data collection via Web Forms. Web Forms are still under active development, so part of this may involve implementing and contributing features to the ODK git repos (with whom we have a good working relationship).
+*Objective 1*: Creation of a new FieldTM workflow for survey data collection via Web Forms. Web Forms are still under active development, so part of this may involve implementing and contributing features to the ODK git repos (with whom we have a good working relationship).
 
 *Objective 2*: Integration of a generic localization solution for the mapper frontend (translations for ODK survey forms are already handled by the user-defined XLSForm when they specify questions), likely including Weblate as a community-driven translation platform. The key initial targets are English and Brazilian Portuguese. Ideally, the solution should also serve the React management frontend for easy integration into both.
 
@@ -113,7 +113,7 @@ Advanced English language skills. Portuguese is a bonus.
 
 ## Final products and deliverables
 
-* The expected deliverable will be software code merged into the FMTM repository for the frontend project. Detailed deliverables are in the table below;
+* The expected deliverable will be software code merged into the FieldTM repository for the frontend project. Detailed deliverables are in the table below;
 * Documentation for the methodology and test cases;
 
 The maximum budget for this assignment is $25k. Payment is initiated based on an invoice submitted by the developer(s) according to the following deliverables table, all taxes, local regulations, and other expenses should be handled by the developer(s):

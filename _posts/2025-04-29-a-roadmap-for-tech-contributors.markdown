@@ -26,7 +26,7 @@ Like in a natural ecosystem, this has become a reciprocal relationship. [In a re
 <li><b>Test:</b> The main goal for backend tests is to increase code coverage (meaning the amount of code that is tested) and try to ensure that changes going forward do not break any existing functionality. On the other hand, the main goal for frontend tests is to test the application’s user interface (UI) and see if the entire workflow works from end-to-end (E2E). These are some automated tests that could be better implemented:
 <ul>
 <li>DroneTM needs a lot of work on its <a href="https://github.com/hotosm/drone-tm/tree/develop/src/backend/tests">backend tests</a>, and frontend E2E tests are yet to be implemented. The testing setup is modeled on that of FieldTM (using PyTest and Playwright as testing tools).</li>
-<li>FieldTM needs a bit of work on the <a href="https://github.com/hotosm/fmtm/tree/development/src/backend/tests">backend tests</a> and <a href="https://github.com/hotosm/fmtm/tree/development/src/frontend/e2e">frontend E2E tests</a></li>
+<li>FieldTM needs a bit of work on the <a href="https://github.com/hotosm/field-tm/tree/dev/src/backend/tests">backend tests</a> and <a href="https://github.com/hotosm/field-tm/tree/dev/src/frontend/e2e">frontend E2E tests</a></li>
 <li>fAIr could have work done on its <a href="https://github.com/hotosm/fAIr/tree/develop/backend/tests">backend tests,</a> and frontend E2E tests are yet to be implemented too.</li>
 <li>Raw-data-api backend tests are located <a href="https://github.com/hotosm/raw-data-api/tree/develop/tests">here</a>.</li>
 </ul>
