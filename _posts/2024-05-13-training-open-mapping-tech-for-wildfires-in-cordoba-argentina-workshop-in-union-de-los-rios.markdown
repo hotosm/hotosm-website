@@ -7,7 +7,7 @@ tags:
 Summary Text: 'On April 1 2024, we did a workshop called “Open Mapping for Inclusive
   and Sustainable Development. Mapping Tech in Wildland Areas: Forest Fires Edition”
   in Unión de Los Ríos, Córdoba, Argentina.'
-Feature Image: "/uploads/union-de-los-rios-e2e.png"
+Feature Image: https://cdn.hotosm.org/website/union-de-los-rios-e2e.png
 Person: Emilio Mariscal
 Country:
 - Argentina
@@ -25,13 +25,13 @@ Before the workshop, we did a couple of preparation activities to prepare materi
 
 The map for Unión de los Ríos was really poor, with only some roads and one building mapped. We ran a quick mapathon with four people where we mapped most of the buildings of the small rural town.
 
-![ArgentinaWildfires9.png](/uploads/ArgentinaWildfires9.png)
+![ArgentinaWildfires9.png](https://cdn.hotosm.org/website/ArgentinaWildfires9.png)
 
 ### The Disaster
 
 This activity was aimed at one specific kind of disaster: wildfires. Knowing that a previous fire was very close to this town a few years ago and taking my experience working on these situations, I created a map:
 
-![ArgentinaWildfires8.png](/uploads/ArgentinaWildfires8.png)
+![ArgentinaWildfires8.png](https://cdn.hotosm.org/website/ArgentinaWildfires8.png)
 
 This map shows the area affected by the fire over a map of the town with all buildings, highlighting the ones that were inside or very close to the burned area, most of them in what we call the WUI (wildland-urban interface). The point with the label “Los Moradillos” is the place where we ran the workshop. The numbers are points of interest for our field activity during the evening.
 
@@ -47,19 +47,19 @@ I downloaded images from the Sentinel satellite (using the [Sentinel Hub EO Brow
 
 After identifying the area that burnt around the town in just one day, I drew the polygon marked in red. I did this manually this time because the area was small, and I did not require too much precision. For more complex cases, I used a tool for detecting the difference between two satellite images:
 
-![ArgentinaWildfires7.png](/uploads/ArgentinaWildfires7.png)
+![ArgentinaWildfires7.png](https://cdn.hotosm.org/website/ArgentinaWildfires7.png)
 
 ### 3. Download mapped geometries
 
 With the polygon of the burned area as the Area of Interest, I downloaded the building geometries we’d mapped before using the HOT Export Tool. I also exported roads to improve the map design.
 
-![ArgentinaWildfires6.png](/uploads/ArgentinaWildfires6.png)
+![ArgentinaWildfires6.png](https://cdn.hotosm.org/website/ArgentinaWildfires6.png)
 
 ### 4. Build the map
 
 Finally, I imported all data into QGIS, created a buffered version of the burnt area polygon, and intersected the fire polygons with the buildings, resulting in the highlighted buildings that were at moderate or high risk during the fire. 
 
-![ArgentinaWildfires5.png](/uploads/ArgentinaWildfires5.png)
+![ArgentinaWildfires5.png](https://cdn.hotosm.org/website/ArgentinaWildfires5.png)
 
 ## Part 2: Presentations
 
@@ -71,7 +71,7 @@ I’ve started talking about my work as a volunteer firefighter specializing in 
 
 The second speaker was Cesar Dapía, a fellow volunteer firefighter with extensive experience in forest fires. We’ve been using open mapping tools together, like OpenStreetMap, QGIS, OsmAnd, and uMap, for more than 6+ years. He talked about how we’ve started using open mapping tech in wildfires, told stories about it, and highlighted the benefits of using these tools over others, like Google Earth. His presentation was the key to keeping non-technical people interested.
 
-![ArgentinaWildfires4.jpg](/uploads/ArgentinaWildfires4.jpg)
+![ArgentinaWildfires4.jpg](https://cdn.hotosm.org/website/ArgentinaWildfires4.jpg)
 
 ## Part 3: Fieldwork
 
@@ -104,19 +104,19 @@ We told all crews to be outside and wait for instructions. Then we shared, by VH
 
 As the crews started moving to the assigned coordinates, we at the Incident Command created a map in uMap, uploading the polygon of the fire in GeoJSON format and adding a few points to it. This map was shared between different members of the Incident Command:
 
-![ArgentinaWildfires3.png](/uploads/ArgentinaWildfires3.png)
+![ArgentinaWildfires3.png](https://cdn.hotosm.org/website/ArgentinaWildfires3.png)
 
 ### 2. Sharing Location
 
 As the crews reached the designated points, we asked them to share their coordinates to confirm their location on the map, as sometimes the crews were not able to reach the exact position because the vegetation was too dense, the access was private, or some other cause. 
 
-![ArgentinaWildfires2.jpg](/uploads/ArgentinaWildfires2.jpg)
+![ArgentinaWildfires2.jpg](https://cdn.hotosm.org/website/ArgentinaWildfires2.jpg)
 
 ### 3. Field Survey
 
 We continued mobilizing people, giving them new coordinates, and asking for their position and the position of the other crews. They also shared some observations, like a good place for a heliport and some POIs that could be added later to OSM.
 
-![ArgentinaWildfires1.jpg](/uploads/ArgentinaWildfires1.jpg)
+![ArgentinaWildfires1.jpg](https://cdn.hotosm.org/website/ArgentinaWildfires1.jpg)
 
 ### 4. Back to the Incident Command + Information Sharing
 

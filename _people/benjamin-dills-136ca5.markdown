@@ -1,7 +1,7 @@
 ---
 title: Benjamin Dills
 date: 2024-08-19 17:02:00 Z
-Photo: "/uploads/Ben%20Dills%20Headshot.jpg"
+Photo: https://cdn.hotosm.org/website/Ben+Dills+Headshot.jpg
 Member Type:
   Is Voting Member: true
 Country: United States

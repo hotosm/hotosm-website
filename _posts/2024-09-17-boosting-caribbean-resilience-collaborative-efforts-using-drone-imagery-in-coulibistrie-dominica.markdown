@@ -7,7 +7,7 @@ Summary Text: Discover how our collaboration with the University of the West Ind
   University, and the Caribbean Islands Higher Education Resilience Consortium is
   enhancing resilience planning in Coulibistrie, Dominica, through the use of drone
   imagery.
-Feature Image: "/uploads/Collaborative%20Efforts%20using%20Drone%20Imagery%20in%20Coulibistrie,%20Dominica%20(2).jpg"
+Feature Image: https://cdn.hotosm.org/website/Collaborative+Efforts+using+Drone+Imagery+in+Coulibistrie,+Dominica+(2).jpg
 Person: Mariana Marín
 Country:
 - Dominica
@@ -27,7 +27,7 @@ Coulibistrie, grappling with severe flooding from Tropical Storm Erika (2015), H
 
 In this context, the Northeastern team utilized HOT-provided drone images in a primary school exercise to visually illustrate and discuss community challenges. Stephen noted, “HOT’s contributions have been pivotal. The images provided were integral to our resilience workshop on June 29th and are now central to our planning with the Disaster Response Coordinating Committee.”
 
-![Collaborative Efforts using Drone Imagery in Coulibistrie, Dominica (3).jpg](/uploads/Collaborative%20Efforts%20using%20Drone%20Imagery%20in%20Coulibistrie,%20Dominica%20(3).jpg)
+![Collaborative Efforts using Drone Imagery in Coulibistrie, Dominica (3).jpg](https://cdn.hotosm.org/website/Collaborative+Efforts+using+Drone+Imagery+in+Coulibistrie,+Dominica+(3).jpg)
 
 *Check the [OpenAerialMap of Coulibistrie, Dominica](https://map.openaerialmap.org/#/-61.449885964393616,15.462521545986675,17/user/62c50409b5050700076642cb/667b2f341b35ab0001a5368b?_k=g2an8d)*
 
@@ -37,7 +37,7 @@ In breakout sessions, the images sparked discussions on various aspects of resil
 
 ## **Key Insights and Applications from Coulibistrie’s Community Resilience Exercise**
 
-![Collaborative Efforts using Drone Imagery in Coulibistrie, Dominica.jpg](/uploads/Collaborative%20Efforts%20using%20Drone%20Imagery%20in%20Coulibistrie,%20Dominica.jpg)
+![Collaborative Efforts using Drone Imagery in Coulibistrie, Dominica.jpg](https://cdn.hotosm.org/website/Collaborative+Efforts+using+Drone+Imagery+in+Coulibistrie,+Dominica.jpg)
 
 The project team engaged community council members early on, strengthening connections through partnerships with the Government of Dominica, including ODM, CREAD, and Local Government, as well as collaborating with UWI researchers and non-profits like the Red Cross and IsraAid. This collaboration led to the creation of the Community and Climate Resilience Alliance (CCRA), focused on supporting Coulibistrie’s resilience goals.
 
@@ -51,7 +51,7 @@ A landscape analysis is underway to assess local initiatives, helping to formali
 
 ## **What’s Next**
 
-![Collaborative Efforts using Drone Imagery in Coulibistrie, Dominica (1).jpg](/uploads/Collaborative%20Efforts%20using%20Drone%20Imagery%20in%20Coulibistrie,%20Dominica%20(1).jpg)
+![Collaborative Efforts using Drone Imagery in Coulibistrie, Dominica (1).jpg](https://cdn.hotosm.org/website/Collaborative+Efforts+using+Drone+Imagery+in+Coulibistrie,+Dominica+(1).jpg)
 
 The Northeastern and HOT teams anticipate ongoing collaboration beyond the pilot phase, recognizing its foundational role in developing strategies with Caribbean communities. Future efforts include incorporating indigenous knowledge and ensuring substantial impact.
 

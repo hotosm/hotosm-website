@@ -3,7 +3,7 @@ title: Mapping for Climate-Ready Cities
 date: 2018-05-01 05:01:00 Z
 permalink: "/programs/mapping-for-climate-ready-cities"
 position: 88
-Feature Image: "/uploads/Ramani-Huria-Dar-es-Salaam-v3-2.jpg"
+Feature Image: https://cdn.hotosm.org/website/Ramani-Huria-Dar-es-Salaam-v3-2.jpg
 Stats:
   stat1: 10M
   text1: People to be Mapped
@@ -43,7 +43,7 @@ Duration:
   Start Date: 2024-01-01 00:00:00 Z
   End Date: 2025-12-31 00:00:00 Z
   Timeframe: 2024 - 2025 Cycle
-Feature-Image: "/uploads/Ramani-Huria-Dar-es-Salaam-v3.jpg"
+Feature-Image: https://cdn.hotosm.org/website/Ramani-Huria-Dar-es-Salaam-v3.jpg
 Event Promo:
   Event Name: Mapping For Climate-Ready Cities
   Description: "<a style='color: white; font-weight: bold;'>Climate crises are inherently
@@ -75,7 +75,7 @@ Program-summary:
     climate data gaps by working with local communities and partners to take anticipatory
     action. We ensure their realities are represented on the map and that communities
     are involved in climate-related decisions that will affect them.**</a>"
-Image-leading: "/uploads/climate-ready-cities-map.png"
+Image-leading: https://cdn.hotosm.org/website/climate-ready-cities-map.png
 Figcaption: Through our <strong>Mapping for Climate-Ready Cities program</strong>,
   we are mapping cities in four priority regions of the world and developing a thriving
   ecosystem to create, interpret, and use maps to respond to and reduce climate risks
@@ -186,7 +186,7 @@ Project-1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
     for humanitarian and development programs.
-  Image: "/uploads/LAC_OpenCitiesMX_1.jpeg"
+  Image: https://cdn.hotosm.org/website/LAC_OpenCitiesMX_1.jpeg
   Call to Action: View the tools
   URL: "/projects/dar_ramani_huria_dar_open_map"
 Project-2:
@@ -194,7 +194,7 @@ Project-2:
   Text: Learn about the community and the latest events — especially about the Open
     Summit 2023, a decentralized, year-long program of 13 global, regional, and local
     conferences.
-  Image: "/uploads/opensummit-banner-2023-2024.png"
+  Image: https://cdn.hotosm.org/website/opensummit-banner-2023-2024.png
   Call to Action: Learn more
   URL: "/projects/dar_ramani_huria_dar_open_map"
 Project-3:

@@ -9,7 +9,7 @@ Summary Text: HOT and its allies in the mapping and climate science community ar
   invites case studies showcasing the application of open community mapping in urban
   climate and development action. These submissions will be instrumental in advancing
   the global recognition of open mapping.
-Feature Image: "/uploads/image1.png"
+Feature Image: https://cdn.hotosm.org/website/image1.png
 Person: Sam Colchester
 ---
 
@@ -22,7 +22,7 @@ HOT and allies in the mapping and climate science community aim to showcase the 
 
 The core team on this initiative includes scientists and practitioners who believe strongly that open community mapping can drive high quality and locally-led urban climate action.
 
-![image2.jpg](/uploads/image2.jpg)
+![image2.jpg](https://cdn.hotosm.org/website/image2.jpg)
 
 There are many routes to making the case for open mapping in urban climate action. However, this approach is about influencing the scientific community, the UN, and authorities at a national and local level and the IPCC’s next special report which is on Climate Change and Cities through academic publishing.
 

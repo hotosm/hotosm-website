@@ -44,7 +44,7 @@ We provide capacity development and GIS technical and non-technical support to m
 
 ## Our key projects
 
-The hub has supported projects in Uganda, Kenya, Zambia, Malawi, Namibia, Tanzania, and more. ![Screenshot 2025-01-29 at 11.36.27 AM.png](/uploads/Screenshot%202025-01-29%20at%2011.36.27%E2%80%AFAM.png)
+The hub has supported projects in Uganda, Kenya, Zambia, Malawi, Namibia, Tanzania, and more. ![Screenshot 2025-01-29 at 11.36.27 AM.png](https://cdn.hotosm.org/website/Screenshot+2025-01-29+at+11.36.27%E2%80%AFAM.png)
 
 * [Mapping for access to contraceptive access in Uganda](https://youtu.be/bS94k78goNQ?si=lcFQITksctywbC1I)
 

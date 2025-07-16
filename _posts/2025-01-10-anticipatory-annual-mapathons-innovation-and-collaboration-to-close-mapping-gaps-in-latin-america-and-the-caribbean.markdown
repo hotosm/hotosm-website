@@ -6,7 +6,7 @@ Summary Text: The Annual National Anticipatory Mapathons (MANA) are an innovativ
   strategy to close mapping gaps in Latin America and the Caribbean, strengthening
   risk prevention and management. In 2024, MANA made an impact in Ecuador, Peru, Colombia,
   and Guatemala, showcasing the power of open mapping to build more resilient communities.
-Feature Image: "/uploads/Mapatones%20Anuales%20Anticipatorios%20en%20Latinoame%CC%81rica%20HOT.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapatones+Anuales+Anticipatorios+en+Latinoame%CC%81rica+HOT.jpg
 Person:
 - Céline Jacquin
 - Constanza Petrazzini
@@ -48,7 +48,7 @@ In 2024, the Risk Management Secretariat launched the Second National Annual Map
 
 The collaboration between HOT and the Risk Management Secretariat resulted in the signing of an agreement to ensure the long-term continuity of this initiative.
 
-![Cuenca, Ecuador Gestión de Riesgos Mapatones HOTOSM.jpg](/uploads/Cuenca,%20Ecuador%20Gestio%CC%81n%20de%20Riesgos%20Mapatones%20HOTOSM.jpg)
+![Cuenca, Ecuador Gestión de Riesgos Mapatones HOTOSM.jpg](https://cdn.hotosm.org/website/Cuenca%2C+Ecuador+Gestio%CC%81n+de+Riesgos+Mapatones+HOTOSM.jpg)
 
 *Image: Comparison of before and after mapping in Cuenca, Ecuador, carried out during the Risk Management Mapathon.*
 
@@ -72,7 +72,7 @@ In September 2024, Colombia held its first National Annual Risk Mapathon during 
 
 The project, developed in collaboration with local Youth Mappers groups such as SAGeMA and Tadeo Mappers, culminated in October during the International Disaster Reduction Week. This effort laid a solid foundation for expanding the initiative in 2025, underscoring the importance of multisectoral collaboration and community leadership.
 
-![Mapatón Nacional de Gestión de Riesgos MANAS Hotosm Colombia.jpg](/uploads/Mapato%CC%81n%20Nacional%20de%20Gestio%CC%81n%20de%20Riesgos%20MANAS%20Hotosm%20Colombia.jpg)
+![Mapatón Nacional de Gestión de Riesgos MANAS Hotosm Colombia.jpg](https://cdn.hotosm.org/website/Mapato%CC%81n+Nacional+de+Gestio%CC%81n+de+Riesgos+MANAS+Hotosm+Colombia.jpg)
 
 *Image: Training session of the SAGeMa youth group during the National Risk Management Mapathon in Colombia.*
 
@@ -80,7 +80,7 @@ During the mapathon, an emergency arose in Colombia due to heavy rains severely 
 
 This experience demonstrated to the National Unit for Disaster Risk Management (UNGRD) the benefits of participatory mapping and the potential of an active community in generating essential cartography for emergency response and disaster risk management.
 
-![Puerto Calceido, Colombia Mapatón de Gestión de Riesgos HOTOSM](/uploads/Puerto%20Calceido,%20Colombia%20Mapato%CC%81n%20de%20Gestio%CC%81n%20de%20Riesgos%20HOTOSM)
+![Puerto Calceido, Colombia Mapatón de Gestión de Riesgos HOTOSM](https://cdn.hotosm.org/website/Puerto+Calceido%2C+Colombia+Mapato%CC%81n+de+Gestio%CC%81n+de+Riesgos+HOTOSM)
 
 *Image: Comparison of before and after mapping in Puerto Calcedo, Colombia, carried out during the Risk Management Mapathon.*
 
@@ -94,7 +94,7 @@ A network of 332 volunteers mapped 50,000 roads, totaling 29,000 kilometers, hig
 
 Before the project, Guatemala faced a critical gap in geospatial data on its road network, limiting decision-making processes and public investment in infrastructure. According to Juan Carlos Méndez, director of the "Routes for Development" program: "We had such a large gap that unregistered roads simply did not exist in public planning. Without precise data, we could not connect urban Guatemala with rural Guatemala, perpetuating social and economic exclusion."
 
-![Cobán, Guatemala Avenidas del Buen Vivir.png](/uploads/Coba%CC%81n,%20Guatemala%20Avenidas%20del%20Buen%20Vivir.png)
+![Cobán, Guatemala Avenidas del Buen Vivir.png](https://cdn.hotosm.org/website/Coba%CC%81n%2C+Guatemala+Avenidas+del+Buen+Vivir.png)
 
 *Video: Before-and-after comparison of road mapping in Cobán, Guatemala, during the *Routes for Development* Mapathon.*
 
@@ -126,7 +126,7 @@ Before this project, Guatemala faced a critical geospatial data gap regarding it
 
 This initiative not only expanded Guatemala’s road data but also reinforced local mapping capacities, fostering long-term sustainability.
 
-![Vías Mapeadas Avenidas del Buen Vivir.png](/uploads/Vi%CC%81as%20Mapeadas%20Avenidas%20del%20Buen%20Vivir.png)
+![Vías Mapeadas Avenidas del Buen Vivir.png](https://cdn.hotosm.org/website/Vi%CC%81as+Mapeadas+Avenidas+del+Buen+Vivir.png)
 
 *Image: Complete mapping of Guatemala’s road network as part of the *Routes for Development *update.*
 

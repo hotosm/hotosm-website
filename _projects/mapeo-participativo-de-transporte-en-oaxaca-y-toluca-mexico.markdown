@@ -6,7 +6,7 @@ Project Summary Text: Impulsamos el mapeo colaborativo del transporte público e
   Association, HOT y Codeando México, con financiamiento de la GIZ, el proyecto involucra
   a estudiantes, gobiernos y sociedad civil en Oaxaca, Salina Cruz y Toluca para mejorar
   la gestión y planificación del transporte urbano.
-Feature Image: "/uploads/Mapeo%20de%20Transporte%20Pu%CC%81blico%20TranSiT%20GIZ%20HOT%20Codeando%20Me%CC%81xico%20Trufi.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapeo+de+Transporte+Pu%CC%81blico+TranSiT+GIZ+HOT+Codeando+Me%CC%81xico+Trufi.jpg
 Country:
 - Mexico
 Impact Area:
@@ -27,7 +27,7 @@ Este proyecto beneficiario de un financiamiento dentro de [TranSIT](https://www.
 
 De manera colaborativa, se están desarrollando datos cartográficos precisos del espacio vial y del transporte público en las ciudades de Oaxaca de Juárez y Toluca, con la participación de estudiantes universitarios locales y regionales, así como colectivos de la sociedad civil y funcionarios públicos locales. El proyecto cuenta con la colaboración temprana  de las Secretarías de Movilidad de ambos estados desde la planeación del proyecto, la selección de áreas, porciones del sistema de transporte, y temas de interés, así como en etapas de validación. Las Secretarías están también activamente involucradas en la socialización interna de resultados, y la inserción de los mismos en procesos administrativos pertinentes. Cuenta con el respaldo técnico de las organizaciones civiles Codeando México, Humanitarian OpenStreetMap Team (HOT) y Trufi Association.
 
-![Mapeo de Transporte Público TranSiT GIZ HOT Codeando México Trufi 2.jpg](/uploads/Mapeo%20de%20Transporte%20Pu%CC%81blico%20TranSiT%20GIZ%20HOT%20Codeando%20Me%CC%81xico%20Trufi%202.jpg)
+![Mapeo de Transporte Público TranSiT GIZ HOT Codeando México Trufi 2.jpg](https://cdn.hotosm.org/website/Mapeo+de+Transporte+Pu%CC%81blico+TranSiT+GIZ+HOT+Codeando+Me%CC%81xico+Trufi+2.jpg)
 
 *Fotografía cortesía de Trufi Association muestra voluntaria mapeando en el centro de Oaxaca de Juárez en el contexto del Proyecto TranSit.*
 
@@ -101,6 +101,6 @@ Se seleccionaron 2 ciudades medianas (Oaxaca de Juárez y Toluca) con criterios 
 
 * **Creación de una red de mapeo:** La comunidad de mapeo creada podrá abordar otros desafíos urbanos y contribuir al desarrollo de investigaciones y soluciones innovadoras.
 
-![Mapeo participativo de transporte en Oaxaca y Toluca, México HOT TRUFI GIZ CODEANDO MÉXICO 4.jpg](/uploads/Mapeo%20participativo%20de%20transporte%20en%20Oaxaca%20y%20Toluca,%20Me%CC%81xico%20HOT%20TRUFI%20GIZ%20CODEANDO%20ME%CC%81XICO%204.jpg)
+![Mapeo participativo de transporte en Oaxaca y Toluca, México HOT TRUFI GIZ CODEANDO MÉXICO 4.jpg](https://cdn.hotosm.org/website/Mapeo+participativo+de+transporte+en+Oaxaca+y+Toluca%2C+Me%CC%81xico+HOT+TRUFI+GIZ+CODEANDO+ME%CC%81XICO+4.jpg)
 
 *Fotografía cortesía de Trufi Association muestra OSMTracker, herramienta empleada para el mapeo de rutas, en el contexto del Proyecto TranSit.*

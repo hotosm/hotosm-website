@@ -7,7 +7,7 @@ Summary Text: Estudiantes de la asignatura de “Orientación y Ecología” del
   medir las consecuencias ambientales que tienen los medios de transportes utilizados
   y así proponer medidas con las cuales las emisiones de CO2 podrían ser reducidas
   en la localidad.
-Feature Image: "/uploads/Foto%20Huella%2002.jpg"
+Feature Image: https://cdn.hotosm.org/website/Foto+Huella+02.jpg
 Person: Luis Miguel Bande Jaramillo
 Country:
 - Argentina
@@ -17,7 +17,7 @@ Project:
 
 El transporte es un factor clave en los problemas ambientales globales, como el cambio climático, y tiene un impacto significativo en el medio urbano en Argentina, donde la contaminación del aire es más relevante que en áreas rurales. El uso creciente de vehículos particulares, pese a ser más eficientes, consume la mitad de la energía del país y emite millones de toneladas de CO2. Sin embargo, Argentina carece de registros sistemáticos sobre la calidad del aire, lo que dificulta su monitoreo y análisis. Ante esta situación, un proyecto estudiantil busca visibilizar y abordar esta problemática de manera efectiva.
 
-![Foto Huella 01.jpg](/uploads/Foto%20Huella%2001.jpg)
+![Foto Huella 01.jpg](https://cdn.hotosm.org/website/Foto+Huella+01.jpg)
 
 La profesora Alejandra Límido, junto con un grupo de estudiantes del CPEM-57, de la localidad de San Martín de Los Andes, en Argentina, se han embarcado en la tarea de integrar herramientas de mapeo abierto en la educación, a través de nuestro programa [Open Mapping for All (OM4A)](https://www.hotosm.org/projects/open-mapping-for-all/), para poder medir, así, el impacto de la huella de carbono, analizando los medios de transporte que utiliza el estudiantado para trasladarse desde sus casas hasta la escuela. La idea era calcular mediante tablas ya prestablecidas (y disponibles en la web), las emisiones anuales que ellos mismos generan según el tipo de transporte empleado para establecer, así, las consecuencias que esta movilidad tiene sobre el ambiente (principalmente en forma de emisiones de CO2).
 
@@ -29,7 +29,7 @@ El mapeo colaborativo es una estrategia que facilita la construcción de un rela
 
 Es así que, el proyecto Huellas de Carbono se inscribe para garantizar los derechos de accesibilidad a la información en la localidad de San Martín de los Andes, Argentina. Al respecto, la profesora Alejandra Límido señala que: “***Lo más interesante es tratar de que el proyecto se traduzca en información valiosa que pueda ser utilizada. Porque ideas sobre el ambiente hay muchas, y discursos sobre el ambiente hay muchos, pero hoy lo que nos falta es empezar a materializar cosas. La información es poder, y queremos que esa información realmente sea utilizada para tomar las mejores decisiones para nuestra localidad***”.
 
-![Foto Huella 04.jpg](/uploads/Foto%20Huella%2004.jpg)
+![Foto Huella 04.jpg](https://cdn.hotosm.org/website/Foto+Huella+04.jpg)
 
 # Difundiendo realidades específicas a través del mapeo abierto
 
@@ -37,7 +37,7 @@ El CPEM-57 se propone impulsar, a partir de la elaboración de este mapa, el acc
 
 En este sentido, la profesora revela la importancia que adquiere el mapeo como mecanismo para comenzar a resolver los problemas, pero, sobre todo, en la medida es que luego toda esa información sea aprovechada por otras organizaciones competentes. Al respecto, Alejandra enfatiza diciendo que: “***El pico máximo de nuestro proyecto sería que la Municipalidad tome esta información y la utilice de la manera más eficaz para el cuidado de nuestro San Martín de los Andes. Ese sería nuestro ideal.***”
 
-![El Proyecto Huellas de Carbono- Concienciando y reaccionando frente a las Emisiones de CO2 a través del Mapeo Abierto-b5386a.jpg](/uploads/El%20Proyecto%20Huellas%20de%20Carbono-%20Concienciando%20y%20reaccionando%20frente%20a%20las%20Emisiones%20de%20CO2%20a%20trave%CC%81s%20del%20Mapeo%20Abierto-b5386a.jpg)
+![El Proyecto Huellas de Carbono- Concienciando y reaccionando frente a las Emisiones de CO2 a través del Mapeo Abierto-b5386a.jpg](https://cdn.hotosm.org/website/El+Proyecto+Huellas+de+Carbono-+Concienciando+y+reaccionando+frente+a+las+Emisiones+de+CO2+a+trave%CC%81s+del+Mapeo+Abierto-b5386a.jpg)
 
 # **Implementando herramientas de mapeo abierto colaborativo**
 
@@ -63,4 +63,4 @@ El proyecto “Huellas de Carbono” del CPEM-57 es otro de los proyectos que ha
 
 ## Este blog fue escrito por:
 
-![Blog luis Miguel Jaramillo OM4A.jpg](/uploads/Blog%20luis%20Miguel%20Jaramillo%20OM4A.jpg)
+![Blog luis Miguel Jaramillo OM4A.jpg](https://cdn.hotosm.org/website/Blog+luis+Miguel+Jaramillo+OM4A.jpg)

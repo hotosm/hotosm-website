@@ -71,7 +71,7 @@ Block 3:
     AI models, this due to AI models being either closed source or were built once
     and made available to end users so enhancements would require repeating the process
     from scratch.. <br> <br> '
-  Image: "/uploads/fair-fmtm-monrovia-digitizing.jpg"
+  Image: https://cdn.hotosm.org/website/fair-fmtm-monrovia-digitizing.jpg
   Tools:
   - Name: Website
     URL: https://fair.hotosm.org/
@@ -105,5 +105,5 @@ layout: product-pages
         <div class="intro-text dtm-photo" style="">
             <h1 style="font-weight: bolder; margin-top:3%; margin-left:0%; justify-content: center; font-family: Barlow Condensed, sans-serif; margin-bottom:2%">SHOWCASING fAIr</h1>
             <p style="font-weight: normal; margin-top:3%; margin-left:0%; justify-content: center; margin-bottom:2%">Ths GIF demonstrates how fast fAIr is for predicting building footprints on aerial images, and how intuitive the interface is. Users can easily control quality by clicking on images that seem inaccurate, ensuring precise results.<br> </p>
-            <img style="height: 87%; width: 100%; object-fit: cover; padding-right: 1%; padding-left: 1%; padding-bottom: 1%; padding-top: 1%;background-image: url(/images/dot-pattern.svg);" src="https://www.hotosm.org/uploads/image6.gif">
+            <img style="height: 87%; width: 100%; object-fit: cover; padding-right: 1%; padding-left: 1%; padding-bottom: 1%; padding-top: 1%;background-image: url(/images/dot-pattern.svg);" src="https://cdn.hotosm.org/website/image6.gif">
 </div>

@@ -54,7 +54,7 @@ Block 3:
     ![Export 1.png](https://cdn.hotosm.org/website/Export+1.png) <br> <br> **3. Data quality**
     The export tool has metrics such as data completeness, which gives you a quick peek of the area that you are planning to export! <br> <br> **4. Select the format for download or APO**
     Select from formats like GeoJSON, Shapefile, Geopackage, Google Earth KML, Flatgeobuf, and CSV or use the API for faster outputs and to connect to other applications.
-  Image: https://www.hotosm.org/uploads/export-tool-example.png
+  Image: https://cdn.hotosm.org/website/export-tool-example.png
   Tools:
   - Name: Website
     URL: https://export.hotosm.org/v3/

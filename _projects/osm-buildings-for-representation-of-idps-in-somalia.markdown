@@ -7,7 +7,7 @@ Project Summary Text: Representative humanitarian needs assessments are crucial 
   populations for needs surveys. To support this effort, the Humanitarian OpenStreetMap
   Team is collaborating with partners to crowdsource updates to OSM building data
   in Somalia’s displacement-affected areas.
-Feature Image: "/uploads/JOSM-screenshot-somalia-idp.png"
+Feature Image: https://cdn.hotosm.org/website/JOSM-screenshot-somalia-idp.png
 Country:
 - Somalia
 Impact Area:
@@ -113,7 +113,7 @@ Humanitarian needs assessments guide resource allocation and strategic action to
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/JOSM-screenshot-somalia-idp.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/JOSM-screenshot-somalia-idp.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>Example of people living in internal displacement in Somalia, as seen by smaller structures above.</span>
     </div>
@@ -126,7 +126,7 @@ OpenStreetMap, as an open editable map and spatial database of the world, allows
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/1712944890162_somalia-idp.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/1712944890162_somalia-idp.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>Example digitization of displaced areas in Somalia</span>
     </div>
@@ -139,14 +139,14 @@ Example digitization of displaced areas in Somalia
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/TM-screenshot-somalia-idp.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/TM-screenshot-somalia-idp.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>HOT’s Tasking Manager coordinates mapping progress and completion rate</span>
     </div>
 </div>
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/somalia-idp-red.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/somalia-idp-red.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>Buildings mapped (in red) in an area of dense new displacement in Somalia in OpenStreetMap</span>
     </div>
@@ -159,7 +159,7 @@ With an updated map of building footprints in OSM, Ground Truth Solutions (GTS) 
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/image002-somalia-idp.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/image002-somalia-idp.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>Each group in the field had 8 enumerators. Estimating a max of 10 interviews per day, they subdivided the original site area into 6 subareas containing a max of approx. 80 buildings each.</span>
     </div>
@@ -170,7 +170,7 @@ GTS also used the data to track survey progress. They counted the number of comp
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/image003-somalia-idp.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/image003-somalia-idp.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>As of the last day of the survey, green houses have been visited.</span>
     </div>
@@ -185,7 +185,7 @@ There is still work to be done in OSM in Somalia. Newly displaced arrivals are n
 
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/somalia-idp-progress.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/somalia-idp-progress.png" alt="Map1 AP Sherni River Museum 2023" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
         <span>*Image shows OSM building progress in an area of Somalia, as of 6 March 2025*</span>
     </div>

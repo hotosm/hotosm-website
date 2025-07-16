@@ -6,7 +6,7 @@ Summary Text: Community Mapping in Araracuara Strengthens the Andoque People’s
   Management Using Drones, OpenStreetMap, and GIS. The initiative combines ancestral
   knowledge and technology to document and protect their territory against deforestation
   and climate change.
-Feature Image: "/uploads/Araracuara.png"
+Feature Image: https://cdn.hotosm.org/website/Araracuara.png
 Person:
 - Juan Melo Luna
 - Mariana Marín
@@ -44,7 +44,7 @@ The fourth day was dedicated to fieldwork. Participants used mobile applications
 
 Finally, on the last day of activities, a workshop was held with students from Araracuara’s school, introducing them to the basics of OSM and remote and field mapping tools. In the afternoon, a session was conducted to answer questions, consolidate learning, and discuss practical cases on how to apply the generated information in territorial problem-solving. The day concluded with complementary mapping and planning future activities.
 
-![osm Resguardo Indígena Andoke de Aduche en la Amazonía Colombiana Juan Melo HOTOSM.jpg](/uploads/osm%20Resguardo%20Indi%CC%81gena%20Andoke%20de%20Aduche%20en%20la%20Amazoni%CC%81a%20Colombiana%20Juan%20Melo%20HOTOSM.jpg)
+![osm Resguardo Indígena Andoke de Aduche en la Amazonía Colombiana Juan Melo HOTOSM.jpg](https://cdn.hotosm.org/website/osm+Resguardo+Indi%CC%81gena+Andoke+de+Aduche+en+la+Amazoni%CC%81a+Colombiana+Juan+Melo+HOTOSM.jpg)
 
 > *“I really liked the workshop. We learned about different applications that play an important role within the same platform. OSM has helped us a lot in our work, for example, when recording data with a mobile phone, not just the one we used before. It also made it easier to upload information to the platform, where we have marked important sites such as streams and rivers,”* shares Jonfred Andoque, leader of the Gavilán Clan.
 

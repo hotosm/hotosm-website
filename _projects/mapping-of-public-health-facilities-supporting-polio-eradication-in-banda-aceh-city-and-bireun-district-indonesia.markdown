@@ -7,7 +7,7 @@ Project Summary Text: "The project in Indonesia has transformed lives by trainin
   Red Cross to analyze polio immunization progress and prioritize health promotion
   efforts. This has empowered communities and improved access to essential services,
   making a tangible difference in people's daily lives. \n\n\n\n\n"
-Feature Image: "/uploads/IMG_1143.jpg"
+Feature Image: https://cdn.hotosm.org/website/IMG_1143.jpg
 Is image top aligned: false
 Is Community-Led: true
 Country:
@@ -42,7 +42,7 @@ In 2018, Southeast Asia was rattled by the emergence of Polio cases, including o
 
 The Polio Preparedness Program set out to collect data on the target areas related to Polio and its challenges, completing an initial baseline survey involving over 1000 local respondents from 36 villages across 9 districts. The findings revealed that 41% of respondents lacked information about Polio immunization in the last six months. Furthermore, 30% of respondents in Aceh declined vaccination for their children, citing personal perceptions of safety or halal concerns.
 
-![IMG_1143.jpg](/uploads/IMG-20221130-WA0027.jpg)
+![IMG_1143.jpg](https://cdn.hotosm.org/website/IMG-20221130-WA0027.jpg)
 
 To support this program, supplementary data in the form of maps is crucial. This aids in more focused interventions, assessing accessibility to vaccination centers, promoting health in targeted villages, and monitoring the ongoing immunization progress.
 
@@ -62,7 +62,7 @@ In the **in-person training** phase, participants received hands-on training in 
 
 This field data complemented the online mapping efforts, providing detailed insights into the local infrastructure and facilitating targeted interventions to improve Polio immunization coverage and overall healthcare access in the region.
 
-![IMG_20221129_093209_384.jpg](/uploads/IMG_20221129_093209_384.jpg)
+![IMG_20221129_093209_384.jpg](https://cdn.hotosm.org/website/IMG_20221129_093209_384.jpg)
 
 **Impact and Outcomes**
 
@@ -80,7 +80,7 @@ The project has the potential to be a game-changer for health outcomes in the vi
 
 Moreover, the project's success has paved the way for broader applications, with the Indonesian Red Cross (PMI) utilizing the maps as foundational data for interventions beyond polio preparedness, including disaster risk mapping initiatives.
 
-![IMG_1058.jpg](/uploads/IMG_1058.jpg)
+![IMG_1058.jpg](https://cdn.hotosm.org/website/IMG_1058.jpg)
 
 As the project progresses, the pivotal role of women in its success becomes increasingly apparent. Their remarkable skill and dedication have been instrumental thus far, and their ongoing contributions will be vital in advancing health outcomes for the Aceh community.
 
@@ -94,4 +94,4 @@ The success of this project was highlighted by the strong network of partnership
 The Indonesian Red Cross (PMI) branches in Banda Aceh city and Bireuen district were invaluable partners, greatly facilitating
 activities in each region. PMI's close ties to the local community and their extensive volunteer network made it significantly easier to engage with the local community.
 
-![IMG_1152.jpg](/uploads/IMG_1152.jpg)
+![IMG_1152.jpg](https://cdn.hotosm.org/website/IMG_1152.jpg)

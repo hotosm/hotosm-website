@@ -28,7 +28,7 @@ O Hub LAC foi estabelecido em 2023 com a intenção de localizar ações que pro
 
 # Programa Humanitário LAC
 
-![OTIS - LAC Humanitarian Programme.jpg](/uploads/OTIS%20-%20LAC%20Humanitarian%20Programme.jpg)
+![OTIS - LAC Humanitarian Programme.jpg](https://cdn.hotosm.org/website/OTIS+-+LAC+Humanitarian+Programme.jpg)
 
 Respondendo de maneira confiável e melhorando a preparação para cada incidente de desastre relevante na região, nossos esforços visam ajudar os atores locais a cultivar uma cultura de conscientização do risco por meio do uso de dados cartográficos abertos.
 
@@ -46,7 +46,7 @@ Respondendo de maneira confiável e melhorando a preparação para cada incident
 
 # Programa Amazônia
 
-![Amazonia Program.jpg](/uploads/Amazonia%20Program.jpg)
+![Amazonia Program.jpg](https://cdn.hotosm.org/website/Amazonia+Program.jpg)
 
 Liderando o monitoramento de base e promovendo interações entre populações na Amazônia, nos concentramos em vários aspectos, incluindo a preservação ambiental, os riscos de vulnerabilidade social e os direitos. Há um ênfase particular no trabalho colaborativo com grupos indígenas para permitir uma gestão eficaz do território por meio do uso de dados.
 
@@ -56,7 +56,7 @@ Saiba mais sobre o programa [aqui](https://www.hotosm.org/updates/mapeamentos-am
 
 # Open Mapping for All
 
-![Open Mapping for All.jpg](/uploads/Open%20Mapping%20for%20All.jpg)
+![Open Mapping for All.jpg](https://cdn.hotosm.org/website/Open+Mapping+for+All.jpg)
 
 Explorando e integrando ferramentas de mapeamento aberto em projetos educacionais enquanto capacitamos a próxima geração de mapeadores abertos, começando em escolas secundárias da Argentina, Colômbia e Peru.
 
@@ -66,7 +66,7 @@ Saiba mais sobre o programa [aqui](https://www.hotosm.org/projects/open-mapping-
 
 # Programa do Caribe
 
-![Caribbean Program.jpg](/uploads/Caribbean%20Program.jpg)
+![Caribbean Program.jpg](https://cdn.hotosm.org/website/Caribbean+Program.jpg)
 
 Nossos esforços no Caribe têm se concentrado em estabelecer uma presença sólida e fomentar uma cultura de prática, inovação e resiliência. Ao forjar parcerias com partes interessadas locais e organizações como a Agência de Gerenciamento de Emergências por Desastres do Caribe (CDEMA), facilitamos a participação no desenvolvimento e gerenciamento de desastres. O lançamento da Comunidade OSM do Caribe destaca nosso compromisso com a colaboração e o compartilhamento de conhecimento. Através de iniciativas como o programa de treinamento de drones em Dominica, capacitamos os moradores locais a capturar dados críticos, melhorando a preparação para desastres. Além disso, nossa iniciativa de Resiliência a Desastres Centrada nas Mulheres em Pequenos Estados Insulares em Desenvolvimento prioriza capacitar mulheres e meninas com habilidades de cartografia essenciais, permitindo sua participação ativa na resposta a desastres em vários países do Caribe.
 
@@ -84,6 +84,6 @@ Nossos esforços no Caribe têm se concentrado em estabelecer uma presença sól
 
 # Siga-nos nas redes sociais
 
-![PT.jpg](/uploads/PT.jpg)
+![PT.jpg](https://cdn.hotosm.org/website/PT.jpg)
 
 **[Twitter](https://twitter.com/MapHubLAC)** | **[Instagram](https://www.instagram.com/maphublac/)** | **[Facebook](https://www.facebook.com/MapHubLAC)** | **[LinkedIn](https://www.linkedin.com/showcase/maphublac)** | **[Youtube](https://www.youtube.com/channel/UCTH6Z_QODJ4NmmBmubS68VA)**

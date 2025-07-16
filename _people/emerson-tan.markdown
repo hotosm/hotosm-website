@@ -1,7 +1,7 @@
 ---
 title: Emerson Tan
 date: 2025-06-24 12:43:00 Z
-Photo: "/uploads/Emerson%20Tan.jpg"
+Photo: https://cdn.hotosm.org/website/Emerson+Tan.jpg
 Member Type:
   Is Voting Member: true
 Country: United kingdom

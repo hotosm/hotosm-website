@@ -22,7 +22,7 @@ After [mapping in response to floods](https://www.hotosm.org/updates/mapping-as-
 
 Based on this previous positive experience, a large map-thon was planned to which the Risk Management Secretariat invited numerous actors e institutions to provide a variety of training to the public and officials, including a continued remote mapping initiative in OpenStreetMap of the areas classified as highly vulnerable to the El Niño phenomenon.
 
-![El_Niño_in_July_2023.png](/uploads/El_Ni%C3%B1o_in_July_2023.png)
+![El_Niño_in_July_2023.png](https://cdn.hotosm.org/website/El_Ni%C3%B1o_in_July_2023.png)
 
 *Image source: [Wikimedia](https://commons.m.wikimedia.org/wiki/File:El_Ni%C3%B1o_in_July_2023.png)*
 

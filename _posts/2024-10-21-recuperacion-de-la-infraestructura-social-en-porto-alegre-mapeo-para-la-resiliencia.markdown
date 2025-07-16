@@ -6,7 +6,7 @@ Summary Text: Después de las inundaciones de 2024 en Porto Alegre, Brasil, el B
   georreferenciados y la participación comunitaria, esta colaboración impulsa una
   recuperación sostenible y resiliente para las poblaciones más vulnerables de la
   ciudad.
-Feature Image: "/uploads/Porto%20Alegre%20Floods%20-%20Enchentes%20BID%20-%20HOT%20Response.jpg"
+Feature Image: https://cdn.hotosm.org/website/Porto+Alegre+Floods+-+Enchentes+BID+-+HOT+Response.jpg
 Person:
 - Mariana Marín
 - Céline Jacquin
@@ -26,7 +26,7 @@ Antes de las inundaciones, el [Banco Interamericano de Desarrollo](https://www.i
 
 A medida que la emergencia dio paso a los esfuerzos de respuesta y reconstrucción, se volvió crucial comprender el estado actual de la infraestructura educativa, de salud y de servicios sociales, particularmente en las áreas más vulnerables de la ciudad. En este contexto, para evaluar con precisión la situación en el terreno y brindar apoyo específico a las autoridades, una misión conjunta del BID y HOT visitó Porto Alegre en junio pasado.
 
-![Blog Porto Alegre.jpg](/uploads/Blog%20Porto%20Alegre.jpg)
+![Blog Porto Alegre.jpg](https://cdn.hotosm.org/website/Blog+Porto+Alegre.jpg)
 
 La misión, liderada conjuntamente por HOT y un grupo multidisciplinario del Sector Social del BID, se centró en identificar y mapear edificios que requerían evaluación de daños, revisar datos existentes y evaluaciones previas, y abordar las brechas críticas de información para apoyar una evaluación georreferenciada de las instalaciones públicas. Para facilitar la toma de decisiones a tiempo, se creó una herramienta de encuesta en línea que permitió recolectar datos precisos, comparables y georreferenciados de manera eficiente. Este trabajo se realizó en estrecha colaboración con la Secretaría de Planificación y Asuntos Estratégicos de Porto Alegre, junto con representantes de las Secretarías de Educación, Salud, Asistencia Social y Deportes.
 

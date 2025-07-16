@@ -7,7 +7,7 @@ Project Summary Text: In partnership with Mozambique's National Disaster Managem
   Southern Africa Hub will strenghten local geospatial data processing capabilities
   and engage in local participatory mapping in three priority districts, with the
   goal of enhancing disaster resilience and climate adaptation efforts in Mozambique.
-Feature Image: "/uploads/MOZ.png"
+Feature Image: https://cdn.hotosm.org/website/MOZ.png
 Country:
 - Mozambique
 Impact Area:

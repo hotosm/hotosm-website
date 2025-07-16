@@ -57,7 +57,7 @@ Block 3:
     mappers review each task to ensure the quality of the data added to OSM meets
     the required standards. They may either validate the task or return it to the
     mappers with guidance on how to enhance it.
-  Image: https://www.hotosm.org/uploads/TM-grid.gif
+  Image: https://cdn.hotosm.org/website/TM-grid.gif
   Tools:
   - Name: Website
     URL: https://tasks.hotosm.org/

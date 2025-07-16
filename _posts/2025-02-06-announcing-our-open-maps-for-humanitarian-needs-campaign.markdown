@@ -4,7 +4,7 @@ date: 2025-02-06 18:41:00 Z
 Summary Text: 'Anticipating a potential drop in information on humanitarian contexts
   in the coming months, and while humanitarians find a way forward, we are launching
   a 90 day campaign of Open Maps for Humanitarian Needs. '
-Feature Image: "/uploads/HNO_Global_Map_featured.png"
+Feature Image: https://cdn.hotosm.org/website/HNO_Global_Map_featured.png
 Person:
 - Jessica Pechmann
 - Raiza Pilatowsky Gruner
@@ -37,7 +37,7 @@ Check out our social media, [Map Gallery on Flickr](https://flic.kr/s/aHBqjBLfrx
 <br>
 <br>
 <div style="text-align: center;">
-    <img src="/uploads/HNO_Global_Map_2025.png" alt="Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
+    <img src="https://cdn.hotosm.org/website/HNO_Global_Map_2025.png" alt="Map showing data quality issues such as lack of completness and innacurate shapes for Microsoft ML buildings" style="width: 75%; height: auto;">
     <div style="font-size: 0.8em; color: #778899; margin-top: 10px;">
         Example map done as part of the campaign, showing the biggest coordinated humanitarian campaigns from OCHA fro 2025.
     </div>

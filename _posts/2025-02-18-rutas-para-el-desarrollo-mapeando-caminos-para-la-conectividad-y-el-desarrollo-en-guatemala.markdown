@@ -6,7 +6,7 @@ Summary Text: Descubre cómo el mapatón liderado por HOT y PNUD está transform
   la infraestructura vial en Guatemala. Rutas para el Desarrollo ahora cuenta con
   datos precisos sobre caminos rurales, facilitando la conectividad y el desarrollo
   territorial. Conoce el impacto de la ciencia ciudadana en la planificación pública.
-Feature Image: "/uploads/Rutas%20para%20el%20Desarrollo-%20Mapeando%20Caminos%20para%20la%20Conectividad%20y%20el%20Desarrollo%20en%20Guatemala.jpg"
+Feature Image: https://cdn.hotosm.org/website/Rutas+para+el+Desarrollo-+Mapeando+Caminos+para+la+Conectividad+y+el+Desarrollo+en+Guatemala.jpg
 Person:
 - Céline Jacquin
 - Mariana Marín
@@ -22,7 +22,7 @@ En un esfuerzo sin precedentes por mejorar la planificación de infraestructura 
 
 En la mayoría de los países de América Latina y otras regiones en desarrollo, la cartografía disponible para los gobiernos es deficiente, con datos desactualizados y poco precisos. Esta limitación afecta la toma de decisiones, la planificación territorial y la prevención de crisis. A menudo, los institutos nacionales de geografía poseen información parcial que no responde a las necesidades de los programas prioritarios, mientras que las cartografías generadas por consultores o empresas privadas suelen ser costosas y de alcance limitado. Como resultado, la creación de datos cartográficos es fragmentaria y depende de decisiones futuras, perpetuando la falta de una base sólida para la política pública.
 
-Ante esta carencia, la ciencia ciudadana ha demostrado ser una solución viable. HOT se especializa en promover la mejora colaborativa de OpenStreetMap, movilizando comunidades para generar datos abiertos y accesibles. Aunque estas cartografías no siempre cumplen con los estándares de oficialización de los institutos nacionales, han mostrado ser invaluables en la toma de decisiones, tanto a nivel municipal como nacional, en una variedad de situaciones críticas.![Rutas del Desarrollo Cobán Guatemala Mapeo HOT.jpg](/uploads/Rutas%20del%20Desarrollo%20Coba%CC%81n%20Guatemala%20Mapeo%20HOT.jpg)*Imagen: Comparación del antes y después del mapeo de caminos en Santa Cruz Verapaz, mostrando la transformación y actualización de la cartografía local.*
+Ante esta carencia, la ciencia ciudadana ha demostrado ser una solución viable. HOT se especializa en promover la mejora colaborativa de OpenStreetMap, movilizando comunidades para generar datos abiertos y accesibles. Aunque estas cartografías no siempre cumplen con los estándares de oficialización de los institutos nacionales, han mostrado ser invaluables en la toma de decisiones, tanto a nivel municipal como nacional, en una variedad de situaciones críticas.![Rutas del Desarrollo Cobán Guatemala Mapeo HOT.jpg](https://cdn.hotosm.org/website/Rutas+del+Desarrollo+Coba%CC%81n+Guatemala+Mapeo+HOT.jpg)*Imagen: Comparación del antes y después del mapeo de caminos en Santa Cruz Verapaz, mostrando la transformación y actualización de la cartografía local.*
 
 ## Rutas para el Desarrollo: Un Camino Hacia la Conectividad
 
@@ -30,7 +30,7 @@ El programa Rutas para el Desarrollo, impulsado por el gobierno del presidente B
 
 Antes de este esfuerzo, la red vial nacional no incluía una gran cantidad de caminos vecinales y senderos rurales, lo que impedía su consideración en la planificación de infraestructura. Como afirmó Juan Carlos Méndez, director del programa Rutas para el Desarrollo: *“Había un vacío tan grande que los caminos no registrados simplemente no existían en términos de planificación pública. Sin datos precisos, no podíamos conectar a la Guatemala rural con la Guatemala urbana, y eso perpetúa la exclusión social y económica.”* Con los datos generados por el Mapatón, se permitirá identificar regiones marginadas con claridad, conocer los medios actuales de conexión, permitiendo una planificación más efectiva.
 
-![Rutas del Desarrollo Guatemala Mapeo HOT.jpg](/uploads/Rutas%20del%20Desarrollo%20Guatemala%20Mapeo%20HOT.jpg)
+![Rutas del Desarrollo Guatemala Mapeo HOT.jpg](https://cdn.hotosm.org/website/Rutas+del+Desarrollo+Guatemala+Mapeo+HOT.jpg)
 
 *Imagen: Visualización de tres caminos en Guatemala.*
 
@@ -38,7 +38,7 @@ Antes de este esfuerzo, la red vial nacional no incluía una gran cantidad de ca
 
 Para cerrar esta brecha de datos, Equipo Humanitario de OpenStreetMap (HOT) y Programa de las Naciones Unidas para el Desarrollo (PNUD) activaron una masiva campaña de mapeo, convocando a personas voluntarias a través de la plataforma de Voluntarios de la ONU y mediante invitaciones directas a universidades locales como múltiples sedes de la Universidad de San Carlos y la Rafael Landívar en el país y en particular en el departamento priorizado de Alta Verapaz. Lo que comenzó como un proyecto piloto en Cobán, Alta Verapaz, se convirtió en una iniciativa nacional, superando todas las expectativas de participación de la comunidad mapeadora.
 
-![Mapatón Guatemala Avenidas del Buen Vivir.jpg](/uploads/Mapato%CC%81n%20Guatemala%20Avenidas%20del%20Buen%20Vivir.jpg)
+![Mapatón Guatemala Avenidas del Buen Vivir.jpg](https://cdn.hotosm.org/website/Mapato%CC%81n+Guatemala+Avenidas+del+Buen+Vivir.jpg)
 
 *Imagen: Capacitaciones y mapeo en MapRoulette como parte del reporte del participante Sebastián Guillén Chávez.*
 
@@ -72,7 +72,7 @@ El resultado de la activación fue impresionante:
 
 En palabras de Juan Carlos, *“las estimaciones iniciales del mapeo eran de 12,000 km, lo cual sabemos ahora que estaba muy por debajo de la realidad. Sin embargo, el Mapatón superó todas las expectativas, cubriendo áreas mucho más amplias y proporcionando datos fundamentales para la planificación."*
 
-![Mapatón Guatemala ES.jpg](/uploads/Mapato%CC%81n%20Guatemala%20ES.jpg)
+![Mapatón Guatemala ES.jpg](https://cdn.hotosm.org/website/Mapato%CC%81n+Guatemala+ES.jpg)
 
 *Imagen: La cartografía de caminos existentes y sus condiciones en OpenStreetMap, combinada con capas oficiales, permite identificar con precisión las principales carencias de infraestructura vial que limitan el acceso de las poblaciones a servicios esenciales. Esta información posibilita análisis sencillos pero cruciales para el diseño de ejes de conectividad y la optimización de la inversión pública.*
 

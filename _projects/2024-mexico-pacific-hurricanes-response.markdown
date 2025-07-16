@@ -1,7 +1,7 @@
 ---
 title: 2024 Mexico Pacific Hurricanes Response
 date: 2024-10-01 13:50:00 Z
-Feature Image: "/uploads/Hurricane%20John%20Guerrero%20Mexico.jpg"
+Feature Image: https://cdn.hotosm.org/website/Hurricane+John+Guerrero+Mexico.jpg
 Country:
 - Mexico
 Duration:

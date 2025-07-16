@@ -38,7 +38,7 @@ A região amazônica enfrenta a invisibilidade cartográfica, dificultando a rep
 
 O objetivo é reduzir a invisibilidade cartográfica e promover o desenvolvimento sustentável. Aprendendo com o bem-sucedido projeto Tefé, o engajamento comunitário e a aprendizagem entre pares são cruciais. Esta proposta visa expandir o impacto do projeto para a região mais ampla do Médio Solimões, baseando-se em estratégias comprovadas para uma abordagem mais abrangente.
 
-![Imágenes blog (4).jpg](/uploads/Ima%CC%81genes%20blog%20(4).jpg)
+![Imágenes blog (4).jpg](https://cdn.hotosm.org/website/Ima%CC%81genes+blog+(4).jpg)
 
 ## **ABORDAGEM**
 Este projeto enfatiza fortemente o mapeamento colaborativo como meio de superar desafios. A plataforma OSM assume um papel central, atuando como uma ferramenta crucial que facilita a cooperação para preencher lacunas cartográficas. As lições aprendidas com o projeto Tefé destacam a eficácia dessas colaborações e demonstram o potencial de capacitar as comunidades locais.
@@ -47,7 +47,7 @@ Reconhecendo os desafios potenciais na entrega de equipamentos, intricacias log�
 
 Expandindo a abordagem abrangente estabelecida no projeto Tefé, o Projeto de Mapeamento Colaborativo no Médio Solimões incorpora uma estratégia multifacetada que abrange seminários, oficinas, coleta de dados de campo, instalação de bases GNSS e voos de Aeronaves Pilotadas Remotamente. O objetivo principal é capturar imagens de alta resolução e reunir dados para análises geográficas, contribuindo assim para uma representação mais precisa e abrangente da região em mapas.
 
-![Imágenes blog (7).jpg](/uploads/Ima%CC%81genes%20blog%20(7).jpg)
+![Imágenes blog (7).jpg](https://cdn.hotosm.org/website/Ima%CC%81genes+blog+(7).jpg)
 
 ## **RESULTADO E IMPACTO**
 A coleta de dados aéreos tem aprimorado o monitoramento dos dados desatualizados no OpenStreetMap, especialmente na comunidade de São Luís do Macarí, que sofre frequentemente com deslizamentos de terra, causando mudanças constantes em seus mapas. O treinamento de estudantes locais facilitou o monitoramento regular da área, melhorando o acesso para órgãos públicos. Isso é crucial, pois as crianças dessa comunidade, que não possuem uma escola local, precisam percorrer mais de 2 km através da floresta durante a estação seca para chegar ao local de estudo. A comunidade sofre há muito tempo com deslizamentos de terra, tornando os dados de campo essenciais para analisar e monitorar esses eventos.

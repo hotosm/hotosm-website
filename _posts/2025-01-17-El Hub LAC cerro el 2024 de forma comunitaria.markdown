@@ -11,7 +11,7 @@ Summary Text: El Hub de Mapeo Abierto de América Latina y el Caribe concluyó s
   del 2024 con una reunión comunitaria donde voluntarios, representantes de organizaciones
   aliadas y mapeadores en general, se reunieron para celebrar el fin de año y el inicio
   del 2025 haciendo un llamado a seguir mapeando en comunidad.
-Feature Image: "/uploads/cierre%20comunidades%20Fin%20de%20Ano%202024.jpg"
+Feature Image: https://cdn.hotosm.org/website/cierre+comunidades+Fin+de+Ano+2024.jpg
 Person: Constanza Petrazzini
 ---
 
@@ -78,7 +78,7 @@ De esta forma compartimos e integramos una comunidad que desea hacer la diferenc
 
 Céline Jacquin agradeció el compromiso de la comunidad. "Les reconozco un montón que son profesionales súper valiosos e interesantes, además del esfuerzo que ponen, del corazón que le ponen. Son personas súper conocedoras, sabedoras de lo que hacen y que se enriquecen mucho gracias a que son muy diversos en sus sectores, en sus intereses y todo eso nos enriquece bastante y queremos continuar con esta comunidad."
 
-![cierre comunidades Fin de Ano 2024.jpg](/uploads/cierre%20comunidades%20Fin%20de%20Ano%202024.jpg)
+![cierre comunidades Fin de Ano 2024.jpg](https://cdn.hotosm.org/website/cierre+comunidades+Fin+de+Ano+2024.jpg)
 
 # **¡Sigamos mapeando en comunidad en el 2025!**
 

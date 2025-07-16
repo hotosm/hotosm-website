@@ -6,7 +6,7 @@ Summary Text: One extraordinary week, three transformative events! Open Americas
   taking place from December 2–6 and December 6–8. These events will bring together
   the brightest minds in open data and geospatial innovation, and we’re thrilled to
   announce that HOT will be right at the center of the action.
-Feature Image: "/uploads/HOTOSM%20FOSSFG,%20State%20of%20the%20Map%20Be%CC%81lem,%20Open%20America%20Brasilia.jpg"
+Feature Image: https://cdn.hotosm.org/website/HOTOSM+FOSSFG%2C+State+of+the+Map+Be%CC%81lem%2C+Open+America+Brasilia.jpg
 Person:
 - Petya Kangalova
 - Mariana Marín
@@ -20,7 +20,7 @@ Country:
 
 This December, Brazil takes center stage as the global geospatial and open data communities converge for an unprecedented week of events. From December 2–8, three major conferences will transform Brazil into a hub of innovation and collaboration: Open America in Brasília, FOSS4G Belém 2024, and State of the Map LATAM 2024 in Belém, Pará.
 
-![HOTOSM FOSSFG, State of the Map Bélem, Open America Brasilia-fdcea1.gif](/uploads/HOTOSM%20FOSSFG,%20State%20of%20the%20Map%20Be%CC%81lem,%20Open%20America%20Brasilia-fdcea1.gif)
+![HOTOSM FOSSFG, State of the Map Bélem, Open America Brasilia-fdcea1.gif](https://cdn.hotosm.org/website/HOTOSM+FOSSFG%2C+State+of+the+Map+Be%CC%81lem%2C+Open+America+Brasilia-fdcea1.gif)
 
 These events are more than just conferences; they’re a platform for groundbreaking discussions, knowledge sharing, and hands-on learning about the transformative power of open data and geospatial technologies.
 

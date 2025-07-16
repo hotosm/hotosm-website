@@ -11,7 +11,7 @@ tags:
 Summary Text: Wildfires in South America are consuming thousands of hectares of crops
   and forests in conservation areas in countries such as Bolivia, Peru, Ecuador and
   others. Let's learn about the relief efforts emerging from open mapping communities.
-Feature Image: "/uploads/iqair.jpg"
+Feature Image: https://cdn.hotosm.org/website/iqair.jpg
 ---
 
 This year's wildfire season in South America is breaking [dangerous records](https://www.reuters.com/world/americas/continent-ablaze-south-america-surpasses-record-fires-2024-09-12/) in terms of its extent and intensity. The main countries affected are [Bolivia](https://reliefweb.int/disaster/wf-2024-000134-bol), [Brazil](https://agenciabrasil.ebc.com.br/en/geral/noticia/2024-09/brazil-fires-impact-1139-mi-hectares-year), [Colombia](https://www.france24.com/en/live-news/20240922-colombia-battles-fires-as-drought-fuels-latin-american-flames), [Ecuador](https://crisis24.garda.com/alerts/2024/09/ecuador-authorities-responding-to-forest-fires-in-quito-area-as-of-late-sept-24), [Paraguay](https://en.mercopress.com/2024/09/10/virtual-schooling-adopted-in-paraguayan-areas-hit-by-wildfires), [Perú](https://www.reuters.com/world/americas/fires-burn-out-control-peru-hitting-crops-archaeological-sites-2024-09-20/) and [Venezuela](https://crisis24.garda.com/alerts/2024/09/venezuela-emergency-crews-responding-to-large-fire-in-southern-caracas-sept-6). Even countries far from the critical zone, like [Uruguay](https://www.livescience.com/planet-earth/climate-change/record-breaking-fires-engulf-south-america-bringing-black-rain-green-rivers-and-toxic-air-to-the-continent) have been impacted by smoke from the fires.
@@ -20,7 +20,7 @@ According to Jones et al. (2022), [wildfires](https://en.wikipedia.org/wiki/2024
 
 While responses to this emergency vary in each country and civil society reacts in different ways, open and participatory mapping initiatives have emerged to contribute to the fight against this situation.
 
-![mapatonymbol.jpg](/uploads/mapatonymbol.jpg)
+![mapatonymbol.jpg](https://cdn.hotosm.org/website/mapatonymbol.jpg)
 *Image from the Instagram account [youthmappersumsa.bo](https://www.instagram.com/p/C_zmLBOOQls/?img_index=1)*
 
 The YouthMappers community at the Universidad Mayor de San Andrés (UMSA-Bolivia) organized a Wildfire Mapathon on August 31. On their Instagram, they commented: “The eastern region of Bolivia, particularly San Matías and San Ramón, has been severely affected by wildfires for about a month. These fires not only impact the local population but also the flora and fauna of the Santa Cruz department, where several hotspots still persist.”
@@ -36,7 +36,7 @@ In Peru, fires have affected Amazon regions such as Tarapoto, Amazonas, and Ucay
 Taking advantage of his stay and the willingness of the Santa Clara community and local civil society organizations, they are organizing a [Burnt Land Registration workshop](https://osm.org.pe/2024/09/23/taller-registro-de-tierras-quemadas-en-incendios-forestales/), to collect drone photos (orthophotos) of the areas burned during the fires. Later, a **Wildfire Risk Management workshop** will be held, with the participation of the National Intercultural University of the Amazon, ensuring that the materials produced will also be available in some Amazonian languages like Shipibo.
 
 *What data to collect when facing a fire*
-![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](/uploads/WhatsApp%20Image%202024-09-25%20at%2011.40.24%20PM.jpeg)
+![WhatsApp Image 2024-09-25 at 11.40.24 PM.jpeg](https://cdn.hotosm.org/website/WhatsApp+Image+2024-09-25+at+11.40.24+PM.jpeg)
 *Emilio Mariscal.*
 
 Our colleague Emilio Mariscal, software developer for HOT and volunteer firefighter, says: "Open maps are essential before, during, and after wildfires. They help us in preventive work, facilitate coordinated action during the fire, and aid in post-fire evaluation. They allow us to assess risks, locate our position in relation to the fire, and plan strategies, not only to account for burned hectares and the damage suffered but also to restore forests and help affected people rebuild their lives."

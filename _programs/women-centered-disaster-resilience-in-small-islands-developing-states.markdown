@@ -3,7 +3,7 @@ title: Women-Centered Disaster Resilience in Small Islands Developing States Pro
 date: 2018-05-01 05:01:00 Z
 permalink: "/programs/women-centered-disaster-resilience-in-small-islands"
 position: 88
-Feature Image: https://www.hotosm.org/uploads/finaltalk-sids-edit.png
+Feature Image: https://cdn.hotosm.org/website/finaltalk-sids-edit.png
 Stats:
   stat1: '244'
   text1: Women trained
@@ -44,7 +44,7 @@ Duration:
   Start Date: 2024-01-01 00:00:00 Z
   End Date: 2025-12-31 00:00:00 Z
   Timeframe: 2024 - 2025 Cycle
-Feature-Image: https://www.hotosm.org/uploads/finaltalk-sids-edit.png
+Feature-Image: https://cdn.hotosm.org/website/finaltalk-sids-edit.png
 Event Promo:
   Event Name: Women-Centered Disaster Resilience in Small Islands Developing States
   Description: "<a style='color: white; font-weight: bold;'></a>"
@@ -59,7 +59,7 @@ Block 2:
   Text: Through the Missing Maps project, the HOT global community creates maps of
     high vulnerability areas where data is scarce, putting an area home to millions
     of people onto the world map in OpenStreetMap.
-  Image: https://www.hotosm.org/uploads/SIDS%20Montserrat%204.jpg
+  Image: https://cdn.hotosm.org/website/SIDS+Montserrat+4.jpg
   Figcaption: Trainees show the customized shirts designed for the project in Montserrat
   Project:
   - Women Centered Disaster Resilience in Small Island Developing States - Montserrat
@@ -194,7 +194,7 @@ Project-1:
   Header: Tools & Data
   Text: Access free, open source tools for community mapping. Export data from OpenStreetMap
     for humanitarian and development programs.
-  Image: "/uploads/LAC_OpenCitiesMX_1.jpeg"
+  Image: https://cdn.hotosm.org/website/LAC_OpenCitiesMX_1.jpeg
   Call to Action: View the tools
   URL: "/projects/dar_ramani_huria_dar_open_map"
 Project-2:
@@ -202,7 +202,7 @@ Project-2:
   Text: Learn about the community and the latest events — especially about the Open
     Summit 2023, a decentralized, year-long program of 13 global, regional, and local
     conferences.
-  Image: "/uploads/opensummit-banner-2023-2024.png"
+  Image: https://cdn.hotosm.org/website/opensummit-banner-2023-2024.png
   Call to Action: Learn more
   URL: "/projects/dar_ramani_huria_dar_open_map"
 Project-3:

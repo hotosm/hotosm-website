@@ -5,7 +5,7 @@ date: 2024-12-10 02:48:00 Z
 Summary Text: En Medellín, estudiantes de 9˚, 10˚ y 11˚ de la Institución Educativa
   Tricentenario se unieron para identificar y cartografiar los espacios que perciben
   como seguros y acogedores para expresar su identidad libremente.
-Feature Image: "/uploads/Aqui%CC%81%2003.jpg"
+Feature Image: https://cdn.hotosm.org/website/Aqui%CC%81+03.jpg
 Person: Luis Miguel Bande Jaramillo
 Country:
 - Colombia
@@ -15,13 +15,13 @@ Project:
 
 El proyecto piloto “[¡Aquí Podemos Ser!](https://escuelanacionaldelgrito.com/aqui-podemos-ser/)” fue realizado en alianza con la [Corporación Escuela Nacional del Grito](https://escuelanacionaldelgrito.com/), dentro del marco del mapeo abierto, y tiene como objetivo principal dar visibilidad a los espacios físicos y virtuales que los estudiantes consideran seguros, sin temor a juicios o discriminación.
 
-![El Grito - Open Mapping for All.jpg](/uploads/El%20Grito%20-%20Open%20Mapping%20for%20All.jpg)
+![El Grito - Open Mapping for All.jpg](https://cdn.hotosm.org/website/El+Grito+-+Open+Mapping+for+All.jpg)
 
 El propósito del proyecto es que las juventudes participantes no sólo identifiquen estos lugares, sino que también desarrollen una serie de competencias relacionadas con áreas del currículo educativo, como la investigación, el pensamiento crítico, la ciudadanía activa y el uso de herramientas tecnológicas de georreferenciación. Esta iniciativa se presenta como una oportunidad única para fortalecer la salud mental de los estudiantes, enmarcados dentro de una visión social y comunitaria que pone énfasis en el entorno y las relaciones interpersonales como elementos fundamentales para el bienestar.
 
 # **Mapeo Abierto y Salud Mental en Contextos de Conflicto**
 
-![Aquí 02.jpg](/uploads/Aqui%CC%81%2002.jpg)
+![Aquí 02.jpg](https://cdn.hotosm.org/website/Aqui%CC%81+02.jpg)
 
 En Colombia, país que ha enfrentado más de 70 años de conflicto armado, el impacto en la salud mental no solo afecta a nivel individual, sino también a nivel colectivo. La creación de espacios seguros, como los que se mapean en este proyecto, contribuye a la construcción de paz y reconciliación, al tiempo que fomenta un sentido de pertenencia y seguridad entre los jóvenes. A través del arte, la cultura y la tecnología, se promueve un diálogo sobre salud mental y se contribuye a la prevención de conductas suicidas, fortaleciendo la vida y su cuidado en contextos complejos.
 
@@ -53,4 +53,4 @@ Con esta iniciativa, la Corporación Escuela Nacional del Grito y la Institució
 
 ## Este blog fue escrito por:
 
-![Blog luis Miguel Jaramillo OM4A.jpg](/uploads/Blog%20luis%20Miguel%20Jaramillo%20OM4A.jpg)
+![Blog luis Miguel Jaramillo OM4A.jpg](https://cdn.hotosm.org/website/Blog+luis+Miguel+Jaramillo+OM4A.jpg)

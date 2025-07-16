@@ -11,7 +11,7 @@ Project Summary Text: Lagos is home to approximately 21 million people, who grap
   Data is a non-profit initiative that is partnering with HOT’s West and Northern
   Africa Hub to make Lagos’s ferry routes, docks, schedules, and fares available on
   OpenStreetMap, unlocking a cleaner, faster, and more inclusive way to get around.
-Feature Image: "/uploads/Screenshot%202025-05-14%20181319.png"
+Feature Image: https://cdn.hotosm.org/website/Screenshot+2025-05-14+181319.png
 Country:
 - Nigeria
 Impact Area:
@@ -41,7 +41,7 @@ When [Stears Open Data](https://www.stears.co/open-data/home/) produced [the fir
 
 > *Hannah Kates,  Head of Open Data at Stears.*
 
-![PXL_20250506_100059365 (1).jpg](/uploads/PXL_20250506_100059365%20(1).jpg)
+![PXL_20250506_100059365 (1).jpg](https://cdn.hotosm.org/website/PXL_20250506_100059365+(1).jpg)
 
 Since the Stears team had not made bulk data edits on OpenStreetMap before,there was a clear need for technical guidance to ensure accuracy and adherence to OSM community standards. [The West and North Africa Hub](https://www.hotosm.org/hubs/open-mapping-hub-west-and-northern-africa) facilitated access to relevant expertise by connecting the team with members of the local OpenStreetMap community in Nigeria. A specialized training session was organized covering sessions on data contribution to OSM, tagging principles, and tools for mapping and data upload. Because local technical communities are key enablers of open data collaboration, their contributions help strengthen the capacity of organizations to engage with global platforms like OSM, promote knowledge sharing, and foster more inclusive participation.
 
@@ -75,6 +75,6 @@ By the end of the session, **88 active ferry ports were added to OSM,** each wit
 
 The Stears team hopes that the project inspires more organisations to contribute their own data and knowledge to OpenStreetMap since there is a tremendous lack of public data about Africa, and OSM is a powerful platform for helping solve that problem.
 
-![PXL_20250506_155611195.jpg](/uploads/PXL_20250506_155611195.jpg)
+![PXL_20250506_155611195.jpg](https://cdn.hotosm.org/website/PXL_20250506_155611195.jpg)
 
 *This post was co-authored by Hannah Kates, the Head of Open Data at Stears. Stears Open Data is a non-profit initiative that aims to empower leaders and citizens with free access to data on Africa’s urbanisation, public goods, and governance—enabling informed decisions and collaborative growth.*

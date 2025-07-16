@@ -4,7 +4,7 @@ date: 2024-03-06 19:32:00 Z
 Project Summary Text: 'Young women from Montserrat were trained on how to use HOT
   Tasking Manager and participated in a mapathon to map critical facilities on the
   island that are vulnerable to climate change impacts. '
-Feature Image: "/uploads/SIDS-Montserrat3.jpg"
+Feature Image: https://cdn.hotosm.org/website/SIDS-Montserrat3.jpg
 Country:
 - Montserrat
 Impact Area:
@@ -33,12 +33,12 @@ The first part of the project involved recruiting young women interested in lear
 
 After the recruitment phase, a two-day event was held. Although 14 persons had originally registered,  a total of 20 persons assisted to the events. The first day focused on training the attendees, during which each created an OSM account, explored projects in the HOT Tasking Manager, and started working on tasks for this project. The second day consisted of a full-on Mapathon. After its conclusion, attendees received a certificate of participation, and a prize-giving ceremony was held.
 
-![MontserratWebTM.jpg](/uploads/MontserratWebTM.jpg)
+![MontserratWebTM.jpg](https://cdn.hotosm.org/website/MontserratWebTM.jpg)
 *Snapshot of the HOT Tasking Manager project that was created for use during the mapathon*
 
 The project organizers also requested participant feedback and created a What’s App group called “Montserrat Mappers,” where future training opportunities and online events will be shared. 
 
-![SIDS-Montserrat1.jpg](/uploads/SIDS-Montserrat1.jpg)
+![SIDS-Montserrat1.jpg](https://cdn.hotosm.org/website/SIDS-Montserrat1.jpg)
 *Mapathon attendees working on the tasks assigned by the organizers*
 
 ## Impact
@@ -68,7 +68,7 @@ This project focused on mapping critical facilities (structures) to aid in disas
 
 <p style="margin: 50px"><em>&mdash; Feedback from one of the trainees</em></p>
 
-![SIDS Montserrat 4.jpg](/uploads/SIDS%20Montserrat%204.jpg)
+![SIDS Montserrat 4.jpg](https://cdn.hotosm.org/website/SIDS+Montserrat+4.jpg)
 *Trainees show the customized shirts designed for the project*
 
 ## Learning from experience

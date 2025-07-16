@@ -8,8 +8,8 @@ Project Summary Text: The Humanitarian Mapping Course trained 42 participants fr
   Manager. Sessions included expert talks from Doctors Withous Borders (MSF), United
   Nations Office for Disaster Risk Reduction (UNDRR), and engagement in the Colombia
   2024 National Mapathon with UNGRD.
-Feature Image: "/uploads/Humanitarian%20Mapping%20Laboratory%20HOT.jpg"
-Project Logo Image: "/uploads/Humanitarian%20Mapping%20Laboratory.jpg"
+Feature Image: https://cdn.hotosm.org/website/Humanitarian+Mapping+Laboratory+HOT.jpg
+Project Logo Image: https://cdn.hotosm.org/website/Humanitarian+Mapping+Laboratory.jpg
 Country:
 - Argentina
 - Bolivia

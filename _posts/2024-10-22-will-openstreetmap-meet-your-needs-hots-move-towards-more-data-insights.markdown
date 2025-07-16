@@ -8,7 +8,7 @@ Summary Text: 'In the spirit of <a href="https://en.wikipedia.org/wiki/FAIR_data
   improved metadata of its datasets.
 
 '
-Feature Image: "/uploads/fair-fmtm-monrovia-osm-footprints.jpg.jpg"
+Feature Image: https://cdn.hotosm.org/website/fair-fmtm-monrovia-osm-footprints.jpg.jpg
 Person:
 - Jessica Pechmann
 - Claudio de los Reyes Teran
@@ -770,7 +770,7 @@ With clearer OSM data insights, humanitarians can spend more time on analyzing d
 **Sponsored by:**
 <br>
 <br>
-<img src="https://www.hotosm.org/uploads/h2h-logo-new-400x400.png" width="100" height="100">
+<img src="https://cdn.hotosm.org/website/h2h-logo-new-400x400.png" width="100" height="100">
 
 
 

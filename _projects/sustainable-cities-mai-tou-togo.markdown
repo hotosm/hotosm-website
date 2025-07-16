@@ -8,7 +8,7 @@ Project Summary Text: This project, which has received a national award, is prov
   approach. Local municipalities require well-organized and structured geospatial
   data to comprehend better and manage vital aspects of urban infrastructure, services,
   and resources.
-Feature Image: "/uploads/Togo2022LeadImageB.jpg"
+Feature Image: https://cdn.hotosm.org/website/Togo2022LeadImageB.jpg
 Country:
 - Togo
 Impact Area:
@@ -36,7 +36,7 @@ The Mia Tou Togo project tackled these challenges through sustainable solutions.
 * The project gathered structured geospatial data through fieldwork and remote mapping. This was essential for mapping urban infrastructure, identifying resources, and improving municipal services.
 * The project actively promoted using open-source tools and methodologies, such as OpenStreetMap, for urban development. It conducted awareness-raising campaigns, engaged municipal authorities, and demonstrated the practical applications of open geospatial data.
 
-![Togo2022Maps.png](/uploads/Togo2022Maps.png)
+![Togo2022Maps.png](https://cdn.hotosm.org/website/Togo2022Maps.png)
 
 ## Approach
 

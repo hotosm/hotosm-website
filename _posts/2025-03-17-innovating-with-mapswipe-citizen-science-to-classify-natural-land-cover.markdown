@@ -4,7 +4,7 @@ date: 2025-03-17 23:55:00 Z
 Summary Text: A pilot project involving CONABIO, the Mexican Climate Initiative, and
   HOT explores the use of MapSwipe to identify natural land cover, showcasing its
   potential for citizen science and participatory environmental monitoring.
-Feature Image: "/uploads/A%CC%81rea%20de%20mapa%20generado%20a%20partir%20de%20MapSwipe%20.jpg"
+Feature Image: https://cdn.hotosm.org/website/A%CC%81rea+de+mapa+generado+a+partir+de+MapSwipe+.jpg
 Person:
 - Céline Jacquin
 - Juan Melo Luna
@@ -83,7 +83,7 @@ This MapSwipe pilot seeks to overcome those limitations by developing an accessi
 
 ## **Project Innovation**
 
-![Map area generated from MapSwipe .jpg](/uploads/A%CC%81rea%20de%20mapa%20generado%20a%20partir%20de%20MapSwipe%20.jpg)
+![Map area generated from MapSwipe .jpg](https://cdn.hotosm.org/website/A%CC%81rea+de+mapa+generado+a+partir+de+MapSwipe+.jpg)
 
 As part of the pilot project developed in collaboration with a climate initiative, technical design and conceptualization were carried out with the support of the Humanitarian OpenStreetMap Team (HOT). The implementation took place in a specific region: Michoacán, located in southwestern Mexico. This territory was selected as a sampling area to carry out the identification of two types of land cover:
 
@@ -95,7 +95,7 @@ Participants were asked to use the MapSwipe tool to make a basic classification.
 
 *“This analysis is very well structured and gives us several clues for the future. The exercise helps us think about how we can socialize and involve the community and the general public in these kinds of exercises,”* said José Morales, Ecosystems and Climate Change Manager at the Mexico Climate Initiative.
 
-![MapSwipe Map Area 2.jpg](/uploads/A%CC%81rea%20de%20mapa%20generado%20a%20partir%20de%20MapSwipe%202.jpg)
+![MapSwipe Map Area 2.jpg](https://cdn.hotosm.org/website/A%CC%81rea+de+mapa+generado+a+partir+de+MapSwipe+2.jpg)
 
 ## **Results**
 
@@ -103,7 +103,7 @@ The results of the pilot project offer an encouraging outlook on the potential t
 
 *“What we’re doing with the support of CONABIO and the Mexico Climate Initiative is truly valuable, because MapSwipe had never been used for more than simply marking: ‘there’s a building here.’ And this goes beyond that,”* shares Juan Melo, Data Quality Specialist at the LAC Hub.
 
-![MapSwipe Results HOT CONABIO.jpg](/uploads/rESULTADOS%20MAPWSIPE%20HOT%20CONABIO.jpg)
+![MapSwipe Results HOT CONABIO.jpg](https://cdn.hotosm.org/website/rESULTADOS+MAPWSIPE+HOT+CONABIO.jpg)
 
 *MapSwipe results identifying land cover in Michoacán can be explored in full at this [link](https://mapswipe.org/en/projects/-OEJrs09tcmfWeGirG-Q/).*
 

@@ -11,7 +11,7 @@ Project Summary Text: The "RUWA Niger" project was initiated to map the water re
   hurdle for humanitarian and response efforts in constructing water points. With
   the data and analysis at hand, local authorities can now easily determine where,
   when, and how to build sustainable water points in the region.
-Feature Image: "/uploads/RuralNigerWaterLead.jpg"
+Feature Image: https://cdn.hotosm.org/website/RuralNigerWaterLead.jpg
 Country:
 - Niger
 Impact Area:
@@ -33,7 +33,7 @@ The Ruwa (Hausa word for water) project aimed to assess the availability of drin
 * Map the population and settlements of Fakara and N'Gonga in OpenStreetMap to support the development and humanitarian initiatives.
 * Strengthen the capacity of the national and local authorities in open data and mapping tools.
 
-![Niger2022B.jpg](/uploads/Niger2022B.jpg)
+![Niger2022B.jpg](https://cdn.hotosm.org/website/Niger2022B.jpg)
 <figcaption align = "left"><h6>Drinking water well in N’Gonga</h6></figcaption>
 
 During the initial stages of the project, several vital parties were involved in the implementation process. These parties included the Ministry of Water Resources, National WASH Consortium, Local Water Plan and Sanitation (PLEA), Municipal Development Plan (PDC), WaterAid Niger, and city mayors from Fakara and N'Gonga. They contributed to the project by reviewing documents, creating data models, verifying data accuracy to meet their specific needs, and filling in any missing information.
@@ -67,9 +67,9 @@ A total of 1647 water points, 46 locality names, 22,000 buildings, 3,000 km of p
 
 Three training sessions were conducted, one for the project’s core team and two in Niamey and the Dosso region for technical stakeholders.
 
-![Niger2022C.jpg](/uploads/Niger2022C.jpg)
+![Niger2022C.jpg](https://cdn.hotosm.org/website/Niger2022C.jpg)
 
-![Niger2022D.jpg](/uploads/Niger2022D.jpg)
+![Niger2022D.jpg](https://cdn.hotosm.org/website/Niger2022D.jpg)
 
 ## Lessons Learned and Next Steps
 

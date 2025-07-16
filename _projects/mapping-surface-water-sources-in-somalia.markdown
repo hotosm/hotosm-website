@@ -9,7 +9,7 @@ Project Summary Text: 'A Collaborative Campaign for La Niña-Driven Drought Prep
   and Early Warning in Somalia
 
 '
-Feature Image: "/uploads/image%20(2).png"
+Feature Image: https://cdn.hotosm.org/website/image+(2).png
 Country:
 - Somalia
 Impact Area:

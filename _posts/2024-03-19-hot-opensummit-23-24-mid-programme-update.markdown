@@ -7,7 +7,7 @@ Summary Text: The <a href="https://www.hotosm.org/opensummit23-24">HOT OpenSummi
   humanitarian open mapping movement. It was launched on August 31, 2023, with a <a
   href="https://www.youtube.com/watch?v=F6MsOhid9_s">virtual event</a> that built
   upon the success of the <a href="https://unsummit.hotosm.org/">HOT unSummit</a>.
-Feature Image: "/uploads/OpenSummit%20MidSummit%20Head%20Image-c0af2c.png"
+Feature Image: https://cdn.hotosm.org/website/OpenSummit+MidSummit+Head+Image-c0af2c.png
 ---
 
 The HOT OpenSummit encompasses three event categories: conferences, open mapping contributions to third-party events, and community events. The program seeks to extend open mapping's reach, promote open map data awareness, and facilitate collaboration and collective action within the open mapping community. It also aims to bring together communities, partners, collaborators, and supporters to learn, share, and connect. 
@@ -15,12 +15,12 @@ The HOT OpenSummit encompasses three event categories: conferences, open mapping
 **What we have achieved so far**
 Five months after the launch, we collaborated with and supported 11 events, which received funding of up to 62,632 USD and reached 2,688 participants. Below are some highlights from the events that have been part of the OpenSummit program.
 
-![OpenSummit Mid 2024 Stats-308405.png](/uploads/OpenSummit%20Mid%202024%20Stats-308405.png)
+![OpenSummit Mid 2024 Stats-308405.png](https://cdn.hotosm.org/website/OpenSummit+Mid+2024+Stats-308405.png)
 <figcaption align = "left"><h6>Note that these figures are from 8 out of the 11 events that have completed their reports.</h6></figcaption>
 
 The opportunity to collaborate on OpenSummit events is still available. If you are planning a conference, community event, or intervention within a third-party event to introduce open mapping discussions to new or relevant audiences, we encourage you to submit your application. We are actively seeking to confirm events for 2024. Learn more and submit your application at https://www.hotosm.org/opensummit23-24. If you are interested in becoming a sponsor for the OpenSummit program, check out the sponsorship deck and get in touch.
 
-![OpenSummit 2023 Map-871bbd.png](/uploads/OpenSummit%202023%20Map-871bbd.png)
+![OpenSummit 2023 Map-871bbd.png](https://cdn.hotosm.org/website/OpenSummit+2023+Map-871bbd.png)
 <br>
 <br>
 ## [SotM Nigeria 2023](https://2023.stateofthemapnigeria.org/)
@@ -35,7 +35,7 @@ The conference united individuals with diverse interests, from hobbyists to majo
 
 ***Victor Sunday, SotM Nigeria:** “HOT’s support in funding the travel grant participants increased the event's inclusivity and diversity. This collaboration significantly contributed to the success and impact of SoTM Nigeria 2023, ensuring a broader reach and meaningful participation from various individuals.”*
 
-![SotM Nigeria Mid Report.png](/uploads/SotM%20Nigeria%20Mid%20Report.png)
+![SotM Nigeria Mid Report.png](https://cdn.hotosm.org/website/SotM+Nigeria+Mid+Report.png)
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/199877676@N03" title=""><img src="https://live.staticflickr.com/65535/53460587258_caf88430ed_b.jpg" width="1024" height="768" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
@@ -48,7 +48,7 @@ The conference united individuals with diverse interests, from hobbyists to majo
 
 The combined FOSS4G + SOTM Oceania event brought together the open-source geospatial community in the region and served as a platform for discussing the wider project strategy, supporting tools, and sharing inspiring case studies. This regional event provided Oceania with a valuable link to global communities of developers and users, garnering support from both the OSGeo Foundation and the OpenStreetMap Foundation.
 
-![FOSS4G Mid Report.jpg](/uploads/FOSS4G%20Mid%20Report.jpg)
+![FOSS4G Mid Report.jpg](https://cdn.hotosm.org/website/FOSS4G+Mid+Report.jpg)
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720313959379" title="FOSS4G + SotM Oceania (OpenSummit 2023-24)"><img src="https://live.staticflickr.com/65535/53454088518_bbe14d0269_z.jpg" width="640" height="480" alt="FOSS4G + SotM Oceania (OpenSummit 2023-24)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
@@ -61,7 +61,7 @@ The combined FOSS4G + SOTM Oceania event brought together the open-source geospa
 
 AbreLatam/ConDatos 2023 featured active involvement from the OpenMapping Hub for Latin America and the Caribbean, integrating open mapping into the wider open data community. As a key organizing committee member, the Hub contributed substantially to shaping the event's agenda and facilitating discussions on mapping-related subjects. Read more [here](https://www.hotosm.org/updates/abrelatam-2023/).
 
-![ABRE LATAM Mid Report.jpg](/uploads/ABRE%20LATAM%20Mid%20Report.jpg)
+![ABRE LATAM Mid Report.jpg](https://cdn.hotosm.org/website/ABRE+LATAM+Mid+Report.jpg)
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720313943753" title="AbreLatam ConDatos (OpenSummit 2023-24)"><img src="https://live.staticflickr.com/31337/53452983697_6b961b78dd_z.jpg" width="640" height="480" alt="AbreLatam ConDatos (OpenSummit 2023-24)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
@@ -76,7 +76,7 @@ The OSM Kerala Annual Meet brought together OSM enthusiasts, students, academici
 
 [Photo gallery.](https://wiki.openstreetmap.org/wiki/OSM_Kerala_Community_Meetup_2023/Gallery)
 
-![OSM Kerala Mid Report.png](/uploads/OSM%20Kerala%20Mid%20Report.png)
+![OSM Kerala Mid Report.png](https://cdn.hotosm.org/website/OSM+Kerala+Mid+Report.png)
 
 <br>
 <br>
@@ -92,7 +92,7 @@ GIS DAY 2023 in Dar es Salaam was a pivotal event centered on the convergence of
 
 ***Antidius Kawamala, GIS Day Tanzania:** “The collaboration with HOT significantly enhanced our event, bringing strategic alignment, valuable expertise, and a broader network to our community.”*
 
-![GIS Day Mid Report.jpg](/uploads/GIS%20Day%20Mid%20Report.jpg)
+![GIS Day Mid Report.jpg](https://cdn.hotosm.org/website/GIS+Day+Mid+Report.jpg)
 <br>
 <br>
 ## [FOSS4G Thailand](https://2023.foss4g.in.th/) & [SotM Asia 2023](https://stateofthemap.asia/)
@@ -105,7 +105,7 @@ FOSS4G Thailand and State of The Map Asia 2023 convened OpenStreetMap contributo
 
 ***Mishari Muqbil, FOSS4G Thailand & SoTM Asia 2023:** “HOT's presence and workshops provided invaluable knowledge to the community. The funding allowed us to raise the bar of the facility of the event.”*
 
-![SotM Asia Mid Report.jpg](/uploads/SotM%20Asia%20Mid%20Report.jpg)
+![SotM Asia Mid Report.jpg](https://cdn.hotosm.org/website/SotM+Asia+Mid+Report.jpg)
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720314355880" title="State of the Map Asia and FOSS4G Thailand (OpenSummit 2023-24)"><img src="https://live.staticflickr.com/65535/53489217188_732c6ea5ce_z.jpg" width="640" height="480" alt="State of the Map Asia and FOSS4G Thailand (OpenSummit 2023-24)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <br>
@@ -135,7 +135,7 @@ The Pacific GIS & Remote Sensing Conference facilitated networking and partnersh
 
 ***Lanieta  Rokotuiwakaya, Pacific GIS & Remote Sensing  Council:** “The sponsorship from HOT financed the 2023 PGRSC conference and networking social events. It boosted our events, especially financing the conference food and beverages throughout the week.”*
 
-![Pacific GIS Mid Report.jpg](/uploads/Pacific%20GIS%20Mid%20Report.jpg)
+![Pacific GIS Mid Report.jpg](https://cdn.hotosm.org/website/Pacific+GIS+Mid+Report.jpg)
 <br>
 <br>
 ## [FOSS4G Asia](https://foss4g.asia/2023/) 
@@ -148,7 +148,7 @@ The FOSS4G-Asia 2023 Conference provided a comprehensive platform for individual
 
 [Photo gallery.](https://www.facebook.com/share/v/u16nmtsYscBiqxye/?mibextid=w8EBqM)
 
-![FOSS4G Asia Mid Report.jpg](/uploads/FOSS4G%20Asia%20Mid%20Report.jpg)
+![FOSS4G Asia Mid Report.jpg](https://cdn.hotosm.org/website/FOSS4G+Asia+Mid+Report.jpg)
 *Sanghee Shin, FOSS4G Asia: “The HOT representative helped us organize the OSGeo-OSM Mapping party and HOT’s contribution helped a lot to prepare for the event.“*
 
 <br>
@@ -163,7 +163,7 @@ State of the Map Africa 2023 (SotM Africa) was a vibrant celebration of the cult
 
 [Photo gallery.](https://photos.app.goo.gl/5ySuNsSBrxNzBfXi6)
 
-![SotM Africa Mid Report.jpg](/uploads/SotM%20Africa%20Mid%20Report.jpg)
+![SotM Africa Mid Report.jpg](https://cdn.hotosm.org/website/SotM+Africa+Mid+Report.jpg)
 <br>
 <br>
 ## [SotM Ethiopia](https://wiki.openstreetmap.org/wiki/State_of_the_Map_Ethiopia_2023) 
@@ -174,6 +174,6 @@ State of the Map Africa 2023 (SotM Africa) was a vibrant celebration of the cult
 
 The State of The Map Ethiopia conference brought together mapping enthusiasts, professionals, and stakeholders from across Ethiopia, serving as a platform for exchanging knowledge, experiences, and best practices in mapping and Free and Open Source Software (FOSS). The event showcased various sessions, including keynote speeches, panel discussions, workshops, and networking events, fostering collaboration, innovation, and social impact. These sessions provided valuable insights, covering a wide range of topics related to mapping, such as community mapping, data visualization, disaster response, and sustainable development. Furthermore, the conference offered opportunities to showcase mapping projects, tools, and technologies, promoting engagement among fellow mappers and stakeholders.
 
-![SotM Ethiopia Mid Report.jpg](/uploads/SotM%20Ethiopia%20Mid%20Report.jpg)
+![SotM Ethiopia Mid Report.jpg](https://cdn.hotosm.org/website/SotM+Ethiopia+Mid+Report.jpg)
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720315105551" title="State of the Map Ethiopia (OpenSummit 2023-24)"><img src="https://live.staticflickr.com/65535/53556454549_6662c7f4b0_z.jpg" width="640" height="480" alt="State of the Map Ethiopia (OpenSummit 2023-24)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

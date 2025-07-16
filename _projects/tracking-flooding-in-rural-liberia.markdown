@@ -6,7 +6,7 @@ Project Summary Text: |
   <br>
   <br>
   HOT's regional hub partnered with the government, local communities, and disaster resilience actors to generate vital, insightful datasets to support decision-making and derive mitigation programs. The project’s outputs empower response actors and local communities to develop resilience initiatives to reduce the devastating impact of flooding and sea-level rise over the past three decades. This is the first time such tools have been available to national emergency actors in Liberia.
-Feature Image: "/uploads/Liberia2022LeadB.jpg"
+Feature Image: https://cdn.hotosm.org/website/Liberia2022LeadB.jpg
 Country:
 - Liberia
 Impact Area:
@@ -112,12 +112,12 @@ This approach is vital for every project. When the project is based on community
 
 [Closeout Presentation](https://docs.google.com/presentation/d/1kFVlo_vz2tSpaUjwQbv1hiYphhOvZ3garnqRGd93W7Q/edit?usp=sharing)
 
-![Liberia2022Maps.png](/uploads/Liberia2022Maps.png)
+![Liberia2022Maps.png](https://cdn.hotosm.org/website/Liberia2022Maps.png)
 
-![Liberia2022BMaps.png](/uploads/Liberia2022BMaps.png)
+![Liberia2022BMaps.png](https://cdn.hotosm.org/website/Liberia2022BMaps.png)
 
-![Liberia2022A.jpg](/uploads/Liberia2022A.jpg)
+![Liberia2022A.jpg](https://cdn.hotosm.org/website/Liberia2022A.jpg)
 
-![Liberia2022B.jpg](/uploads/Liberia2022B.jpg)
+![Liberia2022B.jpg](https://cdn.hotosm.org/website/Liberia2022B.jpg)
 
 

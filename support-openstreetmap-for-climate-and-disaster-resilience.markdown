@@ -14,7 +14,7 @@ Page Link:
     <br>
     Learn more about our work and how OpenStreetMap data equips communities and policy-makers to better address climate and disaster risk.
   Link: https://www.hotosm.org/impact-areas/disaster-risk-reduction/
-Feature Image: "/uploads/52305985528_8196fa909e_h.jpg"
+Feature Image: https://cdn.hotosm.org/website/52305985528_8196fa909e_h.jpg
 Is Image Top Aligned?: 
 Intro Text: All disasters begin and end locally. HOT’s vision is to strengthen local
   resilience and preparedness.

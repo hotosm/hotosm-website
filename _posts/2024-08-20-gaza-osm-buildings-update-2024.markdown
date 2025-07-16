@@ -11,7 +11,7 @@ Summary Text: 'As damage reaches record levels in the Gaza Strip, expert volunte
   (AI/ML) in the sector.
 
 '
-Feature Image: "/uploads/GazaCity.jpg"
+Feature Image: https://cdn.hotosm.org/website/GazaCity.jpg
 Person: Jessica Pechmann
 Country:
 - Palestinian Territory
@@ -67,7 +67,7 @@ margin: 20px 0;
 <br>
 
 <div class="image-container">
-    <img src="/uploads/Example%20of%20increased%20data%20quality%20in%20OpenStreetMap%20building%20footprints%20in%20Gaza%20B.png" alt="Example of increased data quality in OpenStreetMap building footprints in Gaza B">
+    <img src="https://cdn.hotosm.org/website/Example+of+increased+data+quality+in+OpenStreetMap+building+footprints+in+Gaza+B.png" alt="Example of increased data quality in OpenStreetMap building footprints in Gaza B">
 </div>
 <p>The updated data is live in OpenStreetMap and available via <a href="https://data.humdata.org/dataset/hotosm_pse_buildings?">HDX</a> or <a href="https://export.hotosm.org/v3/">HOT’s Export Tool</a>.</p>
 
@@ -84,7 +84,7 @@ margin: 20px 0;
 <p>If spatial coverage is relatively similar between OSM and ML datasets, automated datasets created by ML image detection work well for many use cases. For other use cases, the precision and verification of a human-checked dataset, such as OSM, is a better fit for the data requirements. For example, during our work in Gaza, we identified issues with ML building datasets that were avoided by working with experienced human volunteers (see image below comparing OSM to <a href="https://planetarycomputer.microsoft.com/dataset/ms-buildings">Microsoft’s ML building datasets</a>). However, it’s important to highlight that ML building datasets differ so might not have the same issues.
 
     <div class="image-container">
-        <img src="/uploads/Examples%20of%20OSM%20vs%20AI%20in%20Gaza%20August%202024-a8e5cb.png" alt="Examples of OSM vs AI in Gaza August 2024">
+        <img src="https://cdn.hotosm.org/website/Examples+of+OSM+vs+AI+in+Gaza+August+2024-a8e5cb.png" alt="Examples of OSM vs AI in Gaza August 2024">
     </div>
     
     <h2>What’s next?</h2>
@@ -100,7 +100,7 @@ margin: 20px 0;
     <p>For information on recent damage in Gaza  or Sudan, visit <a href="https://experience.arcgis.com/experience/ea5c453e92724c6ba0a7b8a4037129be/page/UNOSAT/?org=unosat&views=Share">UNOSAT’s Gaza Interactive Data Platform</a> and <a href="https://unosat.org/products/?date_from=2024-02-28&date_to=2024-08-28&region=&activation_type=&title=&is_charter=null">UNOSAT Analyses</a>, or the <a href="https://www.conflict-damage.org/">Decentralized Damage Mapping Group</a>.</p>
     
     <div class="image-container2">
-        <img src="/uploads/Gaza-Update-Announcement-Aug-2024.png" alt="Gaza Update Announcement Aug 2024">
+        <img src="https://cdn.hotosm.org/website/Gaza-Update-Announcement-Aug-2024.png" alt="Gaza Update Announcement Aug 2024">
     </div>
     
     <p><a href="https://drive.google.com/file/d/1jVjJjji1NhLPCfk7LAf1fXXp6k4YGU0C/view?usp=sharingusp=sharing">Pdf version with the summary of Gaza Update 2024</a></p>

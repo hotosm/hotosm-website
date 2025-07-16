@@ -1,7 +1,7 @@
 ---
 title: Krishtina Adhikari
 date: 2025-06-23 12:25:00 Z
-Photo: "/uploads/Kristh.jpg"
+Photo: https://cdn.hotosm.org/website/Kristh.jpg
 Member Type:
   Is Staff: true
 Job Title: Senior Associate, Finance

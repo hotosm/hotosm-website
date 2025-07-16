@@ -6,7 +6,7 @@ Summary Text: Estudiantes y docentes de la secundaria del CPEM-13 en San Martín
   los Andes, Argentina, emplean herramientas de mapeo abierto para abordar problemas
   viales mediante el programa Open Mapping for All, facilitando la identificación
   de problemas y la búsqueda de soluciones.
-Feature Image: "/uploads/Imagen%2001%20Bache.jpg"
+Feature Image: https://cdn.hotosm.org/website/Imagen+01+Bache.jpg
 Person: Luis Miguel Bande Jaramillo
 Country:
 - Argentina
@@ -16,7 +16,7 @@ Project:
 
 En la localidad de San Martín de los Andes, Argentina, todo el casco céntrico y las calles aledañas del centro de la ciudad se encuentran afectadas por una problemática vial preocupante: la existencia de innumerables baches en sus carreteras. A pesar de que es una problemática de conocimiento público, y de que existen un par de fotos aisladas, publicadas en algunas redes sociales por los residentes, no hay informes y registros que den cuenta de tal situación, lo cual convierte a este proyecto en una experiencia innovadora y funcional.
 
-![Imagen 02 Bache.jpg](/uploads/Imagen%2002%20Bache.jpg)
+![Imagen 02 Bache.jpg](https://cdn.hotosm.org/website/Imagen+02+Bache.jpg)
 
 Nuestra historia se desarrolla en esta población. Allí, las fallas en la vialidad pública han despertado la preocupación de una docente y los estudiantes del curso de Medios de Comunicación en el CPEM-13, quienes han aprendido a integrar herramientas de mapeo abierto en la educación, a través de nuestro programa [Open Mapping for All (OM4A)](https://www.hotosm.org/projects/open-mapping-for-all/). Dentro de la asignatura, la profesora y periodista Melisa Sansotta, junto con sus estudiantes, apuestan por el mapeo con impacto social para documentar, a través de capacitaciones personalizadas y el uso de herramientas descargadas en sus equipos móviles, la necesidad de hacer visible una problemática presente en el entorno que habitan.
 
@@ -28,7 +28,7 @@ Entonces, el proyecto surgió como la puesta en práctica de un ejercicio consci
 
 Melisa señala que en esta fase del proyecto en la cual se encuentran, los estudiantes de 5to C tienen la oportunidad de demostrar que están movilizados para lograr un objetivo y un bien común, haciendo algo verdaderamente significativo para la ciudad.
 
-![Imagen 03 Bache.jpg](/uploads/Imagen%2003%20Bache.jpg)
+![Imagen 03 Bache.jpg](https://cdn.hotosm.org/website/Imagen+03+Bache.jpg)
 
 ## Visibilizando problemas a través del mapeo abierto
 
@@ -68,4 +68,4 @@ Esperemos a ver cómo se termina de desarrollar esta loable iniciativa con la cu
 
 [Tomar cartas en el asunto: estudiantes preocupados mapean baches para prevenir accidentes](https://realidadsm.com/2024/08/03/tomar-cartas-en-el-asunto-estudiantes-preocupados-mapean-baches-para-prevenir-accidentes/?sfnsn=scwspwa)
 
-![Blog luis Miguel Jaramillo OM4A.jpg](/uploads/Blog%20luis%20Miguel%20Jaramillo%20OM4A.jpg)
+![Blog luis Miguel Jaramillo OM4A.jpg](https://cdn.hotosm.org/website/Blog+luis+Miguel+Jaramillo+OM4A.jpg)

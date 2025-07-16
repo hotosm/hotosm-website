@@ -6,7 +6,7 @@ Summary Text: Drone Tasking Manager (DroneTM) es un bien digital público que pe
   a las comunidades generar imágenes aéreas de alta calidad y resolución utilizando
   drones de bajo costo. Descubre su potencial para el mapeo comunitario y su aplicación
   en la protección de manglares en La Paz, Baja California Sur, México.
-Feature Image: "/uploads/Vuelos%20Drone%20TM.png"
+Feature Image: https://cdn.hotosm.org/website/Vuelos+Drone+TM.png
 Person:
 - Céline Jacquin
 - Ivan Buendía Gayton
@@ -29,7 +29,7 @@ Para cambiar esto, se ha desarrollado Drone Tasking Manager (DroneTM) como una p
 
 Ivan Gayton, Gerente de Innovación de Producto y Asesor Humanitario en HOT, destaca este cambio en accesibilidad señalando que: *“Antes, las imágenes aéreas solo podían ser recolectadas por grandes organizaciones; hoy, las comunidades pueden generar sus propios datos aéreos con drones accesibles, económicos, seguros, livianos (por lo tanto, con menor regulación)”.*
 
-![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM.jpg)
+![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+usando+Drones+de+bajo+costo+y+DroneTM.jpg)
 *Imagen: De izquierda a derecha — BCSicletos presentando el dron que apoyará a las Guardianas del Conchalito, la persona coordinadora del taller demostrando el dron DJI Mini 2 y, finalmente, la gerente senior del LAC Hub operando el dron. Créditos: RollitoDeGuayaba / Wikimedia Commons, CC BY 4.0*
 
 ## ¿Qué es DroneTM y cómo funciona?
@@ -52,7 +52,7 @@ Junto con nuestro socio [NAXA](https://naxa.com.np/), el Equipo Humanitario de O
 
 Adriana, integrante de Las Guardianas del Conchalito, describe el alcance de su trabajo: *“En aproximadamente 14 hectáreas de manglar, realizamos vigilancia, monitoreo, recolección de conchas... canales hidrológicos, tenemos un vivero, colaboramos con BCSicletos, CONANP, Costa Salvaje.”*
 
-![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 4.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM%204.jpg)
+![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 4.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+usando+Drones+de+bajo+costo+y+DroneTM+4.jpg)
 *Imagen: De izquierda a derecha — Guardianas del Conchalito aprendiendo a volar un dron, la persona coordinadora revisando una ortofoto y, finalmente, las Guardianas realizando actividades de monitoreo en el manglar El Mogote. Créditos: RollitoDeGuayaba / Wikimedia Commons, CC BY 4.0.*
 
 En febrero de 2025, HOT implementó un proyecto piloto con DroneTM en La Paz, Baja California Sur, en colaboración con las organizaciones locales [BCSicletos](https://es.wikipedia.org/wiki/BCSicletos) y [Las Guardianas del Conchalito](https://es.wikipedia.org/wiki/Las_Guardianas_del_Conchalito), para monitorear y conservar los manglares de la región. Estos ecosistemas son cruciales para la biodiversidad y la protección costera, así como para la autosuficiencia de las comunidades locales, ya que albergan numerosas especies pesqueras. Sin embargo, también enfrentan amenazas crecientes como la urbanización descontrolada y la contaminación.
@@ -75,7 +75,7 @@ El diseño de código abierto de ODM garantiza que las comunidades posean y proc
 
 *“Demasiado a menudo, la democratización tecnológica es solo un efecto temporal financiado por capital de riesgo — disponible a bajo o ningún costo hasta capturar el mercado. Con OpenDroneMap, las herramientas y el conocimiento son libres y están hechos para durar, permitiendo una participación genuina y apoyo mutuo en el mapeo comunitario”.*
 
-![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 2.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM%202.jpg)
+![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 2.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+usando+Drones+de+bajo+costo+y+DroneTM+2.jpg)
 *Imagen: Captura de pantalla del sitio web de DroneTM, una plataforma utilizada para el mapeo participativo con drones y su visualización.*
 
 A medida que este modelo crece, Stephen cree que el próximo reto es escalar a través de redes comunitarias, asegurando que la capacitación y adopción puedan expandirse lateralmente entre regiones.

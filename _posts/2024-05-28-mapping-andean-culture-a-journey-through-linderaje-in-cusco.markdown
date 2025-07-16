@@ -5,7 +5,7 @@ Summary Text: Teachers at GAL School in Cusco, Peru use open mapping tools to do
   and preserve traditions such as linderaje, merging technology with ancestral practices.
   Through the Open Mapping for All program, teachers and students employ empowerment
   and participation technologies, thereby strengthening education and community identity.
-Feature Image: "/uploads/Linderaje%20Cusco%20GAL%20School%20Blog%20English.jpg"
+Feature Image: https://cdn.hotosm.org/website/Linderaje+Cusco+GAL+School+Blog+English.jpg
 Person: Mariana Marín
 Country:
 - Peru
@@ -23,7 +23,7 @@ Through their curriculum, teachers like Gilmar Vergara, a science and technology
 
 # Integrating Open Mapping into Andean Culture
 
-![Linderaje 5.jpg](/uploads/Linderaje%205.jpg)
+![Linderaje 5.jpg](https://cdn.hotosm.org/website/Linderaje+5.jpg)
 
 Through mapping, we delve into the fascinating world of linderaje, a tradition where two communities meet at a sort of border and celebrate together the establishment of their respective territorial limits. What’s interesting about this practice is that it goes beyond marking territories; it involves a process where communities incorporate dances and shared meals, strengthening social and cultural ties.
 
@@ -33,7 +33,7 @@ Teachers share that the school employs an active teaching methodology that promo
 
 # Experiencing Linderaje in Chinchero, Cusco
 
-![Linderaje 1.jpg](/uploads/Linderaje%201.jpg)
+![Linderaje 1.jpg](https://cdn.hotosm.org/website/Linderaje+1.jpg)
 
 From the Cusco perspective, Gilmar Vergara, a Science and Technology teacher, highlights linderaje as a deeply rooted and authentic tradition in Andean culture. It arises with the purpose of establishing territorial boundaries in an environment of peace and harmony, becoming an opportunity during carnival festivities; which stands out as a manifestation of cultural and social identity in rural communities of Peru.
 
@@ -43,7 +43,7 @@ In the Chincheros linderaje, 18 students participated. They arrived a day earlie
 
 On the day of the linderaje, despite expecting a light walk through the lower area of Chincheros, the route was more demanding, including ascents and descents through hills, which was a challenge for all participants, especially for students around fifteen years old.
 
-![Linderaje Cusco - GAL School.jpg](/uploads/Linderaje%20Cusco%20-%20GAL%20School.jpg)
+![Linderaje Cusco - GAL School.jpg](https://cdn.hotosm.org/website/Linderaje+Cusco+-+GAL+School.jpg)
 
 Paola explains that the tradition requires that before starting the linderaje, participants visit the homes of important community leaders to receive blessings, food, and drink, a gesture of hospitality and respect. This ritual is repeated in several houses before converging at a central point where the tradition officially begins. During the journey, strategic stops are made to pray and place flags marking the progress.
 
@@ -75,7 +75,7 @@ Paola concludes that the greatest impact of open mapping applications is their a
 
 # Reflections on Learning for Students
 
-![4.jpg](/uploads/4.jpg)
+![4.jpg](https://cdn.hotosm.org/website/4.jpg)
 
 Mery highlights that after the experience, students better understand how the competencies of the Andean Culture and Quechua course focus on valuing culture and oral expression. They observed how a culture rooted in oral tradition is effectively organized, dispensing with the written documentation required by Peruvian laws and constitution. It is about recognizing and transmitting the word communally. Additionally, students faced the challenge of applying their Quechua knowledge when interacting with native speakers, thus strengthening their oral competence in the language.
 

@@ -31,9 +31,9 @@ OSM data provides context for where major roads and populated areas are, as well
 **Download OSM Roads for [Turkey](https://data.humdata.org/dataset/hotosm_tur_roads) and [Syria](https://data.humdata.org/dataset/hotosm_syr_roads).**
 
 Examples of this data in maps, analysis, and planning:
-* [Northwest Syria - Earthquake Exposed Communities & CCM Sites](https://www.impact-initiatives.org/wp-content/uploads/2023/02/REACH_SYR_Northwest_Syria_Earthquake_Exposed_Communities_Population_CCCM_09Feb2023.png) & [Item Unavailability](https://www.impact-initiatives.org/what-we-do/news/turkiye-and-syria-emergency-response-activated-following-two-powerful-earthquakes/) (REACH Initiative)
+* [Northwest Syria - Earthquake Exposed Communities & CCM Sites](https://www.impact-initiatives.org/wp-contenthttps://cdn.hotosm.org/website/2023/02/REACH_SYR_Northwest_Syria_Earthquake_Exposed_Communities_Population_CCCM_09Feb2023.png) & [Item Unavailability](https://www.impact-initiatives.org/what-we-do/news/turkiye-and-syria-emergency-response-activated-following-two-powerful-earthquakes/) (REACH Initiative)
 * [General Logistics Planning Map](https://reliefweb.int/map/syrian-arab-republic/syrian-arab-republic-turkiye-general-logistics-planning-map-07-february-2023) (Logistics Cluster)
-* [Context Update Syria: Earthquake Edition](https://immap.org/wp-content/uploads/2016/12/iMMAP_February-Context-Update_Syria_Earthquake-Edition.pdf) (iMMAP & USAID)
+* [Context Update Syria: Earthquake Edition](https://immap.org/wp-contenthttps://cdn.hotosm.org/website/2016/12/iMMAP_February-Context-Update_Syria_Earthquake-Edition.pdf) (iMMAP & USAID)
 
 ![TSEQ_Data_Use_2.png](https://cdn.hotosm.org/website/TSEQ_Data_Use_2.png)
 

@@ -1,7 +1,7 @@
 ---
 title: Humanitarian OpenStreetMap Team joins the H2H Anticipatory Action Accelerator
 date: 2024-08-06 23:33:00 Z
-Feature Image: "/uploads/H2H_AA_accelerator_crop.jpg"
+Feature Image: https://cdn.hotosm.org/website/H2H_AA_accelerator_crop.jpg
 Person: Jessica Pechmann
 ---
 
@@ -12,7 +12,7 @@ https://h2hnetwork.org/enhancing-h2h-action-for-anticipatory-response/
 2. Roads -  used to plan access to affected populations and communities
 
 **HOT OSM DATASETS IN HDX, 2019-2024**
-![HDX_Downloads.png](/uploads/HDX_Downloads.png)
+![HDX_Downloads.png](https://cdn.hotosm.org/website/HDX_Downloads.png)
 
 When responding to any humanitarian crisis or disaster, time matters. Users looking to OSM as a data source when responding to a disaster do not have time to thoroughly check if it's fit enough for purpose, let alone improve the data in a moment of crisis. To address both challenges, this project will improve: 
 - **Dataset user insights**: create an easy methodology to help users assess the usability of datasets on populated places and roads for humanitarian needs.
@@ -31,4 +31,4 @@ What are we missing? Please take a few minutes to fill out this [survey](
 https://forms.gle/X32fgneAgFkrWFLi6
 ), or get in touch directly with Jessie Pechmann, HOT’s Global GIS Manager, at [jessie.pechmann@hotosm.org](mailto:jessie.pechmann@hotosm.org) to send feedback or stay involved.  
 
-![OSMRoadCompletness2024.png](/uploads/OSMRoadCompletness2024.png)
+![OSMRoadCompletness2024.png](https://cdn.hotosm.org/website/OSMRoadCompletness2024.png)

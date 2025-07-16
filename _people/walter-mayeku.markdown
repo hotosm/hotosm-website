@@ -1,7 +1,7 @@
 ---
 title: Walter Mayeku
 date: 2025-02-28 19:59:00 Z
-Photo: "/uploads/308-1-2.jpg"
+Photo: https://cdn.hotosm.org/website/308-1-2.jpg
 Member Type:
   Is Staff: true
   Is Voting Member: true

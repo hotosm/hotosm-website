@@ -8,7 +8,7 @@ Summary Text: Educators and librarians from Tec de Monterrey were trained in ope
   platforms such as OpenStreetMap, Mapillary, and uMap. The workshop strengthened
   their role as agents of change, promoting collaborative mapping as a tool for territorial
   action and social justice.
-Feature Image: "/uploads/Cultivating%20Open%20Knowledge-%20Collaborative%20Mapping%20Workshop%20for%20Tec%20de%20Monterrey%20Teachers%20and%20Librarians.jpg"
+Feature Image: https://cdn.hotosm.org/website/Cultivating+Open+Knowledge-+Collaborative+Mapping+Workshop+for+Tec+de+Monterrey+Teachers+and+Librarians.jpg
 Person: Mariana Marín
 Country:
 - Mexico
@@ -34,13 +34,13 @@ The course was structured into three intensive days with both theoretical and pr
 
 Teachers explored the concept of citizen science and how maps have evolved into key tools for decision-making in humanitarian crises and development projects. OpenStreetMap (OSM) and HOT were introduced, with success stories in human rights and social action. A hands-on workshop on the iD editor allowed participants to map basic elements in OSM.
 
-![CADi Open Mapping Tec Querétaro 2.jpg](/uploads/CADi%20de%20Mapeo%20Abierto%20a%20Docentes%20del%20Tec%20de%20Monterrey,%20Campus%20Quere%CC%81taro%202.jpg)
+![CADi Open Mapping Tec Querétaro 2.jpg](https://cdn.hotosm.org/website/CADi+de+Mapeo+Abierto+a+Docentes+del+Tec+de+Monterrey%2C+Campus+Quere%CC%81taro+2.jpg)
 
 ### **Day 2: Advanced Tools and Mapping Project Management**
 
 The second day focused on geospatial data quality, the use of Tasking Manager to coordinate collaborative mapping projects, and the introduction of tools like MapRoulette for correcting data in OSM. Participants learned how to download and apply OSM data in educational projects and explored apps like Kobo Toolbox, Mapillary, and Organic Maps.
 
-![CADi Open Mapping Tec Querétaro.jpg](/uploads/CADi%20de%20Mapeo%20Abierto%20a%20Docentes%20del%20Tec%20de%20Monterrey,%20Campus%20Quere%CC%81taro.jpg)
+![CADi Open Mapping Tec Querétaro.jpg](https://cdn.hotosm.org/website/CADi+de+Mapeo+Abierto+a+Docentes+del+Tec+de+Monterrey%2C+Campus+Quere%CC%81taro.jpg)
 
 ### **Day 3: Practical Application and Community Mapping**
 
@@ -52,7 +52,7 @@ Strategies for mapping knowledge sustainability were also discussed, such as tra
 
 Finally, teachers participated in a co-creation exercise where they designed social impact projects based on open mapping. The resulting ideas are shared below.
 
-![CADi Open Mapping Tec Querétaro 3.jpg](/uploads/CADi%20de%20Mapeo%20Abierto%20a%20Docentes%20del%20Tec%20de%20Monterrey,%20Campus%20Quere%CC%81taro%203.jpg)
+![CADi Open Mapping Tec Querétaro 3.jpg](https://cdn.hotosm.org/website/CADi+de+Mapeo+Abierto+a+Docentes+del+Tec+de+Monterrey%2C+Campus+Quere%CC%81taro+3.jpg)
 
 ## **Ideas That Transform: Mapping Projects Born from the Workshop**
 
@@ -66,7 +66,7 @@ The proposed methodology involves open mapping techniques such as urban walks, i
 
 The expected outcome is the creation of a permanent atlas of the area, visualizing social, economic, and environmental data. The project also seeks to promote community participation in shaping their surroundings.
 
-![Open Mapping Workshop for Educators.jpg](/uploads/Taller%20Docentes%20Mapeo%20Abierto.jpg)
+![Open Mapping Workshop for Educators.jpg](https://cdn.hotosm.org/website/Taller+Docentes+Mapeo+Abierto.jpg)
 
 ### **Mapping Circular and Solidarity Economies in Querétaro**
 
@@ -76,7 +76,7 @@ The proposed methodology includes collecting data on businesses engaged in buyin
 
 This project seeks to strengthen community networks and facilitate public access to these spaces. The collected data is expected to support municipal-level strategies for circular economy development.
 
-![Open Mapping Workshop Tec de Monterrey Querétaro Economies.jpg](/uploads/Taller%20Docentes%20Mapeo%20Abierto%20Tec%20de%20Monterrey%20Quere%CC%81taro%20Economi%CC%81as.jpg)
+![Open Mapping Workshop Tec de Monterrey Querétaro Economies.jpg](https://cdn.hotosm.org/website/Taller+Docentes+Mapeo+Abierto+Tec+de+Monterrey+Quere%CC%81taro+Economi%CC%81as.jpg)
 
 ### **Mapping Cultural Expressions in Diverse Urban Contexts**
 
@@ -86,7 +86,7 @@ The project includes planning strategic routes to collect data via Mapillary and
 
 The expected impact is the creation of a georeferenced visual archive of urban cultural expressions, providing material for future research and heritage conservation strategies.
 
-![Open Mapping Workshop Tec de Monterrey Querétaro.jpg](/uploads/Taller%20Docentes%20Mapeo%20Abierto%20Tec%20de%20Monterrey%20Quere%CC%81taro.jpg)
+![Open Mapping Workshop Tec de Monterrey Querétaro.jpg](https://cdn.hotosm.org/website/Taller+Docentes+Mapeo+Abierto+Tec+de+Monterrey+Quere%CC%81taro.jpg)
 
 ### **Mapping Digital Learning Gaps in Underserved Communities**
 
@@ -98,7 +98,7 @@ The mapping results will help develop strategies for improving digital infrastru
 
 ## **Key Learnings**
 
-![Open Mapping Workshop Tec de Monterrey Querétaro 2.jpg](/uploads/Taller%20Docentes%20Mapeo%20Abierto%20Tec%20de%20Monterrey%20Quere%CC%81taro%202.jpg)
+![Open Mapping Workshop Tec de Monterrey Querétaro 2.jpg](https://cdn.hotosm.org/website/Taller+Docentes+Mapeo+Abierto+Tec+de+Monterrey+Quere%CC%81taro+2.jpg)
 
 The workshop allowed faculty not only to acquire technical skills in open mapping but also to envision the transformative impact these tools can have in education and social change. From the classroom, educators emerge as key agents in expanding the culture of open mapping, promoting it as a tool for community empowerment and engagement.
 

@@ -38,7 +38,7 @@ An additional aim of the project was to expand the use of open-mapping (ground a
 
 **The [OpenCities Jamaica](https://wiki.openstreetmap.org/wiki/OpenCities_Jamaica) project focused on the use of geospatial data  and analysis** to investigate impact of solid waste accumulation in Kingston’s gullies and surrounding communities, particularly in relation to existing drainage infrastructure and urban flooding issues.
 
-This post provides an overview of this initiative’s impact as extracted from the Impact Report. To learn more, please see the project [Impact Report](https://www.hotosm.orghttps://cdn.hotosm.org/website/Open+Cities_Impact+Report_Jamaica.pdf).
+This post provides an overview of this initiative’s impact as extracted from the Impact Report. To learn more, please see the project [Impact Report](https://cdn.hotosm.org/website/Open+Cities_Impact+Report_Jamaica.pdf).
 
 The project focused on how mapping can be used to help remedy the issue of solid waste disposal in the gullies of the capital city; which inevitably make it to the sea. Kingston’s Harbour is subject to a significant intake of Jamaica’s solid waste that is being improperly disposed of in the network of constructed waterways, known as gullies.
 

@@ -6,7 +6,7 @@ Summary Text: Community mapping in Araracuara strengthens the territorial manage
   of the Andoque people through the use of drones, OpenStreetMap, and GIS. The initiative
   combines ancestral knowledge and technology to document and protect their territory
   in the face of deforestation and climate change.
-Feature Image: "/uploads/Araracuara.png"
+Feature Image: https://cdn.hotosm.org/website/Araracuara.png
 Person:
 - Juan Melo Luna
 - Mariana Marín

@@ -6,7 +6,7 @@ Summary Text: Drone Tasking Manager (DroneTM) is a digital public good that enab
   communities to generate high-quality, high resolution aerial imagery using low-cost
   drones. Discover its potential for community-driven mapping and its use in protecting
   mangroves in La Paz, Baja California Sur, Mexico.
-Feature Image: "/uploads/Vuelos%20Drone%20TM.png"
+Feature Image: https://cdn.hotosm.org/website/Vuelos+Drone+TM.png
 Person:
 - Céline Jacquin
 - Ivan Buendía Gayton
@@ -30,7 +30,7 @@ To change this, Drone Tasking Manager (DroneTM) has been developed as an open-so
 
 Ivan Gayton, Product Innovation Manager and Humanitarian Advisor at HOT, emphasizes the shift in accessibility by noting that *“previously, aerial imagery was something only large organizations could collect; today, communities can generate their own aerial data with inexpensive, safe, lightweight (therefore lightly-regulated) and accessible drones.”*
 
-![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM.jpg)
+![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+usando+Drones+de+bajo+costo+y+DroneTM.jpg)
 *Image: From left to right — BSCicletos presenting the drone that will support the Guardianas del Conchalito, the workshop coordinator demonstrating the DJI Mini 2 drone, and finally, LAC Hub’s senior manager operating the drone. Credits: RollitoDeGuayaba / Wikimedia Commons, CC BY 4.0*
 
 ## What is Drone TM and How Does It Work?
@@ -53,7 +53,7 @@ Along with our partner, [NAXA](https://naxa.com.np/), the Humanitarian OpenStree
 
 Adriana, a member of Guardianas del Conchalito, describes the breadth of their work: *“In approximately 14 hectares of mangroves, we carry out surveillance, monitoring, shell collection... hydrological channels, we have a tree nursery, we collaborate with BSCicletos, CONANP, Costa Salvaje.”*
 
-![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 4.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM%204.jpg)
+![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 4.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+usando+Drones+de+bajo+costo+y+DroneTM+4.jpg)
 *Image: From left to right — Guardianas del Conchalito learning how to fly a drone, the coordinator reviewing an orthophoto, and finally, the Guardianas conducting monitoring activities in the Mogote mangrove. Credits: RollitoDeGuayaba / Wikimedia Commons, CC BY 4.0*
 
 In February 2025, HOT [implemented a DroneTM testing project in La Paz, Baja California Sur](https://www.hotosm.org/updates/strengthening-communities-in-mangrove-conservation-drone-technology-and-local-collaboration/), in collaboration with the local organizations [BCSicletos](https://bcsicletos.org/) and [Las Guardianas del Conchalito](https://www.instagram.com/guardianasdelconchalito/), to monitor and conserve the region’s mangroves. These ecosystems are crucial for biodiversity and coastal protection, as well as for locals’ self-sufficiency, as they are home to numerous animals targeted for fishing. However, they also face increasing threats such as uncontrolled urbanization and pollution.
@@ -68,7 +68,7 @@ Within this project, members of these two organizations, who are also residents 
 
 * Started creating an open imagery repository in [OpenAerialMap](https://openaerialmap.org/) and [Wikimedia Commons](https://commons.m.wikimedia.org/wiki/Category:Monitoreo_y_protecci%C3%B3n_de_manglares_de_Baja_California_Sur) to support monitoring, protection, and conservation initiatives.
 
-![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 2.jpg](/uploads/Monitoreo%20y%20Proteccio%CC%81n%20de%20Manglares%20usando%20Drones%20de%20bajo%20costo%20y%20DroneTM%202.jpg)
+![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM 2.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+usando+Drones+de+bajo+costo+y+DroneTM+2.jpg)
 *Image: Screenshot of the DroneTM website, a platform used for participatory drone mapping and visualization.*
 
 As monitoring continues, local partners can use DroneTM and its imagery to periodically record key variables like mangrove cover and extent, density and height, vegetation indices, mangrove fragmentation and connectivity, land use change, other degradation processes, mortality and regeneration cycles, etc.

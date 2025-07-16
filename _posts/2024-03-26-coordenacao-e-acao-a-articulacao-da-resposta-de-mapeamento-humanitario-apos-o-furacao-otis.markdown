@@ -8,7 +8,7 @@ Summary Text: Após o furacão Otis em outubro de 2023, o Hub LAC liderou um map
   destacando a importância da cartografia participativa e estabelecendo bases para
   futuras ações de mitigação por meio da colaboração interinstitucional na construção
   de resiliência comunitária.
-Feature Image: "/uploads/Otis%20Respuesta%20Mapeo%20Humanitario%20HOT.jpg"
+Feature Image: https://cdn.hotosm.org/website/Otis+Respuesta+Mapeo+Humanitario+HOT.jpg
 Person:
 - Céline Jacquin
 - Mariana Marín
@@ -22,7 +22,7 @@ Project:
 
 Em 25 de outubro de 2023, o furacão Otis atingiu a costa de Acapulco, Guerrero (México), com ventos sustentados de até 315 km/h, marcando um marco como o ciclone mais poderoso registrado na história da costa do Pacífico mexicano. O impacto foi devastador: linhas elétricas derrubadas, [sensores sísmicos desativados](https://twitter.com/SkyAlertMx/status/1717210542144651448?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1717210542144651448%7Ctwgr%5E9a3976be807ff85d7bfe77eb4ad6feb89b8864f9%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.xataka.com.mx%2Fecologia-y-naturaleza%2Fskyalert-sassla-pueden-alertar-sismos-origen-guerrero-porque-huracan-otis-desconecto-sensores-que-detectan-movimientos), árvores arrancadas pela raiz, inundações e deslizamentos de terra. Milhares de lares e negócios foram reduzidos a escombros, com um saldo oficial de 50 mortos e 30 desaparecidos, além de centenas de pessoas desabrigadas.¹
 
-![Otis SASMEX.png](/uploads/Otis%20SASMEX.png)
+![Otis SASMEX.png](https://cdn.hotosm.org/website/Otis+SASMEX.png)
 
 # **Fase de Ativação Inicial**
 Diante dessa situação, a comunidade internacional de mapeamento mobilizou-se rapidamente para oferecer ajuda e apoio. A partir do Hub de Mapeamento Aberto na América Latina e no Caribe (Hub LAC), uma série de ações foi implementada para coordenar a resposta e auxiliar as autoridades locais na reconstrução de Acapulco.
@@ -31,14 +31,14 @@ A primeira fase da ativação envolveu estabelecer contato com as autoridades pe
 
 Na espera da obtenção de imagens de drones sobre Acapulco, uma ativação preliminar foi iniciada para mapear as áreas circundantes na área de impacto estimada fornecida pelas análises iniciais do [Disaster Charter-Copernicus](https://disasterscharter.org/es/web/guest/activations/-/article/landslide-in-mexico-activation-847-). Isso permitiu antecipar as necessidades de reconstrução em áreas provavelmente menos atendidas e economicamente mais marginalizadas, além de acompanhar as solicitações específicas de assistência do CENAPRED em localidades específicas.
 
-![OTIS TASKING MANAGER.jpg](/uploads/OTIS%20TASKING%20MANAGER.jpg)
+![OTIS TASKING MANAGER.jpg](https://cdn.hotosm.org/website/OTIS+TASKING+MANAGER.jpg)
 
 Esta estratégia teve como objetivo otimizar os recursos de mapeamento e evitar a duplicação de esforços em áreas urbanas densamente povoadas, antes de disponibilizar uma análise mais detalhada.
 
 # **Mapeamento e Planejamento**
 Nas semanas seguintes ao desastre, foram obtidas imagens de drones sobre algumas áreas urbanas de Acapulco, fornecidas por diferentes entidades como [Help.NGO](https://www.help.ngo/) e CENAPRED. Fomos responsáveis por orientá-los a carregar essas imagens para o [OpenAerialMap](https://openaerialmap.org/) e integrá-las ao Tasking Manager, com o objetivo de mapear especificamente os edifícios destruídos. Foram criados 17 projetos para essas áreas, o que possibilitou mapear um total de 22.537 estruturas.
 
-[![OVERPASS TURBO - ACAPULCO OTIS pt.jpg](/uploads/OVERPASS%20TURBO%20-%20ACAPULCO%20OTIS%20pt.jpg)
+[![OVERPASS TURBO - ACAPULCO OTIS pt.jpg](https://cdn.hotosm.org/website/OVERPASS+TURBO+-+ACAPULCO+OTIS+pt.jpg)
 ](https://overpass-turbo.eu/s/1L9U)
 
 *Consulte o mapa de edifícios danificados na API do Overpass usando este [link](https://overpass-turbo.eu/s/1L9U).*
@@ -47,11 +47,11 @@ Esse mapeamento específico concentrou-se nas ações iniciais de recuperação,
 
 Simultaneamente, estabelecemos uma estreita colaboração com atores locais, universidades (UAM, UAEMEX, UACJ, UAGto, UAGRO e a Rede RENEG) e organizações da sociedade civil para impulsionar o mapeamento de equipamentos públicos-chave, como escolas, centros de saúde e mercados. Neste [blog da YouthMappers](https://www.youthmappers.org/post/mexican-chapters-in-response-to-hurricane-otis-in-acapulco-guerrero), destaca-se a participação fundamental da juventude nessas atividades de mapeamento.
 
-> ![Céline Jacquin Otis Brigada YouthMappers.jpg](/uploads/Ce%CC%81line%20Jacquin%20Otis%20Brigada%20YouthMappers.jpg)
+> ![Céline Jacquin Otis Brigada YouthMappers.jpg](https://cdn.hotosm.org/website/Ce%CC%81line+Jacquin+Otis+Brigada+YouthMappers.jpg)
 
 Este esforço conjunto, que envolveu a comunidade global da OSM, e a liderança proativa de 17 pessoas de cinco universidades mexicanas, nos permitiu cartografar:
 
-![Dados do Furacão Otis.jpg](/uploads/Dados%20do%20Furaca%CC%83o%20Otis.jpg)
+![Dados do Furacão Otis.jpg](https://cdn.hotosm.org/website/Dados+do+Furaca%CC%83o+Otis.jpg)
 
 Ao cruzar esses equipamentos localizados de forma precisa com as estruturas danificadas, pudemos orientar a ação de recuperação, especialmente em mercados públicos e escolas, para ações subsequentes de apoio à população.
 
@@ -67,17 +67,17 @@ Os participantes foram convidados e motivados com acompanhamento diário para ma
 
 A **Brigada de Mapeamento Humanitário**, composta por 31 especialistas em mapeamento de 14 países da América Latina e do Caribe, contribuirá para projetos específicos e durante emergências. Não apenas se concentra em tarefas de mapeamento de alta qualidade, mas também em validar e fornecer treinamento. Este time desempenhará um papel fundamental em fortalecer a capacidade local, promovendo uma cultura enraizada de mapeamento humanitário na região e estabelecendo uma base sólida para o contínuo desenvolvimento da cartografia humanitária e aberta.
 
-![Brigada de Mapeo Humanitario.jpg](/uploads/Brigada%20de%20Mapeo%20Humanitario.jpg)
+![Brigada de Mapeo Humanitario.jpg](https://cdn.hotosm.org/website/Brigada+de+Mapeo+Humanitario.jpg)
 
 Por outro lado, o **Laboratório de Mapeamento Humanitário** é um espaço que promove a colaboração entre pessoas de diversas disciplinas e níveis básicos de experiência em mapeamento. Este laboratório incentiva a participação e o aprendizado no Hub de Mapeamento Aberto de forma voluntária, com o objetivo de consolidar uma comunidade para futuras respostas digitais a emergências. Nesse sentido, fazemos um apelo às instituições universitárias para se unirem à formalização do Laboratório, promovendo a colaboração entre departamentos e níveis de experiência.
 
-![Logo Brigada y Laboratorio.jpg](/uploads/Logo%20Brigada%20y%20Laboratorio.jpg)
+![Logo Brigada y Laboratorio.jpg](https://cdn.hotosm.org/website/Logo+Brigada+y+Laboratorio.jpg)
 
 # **Reconstrução de Acapulco**
 
 Paralelamente, participamos de reuniões semanais centradas no grupo intersectorial de reconstrução. Nessas reuniões, são destacadas múltiplas necessidades para reconstruir Acapulco de forma sustentável, participativa e considerando suas vulnerabilidades exacerbadas. Propusemos ações concretas a representantes da sociedade civil, funcionários e agências internacionais, como o monitoramento da vegetação e cultivos, de elementos que podem desencadear riscos de incêndio, e reflexões sobre o monitoramento das condições subaquáticas da baía.
 
-![Retiro Estratégico Acapulco-Coyuca, Guerrero - HOTOSM Otis.jpg](/uploads/Retiro%20Estrate%CC%81gico%20Acapulco-Coyuca,%20Guerrero%20-%20HOTOSM%20Otis.jpg)
+![Retiro Estratégico Acapulco-Coyuca, Guerrero - HOTOSM Otis.jpg](https://cdn.hotosm.org/website/Retiro+Estrate%CC%81gico+Acapulco-Coyuca%2C+Guerrero+-+HOTOSM+Otis.jpg)
 
 Durante o Retiro Estratégico por Acapulco-Coyuca e Guerrero, onde representantes da sociedade civil, funcionários federais, estaduais e municipais, bem como agências internacionais, se reuniram para dar continuidade à resposta ao Furacão Otis e discutir a reconstrução, alguns pontos-chave foram destacados:
 

@@ -5,7 +5,7 @@ Summary Text: Guest blogger Niraj Adhikari, from our partner NAXA, takes us thro
   the motivations that led him to become a geospatial software developer, as well
   as the highs and lows of developing a groundbreaking product such as DroneTM, making
   the vision of accessible and community-driven drone-based mapping a reality.
-Feature Image: "/uploads/DroneTMGuestBanner.jpeg"
+Feature Image: https://cdn.hotosm.org/website/DroneTMGuestBanner.jpeg
 Person: Niraj Adhikari
 ---
 
@@ -45,7 +45,7 @@ At NAXA, we believe that the best way to build technology is to test it where it
 
 ### Field 1. Bali, Indonesia: The Case of the Disappearing Drone
 
-![DroneTM_Bali2.jpg](/uploads/DroneTM_Bali2.jpg)
+![DroneTM_Bali2.jpg](https://cdn.hotosm.org/website/DroneTM_Bali2.jpg)
 *Field testing of a drone in Bali alongside government officials, working with them to explore real-world challenges. Credit: Niraj Adhikari, [CC BY-NC 4.0 International](https://www.creativecommons.org/licenses/by-nc/4.0/deed.en).*
 
 Our mission in Bali was to test DroneTM’s [waypoint](https://en.wikipedia.org/wiki/Waypoint) generation and mission execution under tropical conditions. Initially, everything was progressing smoothly—we had meticulously planned the flights, set up the equipment, and felt confident in our preparations. However, reality had other plans.
@@ -64,7 +64,7 @@ One of our most significant technical achievements in Nepal was the successful i
 
 Despite these challenges, the Nepal field tests provided invaluable insights. We fine-tuned altitude adjustments for varying terrains, enhanced safety measures for unpredictable winds, and improved the user interface (UI) to give users more real-time control options. These enhancements significantly boosted DroneTM’s performance, making it more adept at handling demanding flight conditions.
 
-![DroneTM_NepalOrtophoto.png](/uploads/DroneTM_NepalOrtophoto.png)
+![DroneTM_NepalOrtophoto.png](https://cdn.hotosm.org/website/DroneTM_NepalOrtophoto.png)
 *This image showcases the camera positions recorded in WebODM during the process of generating an [orthophoto](https://en.wikipedia.org/wiki/Orthophoto) for a terrain-following project in Nepal. Each camera position represents a point where the drone captured an image, which was later stitched together to create a high-resolution, georeferenced orthophoto. The terrain-following aspect of the project ensures that the drone maintains a consistent altitude relative to the ground, improving the accuracy and quality of the imagery. Source: DroneTM.*
 
 ### Field 3. Caribbean Deployment: Dominica and St. Lucia
@@ -76,7 +76,7 @@ In the Caribbean islands of Dominica and St. Lucia, we deployed DroneTM to suppo
 * Coordination of multiple drone pilots across different administrative regions.
 
 An example project in this area looks like this:
-![DroneTM_DominicaOrtophoto.png](/uploads/DroneTM_DominicaOrtophoto.png)
+![DroneTM_DominicaOrtophoto.png](https://cdn.hotosm.org/website/DroneTM_DominicaOrtophoto.png)
 *This photo from the DroneTM platform displays the project site in Dominica, Caribbean, featuring an orthophoto visualization. The image highlights the processed aerial data, providing a detailed view of the terrain for analysis and decision-making. Source: DroneTM.*
 
 ## A Call to Action: Join the Open Drone Mapping Movement
@@ -99,4 +99,4 @@ Let’s map the world together—one flight at a time.
 
 * [Strengthening Communities in Mangrove Conservation: Drone Technology and Local Collaboration](https://www.hotosm.org/updates/strengthening-communities-in-mangrove-conservation-drone-technology-and-local-collaboration/)
 
-![Drone TM Invite Guest.jpg](/uploads/Drone%20TM%20Invite%20Guest.jpg)
+![Drone TM Invite Guest.jpg](https://cdn.hotosm.org/website/Drone+TM+Invite+Guest.jpg)

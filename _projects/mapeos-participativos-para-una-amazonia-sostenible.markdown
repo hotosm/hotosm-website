@@ -8,7 +8,7 @@ Project Summary Text: El proyecto busca fortalecer las capacidades comunitarias 
   del uso de tecnologías libres y el diálogo de saberes entre actores académicos y
   comunitarios, se construirán mapas que visibilicen conflictos socioambientales,
   iniciativas locales de protección y oportunidades de incidencia en políticas públicas.
-Feature Image: "/uploads/Mapeos%20Participativos%20para%20una%20Amazoni%CC%81a%20Sostenible.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapeos+Participativos+para+una+Amazoni%CC%81a+Sostenible.jpg
 Is Community-Led: true
 Country:
 - Bolivia

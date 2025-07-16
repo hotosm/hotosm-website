@@ -5,7 +5,7 @@ date: 2024-11-10 10:37:00 Z
 Summary Text: The "Open Resilient Cities" project trained six governments in open
   data and geographic tools, promoting resilient and collaborative solutions to urban
   and climate challenges.
-Feature Image: "/uploads/Entrenando%20Gobiernos%20Locales%20en%20el%20Uso%20de%20la%20Cartografi%CC%81a%20Colaborativa.jpg"
+Feature Image: https://cdn.hotosm.org/website/Entrenando+Gobiernos+Locales+en+el+Uso+de+la+Cartografi%CC%81a+Colaborativa.jpg
 Person:
 - Juan Arellano Valdivia
 - Mariana Marín

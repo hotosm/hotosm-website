@@ -7,7 +7,7 @@ Summary Text: En el marco de dos proyectos de mapeo en la ciudad de Medellín, s
   Yessica de los Ríos, líder del proyecto, nos cuenta cómo el uso de la cámara GoPro
   contribuyó a alimentar la cartografía abierta de dos barrios vulnerables a distintas
   amenazas naturales.
-Feature Image: "/uploads/Mapillary%20Dron%20San%20Antonio%20de%20Prado%202.jpg"
+Feature Image: https://cdn.hotosm.org/website/Mapillary+Dron+San+Antonio+de+Prado+2.jpg
 Person: Yessica de los Ríos
 Country:
 - Colombia
@@ -31,7 +31,7 @@ El uso de imágenes capturadas con una cámara GoPro, importadas a la plataforma
 
 En la segunda fase, el objetivo de utilizar imágenes de dron fue obtener una mejor resolución para actualizar una zona con alta ocurrencia de deslizamientos, delimitada en un área de 150 hectáreas. Para definir esta zona, fue clave el reconocimiento previo mediante Mapillary y OSM Tracker. A través de estas herramientas se identificaron puntos potenciales para ejecutar los vuelos con dron —lugares amplios, con buena visibilidad, poco cableado, entre otros criterios— y se verificó el estado de las vías de acceso. Las fotos panorámicas tomadas con la GoPro e importadas a Mapillary permitieron confirmar las condiciones de estos puntos y definir un conjunto de nodos para la ejecución de los vuelos.
 
-![Mapillary Dron San Antonio de Prado.jpg](/uploads/Mapillary%20Dron%20San%20Antonio%20de%20Prado.jpg)
+![Mapillary Dron San Antonio de Prado.jpg](https://cdn.hotosm.org/website/Mapillary+Dron+San+Antonio+de+Prado.jpg)
 
 *Figura 1. Área que se priorizó para mapeo con Dron.*
 
@@ -39,7 +39,7 @@ En la tercera fase, los recorridos se extendieron a distintas zonas dentro de la
 
 Es importante resaltar que, durante el proceso de mapeo remoto, las imágenes de Mapillary jugaron un papel clave al proporcionar puntos de referencia útiles para agregar información sobre las edificaciones. Estos puntos de referencia permitieron dividir el área en subzonas de mapeo, organizadas por cuadras o espacios delimitados entre dos postes de electricidad, resaltos, reductores de velocidad, colores distintivos de algunas edificaciones, tapas de alcantarillado, entre otros elementos. De esta manera, se podía determinar con mayor precisión la cantidad de edificaciones entre cada par de referencias, facilitando el mapeo y mejorando la veracidad en la ubicación de cada una.
 
-![Mapillary Dron San Antonio de Prado 2.jpg](/uploads/Mapillary%20Dron%20San%20Antonio%20de%20Prado%202.jpg)
+![Mapillary Dron San Antonio de Prado 2.jpg](https://cdn.hotosm.org/website/Mapillary+Dron+San+Antonio+de+Prado+2.jpg)
 
 *Figura 2. Edición en OpenStreetMap utilizando la Ortofoto generada y las fotografías de Mapillary vinculadas a la misma plataforma (Puntos verdes)*
 
@@ -51,7 +51,7 @@ En este sentido, se realizaron varios recorridos por el barrio para la toma de i
 
 En este caso, al tratarse de un asentamiento, el mapeo representa un gran desafío, y Mapillary cumple un rol fundamental como repositorio de imágenes base para la planificación y logística en campo. Además, estas fotografías también serán utilizadas en el proceso de mapeo remoto, tal como se hizo en el proyecto de San Antonio de Prado, para añadir características del barrio al mapa en OpenStreetMap (OSM).
 
-![Mapillary Dron San Antonio de Prado 3.jpg](/uploads/Mapillary%20Dron%20San%20Antonio%20de%20Prado%203.jpg)
+![Mapillary Dron San Antonio de Prado 3.jpg](https://cdn.hotosm.org/website/Mapillary+Dron+San+Antonio+de+Prado+3.jpg)
 
 *Imagen 3. Recorrido de toma de imágenes con cámara GoPro en el barrio Nueva Villa de La Iguaná*
 

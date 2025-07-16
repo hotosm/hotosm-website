@@ -1,7 +1,7 @@
 ---
 title: Paula Villar Duré
 date: 2025-06-24 12:56:00 Z
-Photo: "/uploads/Paula%20Villar%20Dur%C3%A9.jpg"
+Photo: https://cdn.hotosm.org/website/Paula+Villar+Dur%C3%A9.jpg
 Member Type:
   Is Voting Member: true
 Country: Paraguay

@@ -5,7 +5,7 @@ Summary Text: Each quarter, we feature one of our all-star staff members in a St
   Spotlight Series. Staff featured in this Series have been peer-nominated for their
   superb performance and values-driven work. This quarter, we spotlight Carter Draper,
   our Programs Senior Manager at the West and Northern Africa Open Mapping Hub.
-Feature Image: "/uploads/CarterSpotlight.jpg"
+Feature Image: https://cdn.hotosm.org/website/CarterSpotlight.jpg
 ---
 
 ## What first attracted you to work at HOT?
@@ -27,7 +27,7 @@ While at iLab, I established a productive partnership with HOT for a World Bank 
 
 In June 2021, I started working as a Global Projects Manager at HOT. In this role, I oversaw donor projects in Vietnam, Tanzania, Indonesia, and Zambia with the help of the global programs team. During this time, we were working on HOT's decentralization policy and plan. After nearly a year in this role, I was assigned to the West and Northern Africa Hub (WNAH) in line with the realignment of global programs team members to their closest regions. After a few months as a Regional Project Manager, I was promoted to Senior Manager in Programs. In this new role, I have worked with support from the Hub's Director and the Strategy and Implementation teams to manage the portfolio for twenty-four countries in the region. Since then, I have supervised the implementation of over ten projects, disaster activations, and local community microgrant activities in the region.
 
-![CarterSpotlight-2.jpg](/uploads/CarterSpotlight-2.jpg)
+![CarterSpotlight-2.jpg](https://cdn.hotosm.org/website/CarterSpotlight-2.jpg)
 
 ## What fulfills you most about your role?
 Growing up in a small town in Liberia during the 14-year civil crisis, I witnessed firsthand the immense struggles faced by local communities. These often-overlooked areas silently bore their own unique challenges. This experience has fueled my commitment to using technology for the betterment of humanity. As a Senior Manager in Programs at the WNAH, I am focused on ensuring that HOT’s open and participatory mapping workflows, open tech, and expert capacity building reach all twenty-four countries we serve and beyond. My aim is to bring attention to local communities that are frequently marginalized in decision-making and national development processes due to their lack of visibility. I am dedicated to addressing this issue and ensuring that every local community can effectively utilize our programs to map their own settlements and garner the assistance they require. By mapping out these communities and highlighting their specific needs, we can strive to ensure that their struggles are acknowledged by humanitarian organizations, as well as national and international development partners.

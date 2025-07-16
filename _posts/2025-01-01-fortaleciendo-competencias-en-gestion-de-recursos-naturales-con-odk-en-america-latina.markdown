@@ -5,7 +5,7 @@ date: 2025-01-01 17:02:00 Z
 Summary Text: Guatemala, en colaboración con HOT, el PNUD y el MARN, trabaja en la
   gestión de desechos y recursos naturales, identificando sitios críticos y capacitando
   funcionarios para mejorar infraestructuras.
-Feature Image: "/uploads/GUATEMALA%20GESTIO%CC%81N%20DE%20RESIDUOS%20KOBO%20EQUIPO%20HUMANITARIO%20DE%20OPENSTREETMAP%20PNUD%20GUATEMALA.jpg"
+Feature Image: https://cdn.hotosm.org/website/GUATEMALA+GESTIO%CC%81N+DE+RESIDUOS+KOBO+EQUIPO+HUMANITARIO+DE+OPENSTREETMAP+PNUD+GUATEMALA.jpg
 Person: Céline Jacquin
 Country:
 - Guatemala
@@ -21,13 +21,13 @@ La primera fase de colaboración mostró al Ministerio de Medio Ambiente el pote
 
 HOT y el PNUD desarrollaron una estrategia de encuestas domiciliarias basadas en Open Data Kit (ODK), probadas con un grupo piloto en diversas zonas de la ciudad de Guatemala. Los resultados cualitativos se compartieron con el Ministerio y se visualizaron mediante un dashboard interactivo en Power BI del equipo PNUD. Esta demostración motivó al Ministerio a crear una estrategia más sofisticada y alineada con sus necesidades antes del cierre de la administración, reconociendo el potencial de un inventario completo de infraestructura municipal del país gracias al apoyo técnico y metodológico proporcionado.
 
-![GESTIÓN DE RESIDUOS GUATEMALA BI HOT.png](/uploads/GESTIO%CC%81N%20DE%20RESIDUOS%20GUATEMALA%20BI%20HOT.png)
+![GESTIÓN DE RESIDUOS GUATEMALA BI HOT.png](https://cdn.hotosm.org/website/GESTIO%CC%81N+DE+RESIDUOS+GUATEMALA+BI+HOT.png)
 
 Posteriormente, se trabajó en conjunto entre las tres instituciones en la estructuración de un instrumento de encuesta georreferenciada para que los municipios del país reportarán de manera uniforme, completa y oportuna la información sobre la infraestructura, capacidad, condiciones, actividad, cobertura y costos del tratamiento de aguas negras y desechos sólidos al Ministerio, sin la necesidad de intervención manual en diferentes puntos de recopilación y agregación de datos, como suele ocurrir frecuentemente.
 
 En paralelo, se llevó a cabo una reflexión práctica sobre la soberanía de los datos y por ende su localización adecuada dentro de los servicios del Ministerio, pero al mismo tiempo garantizando un acceso sostenible a lo largo de los cambios de administración (la cual estaba por terminar). Ante la falta de capacidades informáticas del MARN, se decidió confiar la información a la oficina de PNUD, que podría entregarla al gobierno siguiente.
 
-![ODK COLLECT KOBO GESTIÓN DE RESIDUOS GUATEMALA.png](/uploads/ODK%20COLLECT%20KOBO%20GESTIO%CC%81N%20DE%20RESIDUOS%20GUATEMALA.png)
+![ODK COLLECT KOBO GESTIÓN DE RESIDUOS GUATEMALA.png](https://cdn.hotosm.org/website/ODK+COLLECT+KOBO+GESTIO%CC%81N+DE+RESIDUOS+GUATEMALA.png)
 
 ## Generación de capacidades en la Gestión de Datos con ODK
 

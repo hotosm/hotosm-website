@@ -23,7 +23,7 @@ Luego del [mapeo en respuesta a las inundaciones](https://www.hotosm.org/updates
 
 A partir de esta experiencia positiva previa, se pensó un amplio mapatón al que la Secretaría de Gestión de Riesgos invitó a numerosos actores y empresas para proporcionar una variedad de capacitaciones al público y funcionarios, incluyendo una iniciativa continuada de mapeo remoto en OpenStreetMap de las zonas calificadas como de alta vulnerabilidad ante el fenómeno del Niño.
 
-![El_Niño_in_July_2023.png](/uploads/El_Ni%C3%B1o_in_July_2023.png)
+![El_Niño_in_July_2023.png](https://cdn.hotosm.org/website/El_Ni%C3%B1o_in_July_2023.png)
 
 *Fuente de la imagen: [Wikimedia](https://commons.m.wikimedia.org/wiki/File:El_Ni%C3%B1o_in_July_2023.png)*
 

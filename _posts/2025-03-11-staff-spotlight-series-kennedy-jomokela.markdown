@@ -13,7 +13,7 @@ Summary Text: 'Each quarter, we feature one of our all-star staff members in a S
   Project Associate at the Eastern and Southern Africa Hub.
 
 '
-Feature Image: "/uploads/StaffSpotlight_Kennedy.jpeg"
+Feature Image: https://cdn.hotosm.org/website/StaffSpotlight_Kennedy.jpeg
 Person: Dana Gallaty
 ---
 
@@ -33,7 +33,7 @@ Putting PEOPLE FIRST is one of the HOT values that caught my attention. This val
 
 I currently serve as a Project Associate at HOT's Eastern and Southern African (ESA) Hub. When I joined HOT in 2021, my work focused on supporting service delivery mapping and disaster response by creating and updating maps to aid emergency efforts. My role has progressed as time has gone by from just training mappers and contributors to doing more community-driven engagement and capacity support. I work very closely with local communities, project partners, and stakeholders in the different phases of project planning and implementation, supporting them in the use of open mapping tools and contributing to sustainability in mapping efforts. That is a change from not only being technically involved in mapping work to a more strategic role in advancing local ownership and long-term resilience in the communities I work with.
 
-![Kennedy2.jpg](/uploads/Kennedy2.jpg)
+![Kennedy2.jpg](https://cdn.hotosm.org/website/Kennedy2.jpg)
 
 *Kennedy joined the OpenStreetMap community in 2017 as a contributor at The University of Zambia and served as Publicity Secretary for the University of Zambia YouthMappers Chapter from 2018-2019.*
 

@@ -5,7 +5,7 @@ Project Summary Text: |-
   Through our Mapping for Climate Ready Cities program, HOT is supporting the development of a thriving ecosystem focused on the creation, interpretation, and use of maps to respond to and reduce climate risks in urban areas across four priority regions.
 
   This project page highlights our work in Dhaka, Bangladesh through HOT's Asia Pacific Hub (AP Hub).
-Feature Image: "/uploads/20240324_130120.jpg"
+Feature Image: https://cdn.hotosm.org/website/20240324_130120.jpg
 Is image top aligned: false
 Country:
 - Bangladesh
@@ -32,7 +32,7 @@ In order to support urban development for sustainable and climate-resilient citi
 
 The Mirpur district is where the migrant population coming from north is entering Dhaka. The project seeks to address the unique demands and difficulties encountered by the migrant groups in Mirpur within 2024 and this entails using geographic data to gain a deeper understanding of their migratory path vulnerabilities, access to basic amenities, and patterns of settlement.
 
-![20240327_122527.jpg](/uploads/20240327_122527.jpg)
+![20240327_122527.jpg](https://cdn.hotosm.org/website/20240327_122527.jpg)
 
 ### Methodology
 The project will address data gaps with partners, local communities, and stakeholders through remote mapping and validation. This will be followed by field data collection and mapping campaigns focusing on the most vulnerable slums and informal settlements. The initiative will also seek out local data sources that can support OSM data creation, such as drone imagery, public datasets etc. 

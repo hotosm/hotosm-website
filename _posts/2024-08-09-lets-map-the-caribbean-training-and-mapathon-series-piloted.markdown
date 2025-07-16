@@ -7,7 +7,7 @@ Summary Text: The HOT Caribbean Programme team led a series of mapathons with tr
   while also promoting mapping for anticipatory action. This is expected to positively
   impact the Caribbean’s capacity to use digital maps for disaster preparedness and
   response.
-Feature Image: "/uploads/Let's%20map%20the%20Caribbean%20Banner.jpg"
+Feature Image: https://cdn.hotosm.org/website/Let's+map+the+Caribbean+Banner.jpg
 Person:
 - Arnelle Isaac
 - Louise Mathurin Serieux
@@ -17,7 +17,7 @@ There is growing interest in OpenStreetMap (OSM) in the Caribbean and its many u
 
 The HOT Caribbean programme team launched the Let’s Map the Caribbean series, consisting of a sequence of mapathons which kicked off with short training courses at each session. The areas of training included introduction to OSM, use of the HOT Tasking manager, and use of mobile mapping apps.
 
-![Let's Map.jpeg](/uploads/Let's%20Map.jpeg)
+![Let's Map.jpeg](https://cdn.hotosm.org/website/Let's+Map.jpeg)
 
 The Let’s Map the Caribbean series had two main objectives:
 
@@ -27,7 +27,7 @@ The Let’s Map the Caribbean series had two main objectives:
 
 The activity took place every other Thursday over a span of two months, totaling five sessions. A total of 110 individuals registered to participate in the series. By its conclusion, there were 2,197 edits made to the map, with 1,772 new buildings added. The series primarily concentrated on anticipatory mapping tasks in flood-prone areas of Acquin, Haiti and the Laguna De Bavaro, Dominican Republic.
 
-![Let's Map The Caribbean - OSM training.jpg](/uploads/Let's%20Map%20The%20Caribbean%20-%20OSM%20training.jpg)
+![Let's Map The Caribbean - OSM training.jpg](https://cdn.hotosm.org/website/Let's+Map+The+Caribbean+-+OSM+training.jpg)
 
 Participants in the series expressed their enthusiasm not only for the skill-building opportunities provided by the program but also for the networking opportunities it offered. One notable instance was the involvement of Estelle Seremes from Guadeloupe, who connected with the HOT Caribbean program team during the initiative. This connection led to a partnership with HOT, resulting in collaboration to organize an OSM workshop at the Climate Justice Caribbean Camp held in Saint Martin in March 2024. Other participants provided positive feedback about their experience, highlighting:
 

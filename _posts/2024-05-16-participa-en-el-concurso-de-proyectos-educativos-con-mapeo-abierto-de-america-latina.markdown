@@ -6,7 +6,7 @@ Summary Text: Únete a Open Mapping for All y descubre cómo captar la atención
   estudiantes con herramientas de mapeo abierto. Aborda temas locales de manera creativa,
   interactiva y divertida. Participa en el concurso para recibir capacitaciones, acompañamiento
   y la oportunidad de ganar financiamiento para tu proyecto educativo.
-Feature Image: "/uploads/OM4A%20-%20Blog%202.jpg"
+Feature Image: https://cdn.hotosm.org/website/OM4A+-+Blog+2.jpg
 Person:
 - Tim DeWinter
 - Constanza Petrazzini
@@ -32,18 +32,18 @@ Conoce algunos de los proyectos educativos que han formado parte e, ¡inspírate
 
 # Argentina
 ### CEI San Ignacio, Junín de los Andes
-![CEI - San Ignacio.jpg](/uploads/CEI%20-%20San%20Ignacio.jpg)
+![CEI - San Ignacio.jpg](https://cdn.hotosm.org/website/CEI+-+San+Ignacio.jpg)
 
 Utilizamos la herramienta iD Editor para editar en OpenStreetMap, la Wikipedia de los mapas. Centramos nuestros esfuerzos en comunidades Mapuche no incluidas en la planificación regional. Nuestros estudiantes participaron activamente en el mapeo comunitario, fortaleciendo a estas comunidades al amplificar su presencia en el mapa.
 
 ### CPEM 68, Villa La Angostura
-![CPEM 68.jpg](/uploads/CPEM%2068.jpg)
+![CPEM 68.jpg](https://cdn.hotosm.org/website/CPEM+68.jpg)
 
 Los estudiantes han utilizado la herramienta Kobo Toolbox para recopilar datos de los visitantes en el Parque Nacional Nahuel Huapi, apoyando decisiones operativas y ofreciendo experiencia práctica en turismo y gestión de datos.
 
 # Perú
 ### GAL School, Cusco
-![GAL School.jpg](/uploads/GAL%20School.jpg)
+![GAL School.jpg](https://cdn.hotosm.org/website/GAL+School.jpg)
 
 Utilizamos la herramienta uMap para visualizar y documentar proyectos científicos, mapeando la calidad del aire y la contaminación acústica en 24 ubicaciones en San Sebastián. Esta iniciativa ayuda a los estudiantes a comprender mejor los conceptos geoespaciales y proporciona datos valiosos para el monitoreo y la mitigación ambiental.
 

@@ -4,7 +4,7 @@ date: 2025-04-09 14:17:00 Z
 Summary Text: Respuesta rápida y efectiva tras las inundaciones en Bahía Blanca, Argentina.
   el LAC Hub activó a la comunidad de mapeo humanitario para generar datos clave para
   la atención y recuperación.
-Feature Image: "/uploads/Bahi%CC%81a%20Blanca%20Inundanciones%20Activacio%CC%81n%20Humanitaria.jpg"
+Feature Image: https://cdn.hotosm.org/website/Bahi%CC%81a+Blanca+Inundanciones+Activacio%CC%81n+Humanitaria.jpg
 Person: Mariana Marín
 Country:
 - Argentina
@@ -46,7 +46,7 @@ El proceso de mapeo y validación alcanzó el 100% de avance en 15 días, lo que
 
 El equipo de gobierno local se encuentra al inicio de su administración, por lo que una cartografía actual ayuda en la planeación del desarrollo local en este momento. Manuel Aristarán, asesor honorario de la Municipalidad de Bahía Blanca, comentó: *“Estamos muy agradecidos con la activación; los datos han sido muy útiles en sus acciones de respuesta temprana, y también para la planeación de la ciudad en el futuro.”*
 
-![Bahía Blanca Activación.jpg](/uploads/Bahi%CC%81a%20Blanca%20Activacio%CC%81n.jpg)
+![Bahía Blanca Activación.jpg](https://cdn.hotosm.org/website/Bahi%CC%81a+Blanca+Activacio%CC%81n.jpg)
 
 *Imagen: Muestra los resultados de la activación: 45,837 edificios, 34 km2 de carreteras, 73 mapeadorxs, 20 validadorxs y 4 proyectos.*
 

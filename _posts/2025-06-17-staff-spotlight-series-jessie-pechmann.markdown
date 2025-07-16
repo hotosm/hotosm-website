@@ -5,7 +5,7 @@ Summary Text: Each quarter, we feature one of our all-star staff members in a Sp
   Series. Staff featured in this Series have been peer-nominated for their superb
   performance and values-driven work. This quarter, we spotlight Jessie Pechmann,
   HOT’s Conflict & Displacement Program lead.
-Feature Image: "/uploads/1-6bcf1f.jpg"
+Feature Image: https://cdn.hotosm.org/website/1-6bcf1f.jpg
 Person: Dana Gallaty
 ---
 
@@ -17,7 +17,7 @@ I wanted to learn more about open source tools and how OpenStreetMap (OSM) worke
 
 I’ve always enjoyed jumping into other people’s worlds to learn new things and help them think about their workflows and communications spatially. When I worked in local government, I got to collaborate across many different agencies, learning about everything from wildlife monitoring to rural telecom coverage. For my final project in graduate school, I helped geologists incorporate GIS and spatial modeling to track salt volume changes at [the movie-famous Bonneville Salt Flats](https://www.utah.com/articles/post/salt-flats-sandlots-and-sundance-kids-a-guide-to-movies-filmed-in-utah/). When I learned about the humanitarian sector through a networking tip, I realized there was so much to learn across different disciplines—and a lot of potential for the cross-cutting nature of GIS. After working on an amazing international humanitarian team in Jordan, Syria, and Iraq, the pandemic shifted me to remote work—and here I still am!
 
-![2-a980c4.jpg](/uploads/2-a980c4.jpg)
+![2-a980c4.jpg](https://cdn.hotosm.org/website/2-a980c4.jpg)
 *Jessie holds a BA in Anthropology from Beloit College, and a Professional Master of Science and Technology with an emphasis in GIS from the University of Utah. She loves working with people to incorporate data and mapping into their work to improve workflows and data visualizations. Nothing can tell a story better than a map!*
 
 ## What are you most excited about for the future of HOT / OSM?
@@ -32,7 +32,7 @@ I currently lead HOT’s Conflict & Displacement Program, focusing on OSM data a
 
 I think personally the most interesting project I’ve worked on at HOT was [the work in Gaza in 2024](https://www.hotosm.org/updates/gaza-osm-buildings-update-2024/). HOT had not worked in a conflict area for a long time, and navigating one of the most sensitive contexts in the world was a challenge. When the project was finally completed, it was nice to hear from a wide range of people who really appreciated the data—from humanitarians to international media outlets! But what really touched me was the volunteers’ reflections on the work they had accomplished in their free time over 5 months.
 
-![3-e6a79c.jpg](/uploads/3-e6a79c.jpg)
+![3-e6a79c.jpg](https://cdn.hotosm.org/website/3-e6a79c.jpg)
 *Jessie and Kiggude Deogratias representing HOT at the Humanitarian Networks and Partnerships Week, 2024*
 
 ## What fulfills you most about your role?

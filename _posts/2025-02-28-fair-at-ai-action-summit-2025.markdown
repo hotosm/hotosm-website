@@ -7,7 +7,7 @@ Summary Text: In the context of a big, international event such as this year’s
   and Engagement Lead, and Omran Najjar, Senior Technical Product Owner- AI, reflect
   on their attendance and the importance of keeping AI developments close to the humans
   they intend to serve.
-Feature Image: "/uploads/Petya_AIActionSummit_2025.jpg"
+Feature Image: https://cdn.hotosm.org/website/Petya_AIActionSummit_2025.jpg
 Person:
 - Petya Kangalova
 - Omran Najjar
@@ -29,7 +29,7 @@ Even before the actual event, we started diving into the world of AI for good th
 
 On February 9th, we also had the opportunity to break the ice and connect with other Summit attendees from all around the world. We heard really inspiring stories, from people applying AI to reduce homelessness in London to championing the rights of data supply chain workers and exposing the often-invisible labor behind AI in Kenya. Even while addressing different challenges, we realized that all of us are passionate about the AI solutions we are working on.
 
-![PXL_20250205_175040944.jpg](/uploads/PXL_20250205_175040944.jpg)
+![PXL_20250205_175040944.jpg](https://cdn.hotosm.org/website/PXL_20250205_175040944.jpg)
 *(From left to right) Omran, Ayomide, Omowonuola, Kshitij, and Emmanuel pose as the team received the award for winning second place at the GeoAI Hack hackathon. Source: Omran Najjar.*
 
 ## And Now, the Main Event
@@ -40,7 +40,7 @@ As people walked to the booth, we could see the excitement - a big highlight was
 
 >  “Technology development, in particular AI solutions, should be done by including the end users to have a substaînable solution as far as helping communities to improve their living conditions is concerned.” - **Mouhamadou Lamine Ba, Associate Professor of Big Data at the Ecole Supérieure Polytechnique de l'Université Cheikh Anta Diop de Dakar (UCAD).**
 
-![PXL_20250210_090838321.jpg](/uploads/PXL_20250210_090838321.jpg)
+![PXL_20250210_090838321.jpg](https://cdn.hotosm.org/website/PXL_20250210_090838321.jpg)
 *Petya and Omran showcasing fAIr at their booth during the AI Action Summit. Source: Omran Najjar.*
 
 ## A fAIr Experience

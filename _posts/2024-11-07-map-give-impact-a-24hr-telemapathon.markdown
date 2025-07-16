@@ -5,7 +5,7 @@ Summary Text: Open map data has a powerful impact on communities in vulnerable r
   but this wouldn’t be possible without the dedication of people around the world.
   Whether it’s a few hours each week, a portion of their income, or teaching others
   how to map, their contributions make a difference.
-Feature Image: "/uploads/1.png"
+Feature Image: https://cdn.hotosm.org/website/1.png
 Person:
 - Raelene Dugger
 - Raiza Pilatowsky Gruner
@@ -28,7 +28,7 @@ Once you’ve signed up, you’ll receive more information about the session you
 
 The event will start on December 4th at 00:00 UTC (10 am for those in the earliest time zones of the Asia-Pacific region) and finish by December 5th at 00:00 UTC (4:00 pm on Dec 4th for those in the Western Coasts of North America). Each session will run for 2 hours, with mapping activities hosted by HOT staff, wonderful guest speakers, and volunteers across 12 time zones. We will share the full program soon!
 
-![3.png](/uploads/3.png)
+![3.png](https://cdn.hotosm.org/website/3.png)
 
 ## Frequently Asked Questions (FAQs)
 

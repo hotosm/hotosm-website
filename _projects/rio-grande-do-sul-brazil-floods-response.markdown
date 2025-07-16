@@ -9,7 +9,7 @@ Project Summary Text: Following the collapse of the July 14th hydroelectric dam 
   infrastructure, and facilitated a crucial partnership with the Inter American Development
   Bank (IDB), an international development finance institution, to support recovery
   and provide valuable tools for the community in Porto Alegre.
-Feature Image: "/uploads/Rio%20Grande%20do%20Sul%20Floods%20Response%20in%20Brazil.jpg"
+Feature Image: https://cdn.hotosm.org/website/Rio+Grande+do+Sul+Floods+Response+in+Brazil.jpg
 Is image top aligned: false
 Is Community-Led: true
 Country:
@@ -46,14 +46,14 @@ After the natural hazard disaster, the OSM Brazil Community, in coordination wit
 
 From June 15 to July 15, 2024, the LAC Hub collaborated with the Inter-American Development Bank (IDB) and the departments of education, health, sports, and social assistance of the Porto Alegre government to address flood damages. This collaboration centered on developing and testing an initial georeferenced assessment method for affected facilities and systematizing data. It also proposed a participatory campaign for cartographic monitoring of recovery efforts in the months ahead. The primary objective was to support local initiatives in crafting and executing reconstruction and transformation plans in the worst-affected areas, emphasizing community involvement and ensuring an inclusive, sustainable approach.
 
-![Misión BID Porto Alegre - HOT.jpg](/uploads/Misio%CC%81n%20BID%20Porto%20Alegre%20-%20HOT.jpg)
+![Misión BID Porto Alegre - HOT.jpg](https://cdn.hotosm.org/website/Misio%CC%81n+BID+Porto+Alegre+-+HOT.jpg)
 
 Led by Céline Jacquin, Everton Bortolini, and Juan Melo, the HOT team devised a survey methodology to assess damages to public and social infrastructure. This tool was co-designed with local officials and civil engineers from the IDB to gather critical information for municipal authorities and funders alike. The damages were extensive, with buildings submerged up to three meters for over a month, resulting in severe material and structural impairments, and total losses in numerous cases.
 
 As the initial emergency response transitioned to recovery and rebuilding phases, it became imperative for local authorities to ascertain the current status of infrastructure in education, healthcare, and social services. These facilities had suffered varying degrees of damage, particularly in the most vulnerable urban areas. Detailed facility data was essential for estimating recovery costs, initiating procurement procedures to expedite reconstruction, and establishing monitoring mechanisms. To facilitate accurate on-site assessments and provide tailored support, IDB and HOT joint mission was dispatched to Porto Alegre. Both organizations are exploring ways to sustain this effort beyond the emergency.
 
 **OUTCOME AND IMPACT**
-![Edificações.jpg](/uploads/Edificac%CC%A7o%CC%83es.jpg)
+![Edificações.jpg](https://cdn.hotosm.org/website/Edificac%CC%A7o%CC%83es.jpg)
 
 *uMap created by the HOT team to visualize mapped buildings and destroyed structures.*
 

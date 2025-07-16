@@ -5,7 +5,7 @@ Project Summary Text: 'Le Projet Ruwa (Rural Water Access) Niger : Cartographier
   à l''eau dans la région du Sahel.
 
 '
-Feature Image: "/uploads/WNAH-Ruwa.png"
+Feature Image: https://cdn.hotosm.org/website/WNAH-Ruwa.png
 Country:
 - Niger
 Impact Area:
@@ -39,8 +39,8 @@ Avant de publier les données sur OpenStreetMap, chaque point a été soigneusem
 Une fois les données validées, des analyses poussées ont permis de créer des cartes thématiques adaptées aux besoins des parties prenantes. L'accent a été mis sur les points d’eau : qualité, localisation et proximité avec les infrastructures essentielles telles que les toilettes publiques, les cimetières et les sites de gestion des déchets.
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-    <img src="/uploads/Niger2022C-4c3509.jpg" alt="Image 1" style="width: 48%;">
-    <img src="/uploads/Niger2022D-0fd419.jpg" alt="Image 2" style="width: 48%;">
+    <img src="https://cdn.hotosm.org/website/Niger2022C-4c3509.jpg" alt="Image 1" style="width: 48%;">
+    <img src="https://cdn.hotosm.org/website/Niger2022D-0fd419.jpg" alt="Image 2" style="width: 48%;">
 </div>
 
 ## Un impact durable pour les communautés locales
@@ -61,4 +61,4 @@ Dès les premières phases du projet, une évaluation des besoins des parties pr
 
 ## Pictures
 
-![SlidesRuwa1.JPG](/uploads/SlidesRuwa1.JPG)
+![SlidesRuwa1.JPG](https://cdn.hotosm.org/website/SlidesRuwa1.JPG)

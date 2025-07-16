@@ -11,6 +11,8 @@ Country:
 Impact Area:
 - Disasters & Climate Resilience
 - Sustainable Cities & Communities
+Person:
+- Harry Mahardhika Machmud
 Partner:
 - World Vision Timor-Leste
 - Simile Timor-Leste
@@ -21,6 +23,8 @@ Tools:
 - tool: inaSAFE
 Highlight: Sustainable Cities & Communities
 ---
+
+**Explore the project's case story, featuring its continued impact years after its implementation in [HOT's Climate Resilience Case Studies (2025)](https://www.hotosm.org/uploads/ClimateResilienceCaseStudiesOfficial2025.pdf).**
 
 As part of the Open Mapping Hub Asia Pacific's dedication to strengthening data usage and promoting disaster resilience throughout the Asia-Pacific Region, we are collaborating with local communities and partners in Timor-Leste to provide training on OSM for Disaster Management. In collaboration with World Vision Timor-Leste, Simile Timor-Leste, and other local agencies, the training program was launched with a virtual session, followed by an in-person session where several community members and INGOs participated.
 

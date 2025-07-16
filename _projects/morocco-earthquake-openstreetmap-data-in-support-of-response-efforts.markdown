@@ -7,7 +7,7 @@ Project Summary Text: "In the early hours of the Morocco Earthquake, the Humanit
   contributors around the world to crowdsource information in the impacted area. WNAH
   and the local OSM community in Morocco coordinated the mapping efforts, directing
   volunteers to map priority areas alongside other stakeholders. \n"
-Feature Image: "/uploads/53388094764_a0d3053666_k.jpg"
+Feature Image: https://cdn.hotosm.org/website/53388094764_a0d3053666_k.jpg
 Is image top aligned: false
 Country:
 - Morocco
@@ -48,13 +48,13 @@ WNAH and the local OSM community in Morocco coordinated the mapping efforts, dir
 Within 48 hours of mapping activities, **310 contributors around the world had contributed 32,450 buildings and 530 km of roads to OSM using pre-disaster imagery**, providing the necessary base map to support decision-making. The outcome is a detailed base map of Morocco and data on road damages aimed at providing operationally useful
 data.
 
-![MOROCCO EARTHQUAKE_contribution.png](/uploads/MOROCCO%20EARTHQUAKE_contribution.png)
+![MOROCCO EARTHQUAKE_contribution.png](https://cdn.hotosm.org/website/MOROCCO+EARTHQUAKE_contribution.png)
 *These maps show the evolution of OSM buildings mapped on day one of the earthquake and their increasing coverage after the WNAH started their campaign with global volunteers. OSM building data for Morocco is open and accessible on [HOT’s Humanitarian Data Exchange Page](https://www.google.com/url?q=https://data.humdata.org/dataset/hotosm_mar_buildings&sa=D&source=apps-viewer-frontend&ust=1732112788686375&usg=AOvVaw3KYUnHwa3n9fac294FGt1k&hl=en).*
 
 The detailed dataset of damaged roads, created by OSM volunteers
 during the response phase, was able to support the ground effort. Source data for the mapping was provided by MAXAR through their Open Data Program. Additional support for the road mapping was provided by [Digital Egypt](https://wiki.openstreetmap.org/wiki/DigitalEgypt), to ensure data quality.
 
-![MOROCCO EARTHQUAKE_road damaged-b0ab9a.png](/uploads/MOROCCO%20EARTHQUAKE_road%20damaged-b0ab9a.png)
+![MOROCCO EARTHQUAKE_road damaged-b0ab9a.png](https://cdn.hotosm.org/website/MOROCCO+EARTHQUAKE_road+damaged-b0ab9a.png)
 *Map showing the location of buildings and damaged roads, which were useful for other humanitarian organizations providing support on the ground.*
 
 The OSM data proved immensely valuable for [World Central Kitchen (WCK)](https://wck.org/relief/morocco-earthquake-2023), an organization that provides food for communities facing disaster. The data was very useful for locating small towns and villages, planning routes, and even estimating travel times based on vehicles and road conditions.

@@ -1,7 +1,7 @@
 ---
 title: I Joined HOT, Now What? A Roadmap for Tech Contributors
 date: 2025-04-29 16:17:00 Z
-Feature Image: "/uploads/3-0b24a9.jpg"
+Feature Image: https://cdn.hotosm.org/website/3-0b24a9.jpg
 Person:
 - Sam Woodcock
 - Raiza Pilatowsky Gruner
@@ -15,7 +15,7 @@ Like in a natural ecosystem, this has become a reciprocal relationship. [In a re
 
 ## But what if you’re new to this group? How do you start?
 
-![1-625c9d.jpg](/uploads/1-625c9d.jpg)
+![1-625c9d.jpg](https://cdn.hotosm.org/website/1-625c9d.jpg)
 
 ### 1. Well, the first step would be to <a href="https://www.hotosm.org/tech-suite">get to know a little bit more about our tools</a> (if you already know them, skip this step ;) )
 
@@ -53,6 +53,6 @@ Like in a natural ecosystem, this has become a reciprocal relationship. [In a re
 <li>If you are feeling creative, creating video tutorials based on your experience would also be very helpful! Check out <a href="https://www.youtube.com/watch?v%3Dkibi_YJ6qXo%26ab_channel%3DHumanitarianOpenStreetMapTeam&sa=D&source=docs&ust=1744910170712658&usg=AOvVaw1Igyy3VOQc7rkbV80sDTK8">this example.</a></li>
 </ul>
 
-![HOTContributorsTechTeam.jpg](/uploads/HOTContributorsTechTeam.jpg)
+![HOTContributorsTechTeam.jpg](https://cdn.hotosm.org/website/HOTContributorsTechTeam.jpg)
 
 **So, did we convince you? Which step will you take first?** We would love to hear your story and get to know you more as you follow your journey as a HOT Tech Contributor. You can reach out to [tech-data@hotosm.org](mailto:tech-data@hotosm.org) or message us on Slack.
