@@ -66,7 +66,7 @@ Yes. Besides the entire area being double checked by expert OSM validators (see 
 In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown to outperform automated machine learning datasets in terms of coverage and precision,** such as [in Gaza last year](https://www.hotosm.org/updates/gaza-osm-buildings-update-2024/)**.**  The same holds true in Lebanon, where **OSM also has 65% more buildings in the 4 districts than the other leading open buildings footprints dataset from Microsoft (165,703 vs 253,664).**   Overture, an emerging aggregator of open data, can lags behind OSM updates, as shown by the lower numbers of Overture than OSM as of May 2025 below. 
 
 <br>
-<div style="text-align: center; width: 85%; margin: 0 auto;">
+<div style="text-align: center; width: 95%; margin: 0 auto;">
     <img src="/uploads/districtis-count-comparison-leb.png" alt="Added buildings in Lebanon according to OHSOME dashboard" style="display: block; margin: 0 auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
     </div>
@@ -80,7 +80,7 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 <br>
 
 
-<div style="text-align: center; width: 85%; margin: 0 auto;">
+<div style="text-align: center; width: 95%; margin: 0 auto;">
     <img src="/uploads/comparison-count-area-leb.png" alt="Added buildings in Lebanon according to OHSOME dashboard" style="display: block; margin: 0 auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
     </div>
