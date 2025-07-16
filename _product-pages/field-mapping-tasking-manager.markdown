@@ -12,11 +12,11 @@ Block 0:
   Image: https://cdn.hotosm.org/website/FMTM-Monrovia.jpg
 Block 1:
   Section: What is it?
-  Header: The Field Tasking Manager (FieldTM) helps teams add local knowledge
-    to map features by coordinating mapping in the field.
+  Header: The Field Tasking Manager (FieldTM) helps teams add local knowledge to map
+    features by coordinating mapping in the field.
   Text: FieldTM facilitates collaborative mapping by supporting and extending existing
-    mature tools. The FieldTM is a standalone mobile and web application that works using
-    OpenDataKit (ODK), a powerful data collection platform that leverages commonly-available
+    mature tools. The FieldTM is a standalone mobile and web application that works
+    using OpenDataKit (ODK), a powerful data collection platform that leverages commonly-available
     mobile Android devices to enable people to input information, including geospatial
     data in the field.
   Image: https://cdn.hotosm.org/website/open-source.png
@@ -25,19 +25,19 @@ Block 1:
     URL: https://fmtm.dev/
 Block 2:
   Header: Field Data Collection
-  Text: Unlike other ODK based platforms, FieldTM is intended for adding attributes to
-    existing geographical features such as buildings or Points of Interest (POIs).
+  Text: Unlike other ODK based platforms, FieldTM is intended for adding attributes
+    to existing geographical features such as buildings or Points of Interest (POIs).
   Rectangle-1:
     Icon: fa-solid fa-circle-nodes
     Header: Mapping Coordination
-    Highlight: "The FieldTM applications improve the mapping productivity (mapped features/person-day)
-      by reducing the duplication of efforts an\uFEFFd avoiding missed areas by allocating
-      task areas to mappers."
+    Highlight: "The FieldTM applications improve the mapping productivity (mapped
+      features/person-day) by reducing the duplication of efforts an\uFEFFd avoiding
+      missed areas by allocating task areas to mappers."
   Rectangle-2:
     Icon: fa-solid fa-magnifying-glass-chart
     Header: Data Quality Assurance
-    Highlight: "FieldTM improves data quality by including a validation mechanism that
-      ensures data completeness and in\uFEFFteroperability."
+    Highlight: "FieldTM improves data quality by including a validation mechanism
+      that ensures data completeness and in\uFEFFteroperability."
   Rectangle-3:
     Icon: fa-solid fa-download
     Header: Field Data Coordination
@@ -47,14 +47,14 @@ Block 3:
   Header: HOW DOES IT WORK?
   Highlight: Mobile data collection and mapping works well with Open Data Kit (ODK),
     but field coordination is challenging and FieldTM addresses this issue
-  Text: The FieldTM was designed and built to facilitate mapping by large teams to cover
-    urban areas effectively, efficiently, and with good quality. <br> Using the FieldTM,
-    each mapper using ODK Collect on their mobile device can select—or be assigned—a
-    single area at a time to map, with a specific set of features (such as buildings)
-    to visit. They can easily see where they must go and which features they must
-    visit to complete their “tasked” area. Since each task area is specifically defined
-    by a boundary and/or a set of features, it’s easy to avoid missed areas or duplication
-    (whereby more than one person visits the same structure).
+  Text: The FieldTM was designed and built to facilitate mapping by large teams to
+    cover urban areas effectively, efficiently, and with good quality. <br> Using
+    the FieldTM, each mapper using ODK Collect on their mobile device can select—or
+    be assigned—a single area at a time to map, with a specific set of features (such
+    as buildings) to visit. They can easily see where they must go and which features
+    they must visit to complete their “tasked” area. Since each task area is specifically
+    defined by a boundary and/or a set of features, it’s easy to avoid missed areas
+    or duplication (whereby more than one person visits the same structure).
   Image: https://cdn.hotosm.org/website/FMTM-Explanation.jpg
   Tools:
   - Name: Website

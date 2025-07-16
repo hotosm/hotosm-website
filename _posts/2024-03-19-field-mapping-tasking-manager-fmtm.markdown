@@ -5,9 +5,9 @@ tags:
 - tech
 Summary Text: Collaboration and communication among key players are critical to a
   successful field mapping campaign and data collection effort. Leveraging the right
-  tools, such as the Field Tasking Manager (Field-TM), can significantly enhance
-  coordination and streamline communication among team members, improving field survey
-  efforts and making them more efficient and accurate.
+  tools, such as the Field Tasking Manager (Field-TM), can significantly enhance coordination
+  and streamline communication among team members, improving field survey efforts
+  and making them more efficient and accurate.
 Feature Image: https://cdn.hotosm.org/website/FMTM-Monrovia.jpg
 Person: Ivan Buendía Gayton
 ---

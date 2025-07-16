@@ -1,6 +1,5 @@
 ---
-title: Monrovia - Improving Map Quality using fAIr & Field Tasking Manager
-  - Pilot
+title: Monrovia - Improving Map Quality using fAIr & Field Tasking Manager - Pilot
 date: 2024-04-17 09:33:00 Z
 published: false
 tags:
@@ -12,8 +11,8 @@ Project Summary Text: HOT is currently employing fAIr technology to digitize a s
   area within Monrovia, Liberia. This effort is conducted in partnership with the
   local Liberian team and WNAH. The digitization process utilizes drone imagery that
   we are promptly acquiring in preparation for a household enumeration project. This
-  project is facilitated through the HOT Field Tasking Manager, administered
-  by our partner, Slum Dwellers International.
+  project is facilitated through the HOT Field Tasking Manager, administered by our
+  partner, Slum Dwellers International.
 Feature Image: https://cdn.hotosm.org/website/fair-fmtm-monrovia-osm-footprints.jpg.jpg
 Country:
 - Liberia
