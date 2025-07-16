@@ -51,7 +51,7 @@ Yes. Besides the entire area being double checked by expert OSM validators (see 
 
 
 <br>
-<div style="text-align: center; width: 75%; margin: 0 auto;">
+<div style="text-align: center; width: 85%; margin: 0 auto;">
     <img src="/uploads/building-count-comparison-leb.png" alt="Added buildings in Lebanon according to OHSOME dashboard" style="display: block; margin: 0 auto;">
     <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
     </div>
@@ -65,114 +65,12 @@ Yes. Besides the entire area being double checked by expert OSM validators (see 
 
 In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown to outperform automated machine learning datasets in terms of coverage and precision,** such as [in Gaza last year](https://www.hotosm.org/updates/gaza-osm-buildings-update-2024/)**.**  The same holds true in Lebanon, where **OSM also has 65% more buildings in the 4 districts than the other leading open buildings footprints dataset from Microsoft (165,703 vs 253,664).**   Overture, an emerging aggregator of open data, can lags behind OSM updates, as shown by the lower numbers of Overture than OSM as of May 2025 below. 
 
-
 <br>
-
-<div class="lebanon-building-table">
-  <h2>Total Building Dataset Comparison - Southern Lebanon</h2>
-  <table>
-    <thead>
-      <tr>
-        <th>District</th>
-        <th>Overture</th>
-        <th>Microsoft Buildings</th>
-        <th>OSM Buildings</th>
-        <th>% OSM > MS</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Bint Jbeil</td>
-        <td>36,730</td>
-        <td>31,176</td>
-        <td class="osm-cell">48,470</td>
-        <td class="percent-cell">+55.5%</td>
-      </tr>
-      <tr>
-        <td>Maarjyoun</td>
-        <td>30,889</td>
-        <td>28,647</td>
-        <td class="osm-cell">39,462</td>
-        <td class="percent-cell">+37.8%</td>
-      </tr>
-      <tr>
-        <td>Nabatiyeh</td>
-        <td>53,739</td>
-        <td>45,365</td>
-        <td class="osm-cell">78,388</td>
-        <td class="percent-cell">+72.8%</td>
-      </tr>
-      <tr>
-        <td>Sour</td>
-        <td>70,393</td>
-        <td>60,515</td>
-        <td class="osm-cell">87,344</td>
-        <td class="percent-cell">+44.3%</td>
-      </tr>
-    </tbody>
-  </table>
-  <div class="table-footer">
-    This table compares building datasets from OpenStreetMap, Microsoft, and Overture in Southern Lebanon.<br>
-    The "% OSM > MS" column shows how much larger the OSM dataset is compared to Microsoft's dataset.
-  </div>
+<div style="text-align: center; width: 85%; margin: 0 auto;">
+    <img src="/uploads/districtis-count-comparison-leb.png" alt="Added buildings in Lebanon according to OHSOME dashboard" style="display: block; margin: 0 auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+    </div>
 </div>
-
-<style>
-.lebanon-building-table {
-  font-family: Arial, sans-serif;
-  max-width: 800px;
-  margin: 20px auto;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
-  padding: 20px;
-  border-radius: 5px;
-}
-
-.lebanon-building-table h2 {
-  color: #333;
-  font-size: 1.3em;
-  margin-bottom: 15px;
-  text-align: center;
-}
-
-.lebanon-building-table table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-.lebanon-building-table th {
-  background-color: #f2f2f2;
-  padding: 12px 15px;
-  text-align: left;
-  border-bottom: 2px solid #ddd;
-  font-weight: bold;
-}
-
-.lebanon-building-table td {
-  padding: 10px 15px;
-  border-bottom: 1px solid #eee;
-}
-
-.lebanon-building-table tr:hover {
-  background-color: #f9f9f9;
-}
-
-.osm-cell {
-  color: #4bc0c0;
-  font-weight: bold;
-}
-
-.percent-cell {
-  color: #2ecc71;
-  font-weight: bold;
-}
-
-.table-footer {
-  margin-top: 15px;
-  font-size: 0.9em;
-  color: #666;
-  line-height: 1.5;
-}
-</style>
 
 <br>
 
@@ -180,107 +78,12 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 
 <br>
 
-<h2 style="text-align: center; color: #333; margin-top: 20px;">Total Building Dataset Comparison, Area and Count</h2>
-<div style="text-align: center; color: #666; font-size: 0.9em; margin-top: 10px;">
-    This chart compares the total area of buildings and the total building count from three datasets: Microsoft, OSM, and Overture.
+
+<div style="text-align: center; width: 85%; margin: 0 auto;">
+    <img src="/uploads/comparison-count-area-leb.png" alt="Added buildings in Lebanon according to OHSOME dashboard" style="display: block; margin: 0 auto;">
+    <div style="font-size: 0.8em; color: #778899; line-height: 1.2; margin-top: 10px;">
+    </div>
 </div>
-
-<div id="chartContainer" style="width: 65%; height: 500px; margin: 0 auto;">
-    <canvas id="bubbleChart"></canvas>
-</div>
-
-<!-- Use correct CDN URL (removed the colon after https) -->
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const ctx = document.getElementById('bubbleChart').getContext('2d');
-        const bubbleChart = new Chart(ctx, {
-            type: 'bubble',
-            data: {
-                datasets: [
-                    {
-                        label: 'Microsoft',
-                        data: [{
-                            x: 45.56,
-                            y: 165950,
-                            r: 5 // Set radius for Microsoft
-                        }],
-                        backgroundColor: 'rgba(54, 162, 235, 0.7)',
-                        borderColor: 'rgba(54, 162, 235, 1)',
-                    },
-                    {
-                        label: 'OSM',
-                        data: [{
-                            x: 53.90,
-                            y: 234444,
-                            r: 5 // Set radius for OSM
-                        }],
-                        backgroundColor: 'rgba(75, 192, 192, 0.7)',
-                        borderColor: 'rgba(75, 192, 192, 1)',
-                    },
-                    {
-                        label: 'Overture',
-                        data: [{
-                            x: 48.64,  // Total Area of Buildings (km²)
-                            y: 191751, // Total Features Counted
-                            r: 5      // Set radius for Total
-                        }],
-                        backgroundColor: 'rgba(255, 99, 132, 0.7)',
-                        borderColor: 'rgba(255, 99, 132, 1)',
-                    }
-                ]
-            },
-            options: {
-                responsive: true,
-                maintainAspectRatio: false,
-                plugins: {
-                    tooltip: {
-                        callbacks: {
-                            label: function(tooltipItem) {
-                                // Return only the label and the x, y values without the radius
-                                return [
-                                    tooltipItem.dataset.label + ':',
-                                    'Area: ' + tooltipItem.raw.x + ' km²',
-                                    'Features: ' + tooltipItem.raw.y.toLocaleString()
-                                ];
-                            }
-                        }
-                    }
-                },
-                scales: {
-                    x: {
-                        title: {
-                            display: true,
-                            text: 'Total Area of Buildings (km²)'
-                        },
-                        min: 40,
-                        max: 60
-                    },
-                    y: {
-                        title: {
-                            display: true,
-                            text: 'Total Building Count'
-                        },
-                        min: 150000,
-                        max: 250000,
-                        ticks: {
-                            callback: function(value) {
-                                return value.toLocaleString();
-                            }
-                        }
-                    }
-                }
-            }
-        });
-    });
-</script>
-
-<style>
-    #chartContainer {
-        margin-bottom: 20px;
-    }
-</style>
-
 
 
 <br>
