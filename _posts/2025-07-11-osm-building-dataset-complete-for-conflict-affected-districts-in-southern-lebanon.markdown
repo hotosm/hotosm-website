@@ -88,7 +88,6 @@ In areas of dedicated crowdsourced OpenStreetMap efforts, **OSM has been shown t
 
 
 <br>
-<br>
 
 ## Beyond counts, is OSM more accurate than other data sources? 
 
