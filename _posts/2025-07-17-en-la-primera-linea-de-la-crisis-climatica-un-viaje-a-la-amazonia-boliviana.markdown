@@ -12,6 +12,8 @@ Project:
 - Mapeos participativos para una Amazonía sostenible
 ---
 
+**[English version](https://www.hotosm.org/updates/on-the-frontlines-of-the-climate-crisis-a-journey-to-the-bolivian-amazon/)**
+
 En el municipio de Palos Blancos, La Paz, el equipo de la Universidad Mayor de San Andrés y el Equipo Humanitario de OpenStreetMap viajó a la comunidad de Sapecho, integrada mayoritariamente por el pueblo Tacana, para desarrollar un taller de mapeo participativo orientado a la gestión territorial y la prevención de incendios. Este esfuerzo fue posible gracias al apoyo del [Instituto Interamericano para la Investigación del Cambio Global](https://www.iai.int/es) (IAI).
 
 Con la participación del Consejo Indígena del Pueblo Tacana (CIPTA), guardaparques y bomberos, el taller combinó sesiones teóricas, actividades de campo y herramientas como drones, [Drone Tasking Manager](https://www.hotosm.org/tech-suite/drone-tasking-manager/), OpenStreetMap y [ChatMap](https://www.hotosm.org/tech-suite/chatmap/). El enfoque articuló saberes técnicos y conocimientos locales para generar datos útiles y empoderar a la comunidad.
