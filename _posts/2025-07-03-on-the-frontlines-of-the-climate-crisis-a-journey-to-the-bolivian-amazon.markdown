@@ -4,12 +4,15 @@ date: 2025-07-03 03:36:00 Z
 Summary Text: In Sapecho, Bolivia, Indigenous communities, park rangers, and firefighters
   come together in an open mapping workshop to prevent wildfires and manage their
   territory with humanitarian technology.
+Feature Image: "/uploads/Mapeos%20Participativos%20para%20una%20Amazoni%CC%81a%20Sostenible%20-%20Bolivia%202.jpg"
 Person: Emilio Mariscal
 Country:
 - Bolivia
 Project:
 - Participatory Mapping for a Sustainable Amazon
 ---
+
+**[Version en español](https://www.hotosm.org/updates/en-la-primera-linea-de-la-crisis-climatica-un-viaje-a-la-amazonia-boliviana/)**
 
 In the municipality of Palos Blancos, La Paz, the team from the Universidad Mayor de San Andrés and the Humanitarian OpenStreetMap Team traveled to the community of Sapecho—predominantly inhabited by the Tacana people—to conduct a participatory mapping workshop focused on territorial management and wildfire prevention. This effort was made possible thanks to the support of the [Inter-American Institute for Global Change Research (IAI)](https://www.iai.int/en).
 
@@ -105,17 +108,24 @@ How can we develop software for humanitarian use without understanding people? F
 
 Explore the [Tech Suite](https://www.hotosm.org/tech-suite) here. These were the tools used specifically:
 
-* [Drone Tasking Manager](https://dronetm.org): for organized aerial imagery capture  
-* [OpenAerialMap](https://openaerialmap.org): for aerial image publishing  
-* [ChatMap](https://chatmap.hotosm.org): for easy and accessible street-level data capture  
+* [Drone Tasking Manager](https://dronetm.org): for organized aerial imagery capture
+
+* [OpenAerialMap](https://openaerialmap.org): for aerial image publishing
+
+* [ChatMap](https://chatmap.hotosm.org): for easy and accessible street-level data capture
+
 * [uMap](https://umap.hotosm.org): for managing and publishing geospatial data online
 
 **Explore the maps created**
 
-* [Incident Command System (ICS) practice. Faculty of Agronomy, UMSA, La Paz](https://umap.hotosm.org/en/map/practica-umsa_220)  
-* [Fire prevention mapping practice. UMSA experimental station, Sapecho](https://umap.hotosm.org/en/map/sapecho-amazonia-bolivia_273)  
-* [Industrial safety mapping practice. IIDEPROQ, La Paz](https://umap.hotosm.org/en/map/la-paz-bolivia-chatmap-dronetm-openaerialmap_234)  
-* [Incident management drill. Santa Bárbara Volunteer Firefighters, La Paz](https://umap.hotosm.org/en/map/mapa-bbvv-santa-barbara_241)  
+* [Incident Command System (ICS) practice. Faculty of Agronomy, UMSA, La Paz](https://umap.hotosm.org/en/map/practica-umsa_220)
+
+* [Fire prevention mapping practice. UMSA experimental station, Sapecho](https://umap.hotosm.org/en/map/sapecho-amazonia-bolivia_273)
+
+* [Industrial safety mapping practice. IIDEPROQ, La Paz](https://umap.hotosm.org/en/map/la-paz-bolivia-chatmap-dronetm-openaerialmap_234)
+
+* [Incident management drill. Santa Bárbara Volunteer Firefighters, La Paz](https://umap.hotosm.org/en/map/mapa-bbvv-santa-barbara_241)
+
 * [Incident management drill. Bolivian Police Firefighters, Antofagasta, La Paz](https://umap.hotosm.org/en/map/mapeo-bomberos-antofagasta_253)
 
 This work was carried out with support from the Inter-American Institute for Global Change Research (IAI) Seed Grant, *Tropical Forests in the Americas: Transdisciplinary Approaches to Environmental Transformations*, SG-TF-2024.
