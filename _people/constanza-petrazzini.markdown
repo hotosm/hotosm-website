@@ -4,7 +4,7 @@ date: 2025-03-19 14:09:00 Z
 Photo: https://cdn.hotosm.org/website/Picture1.png
 Member Type:
   Is Staff: true
-Job Title: Executive Support Administrator
+Job Title: Executive Support Administrator - Latin America and Caribbean Hub
 Country: Uruguay
 Team: Latin America and Caribbean Hub
 Social Media (Full URL):
