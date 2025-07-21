@@ -4,7 +4,7 @@ date: 2025-06-23 12:25:00 Z
 Photo: https://cdn.hotosm.org/website/Kristh.jpg
 Member Type:
   Is Staff: true
-Job Title: Senior Associate, Finance
+Job Title: Senior Associate, Finance - Asia Pacific Hub
 Team: Asia Pacific Hub
 ---
 
