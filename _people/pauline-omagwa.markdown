@@ -4,7 +4,8 @@ date: 2024-01-04 11:40:00 Z
 Photo: https://cdn.hotosm.org/website/Screenshot+2024-01-04+at+14.39.38.png
 Member Type:
   Is Staff: true
-Job Title: Digital Content Strategist - Eastern and Southern Africa Hub
+Job Title: Communications and Fundraising Specialist - Eastern and Southern Africa
+  Hub
 Country: Kenya
 Team: Eastern and Southern Africa Hub
 ---
