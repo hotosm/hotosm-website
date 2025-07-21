@@ -4,7 +4,7 @@ date: 2024-12-27 22:17:00 Z
 Photo: https://cdn.hotosm.org/website/M.jpg
 Member Type:
   Is Staff: true
-Job Title: Geospatial and Data Assistant
+Job Title: Geospatial and Data Assistant - West and Northern Africa Hub
 Team: West and Northern Africa Hub
 ---
 
