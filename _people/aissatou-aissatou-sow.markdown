@@ -1,7 +1,7 @@
 ---
 title: Aissatou Sow
 date: 2022-02-09 05:56:00 Z
-Photo: https://cdn.hotosm.org/website/249-1-2.jpg
+Photo: "/uploads/249-8-4.jpg"
 Member Type:
   Is Staff: true
 Job Title: Programs & Operations, Sr. Associate
