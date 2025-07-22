@@ -34,7 +34,7 @@ Dhaka, the capital of Bangladesh, is a clear example. As one of the world’s fa
 ### Local Youth Leadership to Drive Sustainable, Community-Led Solutions
 
 <p></p>
-<div style="text-align: center;"><iframe width="640" height="360" src="https://www.youtube.com/embed/cW6esPYk0us?si=2cJPcJqsMtTnj9Ub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/cW6esPYk0us?si=2cJPcJqsMtTnj9Ub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p></p>
 
 The Climate Resilience Fellowship (CRF) is a joint initiative by [Open Mapping Hub - Asia Pacific (AP Hub)](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) and [World Vision Bangladesh](https://www.wvi.org/bangladesh), funded by [NetHope](https://nethope.org/). The program puts **local youth** at the center of climate resilience work.
@@ -48,7 +48,7 @@ The Climate Resilience Fellowship (CRF) is a joint initiative by [Open Mapping H
 
 In the long term, CRF aims to spark a larger movement for inclusive, localized, and community-led climate resilience across Asia Pacific.
 
----
+<hr>
 
 ### Why Local Youth?
 
@@ -58,7 +58,7 @@ Fellows were selected from both the climate action and open mapping communities,
 
 Most importantly, they are **local leaders.** They live in or around the communities they serve and understand their challenges firsthand. Through their vision and deep community insight, they can create **sustainable, impactful, and inclusive solutions that truly address local needs.**
 
----
+<hr>
 
 ### Capstone Projects
 
@@ -66,7 +66,7 @@ Each fellow group leads a capstone project that addresses a specific climate ris
 
 Designed to be realistic, replicable, and community-owned, the capstone projects will primarily engage local communities in Dhaka, with a few projects taking place in Chattogram.
 
----
+<hr>
 
 ## The Fellowship Phases
 
@@ -79,16 +79,16 @@ Designed to be realistic, replicable, and community-owned, the capstone projects
 * Recognition and visibility for grassroots innovation in climate resilience
 * Support to help projects sustain and grow
 
----
+<hr>
 
 By the end of the fellowship, fellows will have strengthened their skills and confidence in leveraging open mapping for climate action, while also have implemented **pilot projects that shed light on local vulnerabilities and solutions.**
 
 Additionally, they will inspire other youths and future generations to become changemakers in climate resilience and open mapping.
 
----
+<hr>
 
 Stay updated on the latest news from our fellows’ capstone projects through our [social media channels](http://linktr.ee/openmapping_ap).
 
----
+<hr>
 
 <small>*Cover photo credit: Rajib Mahmud / World Vision Bangladesh*</small>
