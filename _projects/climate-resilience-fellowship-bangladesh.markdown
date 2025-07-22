@@ -35,6 +35,8 @@ Dhaka, the capital of Bangladesh, is a clear example. As one of the world’s fa
 
 The Climate Resilience Fellowship (CRF) is a joint initiative by [Open Mapping Hub - Asia Pacific (AP Hub)](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) and [World Vision Bangladesh](https://www.wvi.org/bangladesh), funded by [NetHope](https://nethope.org/). The program puts **local youth** at the center of climate resilience work.
 
+<div style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/cW6esPYk0us?si=2cJPcJqsMtTnj9Ub" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
 **CRF goals:**
 * Build local leadership among youth in climate-affected regions
 * Enable fellows to design data-informed, community-driven interventions
