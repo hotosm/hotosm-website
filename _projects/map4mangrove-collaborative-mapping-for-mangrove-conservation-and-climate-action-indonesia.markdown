@@ -3,6 +3,26 @@ title: Map4Mangrove - Collaborative Mapping for Mangrove Conservation and Climat
   Action  - Indonesia
 date: 2025-07-22 19:35:00 Z
 published: false
+tags:
+- Asia Pacific
+- Indonesia
+Project Summary Text: Mangroves play a crucial role in coastal protection, biodiversity
+  conservation, and carbon sequestration. To enhance mangrove monitoring efforts,
+  Open Mapping Hub - Asia Pacific is partnering with organizations working in biodiversity
+  and conservation to integrate open geospatial data into their work.
+Country:
+- Indonesia
+Impact Area:
+- Disasters & Climate Resilience
+Person:
+- Harry Mahardhika Machmud
+Partner:
+- Yayasan KEHATI
+- Yayasan SALAKA
+Duration:
+  Start Date: 2025-01-01 00:00:00 Z
+Tools:
+- tool: Drone Tasking Manager
 ---
 
 ## Monitoring Gaps in Mangrove Conservation
