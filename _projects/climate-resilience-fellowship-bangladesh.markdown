@@ -29,7 +29,7 @@ Across the Asia-Pacific region, climate impacts are becoming more severe and une
 
 Dhaka, the capital of Bangladesh, is a clear example. As one of the world’s fastest-growing megacities, it is home to numerous informal settlements that are highly vulnerable to climate risks such as water scarcity, flooding, and extreme heat.
 
----
+<hr>
 
 ### Local Youth Leadership to Drive Sustainable, Community-Led Solutions
 
