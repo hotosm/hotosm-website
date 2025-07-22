@@ -93,4 +93,4 @@ Stay updated on the latest news from our fellows’ capstone projects through ou
 
 ---
 
-*Cover photo credit: Rajib Mahmud / World Vision Bangladesh*
+<small>*Cover photo credit: Rajib Mahmud / World Vision Bangladesh*</small>
