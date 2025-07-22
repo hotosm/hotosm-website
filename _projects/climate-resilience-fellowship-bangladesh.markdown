@@ -26,13 +26,14 @@ Duration:
 ## Climate, a Regional Challenge
 
 Across the Asia-Pacific region, climate impacts are becoming more severe and uneven—affecting informal settlements, frontline communities, and marginalized groups first. Many of these areas lack reliable data, infrastructure, and representation in resilience planning processes.
+
 Dhaka, the capital of Bangladesh, is a clear example. As one of the world’s fastest-growing megacities, it is home to numerous informal settlements that are highly vulnerable to climate risks such as water scarcity, flooding, and extreme heat.
 
 ---
 
 ### Local Youth Leadership to Drive Sustainable, Community-Led Solutions
 
-The Climate Resilience Fellowship (CRF) is a joint initiative by Open Mapping Hub - Asia Pacific (AP Hub) and World Vision Bangladesh, funded by NetHope. The program puts local youth at the center of climate resilience work.
+The Climate Resilience Fellowship (CRF) is a joint initiative by [Open Mapping Hub - Asia Pacific (AP Hub)](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) and [World Vision Bangladesh](https://www.wvi.org/bangladesh), funded by [NetHope](https://nethope.org/). The program puts **local youth** at the center of climate resilience work.
 
 **CRF goals:**
 * Build local leadership among youth in climate-affected regions
