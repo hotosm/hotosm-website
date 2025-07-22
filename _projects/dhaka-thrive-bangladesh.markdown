@@ -32,7 +32,7 @@ The key output is the **[Dhaka Thrive Dashboard](https://bit.ly/dhakathrivedashb
 
 <hr>
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/dhaka-thrive-umap-dashboard_1123060?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/dhaka-thrive-umap-dashboard_1123060?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">See full screen</a></p>
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/dhaka-thrive-umap-dashboard_1123060?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/dhaka-thrive-umap-dashboard_1123060?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">See full screen</a></p>
 
 By developing a strong geospatial database, it will be easier to understand shifting population dynamics and needs in the coming decades. This is especially important now as Bangladesh prepares to exit its LDC (Least Developed Country) status in 2026, when the need for smart and inclusive urban planning will become even more critical.
 
@@ -52,6 +52,8 @@ We aim to collaborate with stakeholders to leverage the collected data and dashb
 Building on the 2024 pilot, where data collection was largely led and carried out by local teams, this year we are opening the door for broader community involvement through the Dhaka Thrive Challenge.
 
 This campaign is an open call for Dhaka’s community members where they will participate in an 8-week challenge (July–September 2025) to map critical data in Dhaka’s informal settlements, both within and beyond the areas mapped during the pilot. Over 30 people–most of them youths–are actively contributing to field data collection focused on three categories: hazard risks, critical lifeline facilities, and street-level imagery.
+
+<hr>
 
 ### How You Can Support
 
