@@ -5,11 +5,11 @@ published: false
 tags:
 - Asia Pacific
 - Bangladesh
-Project Summary Text: The **Climate Resilience Fellowship** empowers young leaders
-  across Bangladesh to **design and implement community-led projects–known as “capstone
-  projects”–to address urgent climate issues.** By combining climate data and open
-  mapping technologies with local knowledge and people-centered approaches, fellows
-  work directly with communities to reduce climate risks and strengthen climate resilience.
+Project Summary Text: The Climate Resilience Fellowship empowers young leaders across
+  Bangladesh to design and implement community-led projects–known as “capstone projects”–to
+  address urgent climate issues. By combining climate data and open mapping technologies
+  with local knowledge and people-centered approaches, fellows work directly with
+  communities to reduce climate risks and strengthen climate resilience.
 Country:
 - Bangladesh
 Impact Area:
@@ -89,4 +89,5 @@ Additionally, they will inspire other youths and future generations to become ch
 Stay updated on the latest news from our fellows’ capstone projects through our [social media channels](http://linktr.ee/openmapping_ap).
 
 ---
-*[Cover photo credit: Rajib Mahmud / World Vision Bangladesh]*
+
+*Cover photo credit: Rajib Mahmud / World Vision Bangladesh*
