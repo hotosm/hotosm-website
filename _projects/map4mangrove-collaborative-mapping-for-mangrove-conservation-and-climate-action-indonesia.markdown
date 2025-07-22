@@ -70,4 +70,4 @@ This inclusive process is essential to the long-term sustainability of the monit
 
 Follow our journey and stay updated with the latest news from the project through our social media.
 
-[Cover photo credit: Tony Liong / Open Mapping Hub - Asia Pacific]
+<span style="font-size: 12px;">*Cover photo credit: Tony Liong / Open Mapping Hub - Asia Pacific*</span>
