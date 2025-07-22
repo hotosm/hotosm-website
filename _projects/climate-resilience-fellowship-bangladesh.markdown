@@ -74,11 +74,12 @@ Designed to be realistic, replicable, and community-owned, the capstone projects
 2. **Project Planning & Mentorship** – Fellows designed their capstone proposals, refined them through feedback from mentors and technical staff, and aligned their work with community needs and feasibility. This phase concluded with the Culmination Week.
 3. **Capstone Implementation** (current phase) – Fellows are implementing their projects with seed funding, regular check-ins, and community engagements over three months.
 4. **Pitching Session** (final phase) – Fellows will present their projects to a panel of funders, community leaders, and innovation experts. This event aims to propel promising projects forward through:
+* * Strategic feedback on scalability and sustainability
+* * Networking opportunities for future partnerships or funding
+* * Recognition and visibility for grassroots innovation in climate resilience
+* * Support to help projects sustain and grow
 
-* Strategic feedback on scalability and sustainability
-* Networking opportunities for future partnerships or funding
-* Recognition and visibility for grassroots innovation in climate resilience
-* Support to help projects sustain and grow
+
 
 ---
 
