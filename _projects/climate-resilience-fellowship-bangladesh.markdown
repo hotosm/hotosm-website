@@ -29,7 +29,7 @@ Across the Asia-Pacific region, climate impacts are becoming more severe and une
 
 Dhaka, the capital of Bangladesh, is a clear example. As one of the world’s fastest-growing megacities, it is home to numerous informal settlements that are highly vulnerable to climate risks such as water scarcity, flooding, and extreme heat.
 
-<hr style="margin: 20px 0;">
+<hr>
 
 ### Local Youth Leadership to Drive Sustainable, Community-Led Solutions
 
@@ -86,7 +86,7 @@ By the end of the fellowship, fellows will have strengthened their skills and co
 
 Additionally, they will inspire other youths and future generations to become changemakers in climate resilience and open mapping.
 
-<hr style="margin: 20px 0;">
+<hr>
 
 Stay updated on the latest news from our fellows’ capstone projects through our [social media channels](http://linktr.ee/openmapping_ap).
 
