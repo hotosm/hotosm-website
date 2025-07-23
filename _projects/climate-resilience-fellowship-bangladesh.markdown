@@ -64,114 +64,84 @@ Most importantly, they are **local leaders.** They live in or around the communi
 
 <br>
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Photo Carousel</title>
-<!-- Swiper CSS -->
-<link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css">
+<title>Simple Carousel</title>
 <style>
-.swiper {
-width: 100%;
-max-width: 640px;
-height: 360px;
-margin: 0 auto;
-background: white;
-border: 1px solid #eee;
+.carousel {
+  max-width: 640px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #ddd;
+  background: #fff;
 }
-.swiper-slide {
-display: flex;
-align-items: center;
-justify-content: center;
-background: white;
+.carousel-images {
+  display: flex;
+  transition: transform 0.3s ease-in-out;
 }
-.swiper-slide img {
-max-width: 100%;
-max-height: 100%;
-object-fit: contain;
+.carousel-images img {
+  width: 100%;
+  flex-shrink: 0;
+  object-fit: contain;
 }
-.swiper-button-next,
-.swiper-button-prev {
-color: #333;
-background: rgba(255,255,255,0.8);
-width: 30px;
-height: 30px;
-border-radius: 50%;
-border: 1px solid #ddd;
+.carousel-controls {
+  text-align: center;
+  margin-top: 10px;
 }
-.swiper-button-next::after,
-.swiper-button-prev::after {
-font-size: 16px;
+button {
+  background: #333;
+  color: white;
+  border: none;
+  padding: 5px 15px;
+  margin: 0 5px;
+  border-radius: 3px;
+  cursor: pointer;
 }
-.controls {
-text-align: center;
-margin-top: 10px;
-}
-.controls button {
-background: #333;
-color: white;
-border: none;
-padding: 5px 15px;
-margin: 0 5px;
-border-radius: 3px;
-cursor: pointer;
-}
-.controls button:hover {
-background: #555;
+button:hover {
+  background: #555;
 }
 </style>
 </head>
 <body>
 
-<!-- Swiper -->
-<div class="swiper">
-<div class="swiper-wrapper">
-<div class="swiper-slide">
-<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWZkMjkzNDM5NDdiNWQ0MjVhOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 1">
-</div>
-<div class="swiper-slide">
-<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA3MjkzNDM5NDdiNWQ0MjVhYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 2">
-</div>
-<div class="swiper-slide">
-<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA1MjkwYmUyNDc0OGRkNGU5MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 3">
-</div>
-<div class="swiper-slide">
-<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWJkMjkwYmUyNDc0OGRkNGU4ZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 4">
-</div>
-<div class="swiper-slide">
-<img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWVlMjkzNDM5NDdiNWQ0MjVhOC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="Image 5">
-</div>
+<div class="carousel">
+  <div class="carousel-images" id="carousel">
+    <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWZkMjkzNDM5NDdiNWQ0MjVhOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="1">
+    <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA3MjkzNDM5NDdiNWQ0MjVhYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="2">
+    <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA1MjkwYmUyNDc0OGRkNGU5MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="3">
+  </div>
 </div>
 
-    <!-- Navigation buttons -->
-    <div class="swiper-button-next"></div>
-    <div class="swiper-button-prev"></div>
-
+<div class="carousel-controls">
+  <button onclick="prevSlide()">Previous</button>
+  <button onclick="nextSlide()">Next</button>
 </div>
 
-<!-- Additional manual controls -->
-<div class="controls">
-<button id="prevBtn">Previous</button>
-<button id="nextBtn">Next</button>
-</div>
-
-<!-- Swiper JS -->
-<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
-<!-- Initialize Swiper -->
 <script>
-const swiper = new Swiper('.swiper', {
-loop: true,
-navigation: {
-nextEl: '.swiper-button-next',
-prevEl: '.swiper-button-prev',
-},
-});
+const carousel = document.getElementById('carousel');
+const totalSlides = carousel.children.length;
+let currentIndex = 0;
 
-    document.getElementById("prevBtn").addEventListener("click", () => swiper.slidePrev());
-    document.getElementById("nextBtn").addEventListener("click", () => swiper.slideNext());
+function updateSlide() {
+  const offset = -currentIndex * 100;
+  carousel.style.transform = `translateX(${offset}%)`;
+}
 
+function prevSlide() {
+  currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+  updateSlide();
+}
+
+function nextSlide() {
+  currentIndex = (currentIndex + 1) % totalSlides;
+  updateSlide();
+}
 </script>
+
 </body>
 </html>
 
