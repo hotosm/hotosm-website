@@ -62,9 +62,6 @@ Most importantly, they are **local leaders.** They live in or around the communi
 
 ### Capstone Projects
 
-<br>
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
