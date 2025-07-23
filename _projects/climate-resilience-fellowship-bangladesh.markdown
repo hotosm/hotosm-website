@@ -150,7 +150,7 @@ function nextSlide() {
 Each fellow group leads a capstone project that addresses a specific climate risk or capacity gap. Projects cover diverse themes, including waste management, rainwater harvesting, heat adaptation, climate education, and community awareness.
 
 Designed to be realistic, replicable, and community-owned, the capstone projects will primarily engage local communities in Dhaka, with a few projects taking place in Chattogram.
-
+<br>
 <hr>
 
 ## The Fellowship Phases
@@ -175,4 +175,5 @@ Additionally, they will inspire other youths and future generations to become ch
 <br>
 Stay updated on the latest news from our fellows’ capstone projects through our [social media channels](http://linktr.ee/openmapping_ap).
 <br>
+
 <span style="font-size: 12px;">*Cover photo credit: Rajib Mahmud / World Vision Bangladesh*</span>
