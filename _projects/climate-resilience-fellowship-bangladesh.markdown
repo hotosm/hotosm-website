@@ -52,7 +52,7 @@ In the long term, CRF aims to spark a larger movement for inclusive, localized, 
 
 ### Why Local Youth?
 
-We believe that **the best solutions come from those who truly understand the problems.**
+We believe **the best solutions come from those who truly understand the problems.**
 
 Fellows were selected from both the climate action and open mapping communities, bridging technical expertise with lived experiences. As youth, they also bring fresh perspectives, creative problem-solving, and strong motivation to shape their communities’ futures.
 
