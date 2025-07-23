@@ -67,4 +67,4 @@ Follow our [social media](https://linktr.ee/openmapping_ap) for the latest updat
 
 If you’re interested to learn more about the Dhaka Thrive Dashboard, or thinking about creating a similar dashboard for your project, please reach us at **openmappinghub.ap@hotosm.org**
 
-<span style="font-size: 12px;">*Cover photo credit:*</span>
+<span style="font-size: 12px;">*Cover photo credit: World Vision Bangladesh volunteer team*</span>
