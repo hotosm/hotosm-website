@@ -23,7 +23,7 @@ Duration:
   Start Date: 2025-01-01 00:00:00 Z
 Data:
 - title: Dhaka Thrive Dashboard
-- link: https://bit.ly/dhakathrivedashboard
+  link: https://bit.ly/dhakathrivedashboard
 Tools:
 - tool: KoboToolbox
   link: https://ee-eu.kobotoolbox.org/x/5o2UMUXa
