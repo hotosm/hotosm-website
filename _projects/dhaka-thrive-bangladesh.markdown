@@ -2,7 +2,6 @@
 title: Dhaka Thrive - Data-Driven Insights for Climate Resilience and Urban Development
   - Bangladesh
 date: 2025-07-22 20:03:00 Z
-published: false
 tags:
 - Asia Pacific
 - Bangladesh
@@ -11,6 +10,7 @@ Project Summary Text: In 2024, Dhaka Thrive was launched to address the need for
   for smarter, more inclusive urban planning. In this next phase, the project will
   focus on transforming insights into action—empowering local communities and decision-makers
   to drive meaningful, data-informed change.
+Feature Image: "/uploads/Dhaka-Thrive_Website-Cover.jpg"
 Country:
 - Bangladesh
 Impact Area:
@@ -55,7 +55,7 @@ We aim to collaborate with stakeholders to leverage the collected data and dashb
 
 2. **Scaling and local community empowerment**
 
-Building on the 2024 pilot, where data collection was largely led and carried out by local teams, this year we are opening the door for broader community involvement through the Dhaka Thrive Challenge.
+Building on the 2024 pilot, where data collection was largely led and carried out by local teams, this year we are opening the door for broader community involvement through the **Dhaka Thrive Challenge**.
 
 This campaign is an open call for Dhaka’s community members where they will participate in an 8-week challenge (July–September 2025) to map critical data in Dhaka’s informal settlements, both within and beyond the areas mapped during the pilot. Over 30 people–most of them youths–are actively contributing to field data collection focused on three categories: hazard risks, critical lifeline facilities, and street-level imagery.
 
