@@ -22,6 +22,9 @@ Partner:
 Duration:
   Start Date: 2023-10-01 00:00:00 Z
   End Date: 2024-12-31 00:00:00 Z
+Data:
+- title: Dhaka Thrive Dashboard
+- link: https://bit.ly/dhakathrivedashboard
 Tools:
 - tool: Tasking Manager
   link: https://tasks.hotosm.org/
