@@ -20,11 +20,14 @@ Our goal is to drive the evolution and growth of locally-driven, sustainable ope
 
 ## Current projects:
 <br>
+
 [Dhaka Thrive - Data-Driven Insights for Climate Resilience and Urban Development - Bangladesh](https://www.hotosm.org/projects/dhaka-thrive-bangladesh/)
 
 *Partner: World Vision Bangladesh*
 
 In 2024, Dhaka Thrive was launched to address the need for open and reliable geospatial data for Dhaka’s informal settlements, laying the foundation for smarter, more inclusive urban planning. In this next phase, the project will focus on transforming insights into action—empowering local communities and decision-makers to drive meaningful, data-informed change.
+
+
 
 * [**Myanmar Earthquake Response 2025**](https://www.hotosm.org/projects/myanmar-earthquake-response-2025/)
 
