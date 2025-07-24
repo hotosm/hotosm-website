@@ -99,10 +99,12 @@ Learn more about the dashboard through this [infographic](https://bit.ly/dhakath
 
 Through data collection and local engagement, Dhaka Thrive enriched existing maps of Mirpur’s informal settlements—areas that previously lacked detailed, up-to-date geospatial information. **When communities are represented on the map, their needs and challenges become more visible**, allowing more resource planning and inclusive decision-making.
 
-![Dhaka-Thrive_Critical-Lifeline-Facilities_Before-and-After.gif](/uploads/Dhaka-Thrive_Critical-Lifeline-Facilities_Before-and-After.gif)<div style="text-align: center;"><span style="font-size: 12px;">Critical facilities mapped in Mirpur before and after the Dhaka Thrive project | Map visualization: Honey Fombuena / Open Mapping Hub - Asia Pacific</span></div>
+![Dhaka-Thrive_Critical-Lifeline-Facilities_Before-and-After.gif](/uploads/Dhaka-Thrive_Critical-Lifeline-Facilities_Before-and-After.gif)<div style="text-align: center;"><span style="font-size: 12px;">
+Critical facilities mapped in Mirpur before and after the Dhaka Thrive project | Map visualization: Honey Fombuena / Open Mapping Hub - Asia Pacific</span></div>
 
 ![Dhaka-Thrive_Testimonial_Rani-Akter.png](/uploads/Dhaka-Thrive_Testimonial_Rani-Akter.png)
 <div style="text-align: center;"><span style="font-size: 12px;">Rani Akter, Mirpur community member, shares her thoughts on the Dhaka Thrive project. | Photo: Dhaka Thrive video team</span></div>
+<br>
 
 Additionally, the project empowered local youth by equipping them with digital skills in mapping and data analysis through direct involvement in data collection. This approach not only promoted sustainability but also contributed to the Bangladesh government’s vision of building a digital nation.
 
