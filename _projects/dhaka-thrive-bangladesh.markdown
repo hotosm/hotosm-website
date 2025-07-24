@@ -21,8 +21,16 @@ Partner:
 - World Vision Bangladesh
 Duration:
   Start Date: 2025-01-01 00:00:00 Z
+Map Products:
+- Dhaka Thrive Dashboard
+Data:
+- title: Dhaka Thrive Dashboard
+- link: https://bit.ly/dhakathrivedashboard
 Tools:
 - tool: KoboToolbox
+  link: https://ee-eu.kobotoolbox.org/x/5o2UMUXa
+- tool: Mapillary
+  link: https://www.mapillary.com/
 ---
 
 ## Dhaka Thrive: Open Data for Smarter, Inclusive Cities
