@@ -112,7 +112,7 @@ Through data collection and local engagement, Dhaka Thrive enriched existing map
 Additionally, the project empowered local youth by equipping them with digital skills in mapping and data analysis through direct involvement in data collection. This approach not only promoted sustainability but also contributed to the Bangladesh government’s vision of building a digital nation.
 
 ![Dhaka-Thrive_Testimonial_Brazil-Singh.png](/uploads/Dhaka-Thrive_Testimonial_Brazil-Singh.png)
-<div style="text-align: center;"><span style="font-size: 12px;">Members of World Vision Bangladesh, led by our Open Mapping Guru Brazil Singh, eagerly collected street-level images using Mapillary during a field visit to Mirpur. Read Brazil’s [OSM Diary](https://www.openstreetmap.org/user/Brazil%20Singh/diary/403790) entry to gain insight into the fieldwork through the lens of a local community member and open mapping representative. | Photo: World Vision Bangladesh volunteer team</span></div>
+<div style="text-align: center;"><span style="font-size: 12px;">Members of World Vision Bangladesh, led by our Open Mapping Guru Brazil Singh, eagerly collected street-level images using Mapillary during a field visit to Mirpur. Read Brazil’s <a href="https://www.openstreetmap.org/user/Brazil%20Singh/diary/403790" target="_blank">OSM Diary</a> entry to gain insight into the fieldwork through the lens of a local community member and open mapping representative. | Photo: World Vision Bangladesh volunteer team</span></div>
 <br>
 <hr>
 
@@ -154,7 +154,7 @@ To learn more about the next phase of the project, starting in January 2025, vis
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/hUlotjYqNsc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
-
+<br>
 2) Read our [feature article](https://theclimatewatch.com/bustling-capital-of-bangladesh-using-open-map-data-to-fuel-urban-innovation/) in the Global Climate Watch.
 3) Read and download our [project report](https://drive.google.com/file/d/16F-djDrdlozj9e6V7t9tv1umvPnzMopY/view?usp=sharing).
 
