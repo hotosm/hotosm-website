@@ -45,6 +45,7 @@ Implemented in 2024, the project centered on Mirpur, a densely populated area in
 
 ![Dhaka-Thrive_Field-Visit_2024.jpg](/uploads/Dhaka-Thrive_Field-Visit_2024.jpg)
 <div style="text-align: center;"><span style="font-size: 12px;">Field visit and data collection at Duaripara, Mirpur (March 2024) | Photo: Honey Fombuena / Open Mapping Hub - Asia Pacific</span></div>
+<br>
 
 By mapping critical features and establishing a comprehensive geospatial data, Dhaka Thrive provides deeper insights into the community’s needs and challenges, including climate risks and vulnerabilities, access to basic amenities, and patterns of settlement.
 
@@ -56,7 +57,9 @@ These insights enable governments, NGOs, humanitarian organizations, policymaker
 
 The project addressed data gaps with partners, local communities, and stakeholders through **remote mapping and validation.** This was followed by **field data collection and mapping campaigns focused on the most vulnerable informal settlements.**
 
-![Dhaka-Thrive_Field-Mapping_2024.jpg](/uploads/Dhaka-Thrive_Field-Mapping_2024.jpg)<div style="text-align: center;"><span style="font-size: 12px;">Field mappings conducted by local teams, mostly composed of youth (September 2024) | Photo: Dhaka Thrive field team</span></div>
+![Dhaka-Thrive_Field-Mapping_2024.jpg](/uploads/Dhaka-Thrive_Field-Mapping_2024.jpg)
+<div style="text-align: center;"><span style="font-size: 12px;">Field mappings conducted by local teams, mostly composed of youth (September 2024) | Photo: Dhaka Thrive field team</span></div>
+<br>
 
 At the field, in addition to collecting data, the teams **actively engaged with community members to raise awareness** about Dhaka Thrive, ensuring they are informed on how open data can benefit their communities.
 
