@@ -90,6 +90,7 @@ By the end of the fellowship, fellows will have strengthened their skills and co
 Additionally, they will inspire other youths and future generations to become changemakers in climate resilience and open mapping.
 <br>
 <hr>
+
 Stay updated on the latest news from our fellows’ capstone projects through our [social media channels](http://linktr.ee/openmapping_ap).
 
 <span style="font-size: 12px;">*Cover photo credit: Rajib Mahmud / World Vision Bangladesh*</span>
