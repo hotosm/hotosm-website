@@ -10,6 +10,7 @@ Project Summary Text: The Climate Resilience Fellowship empowers young leaders a
   with local knowledge and people-centered approaches, fellows work directly with
   communities to reduce climate risks and strengthen climate resilience.
 Feature Image: "/uploads/CRF_Website-Cover.jpg"
+Is image top aligned: true
 Country:
 - Bangladesh
 Impact Area:
