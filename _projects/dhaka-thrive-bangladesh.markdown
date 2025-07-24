@@ -21,8 +21,6 @@ Partner:
 - World Vision Bangladesh
 Duration:
   Start Date: 2025-01-01 00:00:00 Z
-Map Products:
-- Dhaka Thrive Dashboard
 Data:
 - title: Dhaka Thrive Dashboard
 - link: https://bit.ly/dhakathrivedashboard
