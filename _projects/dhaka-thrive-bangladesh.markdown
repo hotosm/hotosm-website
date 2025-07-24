@@ -72,7 +72,7 @@ This campaign is an open call for Dhaka’s community members where they will pa
 
 ### How You Can Support
 
-![Dhaka-Thrive_Mirpur-Map_2024.jpg](/uploads/Dhaka-Thrive_Mirpur-Map_2024.jpg)
+![Dhaka-Thrive_Mirpur-Map_2024-4998b9.jpg](/uploads/Dhaka-Thrive_Mirpur-Map_2024-4998b9.jpg)
 <div style="text-align: center;"><span style="font-size: 12px;">Photo: Dhaka Thrive video team</span></div>
 
 <br>
