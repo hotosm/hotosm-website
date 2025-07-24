@@ -42,7 +42,7 @@ These areas are highly vulnerable to climate hazards like urban flooding, fires,
 
 ### About Dhaka Thrive
 
-To address these complex urban issues, [Open Mapping Hub - Asia Pacific](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) (AP Hub) partnered with [World Vision Bangladesh](https://www.wvi.org/bangladesh) to launch **Dhaka Thrive**—an initiative focused on **improving access and availability of open geospatial data in Dhaka’s informal settlements.**
+To address these complex urban issues, [Open Mapping Hub - Asia Pacific (AP Hub)](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) partnered with [World Vision Bangladesh](https://www.wvi.org/bangladesh) to launch **Dhaka Thrive**—an initiative focused on **improving access and availability of open geospatial data in Dhaka’s informal settlements.**
 
 Implemented in 2024, the project centered on Mirpur, a densely populated area in North Dhaka with a high number of informal settlements and climate migrants.
 
