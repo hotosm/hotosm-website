@@ -21,7 +21,7 @@ Our goal is to drive the evolution and growth of locally-driven, sustainable ope
 ## Current projects:
 <br>
 
-[Dhaka Thrive - Data-Driven Insights for Climate Resilience and Urban Development - Bangladesh](https://www.hotosm.org/projects/dhaka-thrive-bangladesh/)
+* [**Dhaka Thrive - Data-Driven Insights for Climate Resilience and Urban Development - Bangladesh**](https://www.hotosm.org/projects/dhaka-thrive-bangladesh/)
 
 *Partner: World Vision Bangladesh*
 
