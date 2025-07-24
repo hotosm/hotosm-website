@@ -27,8 +27,8 @@ Data:
 Tools:
 - tool: KoboToolbox
   link: https://ee-eu.kobotoolbox.org/x/5o2UMUXa
-- tool: Mapillary
-  link: https://www.mapillary.com/
+- link: https://www.mapillary.com/
+  tool: Mapillary
 ---
 
 ## Dhaka Thrive: Open Data for Smarter, Inclusive Cities
