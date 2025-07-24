@@ -62,7 +62,7 @@ We aim to collaborate with stakeholders to leverage the collected data and dashb
 * **Workshops** with potential data users.
 * **Documentation of data use cases** to illustrate how the collected data can be applied across various urban and climate issues or contexts.
 
-2. **Scaling and local community empowerment**
+1. **Scaling and local community empowerment**
 
 Building on the 2024 pilot, where data collection was largely led and carried out by local teams, this year we are opening the door for broader community involvement through the **Dhaka Thrive Challenge**.
 
