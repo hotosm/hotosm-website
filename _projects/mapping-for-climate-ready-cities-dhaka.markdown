@@ -130,6 +130,16 @@ To learn more about the next phase of the project, starting in January 2025, vis
 
 1. Video - Data Collection and Community Story in Mirpur: https://youtu.be/QPiB5XwcgdE?feature=shared
 2. Video - Stakeholder Dissemination Workshop: https://youtu.be/hUlotjYqNsc?feature=shared
+
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px; max-width: 50%;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/QPiB5XwcgdE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  <div style="flex: 1; min-width: 300px; max-width: 50%;">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/hUlotjYqNsc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
+
 3. Read our [feature article](https://theclimatewatch.com/bustling-capital-of-bangladesh-using-open-map-data-to-fuel-urban-innovation/) in the Global Climate Watch.
 4. Read and download our [project report](https://drive.google.com/file/d/16F-djDrdlozj9e6V7t9tv1umvPnzMopY/view?usp=sharing).
 
