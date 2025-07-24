@@ -122,6 +122,7 @@ As Dhaka Thrive moves forward, the focus on empowering communities and decision-
 ![Dhaka-Thrive_Dissemination-Workshop_2024.jpg](/uploads/Dhaka-Thrive_Dissemination-Workshop_2024.jpg)
 <div style="text-align: center;"><span style="font-size: 12px;">Dissemination workshop in Dhaka, Bangladesh to share output and findings from the project (November 2024). The workshop was attended by local stakeholders from government agencies, NGOs, and university representatives. | Photo: Arman Nahian</span></div>
 
+<br>
 <hr>
 
 ### Next Steps
@@ -138,7 +139,7 @@ To learn more about the next phase of the project, starting in January 2025, vis
 
 ### More from Dhaka Thrive: Stories, Videos, and Resources
 
-1. Video - Data Collection and Community Story in Mirpur | Stakeholder Dissemination Workshop
+1. Video - Data Collection and Community Story in Mirpur & Stakeholder Dissemination Workshop
 
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px; max-width: 50%;">
