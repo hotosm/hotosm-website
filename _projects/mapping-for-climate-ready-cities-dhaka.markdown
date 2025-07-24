@@ -91,7 +91,7 @@ Learn more about the dashboard through this [infographic](https://bit.ly/dhakath
 
 <hr>
 
-### Putting Vulnerable Communities on the Map
+### Putting Underrepresented Communities on the Map
 
 Through data collection and local engagement, Dhaka Thrive enriched existing maps of Mirpur’s informal settlements—areas that previously lacked detailed, up-to-date geospatial information. **When communities are represented on the map, their needs and challenges become more visible**, allowing more resource planning and inclusive decision-making.
 
