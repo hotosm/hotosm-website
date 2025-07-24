@@ -3,6 +3,9 @@ title: Dhaka Thrive - Data-Driven Insights for Climate Resilience and Urban Deve
   - Bangladesh
 date: 2025-07-22 20:03:00 Z
 published: false
+tags:
+- Asia Pacific
+- Bangladesh
 Project Summary Text: In 2024, Dhaka Thrive was launched to address the need for open
   and reliable geospatial data for Dhaka’s informal settlements, laying the foundation
   for smarter, more inclusive urban planning. In this next phase, the project will
