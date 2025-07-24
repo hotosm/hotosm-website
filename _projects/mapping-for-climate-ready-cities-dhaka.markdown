@@ -28,8 +28,8 @@ Data:
 Tools:
 - tool: Tasking Manager
   link: https://tasks.hotosm.org/
-- tool: KoboToolbox
-  link: https://ee-eu.kobotoolbox.org/x/5o2UMUXa
+- link: https://ee-eu.kobotoolbox.org/x/5o2UMUXa
+  tool: KoboToolbox
 ---
 
 ## Climate Vulnerabilities in Dhaka
@@ -156,6 +156,7 @@ To learn more about the next phase of the project, starting in January 2025, vis
 </div>
 <br>
 2) Read our [feature article](https://theclimatewatch.com/bustling-capital-of-bangladesh-using-open-map-data-to-fuel-urban-innovation/) in the Global Climate Watch.
+
 3) Read and download our [project report](https://drive.google.com/file/d/16F-djDrdlozj9e6V7t9tv1umvPnzMopY/view?usp=sharing).
 
 <span style="font-size: 12px;">*Cover photo credit: Honey Fombuena / Open Mapping Hub - Asia Pacific*</span>
