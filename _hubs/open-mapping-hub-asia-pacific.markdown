@@ -38,7 +38,7 @@ In March 2025, a destructive earthquake hit central Myanmar. In response, HOT th
 
 Through the Map4Mangrove project, AP Hub aims to collaborate with KEHATI to bridge gaps in mangrove monitoring by integrating open mapping technology, tools, and data to support broader biodiversity and conservation efforts.
 
-* **Climate Resilience Fellowship - Bangladesh** (page coming soon)
+* [**Climate Resilience Fellowship - Bangladesh**](https://www.hotosm.org/projects/climate-resilience-fellowship-bangladesh/)
 
 *Partner: World Vision Bangladesh, funded by NetHope*
 
