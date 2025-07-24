@@ -1,7 +1,6 @@
 ---
 title: Climate Resilience Fellowship - Bangladesh
 date: 2025-07-22 06:24:00 Z
-published: false
 tags:
 - Asia Pacific
 - Bangladesh
@@ -90,7 +89,7 @@ By the end of the fellowship, fellows will have strengthened their skills and co
 Additionally, they will inspire other youths and future generations to become changemakers in climate resilience and open mapping.
 <br>
 <hr>
-<br>
+
 * Stay updated on the latest news from our fellows’ capstone projects through our [social media channels](http://linktr.ee/openmapping_ap).
 
 
