@@ -88,8 +88,8 @@ Designed to be realistic, replicable, and community-owned, the capstone projects
 By the end of the fellowship, fellows will have strengthened their skills and confidence in leveraging open mapping for climate action, while also have implemented **pilot projects that shed light on local vulnerabilities and solutions.**
 
 Additionally, they will inspire other youths and future generations to become changemakers in climate resilience and open mapping.
-<br>
-<hr>  
+
+<hr>
 
 Stay updated on the latest news from our fellows’ capstone projects through our [social media channels](http://linktr.ee/openmapping_ap).
 
