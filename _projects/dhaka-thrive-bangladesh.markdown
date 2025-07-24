@@ -43,6 +43,8 @@ By developing a strong geospatial database, it will be easier to understand shif
 
 ## Turning Data into Actionable Insights
 
+<div style="text-align: center;"><span style="font-size: 12px;">Co-creation workshop with World Vision Bangladesh and local stakeholders (April 2024) | Photo: Can Ünen & Honey Fombuena / Open Mapping Hub - Asia Pacific</span></div>
+
 Collaboration and participation from local actors have always been central to Dhaka Thrive. In line with these core values, our goals for 2025 focus on two key areas:
 
 1. **Data for decision-making**
@@ -61,12 +63,14 @@ This campaign is an open call for Dhaka’s community members where they will pa
 
 ### How You Can Support
 
+<div style="text-align: center;"><span style="font-size: 12px;">Photo: Dhaka Thrive video team</span></div>
+
 1. **Explore** - Dive into the Dhaka Thrive Dashboard to gain valuable insights and discover its potential to support your work.
 2. **Expand** - Contribute to our participatory mapping through our integrated tool and help expand the dashboard’s reach beyond North Dhaka.
 3. **Share** - Help spread the word by sharing the project, data, and dashboard with potential users, partners, and communities who can benefit from them.
 
 <hr>
-
+<br>
 Follow our [social media](https://linktr.ee/openmapping_ap) for the latest updates from the project.
 
 If you’re interested to learn more about the Dhaka Thrive Dashboard, or thinking about creating a similar dashboard for your project, please reach us at **openmappinghub.ap@hotosm.org**
