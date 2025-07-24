@@ -10,6 +10,7 @@ Project Summary Text: The Climate Resilience Fellowship empowers young leaders a
   address urgent climate issues. By combining climate data and open mapping technologies
   with local knowledge and people-centered approaches, fellows work directly with
   communities to reduce climate risks and strengthen climate resilience.
+Feature Image: "/uploads/CRF_Website-Cover.jpg"
 Country:
 - Bangladesh
 Impact Area:
@@ -62,86 +63,6 @@ Most importantly, they are **local leaders.** They live in or around the communi
 
 ### Capstone Projects
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Simple Carousel</title>
-<style>
-.carousel {
-  max-width: 640px;
-  margin: 0 auto;
-  position: relative;
-  overflow: hidden;
-  border: 1px solid #ddd;
-  background: #fff;
-}
-.carousel-images {
-  display: flex;
-  transition: transform 0.3s ease-in-out;
-}
-.carousel-images img {
-  width: 100%;
-  flex-shrink: 0;
-  object-fit: contain;
-}
-.carousel-controls {
-  text-align: center;
-  margin-top: 10px;
-}
-button {
-  background: #333;
-  color: white;
-  border: none;
-  padding: 5px 15px;
-  margin: 0 5px;
-  border-radius: 3px;
-  cursor: pointer;
-}
-button:hover {
-  background: #555;
-}
-</style>
-</head>
-<body>
-
-<div class="carousel">
-  <div class="carousel-images" id="carousel">
-    <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZWZkMjkzNDM5NDdiNWQ0MjVhOS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="1">
-    <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA3MjkzNDM5NDdiNWQ0MjVhYS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="2">
-    <img src="https://img.siteleaf.com/eyJidWNrZXQiOiJzaXRlbGVhZi1jZG4iLCJrZXkiOiI1YTcwOGFjZGQ4Mzg4OTQ4MjRjNDM0NDUvYXNzZXRzLzY3ZWVjZjA1MjkwYmUyNDc0OGRkNGU5MS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEyMDAsImhlaWdodCI6MTIwMCwiZml0IjoiaW5zaWRlIn0sInRvRm9ybWF0Ijoid2VicCJ9fQ==" alt="3">
-  </div>
-</div>
-
-<div class="carousel-controls">
-  <button onclick="prevSlide()">Previous</button>
-  <button onclick="nextSlide()">Next</button>
-</div>
-
-<script>
-const carousel = document.getElementById('carousel');
-const totalSlides = carousel.children.length;
-let currentIndex = 0;
-
-function updateSlide() {
-  const offset = -currentIndex * 100;
-  carousel.style.transform = `translateX(${offset}%)`;
-}
-
-function prevSlide() {
-  currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
-  updateSlide();
-}
-
-function nextSlide() {
-  currentIndex = (currentIndex + 1) % totalSlides;
-  updateSlide();
-}
-</script>
-
-</body>
-</html>
-
 <br>
 
 Each fellow group leads a capstone project that addresses a specific climate risk or capacity gap. Projects cover diverse themes, including waste management, rainwater harvesting, heat adaptation, climate education, and community awareness.
@@ -157,10 +78,10 @@ Designed to be realistic, replicable, and community-owned, the capstone projects
 3. **Capstone Implementation** (current phase) – Fellows are implementing their projects with seed funding, regular check-ins, and community engagements over three months.
 4. **Pitching Session** (final phase) – Fellows will present their projects to a panel of funders, community leaders, and innovation experts. This event aims to propel promising projects forward through:
 
-  - Strategic feedback on scalability and sustainability
-  - Networking opportunities for future partnerships or funding
-  - Recognition and visibility for grassroots innovation in climate resilience
-  - Support to help projects sustain and grow
+&nbsp;&nbsp;- Strategic feedback on scalability and sustainability
+&nbsp;&nbsp;- Networking opportunities for future partnerships or funding
+&nbsp;&nbsp;- Recognition and visibility for grassroots innovation in climate resilience
+&nbsp;&nbsp;- Support to help projects sustain and grow
 
 <hr>
 <br>
@@ -170,7 +91,7 @@ Additionally, they will inspire other youths and future generations to become ch
 <br>
 <hr>
 <br>
-Stay updated on the latest news from our fellows’ capstone projects through our [social media channels](http://linktr.ee/openmapping_ap).
+* Stay updated on the latest news from our fellows’ capstone projects through our [social media channels](http://linktr.ee/openmapping_ap).
 
 
 <span style="font-size: 12px;">*Cover photo credit: Rajib Mahmud / World Vision Bangladesh*</span>
