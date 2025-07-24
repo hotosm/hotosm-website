@@ -45,7 +45,7 @@ The Climate Resilience Fellowship (CRF) is a joint initiative by [Open Mapping H
 * Enable fellows to design data-informed, community-driven interventions
 * Connect open mapping technologies with local knowledge to drive sustainable climate solutions
 * Provide space for experimentation, learning, and scaling of promising approaches
-* Increase representation of vulnerable groups through map and data visualizations
+* Increase representation of underrepresented groups through map and data visualizations
 
 In the long term, CRF aims to spark a larger movement for inclusive, localized, and community-led climate resilience across Asia Pacific.
 
@@ -89,8 +89,7 @@ By the end of the fellowship, fellows will have strengthened their skills and co
 
 Additionally, they will inspire other youths and future generations to become changemakers in climate resilience and open mapping.
 
-<hr>
-
+<hr><br>
 Stay updated on the latest news from our fellows’ capstone projects through our [social media channels](http://linktr.ee/openmapping_ap).
 
 <span style="font-size: 12px;">*Cover photo credit: Rajib Mahmud / World Vision Bangladesh*</span>
