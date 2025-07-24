@@ -10,7 +10,7 @@ Project Summary Text: The Climate Resilience Fellowship empowers young leaders a
   with local knowledge and people-centered approaches, fellows work directly with
   communities to reduce climate risks and strengthen climate resilience.
 Feature Image: "/uploads/CRF_Website-Cover.jpg"
-Is image top aligned: true
+Is image top aligned: false
 Country:
 - Bangladesh
 Impact Area:
@@ -78,10 +78,10 @@ Designed to be realistic, replicable, and community-owned, the capstone projects
 3. **Capstone Implementation** (current phase) – Fellows are implementing their projects with seed funding, regular check-ins, and community engagements over three months.
 4. **Pitching Session** (final phase) – Fellows will present their projects to a panel of funders, community leaders, and innovation experts. This event aims to propel promising projects forward through:
 
-&nbsp;&nbsp;- Strategic feedback on scalability and sustainability
-&nbsp;&nbsp;- Networking opportunities for future partnerships or funding
-&nbsp;&nbsp;- Recognition and visibility for grassroots innovation in climate resilience
-&nbsp;&nbsp;- Support to help projects sustain and grow
+- Strategic feedback on scalability and sustainability
+- Networking opportunities for future partnerships or funding
+- Recognition and visibility for grassroots innovation in climate resilience
+- Support to help projects sustain and grow
 
 <hr>
 <br>
@@ -90,7 +90,7 @@ By the end of the fellowship, fellows will have strengthened their skills and co
 Additionally, they will inspire other youths and future generations to become changemakers in climate resilience and open mapping.
 <br>
 <hr>
-
+<br>
 * Stay updated on the latest news from our fellows’ capstone projects through our [social media channels](http://linktr.ee/openmapping_ap).
 
 
