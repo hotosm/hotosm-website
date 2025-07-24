@@ -52,6 +52,7 @@ We aim to collaborate with stakeholders to leverage the collected data and dashb
 * **Documentation of data use cases** to illustrate how the collected data can be applied across various urban and climate issues or contexts.
 
 2. **Scaling and local community empowerment**
+
 Building on the 2024 pilot, where data collection was largely led and carried out by local teams, this year we are opening the door for broader community involvement through the Dhaka Thrive Challenge.
 
 This campaign is an open call for Dhaka’s community members where they will participate in an 8-week challenge (July–September 2025) to map critical data in Dhaka’s informal settlements, both within and beyond the areas mapped during the pilot. Over 30 people–most of them youths–are actively contributing to field data collection focused on three categories: hazard risks, critical lifeline facilities, and street-level imagery.
