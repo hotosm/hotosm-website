@@ -104,7 +104,7 @@ Through data collection and local engagement, Dhaka Thrive enriched existing map
 
 ![Dhaka-Thrive_Critical-Lifeline-Facilities_Before-and-After.gif](/uploads/Dhaka-Thrive_Critical-Lifeline-Facilities_Before-and-After.gif)
 <div style="text-align: center;"><span style="font-size: 12px;">Critical facilities mapped in Mirpur before and after the Dhaka Thrive project | Map visualization: Honey Fombuena / Open Mapping Hub - Asia Pacific</span></div>
-
+<br>
 ![Dhaka-Thrive_Testimonial_Rani-Akter.png](/uploads/Dhaka-Thrive_Testimonial_Rani-Akter.png)
 <div style="text-align: center;"><span style="font-size: 12px;">Rani Akter, Mirpur community member, shares her thoughts on the Dhaka Thrive project. | Photo: Dhaka Thrive video team</span></div>
 <br>
