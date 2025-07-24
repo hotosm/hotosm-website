@@ -155,8 +155,6 @@ To learn more about the next phase of the project, starting in January 2025, vis
   </div>
 </div>
 
-<br>
-
 1. Read our [feature article](https://theclimatewatch.com/bustling-capital-of-bangladesh-using-open-map-data-to-fuel-urban-innovation/) in the Global Climate Watch.
 1. Read and download our [project report](https://drive.google.com/file/d/16F-djDrdlozj9e6V7t9tv1umvPnzMopY/view?usp=sharing).
 
