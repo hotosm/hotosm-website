@@ -27,8 +27,8 @@ Data:
 Tools:
 - tool: KoboToolbox
   link: https://ee-eu.kobotoolbox.org/x/5o2UMUXa
-- tool: Mapillary
-  link: https://www.mapillary.com/
+- link: https://www.mapillary.com/
+  tool: Mapillary
 ---
 
 ## Dhaka Thrive: Open Data for Smarter, Inclusive Cities
@@ -56,13 +56,13 @@ By developing a strong geospatial database, it will be easier to understand shif
 
 Collaboration and participation from local actors have always been central to Dhaka Thrive. In line with these core values, our goals for 2025 focus on two key areas:
 
-1. **Data for decision-making**
+1) **Data for decision-making**
 
 We aim to collaborate with stakeholders to leverage the collected data and dashboard for actionable insights and informed decisions. This will be done through:
 * **Workshops** with potential data users.
 * **Documentation of data use cases** to illustrate how the collected data can be applied across various urban and climate issues or contexts.
 
-1. **Scaling and local community empowerment**
+2) **Scaling and local community empowerment**
 
 Building on the 2024 pilot, where data collection was largely led and carried out by local teams, this year we are opening the door for broader community involvement through the **Dhaka Thrive Challenge**.
 

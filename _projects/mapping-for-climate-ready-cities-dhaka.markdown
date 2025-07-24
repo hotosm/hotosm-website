@@ -144,7 +144,7 @@ To learn more about the next phase of the project, starting in January 2025, vis
 
 ### More from Dhaka Thrive: Stories, Videos, and Resources
 
-1. Video - Data Collection and Community Story in Mirpur & Stakeholder Dissemination Workshop
+1) Video - Data Collection and Community Story in Mirpur & Stakeholder Dissemination Workshop
 
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px; max-width: 50%;">
@@ -155,7 +155,7 @@ To learn more about the next phase of the project, starting in January 2025, vis
   </div>
 </div>
 
-1. Read our [feature article](https://theclimatewatch.com/bustling-capital-of-bangladesh-using-open-map-data-to-fuel-urban-innovation/) in the Global Climate Watch.
-1. Read and download our [project report](https://drive.google.com/file/d/16F-djDrdlozj9e6V7t9tv1umvPnzMopY/view?usp=sharing).
+2) Read our [feature article](https://theclimatewatch.com/bustling-capital-of-bangladesh-using-open-map-data-to-fuel-urban-innovation/) in the Global Climate Watch.
+3) Read and download our [project report](https://drive.google.com/file/d/16F-djDrdlozj9e6V7t9tv1umvPnzMopY/view?usp=sharing).
 
 <span style="font-size: 12px;">*Cover photo credit: Honey Fombuena / Open Mapping Hub - Asia Pacific*</span>
