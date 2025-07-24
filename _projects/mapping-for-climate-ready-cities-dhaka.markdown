@@ -23,10 +23,10 @@ Duration:
   Start Date: 2023-10-01 00:00:00 Z
   End Date: 2024-12-31 00:00:00 Z
 Tools:
+- tool: Tasking Manager
+  link: https://tasks.hotosm.org/
 - tool: KoboToolbox
   link: https://ee-eu.kobotoolbox.org/x/5o2UMUXa
-- tool: Mapillary
-  link: https://www.mapillary.com/
 ---
 
 ## Climate Vulnerabilities in Dhaka
@@ -104,7 +104,7 @@ Critical facilities mapped in Mirpur before and after the Dhaka Thrive project |
 
 ![Dhaka-Thrive_Testimonial_Rani-Akter.png](/uploads/Dhaka-Thrive_Testimonial_Rani-Akter.png)
 <div style="text-align: center;"><span style="font-size: 12px;">Rani Akter, Mirpur community member, shares her thoughts on the Dhaka Thrive project. | Photo: Dhaka Thrive video team</span></div>
-<br>
+<br
 
 Additionally, the project empowered local youth by equipping them with digital skills in mapping and data analysis through direct involvement in data collection. This approach not only promoted sustainability but also contributed to the Bangladesh government’s vision of building a digital nation.
 
