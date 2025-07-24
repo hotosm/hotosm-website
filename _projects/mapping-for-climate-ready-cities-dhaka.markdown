@@ -108,7 +108,7 @@ Additionally, the project empowered local youth by equipping them with digital s
 
 ![Dhaka-Thrive_Testimonial_Brazil-Singh.png](/uploads/Dhaka-Thrive_Testimonial_Brazil-Singh.png)
 <div style="text-align: center;"><span style="font-size: 12px;">Members of World Vision Bangladesh, led by our Open Mapping Guru Brazil Singh, eagerly collected street-level images using Mapillary during a field visit to Mirpur. Read Brazil’s [OSM Diary](https://www.openstreetmap.org/user/Brazil%20Singh/diary/403790) entry to gain insight into the fieldwork through the lens of a local community member and open mapping representative. | Photo: World Vision Bangladesh volunteer team</span></div>
-
+<br>
 <hr>
 
 ## Key Takeaways
