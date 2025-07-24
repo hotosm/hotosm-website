@@ -26,11 +26,15 @@ Our goal is to drive the evolution and growth of locally-driven, sustainable ope
 
 In 2024, Dhaka Thrive was launched to address the need for open and reliable geospatial data for Dhaka’s informal settlements, laying the foundation for smarter, more inclusive urban planning. In this next phase, the project will focus on transforming insights into action—empowering local communities and decision-makers to drive meaningful, data-informed change.
 
+<hr>
+
 * **Map4Mangrove - Indonesia** (page coming soon)
 
 *Partner: Indonesian Biodiversity Foundation (Yayasan KEHATI), Yayasan Lestari Alam Kita (SALAKA)*
 
 Through the Map4Mangrove project, AP Hub aims to collaborate with KEHATI to bridge gaps in mangrove monitoring by integrating open mapping technology, tools, and data to support broader biodiversity and conservation efforts.
+
+<hr>
 
 * [**Myanmar Earthquake Response 2025**](https://www.hotosm.org/projects/myanmar-earthquake-response-2025/)
 
@@ -38,11 +42,15 @@ Through the Map4Mangrove project, AP Hub aims to collaborate with KEHATI to brid
 
 In March 2025, a destructive earthquake hit central Myanmar. In response, HOT through AP Hub partners with myOSM to launch a mapping initiative to fill data gaps in OpenStreetMap. The improved data will be essential in supporting recovery and rebuilding efforts.
 
+<hr>
+
 * [**Climate Resilience Fellowship - Bangladesh**](https://www.hotosm.org/projects/climate-resilience-fellowship-bangladesh/)
 
 *Partner: World Vision Bangladesh, funded by NetHope*
 
 The Climate Resilience Fellowship empowers young leaders across Bangladesh to design and implement community-led projects–known as “capstone projects”–to address urgent climate issues.
+
+<hr>
 
 * **Open Mapping Guru** (page coming soon)
 
