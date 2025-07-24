@@ -77,9 +77,9 @@ This campaign is an open call for Dhaka’s community members where they will pa
 
 <br>
 
-1. **Explore** - Dive into the Dhaka Thrive Dashboard to gain valuable insights and discover its potential to support your work.
-2. **Expand** - Contribute to our participatory mapping through our integrated tool and help expand the dashboard’s reach beyond North Dhaka.
-3. **Share** - Help spread the word by sharing the project, data, and dashboard with potential users, partners, and communities who can benefit from them.
+1) **Explore** - Dive into the Dhaka Thrive Dashboard to gain valuable insights and discover its potential to support your work.
+2) **Expand** - Contribute to our participatory mapping through our integrated tool and help expand the dashboard’s reach beyond North Dhaka.
+3) **Share** - Help spread the word by sharing the project, data, and dashboard with potential users, partners, and communities who can benefit from them.
 
 <hr>
 <br>
