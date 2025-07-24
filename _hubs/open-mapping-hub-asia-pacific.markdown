@@ -19,7 +19,6 @@ Our goal is to drive the evolution and growth of locally-driven, sustainable ope
 <hr>
 
 ## Current projects:
-<br>
 
 * [**Dhaka Thrive - Data-Driven Insights for Climate Resilience and Urban Development - Bangladesh**](https://www.hotosm.org/projects/dhaka-thrive-bangladesh/)
 
@@ -52,7 +51,7 @@ AP Hub, in collaboration with the local OpenStreetMap (OSM) communities, co-crea
 <hr>
 
 ## Past projects:
-<br>
+
 * [Mapping for Climate Ready Cities - Dhaka](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
 
 * [She Leads and She Inspires](https://www.hotosm.org/projects/she-leads-and-she-inspires/)
