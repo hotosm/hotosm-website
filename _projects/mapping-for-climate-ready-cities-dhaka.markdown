@@ -97,11 +97,13 @@ Through data collection and local engagement, Dhaka Thrive enriched existing map
 
 ![Dhaka-Thrive_Critical-Lifeline-Facilities_Before-and-After.gif](/uploads/Dhaka-Thrive_Critical-Lifeline-Facilities_Before-and-After.gif)<div style="text-align: center;"><span style="font-size: 12px;">Critical facilities mapped in Mirpur before and after the Dhaka Thrive project | Map visualization: Honey Fombuena / Open Mapping Hub - Asia Pacific</span></div>
 
-![Dhaka-Thrive_Testimonial_Rani-Akter.png](/uploads/Dhaka-Thrive_Testimonial_Rani-Akter.png)<div style="text-align: center;"><span style="font-size: 12px;">Rani Akter, Mirpur community member, shares her thoughts on the Dhaka Thrive project. | Photo: Dhaka Thrive video team</span></div>
+![Dhaka-Thrive_Testimonial_Rani-Akter.png](/uploads/Dhaka-Thrive_Testimonial_Rani-Akter.png)
+<div style="text-align: center;"><span style="font-size: 12px;">Rani Akter, Mirpur community member, shares her thoughts on the Dhaka Thrive project. | Photo: Dhaka Thrive video team</span></div>
 
 Additionally, the project empowered local youth by equipping them with digital skills in mapping and data analysis through direct involvement in data collection. This approach not only promoted sustainability but also contributed to the Bangladesh government’s vision of building a digital nation.
 
-![Dhaka-Thrive_Testimonial_Brazil-Singh.png](/uploads/Dhaka-Thrive_Testimonial_Brazil-Singh.png)<div style="text-align: center;"><span style="font-size: 12px;">Members of World Vision Bangladesh, led by our Open Mapping Guru Brazil Singh, eagerly collected street-level images using Mapillary during a field visit to Mirpur. Read Brazil’s [OSM Diary](https://www.openstreetmap.org/user/Brazil%20Singh/diary/403790) entry to gain insight into the fieldwork through the lens of a local community member and open mapping representative. | Photo: World Vision Bangladesh volunteer team</span></div>
+![Dhaka-Thrive_Testimonial_Brazil-Singh.png](/uploads/Dhaka-Thrive_Testimonial_Brazil-Singh.png)
+<div style="text-align: center;"><span style="font-size: 12px;">Members of World Vision Bangladesh, led by our Open Mapping Guru Brazil Singh, eagerly collected street-level images using Mapillary during a field visit to Mirpur. Read Brazil’s [OSM Diary](https://www.openstreetmap.org/user/Brazil%20Singh/diary/403790) entry to gain insight into the fieldwork through the lens of a local community member and open mapping representative. | Photo: World Vision Bangladesh volunteer team</span></div>
 
 <hr>
 
@@ -113,7 +115,8 @@ Having a centralized platform like the Dhaka Thrive Dashboard that any stakehold
 
 As Dhaka Thrive moves forward, the focus on empowering communities and decision-makers will drive **sustainable urban development and improved living conditions for communities vulnerable to climate change**, creating a lasting framework for stronger local urban resilience.
 
-![Dhaka-Thrive_Dissemination-Workshop_2024.jpg](/uploads/Dhaka-Thrive_Dissemination-Workshop_2024.jpg)<div style="text-align: center;"><span style="font-size: 12px;">Dissemination workshop in Dhaka, Bangladesh to share output and findings from the project (November 2024). The workshop was attended by local stakeholders from government agencies, NGOs, and university representatives. | Photo: Arman Nahian</span></div>
+![Dhaka-Thrive_Dissemination-Workshop_2024.jpg](/uploads/Dhaka-Thrive_Dissemination-Workshop_2024.jpg)
+<div style="text-align: center;"><span style="font-size: 12px;">Dissemination workshop in Dhaka, Bangladesh to share output and findings from the project (November 2024). The workshop was attended by local stakeholders from government agencies, NGOs, and university representatives. | Photo: Arman Nahian</span></div>
 
 <hr>
 
@@ -131,8 +134,7 @@ To learn more about the next phase of the project, starting in January 2025, vis
 
 ### More from Dhaka Thrive: Stories, Videos, and Resources
 
-1. Video - Data Collection and Community Story in Mirpur: https://youtu.be/QPiB5XwcgdE?feature=shared
-2. Video - Stakeholder Dissemination Workshop: https://youtu.be/hUlotjYqNsc?feature=shared
+1. Video - Data Collection and Community Story in Mirpur | Stakeholder Dissemination Workshop
 
 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px; max-width: 50%;">
@@ -143,7 +145,9 @@ To learn more about the next phase of the project, starting in January 2025, vis
   </div>
 </div>
 
-3. Read our [feature article](https://theclimatewatch.com/bustling-capital-of-bangladesh-using-open-map-data-to-fuel-urban-innovation/) in the Global Climate Watch.
-4. Read and download our [project report](https://drive.google.com/file/d/16F-djDrdlozj9e6V7t9tv1umvPnzMopY/view?usp=sharing).
+<br>
+
+1. Read our [feature article](https://theclimatewatch.com/bustling-capital-of-bangladesh-using-open-map-data-to-fuel-urban-innovation/) in the Global Climate Watch.
+1. Read and download our [project report](https://drive.google.com/file/d/16F-djDrdlozj9e6V7t9tv1umvPnzMopY/view?usp=sharing).
 
 <span style="font-size: 12px;">*Cover photo credit: Honey Fombuena / Open Mapping Hub - Asia Pacific*</span>
