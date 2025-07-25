@@ -28,7 +28,7 @@ Duration:
 
 Across the Asia-Pacific region, climate impacts are becoming more severe and uneven—affecting informal settlements, frontline communities, and marginalized groups first. Many of these areas lack reliable data, infrastructure, and representation in resilience planning processes.
 
-In cities like Dhaka and Chattogram, local communities face growing climate risks such as flooding, extreme heat, and water shortages.
+In areas like Dhaka and Chattogram, local communities face growing climate risks such as flooding, extreme heat, and water shortages.
 
 <hr>
 
