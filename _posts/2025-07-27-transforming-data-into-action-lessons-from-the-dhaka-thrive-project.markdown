@@ -62,14 +62,7 @@ For example:
 
 * Identifying dengue hotspots, open drains, or flood-prone areas for awareness and action.
 
-<iframe
-src="https://cdn.hotosm.org/website/Dhaka\+Thrives\+Mapping\+OSM\+Asia\+Pacific\+GIF.gif"
-width="100%"
-height="700"
-style="border: none;"
-allowfullscreen
-loading="lazy">
-</iframe>
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/dhaka-thrive-umap-dashboard_1123060?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/dhaka-thrive-umap-dashboard_1123060?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">See full screen</a></p>
 
 ## Mapping is a Form of Justice
 
