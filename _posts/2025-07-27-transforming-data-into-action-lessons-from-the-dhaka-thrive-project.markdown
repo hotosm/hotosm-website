@@ -73,8 +73,8 @@ That’s what Dhaka Thrive is doing. It’s not about mapping for the sake of ma
 And that’s why I’m proud to be part of it.
 
 Brazil Singh,
-***Regional Ambassador | [Youthmappers\
+Regional Ambassador | [Youthmappers\
 ](https://www.youthmappers.org/)Communication Working Group | [OSMF\
 ](https://osmfoundation.org/)Open Mapping Guru, AP Hub | [Open Mapping Hub\
-](https://www.hotosm.org/)WordPress Web Developer (Freelancer) | [Fiverr](https://www.fiverr.com/)*****[\
-](https://www.fiverr.com/)*Voting Member | [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/people/brazil-singh/)***
+](https://www.hotosm.org/)WordPress Web Developer (Freelancer) | [Fiverr\
+](https://www.fiverr.com/)\*Voting Member | [Humanitarian OpenStreetMap Team (HOT)](https://www.hotosm.org/people/brazil-singh/)
