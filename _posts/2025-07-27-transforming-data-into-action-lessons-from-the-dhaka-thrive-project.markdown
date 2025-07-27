@@ -1,5 +1,5 @@
 ---
-title: 'Transforming Data into Action: Lessons from the Dhaka Thrive Project'
+title: 'Mapping for Equity: Voices from Dhaka’s Informal Settlements'
 date: 2025-07-27 11:42:00 Z
 Summary Text: Discover how community-led open mapping is transforming lives in Dhaka’s
   informal settlements. Brazil Singh shares powerful insights from the Dhaka Thrive
