@@ -5,11 +5,11 @@ date: 2025-07-22 20:03:00 Z
 tags:
 - Asia Pacific
 - Bangladesh
-Project Summary Text: In 2024, Dhaka Thrive was launched to address the need for open
-  and reliable geospatial data for Dhaka’s informal settlements, laying the foundation
-  for smarter, more inclusive urban planning. In this next phase, the project will
-  focus on transforming insights into action—empowering local communities and decision-makers
-  to drive meaningful, data-informed change.
+Project Summary Text: In 2024, [Dhaka Thrive](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
+  was launched to address the need for open and reliable geospatial data for Dhaka’s
+  informal settlements, laying the foundation for smarter, more inclusive urban planning.
+  In this next phase, the project will focus on transforming insights into action—empowering
+  local communities and decision-makers to drive meaningful, data-informed change.
 Feature Image: "/uploads/Dhaka-Thrive_Website-Cover.jpg"
 Country:
 - Bangladesh
@@ -35,7 +35,7 @@ Tools:
 
 Imagine a city where every decision—from planning safer schools to preparing for climate change and disasters—is shaped by open data created in partnership with communities. This is the vision behind Dhaka Thrive, a joint initiative by Open Mapping Hub - Asia Pacific (AP Hub) and World Vision Bangladesh.
 
-During its pilot phase in 2024, we worked closely with local stakeholders to create **comprehensive, up-to-date open map data and vulnerability analysis of informal settlements in Mirpur, North Dhaka.**
+During its [pilot phase](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/) in 2024, we worked closely with local stakeholders to create **comprehensive, up-to-date open map data and vulnerability analysis of informal settlements in Mirpur, North Dhaka.**
 
 The key output is the **[Dhaka Thrive Dashboard](https://bit.ly/dhakathrivedashboard)**—a dynamic, accessible map and data visualization platform designed to **equip stakeholders with the insights needed to create informed, sustainable, and resilient urban solutions.**
 
