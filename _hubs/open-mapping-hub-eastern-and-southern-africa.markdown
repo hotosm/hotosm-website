@@ -15,19 +15,16 @@ Field name:
 layout: page
 ---
 
-# We are on a mission
+The Open Mapping Hub -Eastern & Southern Africa [ESA Hub] is a regional collaboration led by the Humanitarian OpenStreetMap Team [HOT], a Non-Governmental Organisation that sits at the forefront of participatory mapping, community-led development, humanitarian response, open data and open data and technology. Our mission is to advocate for and actively facilitate the creation, utilization, and widespread dissemination of high-quality open map data communities across 23 countries in Eastern & Southern Africa. We believe that open map data is universal and contributes to identifying problems, monitoring change, managing and responding to events, forecasting, setting priorities and understanding humanitarian and development trends.
 
-To advocate for and actively facilitate the creation, utilization, and
-widespread dissemination of high-quality open map data in disaster
-preparedness, climate resilience & building sustainable cities.
+The Humanitarian OpenStreetMap Team [ESA-Hub] serves as a catalyst for positive change by facilitating humanitarian and development outcomes through strategic collaborations in the fields of disaster response, community-led development, disease surveillance, sustainable development planning, and environmental monitoring.
 
-The Open Mapping Hub - Eastern and Southern Africa (ESA), was established in 2021 to better respond to the growing humanitarian needs in the region.
+## ESA Hub Mission
 
-As of 2025, we have completed over 30 projects in Eastern and Southern Africa.
+Advocate for and Actively Facilitate the Creation, Utilisation, and Widespread Dissemination of High-Quality Open Map Data in Disaster Preparedness, Climate Resilience & Sustainable Cities.
 
-## What we do
 
-### Support humanitarian response
+### ESA Hub Commitments
 
 By creating quality open map data and information to inform
 Anticipatory Action and Disaster Response.
@@ -42,15 +39,18 @@ allocation and service delivery.
 We provide capacity development and GIS technical and non-technical support to map contributors and users through community grants. Watch an example of their impact below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIRPj9SQGnM?si=WAMBOaqC5fM0byhq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Our key projects
+## 
+ESA Hub Commitments
 
 The hub has supported projects in Uganda, Kenya, Zambia, Malawi, Namibia, Tanzania, and more. ![Screenshot 2025-01-29 at 11.36.27 AM.png](https://cdn.hotosm.org/website/Screenshot+2025-01-29+at+11.36.27%E2%80%AFAM.png)
 
 * [Mapping for access to contraceptive access in Uganda](https://youtu.be/bS94k78goNQ?si=lcFQITksctywbC1I)
 
-* [Mapping informal settlement for service delivery decision-making ](https://youtu.be/PIRPj9SQGnM?si=toO-kQj9bzH3QEj6)
+* [Mapping Tropical Storm Ana and Cyclone Gombe in the Most Affected Districts of Malawi for Early Recovery of Affected Communities ](https://www.hotosm.org/projects/mapping-tropical-storm-ana-and-cyclone-gombe-in-the-most-affected-districts-of-malawi-for-early-recovery-of-affected-communities/)
 
-* [Community-led mapping boosts tourism](https://youtu.be/ZVkBYlG2eDM?si=4A-G-ciUqHeVLHEx)
+* [Climate Resilience Planning with Digital Mapping in Zambia](https://www.hotosm.org/projects/climate-resilience-planning-with-digital-mapping/)
+
+* [Geospatial Data for Humanitarian Response in Sudan Conflict](https://www.hotosm.org/projects/geospatial-data-for-humanitarian-response-in-sudan-conflict/)
 
 Check more projects and details on [Our Work page](https://www.hotosm.org/our-work).
 
@@ -72,24 +72,17 @@ advance geographical footprint and data use</td>
 	</tr>
 </table>
 
-> “Collaborating with the group was great because I learnt alot, having a GIS background ESA Hub gave me the chance to use my skills to help the community.” 
 
-Abisagy Nafula, Nairobi Kenya, Mapathon participant
 
-## Podcasts
-Tune in to our podcasts to learn more about the incredible work our partners and volunteers are doing in the open mapping arena. Listen to their stories and insights, and gain a deeper understanding of the power of open mapping to drive positive social impact - start listening today!
 
-<iframe title="The esahub's Podcast" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);height:315px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=ryzfj-e3f4ac-pbblog-playlist&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=666666&size=315" loading="lazy" allowfullscreen=""></iframe>
 
 ## Connect with us!
 
 We'd love to hear from you! If you are interested in partnering, collaborating, or sponsoring our work, let us know!
 
-* **Office address:** "The Address Building" 12th Floor, Muthangari Drive - Westlands, P.O. Box 20997-0011, Nairobi, Kenya
-
 * **Email:** [esahub-info@hotosm.org](mailto:esahub-info@hotosm.org)
 
-*  **Social media**: [Twitter](https://twitter.com/openmapping_esa) | [Facebook](https://www.facebook.com/openmapping.esa) | [LinkedIn](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/) | [Instagram](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/)
+*  **Social media**: [Twitter](https://twitter.com/openmapping_esa) | [Facebook](https://www.facebook.com/openmapping.esa) | [LinkedIn](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/) | 
 
 [Connect with OSM Communities in the ESA region](https://openstreetmap.community/)
 
