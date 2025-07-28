@@ -4,6 +4,12 @@ date: 2025-06-24 12:07:00 Z
 Photo: https://cdn.hotosm.org/website/Brazil+-+Brazil+Singh.jpg
 Member Type:
   Is Voting Member: true
+Working Group:
+- Community
+Project:
+- Dhaka Thrive - Data-Driven Insights for Climate Resilience and Urban Development
+  - Bangladesh
+Country: Bangladesh
 Social Media (Full URL):
   OSM: https://www.openstreetmap.org/user/Brazil%20Singh
   LinkedIn: https://bd.linkedin.com/in/brazil-singh-rittik
