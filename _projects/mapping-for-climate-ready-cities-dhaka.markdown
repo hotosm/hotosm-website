@@ -83,9 +83,9 @@ Here’s what Dhaka Thrive accomplished during its 2024 pilot phase:
 
 ### Explore the Dhaka Thrive Dashboard
 
-Dive into the project’s data through our [interactive dashboard](http://bit.ly/dhakathrivedashboard).
+Dive into the project’s data through our [interactive dashboard](https://umap.hotosm.org/en/map/dhaka-thrive-umap-dashboard_80).
 
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.openstreetmap.fr/en/map/dhaka-thrive-umap-dashboard_1123060?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.openstreetmap.fr/en/map/dhaka-thrive-umap-dashboard_1123060?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">See full screen</a></p>
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/en/map/dhaka-thrive-umap-dashboard_80?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/en/map/dhaka-thrive-umap-dashboard_80?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">See full screen</a></p>
 
 The dashboard showcases three primary datasets:
 * **Hazard points and layers** – Areas with high climate hazard risks, including flood, dengue hotspots, and fire
