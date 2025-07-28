@@ -39,14 +39,13 @@ The hub has supported projects in Uganda, Kenya, Zambia, Malawi, Namibia, Tanzan
 Check more projects and details on [Our Work page](https://www.hotosm.org/our-work).
 
 
-
 ## Connect with us!
 
 We'd love to hear from you! If you are interested in partnering, collaborating, or sponsoring our work, let us know!
 
 * **Email:** [esahub-info@hotosm.org](mailto:esahub-info@hotosm.org)
 
-*  **Social media**: [Twitter](https://twitter.com/openmapping_esa) | [Facebook](https://www.facebook.com/openmapping.esa) | [LinkedIn](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/) | 
+*  **Social media**: [Twitter](https://twitter.com/openmapping_esa) | [Facebook](https://www.facebook.com/openmapping.esa) | [LinkedIn](https://www.linkedin.com/showcase/the-open-mapping-hub-eastern-and-southern-africa/) 
 
 [Connect with OSM Communities in the ESA region](https://openstreetmap.community/)
 
