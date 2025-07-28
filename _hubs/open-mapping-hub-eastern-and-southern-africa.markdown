@@ -15,7 +15,7 @@ Field name:
 layout: page
 ---
 
-The Open Mapping Hub -Eastern & Southern Africa [ESA Hub] is a regional collaboration led by the Humanitarian OpenStreetMap Team [HOT], a Non-Governmental Organisation that sits at the forefront of participatory mapping, community-led development, humanitarian response, open data and open data and technology. Our mission is to advocate for and actively facilitate the creation, utilization, and widespread dissemination of high-quality open map data communities across 23 countries in Eastern & Southern Africa. We believe that open map data is universal and contributes to identifying problems, monitoring change, managing and responding to events, forecasting, setting priorities and understanding humanitarian and development trends.
+The Open Mapping Hub - Eastern & Southern Africa [ESA Hub] sits at the forefront of participatory mapping, community-led development, humanitarian response, open data and open data and technology. Our mission is to advocate for and actively facilitate the creation, utilization, and widespread dissemination of high-quality open map data communities across 23 countries in Eastern & Southern Africa. We believe that open map data is universal and contributes to identifying problems, monitoring change, managing and responding to events, forecasting, setting priorities and understanding humanitarian and development trends.
 
 The Humanitarian OpenStreetMap Team [ESA-Hub] serves as a catalyst for positive change by facilitating humanitarian and development outcomes through strategic collaborations in the fields of disaster response, community-led development, disease surveillance, sustainable development planning, and environmental monitoring.
 
@@ -24,23 +24,7 @@ The Humanitarian OpenStreetMap Team [ESA-Hub] serves as a catalyst for positive 
 Advocate for and Actively Facilitate the Creation, Utilisation, and Widespread Dissemination of High-Quality Open Map Data in Disaster Preparedness, Climate Resilience & Sustainable Cities.
 
 
-### ESA Hub Commitments
-
-By creating quality open map data and information to inform
-Anticipatory Action and Disaster Response.
-
-### Open data for decision-making
-
-We develop and deploy mapping tools that can be used by organizations and local governments for data collection to enhance decision-making on resource
-allocation and service delivery.
-
-### Community Empowerment & Grants
-
-We provide capacity development and GIS technical and non-technical support to map contributors and users through community grants. Watch an example of their impact below:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PIRPj9SQGnM?si=WAMBOaqC5fM0byhq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## 
-ESA Hub Commitments
+## Our Key Highlights 
 
 The hub has supported projects in Uganda, Kenya, Zambia, Malawi, Namibia, Tanzania, and more. ![Screenshot 2025-01-29 at 11.36.27 AM.png](https://cdn.hotosm.org/website/Screenshot+2025-01-29+at+11.36.27%E2%80%AFAM.png)
 
@@ -53,26 +37,6 @@ The hub has supported projects in Uganda, Kenya, Zambia, Malawi, Namibia, Tanzan
 * [Geospatial Data for Humanitarian Response in Sudan Conflict](https://www.hotosm.org/projects/geospatial-data-for-humanitarian-response-in-sudan-conflict/)
 
 Check more projects and details on [Our Work page](https://www.hotosm.org/our-work).
-
-## Our impact in numbers
-
-<table style="border-bottom: none">
-<tr>
-		<th style="border-bottom-width: 2px"><span style="font-weight: bold">+125K</span></th>
-		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">+500</span></th>
-<th style="border-bottom-width: 2px"><span style="font-weight: bold">$392,665</span></th>
-		<th style="border-left: 1px solid black; border-bottom-width: 2px"><span style="font-weight: bold">30</span></th>
-	</tr>
-	<tr>
-		<td>Edits made to OpenStreetMap across hub activities</td>
-		<td style="border-left: 1px solid black">Volunteers trained on open mapping and GIS</td>
-<td>Grants disbursed to project partners and community groups to
-advance geographical footprint and data use</td>
-		<td style="border-left: 1px solid black">Number of completed and active projects in the region since ESA Hub’s inception</td>
-	</tr>
-</table>
-
-
 
 
 
