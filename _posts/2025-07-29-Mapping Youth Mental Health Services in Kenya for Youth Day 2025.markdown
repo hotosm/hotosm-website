@@ -62,7 +62,7 @@ Your insights as local contributors are invaluable. This campaign is exclusively
 
 **Key Details:
 **
-**Registration Form:** https://forms.gle/aPZSMegAS6xGVxj9A 
+**[Click here to apply](https://docs.google.com/forms/d/e/1FAIpQLSfurpj2AhvjPH_CgqJzSQGE2iZmHPT_Aw_x00CJi-l9X-NmlQ/viewform)** 
 
 **Training for Selected Participants:** August 11th
 
