@@ -38,8 +38,8 @@ Young people are not only affected, they're ready to lead. This project enables 
 * Update 200 mental health-related amenities to OpenStreetMap using open mapping tools.
 * Raise awareness of youth mental health through community engagement and storytelling.
 
-**Tools and Methodology
-**
+**Tools and Methodology**
+
 We utilize MapRoulette as a tasking platform to identify and update hospital data with a specific focus on missing attributes related to mental health services. Contributors are guided to check and improve this data using both the iD Editor and JOSM (Java OpenStreetMap Editor).
 
 **The methodology includes:**
