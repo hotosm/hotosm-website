@@ -35,8 +35,8 @@ Young people are not only affected, they're ready to lead. This project enables 
 **Objectives of the campaign**
 
 * Engage 100 youth in Kenya in practical data update using open mapping tools.
-*Update 200 mental health-related amenities to OpenStreetMap using open mapping tools.
-*Raise awareness of youth mental health through community engagement and storytelling.
+* Update 200 mental health-related amenities to OpenStreetMap using open mapping tools.
+* Raise awareness of youth mental health through community engagement and storytelling.
 
 **Tools and Methodology
 **
@@ -49,12 +49,12 @@ Designing targeted MapRoulette challenges to surface health facilities lacking t
 * We apply OpenStreetMap (OSM) tagging standards to add or update key attributes related to mental health services.This includes tags such as; 
 Healthcare:speciality=mental_health,(healthcare=counselling,healthcare=psychotherapist,) and amenity=hospital. 
 
-*Where available, we include facility names, indicators of mental health service availability, and whether the services are free or fee-based (healthcare:fee=yes/no or healthcare operator type=public/private).
+* Where available, we include facility names, indicators of mental health service availability, and whether the services are free or fee-based (healthcare:fee=yes/no or healthcare operator type=public/private).
 
 
-*Trained local contributors lead the data improvement process, working collaboratively through structured data check workflows using iD Editor and JOSM to update
+* Trained local contributors lead the data improvement process, working collaboratively through structured data check workflows using iD Editor and JOSM to update.
 
-*To ensure accuracy and reliability, all contributions undergo validation by a team of local experts. This review process verifies that updates are consistent with OSM standards and reflect current, on-the-ground realities.
+* To ensure accuracy and reliability, all contributions undergo validation by a team of local experts. This review process verifies that updates are consistent with OSM standards and reflect current, on-the-ground realities.
 
 
 **Why Participate?**
