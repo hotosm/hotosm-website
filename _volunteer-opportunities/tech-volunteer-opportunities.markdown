@@ -19,7 +19,7 @@ Place of Work: Remote
 * [Test site to build on](https://xlsform-builder.fmtm.hotosm.org) 
 
 ## Contact
-If you are interested, message [Petya Kangalova](petya.kangalova@hotosm.org) and/or [Sam Woodcock](sam.woodcock@hotosm.org).
+If you are interested, message [Petya Kangalova](mailto:petya.kangalova@hotosm.org) and/or [Sam Woodcock](mailto:sam.woodcock@hotosm.org).
 
 ## Other contributions
 There are also plenty of other tech projects/ideas, where you can contribute:
