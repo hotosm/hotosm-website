@@ -4,6 +4,7 @@ date: 2018-05-01 05:01:00 Z
 permalink: "/programs/mapping-for-climate-ready-cities"
 position: 88
 Feature Image: https://cdn.hotosm.org/website/Ramani-Huria-Dar-es-Salaam-v3-2.jpg
+tag-filter: climate-ready
 Stats:
   stat1: 10M
   text1: People to be Mapped
