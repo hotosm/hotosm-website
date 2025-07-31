@@ -14,7 +14,6 @@ Feature Image: https://cdn.hotosm.org/website/khartoum-banner-lowres.jpg
 Is image top aligned: true
 Person:
 - Claudio de los Reyes Teran
-- Jessica Pechmann
 - Raiza Pilatowsky Gruner
 Country:
 - Sudan

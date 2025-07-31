@@ -9,7 +9,6 @@ Summary Text: 'Accurate building footprints are needed to identify the impact of
   Jbeil, Marjayoun, and El Nabatieh. '
 Feature Image: "/uploads/lebanon-overview-buildings-sat-3.jpg"
 Person:
-- Jessica Pechmann
 - Claudio de los Reyes Teran
 Country:
 - Lebanon
