@@ -4,6 +4,7 @@ date: 2024-10-01 05:01:00 Z
 permalink: "/programs/conflict-displacement"
 position: 88
 Feature Image: https://cdn.hotosm.org/website/UNsomalia-27332415045_217de2d978_o.jpg
+tag-filter: conflict
 Country:
 - Palestinian Territory
 - Sudan

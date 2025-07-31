@@ -4,6 +4,7 @@ date: 2018-05-01 05:01:00 Z
 permalink: "/programs/women-centered-disaster-resilience-in-small-islands"
 position: 88
 Feature Image: https://cdn.hotosm.org/website/finaltalk-sids-edit.png
+tag-filter: women-small-islands
 Stats:
   stat1: '244'
   text1: Women trained

@@ -398,8 +398,8 @@ layout: default
 
                 <div style="margin: 80px 0 0px "></div>
                 {% assign project_count = page['Block 2'].Project | size %}
-                {% if project_count > 3 %}                
-                <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1rem; color: black;">Other Projects in This Program</h2>
+                {% if project_count > 3 %}  
+                <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.25rem; color: black;">Other Projects in This Program</h2>              
                 <div class="hr-h" style="margin: 10px 0 40px "></div>
                     {% else %}
                     <div class="hr-h" style="margin: 0px 0 0px "></div>
@@ -451,6 +451,58 @@ layout: default
             </div>
         </section>
 </article>
+
+
+{% assign recent_projects = site.posts | sort: 'date' | reverse %}
+{% assign filter_tag = page.tag-filter | downcase %}
+{% assign tagged_projects = "" | split: "" %}
+
+{% for project in recent_projects %}
+  {% if project.tags contains filter_tag %}
+    {% assign tagged_projects = tagged_projects | push: project %}
+  {% endif %}
+{% endfor %}
+
+{% if tagged_projects.size > 0 %}
+<article class="container project-item">
+  <div class="program-body">
+    <section class="article">
+
+      <div class="container">
+        <h2 style="font-family: Barlow Condensed, sans-serif; font-weight: bold; text-transform: uppercase; letter-spacing: .045em; line-height: 1.15; font-size: 1.25rem; color: black;">RELATED NEWS</h2>
+        <div class="hr-h" style="margin: 10px 0 40px"></div>
+
+        <div class="project-index-all" style="background-color: whitesmoke; padding: 2%;">
+
+          {% assign project_count = 0 %}
+          {% for project in tagged_projects %}
+            {% assign project_count = project_count | plus: 1 %}
+            {% include blocks/news-overflow.html %}
+            {% if project_count >= 3 %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+
+        </div>
+
+        <div style="margin: 40px 0;"></div>
+
+        <article class="container-body-program project-item" style="padding-top: 1%; padding-bottom: 1%;">
+          <div class="next" style="text-align: right;">
+            <a href="/updates/" style="font-weight: bold; font-size: large; color: black;">More HOT News →</a>
+          </div>
+        </article>
+
+        <div class="hr-h" style="margin-top: 40px;"></div>
+      </div>
+
+    </section>
+  </div>
+</article>
+{% endif %}
+
+
+
 
 <!--** HOT's Approach -->
 
