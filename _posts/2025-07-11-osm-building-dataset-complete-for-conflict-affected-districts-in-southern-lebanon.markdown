@@ -1,6 +1,8 @@
 ---
 title: OSM Building Dataset Complete for Conflict Affected Districts in Southern Lebanon
 date: 2025-07-11 17:33:00 Z
+tags:
+- conflict
 Summary Text: 'Accurate building footprints are needed to identify the impact of conflict
   on affected communities. After a dedicated volunteer effort, OSM building footprints
   are now the leading data source in the southern Lebanon districts of Sour, Bint
