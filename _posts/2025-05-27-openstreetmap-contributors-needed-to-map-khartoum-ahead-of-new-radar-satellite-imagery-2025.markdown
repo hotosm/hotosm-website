@@ -15,6 +15,7 @@ Is image top aligned: true
 Person:
 - Claudio de los Reyes Teran
 - Raiza Pilatowsky Gruner
+- Jessica Pechmann
 Country:
 - Sudan
 Project:
