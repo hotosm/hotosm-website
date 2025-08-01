@@ -46,7 +46,7 @@ This practical experience not only confirmed the value of open mapping, but it a
 
 After completing the data collection in Mirpur, I thought our main task was done, that we had contributed valuable data, and that was the end of it. But I was in for a wonderful surprise.
 
-Shortly after, I saw the [uMap dashboard](http://tinyurl.com/dhakathrivedashboard) built by [Honey Grace Fombuena](https://www.hotosm.org/people/honey-grace-fombuena/), using the exact data we had collected in the field. Seeing our fieldwork transformed into a clean, interactive map, with icons showing schools, clinics, dengue hotspots, and more, was honestly magical.
+Shortly after, I saw the [uMap dashboard](https://umap.hotosm.org/en/map/dhaka-thrive-umap-dashboard_80) built by [Honey Grace Fombuena](https://www.hotosm.org/people/honey-grace-fombuena/), using the exact data we had collected in the field. Seeing our fieldwork transformed into a clean, interactive map, with icons showing schools, clinics, dengue hotspots, and more, was honestly magical.
 
 For me, it was a powerful realization: data doesn’t just sit in a spreadsheet. When visualized and shared through open platforms like uMap, it becomes actionable, accessible, and impactful. It becomes something that communities, NGOs, and decision-makers can actually use to create change.
 
