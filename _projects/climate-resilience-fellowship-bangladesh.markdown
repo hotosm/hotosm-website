@@ -18,8 +18,8 @@ Impact Area:
 Person:
 - Mikko Tamura
 Partner:
-- World Vision Bangladesh
 - NetHope
+- World Vision Bangladesh
 Duration:
   Start Date: 2024-10-01 00:00:00 Z
 ---
