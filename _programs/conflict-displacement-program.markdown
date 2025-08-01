@@ -4,25 +4,26 @@ date: 2024-10-01 05:01:00 Z
 permalink: "/programs/conflict-displacement"
 position: 88
 Feature Image: https://cdn.hotosm.org/website/UNsomalia-27332415045_217de2d978_o.jpg
-tag-filter: conflict
 Country:
 - Palestinian Territory
 - Sudan
 - Somalia
-- South Sudan
-- Ethiopia
+- Myanmar
+- 
 - Lebanon
 Impact Area:
 - Displacement & Safe Migration
 Partner:
-- H2H
+- H2H Network
 - Humanitarian Data Exchange (HDX)
 - UN OCHA
 - DDMG
+- 
 Duration:
   Start Date: 2024-07-01 00:00:00 Z
   End Date: 2026-12-31 00:00:00 Z
   Timeframe: 2024 - 2026 Cycle
+tag-filter: conflict
 Stats:
   stat1: "+712,486"
   text1: Map edits in OSM
