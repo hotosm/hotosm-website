@@ -5,11 +5,11 @@ date: 2025-07-22 20:03:00 Z
 tags:
 - Asia Pacific
 - Bangladesh
-Project Summary Text: In 2024, [Dhaka Thrive](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
-  was launched to address the need for open and reliable geospatial data for Dhaka’s
-  informal settlements, laying the foundation for smarter, more inclusive urban planning.
-  In this next phase, the project will focus on transforming insights into action—empowering
-  local communities and decision-makers to drive meaningful, data-informed change.
+Project Summary Text: In 2024, Dhaka Thrive was launched to address the need for open
+  and reliable geospatial data for Dhaka’s informal settlements, laying the foundation
+  for smarter, more inclusive urban planning. In this next phase, the project will
+  focus on transforming insights into action—empowering local communities and decision-makers
+  to drive meaningful, data-informed change.
 Feature Image: "/uploads/Dhaka-Thrive_Website-Cover.jpg"
 Country:
 - Bangladesh
