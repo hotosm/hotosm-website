@@ -9,8 +9,8 @@ Person: Brazil Singh
 Country:
 - Bangladesh
 Project:
-- Dhaka Thrive - Data-Driven Insights for Climate Resilience and Urban Development
-  - Bangladesh
+- Mapping for Climate Ready Cities - Dhaka
+- 
 ---
 
 When I first started working with open mapping, I had no idea how much data could affect the lives of people living in at-risk communities. As a mapper from Dhaka, I've always known how important it is to do something about our changing, growing capital city. Because of this, I see my work on the Dhaka Thrive Project as a mission, a privilege, and a duty, not just an experience.
