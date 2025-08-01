@@ -24,7 +24,7 @@ Duration:
   End Date: 2024-12-31 00:00:00 Z
 Data:
 - title: Dhaka Thrive Dashboard
-  link: https://bit.ly/dhakathrivedashboard
+  link: https://umap.hotosm.org/en/map/dhaka-thrive-umap-dashboard_80
 Tools:
 - tool: Tasking Manager
   link: https://tasks.hotosm.org/
