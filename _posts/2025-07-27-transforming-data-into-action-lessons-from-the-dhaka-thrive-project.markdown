@@ -50,7 +50,7 @@ Shortly after, I saw the [uMap dashboard](http://tinyurl.com/dhakathrivedashboar
 
 For me, it was a powerful realization: data doesn’t just sit in a spreadsheet. When visualized and shared through open platforms like uMap, it becomes actionable, accessible, and impactful. It becomes something that communities, NGOs, and decision-makers can actually use to create change.
 
-I’m thrilled to share that I’m now working on a current project, [OSM Academy](https://osmacademy.org/), supported by the Open Mapping Hub Asia-Pacific, as part of the [CRF Fellowship.](https://www.facebook.com/watch/?v=692479983710420)
+I’m thrilled to share that I’m now working on a current project, [OSM Academy](https://osmacademy.org/), supported by the Open Mapping Hub Asia-Pacific, as part of the [CRF Fellowship.](https://www.hotosm.org/projects/climate-resilience-fellowship-bangladesh)
 
 OSM Academy is an open platform that aims to enhanceempower youth and volunteers in Dhaka’s slums to tackle climate vulnerability (especially heatwaves) by developing localized tools and training materials and providing capacity-building training through a dedicated website. As we build this academy, we can integrate the uMap dashboard developed during Dhaka Thrive to support real-time community needs.
 
