@@ -138,7 +138,7 @@ Building upon the work during this pilot phase, the team will collaborate with l
 * Promoting continued data use and contribution.
 * Enhancing community participation.
 
-To learn more about the next phase of the project, starting in January 2025, visit the [Dhaka Thrive](https://www.hotosm.org/projects/dhaka-thrive-bangladesh/) page.
+To learn more about the next phase of the project, starting in January 2025, visit the [Dhaka Thrive - Data-Driven Insights for Climate Resilience and Urban Development](https://www.hotosm.org/projects/dhaka-thrive-bangladesh/) page.
 
 <hr>
 
