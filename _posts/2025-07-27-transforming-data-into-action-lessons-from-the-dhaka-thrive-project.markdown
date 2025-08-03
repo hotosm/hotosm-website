@@ -9,7 +9,7 @@ Person: Brazil Singh
 Country:
 - Bangladesh
 Project:
-- Mapping for Climate Ready Cities - Dhaka
+- Mapping for Climate Ready Cities - Dhaka Thrive
 - 
 ---
 
