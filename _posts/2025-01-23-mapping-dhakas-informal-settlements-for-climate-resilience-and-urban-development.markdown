@@ -12,7 +12,7 @@ Person:
 Country:
 - Bangladesh
 Project:
-- Mapping for Climate Ready Cities - Dhaka
+- Mapping for Climate Ready Cities - Dhaka Thrive
 ---
 
 Launched in March 2024, the [Dhaka Thrive Project](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/), a collaboration between the [Open Mapping Hub - Asia-Pacific](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) and [World Vision Bangladesh](https://www.wvi.org/bangladesh), is a transformative initiative that addresses the challenges of informal settlements in Dhaka. Rapid urbanization has strained the city's infrastructure, public services, and disaster response systems. By working with local stakeholders, including humanitarian organizations, local authorities, and grassroots communities, the project enhances them to generate comprehensive open geospatial data and leverage it to make informed decisions and strengthen local urban resilience.
