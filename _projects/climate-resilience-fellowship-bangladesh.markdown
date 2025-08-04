@@ -163,8 +163,7 @@ Most importantly, they are **local leaders.** They live in or around the communi
     }
     @media (max-width: 600px) {
       .carousel-controls button {
-        font-size: 24px;
-        padding: 8px 12px;
+        display: none;
       }
     }
   </style>
