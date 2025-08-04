@@ -118,7 +118,7 @@ Most importantly, they are **local leaders.** They live in or around the communi
     }
     .carousel-images img {
       width: 100%;
-      max-height: 400px;
+      max-height: 720px;
       flex-shrink: 0;
       object-fit: contain;
       display: block;
