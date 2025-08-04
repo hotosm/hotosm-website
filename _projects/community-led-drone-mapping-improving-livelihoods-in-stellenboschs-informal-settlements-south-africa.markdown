@@ -7,7 +7,7 @@ Project Summary Text: The Humanitarian OpenStreetMap Team (HOT),  Slum Dwellers 
   high-quality map data with the aim of improving the living conditions, livelihoods
   and overall resilience for residents (particularly women) of informal settlements
   in Stellenbosch, with a special focus on Enkanini and its surrounding informal settlements.
-Feature Image: "/uploads/Screenshot%202025-08-04%20at%2015.18.38.png"
+Feature Image: "/uploads/HOT%7C%20OSM%20%7C%20Stellenbosch%20.png"
 Is image top aligned: true
 Is Community-Led: true
 Country:
