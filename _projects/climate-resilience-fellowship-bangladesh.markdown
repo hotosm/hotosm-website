@@ -95,7 +95,7 @@ Most importantly, they are **local leaders.** They live in or around the communi
 <title>Simple Carousel</title>
 <style>
 .carousel {
-  max-width: 640px;
+  max-width: 720px;
   margin: 0 auto;
   position: relative;
   overflow: hidden;
@@ -142,7 +142,7 @@ button:hover {
     <img src="/uploads/CRF-Capstone-Project-7.png" alt="7">
     <img src="/uploads/CRF-Capstone-Project-8.png" alt="8">
     <img src="/uploads/CRF-Capstone-Project-9.png" alt="9">
-    <img src="/uploads/CRF-Capstone-Project-10.png)" alt="10">
+    <img src="/uploads/CRF-Capstone-Project-10.png" alt="10">
   </div>
 </div>
 
