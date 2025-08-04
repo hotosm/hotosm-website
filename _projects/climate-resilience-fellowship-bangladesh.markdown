@@ -95,19 +95,24 @@ Most importantly, they are **local leaders.** They live in or around the communi
 <title>Simple Carousel</title>
 <style>
 .carousel {
-  max-width: 720px;
-  margin: 0 auto;
-  position: relative;
+  width: 100vw;
+  max-width: 100vw;
   overflow: hidden;
-  border: 1px solid #ddd;
+  position: relative;
+  margin: 0 auto;
+  border: none;
   background: #fff;
 }
+
 .carousel-images {
   display: flex;
   transition: transform 0.3s ease-in-out;
-}
-.carousel-images img {
   width: 100%;
+}
+
+.carousel-images img {
+  width: 100vw;
+  height: auto;
   flex-shrink: 0;
   object-fit: contain;
 }
