@@ -116,7 +116,7 @@ Most importantly, they are **local leaders.** They live in or around the communi
   margin-top: 10px;
 }
 button {
-  background: #333;
+  background: #20365B;
   color: white;
   border: none;
   padding: 5px 15px;
@@ -147,8 +147,8 @@ button:hover {
 </div>
 
 <div class="carousel-controls">
-  <button onclick="prevSlide()">Previous</button>
-  <button onclick="nextSlide()">Next</button>
+  <button onclick="prevSlide()">← Prev</button>
+  <button onclick="nextSlide()">Next →</button>
 </div>
 
 <script>
