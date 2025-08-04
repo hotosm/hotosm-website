@@ -67,7 +67,7 @@ This inclusive process is essential to the long-term sustainability of the monit
 * **Stakeholder mapping** – In May 2025, we shared how open mapping can transform the way we monitor mangrove conservation efforts at the Blue Carbon program stakeholder workshop. Read more in our latest [article - link].
 * **Dashboard prototype** – Explore [here](https://umap.hotosm.org/en/map/map4mangrove-dashboard_189).
 * Completed **remote mapping** for buildings and roads around the project area.
-
+* **Field mapping** – In July 2025, we conducted a two-day field mapping activity with partners, university students, and local community representative. Together, we explored, mapped, and documented all five rehabilitation sites.
 <hr>
 
 Follow our journey and stay updated with the latest news from the project through our social media.
