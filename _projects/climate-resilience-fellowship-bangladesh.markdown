@@ -88,12 +88,11 @@ Most importantly, they are **local leaders.** They live in or around the communi
 
 ### Capstone Projects
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Responsive Carousel with Fixed Image Size</title>
+  <title>Carousel with Arrows and Dots</title>
   <style>
     * {
       box-sizing: border-box;
@@ -106,10 +105,12 @@ Most importantly, they are **local leaders.** They live in or around the communi
     .carousel {
       width: 100vw;
       max-width: 640px;
-      margin: 0 auto;
+      margin: 20px auto;
       overflow: hidden;
       position: relative;
       background: #fff;
+      border: 1px solid #ccc;
+      border-radius: 8px;
     }
     .carousel-images {
       display: flex;
@@ -124,48 +125,59 @@ Most importantly, they are **local leaders.** They live in or around the communi
       margin: 0 auto;
     }
     .carousel-controls {
-      text-align: center;
-      margin: 10px 0;
+      position: absolute;
+      top: 50%;
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      transform: translateY(-50%);
+      pointer-events: none;
     }
     .carousel-controls button {
-      background: #333;
+      background: rgba(0,0,0,0.5);
       color: white;
-      font-size: 18px;
       border: none;
-      padding: 8px 15px;
-      margin: 0 5px;
-      border-radius: 5px;
+      font-size: 24px;
+      padding: 10px 15px;
       cursor: pointer;
+      pointer-events: all;
+      border-radius: 50%;
+      user-select: none;
+      transition: background 0.3s;
     }
     .carousel-controls button:hover {
-      background: #555;
+      background: rgba(0,0,0,0.8);
     }
     .carousel-pagination {
       text-align: center;
-      margin-bottom: 20px;
+      margin: 15px 0;
     }
     .carousel-pagination button {
       background: #eee;
-      color: #333;
       border: 1px solid #ccc;
-      padding: 5px 10px;
-      margin: 3px;
-      border-radius: 3px;
+      border-radius: 50%;
+      width: 14px;
+      height: 14px;
+      margin: 0 6px;
       cursor: pointer;
       transition: background 0.3s;
+      padding: 0;
+      user-select: none;
     }
     .carousel-pagination button.active {
       background: #333;
-      color: white;
+      border-color: #333;
     }
     @media (max-width: 600px) {
       .carousel-controls button {
-        padding: 6px 12px;
+        font-size: 18px;
+        padding: 8px 12px;
       }
     }
   </style>
 </head>
 <body>
+
   <div class="carousel">
     <div class="carousel-images" id="carousel">
       <img src="/uploads/CRF-Capstone-Project-1.png" alt="1" />
@@ -179,72 +191,88 @@ Most importantly, they are **local leaders.** They live in or around the communi
       <img src="/uploads/CRF-Capstone-Project-7.png" alt="9" />
       <img src="/uploads/CRF-Capstone-Project-8.png" alt="10" />
     </div>
+    <div class="carousel-controls">
+      <button id="prevBtn" aria-label="Previous Slide">‹</button>
+      <button id="nextBtn" aria-label="Next Slide">›</button>
+    </div>
   </div>
-  <div class="carousel-controls">
-    <button onclick="prevSlide()">⟨</button>
-    <button onclick="nextSlide()">⟩</button>
-  </div>
+
   <div class="carousel-pagination" id="pagination"></div>
+
   <script>
     const carousel = document.getElementById('carousel');
     const totalSlides = carousel.children.length;
     let currentIndex = 0;
-    function goToSlide(index) {
-      currentIndex = index;
-      updateSlide();
-    }
+
+    const pagination = document.getElementById('pagination');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+
     function updateSlide() {
       const offset = -currentIndex * carousel.clientWidth;
       carousel.style.transform = `translateX(${offset}px)`;
       updatePagination();
     }
+
     function prevSlide() {
       currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
       updateSlide();
     }
+
     function nextSlide() {
       currentIndex = (currentIndex + 1) % totalSlides;
       updateSlide();
     }
+
     function createPagination() {
-      const pagination = document.getElementById('pagination');
       for (let i = 0; i < totalSlides; i++) {
-        const btn = document.createElement('button');
-        btn.innerText = i + 1;
-        btn.addEventListener('click', () => goToSlide(i));
-        pagination.appendChild(btn);
+        const dot = document.createElement('button');
+        dot.setAttribute('aria-label', `Go to slide ${i + 1}`);
+        dot.addEventListener('click', () => {
+          currentIndex = i;
+          updateSlide();
+        });
+        pagination.appendChild(dot);
       }
     }
+
     function updatePagination() {
-      const buttons = document.querySelectorAll('.carousel-pagination button');
-      buttons.forEach((btn, index) => {
-        btn.classList.toggle('active', index === currentIndex);
-      });
+      const dots = pagination.children;
+      for (let i = 0; i < dots.length; i++) {
+        dots[i].classList.toggle('active', i === currentIndex);
+      }
     }
+
+    prevBtn.addEventListener('click', prevSlide);
+    nextBtn.addEventListener('click', nextSlide);
+
     let startX = 0;
     let endX = 0;
+
     carousel.addEventListener('touchstart', e => {
       startX = e.touches[0].clientX;
     });
+
     carousel.addEventListener('touchmove', e => {
       endX = e.touches[0].clientX;
     });
+
     carousel.addEventListener('touchend', () => {
       const diff = startX - endX;
       if (Math.abs(diff) > 50) {
-        if (diff > 0) {
-          nextSlide();
-        } else {
-          prevSlide();
-        }
+        if (diff > 0) nextSlide();
+        else prevSlide();
       }
       startX = 0;
       endX = 0;
     });
+
     createPagination();
     updateSlide();
+
     window.addEventListener('resize', updateSlide);
   </script>
+
 </body>
 </html>
 
