@@ -93,43 +93,40 @@ Most importantly, they are **local leaders.** They live in or around the communi
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Responsive Carousel with Slide Buttons</title>
+  <title>Responsive Carousel with Fixed Image Size</title>
   <style>
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
     }
-
     body {
       font-family: sans-serif;
     }
-
     .carousel {
       width: 100vw;
+      max-width: 640px;
+      margin: 0 auto;
       overflow: hidden;
       position: relative;
-      margin: 0 auto;
       background: #fff;
     }
-
     .carousel-images {
       display: flex;
       transition: transform 0.3s ease-in-out;
     }
-
     .carousel-images img {
-      width: 100vw;
-      height: auto;
+      width: 100%;
+      max-height: 400px;
       flex-shrink: 0;
       object-fit: contain;
+      display: block;
+      margin: 0 auto;
     }
-
     .carousel-controls {
       text-align: center;
       margin: 10px 0;
     }
-
     .carousel-controls button {
       background: #333;
       color: white;
@@ -140,16 +137,13 @@ Most importantly, they are **local leaders.** They live in or around the communi
       border-radius: 5px;
       cursor: pointer;
     }
-
     .carousel-controls button:hover {
       background: #555;
     }
-
     .carousel-pagination {
       text-align: center;
       margin-bottom: 20px;
     }
-
     .carousel-pagination button {
       background: #eee;
       color: #333;
@@ -160,12 +154,10 @@ Most importantly, they are **local leaders.** They live in or around the communi
       cursor: pointer;
       transition: background 0.3s;
     }
-
     .carousel-pagination button.active {
       background: #333;
       color: white;
     }
-
     @media (max-width: 600px) {
       .carousel-controls button {
         padding: 6px 12px;
@@ -174,7 +166,6 @@ Most importantly, they are **local leaders.** They live in or around the communi
   </style>
 </head>
 <body>
-
   <div class="carousel">
     <div class="carousel-images" id="carousel">
       <img src="/uploads/CRF-Capstone-Project-1.png" alt="1" />
@@ -189,40 +180,32 @@ Most importantly, they are **local leaders.** They live in or around the communi
       <img src="/uploads/CRF-Capstone-Project-8.png" alt="10" />
     </div>
   </div>
-
   <div class="carousel-controls">
     <button onclick="prevSlide()">⟨</button>
     <button onclick="nextSlide()">⟩</button>
   </div>
-
   <div class="carousel-pagination" id="pagination"></div>
-
   <script>
     const carousel = document.getElementById('carousel');
     const totalSlides = carousel.children.length;
     let currentIndex = 0;
-
     function goToSlide(index) {
       currentIndex = index;
       updateSlide();
     }
-
     function updateSlide() {
-      const offset = -currentIndex * window.innerWidth;
+      const offset = -currentIndex * carousel.clientWidth;
       carousel.style.transform = `translateX(${offset}px)`;
       updatePagination();
     }
-
     function prevSlide() {
       currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
       updateSlide();
     }
-
     function nextSlide() {
       currentIndex = (currentIndex + 1) % totalSlides;
       updateSlide();
     }
-
     function createPagination() {
       const pagination = document.getElementById('pagination');
       for (let i = 0; i < totalSlides; i++) {
@@ -232,25 +215,20 @@ Most importantly, they are **local leaders.** They live in or around the communi
         pagination.appendChild(btn);
       }
     }
-
     function updatePagination() {
       const buttons = document.querySelectorAll('.carousel-pagination button');
       buttons.forEach((btn, index) => {
         btn.classList.toggle('active', index === currentIndex);
       });
     }
-
     let startX = 0;
     let endX = 0;
-
-    carousel.addEventListener('touchstart', (e) => {
+    carousel.addEventListener('touchstart', e => {
       startX = e.touches[0].clientX;
     });
-
-    carousel.addEventListener('touchmove', (e) => {
+    carousel.addEventListener('touchmove', e => {
       endX = e.touches[0].clientX;
     });
-
     carousel.addEventListener('touchend', () => {
       const diff = startX - endX;
       if (Math.abs(diff) > 50) {
@@ -263,7 +241,6 @@ Most importantly, they are **local leaders.** They live in or around the communi
       startX = 0;
       endX = 0;
     });
-
     createPagination();
     updateSlide();
     window.addEventListener('resize', updateSlide);
