@@ -175,6 +175,7 @@ function nextSlide() {
 </body>
 </html>
 
+<br>
 Each fellow group leads a capstone project that addresses a specific climate risk or capacity gap. Projects cover diverse themes, including waste management, rainwater harvesting, heat adaptation, climate education, and community awareness.
 
 Designed to be realistic, replicable, and community-owned, the capstone projects will primarily engage local communities in Dhaka, with a few projects taking place in Chattogram.
