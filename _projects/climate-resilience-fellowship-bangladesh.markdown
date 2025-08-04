@@ -276,4 +276,4 @@ Additionally, they will inspire other youths and future generations to become ch
 <hr><br>
 Stay updated on the latest news from our fellows’ capstone projects through our [social media channels](http://linktr.ee/openmapping_ap).
 
-<span style="font-size: 12px;">*Cover photo credit: Rajib Mahmud / World Vision Bangladesh*</span>
+<span style="font-size: 12px;">*Cover and slider photos credit: Rajib Mahmud / World Vision Bangladesh*</span>
