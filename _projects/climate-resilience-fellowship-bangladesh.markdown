@@ -88,95 +88,186 @@ Most importantly, they are **local leaders.** They live in or around the communi
 
 ### Capstone Projects
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Simple Carousel</title>
-<style>
-.carousel {
-  width: 100vw;
-  max-width: 100vw;
-  overflow: hidden;
-  position: relative;
-  margin: 0 auto;
-  border: none;
-  background: #fff;
-}
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Responsive Carousel with Slide Buttons</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
 
-.carousel-images {
-  display: flex;
-  transition: transform 0.3s ease-in-out;
-  width: 100%;
-}
+    body {
+      font-family: sans-serif;
+    }
 
-.carousel-images img {
-  width: 100vw;
-  height: auto;
-  flex-shrink: 0;
-  object-fit: contain;
-}
-.carousel-controls {
-  text-align: center;
-  margin-top: 10px;
-}
-button {
-  background: #20365B;
-  color: white;
-  border: none;
-  padding: 5px 15px;
-  margin: 0 5px;
-  border-radius: 3px;
-  cursor: pointer;
-}
-button:hover {
-  background: #555;
-}
-</style>
+    .carousel {
+      width: 100vw;
+      overflow: hidden;
+      position: relative;
+      margin: 0 auto;
+      background: #fff;
+    }
+
+    .carousel-images {
+      display: flex;
+      transition: transform 0.3s ease-in-out;
+    }
+
+    .carousel-images img {
+      width: 100vw;
+      height: auto;
+      flex-shrink: 0;
+      object-fit: contain;
+    }
+
+    .carousel-controls {
+      text-align: center;
+      margin: 10px 0;
+    }
+
+    .carousel-controls button {
+      background: #333;
+      color: white;
+      font-size: 18px;
+      border: none;
+      padding: 8px 15px;
+      margin: 0 5px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    .carousel-controls button:hover {
+      background: #555;
+    }
+
+    .carousel-pagination {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .carousel-pagination button {
+      background: #eee;
+      color: #333;
+      border: 1px solid #ccc;
+      padding: 5px 10px;
+      margin: 3px;
+      border-radius: 3px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .carousel-pagination button.active {
+      background: #333;
+      color: white;
+    }
+
+    @media (max-width: 600px) {
+      .carousel-controls button {
+        padding: 6px 12px;
+      }
+    }
+  </style>
 </head>
 <body>
 
-<div class="carousel">
-  <div class="carousel-images" id="carousel">
-    <img src="/uploads/CRF-Capstone-Project-1.png" alt="1">
-    <img src="/uploads/CRF-Capstone-Project-2.png" alt="2">
-    <img src="/uploads/CRF-Capstone-Project-3.png" alt="3">
-    <img src="/uploads/CRF-Capstone-Project-4.png" alt="4">
-    <img src="/uploads/CRF-Capstone-Project-5.png" alt="5">
-    <img src="/uploads/CRF-Capstone-Project-6.png" alt="6">
-    <img src="/uploads/CRF-Capstone-Project-7.png" alt="7">
-    <img src="/uploads/CRF-Capstone-Project-8.png" alt="8">
-    <img src="/uploads/CRF-Capstone-Project-9.png" alt="9">
-    <img src="/uploads/CRF-Capstone-Project-10.png" alt="10">
+  <div class="carousel">
+    <div class="carousel-images" id="carousel">
+      <img src="/uploads/CRF-Capstone-Project-1.png" alt="1" />
+      <img src="/uploads/CRF-Capstone-Project-2.png" alt="2" />
+      <img src="/uploads/CRF-Capstone-Project-3.png" alt="3" />
+      <img src="/uploads/CRF-Capstone-Project-4.png" alt="4" />
+      <img src="/uploads/CRF-Capstone-Project-5.png" alt="5" />
+      <img src="/uploads/CRF-Capstone-Project-6.png" alt="6" />
+      <img src="/uploads/CRF-Capstone-Project-7.png" alt="7" />
+      <img src="/uploads/CRF-Capstone-Project-8.png" alt="8" />
+      <img src="/uploads/CRF-Capstone-Project-7.png" alt="9" />
+      <img src="/uploads/CRF-Capstone-Project-8.png" alt="10" />
+    </div>
   </div>
-</div>
 
-<div class="carousel-controls">
-  <button onclick="prevSlide()">← Prev</button>
-  <button onclick="nextSlide()">Next →</button>
-</div>
+  <div class="carousel-controls">
+    <button onclick="prevSlide()">⟨</button>
+    <button onclick="nextSlide()">⟩</button>
+  </div>
 
-<script>
-const carousel = document.getElementById('carousel');
-const totalSlides = carousel.children.length;
-let currentIndex = 0;
+  <div class="carousel-pagination" id="pagination"></div>
 
-function updateSlide() {
-  const offset = -currentIndex * 100;
-  carousel.style.transform = `translateX(${offset}%)`;
-}
+  <script>
+    const carousel = document.getElementById('carousel');
+    const totalSlides = carousel.children.length;
+    let currentIndex = 0;
 
-function prevSlide() {
-  currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
-  updateSlide();
-}
+    function goToSlide(index) {
+      currentIndex = index;
+      updateSlide();
+    }
 
-function nextSlide() {
-  currentIndex = (currentIndex + 1) % totalSlides;
-  updateSlide();
-}
-</script>
+    function updateSlide() {
+      const offset = -currentIndex * window.innerWidth;
+      carousel.style.transform = `translateX(${offset}px)`;
+      updatePagination();
+    }
 
+    function prevSlide() {
+      currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+      updateSlide();
+    }
+
+    function nextSlide() {
+      currentIndex = (currentIndex + 1) % totalSlides;
+      updateSlide();
+    }
+
+    function createPagination() {
+      const pagination = document.getElementById('pagination');
+      for (let i = 0; i < totalSlides; i++) {
+        const btn = document.createElement('button');
+        btn.innerText = i + 1;
+        btn.addEventListener('click', () => goToSlide(i));
+        pagination.appendChild(btn);
+      }
+    }
+
+    function updatePagination() {
+      const buttons = document.querySelectorAll('.carousel-pagination button');
+      buttons.forEach((btn, index) => {
+        btn.classList.toggle('active', index === currentIndex);
+      });
+    }
+
+    let startX = 0;
+    let endX = 0;
+
+    carousel.addEventListener('touchstart', (e) => {
+      startX = e.touches[0].clientX;
+    });
+
+    carousel.addEventListener('touchmove', (e) => {
+      endX = e.touches[0].clientX;
+    });
+
+    carousel.addEventListener('touchend', () => {
+      const diff = startX - endX;
+      if (Math.abs(diff) > 50) {
+        if (diff > 0) {
+          nextSlide();
+        } else {
+          prevSlide();
+        }
+      }
+      startX = 0;
+      endX = 0;
+    });
+
+    createPagination();
+    updateSlide();
+    window.addEventListener('resize', updateSlide);
+  </script>
 </body>
 </html>
 
