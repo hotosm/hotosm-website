@@ -133,16 +133,16 @@ button:hover {
 
 <div class="carousel">
   <div class="carousel-images" id="carousel">
-    <img src="![CRF-Capstone-Project-1.png](/uploads/CRF-Capstone-Project-1.png)" alt="1">
-    <img src="![CRF-Capstone-Project-2.png](/uploads/CRF-Capstone-Project-2.png)" alt="2">
-    <img src="![CRF-Capstone-Project-3.png](/uploads/CRF-Capstone-Project-3.png)" alt="3">
-    <img src="![CRF-Capstone-Project-1.png](/uploads/CRF-Capstone-Project-4.png)" alt="4">
-    <img src="![CRF-Capstone-Project-2.png](/uploads/CRF-Capstone-Project-5.png)" alt="5">
-    <img src="![CRF-Capstone-Project-3.png](/uploads/CRF-Capstone-Project-6.png)" alt="6">
-    <img src="![CRF-Capstone-Project-2.png](/uploads/CRF-Capstone-Project-7.png)" alt="7">
-    <img src="![CRF-Capstone-Project-3.png](/uploads/CRF-Capstone-Project-8.png)" alt="8">
-    <img src="![CRF-Capstone-Project-2.png](/uploads/CRF-Capstone-Project-7.png)" alt="9">
-    <img src="![CRF-Capstone-Project-3.png](/uploads/CRF-Capstone-Project-8.png)" alt="10">
+    <img src="/uploads/CRF-Capstone-Project-1.png" alt="1">
+    <img src="/uploads/CRF-Capstone-Project-2.png" alt="2">
+    <img src="/uploads/CRF-Capstone-Project-3.png" alt="3">
+    <img src="/uploads/CRF-Capstone-Project-4.png" alt="4">
+    <img src="/uploads/CRF-Capstone-Project-5.png" alt="5">
+    <img src="/uploads/CRF-Capstone-Project-6.png" alt="6">
+    <img src="/uploads/CRF-Capstone-Project-7.png" alt="7">
+    <img src="/uploads/CRF-Capstone-Project-8.png" alt="8">
+    <img src="/uploads/CRF-Capstone-Project-9.png" alt="9">
+    <img src="/uploads/CRF-Capstone-Project-10.png)" alt="10">
   </div>
 </div>
 
