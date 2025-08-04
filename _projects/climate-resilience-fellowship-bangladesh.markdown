@@ -102,27 +102,26 @@ Most importantly, they are **local leaders.** They live in or around the communi
     body {
       font-family: sans-serif;
     }
-    .carousel {
-      width: 100vw;
-      max-width: 640px;
-      margin: 20px auto;
-      overflow: hidden;
+    .carousel-wrapper {
       position: relative;
-      background: #fff;
-      border: 1px solid #ccc;
-      border-radius: 8px;
+      width: 100vw;
+      max-width: 100%;
+      margin: 40px auto;
+    }
+    .carousel {
+      overflow: hidden;
+      width: 100%;
     }
     .carousel-images {
       display: flex;
       transition: transform 0.3s ease-in-out;
     }
     .carousel-images img {
-      width: 100%;
-      max-height: 720px;
-      flex-shrink: 0;
+      width: 100vw;
+      max-height: 600px;
       object-fit: contain;
+      flex-shrink: 0;
       display: block;
-      margin: 0 auto;
     }
     .carousel-controls {
       position: absolute;
@@ -134,43 +133,38 @@ Most importantly, they are **local leaders.** They live in or around the communi
       pointer-events: none;
     }
     .carousel-controls button {
-      background: rgba(0,0,0,0.5);
+      background: rgba(0, 0, 0, 0.6);
       color: white;
       border: none;
-      font-size: 24px;
-      padding: 10px 15px;
+      font-size: 30px;
+      padding: 10px 18px;
       cursor: pointer;
       pointer-events: all;
-      border-radius: 50%;
       user-select: none;
       transition: background 0.3s;
     }
     .carousel-controls button:hover {
-      background: rgba(0,0,0,0.8);
+      background: rgba(0, 0, 0, 0.8);
     }
     .carousel-pagination {
       text-align: center;
-      margin: 15px 0;
+      margin-top: 15px;
     }
     .carousel-pagination button {
-      background: #eee;
-      border: 1px solid #ccc;
+      background: #ddd;
+      border: none;
       border-radius: 50%;
-      width: 14px;
-      height: 14px;
-      margin: 0 6px;
+      width: 12px;
+      height: 12px;
+      margin: 0 5px;
       cursor: pointer;
-      transition: background 0.3s;
-      padding: 0;
-      user-select: none;
     }
     .carousel-pagination button.active {
       background: #333;
-      border-color: #333;
     }
     @media (max-width: 600px) {
       .carousel-controls button {
-        font-size: 18px;
+        font-size: 24px;
         padding: 8px 12px;
       }
     }
@@ -178,22 +172,25 @@ Most importantly, they are **local leaders.** They live in or around the communi
 </head>
 <body>
 
-  <div class="carousel">
-    <div class="carousel-images" id="carousel">
-      <img src="/uploads/CRF-Capstone-Project-1.png" alt="1" />
-      <img src="/uploads/CRF-Capstone-Project-2.png" alt="2" />
-      <img src="/uploads/CRF-Capstone-Project-3.png" alt="3" />
-      <img src="/uploads/CRF-Capstone-Project-4.png" alt="4" />
-      <img src="/uploads/CRF-Capstone-Project-5.png" alt="5" />
-      <img src="/uploads/CRF-Capstone-Project-6.png" alt="6" />
-      <img src="/uploads/CRF-Capstone-Project-7.png" alt="7" />
-      <img src="/uploads/CRF-Capstone-Project-8.png" alt="8" />
-      <img src="/uploads/CRF-Capstone-Project-7.png" alt="9" />
-      <img src="/uploads/CRF-Capstone-Project-8.png" alt="10" />
+  <div class="carousel-wrapper">
+    <div class="carousel">
+      <div class="carousel-images" id="carousel">
+        <img src="/uploads/CRF-Capstone-Project-1.png" alt="1" />
+        <img src="/uploads/CRF-Capstone-Project-2.png" alt="2" />
+        <img src="/uploads/CRF-Capstone-Project-3.png" alt="3" />
+        <img src="/uploads/CRF-Capstone-Project-4.png" alt="4" />
+        <img src="/uploads/CRF-Capstone-Project-5.png" alt="5" />
+        <img src="/uploads/CRF-Capstone-Project-6.png" alt="6" />
+        <img src="/uploads/CRF-Capstone-Project-7.png" alt="7" />
+        <img src="/uploads/CRF-Capstone-Project-8.png" alt="8" />
+        <img src="/uploads/CRF-Capstone-Project-7.png" alt="9" />
+        <img src="/uploads/CRF-Capstone-Project-8.png" alt="10" />
+      </div>
     </div>
+
     <div class="carousel-controls">
-      <button id="prevBtn" aria-label="Previous Slide">‹</button>
-      <button id="nextBtn" aria-label="Next Slide">›</button>
+      <button id="prevBtn">‹</button>
+      <button id="nextBtn">›</button>
     </div>
   </div>
 
@@ -209,7 +206,7 @@ Most importantly, they are **local leaders.** They live in or around the communi
     const nextBtn = document.getElementById('nextBtn');
 
     function updateSlide() {
-      const offset = -currentIndex * carousel.clientWidth;
+      const offset = -currentIndex * window.innerWidth;
       carousel.style.transform = `translateX(${offset}px)`;
       updatePagination();
     }
@@ -227,7 +224,6 @@ Most importantly, they are **local leaders.** They live in or around the communi
     function createPagination() {
       for (let i = 0; i < totalSlides; i++) {
         const dot = document.createElement('button');
-        dot.setAttribute('aria-label', `Go to slide ${i + 1}`);
         dot.addEventListener('click', () => {
           currentIndex = i;
           updateSlide();
