@@ -88,6 +88,93 @@ Most importantly, they are **local leaders.** They live in or around the communi
 
 ### Capstone Projects
 
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Simple Carousel</title>
+<style>
+.carousel {
+  max-width: 640px;
+  margin: 0 auto;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #ddd;
+  background: #fff;
+}
+.carousel-images {
+  display: flex;
+  transition: transform 0.3s ease-in-out;
+}
+.carousel-images img {
+  width: 100%;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.carousel-controls {
+  text-align: center;
+  margin-top: 10px;
+}
+button {
+  background: #333;
+  color: white;
+  border: none;
+  padding: 5px 15px;
+  margin: 0 5px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+button:hover {
+  background: #555;
+}
+</style>
+</head>
+<body>
+
+<div class="carousel">
+  <div class="carousel-images" id="carousel">
+    <img src="![CRF-Capstone-Project-1.png](/uploads/CRF-Capstone-Project-1.png)" alt="1">
+    <img src="![CRF-Capstone-Project-2.png](/uploads/CRF-Capstone-Project-2.png)" alt="2">
+    <img src="![CRF-Capstone-Project-3.png](/uploads/CRF-Capstone-Project-3.png)" alt="3">
+    <img src="![CRF-Capstone-Project-1.png](/uploads/CRF-Capstone-Project-4.png)" alt="4">
+    <img src="![CRF-Capstone-Project-2.png](/uploads/CRF-Capstone-Project-5.png)" alt="5">
+    <img src="![CRF-Capstone-Project-3.png](/uploads/CRF-Capstone-Project-6.png)" alt="6">
+    <img src="![CRF-Capstone-Project-2.png](/uploads/CRF-Capstone-Project-7.png)" alt="7">
+    <img src="![CRF-Capstone-Project-3.png](/uploads/CRF-Capstone-Project-8.png)" alt="8">
+    <img src="![CRF-Capstone-Project-2.png](/uploads/CRF-Capstone-Project-7.png)" alt="9">
+    <img src="![CRF-Capstone-Project-3.png](/uploads/CRF-Capstone-Project-8.png)" alt="10">
+  </div>
+</div>
+
+<div class="carousel-controls">
+  <button onclick="prevSlide()">Previous</button>
+  <button onclick="nextSlide()">Next</button>
+</div>
+
+<script>
+const carousel = document.getElementById('carousel');
+const totalSlides = carousel.children.length;
+let currentIndex = 0;
+
+function updateSlide() {
+  const offset = -currentIndex * 100;
+  carousel.style.transform = `translateX(${offset}%)`;
+}
+
+function prevSlide() {
+  currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+  updateSlide();
+}
+
+function nextSlide() {
+  currentIndex = (currentIndex + 1) % totalSlides;
+  updateSlide();
+}
+</script>
+
+</body>
+</html>
+
 Each fellow group leads a capstone project that addresses a specific climate risk or capacity gap. Projects cover diverse themes, including waste management, rainwater harvesting, heat adaptation, climate education, and community awareness.
 
 Designed to be realistic, replicable, and community-owned, the capstone projects will primarily engage local communities in Dhaka, with a few projects taking place in Chattogram.
