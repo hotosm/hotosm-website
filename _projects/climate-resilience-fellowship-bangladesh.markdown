@@ -181,8 +181,8 @@ Most importantly, they are **local leaders.** They live in or around the communi
         <img src="/uploads/CRF-Capstone-Project-6.png" alt="6" />
         <img src="/uploads/CRF-Capstone-Project-7.png" alt="7" />
         <img src="/uploads/CRF-Capstone-Project-8.png" alt="8" />
-        <img src="/uploads/CRF-Capstone-Project-7.png" alt="9" />
-        <img src="/uploads/CRF-Capstone-Project-8.png" alt="10" />
+        <img src="/uploads/CRF-Capstone-Project-9.png" alt="9" />
+        <img src="/uploads/CRF-Capstone-Project-10.png" alt="10" />
       </div>
     </div>
 
