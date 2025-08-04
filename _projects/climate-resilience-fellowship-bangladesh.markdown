@@ -206,7 +206,8 @@ Most importantly, they are **local leaders.** They live in or around the communi
     const nextBtn = document.getElementById('nextBtn');
 
     function updateSlide() {
-      const offset = -currentIndex * window.innerWidth;
+      const slideWidth = carousel.children[0].clientWidth;
+      const offset = -currentIndex * slideWidth;
       carousel.style.transform = `translateX(${offset}px)`;
       updatePagination();
     }
