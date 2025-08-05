@@ -112,7 +112,7 @@ Through data collection and local engagement, Dhaka Thrive enriched existing map
 Additionally, the project empowered local youth by equipping them with digital skills in mapping and data analysis through direct involvement in data collection. This approach not only promoted sustainability but also contributed to the Bangladesh government’s vision of building a digital nation.
 
 ![Dhaka-Thrive_Testimonial_Brazil-Singh.png](/uploads/Dhaka-Thrive_Testimonial_Brazil-Singh.png)
-<div style="text-align: center;"><span style="font-size: 12px;">Members of World Vision Bangladesh, led by our Open Mapping Guru Brazil Singh, eagerly collected street-level images using Mapillary during a field visit to Mirpur. Read Brazil’s <a href="https://www.openstreetmap.org/user/Brazil%20Singh/diary/403790" target="_blank">OSM Diary</a> entry to gain insight into the fieldwork through the lens of a local community member and open mapping representative. | Photo: World Vision Bangladesh volunteer team</span></div>
+<div style="text-align: center;"><span style="font-size: 12px;">Members of World Vision Bangladesh, led by our Open Mapping Guru Brazil Singh, eagerly collected street-level images using Mapillary during a field visit to Mirpur. Read Brazil’s [blog](https://www.hotosm.org/updates/transforming-data-into-action-lessons-from-the-dhaka-thrive-project/) to gain insight into the fieldwork through the lens of a local community member and open mapping representative. | Photo: World Vision Bangladesh volunteer team</span></div>
 <br>
 <hr>
 
