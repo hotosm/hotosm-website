@@ -11,7 +11,7 @@ Place of Work: Remote
 
 ## Contributor input:
 
-* We are looking for somebody with eTypeScript / JavaScript experience and designing small UI. 
+* We are looking for somebody with TypeScript / JavaScript experience and designing small UI. 
 
 ## Resources
 
@@ -19,7 +19,7 @@ Place of Work: Remote
 * [Test site to build on](https://xlsform-builder.fmtm.hotosm.org) 
 
 ## Contact
-If you are interested, message [Petya Kangalova](mailto:petya.kangalova@hotosm.org) and/or [Sam Woodcock](mailto:sam.woodcock@hotosm.org).
+If you are interested, message [Petya Kangalova](mailto:petya.kangalova@hotosm.org) and/or [Sam Woodcock](mailto:sam.woodcock@hotosm.org), attaching your CV and your availability volunteering on this project.
 
 ## Other contributions
 There are also plenty of other tech projects/ideas, where you can contribute:
