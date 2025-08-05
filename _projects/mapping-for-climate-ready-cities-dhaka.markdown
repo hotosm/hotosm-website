@@ -9,7 +9,7 @@ Project Summary Text: Through our Mapping for Climate Ready Cities program, HOT 
   and use of maps to respond to and reduce climate risks in urban areas across four
   priority regions. This project page highlights our work in Dhaka, Bangladesh through
   HOT's Open Mapping Hub - Asia Pacific.
-Feature Image: "/uploads/Dhaka-Thrive-2024_Website-Cover.jpg"
+Feature Image: "/uploads/Dhaka-Thrive-2024_Website-Cover-7f5340.jpg"
 Is image top aligned: false
 Country:
 - Bangladesh
@@ -46,7 +46,7 @@ To address these complex urban issues, [Open Mapping Hub - Asia Pacific (AP Hub)
 
 Implemented in 2024, the project centered on Mirpur, a densely populated area in North Dhaka with a high number of informal settlements and climate migrants.
 
-![Dhaka-Thrive_Field-Visit_2024.jpg](/uploads/Dhaka-Thrive_Field-Visit_2024.jpg)
+![Dhaka-Thrive_Field-Visit_2024-c50c5c.jpg](/uploads/Dhaka-Thrive_Field-Visit_2024-c50c5c.jpg)
 <div style="text-align: center;"><span style="font-size: 12px;">Field visit and data collection at Duaripara, Mirpur (March 2024) | Photo: Honey Fombuena / Open Mapping Hub - Asia Pacific</span></div>
 <br>
 
