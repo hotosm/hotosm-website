@@ -159,4 +159,8 @@ To learn more about the next phase of the project, starting in January 2025, vis
 
 3) Read and download our [project report](https://drive.google.com/file/d/16F-djDrdlozj9e6V7t9tv1umvPnzMopY/view?usp=sharing).
 
+4) Photos from the project
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720328163372" title="Dhaka Thrive - Bangladesh (2024)"><img src="https://live.staticflickr.com/65535/54700910935_5378b30479_h.jpg" width="1600" height="1200" alt="Dhaka Thrive - Bangladesh (2024)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <span style="font-size: 12px;">*Cover photo credit: Honey Fombuena / Open Mapping Hub - Asia Pacific*</span>
