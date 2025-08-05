@@ -22,7 +22,7 @@ Block 1:
   Image: https://cdn.hotosm.org/website/open-source.png
   Tools:
   - Name: Learn More
-    URL: https://tasks.hotosm.org/
+    URL: https://dronetm.org
 Block 2:
   Header: Field Data Collection
   Text: fAIr is an open AI-assisted mapping service developed by the Humanitarian
@@ -60,7 +60,7 @@ Block 3:
   Image: https://cdn.hotosm.org/website/Code+for+Africa+2019+Microgrant.jpg
   Tools:
   - Name: DroneTM Research GitHub
-    URL: https://github.com/hotosm/datm-research
+    URL: https://github.com/hotosm/drone-tm
 Block 4:
   Header: Open Aerial Map (OAM)
   Text: OpenAerialMap is an open service to provide access to a commons of openly
