@@ -33,7 +33,7 @@ Stats:
   text2: Countries Worked In
   hover2: Countries of dedicated data improvement and community building campaigns
   stat3: '2,604 '
-  text3: Shared OSM Datasets
+  text3: OSM Datasets Globally
   hover3: 'OSM Datasets on HDX '
 Feature-Image: https://cdn.hotosm.org/website/UNsomalia-27332415045_217de2d978_o.jpg
 Event Promo:
