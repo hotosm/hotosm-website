@@ -25,21 +25,16 @@ Duration:
   Timeframe: 2024 - 2026 Cycle
 tag-filter: conflict
 Stats:
-  stat1: "+712,486"
-  text1: Map edits in OSM
+  stat1: "+3,263,682"
+  text1: Edits in OSM
   hover1: 'Refers to any change made, such as adding, modifying, or deleting features
     like roads, buildings, points of interest, or others. '
-  stat2: "+307,762"
-  text2: Buildings Mapped
-  hover2: The absolute increase or decrease in the amount of buildings in the OSM
-    database.
-  stat3: 22
-  text3: Mapping Projects
-  hover3: Number of Tasking Manager projects created under this program.
-  stat4: 355
-  text4: OSM Contributors
-  hover4: The number of distinct users that have edited OSM data. Projects in this
-    program are only open to expert mappers.
+  stat2: 4
+  text2: Countries Worked In
+  hover2: Countries of dedicated data improvement and community building campaigns
+  stat3: '2,604 '
+  text3: OSM Datasets
+  hover3: 'OSM Datasets on HDX '
 Feature-Image: https://cdn.hotosm.org/website/UNsomalia-27332415045_217de2d978_o.jpg
 Event Promo:
   Event Name: Conflict & Displacement Program
