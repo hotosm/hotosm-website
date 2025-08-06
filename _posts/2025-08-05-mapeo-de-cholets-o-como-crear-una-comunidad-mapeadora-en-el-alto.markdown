@@ -72,7 +72,7 @@ Profundizar sus conocimientos de mapeo con charlas y capacitaciones brindadas po
 
 Mantenerse en contacto con la gran comunidad de datos abiertos y la de OpenStreetMap para poder coordinar iniciativas y actividades.
 
-Khantuta reflexiono sobre lo ya mencionado:
+Khantuta Muruchi, Sociologa del Irnakawi Cowork, reflexiono sobre lo ya mencionado:
 
 > La jornada de mapeo de cholets fue una oportunidad para trabajar en la construcción del conocimiento colectivo con herramientas libres. La reflexión sobre este proceso pudo generar sinergias entre diversas personas y activistas que, a pesar de compartir un interés común, aún permanecen desarticuladas. La reunión en el Irnakawi Cowork cumplió su propósito al convertirse en un espacio para dialogar, intercambiar, conversar sobre proyectos, ideas, intenciones, y comunes a futuro, todos vinculados con los datos abiertos y la construcción de una red interesada en la temática. Nos quedamos con una red conectada, de colectivos y activistas, y otros compañeras y compañeros que tienen interés en la temática, y con las ganas de hacer un trabajo colectivo.
 
