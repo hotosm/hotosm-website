@@ -18,18 +18,20 @@ Do You Know What a Cholet Is? When we set out to map cholets in El Alto, La Paz,
 
 Before diving in, let me tell you the story of this mapping. While coordinating with Iván Terceros from [Openlab Ecuador](https://openlab.ec/) for our respective interventions in a panel on Amazon mapping, the idea of doing “something extra” came up—taking advantage of our presence in the city and that of other technologists, activists, and people interested in open data, civic engagement, and activism. It soon became clear that this “something extra” could be the mapping of something that would engage both locals and visitors, and that would have meaningful significance for the community.
 
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/en/map/mapeo-de-cholets-la-paz-bolivia-25-7-25_414?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/en/map/mapeo-de-cholets-la-paz-bolivia-25-7-25_414?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
-
 After a short deliberation, [cholets](https://en.wikipedia.org/wiki/Cholet_architecture) were chosen as our mapping subject. These buildings, born out of the pride and creativity of contemporary Aymara culture, not only represent an aesthetic break from traditional architecture but are also symbols of self-affirmation, social mobility, and cultural innovation. Each cholet is a unique creation blending elements of Andean cosmovision, vibrant colors, bold geometries, and multifunctional uses—turning them into visual manifestos of a new urban identity.
 
-Iván Terceros shares:  
+Iván Terceros shares:
+
 > “In a world where geographic and cultural information is key to the recognition and appreciation of territories, open and collaborative mapping becomes a fundamental tool to document, showcase, and share the living heritage of our cities. Through the use of free technologies and citizen participation, this type of mapping allows communities to build collective knowledge from within, recognizing their history, identity, and transformations.”
 
 With this idea in mind, Khantuta Muruchi from Irnakawi Cowork, Cielo Saravia from Colectivo Ciber/n/ética, and the team from Wikimedistas de Bolivia—Sebastián Montes, Olga Paredes, and Naira Abal—joined the planning. Together, we defined the mapping objectives:
 
 * Train participants in the use of free, collaborative mobile mapping tools.
+
 * Collect georeferenced data on cholets in selected areas of El Alto.
+
 * Encourage reflection on the symbolic, cultural, and aesthetic value of contemporary Andean architecture.
+
 * Publish the results on an open web platform with the mapped points.
 
 The mapping was conceived as an in-person, collaborative data collection activity, with the active participation of citizen mappers, aiming to document and share the architectural richness of cholets. The data would help promote cultural tourism in El Alto and strengthen the sense of belonging among its residents.
@@ -39,8 +41,11 @@ These data, images, and locations of emblematic buildings form an open cartograp
 To ensure the data could be shared across platforms, we used a mix of tools:
 
 * **[ChatMap](https://chatmap.hotosm.org/)** – to create a quickly viewable and shareable map via WhatsApp mapping.
+
 * **[StreetComplete](https://streetcomplete.app/)** and **[Everydoor](https://every-door.app/)** – to enrich OpenStreetMap with points of interest and detailed information.
+
 * **[Mapillary](https://www.mapillary.com/mobile-apps?locale=en)** – for imagery.
+
 * **[Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)** – for construction data and photos.
 
 ![Mapping Cholets](https://live.staticflickr.com/65535/54703157700_b2e44b2607_b.jpg)
@@ -49,7 +54,7 @@ The Monday before AbreLatam, we did a small test mapping walk and adjusted detai
 
 After a couple of hours of data collection, we returned to the coworking space for a sharing session. Following a well-deserved break, we generated the ChatMap with everyone’s contributions—impressing participants with how quickly a map of the day’s work was available.
 
-[View the full map here](//umap.hotosm.org/en/map/mapeo-de-cholets-la-paz-bolivia-25-7-25_414?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true)
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/en/map/mapeo-de-cholets-la-paz-bolivia-25-7-25_414?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/en/map/mapeo-de-cholets-la-paz-bolivia-25-7-25_414?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true">See full screen</a></p>
 
 During a final discussion, participants reached a general agreement on what defines a cholet: a facade with striking geometry and relief (sometimes with an external frame), a ground floor for commercial or event activities, intermediate floors for rent, and the top level as a residence. Recognizing these features helps appreciate their unique cultural, social, and even technological dimensions. The everyday becomes visible heritage—mappable heritage.
 
@@ -64,8 +69,11 @@ Sebastián Montes from Wikimedia Bolivia, in addition to sharing cholet photos o
 I personally congratulated all participants for their enthusiasm and suggested, as an emerging mapping community, considering these next steps to keep the collaborative spirit alive and continue building data and knowledge:
 
 * Organize more cholet mapping walks to complete the dataset.
+
 * Explore other mapping topics of both local interest and broader community relevance.
+
 * Deepen mapping skills with talks and training from OSM Bolivia members.
+
 * Stay in touch with the wider open data and OSM communities to coordinate initiatives.
 
 Khantuta Muruchi, sociologist at Irnakawi Cowork, reflected:
