@@ -9,6 +9,9 @@ Country:
 - Bolivia
 ---
 
+[English version
+](https://www.hotosm.org/updates/mapping-cholets-or-how-to-build-a-mapping-community-in-el-alto-bolivia/)
+
 ¿Sabes qué es un cholet? Cuando nos propusimos realizar un mapeo de cholets en El Alto, La Paz, como evento paralelo al [AbreLatam/Condatos](https://2025.abrelatam.org/), el encuentro de datos abiertos más grande la región, que se celebró en julio 2025, pensábamos que sabíamos qué era. Ahora no solo sabemos qué son, sino qué significan y cómo son parte del entramado social de esta pujante ciudad.
 
 <a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/54702825356/in/album-72177720328173725/" title="Mapeo de Cholets en El Alto, La Paz"><img src="https://live.staticflickr.com/65535/54702825356_581032ca9b_b.jpg" width="1024" height="768" alt="Mapeo de Cholets en El Alto, La Paz"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
