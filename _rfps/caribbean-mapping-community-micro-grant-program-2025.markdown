@@ -1,15 +1,16 @@
 ---
-title: Caribbean Mapping Community Micro-Grant Program 2025
+title: Caribbean Collective Community Microgrants 2025
 date: 2025-08-07 23:15:00 Z
 Deadline Date: 2025-09-01 00:00:00 Z
 Apply Form Link: https://forms.gle/EPCcDjCkJQEqcMxX6
 Page Contact:
   Contact Email: caribbean@hotosm.org
+  Label: Contact Email
 ---
 
 # Application Guidelines
 
-![Caribbean Mapping Community Micro-Grant  Program 2025.jpg](/uploads/Caribbean%20Mapping%20Community%20Micro-Grant%20%20Program%202025.jpg)
+![Caribbean Mapping Community Micro-Grant  Program 2025-762b8c.jpg](/uploads/Caribbean%20Mapping%20Community%20Micro-Grant%20%20Program%202025-762b8c.jpg)
 
 ## Background
 
