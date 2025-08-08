@@ -72,5 +72,40 @@ Additionally, Gurus responded to requests from supporting field mapping initiati
 
 ## Local Champions as Drivers for Sustainable Open Mapping Ecosystems
 
+OM Guru has demonstrated that **peer-led mentorship** and **local ownership** are key to sustaining engagement in open mapping communities. When Gurus are empowered to train and lead others, they create ripple effects of knowledge-sharing grounded in trust and cultural relevance.
 
+Beyond technical skills, the program highlighted the importance of soft skills like facilitation, storytelling, and project planning. Most importantly, when Gurus see themselves as **part of a shared mission**, they stay committed.
 
+Other key learnings:
+* Tailoring activities to local contexts made learning more meaningful.
+* Recognition—whether through features, awards, or leadership roles—deepens the Gurus’ sense of pride and belonging.
+* Grants, even in small scale, enabled Gurus to launch impactful community projects.
+* Flexible yet structured programming allowed Gurus to innovate while staying on track.
+* Cross-country interactions between Gurus helped build a strong regional identity.
+* Continuous feedback loops helped refine the program, ensuring it remained community-led and relevant.
+
+As Gurus build up their experience in facilitating open mapping initiatives and confidence as local OSM champions, the Asia-Pacific region will increasingly see an exponential growth of open mapping initiatives in the coming years.
+
+<hr>
+
+### What’s Next
+
+The next phase of OM Guru will focus on expanding learning opportunities through the development of **online learning modules** on **LearnWorlds.** These modules will offer asynchronous, self-paced training designed to strengthen both technical mapping skills and soft skills such as community engagement, project management, and storytelling.
+
+By providing flexible, accessible content, we aim to reach a wider network of Gurus and emerging mappers, enabling continuous learning regardless of time zone, connectivity, or schedule.
+
+In parallel, the program will launch a **Climate Action and Disaster Ready Fellowship**, designed to activate Gurus at the intersection of open mapping, community resilience, and climate justice. Through this program, Gurus will work in teams to lead collaborative projects that address local climate and disaster challenges.
+
+Stay tuned for more upcoming news and the latest updates through our [social media](http://linktr.ee/openmapping_ap)!
+
+<hr>
+
+### More from OM Guru: Stories and Resources
+
+1. Access free past training sessions hosted by our Gurus here.
+2. Explore some of our Gurus’ stories as they share their journeys and experiences during the  2024 Guru Fellowship.
+* Training track: Sushma Ghimire (Nepal), Ponciano da Costa de Jesus (Timor-Leste), Rua Puka (Papua New Guinea), Kyaw Zayar Linn (Myanmar)
+* Mapping track: Rinchen Norbu (Bhutan), Tilok Chetri (India), Faiza Waziha (Bangladesh)
+* Validation track: Zainab Ramadhanis (Indonesia), Dhivya Manoj (Sri Lanka), Gaurav Parajuli (Nepal), Anjar Akrimullah (Indonesia)
+
+<span style="font-size: 12px;">*Cover photo credit: Mikko Tamura / Open Mapping Hub - Asia Pacific*</span>
