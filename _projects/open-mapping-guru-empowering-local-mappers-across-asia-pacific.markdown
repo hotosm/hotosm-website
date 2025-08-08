@@ -52,5 +52,10 @@ In this 5-month fellowship, 50 Gurus were engaged through three focused tracks: 
 
 2) **Climate Change Challenge (2024)**
 
+A one-month mapping campaign that brought together over 200 mappers across the region to address climate-related data gaps using open mapping tools. Participants mapped buildings, roads, amenities, rivers, and other critical features while also utilizing and analyzing map data to inform climate action and advocacy.
+
+<hr>
+
+## Outcome and Impact
 
 
