@@ -34,7 +34,6 @@ To support this, Gurus will work with local OSM communities to build their capac
 ### Who are Gurus?
 
 ![OM-Guru_SotM-Asia_2024.jpg](/uploads/OM-Guru_SotM-Asia_2024.jpg)
-
 <div style="text-align: center;"><span style="font-size: 12px;">Gurus at State of the Map Asia 2024 in Cox’s Bazar, Bangladesh | Photo: Mikko Tamura / Open Mapping Hub - Asia Pacific</span></div>
 
 **Gurus** are experienced and motivated OSM mappers that have been trained and engaged to lead on (1) training, (2) production of learning materials, and (3) support open mapping activities across the region. They play a multifaceted role in catalyzing the growth of the open mapping movement in Asia Pacific.
@@ -65,6 +64,12 @@ Since its launch in 2023, OM Guru has led and supported a number of impactful ca
 1) **Guru Fellowship (2024)**
 
 In this 5-month fellowship, 50 Gurus were engaged through three focused tracks: **training, mapping, and validation.** Fellows applied their skills to real-world challenges by leading activities that directly benefited their local communities, ranging from disaster preparedness to inclusive mapping.
+
+<div style="text-align: center;"><span style="font-size: 12px;">In-person training sessions led by Guru Pawan (India) and Guru Ponsy (Timor-Leste) from the training track</span></div>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fjulmira.julmira.10%2Fvideos%2F1090180422496547%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<div style="text-align: center;"><span style="font-size: 12px;">Guru Julmira (Timor-Leste), part of the mapping track, shared her thoughts and inspiring journey through the Guru Fellowship program. | Video: Julmira de Almeida</span></div>
 
 2) **Climate Change Challenge (2024)**
 
@@ -105,7 +110,6 @@ Other key learnings:
 As Gurus build up their experience in facilitating open mapping initiatives and confidence as local OSM champions, the Asia-Pacific region will increasingly see an exponential growth of open mapping initiatives in the coming years.
 
 ![OM-Guru_Welcome-Webinar_2024.jpg](/uploads/OM-Guru_Welcome-Webinar_2024.jpg)
-
 <div style="text-align: center;"><span style="font-size: 12px;">Open Mapping Guru welcome webinar (November 2024). Attended by over 90 Gurus, the webinar welcomed new members to the Open Mapping Guru network, with seasoned Gurus sharing their experiences in the program so far. | Photo: Bernard Heng / Open Mapping Hub - Asia Pacific</span></div>
 
 <hr>
