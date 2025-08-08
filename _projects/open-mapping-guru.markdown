@@ -2,6 +2,8 @@
 title: Open Mapping Guru - Empowering Local Mappers Across Asia Pacific
 date: 2025-08-08 02:06:00 Z
 published: false
+tags:
+- Asia Pacific
 Project Summary Text: The Open Mapping Hub - Asia Pacific (AP Hub), in collaboration
   with the local OpenStreetMap (OSM) communities, co-created the Open Mapping Guru
   (OM Guru) project to catalyze a regional network of dedicated and experienced OSM
