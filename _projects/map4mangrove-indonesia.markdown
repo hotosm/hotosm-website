@@ -61,12 +61,16 @@ This inclusive process is essential to the long-term sustainability of the monit
 
 ### Project Phases
 
+![Map4Mangrove_Project-Phases_2025.png](/uploads/Map4Mangrove_Project-Phases_2025.png)
+
 <hr>
 
 ## Current Output (June 2025)
 * **Stakeholder mapping** – In May 2025, we shared how open mapping can transform the way we monitor mangrove conservation efforts at the Blue Carbon program stakeholder workshop. Read more in our latest [article - link].
 * **Dashboard prototype** – Explore [here](https://umap.hotosm.org/en/map/map4mangrove-dashboard_189).
 * Completed **remote mapping** for buildings and roads around the project area.
+![Map4Mangrove_Remote-Mapping_2025.png](/uploads/Map4Mangrove_Remote-Mapping_2025.png)
+
 * **Field mapping** – At the end of July 2025, we conducted a two-day field mapping activity with partners, university students, and local community representatives. Together, we explored, mapped, and documented all five rehabilitation sites. The activities included data collection using KoboToolbox, street-level imagery using Mapillary, and aerial mapping using drone.
 <hr>
 
