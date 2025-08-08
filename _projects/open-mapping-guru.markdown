@@ -9,6 +9,12 @@ Project Summary Text: The Open Mapping Hub - Asia Pacific (AP Hub), in collabora
   (OM Guru) project to catalyze a regional network of dedicated and experienced OSM
   contributors, champions, and mappers. This growing network of experts—also known
   as “Gurus”—are key players in driving a more localized, regional community building.
+Country:
+- Asia Pacific
+Person:
+- Mikko Tamura
+Duration:
+  Start Date: 2023-10-01 00:00:00 Z
 ---
 
 ## A Need for More Local Representation
@@ -45,7 +51,7 @@ In summary, the system works like a classified ads board where requestors post n
 In addition to work and project opportunities, Gurus are among the first to receive email alerts about scholarships, sponsorships, global and regional events, training, and activation.
 
 <hr>
-
+<br>
 Since its launch in 2023, OM Guru has led and supported a number of impactful campaigns across Asia Pacific. Key highlights include:
 
 1) **Guru Fellowship (2024)**
@@ -104,8 +110,8 @@ Stay tuned for more upcoming news and the latest updates through our [social med
 
 ### More from OM Guru: Stories and Resources
 
-1. Access free past training sessions hosted by our Gurus here.
-2. Explore some of our Gurus’ stories as they share their journeys and experiences during the  2024 Guru Fellowship.
+1) Access free past training sessions hosted by our Gurus here.
+2) Explore some of our Gurus’ stories as they share their journeys and experiences during the  2024 Guru Fellowship.
 * Training track: Sushma Ghimire (Nepal), Ponciano da Costa de Jesus (Timor-Leste), Rua Puka (Papua New Guinea), Kyaw Zayar Linn (Myanmar)
 * Mapping track: Rinchen Norbu (Bhutan), Tilok Chetri (India), Faiza Waziha (Bangladesh)
 * Validation track: Zainab Ramadhanis (Indonesia), Dhivya Manoj (Sri Lanka), Gaurav Parajuli (Nepal), Anjar Akrimullah (Indonesia)
