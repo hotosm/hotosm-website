@@ -65,6 +65,7 @@ Since its launch in 2023, OM Guru has led and supported a number of impactful ca
 
 In this 5-month fellowship, 50 Gurus were engaged through three focused tracks: **training, mapping, and validation.** Fellows applied their skills to real-world challenges by leading activities that directly benefited their local communities, ranging from disaster preparedness to inclusive mapping.
 
+![OM-Guru_Guru-Fellowship-Training-1_2024.jpg](/uploads/OM-Guru_Guru-Fellowship-Training-1_2024.jpg)
 <div style="text-align: center;"><span style="font-size: 12px;">In-person training sessions led by Guru Pawan (India) and Guru Ponsy (Timor-Leste) from the training track</span></div>
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fjulmira.julmira.10%2Fvideos%2F1090180422496547%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
@@ -94,6 +95,9 @@ Additionally, Gurus responded to requests from supporting field mapping initiati
 <hr>
 
 ## Local Champions as Drivers for Sustainable Open Mapping Ecosystems
+
+![OM-Guru_Guru-Fellowship-Training-2_2024.jpg.jpg](/uploads/OM-Guru_Guru-Fellowship-Training-2_2024.jpg.jpg)
+<div style="text-align: center;"><span style="font-size: 12px;">In-person training session led by Guru Sushma (Nepal)</span></div>
 
 OM Guru has demonstrated that **peer-led mentorship** and **local ownership** are key to sustaining engagement in open mapping communities. When Gurus are empowered to train and lead others, they create ripple effects of knowledge-sharing grounded in trust and cultural relevance.
 
