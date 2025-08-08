@@ -46,6 +46,10 @@ Each guru contributes based on their unique interests and expertise. Gurus are r
 
 ## How the Program Works
 
+![OM-Guru_How-One-Becomes-A-Guru.png](/uploads/OM-Guru_How-One-Becomes-A-Guru.png)
+
+![OM-Guru_How-Guru-Assignment-Works.png](/uploads/OM-Guru_How-Guru-Assignment-Works.png)
+
 In summary, the system works like a classified ads board where requestors post needs and available Gurus can respond, based on their skills, interests, and availability. 
 
 In addition to work and project opportunities, Gurus are among the first to receive email alerts about scholarships, sponsorships, global and regional events, training, and activation.
@@ -65,6 +69,8 @@ A one-month mapping campaign that brought together over 200 mappers across the r
 <hr>
 
 ## Outcome and Impact
+
+![OM-Guru_Impact-in-Numbers_2025.png](/uploads/OM-Guru_Impact-in-Numbers_2025.png)
 
 ### Collaboration and Data Use
 
