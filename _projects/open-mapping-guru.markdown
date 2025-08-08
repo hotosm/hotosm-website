@@ -33,6 +33,10 @@ To support this, Gurus will work with local OSM communities to build their capac
 
 ### Who are Gurus?
 
+![OM-Guru_SotM-Asia_2024.jpg](/uploads/OM-Guru_SotM-Asia_2024.jpg)
+
+<div style="text-align: center;"><span style="font-size: 12px;">Gurus at State of the Map Asia 2024 in Cox’s Bazar, Bangladesh | Photo: Mikko Tamura / Open Mapping Hub - Asia Pacific</span></div>
+
 **Gurus** are experienced and motivated OSM mappers that have been trained and engaged to lead on (1) training, (2) production of learning materials, and (3) support open mapping activities across the region. They play a multifaceted role in catalyzing the growth of the open mapping movement in Asia Pacific.
 
 Each guru contributes based on their unique interests and expertise. Gurus are responsible for the following:
@@ -100,6 +104,10 @@ Other key learnings:
 
 As Gurus build up their experience in facilitating open mapping initiatives and confidence as local OSM champions, the Asia-Pacific region will increasingly see an exponential growth of open mapping initiatives in the coming years.
 
+![OM-Guru_Welcome-Webinar_2024.jpg](/uploads/OM-Guru_Welcome-Webinar_2024.jpg)
+
+<div style="text-align: center;"><span style="font-size: 12px;">Open Mapping Guru welcome webinar (November 2024). Attended by over 90 Gurus, the webinar welcomed new members to the Open Mapping Guru network, with seasoned Gurus sharing their experiences in the program so far. | Photo: Bernard Heng / Open Mapping Hub - Asia Pacific</span></div>
+
 <hr>
 
 ### What’s Next
@@ -117,6 +125,7 @@ Stay tuned for more upcoming news and the latest updates through our [social med
 ### More from OM Guru: Stories and Resources
 
 1) Access free past training sessions hosted by our Gurus [here](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Open_Mapping_Guru_Project/OM_Guru_Network_Trainings).
+
 2) Explore some of our Gurus’ stories as they share their journeys and experiences during the  2024 Guru Fellowship.
 * Training track: [Sushma Ghimire (Nepal)](https://www.openstreetmap.org/user/SushmaGhimire/diary/404517), [Ponciano da Costa de Jesus (Timor-Leste)](https://www.openstreetmap.org/user/Ponsyano/diary/404338), [Rua Puka (Papua New Guinea)](https://www.openstreetmap.org/user/WanixRSGIS/diary/404799), [Kyaw Zayar Linn (Myanmar)](https://www.openstreetmap.org/user/leonkhay95/diary/404723)
 * Mapping track: [Rinchen Norbu (Bhutan)](https://www.openstreetmap.org/user/RinchenNorbu/diary/404173), [Tilok Chetri (India)](https://www.openstreetmap.org/user/TilokChetri/diary/404432), [Faiza Waziha (Bangladesh)](https://www.openstreetmap.org/user/Faiza%20Waziha/diary/404453)
