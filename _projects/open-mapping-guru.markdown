@@ -110,10 +110,10 @@ Stay tuned for more upcoming news and the latest updates through our [social med
 
 ### More from OM Guru: Stories and Resources
 
-1) Access free past training sessions hosted by our Gurus here.
+1) Access free past training sessions hosted by our Gurus [here](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team/Open_Mapping_Hub_-_Asia_Pacific/Open_Mapping_Guru_Project/OM_Guru_Network_Trainings).
 2) Explore some of our Gurus’ stories as they share their journeys and experiences during the  2024 Guru Fellowship.
-* Training track: Sushma Ghimire (Nepal), Ponciano da Costa de Jesus (Timor-Leste), Rua Puka (Papua New Guinea), Kyaw Zayar Linn (Myanmar)
-* Mapping track: Rinchen Norbu (Bhutan), Tilok Chetri (India), Faiza Waziha (Bangladesh)
-* Validation track: Zainab Ramadhanis (Indonesia), Dhivya Manoj (Sri Lanka), Gaurav Parajuli (Nepal), Anjar Akrimullah (Indonesia)
+* Training track: [Sushma Ghimire (Nepal)](https://www.openstreetmap.org/user/SushmaGhimire/diary/404517), [Ponciano da Costa de Jesus (Timor-Leste)](https://www.openstreetmap.org/user/Ponsyano/diary/404338), [Rua Puka (Papua New Guinea)](https://www.openstreetmap.org/user/WanixRSGIS/diary/404799), [Kyaw Zayar Linn (Myanmar)](https://www.openstreetmap.org/user/leonkhay95/diary/404723)
+* Mapping track: [Rinchen Norbu (Bhutan)](https://www.openstreetmap.org/user/RinchenNorbu/diary/404173), [Tilok Chetri (India)](https://www.openstreetmap.org/user/TilokChetri/diary/404432), [Faiza Waziha (Bangladesh)](https://www.openstreetmap.org/user/Faiza%20Waziha/diary/404453)
+* Validation track: [Zainab Ramadhanis (Indonesia)](https://www.openstreetmap.org/user/Zainab%20Ramadhanis/diary/404296), [Dhivya Manoj (Sri Lanka)](https://www.openstreetmap.org/user/Shandhivya/diary/404283), [Gaurav Parajuli (Nepal)](https://www.openstreetmap.org/user/Gaurav%20Parajuli/diary/404343), [Anjar Akrimullah (Indonesia)](https://www.openstreetmap.org/user/Akrimullah/diary/404260)
 
 <span style="font-size: 12px;">*Cover photo credit: Mikko Tamura / Open Mapping Hub - Asia Pacific*</span>
