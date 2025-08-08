@@ -9,6 +9,8 @@ Page Contact:
 
 # Application Guidelines
 
+![Caribbean Mapping Community Micro-Grant  Program 2025.jpg](/uploads/Caribbean%20Mapping%20Community%20Micro-Grant%20%20Program%202025.jpg)
+
 ## Background
 
 The HOT Caribbean Mapping Community Micro-Grant program supports the growth of open mapping communities in the Caribbean by providing resources, funding, and mentorship to strengthen their community impact.
@@ -34,8 +36,8 @@ HOT will provide:
 * Templates for the required reports
 
 * Microgrant:\
-  C. Caribbean Collective Mapping Event Grant (USD $500.00)\
-  D. Caribbean Collective Community Resilience Building Grant (USD $1,500)
+  Caribbean Collective Mapping Event Grant (USD $500.00)\
+  Caribbean Collective Community Resilience Building Grant (USD $1,500)
 
 The Caribbean Mapping Community Micro-Grant Program 2025 aims to create a nurturing environment for the emergence of robust open-mapping groups, ensuring their sustainable growth and increased impact on their communities.
 
