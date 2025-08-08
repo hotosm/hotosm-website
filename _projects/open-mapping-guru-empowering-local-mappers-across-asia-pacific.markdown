@@ -58,4 +58,19 @@ A one-month mapping campaign that brought together over 200 mappers across the r
 
 ## Outcome and Impact
 
+### Collaboration and Data Use
+
+Gurus successfully drove impactful data use through engagement and collaboration with the following organizations:
+* SEBAC-Nepal’s Forecast-based Anticipatory Action Project: provided map data on 10 municipalities, enhancing the Nepal Government’s disaster readiness initiatives.
+* Tomtom: improved their navigation products and services for drivers and mappers across India, Indonesia, Philippines, and Vietnam.
+* Telangana Government Unit (India): increased map data for their geospatial platform, allowing patients and their families to become better informed on where to access healthcare and childcare centers.
+* NGOs and Governments in Afghanistan, Papua New Guinea, Myanmar, and Philippines: provided access to disaster activation base maps to inform their disaster response.
+ 
+Additionally, Gurus responded to requests from supporting field mapping initiatives, conducting training sessions, to helping scale local data collection efforts for various NGOs and civil society groups like Hasiru Aqua, World Vision Sri Lanka, World Vision Timor-Leste, and St. Anns Women University.
+
+<hr>
+
+## Local Champions as Drivers for Sustainable Open Mapping Ecosystems
+
+
 
