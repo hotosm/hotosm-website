@@ -131,6 +131,7 @@ Additionally, Gurus responded to requests from supporting field mapping initiati
 
 ![OM-Guru_Guru-Fellowship-Training-2_2024.jpg.jpg](/uploads/OM-Guru_Guru-Fellowship-Training-2_2024.jpg.jpg)
 <div style="text-align: center;"><span style="font-size: 12px;">In-person training session led by Guru Sushma (Nepal)</span></div>
+<br>
 
 OM Guru has demonstrated that **peer-led mentorship** and **local ownership** are key to sustaining engagement in open mapping communities. When Gurus are empowered to train and lead others, they create ripple effects of knowledge-sharing grounded in trust and cultural relevance.
 
@@ -149,6 +150,7 @@ As Gurus build up their experience in facilitating open mapping initiatives and 
 ![OM-Guru_Welcome-Webinar_2024.jpg](/uploads/OM-Guru_Welcome-Webinar_2024.jpg)
 <div style="text-align: center;"><span style="font-size: 12px;">Open Mapping Guru welcome webinar (November 2024). Attended by over 90 Gurus, the webinar welcomed new members to the Open Mapping Guru network, with seasoned Gurus sharing their experiences in the program so far. | Photo: Bernard Heng / Open Mapping Hub - Asia Pacific</span></div>
 
+<br>
 <hr>
 
 ### What’s Next
