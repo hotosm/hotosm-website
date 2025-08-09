@@ -36,6 +36,7 @@ To support this, Gurus will work with local OSM communities to build their capac
 
 ![OM-Guru_SotM-Asia_2024.jpg](/uploads/OM-Guru_SotM-Asia_2024.jpg)
 <div style="text-align: center;"><span style="font-size: 12px;">Gurus at State of the Map Asia 2024 in Cox’s Bazar, Bangladesh | Photo: Mikko Tamura / Open Mapping Hub - Asia Pacific</span></div>
+<br>
 
 **Gurus** are experienced and motivated OSM mappers that have been trained and engaged to lead on (1) training, (2) production of learning materials, and (3) support open mapping activities across the region. They play a multifaceted role in catalyzing the growth of the open mapping movement in Asia Pacific.
 
@@ -68,10 +69,41 @@ In this 5-month fellowship, 50 Gurus were engaged through three focused tracks: 
 
 ![OM-Guru_Guru-Fellowship-Training-1_2024.jpg](/uploads/OM-Guru_Guru-Fellowship-Training-1_2024.jpg)
 <div style="text-align: center;"><span style="font-size: 12px;">In-person training sessions led by Guru Pawan (India) and Guru Ponsy (Timor-Leste) from the training track</span></div>
+<br>
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fjulmira.julmira.10%2Fvideos%2F1090180422496547%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<style>
+  .responsive-video {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+
+  .responsive-video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+</style>
+
+<div class="responsive-video">
+  <iframe 
+    src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fjulmira.julmira.10%2Fvideos%2F1090180422496547%2F&show_text=false&width=560&t=0" 
+    title="Facebook video player"
+    scrolling="no" 
+    allowfullscreen="true" 
+    allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
+</div>
 
 <div style="text-align: center;"><span style="font-size: 12px;">Guru Julmira (Timor-Leste), part of the mapping track, shared her thoughts and inspiring journey through the Guru Fellowship program. | Video: Julmira de Almeida</span></div>
+<br>
 
 2) **Climate Change Challenge (2024)**
 
