@@ -9,6 +9,7 @@ Project Summary Text: The Open Mapping Hub - Asia Pacific (AP Hub), in collabora
   (OM Guru) project to catalyze a regional network of dedicated and experienced OSM
   contributors, champions, and mappers. This growing network of experts—also known
   as “Gurus”—are key players in driving a more localized, regional community building.
+Feature Image: "/uploads/OM-Guru_Website-Cover.jpg"
 Country:
 - Asia Pacific
 Person:
