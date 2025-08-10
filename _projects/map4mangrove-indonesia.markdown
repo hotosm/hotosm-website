@@ -78,4 +78,6 @@ This inclusive process is essential to the long-term sustainability of the monit
 <br>
 Following this milestone and everyone’s collective work so far, we are now transforming the collected data into impactful visualization and analysis. Follow our journey and stay updated with the latest news from the project through our social media.
 
+Explore photos from the project here: [Stakeholder mapping (May 2025)](https://www.flickr.com/photos/hotosm/albums/72177720328260367/) – Training on open mapping tools with university students (July 2025) – Field mapping at mangrove rehabilitation sites (July 2025)
+
 <span style="font-size: 12px;">*Cover photo credit: Tony Liong / Open Mapping Hub - Asia Pacific*</span>
