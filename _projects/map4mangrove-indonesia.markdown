@@ -22,7 +22,8 @@ Partner:
 Duration:
   Start Date: 2025-01-01 00:00:00 Z
 Tools:
-- tool: Drone Tasking Manager
+- tool: Field Tasking Manager
+- tool: Mapillary
 ---
 
 ## Monitoring Gaps in Mangrove Conservation
