@@ -71,6 +71,52 @@ Considering the area was prone to disasters (including a [tsunami](https://en.wi
 <hr>
 
 
-Harry also introduced some of the tools planned to be used for data collection: Field-TM, Mapillary, and MapSwipe. Responding to these tools, Fitrian Dwi Cahyo, Coastal and Marine Analyst at Local Office for Coastal and Marine Resource Management (LOKA PSPL) Serang, was impressed with their user-friendliness and expressed interest in learning more.
-At the end of the day, community remains at the heart of the open mapping movement. Ensuring that tools are easy to use is key to driving community involvement and reducing barriers related to digital literacy.
+Harry also introduced some of the tools planned to be used for data collection: [HOT Field-TM](https://mapper.fmtm.hotosm.org/), [Mapillary](https://www.mapillary.com/), and [MapSwipe](https://mapswipe.org/). Responding to these tools, Fitrian Dwi Cahyo, Coastal and Marine Analyst at the [Local Office for Coastal and Marine Resource Management (LOKA PSPL) Serang](https://kkp.go.id/unit-kerja/djpkrl/upt/loka-pengelolaan-sd-pesisir-laut-serang.html), was impressed with their user-friendliness and expressed interest in learning more.
+
+At the end of the day, **community remains at the heart of the open mapping movement.** Ensuring that tools are easy to use is key to driving community involvement and reducing barriers related to digital literacy.
+
 “Through open mapping, we hope that data collection will not only be done by us, but can also be supported by everyone here today, including community representatives who can give us clearer local insight on current rehabilitation sites,” Harry shared.
+
+<hr>
+
+The session sparked lively discussion from the audience. Once the event entered the Q&A session, a couple of hands were immediately raised. Some highlight questions included:
+
+**LOKA PSPL Serang:** We’re really interested in the dashboard. Is it possible to make it time-series to address the dynamic needs of mangrove conservation? And will it only include data from this year alone, or will it be continuous?
+
+**Harry:** Yes, it is very possible to include a time-series feature to visualize conservation progress over the years.
+
+As for continuity, the main reason we invited everyone here today to contribute to the project—including university students and community representatives—is because we want the dashboard to be more than just a one-time thing. Our hope is that by the end of the project in October, we can hand it over to relevant parties interested in maintaining it, whether for data monitoring or adding new field data.
+
+That’s also why during our upcoming field mapping activities, we want everyone to get involved and learn how to contribute to the dashboard. This way, **even after this project ends, the dashboard can be continued since capacity building will already be in place.**
+
+So, the potential for long-term use is there, but ensuring its sustainability requires commitment from KEHATI and all stakeholders.
+
+Another note: data from the dashboard can also be downloaded in various formats, which allows further integration if LOKA PSPL or other government agencies already have their own data systems.
+
+<hr>
+
+**University student representative:** How can we take part in data collection and field mapping? Are there any specific requirements?
+
+**Harry:** There’s really only one requirement: commitment. Once we’ve conducted training on how to use the tools, we hope students and others who join will contribute and help us map all 14 hectares of the mangrove area. With everyone’s collective support, we can enhance the dashboard even further.
+
+Alternatively, in context outside of the Blue Carbon program, feel free to reach out to us and we’d be happy to share learning materials that you can use for your future mapping projects.
+
+<hr>
+
+Followed by more questions about the dashboard, the discussion provided indirect input on additional features with high use potential, coming from those working directly at the local level. 
+
+Strong interest was also shown in the tools’ broader applications to address diverse biodiversity needs, including those beyond mangrove conservation. As LOKA PSPL shared, “We’re actually currently developing an underwater map. So, we’re really interested in the potential for collaboration.”
+
+<hr>
+
+### Collaboration as Key to Successful Conservation Efforts
+
+At the end of the event, Toufik Alansar, KEHATI’s Marine Program Manager, reflected on the Blue Carbon program’s journey over the past four years.
+
+
+
+Looking toward the audience, especially community representatives who have been working tirelessly to improve their local area, he added, “At the end of the day, these mangroves don’t belong to KEHATI or Asahimas. **They belong to the community.** After this project ends in 2026, we will hand over the management of the planted mangrove areas to the community groups.”
+
+“Personally, what I’m really trying to look for today are **gaps.** From the challenges shared and new insights gained, I hope we can try to come up with **solutions** to address those gaps. Let’s continue to collaborate and work together,” Toufik emphasized. 
+
+
