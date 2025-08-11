@@ -1,6 +1,12 @@
 ---
 title: 'Staff Spotlight Series: Bernard Heng'
 date: 2025-08-11 14:48:00 Z
+categories:
+- news
+- staff
+tags:
+- Community
+- Asia Pacific
 Summary Text: Every other month, we’re featuring one of our all-star staff members.
   Staff featured in this Spotlight Series have been peer-nominated for their superb
   performance and values-driven work. This time, we spotlight Bernard Heng, Program
