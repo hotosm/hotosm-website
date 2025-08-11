@@ -1,6 +1,9 @@
 ---
 title: Advancing Mangrove Monitoring in Indonesia through Open Mapping and Collaboration
 date: 2025-08-11 06:55:00 Z
+tags:
+- Asia Pacific
+- Indonesia
 Summary Text: Effective conservation monitoring requires reliable, open spatial data.
   Through the Map4Mangrove project, Open Mapping Hub - Asia Pacific partners with
   organizations engaged in mangrove rehabilitation in Indonesia to strengthen their
@@ -139,4 +142,6 @@ This project marks not only AP Hub’s pilot collaboration with KEHATI, but also
 Following this event, the AP Hub team will continue preparing for the next steps, which include field mapping activities and capturing aerial imagery with drones, followed by capacity building of local teams and stakeholders to ensure the project’s long-term sustainability. We’re excited to share more news and progress soon!
 
 
-Photos: Tony Liong / Open Mapping Hub - Asia Pacific
+<span style="font-size: 12px;">*Photos: Tony Liong / Open Mapping Hub - Asia Pacific*</span>
+
+Explore photos from the events [here](https://www.flickr.com/photos/hotosm/albums/72177720328260367/).
