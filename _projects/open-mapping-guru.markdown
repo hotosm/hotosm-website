@@ -68,6 +68,7 @@ Since its launch in 2023, OM Guru has led and supported a number of impactful ca
 In this 5-month fellowship, 50 Gurus were engaged through three focused tracks: **training, mapping, and validation.** Fellows applied their skills to real-world challenges by leading activities that directly benefited their local communities, ranging from disaster preparedness to inclusive mapping.
 
 ![OM-Guru_Guru-Fellowship-Training-1_2024.jpg](/uploads/OM-Guru_Guru-Fellowship-Training-1_2024.jpg)
+<div style="margin-top: 0.5em;"></div>
 <div style="text-align: center;"><span style="font-size: 12px;">In-person training sessions led by Guru Pawan (India) and Guru Ponsy (Timor-Leste) from the training track</span></div>
 <br>
 
