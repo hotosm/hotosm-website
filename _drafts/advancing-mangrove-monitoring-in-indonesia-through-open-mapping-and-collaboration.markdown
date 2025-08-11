@@ -42,7 +42,7 @@ Map4Mangrove’s project lead, [Harry Mahardhika](https://www.hotosm.org/people/
 “Given the dynamic challenges in conservation work, not all results may always meet expectations. That’s why we need a way to visualize our progress,” Harry explained.
 
 <hr>
-
+<br>
 In this collaboration, AP Hub will work closely with KEHATI and SALAKA to support the Blue Carbon program through mapping, data collection, spatial analysis, and visualization. This includes leading the development of a **dynamic, open-access map platform (dashboard).**
 
 The main uses of the dashboard will include:
