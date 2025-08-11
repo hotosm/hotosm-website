@@ -5,6 +5,11 @@ Summary Text: Effective conservation monitoring requires reliable, open spatial 
   Through the Map4Mangrove project, Open Mapping Hub - Asia Pacific partners with
   organizations engaged in mangrove rehabilitation in Indonesia to strengthen their
   monitoring efforts through open mapping.
+Person:
+- Tony Liong
+- Harry Mahardhika Machmud
+Country:
+- Indonesia
 ---
 
 On 8 May 2025, [Open Mapping Hub - Asia Pacific (AP Hub)](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) shared **how open mapping can transform the way we monitor mangrove conservation efforts.** This is part of our ongoing collaboration with the [Indonesian Biodiversity Foundation (Yayasan KEHATI)](https://kehati.or.id/), in which we are working closely with their grantee, [Yayasan SALAKA](https://salaka.or.id/), on their Blue Carbon program.
@@ -24,3 +29,10 @@ With the program now entering its fifth year, effective monitoring becomes more 
 ### How Open Mapping Can Advance Mangrove Conservation
 
 Despite increased awareness of mangroves’ ecological importance, mangrove management in Indonesia still faces significant challenges. These include limited monitoring and post-planting maintenance. Even when monitoring is in place, **data—including spatial data—are often fragmented or hard to access.**
+
+
+
+
+
+Map4Mangrove’s project lead, [Harry Mahardhika](https://www.hotosm.org/people/harry-mahardhika-machmud/), opened his session with enthusiasm about the collaboration. Leveraging HOT and AP Hub’s expertise in mapping, the project is a great opportunity to showcase the power of open mapping to support issues beyond humanitarian and disaster response. This time, it’s biodiversity and conservation.
+“Given the dynamic challenges in conservation work, not all results may always meet expectations. That’s why we need a way to visualize our progress,” Harry explained.
