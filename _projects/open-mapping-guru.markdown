@@ -100,7 +100,7 @@ In this 5-month fellowship, 50 Gurus were engaged through three focused tracks: 
     referrerpolicy="strict-origin-when-cross-origin">
   </iframe>
 </div>
-<div style="margin-top: 0.5em;"></div>
+<span style="display: block; height: 0.5em;"></span>
 <div style="text-align: center;"><span style="font-size: 12px;">Guru Julmira (Timor-Leste), part of the mapping track, shared her thoughts and inspiring journey through the Guru Fellowship program. | Video: Julmira de Almeida</span></div>
 <br>
 
