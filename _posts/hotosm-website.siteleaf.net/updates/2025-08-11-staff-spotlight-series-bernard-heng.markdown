@@ -10,7 +10,7 @@ tags:
 Summary Text: Every other month, we’re featuring one of our all-star staff members.
   Staff featured in this Spotlight Series have been peer-nominated for their superb
   performance and values-driven work. This time, we spotlight Bernard Heng, Program
-  Specialist at [Asia Pacific Hub](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/).
+  Specialist at [Asia-Pacific](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/).
 Feature Image: "/uploads/benard.jpg"
 Person: Dana Gallaty
 ---
