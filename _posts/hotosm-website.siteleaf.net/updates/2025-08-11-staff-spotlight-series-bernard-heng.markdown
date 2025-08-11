@@ -10,7 +10,7 @@ tags:
 Summary Text: Every other month, we’re featuring one of our all-star staff members.
   Staff featured in this Spotlight Series have been peer-nominated for their superb
   performance and values-driven work. This time, we spotlight Bernard Heng, Program
-  Specialist at Asia-Pacific.
+  Specialist at Asia-Pacific Hub.
 Feature Image: "/uploads/benard.jpg"
 Person: Dana Gallaty
 ---
