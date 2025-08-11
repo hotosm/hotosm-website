@@ -34,5 +34,27 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
 
 
 
-Map4Mangrove’s project lead, [Harry Mahardhika](https://www.hotosm.org/people/harry-mahardhika-machmud/), opened his session with enthusiasm about the collaboration. Leveraging HOT and AP Hub’s expertise in mapping, the project is a great opportunity to showcase the power of open mapping to support issues beyond humanitarian and disaster response. This time, it’s biodiversity and conservation.
+Map4Mangrove’s project lead, [Harry Mahardhika](https://www.hotosm.org/people/harry-mahardhika-machmud/), opened his session with enthusiasm about the collaboration. Leveraging HOT and AP Hub’s expertise in mapping, the project is a great opportunity to showcase the power of open mapping to support issues beyond humanitarian and disaster response. This time, it’s **biodiversity** and **conservation.**
+
 “Given the dynamic challenges in conservation work, not all results may always meet expectations. That’s why we need a way to visualize our progress,” Harry explained.
+
+<hr>
+
+In this collaboration, AP Hub will work closely with KEHATI and SALAKA to support the Blue Carbon program through mapping, data collection, spatial analysis, and visualization. This includes leading the development of a **dynamic, open-access map platform (dashboard).**
+
+The main uses of the dashboard will include:
+
+1) **Progress monitoring**
+* Visualizing the location and distribution of mangrove rehabilitation sites, including key data such as year of rehabilitation, planted species, area covered (in sq km), and estimated blue carbon stock.
+* Providing field data on mangrove species, diameter at breast height (DBH), and degradation levels to assess health, individual mangrove area characteristics, and rehabilitation effectiveness. 
+* Enabling virtual exploration of rehabilitation sites through [Mapillary](https://www.mapillary.com/) to enhance visual information and understanding of local context.
+
+In summary, having a **centralized, open-source dashboard with reliable and consistent data** will make it easier to track mangrove loss and gain, evaluate success, and make informed management decisions.
+
+2) Impact reporting
+
+Showcasing and providing insights into the Blue Carbon program’s collective efforts and ecological impact since its launch in 2021. Through intuitive and engaging visualization, the dashboard shares a **data-driven narrative of rehabilitation progress and the program’s broader environmental and socio-economic outcomes.**
+
+3) Identifying opportunities for expansion
+
+Visualizing potential new mangrove rehabilitation areas using data layers from Global Mangrove Watch and OpenStreetMap.
