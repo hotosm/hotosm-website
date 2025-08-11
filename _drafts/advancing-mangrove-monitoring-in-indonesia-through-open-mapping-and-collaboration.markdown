@@ -119,4 +119,24 @@ Looking toward the audience, especially community representatives who have been 
 
 “Personally, what I’m really trying to look for today are **gaps.** From the challenges shared and new insights gained, I hope we can try to come up with **solutions** to address those gaps. Let’s continue to collaborate and work together,” Toufik emphasized. 
 
+<hr>
 
+Thanks to the event, new connections were made and collaboration was strengthened. Reflecting on the positive response to Map4Mangrove, Harry hopes the collaboration with KEHATI, SALAKA, and all Blue Carbon Program stakeholders will result in something great and impactful by the end of this year.
+
+Beyond that, hearing presentations from SALAKA, who work closely with the communities, had also sparked a new personal insight. Originally, the Blue Carbon program started with the goal of planting mangroves, but over its four years of implementation, it has grown to support broader social impact areas, including improving local livelihoods and enterprises. With guidance from SALAKA, the community has developed unique local products using natural resources like salt and [jeruju](https://kehati.or.id/jeruju-gulma-yang-bisa-menjadi-alternatif-sumber-pendapatan/) (mangrove shrubs).
+
+“Seeing all these ‘domino effects’ from their program got me thinking. For Map4Mangrove, our main goal is to create a dashboard to monitor the Blue Carbon program’s rehabilitation sites. But who knows what else it could evolve into—**what kind of impact and other good initiatives it might support beyond this project.**”
+
+<hr>
+
+### What’s Next
+
+
+
+
+This project marks not only AP Hub’s pilot collaboration with KEHATI, but also an important first step in applying open mapping to support mangrove conservation. We hope this initiative can serve as an entryway for **more organizations in conservation and biodiversity to explore and adopt open mapping approaches**, leading to more effective, community-driven monitoring.
+
+Following this event, the AP Hub team will continue preparing for the next steps, which include field mapping activities and capturing aerial imagery with drones, followed by capacity building of local teams and stakeholders to ensure the project’s long-term sustainability. We’re excited to share more news and progress soon!
+
+
+Photos: Tony Liong / Open Mapping Hub - Asia Pacific
