@@ -48,7 +48,7 @@ Con la finalidad de que la data fuera multiplataforma, definimos el uso de diver
 
 * **[Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)** para datos sobre las construcciones y tambien fotos.
 
-<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/98430978@N04" title=""><img src="https://live.staticflickr.com/65535/54703157700_b2e44b2607_b.jpg" width="1024" height="768" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/54702825151/in/album-72177720328173725" title="Mapeo de Cholets en El Alto, La Paz"><img src="https://live.staticflickr.com/65535/54702825151_9a222ea1ed_b.jpg" width="768" height="1024" alt="Mapeo de Cholets en El Alto, La Paz"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 El lunes antes del AbreLatam hicimos un mini recorrido mapeador de prueba y ajustamos algunos detalles de cara a la actividad, tales como indicaciones para identificar cholets y algunas medidas de seguridad. El martes, ya en el AbreLatam, anunciamos el mapeo e invitamos a participar. Finalmente, el viernes 25 nos reunimos más de 20 personas en el lugar indicado, y tras una breve capacitación en las herramientas a usar, nos distribuimos en grupos y salimos a mapear a diversas partes de la ciudad de El Alto.
 
