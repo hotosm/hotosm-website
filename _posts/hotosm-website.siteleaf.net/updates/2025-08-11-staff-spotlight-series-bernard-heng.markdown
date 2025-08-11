@@ -24,6 +24,7 @@ I remember coming across HOT and [fAIr](https://www.hotosm.org/tech-suite/fair/)
 In my work with communities across the Asia-Pacific region, it is inspiring to see their strength and ability to mobilize and support different open-mapping initiatives within their countries and across the region. Their community spirit underpins the successes we have had, and I am excited to continue exploring ways to celebrate and support them!
 
 ![unnamed.jpg](/uploads/unnamed.jpg)
+
 *Bernard supported the Open Mapping Hub Asia-Pacific to hold the Dhaka Thrive Dissemination Workshop in November 2024.*
 
 ## What are you most excited about for the future of HOT / OSM?
