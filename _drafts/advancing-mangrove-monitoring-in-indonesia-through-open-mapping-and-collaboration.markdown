@@ -51,10 +51,26 @@ The main uses of the dashboard will include:
 
 In summary, having a **centralized, open-source dashboard with reliable and consistent data** will make it easier to track mangrove loss and gain, evaluate success, and make informed management decisions.
 
-2) Impact reporting
+2) **Impact reporting**
 
 Showcasing and providing insights into the Blue Carbon program’s collective efforts and ecological impact since its launch in 2021. Through intuitive and engaging visualization, the dashboard shares a **data-driven narrative of rehabilitation progress and the program’s broader environmental and socio-economic outcomes.**
 
-3) Identifying opportunities for expansion
+3) **Identifying opportunities for expansion**
 
-Visualizing potential new mangrove rehabilitation areas using data layers from Global Mangrove Watch and OpenStreetMap.
+Visualizing potential new mangrove rehabilitation areas using data layers from [Global Mangrove Watch](https://www.globalmangrovewatch.org/) and [OpenStreetMap](https://www.openstreetmap.org/).
+
+
+
+
+
+
+“Aside from data collection and mapping of the mangrove sites, we are also looking to map buildings and roads in the surrounding area,” Harry added.
+
+Considering the area was prone to disasters (including a [tsunami](https://en.wikipedia.org/wiki/2018_Sunda_Strait_tsunami) in 2018), this additional data will be crucial for **informing future disaster mitigation efforts.** Specifically, it will be used to visualize coastal flood zones, which are areas projected to experience flooding in the next 10 years.
+
+<hr>
+
+
+Harry also introduced some of the tools planned to be used for data collection: Field-TM, Mapillary, and MapSwipe. Responding to these tools, Fitrian Dwi Cahyo, Coastal and Marine Analyst at Local Office for Coastal and Marine Resource Management (LOKA PSPL) Serang, was impressed with their user-friendliness and expressed interest in learning more.
+At the end of the day, community remains at the heart of the open mapping movement. Ensuring that tools are easy to use is key to driving community involvement and reducing barriers related to digital literacy.
+“Through open mapping, we hope that data collection will not only be done by us, but can also be supported by everyone here today, including community representatives who can give us clearer local insight on current rehabilitation sites,” Harry shared.
