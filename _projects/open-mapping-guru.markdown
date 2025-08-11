@@ -129,7 +129,7 @@ Additionally, Gurus responded to requests from supporting field mapping initiati
 ## Local Champions as Drivers for Sustainable Open Mapping Ecosystems
 
 ![OM-Guru_Guru-Fellowship-Training-2_2024.jpg.jpg](/uploads/OM-Guru_Guru-Fellowship-Training-2_2024.jpg.jpg)
-<div style="text-align: center;"><span style="font-size: 12px;">In-person training session led by Guru Sushma (Nepal)</span></div>
+<div style="text-align: center;"><span style="font-size: 12px;">In-person training session with university students led by Guru Sushma (Nepal)</span></div>
 <br>
 
 OM Guru has demonstrated that **peer-led mentorship** and **local ownership** are key to sustaining engagement in open mapping communities. When Gurus are empowered to train and lead others, they create ripple effects of knowledge-sharing grounded in trust and cultural relevance.
