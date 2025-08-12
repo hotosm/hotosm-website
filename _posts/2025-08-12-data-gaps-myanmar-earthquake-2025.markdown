@@ -2,7 +2,6 @@
 title: 'Data Gaps in Myanmar’s 2025 Earthquake Response: Demonstrating the Urgent
   Need for an Open Mapping Approach'
 date: 2025-08-12 14:48:00 Z
-published: false
 Summary Text: Since the devastating earthquakes on 28 March 2025 in Central Myanmar,
   many international and local humanitarian actors, including the Humanitarian OpenStreetMap
   Team (HOT), have been actively supporting the disaster response and recovery. Explore
@@ -23,7 +22,7 @@ Project:
 - Myanmar Earthquake Response 2025
 ---
 
-When [the 7.7 and 6.4 magnitude earthquakes struck Myanmar](https://themimu.info/emergencies/sagaing-earthquake-2025), the global open-mapping community jumped quickly to use the available geospatial datasets of the region to support aid and recovery. However, limited available open geospatial data made it challenging to inform disaster response and recovery efforts. In a fast-paced effort to gather the missing data through OpenStreetMap (OSM), HOT collaborated with the Myanmar OpenStreetMap Community (myOSM), Centre for Development and Environment of the University of Bern, Myanmar Branch Office (CDE Myanmar), and more than 3,000 global volunteers to add more than 1 million buildings 🏡 and almost 15,000 KM of roads 🛣️, allowing humanitarian actors to have a more complete view of which areas needed attention.
+When [the 7.7 and 6.4 magnitude earthquakes struck Myanmar](https://themimu.info/emergencies/sagaing-earthquake-2025), the global open-mapping community jumped quickly to use the available geospatial datasets of the region to support aid and recovery. However, limited available open geospatial data made it challenging to inform disaster response and recovery efforts. In a fast-paced effort to gather the missing data through OpenStreetMap (OSM), HOT collaborated with the Myanmar OpenStreetMap Community (myOSM), the Centre for Development and Environment of the University of Bern, the Myanmar Branch Office (CDE Myanmar), and more than 3,000 global volunteers to add more than 1 million buildings 🏡 and almost 15,000 KM of roads 🛣️, allowing humanitarian actors to have a more complete view of which areas needed attention.
 
 
 Building on [its activation](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Myanmar_Earthquake_2025) in March 2025, HOT [joined other H2H Network members](https://h2hnetwork.org/h2hsupport-package-conflict-myanmar2/) in May 2025 [to form a coordinated humanitarian response](https://h2hnetwork.org/h2hsupport-package-conflict-myanmar2/) to Myanmar’s earthquake, with the goal of creating a comprehensive and effective response across sectors. With funding support from H2H Network and UKAID, HOT launched the ***Crowdsourcing Building Damage Assessments project*** from May to October to conduct remote building damage assessments in priority earthquake-affected townships. To achieve this, HOT will scale up mapping efforts to additional earthquake-affected townships from Sagaing, Mandalay, Nay Pyi Taw, Bago, and Magway. Townships are prioritised based on (1) their proximity to the epicenter; (2) recommendations by humanitarian actors; and (3) availability of post-disaster imagery. Since May, the project has mapped and validated an additional 8 townships, improving foundational geospatial data to be used for damage assessment.
@@ -35,9 +34,9 @@ Building on [its activation](https://wiki.openstreetmap.org/wiki/Organised_Editi
 
 # So far, HOT has learned that…
 
-## Finding 1: Our experience in Myanmar reinforces HOT’s longstanding commitment to strong, open geospatial data ecosystems.
+## Finding #1: Our experience in Myanmar reinforces HOT’s longstanding commitment to strong, open geospatial data ecosystems.
 
-In response to substantive open geospatial data gaps in the wake of the disaster —with **OSM buildings data gap at 85.93% in earthquake-affected areas that host an estimated population of 41,670,509 persons**— there was a wealth of human-generated and AI-generated building footprint data and damage assessments shared widely to provide an updated picture of the situation in the affected areas. The data has been helpful in initial humanitarian planning, supporting rapid assessments and prioritization.
+In response to substantial open geospatial data gaps in the wake of the disaster —with **OSM buildings data gap at 85.93% in earthquake-affected areas that host an estimated population of 41,670,509 persons**— there was a wealth of human-generated and AI-generated building footprint data and damage assessments shared widely to provide an updated picture of the situation in the affected areas. The data has been helpful in initial humanitarian planning, supporting rapid assessments and prioritization.
 
 However, early assessments by HOT also revealed that current machine learning (ML) methods for estimating building footprints are inaccurate and insufficient to close this gap beyond initial response. While rapid ML data can be helpful, in the context of the humanitarian response, HOT remains cautious of the value of unvalidated and inaccurate data, as it risks misinforming humanitarian decisions and could potentially “do more harm”, especially when recommendations are based on flawed data.
 
@@ -51,7 +50,7 @@ Similarly, incorrect building footprints —in terms of shape, location, and cou
 ![3-808fa2.jpg](/uploads/3-808fa2.jpg)
 *Comparison of Overture footprints (left) and OSM updated footprints (right) demonstrates that human-validated mapping is more precise than automated machine learning footprints.*
 
-## Finding 2: People-led mapping is still relevant, especially across extensive disaster-affected areas with varying urban and rural contexts.
+## Finding #2: People-led mapping is still relevant, especially across extensive disaster-affected areas within varying urban and rural contexts.
 
 In rural areas of Myanmar, [Overture building footprints](https://data.humdata.org/dataset/myanmar-buildings-overture-maps-export) distributed early in the earthquake response did not include a large number of settlements that can easily be seen on satellite imagery. HOT’s [MapSwipe campaigns](https://mapswipe.org/en/projects/-OMTfDy03ThqukWPeBVp/), which were launched early in the disaster response, found that one-third of the settlements and building clusters in rural areas are not present in the Overture dataset. Similar findings were noted in [HOT’s analysis in Lebanon](https://www.hotosm.org/updates/osm-building-dataset-complete-for-conflict-affected-districts-in-southern-lebanon/), revealing up to 65% more buildings in OSM compared to automated ML datasets.
 
@@ -63,9 +62,9 @@ In rural areas of Myanmar, [Overture building footprints](https://data.humdata.o
 
 Poor and incomplete datasets risk misrepresenting local populations, rendering a large number of affected populations, already vulnerable, invisible, and potentially “left behind”. In response, HOT is working with local Myanmar mappers from myOSM to rapidly and widely improve geospatial data and conduct building damage assessments across earthquake-affected areas. myOSM’s dedicated contributions have been key in swift mapping progress, ensuring that affected communities are represented on the map.
 
-## Finding 3: A damage assessment process that is accurate, reliable, rapid, and scalable is important, especially in disaster response and recovery.
+## Finding #3: A damage assessment process that is accurate, reliable, rapid, and scalable is important, especially in disaster response and recovery.
 
-There are multiple existing mapping and damage assessment methodologies that have been applied to support disaster response and recovery efforts around the world. Different methodologies have different advantages and disadvantages, which, when used right and at the right stage of the disaster response and recovery, can provide maximum benefits to humanitarian actors.
+There are multiple existing mapping and damage assessment methodologies that have been applied to support disaster response and recovery efforts around the world. Different methodologies have different advantages and disadvantages, which, when used correctly and at the right stage of the disaster response and recovery, can provide maximum benefits to humanitarian actors.
 
 HOT’s Crowdsourced Damage Assessment (CDA) methodology is being developed as a way to tap into global and local pools of volunteer mappers to identify, map, and validate damaged buildings. It accomplishes this by lowering barriers to entry through open-source and accessible tools, enabling more mappers to be able to contribute, which allows CDA to be conducted in multiple locations in parallel and faster with additional support. The goal is to provide humanitarian actors means to reach as many affected persons as possible, in as short a time as possible, while addressing the shortcomings of various methodologies, including AI-reliant and expert-reliant methodologies. 
 
