@@ -61,9 +61,10 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
     }
     .carousel-wrapper {
       position: relative;
-      width: 100vw;
+      width: 100%;
       max-width: 100%;
       margin: 40px auto;
+      overflow: hidden;
     }
     .carousel {
       overflow: hidden;
@@ -74,7 +75,7 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
       transition: transform 0.3s ease-in-out;
     }
     .carousel-images img {
-      width: 100vw;
+      width: 100%;
       max-height: 600px;
       object-fit: contain;
       flex-shrink: 0;
@@ -141,8 +142,8 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
     let currentIndex = 0;
 
     function updateSlide() {
-      const offset = -currentIndex * window.innerWidth;
-      carousel.style.transform = `translateX(${offset}px)`;
+      const slideWidth = document.querySelector('.carousel').offsetWidth;
+      carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
     }
 
     function prevSlide() {
@@ -158,6 +159,7 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
     prevBtn.addEventListener('click', prevSlide);
     nextBtn.addEventListener('click', nextSlide);
 
+    // Touch swipe support
     let startX = 0;
     let endX = 0;
 
@@ -181,6 +183,7 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
 
     window.addEventListener('resize', updateSlide);
 
+    // Init
     updateSlide();
   </script>
 
