@@ -202,7 +202,9 @@ This inclusive process is essential to the long-term sustainability of the monit
 
 ![Map4Mangrove_Remote-Mapping_2025.png](/uploads/Map4Mangrove_Remote-Mapping_2025.png)
 
-3) **Field mapping** – At the end of July 2025, we conducted a two-day field mapping activity with partners, university students, and local community representatives. Together, we explored, mapped, and documented all five rehabilitation sites. The activities included data collection using [HOT Field Tasking Manager](https://mapper.fmtm.hotosm.org/) and KoboCollect, street-level imagery using Mapillary, and aerial mapping using drone.
+3) **Field mapping** – At the end of July 2025, we conducted a two-day field mapping activity with partners, university students, and local community representatives. 
+
+Together, we explored, mapped, and documented five mangrove rehabilitation sites. The activities included data collection using [HOT Field Tasking Manager](https://mapper.fmtm.hotosm.org/) and KoboCollect, street-level imagery using Mapillary, and aerial mapping using drone.
 <hr>
 <br>
 Following this milestone and everyone’s collective work so far, we are now transforming the collected data into impactful visualization and analysis. Follow our journey and stay updated with the latest news from the project through our [social media](https://linktr.ee/openmapping_ap).
