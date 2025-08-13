@@ -33,6 +33,10 @@ In 2018, a tsunami struck the Sumur and Panimbang Subdistricts in Pandeglang, Ba
 
 In response, [Yayasan Lestari Alam Kita (SALAKA)](https://salaka.or.id/), through a grant from the [Indonesian Biodiversity Foundation (Yayasan KEHATI)](https://kehati.or.id/) and funding support from [PT Asahimas Chemical](https://asc.co.id/index.php/en/), is implementing the [Blue Carbon program](https://kehati.or.id/en/mangrove-blue-carbon-kehati-and-asahimas-chemical-planting-mangrove-in-pandeglang/)—a mangrove rehabilitation initiative launched in 2021, covering 14 hectares in the affected subdistricts.
 
+![Map4Mangrove_Mangrove-Site-1.jpg](/uploads/Map4Mangrove_Mangrove-Site-1.jpg)
+
+<div style="text-align: center;"><span style="font-size: 12px;">One of the mangrove rehabilitation sites from the Blue Carbon program | Photo: Tony Liong / Open Mapping Hub - Asia Pacific</span></div>
+
 Despite ongoing restoration efforts, there is still **limited availability of integrated, open geospatial data to support monitoring, reporting, and decision-making.** Without a data-driven approach, achieving long-term mangrove ecosystem resilience and maximizing biodiversity and disaster mitigation benefits remain a challenge.
 
 <hr>
