@@ -234,4 +234,31 @@ Following this milestone and everyone’s collective work so far, we are now tra
 * [Introduction to open mapping tools with university students at UNTIRTA (July 2025)](https://www.flickr.com/photos/hotosm/albums/72177720328303789/) 
 * [Field mapping of mangrove sites in Panimbang and Sumur, Banten (July 2025)](https://www.flickr.com/photos/hotosm/albums/72177720328324655/)
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    .album-row {
+      display: flex;
+      justify-content: center;
+      gap: 20px; /* Space between iframes */
+      flex-wrap: wrap; /* Allow wrapping on small screens */
+    }
+    .album-row iframe {
+      width: 400px;
+      height: 300px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="album-row">
+  <iframe src="https://www.flickr.com/photos/hotosm/albums/72177720328260367/embed" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.flickr.com/photos/hotosm/albums/72177720328303789/embed" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.flickr.com/photos/hotosm/albums/72177720328324655/embed" frameborder="0" allowfullscreen></iframe>
+</div>
+
+</body>
+</html>
+
 <span style="font-size: 12px;">*Cover photo credit: Tony Liong / Open Mapping Hub - Asia Pacific*</span>
