@@ -238,6 +238,8 @@ Together, we explored, mapped, and documented five mangrove rehabilitation sites
 <br>
 Following this milestone and everyone’s collective work so far, we are now transforming the collected data into impactful visualization and analysis. Follow our journey and stay updated with the latest news from the project through our [social media](https://linktr.ee/openmapping_ap).
 
+<hr>
+<br>
 **Explore photos from the project:**
 * [Stakeholder mapping at the Blue Carbon program workshop (May 2025)](https://www.flickr.com/photos/hotosm/albums/72177720328260367/)
 * [Introduction to open mapping tools with university students at UNTIRTA (July 2025)](https://www.flickr.com/photos/hotosm/albums/72177720328303789/) 
