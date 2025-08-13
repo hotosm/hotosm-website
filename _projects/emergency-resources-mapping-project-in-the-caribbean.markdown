@@ -33,7 +33,7 @@ To address this challenge, the Open Mapping Hub - Latin America and the Caribbea
 
 The project was first piloted in Belize in 2024, where over 30 volunteers were trained to map key emergency resources, producing open datasets that support national disaster management planning. Building on the success and lessons of the Belize pilot, the initiative is now being implemented in St. Kitts & Nevis, in collaboration with the National Emergency Management Agency (NEMA) and the Nevis Disaster Management Department (NDMD). This expansion reinforces a regional commitment to increase the availability and use of open-source data for disaster risk reduction (DRR) and emergency response, while fostering a culture of open mapping across the Caribbean.
 
-![Emergency Resource Mapping in Corozal, Belize  2.jpg](https://cdn.hotosm.org/website/Emergency\+Resource\+Mapping\+in\+Corozal,\+Belize\+\+2.jpg)
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/54333094515/in/album-72177720323875477" title="Emergency Resource Mapping Workshop in Corozal, Belize"><img src="https://live.staticflickr.com/65535/54333094515_79d69460ca_b.jpg" width="1024" height="683" alt="Emergency Resource Mapping Workshop in Corozal, Belize"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 # Approach
 
@@ -51,7 +51,7 @@ The project will be delivered over four months and will include:
 
 # Belize Case Study
 
-![Emergency Resource Mapping in Corozal, Belize 6.jpg](https://cdn.hotosm.org/website/Emergency\+Resource\+Mapping\+in\+Corozal,\+Belize\+6.jpg)
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/hotosm/albums/72177720323875477" title="Emergency Resource Mapping in Corozal, Belize"><img src="https://live.staticflickr.com/65535/54332907133_58b4ed6eea_b.jpg" width="1024" height="768" alt="Emergency Resource Mapping in Corozal, Belize"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 The Belize pilot of the Emergency Resources Mapping Project trained a cohort of 30 young volunteers to collect and map open data on critical emergency resources, including hazardous areas and communication towers. Implemented with CDEMA and NEMO, the initiative strengthened local capacity for disaster preparedness and anticipatory action, providing open datasets to support national emergency planning and response.
 
