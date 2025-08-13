@@ -121,7 +121,7 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
       </div>
     </div>
 
-    <div style="text-align: center;">
+    <div style="text-align: center; margin-top: 10px;">
       <span style="font-size: 12px;">
         The AP Hub team showcased the Map4Mangrove dashboard prototype to local partners and stakeholders. (May 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific
       </span>
