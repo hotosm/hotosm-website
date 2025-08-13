@@ -45,7 +45,182 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
 * Disaster risk assessment in the project areas
 * Socio-economic analysis
 
-![Map4Mangrove_Stakeholder-Mapping-1_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Mapping-1_2025.jpg)
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Carousel with Arrows and Dots</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: sans-serif;
+    }
+    .carousel-wrapper {
+      position: relative;
+      width: 100vw;
+      max-width: 100%;
+      margin: 40px auto;
+    }
+    .carousel {
+      overflow: hidden;
+      width: 100%;
+    }
+    .carousel-images {
+      display: flex;
+      transition: transform 0.3s ease-in-out;
+    }
+    .carousel-images img {
+      width: 100vw;
+      max-height: 600px;
+      object-fit: contain;
+      flex-shrink: 0;
+      display: block;
+    }
+    .carousel-controls {
+      position: absolute;
+      top: 50%;
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      transform: translateY(-50%);
+      pointer-events: none;
+    }
+    .carousel-controls button {
+      background: rgba(0, 0, 0, 0.6);
+      color: white;
+      border: none;
+      font-size: 30px;
+      padding: 10px 18px;
+      cursor: pointer;
+      pointer-events: all;
+      user-select: none;
+      transition: background 0.3s;
+    }
+    .carousel-controls button:hover {
+      background: rgba(0, 0, 0, 0.8);
+    }
+    .carousel-pagination {
+      text-align: center;
+      margin-top: 15px;
+    }
+    .carousel-pagination button {
+      background: #ddd;
+      border: none;
+      border-radius: 50%;
+      width: 12px;
+      height: 12px;
+      margin: 0 5px;
+      cursor: pointer;
+    }
+    .carousel-pagination button.active {
+      background: #333;
+    }
+    @media (max-width: 600px) {
+      .carousel-controls button {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="carousel-wrapper">
+    <div class="carousel">
+      <div class="carousel-images" id="carousel">
+        <img src="/uploads/Map4Mangrove_Stakeholder-Mapping-1_2025.jpg" alt="1" />
+        <img src="/uploads/Map4Mangrove_Stakeholder-Mapping-2_2025.jpg" alt="2" />
+      </div>
+    </div>
+
+    <div class="carousel-controls">
+      <button id="prevBtn">‹</button>
+      <button id="nextBtn">›</button>
+    </div>
+  </div>
+
+  <div class="carousel-pagination" id="pagination"></div>
+
+  <script>
+    const carousel = document.getElementById('carousel');
+    const totalSlides = carousel.children.length;
+    let currentIndex = 0;
+
+    const pagination = document.getElementById('pagination');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+
+    function updateSlide() {
+      const slideWidth = carousel.children[0].clientWidth;
+      const offset = -currentIndex * slideWidth;
+      carousel.style.transform = `translateX(${offset}px)`;
+      updatePagination();
+    }
+
+    function prevSlide() {
+      currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+      updateSlide();
+    }
+
+    function nextSlide() {
+      currentIndex = (currentIndex + 1) % totalSlides;
+      updateSlide();
+    }
+
+    function createPagination() {
+      for (let i = 0; i < totalSlides; i++) {
+        const dot = document.createElement('button');
+        dot.addEventListener('click', () => {
+          currentIndex = i;
+          updateSlide();
+        });
+        pagination.appendChild(dot);
+      }
+    }
+
+    function updatePagination() {
+      const dots = pagination.children;
+      for (let i = 0; i < dots.length; i++) {
+        dots[i].classList.toggle('active', i === currentIndex);
+      }
+    }
+
+    prevBtn.addEventListener('click', prevSlide);
+    nextBtn.addEventListener('click', nextSlide);
+
+    let startX = 0;
+    let endX = 0;
+
+    carousel.addEventListener('touchstart', e => {
+      startX = e.touches[0].clientX;
+    });
+
+    carousel.addEventListener('touchmove', e => {
+      endX = e.touches[0].clientX;
+    });
+
+    carousel.addEventListener('touchend', () => {
+      const diff = startX - endX;
+      if (Math.abs(diff) > 50) {
+        if (diff > 0) nextSlide();
+        else prevSlide();
+      }
+      startX = 0;
+      endX = 0;
+    });
+
+    createPagination();
+    updateSlide();
+
+    window.addEventListener('resize', updateSlide);
+  </script>
+
+</body>
+</html>
+<br>
 <div style="text-align: center;"><span style="font-size: 12px;">The AP Hub team showcased the Map4Mangrove dashboard prototype to local partners and stakeholders. (May 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific</span></div>
 
 A key output of the project is a centralized, interactive **digital dashboard** that visualizes critical data. This data will be used by local stakeholders, including the Pandeglang District Government, to strengthen conservation strategies.
