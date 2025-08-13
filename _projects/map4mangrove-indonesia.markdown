@@ -253,11 +253,14 @@ This inclusive process is essential to the long-term sustainability of the monit
 
 ![Map4Mangrove_Remote-Mapping_2025.png](/uploads/Map4Mangrove_Remote-Mapping_2025.png)
 
-3) **Field mapping** – At the end of July 2025, we conducted a two-day field mapping activity with partners, university students, and local community representatives. Together, we explored, mapped, and documented all five rehabilitation sites. The activities included data collection using HOT Field-TM and KoboCollect, street-level imagery using Mapillary, and aerial mapping using drone.
+3) **Field mapping** – At the end of July 2025, we conducted a two-day field mapping activity with partners, university students, and local community representatives. Together, we explored, mapped, and documented all five rehabilitation sites. The activities included data collection using [HOT Field Tasking Manager](https://mapper.fmtm.hotosm.org/) and KoboCollect, street-level imagery using Mapillary, and aerial mapping using drone.
 <hr>
 <br>
-Following this milestone and everyone’s collective work so far, we are now transforming the collected data into impactful visualization and analysis. Follow our journey and stay updated with the latest news from the project through our social media.
+Following this milestone and everyone’s collective work so far, we are now transforming the collected data into impactful visualization and analysis. Follow our journey and stay updated with the latest news from the project through our [social media](https://linktr.ee/openmapping_ap).
 
-Explore photos from the project here: [Stakeholder mapping (May 2025)](https://www.flickr.com/photos/hotosm/albums/72177720328260367/) – Training on open mapping tools with university students (July 2025) – Field mapping at mangrove rehabilitation sites (July 2025)
+**Explore photos from the project:**
+* [Stakeholder mapping at the Blue Carbon program workshop (May 2025)](https://www.flickr.com/photos/hotosm/albums/72177720328260367/)
+* [Introduction to open mapping tools with university students at UNTIRTA (July 2025)](https://www.flickr.com/photos/hotosm/albums/72177720328303789/) 
+* [Field mapping of mangrove sites in Panimbang and Sumur, Banten (July 2025)](https://www.flickr.com/photos/hotosm/albums/72177720328324655/)
 
 <span style="font-size: 12px;">*Cover photo credit: Tony Liong / Open Mapping Hub - Asia Pacific*</span>
