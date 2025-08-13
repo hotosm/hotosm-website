@@ -234,7 +234,6 @@ Together, we explored, mapped, and documented five mangrove rehabilitation sites
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720328324655" title="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"><img src="https://live.staticflickr.com/65535/54718045684_25c51cfe04_h.jpg" width="1600" height="1200" alt="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<hr>
 <br>
 Following this milestone and everyone’s collective work so far, we are now transforming the collected data into impactful visualization and analysis. Follow our journey and stay updated with the latest news from the project through our [social media](https://linktr.ee/openmapping_ap).
 
