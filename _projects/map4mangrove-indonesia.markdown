@@ -2,7 +2,6 @@
 title: Map4Mangrove - Collaborative Mapping for Mangrove Conservation and Climate
   Action  - Indonesia
 date: 2025-07-22 19:35:00 Z
-published: false
 tags:
 - Asia Pacific
 - Indonesia
