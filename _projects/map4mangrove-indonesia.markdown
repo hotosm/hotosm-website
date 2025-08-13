@@ -189,7 +189,6 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
 
 </body>
 </html>
-
 A key output of the project is a centralized, interactive **digital dashboard** that visualizes critical data. This data will be used by local stakeholders, including the Pandeglang District Government, to strengthen conservation strategies.
 
 Improved geospatial insights will also aid collaboration among stakeholders, ensuring more efficient permitting, ecosystem recovery, and disaster resilience. Ultimately, **integrating open mapping solutions empowers stakeholders with the necessary tools to sustain and scale mangrove restoration efforts across the region.**
