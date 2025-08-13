@@ -120,7 +120,11 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
       </div>
     </div>
 
-<div style="text-align: center;"><span style="font-size: 12px;">The AP Hub team showcased the Map4Mangrove dashboard prototype to local partners and stakeholders. (May 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific</span></div>
+    <div style="text-align: center;">
+      <span style="font-size: 12px;">
+        The AP Hub team showcased the Map4Mangrove dashboard prototype to local partners and stakeholders. (May 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific
+      </span>
+    </div>
 
     <div class="carousel-controls">
       <button id="prevBtn">‹</button>
@@ -128,7 +132,20 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
     </div>
   </div>
 
-     function prevSlide() {
+  <script>
+    const carousel = document.getElementById('carousel');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const totalSlides = carousel.children.length;
+
+    let currentIndex = 0;
+
+    function updateSlide() {
+      const offset = -currentIndex * window.innerWidth;
+      carousel.style.transform = `translateX(${offset}px)`;
+    }
+
+    function prevSlide() {
       currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
       updateSlide();
     }
@@ -163,6 +180,8 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
     });
 
     window.addEventListener('resize', updateSlide);
+
+    updateSlide();
   </script>
 
 </body>
@@ -183,6 +202,7 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
 
 <div style="text-align: center;"><span style="font-size: 12px;">Field mapping activity with KEHATI, SALAKA, university students, and local community representatives (July 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific</span></div>
 
+<br>
 Built on the principles of open mapping, Map4Mangrove applies a **participatory approach**, where involvement of partners, stakeholders, and local communities are key throughout all of its phases.
 
 This inclusive process is essential to the long-term sustainability of the monitoring system. In addition to fostering hands-on experience and building technical capacity, it strengthens local ownership and ensures relevance to local contexts and community needs.
