@@ -37,6 +37,7 @@ In response, [Yayasan Lestari Alam Kita (SALAKA)](https://salaka.or.id/), throug
 
 <div style="text-align: center;"><span style="font-size: 12px;">One of the mangrove rehabilitation sites from the Blue Carbon program | Photo: Tony Liong / Open Mapping Hub - Asia Pacific</span></div>
 
+<br>
 Despite ongoing restoration efforts, there is still **limited availability of integrated, open geospatial data to support monitoring, reporting, and decision-making.** Without a data-driven approach, achieving long-term mangrove ecosystem resilience and maximizing biodiversity and disaster mitigation benefits remain a challenge.
 
 <hr>
