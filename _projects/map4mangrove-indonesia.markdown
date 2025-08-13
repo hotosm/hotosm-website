@@ -226,6 +226,9 @@ This inclusive process is essential to the long-term sustainability of the monit
 3) **Field mapping** – At the end of July 2025, we conducted a two-day field mapping activity with partners, university students, and local community representatives. 
 
 Together, we explored, mapped, and documented five mangrove rehabilitation sites. The activities included data collection using [HOT Field Tasking Manager](https://mapper.fmtm.hotosm.org/) and [KoboCollect](https://www.kobotoolbox.org/), street-level imagery using [Mapillary](https://www.mapillary.com/), and aerial mapping using drone.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720328324655" title="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"><img src="https://live.staticflickr.com/65535/54718045684_25c51cfe04_h.jpg" width="1600" height="1200" alt="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <hr>
 <br>
 Following this milestone and everyone’s collective work so far, we are now transforming the collected data into impactful visualization and analysis. Follow our journey and stay updated with the latest news from the project through our [social media](https://linktr.ee/openmapping_ap).
@@ -234,21 +237,5 @@ Following this milestone and everyone’s collective work so far, we are now tra
 * [Stakeholder mapping at the Blue Carbon program workshop (May 2025)](https://www.flickr.com/photos/hotosm/albums/72177720328260367/)
 * [Introduction to open mapping tools with university students at UNTIRTA (July 2025)](https://www.flickr.com/photos/hotosm/albums/72177720328303789/) 
 * [Field mapping of mangrove sites in Panimbang and Sumur, Banten (July 2025)](https://www.flickr.com/photos/hotosm/albums/72177720328324655/)
-
-<div class="album-row">
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720328260367" title="Map4Mangrove - Stakeholder Mapping at the Blue Carbon Program Workshop - Indonesia (2025)">
-    <img src="https://live.staticflickr.com/65535/54709989240_d4f87a9c52_h.jpg" alt="Map4Mangrove - Stakeholder Mapping at the Blue Carbon Program Workshop - Indonesia (2025)"/>
-  </a>
-
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720328303789" title="Map4Mangrove - Introduction to Open Mapping Tools with University Students at UNTIRTA - Indonesia (2025)">
-    <img src="https://live.staticflickr.com/65535/54713281705_4613337fdc_h.jpg" alt="Map4Mangrove - Introduction to Open Mapping Tools with University Students at UNTIRTA - Indonesia (2025)"/>
-  </a>
-
-  <a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720328324655" title="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)">
-    <img src="https://live.staticflickr.com/65535/54718045684_25c51cfe04_h.jpg" alt="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"/>
-  </a>
-</div>
-
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <span style="font-size: 12px;">*Cover photo credit: Tony Liong / Open Mapping Hub - Asia Pacific*</span>
