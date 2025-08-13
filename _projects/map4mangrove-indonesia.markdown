@@ -252,9 +252,9 @@ Following this milestone and everyone’s collective work so far, we are now tra
 <body>
 
 <div class="album-row">
-  <iframe src="https://www.flickr.com/photos/hotosm/albums/72177720328260367/embed" frameborder="0" allowfullscreen></iframe>
-  <iframe src="https://www.flickr.com/photos/hotosm/albums/72177720328303789/embed" frameborder="0" allowfullscreen></iframe>
-  <iframe src="https://www.flickr.com/photos/hotosm/albums/72177720328324655/embed" frameborder="0" allowfullscreen></iframe>
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720328303789" title="Map4Mangrove - Introduction to Open Mapping Tools with University Students at UNTIRTA - Indonesia (2025)"><img src="https://live.staticflickr.com/65535/54713281705_4613337fdc_h.jpg" width="1600" height="1200" alt="Map4Mangrove - Introduction to Open Mapping Tools with University Students at UNTIRTA - Indonesia (2025)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720328303789" title="Map4Mangrove - Introduction to Open Mapping Tools with University Students at UNTIRTA - Indonesia (2025)"><img src="https://live.staticflickr.com/65535/54713281705_4613337fdc_h.jpg" width="1600" height="1200" alt="Map4Mangrove - Introduction to Open Mapping Tools with University Students at UNTIRTA - Indonesia (2025)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720328324655" title="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"><img src="https://live.staticflickr.com/65535/54718045684_25c51cfe04_h.jpg" width="1600" height="1200" alt="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 </body>
