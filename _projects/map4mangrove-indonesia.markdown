@@ -103,22 +103,6 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
     .carousel-controls button:hover {
       background: rgba(0, 0, 0, 0.8);
     }
-    .carousel-pagination {
-      text-align: center;
-      margin-top: 15px;
-    }
-    .carousel-pagination button {
-      background: #ddd;
-      border: none;
-      border-radius: 50%;
-      width: 12px;
-      height: 12px;
-      margin: 0 5px;
-      cursor: pointer;
-    }
-    .carousel-pagination button.active {
-      background: #333;
-    }
     @media (max-width: 600px) {
       .carousel-controls button {
         display: none;
@@ -144,25 +128,7 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
     </div>
   </div>
 
-  <div class="carousel-pagination" id="pagination"></div>
-
-  <script>
-    const carousel = document.getElementById('carousel');
-    const totalSlides = carousel.children.length;
-    let currentIndex = 0;
-
-    const pagination = document.getElementById('pagination');
-    const prevBtn = document.getElementById('prevBtn');
-    const nextBtn = document.getElementById('nextBtn');
-
-    function updateSlide() {
-      const slideWidth = carousel.children[0].clientWidth;
-      const offset = -currentIndex * slideWidth;
-      carousel.style.transform = `translateX(${offset}px)`;
-      updatePagination();
-    }
-
-    function prevSlide() {
+     function prevSlide() {
       currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
       updateSlide();
     }
@@ -170,24 +136,6 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
     function nextSlide() {
       currentIndex = (currentIndex + 1) % totalSlides;
       updateSlide();
-    }
-
-    function createPagination() {
-      for (let i = 0; i < totalSlides; i++) {
-        const dot = document.createElement('button');
-        dot.addEventListener('click', () => {
-          currentIndex = i;
-          updateSlide();
-        });
-        pagination.appendChild(dot);
-      }
-    }
-
-    function updatePagination() {
-      const dots = pagination.children;
-      for (let i = 0; i < dots.length; i++) {
-        dots[i].classList.toggle('active', i === currentIndex);
-      }
     }
 
     prevBtn.addEventListener('click', prevSlide);
@@ -213,9 +161,6 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
       startX = 0;
       endX = 0;
     });
-
-    createPagination();
-    updateSlide();
 
     window.addEventListener('resize', updateSlide);
   </script>
