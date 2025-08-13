@@ -234,6 +234,10 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
 
 ### Collaborative, Multi-Stakeholder Approach for Sustainable Monitoring
 
+![Map4Mangrove_Field-Mapping-1_2025.jpg](/uploads/Map4Mangrove_Field-Mapping-1_2025.jpg)
+
+<div style="text-align: center;"><span style="font-size: 12px;">Field mapping activity with KEHATI, SALAKA, university students, and local community representatives (July 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific</span></div>
+
 Built on the principles of open mapping, Map4Mangrove applies a **participatory approach**, where involvement of partners, stakeholders, and local communities are key throughout all of its phases.
 
 This inclusive process is essential to the long-term sustainability of the monitoring system. In addition to fostering hands-on experience and building technical capacity, it strengthens local ownership and ensures relevance to local contexts and community needs.
