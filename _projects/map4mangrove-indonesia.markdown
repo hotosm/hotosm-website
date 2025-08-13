@@ -10,6 +10,7 @@ Project Summary Text: Mangroves play a crucial role in coastal protection, biodi
   conservation, and carbon sequestration. To enhance mangrove monitoring efforts,
   Open Mapping Hub - Asia Pacific is partnering with organizations working in biodiversity
   and conservation to integrate open geospatial data into their work.
+Feature Image: "/uploads/Map4Mangrove_%20Website-Cover.jpg"
 Country:
 - Indonesia
 Impact Area:
