@@ -12,6 +12,8 @@ Project:
 - Mapatones Nacionales Anuales Anticipatorios (MANA) en América Latina
 ---
 
+[Versión en español](https://www.hotosm.org/updates/mapaton-nacional-de-colombia-2025-juventudes-y-datos-abiertos-para-anticipar-riesgos/)
+
 ## Learn About the National Anticipatory Mapathons
 
 Latin America and the Caribbean is one of the most disaster-prone regions in the world, and Colombia is no exception. Its diverse geography exposes it to multiple threats, from floods to landslides, yet many rural and peripheral areas lack up-to-date geospatial data. The [National Anticipatory Mapathons (MANA)](https://www.hotosm.org/updates/mapatones-anuales-anticipatorios-innovacion-y-colaboracion-para-cerrar-vacios-cartograficos-en-latinoamerica-y-el-caribe/) emerge as a low-cost, highly collaborative solution to anticipate risks by generating open maps created by and for communities.
