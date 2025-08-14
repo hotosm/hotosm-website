@@ -12,13 +12,22 @@ Country:
 Impact Area:
 - Displacement & Safe Migration
 Person:
-- Pauline Omagwa
+- Walter Mayeku
 Partner:
 - Caribou
 - UNHCR Tanzania
+- OMDTZ
 Duration:
   Start Date: 2024-09-30 00:00:00 Z
   End Date: 2025-04-01 00:00:00 Z
+Tools:
+- tool: 'OpenStreetMap '
+- link: 
+- tool: KoboToolbox
+- tool: 'OpenDataKit '
+- tool: Quantum GIS
+- tool: ArcGIS Pro
+Posted by: Pauline Omagwa
 ---
 
 ### Background and Context 
@@ -64,7 +73,8 @@ The blended training was centred on equipping the team with practical skills on 
 
 During the sessions, foundational topics such as acquiring and managing spatial data, remote sensing, and developing high-quality cartographic products were covered.  As part of the training, the team mapped buildings and roads within the Nyarugusu refugee camp. The data was contributed directly to the OpenStreetMap (OSM) using HOT’s Tasking Manager tool alongside the iD Editor and JOSM editing tools. 
 
-![UNHCR certificates.jpg](/uploads/UNHCR%20certificates.jpg)### A group photo with successful participants displaying certificates of merit after a 10 day training session on geospatial technologies at UNHCR HQs Kasulu 
+![UNHCR certificates.jpg](/uploads/UNHCR%20certificates.jpg)
+### A group photo with successful participants displaying certificates of merit after a 10 day training session on geospatial technologies at UNHCR HQs Kasulu 
 
 ![Nyarugusu Map Layout (2).jpg](/uploads/Nyarugusu%20Map%20Layout%20(2).jpg)
 
