@@ -16,6 +16,9 @@ Person:
 Partner:
 - Caribou
 - UNHCR Tanzania
+Duration:
+  Start Date: 2024-09-30 00:00:00 Z
+  End Date: 2025-04-01 00:00:00 Z
 ---
 
 The Humanitarian OpenStreetMap Team (HOT) Open Mapping Hub for Eastern and Southern Africa (ESA Hub) collaborated  with [Caribou](https://caribou.global/) to provide  humanitarian organizations with hands-on support in  integrating geospatial data and tools into the working processes. As part of their Tools for Data-Driven Humanitarian Action project, the main objective of the project was to improve contextual awareness so that organizations could be better prepared for crisis events triggered by weather events. 
