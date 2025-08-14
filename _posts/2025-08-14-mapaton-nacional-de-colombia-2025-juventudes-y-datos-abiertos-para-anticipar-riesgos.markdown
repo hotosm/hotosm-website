@@ -75,6 +75,8 @@ Para Enrique Torres Moya, esta fue una experiencia transformadora: *“Para mí 
 
 ## Lecciones aprendidas y próximos pasos
 
+![Mapatón COL 2.jpg](/uploads/Mapato%CC%81n%20COL%202.jpg)
+
 La participación juvenil y universitaria desde el esfuerzo de organización mismo, es un motor clave para escalar y sostener los MANA, además de fomentar la profesionalización.
 Los vacíos de datos son oportunidades para integrar la ciencia ciudadana en políticas públicas.
 Es necesario fortalecer la validación y el monitoreo continuo para garantizar el uso efectivo de los datos.
