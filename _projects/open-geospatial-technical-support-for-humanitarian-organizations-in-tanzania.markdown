@@ -28,6 +28,8 @@ Tools:
 - tool: 'OpenDataKit '
 - tool: Quantum GIS
 - tool: ArcGIS Pro
+Posted by:
+- Pauline Omagwa
 ---
 
 ### Background and Context 
