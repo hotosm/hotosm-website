@@ -75,6 +75,8 @@ The OSM data of Nyarugusa can be downloaded from the HOT Export Tool [here](http
 
 ### Looking Ahead
 
-ESA hub  is making a significant step towards supporting humanitarian organizations in adopting the use of  open geospatial technologies for decision-making and integrating it into their workflow and more effective humanitarian aid. ESA Hub is committed  to enhance its collaborations and partnerships for continued development of critical geospatial technologies and Earth Observation.
+ESA hub  is making a significant step towards supporting humanitarian organizations in adopting the use of  open geospatial technologies for decision-making and integrating it into their workflow and more effective humanitarian aid. 
+
+ESA Hub is committed  to enhance its collaborations and partnerships for continued development of critical geospatial technologies and Earth Observation.
 
 
