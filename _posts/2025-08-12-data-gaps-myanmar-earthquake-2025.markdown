@@ -96,6 +96,7 @@ Since Haiti’s earthquake in 2010, HOT has seen the value of working with local
 
 1. To provide accurate and reliable geospatial data to support and inform ongoing disaster response and recovery;
 2. To enhance local open-mapping capacities and strengthen access to open-source tools and knowledge to support future disaster response and recovery efforts.
+
 In the following months till October, HOT will continue working with local mappers using CDA to produce geospatial data that informs Myanmar’s ongoing disaster response and recovery efforts. To enhance mapping efforts, HOT, under its [Open Mapping Guru Project](https://www.hotosm.org/projects/open-mapping-guru/), launched a tailored capacity-building programme from July to October for 15 Myanmar mappers from myOSM to be trained on supporting damage mapping, with the aim to graduate them as Gurus to support open-mapping initiatives in Myanmar in the long term.
 
 **Cover image**: "A Street in Bago", by Go-Myanmar - Own work, CC BY-SA 3.0, [https://commons.wikimedia.org/w/index.php?curid=26841560](https://commons.wikimedia.org/w/index.php?curid=26841560)
