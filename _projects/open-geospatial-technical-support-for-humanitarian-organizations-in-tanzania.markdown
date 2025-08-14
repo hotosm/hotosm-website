@@ -21,6 +21,8 @@ Duration:
   End Date: 2025-04-01 00:00:00 Z
 ---
 
+### Background and Context 
+
 The Humanitarian OpenStreetMap Team (HOT) Open Mapping Hub for Eastern and Southern Africa (ESA Hub) collaborated  with [Caribou](https://caribou.global/) to provide  humanitarian organizations with hands-on support in  integrating geospatial data and tools into the working processes. As part of their Tools for Data-Driven Humanitarian Action project, the main objective of the project was to improve contextual awareness so that organizations could be better prepared for crisis events triggered by weather events. 
 
 ![Screenshot 2025-08-13 at 18.10.24.png](/uploads/Screenshot%202025-08-13%20at%2018.10.24.png)
@@ -61,11 +63,12 @@ The blended training was centred on equipping the team with practical skills on 
 
 During the sessions, foundational topics such as acquiring and managing spatial data, remote sensing, and developing high-quality cartographic products were covered.  As part of the training, the team mapped buildings and roads within the Nyarugusu refugee camp. The data was contributed directly to the OpenStreetMap (OSM) using HOT’s Tasking Manager tool alongside the iD Editor and JOSM editing tools. 
 
-[UNHCR certificates.HEIC](/uploads/UNHCR%20certificates.HEIC)### A group photo with successful participants displaying certificates of merit after a 10 day training session on geospatial technologies at UNHCR HQs Kasulu 
+![UNHCR certificates.jpg](/uploads/UNHCR%20certificates.jpg)### A group photo with successful participants displaying certificates of merit after a 10 day training session on geospatial technologies at UNHCR HQs Kasulu 
 
-The OSM data of Nyarugusa can be downloaded from the HOT Export Tool at   https://export.hotosm.org/v3/ 
+The OSM data of Nyarugusa can be downloaded from the HOT Export Tool [here](https://export.hotosm.org/v3/).
 
->  I've gained a lot of skills, specifically in acquiring geospatial data from various sources. I didn't realise initially that free data was available for download. Godfrey Mchunguzi Oyema, Environment Officer, UNHCR Tanzania
+  
+![Pink Black Bold Profile Twitter Header (1).png](/uploads/Pink%20Black%20Bold%20Profile%20Twitter%20Header%20(1).png)
 
 ### Looking Ahead
 
