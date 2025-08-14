@@ -24,9 +24,9 @@ In Colombia, the National Mapathon is implemented thanks to the coordination bet
 
 ## First Edition (2024)
 
-The launch of the National Mapathon in Colombia emerged from an open dialogue between HOT and the UNGRD, recognizing the bottleneck created by the lack of national cartography—especially in rural and remote areas—for the evolution of the country’s comprehensive risk management policy.
+The launch of the National Mapathon in Colombia emerged from an open dialogue between HOT and the UNGRD, recognizing the bottleneck created by the lack of national cartography, especially in rural and remote areas, for the evolution of the country’s comprehensive risk management policy.
 
-The institution sought to improve its approach by integrating communities into the design of this management. However, the implementation of such exercises is hindered by the lack of knowledge, from the national administration, about the configuration of those communities and the access routes to reach them. Therefore, it was agreed to jointly carry out a cartographic update—led by digital and student communities—of the first priority group of localities before the planned field visits and workshops.
+The institution sought to improve its approach by integrating communities into the design of this management. However, the implementation of such exercises is hindered by the lack of knowledge, from the national administration, about the configuration of those communities and the access routes to reach them. Therefore, it was agreed to jointly carry out a cartographic update, led by digital and student communities, of the first priority group of localities before the planned field visits and workshops.
 
 In its first edition in 2024, the National Mapathon of Colombia brought together 200 participants to map 26,111 buildings and 28 km of roads, prioritizing strategic areas for risk management. The exercise became a space for learning and collective action that put historically invisible territories on the map, laying the foundations for a more ambitious 2025 edition. Additionally, due to its timing, it integrated an emergency activation in response to catastrophic flooding in the Chocó department.
 
@@ -44,7 +44,7 @@ For Iván Darío Camacho Puerto, from IGAC’s Research and Foresight Directorat
 
 Volunteer networks also made their voices heard. From the National Youth Environmental Network, National Coordinator Sebastián González Rivera remarked: *“As the largest youth environmental network in the country, we will continue to contribute positively alongside you.”* Meanwhile, Juan Esteban Castrillón Casas, CEO of the Youth Network for Disaster Risk Reduction, emphasized: *“This second edition leaves lessons and commitments, with more than 600 young people in training.”*
 
-Céline Jacquin, HOT’s Senior Manager for Latin America, highlights that the long-term strategy with the National Mapathons is for them to be increasingly owned by the open mapping community, which will gradually engage directly with national institutions to address the country’s pressing data needs. This is achieved by involving young people—who will form this community in the long run—in leadership roles within the National Mapathon. For this reason, involving student and volunteer networks in this edition was so important, as they are already emerging as leaders within this diverse and vast mapping community. Their presence should grow each year.
+Céline Jacquin, HOT’s Senior Manager for Latin America, highlights that the long-term strategy with the National Mapathons is for them to be increasingly owned by the open mapping community, which will gradually engage directly with national institutions to address the country’s pressing data needs. This is achieved by involving young people, who will form this community in the long run, in leadership roles within the National Mapathon. For this reason, involving student and volunteer networks in this edition was so important, as they are already emerging as leaders within this diverse and vast mapping community. Their presence should grow each year.
 
 ## 2025 Results
 
@@ -66,13 +66,13 @@ Vulnerable and hard-to-reach areas were covered, such as La Guajira and complex 
 
 ## Stories That Inspire
 
-The value of the Mapathon lies in the people who make it possible. Volunteer Mila Herrera from Nicaragua—who had the highest number of edits (and is also a prominent OpenStreetMap validator) during this citizen science exercise—shared:
+The value of the Mapathon lies in the people who make it possible. Volunteer Mila Herrera from Nicaragua, who had the highest number of edits (and is also a prominent OpenStreetMap validator) during this citizen science exercise-shared:
 
-*“This work reflects the way HOT has been working: building projects collectively, supporting each other, and sharing information. As a Nicaraguan, I know how hard it is to lack information about your own country—not knowing where the streets, buildings, a hill, or a river are. I understand that need and the importance of having this type of information available to governments, private organizations, and citizens alike.”*
+*“This work reflects the way HOT has been working: building projects collectively, supporting each other, and sharing information. As a Nicaraguan, I know how hard it is to lack information about your own country, not knowing where the streets, buildings, a hill, or a river are. I understand that need and the importance of having this type of information available to governments, private organizations, and citizens alike.”*
 
-Outstanding mapper Osvaldo Salazar agreed: *“We all collaborate together, whether it’s our country or not, always with the intention of helping and showing on the map elements that aren’t mapped or visible otherwise. For me, the main thing is always to help and collaborate. Along the way, I’ve also had the chance to meet people, their customs, and habits—everyone very pleasant so far—and I hope to keep getting to know them more.”*
+Outstanding mapper Osvaldo Salazar agreed: *“We all collaborate together, whether it’s our country or not, always with the intention of helping and showing on the map elements that aren’t mapped or visible otherwise. For me, the main thing is always to help and collaborate. Along the way, I’ve also had the chance to meet people, their customs, and habits, everyone very pleasant so far, and I hope to keep getting to know them more.”*
 
-For Enrique Torres Moya, it was a transformative experience: *“For me, it was a new and very interesting experience to collaborate using my technical knowledge, but above all, to support the community. I had never done it before, and it was very rewarding to contribute to something I normally couldn’t do in the field. Being able to help from here is very useful. I learned a lot—it was a very important experience for me, and I hope to keep contributing to the community.”*
+For Enrique Torres Moya, it was a transformative experience: *“For me, it was a new and very interesting experience to collaborate using my technical knowledge, but above all, to support the community. I had never done it before, and it was very rewarding to contribute to something I normally couldn’t do in the field. Being able to help from here is very useful. I learned a lot, it was a very important experience for me, and I hope to keep contributing to the community.”*
 
 ## Lessons Learned and Next Steps
 
@@ -84,4 +84,4 @@ It is necessary to strengthen validation and continuous monitoring to ensure the
 
 The next National Mapathon of Colombia will take place in 2026, but before that, the National Mapathons of Mexico, Peru, and Ecuador will be held, along with any necessary emergency responses. The goal: institutionalize MANA as part of national risk management strategies.
 
-This is a call to public institutions with a territorial presence and direct impact on the population—meaning most ministries and secretariats—to assess the state of the cartography they use in their processes, identify its gaps, and analyze how these limitations compromise the fulfillment of their mission. It is also an invitation to imagine improvement pathways without being constrained by current capacity or resource limitations, exploring how citizen science can help overcome them.
+This is a call to public institutions with a territorial presence and direct impact on the population, meaning most ministries and secretariats, to assess the state of the cartography they use in their processes, identify its gaps, and analyze how these limitations compromise the fulfillment of their mission. It is also an invitation to imagine improvement pathways without being constrained by current capacity or resource limitations, exploring how citizen science can help overcome them.
