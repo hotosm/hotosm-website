@@ -30,6 +30,8 @@ Tools:
   link: https://tasks.hotosm.org/
 - link: https://ee-eu.kobotoolbox.org/x/5o2UMUXa
   tool: KoboToolbox
+- link: https://mapillary.com
+  tool: Mapillary
 ---
 
 ## Climate Vulnerabilities in Dhaka
