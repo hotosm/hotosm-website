@@ -16,6 +16,8 @@ Country:
 - Ecuador
 - Guatemala
 - Peru
+Project:
+- Mapatones Nacionales Anuales Anticipatorios (MANA) en América Latina
 ---
 
 **[Versión en español](https://www.hotosm.org/updates/mapatones-anuales-anticipatorios-innovacion-y-colaboracion-para-cerrar-vacios-cartograficos-en-latinoamerica-y-el-caribe/)**
