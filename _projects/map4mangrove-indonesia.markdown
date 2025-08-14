@@ -23,7 +23,10 @@ Duration:
   Start Date: 2025-01-01 00:00:00 Z
 Tools:
 - tool: Field Tasking Manager
-- tool: Mapillary
+- link: https://www.mapillary.com/
+  tool: Mapillary
+- link: https://www.kobotoolbox.org/
+  tool: KoboCollect
 ---
 
 ## Monitoring Gaps in Mangrove Conservation
