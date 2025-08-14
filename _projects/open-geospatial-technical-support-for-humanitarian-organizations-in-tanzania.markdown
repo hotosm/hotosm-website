@@ -13,6 +13,7 @@ Impact Area:
 - Displacement & Safe Migration
 Person:
 - Walter Mayeku
+- 
 Partner:
 - Caribou
 - UNHCR Tanzania
@@ -27,8 +28,6 @@ Tools:
 - tool: 'OpenDataKit '
 - tool: Quantum GIS
 - tool: ArcGIS Pro
-Posted by:
-- Pauline Omagwa
 ---
 
 ### Background and Context 
