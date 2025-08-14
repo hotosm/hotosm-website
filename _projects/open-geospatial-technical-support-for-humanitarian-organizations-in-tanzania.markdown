@@ -26,7 +26,8 @@ Duration:
 The Humanitarian OpenStreetMap Team (HOT) Open Mapping Hub for Eastern and Southern Africa (ESA Hub) collaborated  with [Caribou](https://caribou.global/) to provide  humanitarian organizations with hands-on support in  integrating geospatial data and tools into the working processes. As part of their Tools for Data-Driven Humanitarian Action project, the main objective of the project was to improve contextual awareness so that organizations could be better prepared for crisis events triggered by weather events. 
 
 ![Screenshot 2025-08-13 at 18.10.24.png](/uploads/Screenshot%202025-08-13%20at%2018.10.24.png)
-*Hypothesised pathways through which geospatial data can contribute to operational efficiencies, ultimately leading to better outcomes for recipients of humanitarian interventions.  Credit: Caribou. Read full report [here](https://caribou.global/publications/impact-synthesis-of-geospatial-data-on-humanitarian-operations-methodology/) *
+
+*Hypothesised pathways through which geospatial data can contribute to operational efficiencies, ultimately leading to better outcomes for recipients of humanitarian interventions.  Credit: Caribou. Read full report [here]*(https://caribou.global/publications/impact-synthesis-of-geospatial-data-on-humanitarian-operations-methodology/) 
 
 ### Addressing a Critical Need
 
@@ -64,6 +65,8 @@ The blended training was centred on equipping the team with practical skills on 
 During the sessions, foundational topics such as acquiring and managing spatial data, remote sensing, and developing high-quality cartographic products were covered.  As part of the training, the team mapped buildings and roads within the Nyarugusu refugee camp. The data was contributed directly to the OpenStreetMap (OSM) using HOT’s Tasking Manager tool alongside the iD Editor and JOSM editing tools. 
 
 ![UNHCR certificates.jpg](/uploads/UNHCR%20certificates.jpg)### A group photo with successful participants displaying certificates of merit after a 10 day training session on geospatial technologies at UNHCR HQs Kasulu 
+
+![Nyarugusu Map Layout (2).jpg](/uploads/Nyarugusu%20Map%20Layout%20(2).jpg)
 
 The OSM data of Nyarugusa can be downloaded from the HOT Export Tool [here](https://export.hotosm.org/v3/).
 
