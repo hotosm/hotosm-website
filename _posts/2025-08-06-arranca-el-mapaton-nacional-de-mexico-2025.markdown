@@ -1,6 +1,6 @@
 ---
 title: Arranca el Mapatón Nacional de México 2025
-date: 2025-08-07 00:19:00 Z
+date: 2025-08-06 00:19:00 Z
 Summary Text: El Mapatón Nacional de México es una acción colaborativa para cerrar
   vacíos cartográficos en municipios prioritarios ante la crisis climática.
 Feature Image: "/uploads/Mapato%CC%81n%20MX.jpg"
