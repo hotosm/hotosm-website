@@ -112,7 +112,7 @@ A one-month mapping campaign that brought together over 200 mappers across the r
 
 ## Outcome and Impact
 
-![OM-Guru_Impact-in-Numbers_2025-1b4f8f.png](/uploads/OM-Guru_Impact-in-Numbers_2025-1b4f8f.png)
+![OM-Guru_Impact-in-Numbers_2025-db446d.png](/uploads/OM-Guru_Impact-in-Numbers_2025-db446d.png)
 
 ### Collaboration and Data Use
 
