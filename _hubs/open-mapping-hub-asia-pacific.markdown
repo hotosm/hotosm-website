@@ -28,7 +28,7 @@ Our goal is to drive the evolution and growth of locally-driven, sustainable ope
 
 In 2024, Dhaka Thrive was launched to address the need for open and reliable geospatial data for Dhaka’s informal settlements, laying the foundation for smarter, more inclusive urban planning. In this next phase, the project will focus on transforming insights into action—empowering local communities and decision-makers to drive meaningful, data-informed change.
 
-To learn more about the 2024 pilot, read * [Mapping for Climate Ready Cities - Dhaka Thrive](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
+To learn more about the 2024 pilot, read [**Mapping for Climate Ready Cities - Dhaka Thrive**](https://www.hotosm.org/projects/mapping-for-climate-ready-cities-dhaka/)
 
 <hr>
 <br>
