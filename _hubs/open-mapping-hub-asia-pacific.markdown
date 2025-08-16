@@ -32,7 +32,7 @@ To learn more about the 2024 pilot, read * [Mapping for Climate Ready Cities - D
 
 <hr>
 <br>
-* **Map4Mangrove - Indonesia** (page coming soon)
+* [**Map4Mangrove - Indonesia**](https://www.hotosm.org/projects/map4mangrove-indonesia/)
 
 *Partner: Indonesian Biodiversity Foundation (Yayasan KEHATI), Yayasan Lestari Alam Kita (SALAKA)*
 
@@ -56,7 +56,7 @@ The Climate Resilience Fellowship empowers young leaders across Bangladesh to de
 
 <hr>
 <br>
-* **Open Mapping Guru** (page coming soon)
+* [**Open Mapping Guru**](https://www.hotosm.org/projects/open-mapping-guru/)
 
 AP Hub, in collaboration with the local OpenStreetMap (OSM) communities, co-created the Open Mapping Guru (OM Guru) project to catalyze a regional network of dedicated and experienced OSM contributors, champions, and mappers. This growing network of experts—also known as “Gurus”—are key players in driving a more localized, regional community building.
 
