@@ -158,7 +158,7 @@ The next phase of OM Guru will focus on expanding learning opportunities through
 
 By providing flexible, accessible content, we aim to reach a wider network of Gurus and emerging mappers, enabling continuous learning regardless of time zone, connectivity, or schedule.
 
-In parallel, the program will launch the **[Open Mapping Climate Action and Disaster Ready Fellowship](https://www.linkedin.com/posts/openmapping-ap_open-mapping-climate-action-disaster-ready-activity-7362407805326106625-Pd7t?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy)**, designed to activate Gurus at the intersection of open mapping, community resilience, and climate justice. Through this program, Gurus will work in teams to lead collaborative projects that address local climate and disaster challenges.
+In parallel, the program will launch the **[Open Mapping Climate Action and Disaster Ready Fellowship](https://www.linkedin.com/posts/openmapping-ap_open-mapping-climate-action-disaster-ready-activity-7362407805326106625-Pd7t)**, designed to activate Gurus at the intersection of open mapping, community resilience, and climate justice. Through this program, Gurus will work in teams to lead collaborative projects that address local climate and disaster challenges.
 
 ![OM-Guru_Climate-Action-Disaster-Ready-Fellowship.png](/uploads/OM-Guru_Climate-Action-Disaster-Ready-Fellowship.png)
 
