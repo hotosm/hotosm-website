@@ -74,7 +74,7 @@ Considering the area was prone to disasters (including a [tsunami](https://en.wi
 <hr>
 
 
-Harry also introduced some of the tools planned to be used for data collection: [HOT Field-TM](https://mapper.fmtm.hotosm.org/), [Mapillary](https://www.mapillary.com/), and [MapSwipe](https://mapswipe.org/). Responding to these tools, Fitrian Dwi Cahyo, Coastal and Marine Analyst at the [Local Office for Coastal and Marine Resource Management (LOKA PSPL) Serang](https://kkp.go.id/unit-kerja/djpkrl/upt/loka-pengelolaan-sd-pesisir-laut-serang.html), was impressed with their user-friendliness and expressed interest in learning more.
+Harry also introduced some of the tools planned to be used for data collection: [HOT Field Tasking Manager](https://mapper.fmtm.hotosm.org/), [Mapillary](https://www.mapillary.com/), and [MapSwipe](https://mapswipe.org/). Responding to these tools, Fitrian Dwi Cahyo, Coastal and Marine Analyst at the [Local Office for Coastal and Marine Resource Management (LOKA PSPL) Serang](https://kkp.go.id/unit-kerja/djpkrl/upt/loka-pengelolaan-sd-pesisir-laut-serang.html), was impressed with their user-friendliness and expressed interest in learning more.
 
 At the end of the day, **community remains at the heart of the open mapping movement.** Ensuring that tools are easy to use is key to driving community involvement and reducing barriers related to digital literacy.
 
@@ -139,7 +139,9 @@ Beyond that, hearing presentations from SALAKA, who work closely with the commun
 
 This project marks not only AP Hub’s pilot collaboration with KEHATI, but also an important first step in applying open mapping to support mangrove conservation. We hope this initiative can serve as an entryway for **more organizations in conservation and biodiversity to explore and adopt open mapping approaches**, leading to more effective, community-driven monitoring.
 
-Following this event, the AP Hub team will continue preparing for the next steps, which include field mapping activities and capturing aerial imagery with drones, followed by capacity building of local teams and stakeholders to ensure the project’s long-term sustainability. We’re excited to share more news and progress soon!
+Following this event, at the end of July 2025, the AP Hub team, together with KEHATI and SALAKA, have conducted [field mapping activities](https://www.linkedin.com/posts/openmapping-ap_map4mangrove-bluecarbon-climateaction-activity-7361384988996509697--Dt6) at five different mangrove rehabilitation sites, which included capturing aerial imagery with drones.
+
+Currently, the team is preparing for capacity building in the form of training of trainers for local teams and stakeholders to ensure the project’s long-term sustainability. We’re excited to share more news and progress soon!
 
 
 <span style="font-size: 12px;">*Photos: Tony Liong / Open Mapping Hub - Asia Pacific*</span>
