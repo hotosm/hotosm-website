@@ -294,9 +294,9 @@ Beyond that, hearing presentations from SALAKA, who work closely with the commun
 
 This project marks not only AP Hub’s pilot collaboration with KEHATI, but also an important first step in applying open mapping to support mangrove conservation. We hope this initiative can serve as an entryway for **more organizations in conservation and biodiversity to explore and adopt open mapping approaches**, leading to more effective, community-driven monitoring.
 
-Following this event, at the end of July 2025, the AP Hub team, together with KEHATI and SALAKA, have conducted [field mapping activities](https://www.linkedin.com/posts/openmapping-ap_map4mangrove-bluecarbon-climateaction-activity-7361384988996509697--Dt6) at five different mangrove rehabilitation sites, which included capturing aerial imagery with drones.
+Following this event, at the end of July 2025, the AP Hub team, together with KEHATI and SALAKA, conducted [field mapping activities](https://www.linkedin.com/posts/openmapping-ap_map4mangrove-bluecarbon-climateaction-activity-7361384988996509697--Dt6) at five different mangrove rehabilitation sites. In the field, the team collected data through survey forms, street-level imagery, and aerial mapping using drone.
 
-Currently, the team is preparing for capacity building in the form of training of trainers for local teams and stakeholders to ensure the project’s long-term sustainability. We’re excited to share more news and progress soon!
+Currently, we are preparing for capacity building in the form of training of trainers for local partners and stakeholders to ensure the project’s long-term sustainability. We’re excited to share more news and progress soon!
 
 <hr>
 
