@@ -296,7 +296,9 @@ Following this milestone and everyone’s collective work so far, we are now tra
 
   <div class="mapillary-grid">
     <div class="mapillary-item">
-      <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"></iframe>
+      <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"
+allowfullscreen
+  allow="fullscreen"></iframe>
     </div>
     <div class="mapillary-item">
       <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=30821578274123979&x=0.5&y=0.5&style=photo"></iframe>
