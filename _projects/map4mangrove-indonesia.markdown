@@ -107,7 +107,13 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
       pointer-events: all;
       user-select: none;
       transition: background 0.3s;
-    }
+      border-radius: 0; /* Make rectangle */
+      min-width: 40px;
+      min-height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
     .carousel-controls button:hover {
       background: rgba(0, 0, 0, 0.8);
     }
