@@ -285,7 +285,7 @@ Following this milestone and everyone’s collective work so far, we are now tra
     }
     .gallery-item iframe {
       width: 100%;
-      aspect-ratio: 4 / 3;
+      aspect-ratio: 16 / 9;
       border: none;
       display: block;
     }
