@@ -48,7 +48,6 @@ Despite ongoing restoration efforts, there is still **limited availability of in
 
 Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)](https://www.hotosm.org/hubs/open-mapping-hub-asia-pacific/) collaborates with KEHATI to bridge gaps in mangrove monitoring by integrating open mapping technology, tools, and data. Specifically, it will support the Blue Carbon program through:
 * Mangrove rehabilitation monitoring and reporting
-* Blue carbon estimation
 * Disaster risk assessment in the project areas
 * Socio-economic analysis
 
