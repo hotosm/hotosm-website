@@ -65,6 +65,7 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
     }
     body {
       font-family: sans-serif;
+      overflow-x: hidden;
     }
     .carousel-wrapper {
       position: relative;
@@ -261,7 +262,6 @@ Following this milestone and everyone’s collective work so far, we are now tra
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Mapillary Embed Gallery</title>
   <style>
     body {
       font-family: sans-serif;
