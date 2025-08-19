@@ -255,151 +255,64 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
 
 <html lang="en">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Mapillary Carousel</title>
-<style>
-  * {
-    box-sizing: border-box;
-    margin: 0; padding: 0;
-  }
-  body {
-    font-family: sans-serif;
-  }
-  .carousel-wrapper {
-    position: relative;
-    max-width: 1000px;
-    margin: 20px auto;
-    overflow: hidden;
-  }
-  .carousel-track {
-    display: flex;
-    transition: transform 0.4s ease-in-out;
-    will-change: transform;
-  }
-  .carousel-track iframe {
-    flex: 0 0 320px;
-    height: 320px;
-    border: none;
-    margin-right: 16px;
-    border-radius: 6px;
-  }
-  .carousel-track iframe:last-child {
-    margin-right: 0;
-  }
-  .carousel-controls {
-    position: absolute;
-    top: 50%;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    transform: translateY(-50%);
-    pointer-events: none;
-    padding: 0 10px;
-  }
-  .carousel-controls button {
-    pointer-events: all;
-    background: rgba(0,0,0,0.6);
-    border: none;
-    color: white;
-    font-size: 28px;
-    padding: 8px 16px;
-    cursor: pointer;
-    user-select: none;
-    border-radius: 0;
-    min-width: 40px;
-    min-height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  .carousel-controls button:hover {
-    background: rgba(0,0,0,0.8);
-  }
-  @media (max-width: 700px) {
-    .carousel-track iframe {
-      flex: 0 0 100%;
-      height: 250px;
-      margin-right: 0;
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mapillary Embeds Grid</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      margin: 20px;
+      padding: 0;
     }
-  }
-</style>
+    .mapillary-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    .mapillary-item {
+      width: 100%;
+      aspect-ratio: 4 / 3;
+    }
+    .mapillary-item iframe {
+      width: 100%;
+      height: 100%;
+      border: none;
+      display: block;
+    }
+    .mapillary-grid > div:nth-child(4) {
+      grid-column-start: 2;
+    }
+    @media (max-width: 768px) {
+      .mapillary-grid {
+        grid-template-columns: 1fr;
+      }
+      .mapillary-grid > div:nth-child(4) {
+        grid-column-start: auto;
+      }
+    }
+  </style>
 </head>
 <body>
 
-<div class="carousel-wrapper">
-  <div class="carousel-track" id="carouselTrack">
-    <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"></iframe>
-    <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=30821578274123979&x=0.5&y=0.5&style=photo"></iframe>
-    <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=754408757181659&x=0.5&y=0.5&style=photo"></iframe>
-    <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"></iframe>
-    <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.506073122880898&y=0.4994322317768369&style=photo"></iframe>
+  <div class="mapillary-grid">
+    <div class="mapillary-item">
+      <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"></iframe>
+    </div>
+    <div class="mapillary-item">
+      <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=30821578274123979&x=0.5&y=0.5&style=photo"></iframe>
+    </div>
+    <div class="mapillary-item">
+      <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=754408757181659&x=0.5&y=0.5&style=photo"></iframe>
+    </div>
+    <div class="mapillary-item">
+      <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"></iframe>
+    </div>
+    <div class="mapillary-item">
+      <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.506073122880898&y=0.4994322317768369&style=photo"></iframe>
+    </div>
   </div>
-
-  <div class="carousel-controls">
-    <button id="prevBtn" aria-label="Previous">‹</button>
-    <button id="nextBtn" aria-label="Next">›</button>
-  </div>
-</div>
-
-<script>
-  const track = document.getElementById('carouselTrack');
-  const prevBtn = document.getElementById('prevBtn');
-  const nextBtn = document.getElementById('nextBtn');
-  const slides = track.children.length;
-
-  let currentIndex = 0;
-
-  function getSlidesPerView() {
-    return window.innerWidth <= 700 ? 1 : 3;
-  }
-
-  function updateCarousel() {
-    const slidesPerView = getSlidesPerView();
-    const slideWidth = track.children[0].offsetWidth + (window.innerWidth <= 700 ? 0 : 16);
-    const maxIndex = slides - slidesPerView;
-    if(currentIndex < 0) currentIndex = 0;
-    if(currentIndex > maxIndex) currentIndex = maxIndex;
-    track.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
-  }
-
-  prevBtn.addEventListener('click', () => {
-    currentIndex--;
-    updateCarousel();
-  });
-
-  nextBtn.addEventListener('click', () => {
-    currentIndex++;
-    updateCarousel();
-  });
-
-  window.addEventListener('resize', updateCarousel);
-
-  let startX = 0;
-  let endX = 0;
-
-  track.addEventListener('touchstart', e => {
-    startX = e.touches[0].clientX;
-  });
-
-  track.addEventListener('touchmove', e => {
-    endX = e.touches[0].clientX;
-  });
-
-  track.addEventListener('touchend', () => {
-    const diff = startX - endX;
-    if (Math.abs(diff) > 50) {
-      if (diff > 0) {
-        currentIndex++;
-      } else {
-        currentIndex--;
-      }
-      updateCarousel();
-    }
-  });
-
-  updateCarousel();
-</script>
 
 </body>
 </html>
