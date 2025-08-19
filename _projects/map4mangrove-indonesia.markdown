@@ -255,171 +255,151 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
 
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Mapillary Iframes Carousel</title>
-  <style>
-    * {
-      box-sizing: border-box;
-      margin: 0; padding: 0;
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Mapillary Carousel</title>
+<style>
+  * {
+    box-sizing: border-box;
+    margin: 0; padding: 0;
+  }
+  body {
+    font-family: sans-serif;
+  }
+  .carousel-wrapper {
+    position: relative;
+    max-width: 1000px;
+    margin: 20px auto;
+    overflow: hidden;
+  }
+  .carousel-track {
+    display: flex;
+    transition: transform 0.4s ease-in-out;
+    will-change: transform;
+  }
+  .carousel-track iframe {
+    flex: 0 0 320px;
+    height: 320px;
+    border: none;
+    margin-right: 16px;
+    border-radius: 6px;
+  }
+  .carousel-track iframe:last-child {
+    margin-right: 0;
+  }
+  .carousel-controls {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+    pointer-events: none;
+    padding: 0 10px;
+  }
+  .carousel-controls button {
+    pointer-events: all;
+    background: rgba(0,0,0,0.6);
+    border: none;
+    color: white;
+    font-size: 28px;
+    padding: 8px 16px;
+    cursor: pointer;
+    user-select: none;
+    border-radius: 0;
+    min-width: 40px;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .carousel-controls button:hover {
+    background: rgba(0,0,0,0.8);
+  }
+  @media (max-width: 700px) {
+    .carousel-track iframe {
+      flex: 0 0 100%;
+      height: 250px;
+      margin-right: 0;
     }
-    body {
-      font-family: sans-serif;
-    }
-    .carousel-wrapper {
-      position: relative;
-      width: 100%;
-      max-width: 980px;
-      margin: 20px auto;
-      overflow: hidden;
-    }
-    .carousel {
-      overflow: hidden;
-      width: 100%;
-    }
-    .carousel-images {
-      display: flex;
-      transition: transform 0.3s ease-in-out;
-      gap: 16px;
-    }
-    .carousel-images iframe {
-      flex-shrink: 0;
-      width: 300px;
-      height: 300px;
-      border: none;
-      background: #eee;
-      border-radius: 4px;
-    }
-    .carousel-controls {
-      position: absolute;
-      top: 50%;
-      width: 100%;
-      display: flex;
-      justify-content: space-between;
-      transform: translateY(-50%);
-      pointer-events: none;
-      padding: 0 10px;
-      box-sizing: border-box;
-    }
-    .carousel-controls button {
-      background: rgba(0, 0, 0, 0.6);
-      color: white;
-      border: none;
-      font-size: 30px;
-      padding: 10px 14px;
-      cursor: pointer;
-      pointer-events: all;
-      user-select: none;
-      transition: background 0.3s;
-      border-radius: 0; /* rectangle shape */
-      line-height: 1;
-      min-width: 40px;
-      min-height: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    .carousel-controls button:hover {
-      background: rgba(0, 0, 0, 0.8);
-    }
-    @media (max-width: 900px) {
-      .carousel-images iframe {
-        width: 240px;
-        height: 240px;
-      }
-    }
-    @media (max-width: 650px) {
-      .carousel-images iframe {
-        width: 100%;
-        height: 200px;
-        border-radius: 0;
-      }
-      .carousel-controls button {
-        display: none;
-      }
-    }
-  </style>
+  }
+</style>
 </head>
 <body>
 
-  <div class="carousel-wrapper" id="carousel-wrapper">
-    <div class="carousel">
-      <div class="carousel-images" id="carousel">
-        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"></iframe>
-        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=30821578274123979&x=0.5&y=0.5&style=photo"></iframe>
-        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=754408757181659&x=0.5&y=0.5&style=photo"></iframe>
-        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"></iframe>
-        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.506073122880898&y=0.4994322317768369&style=photo"></iframe>
-      </div>
-    </div>
-    <div class="carousel-controls">
-      <button id="prevBtn" aria-label="Previous Slide">‹</button>
-      <button id="nextBtn" aria-label="Next Slide">›</button>
-    </div>
+<div class="carousel-wrapper">
+  <div class="carousel-track" id="carouselTrack">
+    <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"></iframe>
+    <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=30821578274123979&x=0.5&y=0.5&style=photo"></iframe>
+    <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=754408757181659&x=0.5&y=0.5&style=photo"></iframe>
+    <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"></iframe>
+    <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.506073122880898&y=0.4994322317768369&style=photo"></iframe>
   </div>
 
-  <script>
-    const carousel = document.getElementById('carousel');
-    const prevBtn = document.getElementById('prevBtn');
-    const nextBtn = document.getElementById('nextBtn');
-    const totalSlides = carousel.children.length;
+  <div class="carousel-controls">
+    <button id="prevBtn" aria-label="Previous">‹</button>
+    <button id="nextBtn" aria-label="Next">›</button>
+  </div>
+</div>
 
-    let currentIndex = 0;
+<script>
+  const track = document.getElementById('carouselTrack');
+  const prevBtn = document.getElementById('prevBtn');
+  const nextBtn = document.getElementById('nextBtn');
+  const slides = track.children.length;
 
-    function getVisibleCount() {
-      if (window.innerWidth <= 650) return 1;
-      if (window.innerWidth <= 900) return 3;
-      return 3;
-    }
+  let currentIndex = 0;
 
-    function updateSlide() {
-      const visibleCount = getVisibleCount();
-      const slideWidth = carousel.children[0].offsetWidth + 16;
-      const maxIndex = totalSlides - visibleCount;
-      if (currentIndex > maxIndex) currentIndex = maxIndex < 0 ? 0 : maxIndex;
-      if (currentIndex < 0) currentIndex = 0;
-      carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
-    }
+  function getSlidesPerView() {
+    return window.innerWidth <= 700 ? 1 : 3;
+  }
 
-    function prevSlide() {
-      currentIndex--;
-      updateSlide();
-    }
+  function updateCarousel() {
+    const slidesPerView = getSlidesPerView();
+    const slideWidth = track.children[0].offsetWidth + (window.innerWidth <= 700 ? 0 : 16);
+    const maxIndex = slides - slidesPerView;
+    if(currentIndex < 0) currentIndex = 0;
+    if(currentIndex > maxIndex) currentIndex = maxIndex;
+    track.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
+  }
 
-    function nextSlide() {
-      currentIndex++;
-      updateSlide();
-    }
+  prevBtn.addEventListener('click', () => {
+    currentIndex--;
+    updateCarousel();
+  });
 
-    prevBtn.addEventListener('click', prevSlide);
-    nextBtn.addEventListener('click', nextSlide);
+  nextBtn.addEventListener('click', () => {
+    currentIndex++;
+    updateCarousel();
+  });
 
-    let startX = 0;
-    let endX = 0;
+  window.addEventListener('resize', updateCarousel);
 
-    carousel.addEventListener('touchstart', e => {
-      startX = e.touches[0].clientX;
-    });
+  let startX = 0;
+  let endX = 0;
 
-    carousel.addEventListener('touchmove', e => {
-      endX = e.touches[0].clientX;
-    });
+  track.addEventListener('touchstart', e => {
+    startX = e.touches[0].clientX;
+  });
 
-    carousel.addEventListener('touchend', () => {
-      const diff = startX - endX;
-      if (Math.abs(diff) > 50) {
-        if (diff > 0) nextSlide();
-        else prevSlide();
+  track.addEventListener('touchmove', e => {
+    endX = e.touches[0].clientX;
+  });
+
+  track.addEventListener('touchend', () => {
+    const diff = startX - endX;
+    if (Math.abs(diff) > 50) {
+      if (diff > 0) {
+        currentIndex++;
+      } else {
+        currentIndex--;
       }
-      startX = 0;
-      endX = 0;
-    });
+      updateCarousel();
+    }
+  });
 
-    window.addEventListener('resize', updateSlide);
-
-    // Initialize position on load
-    updateSlide();
-  </script>
+  updateCarousel();
+</script>
 
 </body>
 </html>
