@@ -442,5 +442,3 @@ Currently, the team is preparing for capacity building in the form of training o
 <span style="font-size: 12px;">*Photos: Tony Liong / Open Mapping Hub - Asia Pacific*</span>
 
 Explore photos from the events [here](https://www.flickr.com/photos/hotosm/albums/72177720328260367/).
-
-<iframe width="800" height="600" src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=754408757181659&x=0.5&y=0.5&style=classic" frameborder="0"></iframe>
