@@ -208,7 +208,7 @@ Showcasing and providing insights into the Blue Carbon program’s collective ef
 
 Visualizing potential new mangrove rehabilitation areas using data layers from [Global Mangrove Watch](https://www.globalmangrovewatch.org/) and [OpenStreetMap](https://www.openstreetmap.org/).
 
-![Map4Mangrove_Stakeholder-Workshop-5_2025.jpg.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-5_2025.jpg.jpg)
+![Map4Mangrove_Stakeholder-Workshop-5_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-5_2025.jpg)
 
 <div style="text-align: center;"><span style="font-size: 12px;">The AP Hub team showcased the latest prototype of Map4Mangrove’s dashboard and its practical applications for mangrove monitoring. Explore the dashboard [here](https://bit.ly/map4mangrove-dashboard).</span></div>
 
@@ -371,7 +371,7 @@ At the end of the day, **community remains at the heart of the open mapping move
 
 <hr>
 
-![Map4Mangrove_Stakeholder-Workshop-8_2025.jpg.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-8_2025.jpg.jpg)
+![Map4Mangrove_Stakeholder-Workshop-8_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-8_2025.jpg)
 
 The session sparked lively discussion from the audience. Once the event entered the Q&A session, a couple of hands were immediately raised. Some highlight questions included:
 
@@ -407,7 +407,7 @@ Strong interest was also shown in the tools’ broader applications to address d
 
 At the end of the event, Toufik Alansar, KEHATI’s Marine Program Manager, reflected on the Blue Carbon program’s journey over the past four years.
 
-![Map4Mangrove_Stakeholder-Workshop-9_2025.jpg.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-9_2025.jpg.jpg)
+![Map4Mangrove_Stakeholder-Workshop-9_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-9_2025.jpg)
 
 Looking toward the audience, especially community representatives who have been working tirelessly to improve their local area, he added, “At the end of the day, these mangroves don’t belong to KEHATI or Asahimas. **They belong to the community.** After this project ends in 2026, we will hand over the management of the planted mangrove areas to the community groups.”
 
@@ -417,7 +417,7 @@ Looking toward the audience, especially community representatives who have been 
 
 Thanks to the event, new connections were made and collaboration was strengthened. Reflecting on the positive response to Map4Mangrove, Harry hopes the collaboration with KEHATI, SALAKA, and all Blue Carbon Program stakeholders will result in something great and impactful by the end of this year.
 
-![Map4Mangrove_Stakeholder-Workshop-10_2025.jpg.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-10_2025.jpg.jpg)
+![Map4Mangrove_Stakeholder-Workshop-10_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-10_2025.jpg)
 
 <div style="text-align: center;"><span style="font-size: 12px;">The AP Hub team showcased the latest prototype of Map4Mangrove’s dashboard and its practical applications for mangrove monitoring. Explore the dashboard [here](https://bit.ly/map4mangrove-dashboard).</span></div>
 
@@ -429,7 +429,7 @@ Beyond that, hearing presentations from SALAKA, who work closely with the commun
 
 ### What’s Next
 
-![Map4Mangrove_Stakeholder-Workshop-11_2025.jpg.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-11_2025.jpg.jpg)
+![Map4Mangrove_Stakeholder-Workshop-11_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-11_2025.jpg)
 
 This project marks not only AP Hub’s pilot collaboration with KEHATI, but also an important first step in applying open mapping to support mangrove conservation. We hope this initiative can serve as an entryway for **more organizations in conservation and biodiversity to explore and adopt open mapping approaches**, leading to more effective, community-driven monitoring.
 
