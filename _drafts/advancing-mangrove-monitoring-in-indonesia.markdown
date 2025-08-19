@@ -407,7 +407,7 @@ Strong interest was also shown in the tools’ broader applications to address d
 
 At the end of the event, Toufik Alansar, KEHATI’s Marine Program Manager, reflected on the Blue Carbon program’s journey over the past four years.
 
-
+![Map4Mangrove_Stakeholder-Workshop-9_2025.jpg.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-9_2025.jpg.jpg)
 
 Looking toward the audience, especially community representatives who have been working tirelessly to improve their local area, he added, “At the end of the day, these mangroves don’t belong to KEHATI or Asahimas. **They belong to the community.** After this project ends in 2026, we will hand over the management of the planted mangrove areas to the community groups.”
 
@@ -416,6 +416,10 @@ Looking toward the audience, especially community representatives who have been 
 <hr>
 
 Thanks to the event, new connections were made and collaboration was strengthened. Reflecting on the positive response to Map4Mangrove, Harry hopes the collaboration with KEHATI, SALAKA, and all Blue Carbon Program stakeholders will result in something great and impactful by the end of this year.
+
+![Map4Mangrove_Stakeholder-Workshop-10_2025.jpg.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-10_2025.jpg.jpg)
+
+<div style="text-align: center;"><span style="font-size: 12px;">The AP Hub team showcased the latest prototype of Map4Mangrove’s dashboard and its practical applications for mangrove monitoring. Explore the dashboard [here](https://bit.ly/map4mangrove-dashboard).</span></div>
 
 Beyond that, hearing presentations from SALAKA, who work closely with the communities, had also sparked a new personal insight. Originally, the Blue Carbon program started with the goal of planting mangroves, but over its four years of implementation, it has grown to support broader social impact areas, including improving local livelihoods and enterprises. With guidance from SALAKA, the community has developed unique local products using natural resources like salt and [jeruju](https://kehati.or.id/jeruju-gulma-yang-bisa-menjadi-alternatif-sumber-pendapatan/) (mangrove shrubs).
 
