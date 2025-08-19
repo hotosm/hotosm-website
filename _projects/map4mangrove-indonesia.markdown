@@ -297,7 +297,6 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
         <img src="/uploads/Map4Mangrove_Field-Mapping-1_2025.jpg" alt="1" />
         <img src="/uploads/Map4Mangrove_Field-Mapping-2_2025.jpg" alt="2" />
         <img src="/uploads/Map4Mangrove_Field-Mapping-3_2025.jpg" alt="3" />
-        <img src="/uploads/Map4Mangrove_Field-Mapping-4_2025.jpg" alt="4" />
       </div>
     </div>
 
