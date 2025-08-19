@@ -227,7 +227,7 @@ This inclusive process is essential to the long-term sustainability of the monit
 
 ### Project Phases
 
-![Map4Mangrove_Project-Phases_2025.png](/uploads/Map4Mangrove_Project-Phases_2025.png)
+![Map4Mangrove_Project-Phases_2025-974330.png](/uploads/Map4Mangrove_Project-Phases_2025-974330.png)
 
 <hr>
 
