@@ -232,7 +232,6 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
     .carousel-wrapper {
       position: relative;
       width: 100%;
-      max-width: 100%;
       margin: 40px auto 0;
       overflow: hidden;
     }
@@ -321,7 +320,7 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
     let currentIndex = 0;
 
     function updateSlide() {
-      const slideWidth = carousel.children[0].offsetWidth;
+      const slideWidth = carousel.offsetWidth / totalSlides;
       carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
     }
 
@@ -360,8 +359,7 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
     });
 
     window.addEventListener('resize', updateSlide);
-
-    updateSlide();
+    window.addEventListener('load', updateSlide);
   </script>
 
 </body>
