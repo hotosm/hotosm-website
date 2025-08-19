@@ -281,15 +281,9 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
       border: none;
       display: block;
     }
-    .mapillary-grid > div:nth-child(4) {
-      grid-column-start: 2;
-    }
     @media (max-width: 768px) {
       .mapillary-grid {
         grid-template-columns: 1fr;
-      }
-      .mapillary-grid > div:nth-child(4) {
-        grid-column-start: auto;
       }
     }
   </style>
