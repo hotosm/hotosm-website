@@ -232,15 +232,15 @@ This inclusive process is essential to the long-term sustainability of the monit
 <hr>
 
 ## Current Output (July 2025)
-1) **Stakeholder mapping**
+**1) Stakeholder mapping**
 
-In May 2025, we shared how open mapping can transform the way we monitor mangrove conservation efforts at the Blue Carbon program stakeholder workshop. Read the article here.
+In May 2025, we shared how open mapping can transform the way we monitor mangrove conservation efforts at the Blue Carbon program stakeholder workshop. Read more in this [article](http://hotosm.org/updates/advancing-mangrove-monitoring-in-indonesia/).
 
-2) Completed **remote mapping** for buildings and roads around the project area.
+**2)** Completed **remote mapping** for buildings and roads around the project area.
 
 ![Map4Mangrove_Remote-Mapping_2025.png](/uploads/Map4Mangrove_Remote-Mapping_2025.png)
 
-3) **Field mapping**
+**3) Field mapping**
 
 At the end of July 2025, we conducted a two-day field mapping activity with partners, university students, and local community representatives. Together, we explored, mapped, and documented five mangrove rehabilitation sites.
 
