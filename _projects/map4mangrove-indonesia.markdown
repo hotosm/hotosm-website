@@ -71,7 +71,7 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
       position: relative;
       width: 100%;
       max-width: 100%;
-      margin: 40px auto;
+      margin: 40px auto 0;
       overflow: hidden;
     }
     .carousel {
