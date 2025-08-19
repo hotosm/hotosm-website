@@ -423,14 +423,13 @@ Thanks to the event, new connections were made and collaboration was strengthene
 
 Beyond that, hearing presentations from SALAKA, who work closely with the communities, had also sparked a new personal insight. Originally, the Blue Carbon program started with the goal of planting mangroves, but over its four years of implementation, it has grown to support broader social impact areas, including improving local livelihoods and enterprises. With guidance from SALAKA, the community has developed unique local products using natural resources like salt and [jeruju](https://kehati.or.id/jeruju-gulma-yang-bisa-menjadi-alternatif-sumber-pendapatan/) (mangrove shrubs).
 
-“Seeing all these ‘domino effects’ from their program got me thinking. For Map4Mangrove, our main goal is to create a dashboard to monitor the Blue Carbon program’s rehabilitation sites. But who knows what else it could evolve into – **what kind of impact and other good initiatives it might support beyond this project.**”
+> “Seeing all these ‘domino effects’ from their program got me thinking. For Map4Mangrove, our main goal is to create a dashboard to monitor the Blue Carbon program’s rehabilitation sites. But who knows what else it could evolve into – **what kind of impact and other good initiatives it might support beyond this project.**”
 
 <hr>
 
 ### What’s Next
 
-
-
+![Map4Mangrove_Stakeholder-Workshop-11_2025.jpg.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-11_2025.jpg.jpg)
 
 This project marks not only AP Hub’s pilot collaboration with KEHATI, but also an important first step in applying open mapping to support mangrove conservation. We hope this initiative can serve as an entryway for **more organizations in conservation and biodiversity to explore and adopt open mapping approaches**, leading to more effective, community-driven monitoring.
 
@@ -438,6 +437,7 @@ Following this event, at the end of July 2025, the AP Hub team, together with KE
 
 Currently, the team is preparing for capacity building in the form of training of trainers for local teams and stakeholders to ensure the project’s long-term sustainability. We’re excited to share more news and progress soon!
 
+<hr>
 
 <span style="font-size: 12px;">*Photos: Tony Liong / Open Mapping Hub - Asia Pacific*</span>
 
