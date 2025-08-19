@@ -230,6 +230,7 @@ Considering the area was prone to disasters (including a [tsunami](https://en.wi
     }
     body {
       font-family: sans-serif;
+      overflow-x: hidden;
     }
     .carousel-wrapper {
       position: relative;
@@ -316,7 +317,7 @@ Considering the area was prone to disasters (including a [tsunami](https://en.wi
     let currentIndex = 0;
 
     function updateSlide() {
-      const slideWidth = carousel.children[0].offsetWidth;
+      const slideWidth = window.innerWidth;
       carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
     }
 
@@ -355,8 +356,7 @@ Considering the area was prone to disasters (including a [tsunami](https://en.wi
     });
 
     window.addEventListener('resize', updateSlide);
-
-    updateSlide();
+    window.addEventListener('load', updateSlide);
   </script>
 
 </body>
