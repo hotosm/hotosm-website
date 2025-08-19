@@ -53,7 +53,7 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
       position: relative;
       width: 100%;
       max-width: 100%;
-      margin: 40px auto;
+      margin: 20px auto;
       overflow: hidden;
     }
     .carousel {
@@ -235,7 +235,7 @@ Considering the area was prone to disasters (including a [tsunami](https://en.wi
       position: relative;
       width: 100%;
       max-width: 100%;
-      margin: 40px auto;
+      margin: 20px auto;
       overflow: hidden;
     }
     .carousel {
