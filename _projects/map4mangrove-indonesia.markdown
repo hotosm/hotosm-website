@@ -214,167 +214,76 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
 
 ### Collaborative, Multi-Stakeholder Approach for Sustainable Monitoring
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Second Carousel</title>
-  <style>
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    body {
-      font-family: sans-serif;
-      overflow-x: hidden;
-    }
-
-    .carousel-wrapper {
-      position: relative;
-      width: 100%;
-      max-width: 100%;
-      margin: 40px auto 0;
-      overflow: hidden;
-    }
-
-    .carousel {
-      overflow: hidden;
-      width: 100%;
-    }
-
-    .carousel-images {
-      display: flex;
-      transition: transform 0.3s ease-in-out;
-      will-change: transform;
-    }
-
-    .carousel-images img {
-      width: 100%;
-      max-width: 100%;
-      max-height: 600px;
-      object-fit: contain;
-      flex-shrink: 0;
-      display: block;
-    }
-
-    .carousel-controls {
-      position: absolute;
-      top: 50%;
-      width: 100%;
-      display: flex;
-      justify-content: space-between;
-      transform: translateY(-50%);
-      pointer-events: none;
-    }
-
-    .carousel-controls button {
-      background: rgba(0, 0, 0, 0.6);
-      color: white;
-      border: none;
-      font-size: 30px;
-      padding: 10px 18px;
-      cursor: pointer;
-      pointer-events: all;
-      user-select: none;
-      transition: background 0.3s;
-      border-radius: 0;
-      min-width: 40px;
-      min-height: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .carousel-controls button:hover {
-      background: rgba(0, 0, 0, 0.8);
-    }
-
-    @media (max-width: 600px) {
-      .carousel-controls button {
-        display: none;
-      }
-    }
-  </style>
-</head>
-<body>
-
-  <div class="carousel-wrapper">
-    <div class="carousel">
-      <div class="carousel-images">
-        <img src="/uploads/Map4Mangrove_Field-Mapping-1_2025.jpg" alt="1" />
-        <img src="/uploads/Map4Mangrove_Field-Mapping-2_2025.jpg" alt="2" />
-        <img src="/uploads/Map4Mangrove_Field-Mapping-3_2025.jpg" alt="3" />
-      </div>
-    </div>
-
-    <div style="text-align: center; margin-top: 10px;">
-      <span style="font-size: 12px;">
-        Field mapping activity with KEHATI, SALAKA, university students, and local community representatives (July 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific
-      </span>
-    </div>
-
-    <div class="carousel-controls">
-      <button class="prevBtn">‹</button>
-      <button class="nextBtn">›</button>
+<div class="carousel-wrapper second-carousel">
+  <div class="carousel">
+    <div class="carousel-images">
+      <img src="/uploads/Map4Mangrove_Field-Mapping-1_2025.jpg" alt="1" />
+      <img src="/uploads/Map4Mangrove_Field-Mapping-2_2025.jpg" alt="2" />
+      <img src="/uploads/Map4Mangrove_Field-Mapping-3_2025.jpg" alt="3" />
     </div>
   </div>
 
-  <script>
-    document.querySelectorAll('.carousel-wrapper').forEach(wrapper => {
-      const carousel = wrapper.querySelector('.carousel-images');
-      const prevBtn = wrapper.querySelector('.prevBtn');
-      const nextBtn = wrapper.querySelector('.nextBtn');
-      const totalSlides = carousel.children.length;
-      let currentIndex = 0;
+  <div style="text-align: center; margin-top: 10px;">
+    <span style="font-size: 12px;">
+      Field mapping activity with KEHATI, SALAKA, university students, and local community representatives (July 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific
+    </span>
+  </div>
 
-      function updateSlide() {
-        const slideWidth = carousel.children[0].offsetWidth;
-        carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
-      }
+  <div class="carousel-controls">
+    <button class="prevBtn">‹</button>
+    <button class="nextBtn">›</button>
+  </div>
+</div>
 
-      function prevSlide() {
-        currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
-        updateSlide();
-      }
+<script>
+  (function () {
+    const wrapper = document.querySelector('.second-carousel');
+    const carousel = wrapper.querySelector('.carousel-images');
+    const prevBtn = wrapper.querySelector('.prevBtn');
+    const nextBtn = wrapper.querySelector('.nextBtn');
+    const totalSlides = carousel.children.length;
+    let currentIndex = 0;
 
-      function nextSlide() {
-        currentIndex = (currentIndex + 1) % totalSlides;
-        updateSlide();
-      }
+    function updateSlide() {
+      const slideWidth = carousel.children[0].offsetWidth;
+      carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
+    }
 
-      prevBtn.addEventListener('click', prevSlide);
-      nextBtn.addEventListener('click', nextSlide);
-
-      let startX = 0;
-      let endX = 0;
-
-      carousel.addEventListener('touchstart', e => {
-        startX = e.touches[0].clientX;
-      });
-
-      carousel.addEventListener('touchmove', e => {
-        endX = e.touches[0].clientX;
-      });
-
-      carousel.addEventListener('touchend', () => {
-        const diff = startX - endX;
-        if (Math.abs(diff) > 50) {
-          if (diff > 0) nextSlide();
-          else prevSlide();
-        }
-        startX = 0;
-        endX = 0;
-      });
-
-      window.addEventListener('resize', updateSlide);
+    function prevSlide() {
+      currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
       updateSlide();
-    });
-  </script>
+    }
 
-</body>
-</html>
+    function nextSlide() {
+      currentIndex = (currentIndex + 1) % totalSlides;
+      updateSlide();
+    }
+
+    prevBtn.addEventListener('click', prevSlide);
+    nextBtn.addEventListener('click', nextSlide);
+
+    let startX = 0;
+    let endX = 0;
+
+    carousel.addEventListener('touchstart', e => {
+      startX = e.touches[0].clientX;
+    });
+
+    carousel.addEventListener('touchmove', e => {
+      endX = e.touches[0].clientX;
+    });
+
+    carousel.addEventListener('touchend', () => {
+      const diff = startX - endX;
+      if (Math.abs(diff) > 50) {
+        diff > 0 ? nextSlide() : prevSlide();
+      }
+    });
+
+    window.addEventListener('resize', updateSlide);
+    updateSlide();
+  })();
+</script>
  
 <br>
 Built on the principles of open mapping, Map4Mangrove applies a **participatory approach**, where involvement of partners, stakeholders, and local communities are key throughout all of its phases.
