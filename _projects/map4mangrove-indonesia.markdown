@@ -52,21 +52,37 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
 * Disaster risk assessment in the project areas
 * Socio-economic analysis
 
+![Map4Mangrove_Stakeholder-Workshop-2_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-2_2025.jpg)
+
+<div style="text-align: center; margin-top: 10px;"><span style="font-size: 12px;">The AP Hub team showcased the Map4Mangrove dashboard prototype to local partners and stakeholders during the Blue Carbon program stakeholder workshop. (May 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific</span></div>
+<br>
+A key output of the project is a centralized, interactive **digital dashboard** that visualizes critical data. This data will be used by local stakeholders, including the Pandeglang District Government, to strengthen conservation strategies.
+
+Improved geospatial insights will also aid collaboration among stakeholders, ensuring more efficient permitting, ecosystem recovery, and disaster resilience. Ultimately, **integrating open mapping solutions empowers stakeholders with the necessary tools to sustain and scale mangrove restoration efforts across the region.**
+
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/en/map/map4mangrove-dashboard_189?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/en/map/map4mangrove-dashboard_189?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">See full screen</a></p>
+
+<hr>
+
+### Collaborative, Multi-Stakeholder Approach for Sustainable Monitoring
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Carousel</title>
+  <title>Second Carousel</title>
   <style>
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
     }
+
     body {
       font-family: sans-serif;
       overflow-x: hidden;
     }
+
     .carousel-wrapper {
       position: relative;
       width: 100%;
@@ -74,15 +90,18 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
       margin: 40px auto 0;
       overflow: hidden;
     }
+
     .carousel {
       overflow: hidden;
       width: 100%;
     }
+
     .carousel-images {
       display: flex;
       transition: transform 0.3s ease-in-out;
       will-change: transform;
     }
+
     .carousel-images img {
       width: 100%;
       max-width: 100%;
@@ -91,6 +110,7 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
       flex-shrink: 0;
       display: block;
     }
+
     .carousel-controls {
       position: absolute;
       top: 50%;
@@ -100,6 +120,7 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
       transform: translateY(-50%);
       pointer-events: none;
     }
+
     .carousel-controls button {
       background: rgba(0, 0, 0, 0.6);
       color: white;
@@ -117,9 +138,11 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
       align-items: center;
       justify-content: center;
     }
+
     .carousel-controls button:hover {
       background: rgba(0, 0, 0, 0.8);
     }
+
     @media (max-width: 600px) {
       .carousel-controls button {
         display: none;
@@ -131,159 +154,79 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
 
   <div class="carousel-wrapper">
     <div class="carousel">
-      <div class="carousel-images" id="carousel">
-        <img src="/uploads/Map4Mangrove_Stakeholder-Mapping-1_2025.jpg" alt="1" />
-        <img src="/uploads/Map4Mangrove_Stakeholder-Mapping-2_2025.jpg" alt="2" />
+      <div class="carousel-images">
+        <img src="/uploads/Map4Mangrove_Field-Mapping-1_2025.jpg" alt="1" />
+        <img src="/uploads/Map4Mangrove_Field-Mapping-2_2025.jpg" alt="2" />
+        <img src="/uploads/Map4Mangrove_Field-Mapping-3_2025.jpg" alt="3" />
       </div>
     </div>
 
     <div style="text-align: center; margin-top: 10px;">
       <span style="font-size: 12px;">
-        The AP Hub team showcased the Map4Mangrove dashboard prototype to local partners and stakeholders during the Blue Carbon program stakeholder workshop. (May 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific
+        Field mapping activity with KEHATI, SALAKA, university students, and local community representatives (July 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific
       </span>
     </div>
 
     <div class="carousel-controls">
-      <button id="prevBtn">‹</button>
-      <button id="nextBtn">›</button>
+      <button class="prevBtn">‹</button>
+      <button class="nextBtn">›</button>
     </div>
   </div>
 
   <script>
-    const carousel = document.getElementById('carousel');
-    const prevBtn = document.getElementById('prevBtn');
-    const nextBtn = document.getElementById('nextBtn');
-    const totalSlides = carousel.children.length;
+    document.querySelectorAll('.carousel-wrapper').forEach(wrapper => {
+      const carousel = wrapper.querySelector('.carousel-images');
+      const prevBtn = wrapper.querySelector('.prevBtn');
+      const nextBtn = wrapper.querySelector('.nextBtn');
+      const totalSlides = carousel.children.length;
+      let currentIndex = 0;
 
-    let currentIndex = 0;
-
-    function updateSlide() {
-      const slideWidth = carousel.children[0].offsetWidth;
-      carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
-    }
-
-    function prevSlide() {
-      currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
-      updateSlide();
-    }
-
-    function nextSlide() {
-      currentIndex = (currentIndex + 1) % totalSlides;
-      updateSlide();
-    }
-
-    prevBtn.addEventListener('click', prevSlide);
-    nextBtn.addEventListener('click', nextSlide);
-
-    let startX = 0;
-    let endX = 0;
-
-    carousel.addEventListener('touchstart', e => {
-      startX = e.touches[0].clientX;
-    });
-
-    carousel.addEventListener('touchmove', e => {
-      endX = e.touches[0].clientX;
-    });
-
-    carousel.addEventListener('touchend', () => {
-      const diff = startX - endX;
-      if (Math.abs(diff) > 50) {
-        if (diff > 0) nextSlide();
-        else prevSlide();
+      function updateSlide() {
+        const slideWidth = carousel.children[0].offsetWidth;
+        carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
       }
-      startX = 0;
-      endX = 0;
+
+      function prevSlide() {
+        currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+        updateSlide();
+      }
+
+      function nextSlide() {
+        currentIndex = (currentIndex + 1) % totalSlides;
+        updateSlide();
+      }
+
+      prevBtn.addEventListener('click', prevSlide);
+      nextBtn.addEventListener('click', nextSlide);
+
+      let startX = 0;
+      let endX = 0;
+
+      carousel.addEventListener('touchstart', e => {
+        startX = e.touches[0].clientX;
+      });
+
+      carousel.addEventListener('touchmove', e => {
+        endX = e.touches[0].clientX;
+      });
+
+      carousel.addEventListener('touchend', () => {
+        const diff = startX - endX;
+        if (Math.abs(diff) > 50) {
+          if (diff > 0) nextSlide();
+          else prevSlide();
+        }
+        startX = 0;
+        endX = 0;
+      });
+
+      window.addEventListener('resize', updateSlide);
+      updateSlide();
     });
-
-    window.addEventListener('resize', updateSlide);
-
-    updateSlide();
   </script>
 
 </body>
 </html>
-<br>
-A key output of the project is a centralized, interactive **digital dashboard** that visualizes critical data. This data will be used by local stakeholders, including the Pandeglang District Government, to strengthen conservation strategies.
-
-Improved geospatial insights will also aid collaboration among stakeholders, ensuring more efficient permitting, ecosystem recovery, and disaster resilience. Ultimately, **integrating open mapping solutions empowers stakeholders with the necessary tools to sustain and scale mangrove restoration efforts across the region.**
-
-<iframe width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation" src="//umap.hotosm.org/en/map/map4mangrove-dashboard_189?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true"></iframe><p><a href="//umap.hotosm.org/en/map/map4mangrove-dashboard_189?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=caption&captionBar=false&captionMenus=true">See full screen</a></p>
-
-<hr>
-
-### Collaborative, Multi-Stakeholder Approach for Sustainable Monitoring
-
-<div class="carousel-wrapper second-carousel">
-  <div class="carousel">
-    <div class="carousel-images">
-      <img src="/uploads/Map4Mangrove_Field-Mapping-1_2025.jpg" alt="1" />
-      <img src="/uploads/Map4Mangrove_Field-Mapping-2_2025.jpg" alt="2" />
-      <img src="/uploads/Map4Mangrove_Field-Mapping-3_2025.jpg" alt="3" />
-    </div>
-  </div>
-
-  <div style="text-align: center; margin-top: 10px;">
-    <span style="font-size: 12px;">
-      Field mapping activity with KEHATI, SALAKA, university students, and local community representatives (July 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific
-    </span>
-  </div>
-
-  <div class="carousel-controls">
-    <button class="prevBtn">‹</button>
-    <button class="nextBtn">›</button>
-  </div>
-</div>
-
-<script>
-  (function () {
-    const wrapper = document.querySelector('.second-carousel');
-    const carousel = wrapper.querySelector('.carousel-images');
-    const prevBtn = wrapper.querySelector('.prevBtn');
-    const nextBtn = wrapper.querySelector('.nextBtn');
-    const totalSlides = carousel.children.length;
-    let currentIndex = 0;
-
-    function updateSlide() {
-      const slideWidth = carousel.children[0].offsetWidth;
-      carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
-    }
-
-    function prevSlide() {
-      currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
-      updateSlide();
-    }
-
-    function nextSlide() {
-      currentIndex = (currentIndex + 1) % totalSlides;
-      updateSlide();
-    }
-
-    prevBtn.addEventListener('click', prevSlide);
-    nextBtn.addEventListener('click', nextSlide);
-
-    let startX = 0;
-    let endX = 0;
-
-    carousel.addEventListener('touchstart', e => {
-      startX = e.touches[0].clientX;
-    });
-
-    carousel.addEventListener('touchmove', e => {
-      endX = e.touches[0].clientX;
-    });
-
-    carousel.addEventListener('touchend', () => {
-      const diff = startX - endX;
-      if (Math.abs(diff) > 50) {
-        diff > 0 ? nextSlide() : prevSlide();
-      }
-    });
-
-    window.addEventListener('resize', updateSlide);
-    updateSlide();
-  })();
-</script>
  
 <br>
 Built on the principles of open mapping, Map4Mangrove applies a **participatory approach**, where involvement of partners, stakeholders, and local communities are key throughout all of its phases.
