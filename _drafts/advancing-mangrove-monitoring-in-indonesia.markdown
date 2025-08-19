@@ -208,10 +208,9 @@ Showcasing and providing insights into the Blue Carbon program’s collective ef
 
 Visualizing potential new mangrove rehabilitation areas using data layers from [Global Mangrove Watch](https://www.globalmangrovewatch.org/) and [OpenStreetMap](https://www.openstreetmap.org/).
 
+![Map4Mangrove_Stakeholder-Workshop-5_2025.jpg.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-5_2025.jpg.jpg)
 
-
-
-
+<div style="text-align: center;"><span style="font-size: 12px;">The AP Hub team showcased the latest prototype of Map4Mangrove’s dashboard and its practical applications for mangrove monitoring. Explore the dashboard [here](https://bit.ly/map4mangrove-dashboard).</span></div>
 
 “Aside from data collection and mapping of the mangrove sites, we are also looking to map buildings and roads in the surrounding area,” Harry added.
 
