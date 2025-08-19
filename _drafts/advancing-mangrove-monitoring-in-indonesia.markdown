@@ -38,6 +38,7 @@ With the program now entering its fifth year, effective monitoring becomes more 
 ## How Open Mapping Can Advance Mangrove Conservation
 
 Despite increased awareness of mangroves’ ecological importance, mangrove management in Indonesia still faces significant challenges. These include limited monitoring and post-planting maintenance. Even when monitoring is in place, **data – including spatial data – are often fragmented or hard to access.**
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
