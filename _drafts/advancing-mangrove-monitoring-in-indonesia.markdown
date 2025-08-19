@@ -181,7 +181,6 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
 
 </body>
 </html>
-
 Map4Mangrove’s project lead, [Harry Mahardhika](https://www.hotosm.org/people/harry-mahardhika-machmud/), opened his session with enthusiasm about the collaboration. Leveraging HOT and AP Hub’s expertise in mapping, the project is a great opportunity to showcase the power of open mapping to support issues beyond humanitarian and disaster response. This time, it’s **biodiversity** and **conservation.**
 
 > “Given the dynamic challenges in conservation work, not all results may always meet expectations. That’s why we need a way to visualize our progress,” Harry explained.
@@ -389,7 +388,7 @@ So, the potential for long-term use is there, but ensuring its sustainability re
 Another note: data from the dashboard can also be downloaded in various formats, which allows further integration if LOKA PSPL or other government agencies already have their own data systems.
 
 <hr>
-
+<br>
 **University student representative:** How can we take part in data collection and field mapping? Are there any specific requirements?
 
 **Harry:** There’s really only one requirement: commitment. Once we’ve conducted training on how to use the tools, we hope students and others who join will contribute and help us map all 14 hectares of the mangrove area. With everyone’s collective support, we can enhance the dashboard even further.
@@ -397,7 +396,7 @@ Another note: data from the dashboard can also be downloaded in various formats,
 Alternatively, in context outside of the Blue Carbon program, feel free to reach out to us and we’d be happy to share learning materials that you can use for your future mapping projects.
 
 <hr>
-
+<br>
 Followed by more questions about the dashboard, the discussion provided indirect input on additional features with high use potential, coming from those working directly at the local level. 
 
 Strong interest was also shown in the tools’ broader applications to address diverse biodiversity needs, including those beyond mangrove conservation. As LOKA PSPL shared, “We’re actually currently developing an underwater map. So, we’re really interested in the potential for collaboration.”
@@ -415,7 +414,7 @@ Looking toward the audience, especially community representatives who have been 
 “Personally, what I’m really trying to look for today are **gaps.** From the challenges shared and new insights gained, I hope we can try to come up with **solutions** to address those gaps. Let’s continue to collaborate and work together,” Toufik emphasized. 
 
 <hr>
-
+<br>
 Thanks to the event, new connections were made and collaboration was strengthened. Reflecting on the positive response to Map4Mangrove, Harry hopes the collaboration with KEHATI, SALAKA, and all Blue Carbon Program stakeholders will result in something great and impactful by the end of this year.
 
 ![Map4Mangrove_Stakeholder-Workshop-10_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-10_2025.jpg)
@@ -443,4 +442,4 @@ Currently, the team is preparing for capacity building in the form of training o
 
 <span style="font-size: 12px;">*Photos: Tony Liong / Open Mapping Hub - Asia Pacific*</span>
 
-Explore photos from the events [here](https://www.flickr.com/photos/hotosm/albums/72177720328260367/).
+Explore more photos from the events [here](https://www.flickr.com/photos/hotosm/albums/72177720328260367/).
