@@ -66,7 +66,7 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
       will-change: transform;
     }
     .carousel-images img {
-      width: 100vw;
+      width: 100%;
       max-width: 100%;
       max-height: 600px;
       object-fit: contain;
