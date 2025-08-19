@@ -248,7 +248,7 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Mapillary Iframe Carousels</title>
+  <title>Single Carousel for Mapillary Iframes</title>
   <style>
     * {
       box-sizing: border-box;
@@ -263,7 +263,6 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
       max-width: 980px;
       margin: 20px auto;
       overflow: hidden;
-      margin-bottom: 40px;
     }
     .carousel {
       overflow: hidden;
@@ -272,17 +271,15 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
     .carousel-images {
       display: flex;
       transition: transform 0.3s ease-in-out;
+      gap: 16px;
     }
     .carousel-images iframe {
       flex-shrink: 0;
       width: 300px;
       height: 300px;
       border: none;
-      margin-right: 16px;
       background: #eee;
-    }
-    .carousel-images iframe:last-child {
-      margin-right: 0;
+      border-radius: 4px;
     }
     .carousel-controls {
       position: absolute;
@@ -303,15 +300,23 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
       pointer-events: all;
       user-select: none;
       transition: background 0.3s;
+      border-radius: 50%;
+      line-height: 1;
     }
     .carousel-controls button:hover {
       background: rgba(0, 0, 0, 0.8);
     }
+    @media (max-width: 900px) {
+      .carousel-images iframe {
+        width: 240px;
+        height: 240px;
+      }
+    }
     @media (max-width: 650px) {
       .carousel-images iframe {
         width: 100%;
-        height: 240px;
-        margin-right: 0;
+        height: 200px;
+        border-radius: 0;
       }
       .carousel-controls button {
         display: none;
@@ -321,109 +326,83 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
 </head>
 <body>
 
-  <h2 style="text-align:center;">Rehabilitation Sites — Row 1</h2>
-  <div class="carousel-wrapper" id="carousel-wrapper-1">
+  <h2 style="text-align:center;">Rehabilitation Sites — Virtual Tour</h2>
+  <div class="carousel-wrapper" id="carousel-wrapper">
     <div class="carousel">
-      <div class="carousel-images" id="carousel-1">
+      <div class="carousel-images" id="carousel">
         <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"></iframe>
         <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=30821578274123979&x=0.5&y=0.5&style=photo"></iframe>
         <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=754408757181659&x=0.5&y=0.5&style=photo"></iframe>
-      </div>
-    </div>
-    <div class="carousel-controls">
-      <button class="prevBtn" data-carousel="1">‹</button>
-      <button class="nextBtn" data-carousel="1">›</button>
-    </div>
-  </div>
-
-  <h2 style="text-align:center;">Rehabilitation Sites — Row 2</h2>
-  <div class="carousel-wrapper" id="carousel-wrapper-2">
-    <div class="carousel">
-      <div class="carousel-images" id="carousel-2">
         <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"></iframe>
         <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.506073122880898&y=0.4994322317768369&style=photo"></iframe>
       </div>
     </div>
     <div class="carousel-controls">
-      <button class="prevBtn" data-carousel="2">‹</button>
-      <button class="nextBtn" data-carousel="2">›</button>
+      <button id="prevBtn">‹</button>
+      <button id="nextBtn">›</button>
     </div>
   </div>
 
   <script>
-    class Carousel {
-      constructor(carouselId, wrapperId) {
-        this.carousel = document.getElementById(carouselId);
-        this.wrapper = document.getElementById(wrapperId);
-        this.totalSlides = this.carousel.children.length;
-        this.currentIndex = 0;
+    const carousel = document.getElementById('carousel');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const totalSlides = carousel.children.length;
 
-        this.slideWidth = this.wrapper.querySelector('.carousel').offsetWidth;
+    let currentIndex = 0;
 
-        window.addEventListener('resize', () => {
-          this.slideWidth = this.wrapper.querySelector('.carousel').offsetWidth;
-          this.updateSlide();
-        });
-      }
-
-      updateSlide() {
-        this.carousel.style.transform = `translateX(-${this.currentIndex * this.slideWidth}px)`;
-      }
-
-      prevSlide() {
-        this.currentIndex = (this.currentIndex - 1 + this.totalSlides) % this.totalSlides;
-        this.updateSlide();
-      }
-
-      nextSlide() {
-        this.currentIndex = (this.currentIndex + 1) % this.totalSlides;
-        this.updateSlide();
-      }
+    function getVisibleCount() {
+      if (window.innerWidth <= 650) return 1;
+      if (window.innerWidth <= 900) return 3;
+      return 3;
     }
 
-    const carousel1 = new Carousel('carousel-1', 'carousel-wrapper-1');
-    const carousel2 = new Carousel('carousel-2', 'carousel-wrapper-2');
+    function updateSlide() {
+      const visibleCount = getVisibleCount();
+      const slideWidth = carousel.children[0].offsetWidth + 16;
+      const maxIndex = totalSlides - visibleCount;
+      if (currentIndex > maxIndex) currentIndex = maxIndex < 0 ? 0 : maxIndex;
+      if (currentIndex < 0) currentIndex = 0;
+      carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
+    }
 
-    document.querySelectorAll('.carousel-controls button').forEach(button => {
-      button.addEventListener('click', () => {
-        const target = button.dataset.carousel;
-        if (button.classList.contains('prevBtn')) {
-          if (target === "1") carousel1.prevSlide();
-          else carousel2.prevSlide();
-        } else {
-          if (target === "1") carousel1.nextSlide();
-          else carousel2.nextSlide();
-        }
-      });
+    function prevSlide() {
+      currentIndex--;
+      updateSlide();
+    }
+
+    function nextSlide() {
+      currentIndex++;
+      updateSlide();
+    }
+
+    prevBtn.addEventListener('click', prevSlide);
+    nextBtn.addEventListener('click', nextSlide);
+
+    let startX = 0;
+    let endX = 0;
+
+    carousel.addEventListener('touchstart', e => {
+      startX = e.touches[0].clientX;
     });
 
-    function addSwipeSupport(carouselInstance, wrapperId) {
-      const wrapper = document.getElementById(wrapperId);
-      let startX = 0;
-      let endX = 0;
+    carousel.addEventListener('touchmove', e => {
+      endX = e.touches[0].clientX;
+    });
 
-      wrapper.addEventListener('touchstart', e => {
-        startX = e.touches[0].clientX;
-      });
-      wrapper.addEventListener('touchmove', e => {
-        endX = e.touches[0].clientX;
-      });
-      wrapper.addEventListener('touchend', () => {
-        const diff = startX - endX;
-        if (Math.abs(diff) > 50) {
-          if (diff > 0) carouselInstance.nextSlide();
-          else carouselInstance.prevSlide();
-        }
-        startX = 0;
-        endX = 0;
-      });
-    }
+    carousel.addEventListener('touchend', () => {
+      const diff = startX - endX;
+      if (Math.abs(diff) > 50) {
+        if (diff > 0) nextSlide();
+        else prevSlide();
+      }
+      startX = 0;
+      endX = 0;
+    });
 
-    addSwipeSupport(carousel1, 'carousel-wrapper-1');
-    addSwipeSupport(carousel2, 'carousel-wrapper-2');
+    window.addEventListener('resize', updateSlide);
 
-    carousel1.updateSlide();
-    carousel2.updateSlide();
+    updateSlide();
   </script>
 
 </body>
