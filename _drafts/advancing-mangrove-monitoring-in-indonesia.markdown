@@ -370,7 +370,7 @@ At the end of the day, **community remains at the heart of the open mapping move
 > “Through open mapping, we hope that data collection will not only be done by us, but can also be supported by everyone here today, including community representatives who can give us clearer local insight on current rehabilitation sites,” Harry shared.
 
 <hr>
-
+<br>
 ![Map4Mangrove_Stakeholder-Workshop-8_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-8_2025.jpg)
 
 The session sparked lively discussion from the audience. Once the event entered the Q&A session, a couple of hands were immediately raised. Some highlight questions included:
