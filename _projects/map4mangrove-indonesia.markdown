@@ -257,7 +257,6 @@ Following this milestone and everyone’s collective work so far, we are now tra
 <br>
 **Take a virtual tour of the rehabilitation sites on Mapillary, captured during field mapping:**
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
