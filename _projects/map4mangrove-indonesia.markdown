@@ -83,7 +83,7 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
       will-change: transform;
     }
     .carousel-images img {
-      width: 100vw;
+      width: 100%;
       max-width: 100%;
       max-height: 600px;
       object-fit: contain;
@@ -314,7 +314,7 @@ Following this milestone and everyone’s collective work so far, we are now tra
         allowfullscreen allow="fullscreen">
       </iframe>
       <div class="mapillary-link">
-        <a href="https://www.mapillary.com/app/?pKey=769563162192154" target="_blank">🔗 View on Mapillary</a>
+        <a href="https://www.mapillary.com/app/?pKey=769563162192154" target="_blank">View on Mapillary</a>
       </div>
     </div>
 
@@ -324,7 +324,7 @@ Following this milestone and everyone’s collective work so far, we are now tra
         allowfullscreen allow="fullscreen">
       </iframe>
       <div class="mapillary-link">
-        <a href="https://www.mapillary.com/app/?pKey=30821578274123979" target="_blank">🔗 View on Mapillary</a>
+        <a href="https://www.mapillary.com/app/?pKey=30821578274123979" target="_blank">View on Mapillary</a>
       </div>
     </div>
 
@@ -334,7 +334,7 @@ Following this milestone and everyone’s collective work so far, we are now tra
         allowfullscreen allow="fullscreen">
       </iframe>
       <div class="mapillary-link">
-        <a href="https://www.mapillary.com/app/?pKey=754408757181659" target="_blank">🔗 View on Mapillary</a>
+        <a href="https://www.mapillary.com/app/?pKey=754408757181659" target="_blank">View on Mapillary</a>
       </div>
     </div>
 
@@ -344,7 +344,7 @@ Following this milestone and everyone’s collective work so far, we are now tra
         allowfullscreen allow="fullscreen">
       </iframe>
       <div class="mapillary-link">
-        <a href="https://www.mapillary.com/app/?pKey=1438418984101265" target="_blank">🔗 View on Mapillary</a>
+        <a href="https://www.mapillary.com/app/?pKey=1438418984101265" target="_blank">View on Mapillary</a>
       </div>
     </div>
 
@@ -354,7 +354,7 @@ Following this milestone and everyone’s collective work so far, we are now tra
         allowfullscreen allow="fullscreen">
       </iframe>
       <div class="mapillary-link">
-        <a href="https://www.mapillary.com/app/?pKey=719333391263051" target="_blank">🔗 View on Mapillary</a>
+        <a href="https://www.mapillary.com/app/?pKey=719333391263051" target="_blank">View on Mapillary</a>
       </div>
     </div>
   </div>
