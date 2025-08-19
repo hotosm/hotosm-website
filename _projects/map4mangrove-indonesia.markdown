@@ -272,7 +272,7 @@ Following this milestone and everyone’s collective work so far, we are now tra
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 20px;
-      max-width: 1000px;
+      max-width: 100%;
       margin: 0 auto;
     }
     .mapillary-item {
