@@ -232,9 +232,12 @@ This inclusive process is essential to the long-term sustainability of the monit
 
 3) **Field mapping** – At the end of July 2025, we conducted a two-day field mapping activity with partners, university students, and local community representatives. 
 
-Together, we explored, mapped, and documented five mangrove rehabilitation sites. The activities included data collection using [HOT Field Tasking Manager](https://mapper.fmtm.hotosm.org/) and [KoboCollect](https://www.kobotoolbox.org/), street-level imagery using [Mapillary](https://www.mapillary.com/), and aerial mapping using drone.
+Together, we explored, mapped, and documented five mangrove rehabilitation sites. The activities included:
+* Data collection using [HOT Field Tasking Manager](https://mapper.fmtm.hotosm.org/) and [KoboCollect](https://www.kobotoolbox.org/)
+* Street-level imagery using [Mapillary](https://www.mapillary.com/)
+* Aerial mapping using drone
 
-The data collection questionnaire was developed with SALAKA to ensure its **direct relevance to the identified needs and local context.** In addition to information on mangrove growth and condition, the team gathered data on site accessibility, land administration, tidal information, socio-economic data, and village profiles, including local potential.
+The data collection questionnaire was developed with SALAKA to ensure its **direct relevance to the identified needs and local context.** In addition to information on mangrove growth and condition, the team gathered data on site accessibility, land administration, tidal information, socio-economic data, and village profiles and local potential.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720328324655" title="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"><img src="https://live.staticflickr.com/65535/54718045684_25c51cfe04_h.jpg" width="1600" height="1200" alt="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
