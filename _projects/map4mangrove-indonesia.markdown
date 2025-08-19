@@ -218,17 +218,19 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Carousel</title>
+  <title>Second Carousel</title>
   <style>
     * {
       box-sizing: border-box;
       margin: 0;
       padding: 0;
     }
+
     body {
       font-family: sans-serif;
       overflow-x: hidden;
     }
+
     .carousel-wrapper {
       position: relative;
       width: 100%;
@@ -236,15 +238,18 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
       margin: 40px auto 0;
       overflow: hidden;
     }
+
     .carousel {
       overflow: hidden;
       width: 100%;
     }
+
     .carousel-images {
       display: flex;
       transition: transform 0.3s ease-in-out;
       will-change: transform;
     }
+
     .carousel-images img {
       width: 100%;
       max-width: 100%;
@@ -253,6 +258,7 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
       flex-shrink: 0;
       display: block;
     }
+
     .carousel-controls {
       position: absolute;
       top: 50%;
@@ -262,6 +268,7 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
       transform: translateY(-50%);
       pointer-events: none;
     }
+
     .carousel-controls button {
       background: rgba(0, 0, 0, 0.6);
       color: white;
@@ -279,9 +286,11 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
       align-items: center;
       justify-content: center;
     }
+
     .carousel-controls button:hover {
       background: rgba(0, 0, 0, 0.8);
     }
+
     @media (max-width: 600px) {
       .carousel-controls button {
         display: none;
@@ -291,8 +300,9 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
 </head>
 <body>
 
+  <div class="carousel-wrapper">
     <div class="carousel">
-      <div class="carousel-images" id="carousel">
+      <div class="carousel-images">
         <img src="/uploads/Map4Mangrove_Field-Mapping-1_2025.jpg" alt="1" />
         <img src="/uploads/Map4Mangrove_Field-Mapping-2_2025.jpg" alt="2" />
         <img src="/uploads/Map4Mangrove_Field-Mapping-3_2025.jpg" alt="3" />
@@ -306,61 +316,61 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
     </div>
 
     <div class="carousel-controls">
-      <button id="prevBtn">‹</button>
-      <button id="nextBtn">›</button>
+      <button class="prevBtn">‹</button>
+      <button class="nextBtn">›</button>
     </div>
   </div>
 
   <script>
-    const carousel = document.getElementById('carousel');
-    const prevBtn = document.getElementById('prevBtn');
-    const nextBtn = document.getElementById('nextBtn');
-    const totalSlides = carousel.children.length;
+    document.querySelectorAll('.carousel-wrapper').forEach(wrapper => {
+      const carousel = wrapper.querySelector('.carousel-images');
+      const prevBtn = wrapper.querySelector('.prevBtn');
+      const nextBtn = wrapper.querySelector('.nextBtn');
+      const totalSlides = carousel.children.length;
+      let currentIndex = 0;
 
-    let currentIndex = 0;
-
-    function updateSlide() {
-      const slideWidth = carousel.children[0].offsetWidth;
-      carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
-    }
-
-    function prevSlide() {
-      currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
-      updateSlide();
-    }
-
-    function nextSlide() {
-      currentIndex = (currentIndex + 1) % totalSlides;
-      updateSlide();
-    }
-
-    prevBtn.addEventListener('click', prevSlide);
-    nextBtn.addEventListener('click', nextSlide);
-
-    let startX = 0;
-    let endX = 0;
-
-    carousel.addEventListener('touchstart', e => {
-      startX = e.touches[0].clientX;
-    });
-
-    carousel.addEventListener('touchmove', e => {
-      endX = e.touches[0].clientX;
-    });
-
-    carousel.addEventListener('touchend', () => {
-      const diff = startX - endX;
-      if (Math.abs(diff) > 50) {
-        if (diff > 0) nextSlide();
-        else prevSlide();
+      function updateSlide() {
+        const slideWidth = carousel.children[0].offsetWidth;
+        carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
       }
-      startX = 0;
-      endX = 0;
+
+      function prevSlide() {
+        currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+        updateSlide();
+      }
+
+      function nextSlide() {
+        currentIndex = (currentIndex + 1) % totalSlides;
+        updateSlide();
+      }
+
+      prevBtn.addEventListener('click', prevSlide);
+      nextBtn.addEventListener('click', nextSlide);
+
+      let startX = 0;
+      let endX = 0;
+
+      carousel.addEventListener('touchstart', e => {
+        startX = e.touches[0].clientX;
+      });
+
+      carousel.addEventListener('touchmove', e => {
+        endX = e.touches[0].clientX;
+      });
+
+      carousel.addEventListener('touchend', () => {
+        const diff = startX - endX;
+        if (Math.abs(diff) > 50) {
+          if (diff > 0) nextSlide();
+          else prevSlide();
+        }
+        startX = 0;
+        endX = 0;
+      });
+
+      window.addEventListener('resize', updateSlide);
+      updateSlide();
     });
-
-    window.addEventListener('resize', updateSlide);
-
-    updateSlide();
   </script>
 
 </body>
