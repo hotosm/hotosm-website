@@ -316,9 +316,12 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
     const nextBtn = document.getElementById('nextBtn');
     const totalSlides = carousel.children.length;
     let currentIndex = 0;
+    let slideWidth = 0;
 
     function updateSlide() {
-      const slideWidth = carousel.children[0].getBoundingClientRect().width;
+      if (slideWidth === 0) {
+        slideWidth = carousel.children[0].getBoundingClientRect().width;
+      }
       carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
     }
 
@@ -356,8 +359,42 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
       endX = 0;
     });
 
-    window.addEventListener('resize', updateSlide);
-    window.addEventListener('load', updateSlide);
+    // Wait until all images are fully loaded before calculating slide width
+    function imagesLoaded(callback) {
+      const images = carousel.querySelectorAll('img');
+      let loadedCount = 0;
+      images.forEach(img => {
+        if (img.complete) {
+          loadedCount++;
+        } else {
+          img.addEventListener('load', () => {
+            loadedCount++;
+            if (loadedCount === images.length) {
+              callback();
+            }
+          });
+          img.addEventListener('error', () => {
+            loadedCount++;
+            if (loadedCount === images.length) {
+              callback();
+            }
+          });
+        }
+      });
+      if (loadedCount === images.length) {
+        callback();
+      }
+    }
+
+    imagesLoaded(() => {
+      slideWidth = carousel.children[0].getBoundingClientRect().width;
+      updateSlide();
+    });
+
+    window.addEventListener('resize', () => {
+      slideWidth = carousel.children[0].getBoundingClientRect().width;
+      updateSlide();
+    });
   </script>
 
 </body>
