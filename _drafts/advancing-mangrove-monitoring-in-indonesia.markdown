@@ -220,7 +220,7 @@ Visualizing potential new mangrove rehabilitation areas using data layers from [
 Considering the area was prone to disasters (including a [tsunami](https://en.wikipedia.org/wiki/2018_Sunda_Strait_tsunami) in 2018), this additional data will be crucial for **informing future disaster mitigation efforts.** Specifically, it will be used to visualize coastal flood zones, which are areas projected to experience flooding in the next 10 years.
 
 <hr>
-
+<br>
 ![Map4Mangrove_Stakeholder-Workshop-6_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-6_2025.jpg)
 
 Harry also introduced some of the tools planned to be used for data collection: [HOT Field Tasking Manager](https://mapper.fmtm.hotosm.org/), [Mapillary](https://www.mapillary.com/), and [MapSwipe](https://mapswipe.org/). Responding to these tools, Fitrian Dwi Cahyo, Coastal and Marine Analyst at the [Local Office for Coastal and Marine Resource Management (LOKA PSPL) Serang](https://kkp.go.id/unit-kerja/djpkrl/upt/loka-pengelolaan-sd-pesisir-laut-serang.html), was impressed with their user-friendliness and expressed interest in learning more.
