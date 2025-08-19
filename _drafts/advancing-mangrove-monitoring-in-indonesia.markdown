@@ -41,7 +41,7 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
 
 Map4Mangrove’s project lead, [Harry Mahardhika](https://www.hotosm.org/people/harry-mahardhika-machmud/), opened his session with enthusiasm about the collaboration. Leveraging HOT and AP Hub’s expertise in mapping, the project is a great opportunity to showcase the power of open mapping to support issues beyond humanitarian and disaster response. This time, it’s **biodiversity** and **conservation.**
 
-“Given the dynamic challenges in conservation work, not all results may always meet expectations. That’s why we need a way to visualize our progress,” Harry explained.
+> “Given the dynamic challenges in conservation work, not all results may always meet expectations. That’s why we need a way to visualize our progress,” Harry explained.
 
 <hr>
 <br>
