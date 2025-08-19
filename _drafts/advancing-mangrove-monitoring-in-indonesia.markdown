@@ -274,7 +274,7 @@ Thanks to the event, new connections were made and collaboration was strengthene
 
 Beyond that, hearing presentations from SALAKA, who work closely with the communities, had also sparked a new personal insight. Originally, the Blue Carbon program started with the goal of planting mangroves, but over its four years of implementation, it has grown to support broader social impact areas, including improving local livelihoods and enterprises. With guidance from SALAKA, the community has developed unique local products using natural resources like salt and [jeruju](https://kehati.or.id/jeruju-gulma-yang-bisa-menjadi-alternatif-sumber-pendapatan/) (mangrove shrubs).
 
-“Seeing all these ‘domino effects’ from their program got me thinking. For Map4Mangrove, our main goal is to create a dashboard to monitor the Blue Carbon program’s rehabilitation sites. But who knows what else it could evolve into—**what kind of impact and other good initiatives it might support beyond this project.**”
+“Seeing all these ‘domino effects’ from their program got me thinking. For Map4Mangrove, our main goal is to create a dashboard to monitor the Blue Carbon program’s rehabilitation sites. But who knows what else it could evolve into – **what kind of impact and other good initiatives it might support beyond this project.**”
 
 <hr>
 
