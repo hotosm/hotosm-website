@@ -210,7 +210,8 @@ Visualizing potential new mangrove rehabilitation areas using data layers from [
 
 ![Map4Mangrove_Stakeholder-Workshop-5_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-5_2025.jpg)
 
-<div style="text-align: center;"><span style="font-size: 12px;">The AP Hub team showcased the latest prototype of Map4Mangrove’s dashboard and its practical applications for mangrove monitoring. Explore the dashboard [here](https://bit.ly/map4mangrove-dashboard).</span></div>
+<div style="text-align: center;"><span style="font-size: 12px;">The AP Hub team showcased the latest prototype of Map4Mangrove’s dashboard and its practical applications for mangrove monitoring. Explore the dashboard <a href="https://bit.ly/map4mangrove-dashboard" target="_blank" rel="noopener noreferrer">here</a>.</span></div>
+<br>
 
 “Aside from data collection and mapping of the mangrove sites, we are also looking to map buildings and roads in the surrounding area,” Harry added.
 
@@ -419,7 +420,8 @@ Thanks to the event, new connections were made and collaboration was strengthene
 
 ![Map4Mangrove_Stakeholder-Workshop-10_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-10_2025.jpg)
 
-<div style="text-align: center;"><span style="font-size: 12px;">The AP Hub team showcased the latest prototype of Map4Mangrove’s dashboard and its practical applications for mangrove monitoring. Explore the dashboard <a href="https://bit.ly/map4mangrove-dashboard" target="_blank" rel="noopener noreferrer">here</a>.</span></div>
+<div style="text-align: center;"><span style="font-size: 12px;">The AP Hub team with KEHATI, SALAKA, UNTIRTA, and PT Asahimas Chemical, working together on mangrove conservation for a greener and bluer future.</span></div>
+<br>
 
 Beyond that, hearing presentations from SALAKA, who work closely with the communities, had also sparked a new personal insight. Originally, the Blue Carbon program started with the goal of planting mangroves, but over its four years of implementation, it has grown to support broader social impact areas, including improving local livelihoods and enterprises. With guidance from SALAKA, the community has developed unique local products using natural resources like salt and [jeruju](https://kehati.or.id/jeruju-gulma-yang-bisa-menjadi-alternatif-sumber-pendapatan/) (mangrove shrubs).
 
