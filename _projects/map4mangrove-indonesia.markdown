@@ -320,7 +320,7 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
     let currentIndex = 0;
 
     function updateSlide() {
-      const slideWidth = carousel.offsetWidth / totalSlides;
+      const slideWidth = carousel.children[0].offsetWidth;
       carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
     }
 
