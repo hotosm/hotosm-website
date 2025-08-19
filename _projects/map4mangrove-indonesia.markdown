@@ -83,7 +83,8 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
       will-change: transform;
     }
     .carousel-images img {
-      width: 100%;
+      width: 100vw;
+      max-width: 100%;
       max-height: 600px;
       object-fit: contain;
       flex-shrink: 0;
