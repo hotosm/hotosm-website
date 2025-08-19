@@ -244,42 +244,190 @@ Following this milestone and everyone’s collective work so far, we are now tra
 <br>
 Take a virtual tour of the rehabilitation sites on Mapillary, captured during field mapping.
 
-<style>
-  .mapillary-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 16px;
-  }
-
-  .mapillary-container iframe {
-    width: 300px;
-    height: 300px;
-    border: none;
-  }
-
-  @media (min-width: 1200px) {
-    .mapillary-container iframe {
-      width: 240px;
-      height: 240px;
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mapillary Iframe Carousels</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0; padding: 0;
     }
-  }
-
-  @media (min-width: 1600px) {
-    .mapillary-container iframe {
+    body {
+      font-family: sans-serif;
+    }
+    .carousel-wrapper {
+      position: relative;
+      width: 100%;
+      max-width: 980px;
+      margin: 20px auto;
+      overflow: hidden;
+      margin-bottom: 40px;
+    }
+    .carousel {
+      overflow: hidden;
+      width: 100%;
+    }
+    .carousel-images {
+      display: flex;
+      transition: transform 0.3s ease-in-out;
+    }
+    .carousel-images iframe {
+      flex-shrink: 0;
       width: 300px;
       height: 300px;
+      border: none;
+      margin-right: 16px;
+      background: #eee;
     }
-  }
-</style>
+    .carousel-images iframe:last-child {
+      margin-right: 0;
+    }
+    .carousel-controls {
+      position: absolute;
+      top: 50%;
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      transform: translateY(-50%);
+      pointer-events: none;
+    }
+    .carousel-controls button {
+      background: rgba(0, 0, 0, 0.6);
+      color: white;
+      border: none;
+      font-size: 30px;
+      padding: 10px 18px;
+      cursor: pointer;
+      pointer-events: all;
+      user-select: none;
+      transition: background 0.3s;
+    }
+    .carousel-controls button:hover {
+      background: rgba(0, 0, 0, 0.8);
+    }
+    @media (max-width: 650px) {
+      .carousel-images iframe {
+        width: 100%;
+        height: 240px;
+        margin-right: 0;
+      }
+      .carousel-controls button {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
 
-<div class="mapillary-container">
-  <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"></iframe>
-  <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=30821578274123979&x=0.5&y=0.5&style=photo"></iframe>
-  <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=754408757181659&x=0.5&y=0.5&style=photo"></iframe>
-  <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"></iframe>
-  <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.506073122880898&y=0.4994322317768369&style=photo"></iframe>
-</div>
+  <h2 style="text-align:center;">Rehabilitation Sites — Row 1</h2>
+  <div class="carousel-wrapper" id="carousel-wrapper-1">
+    <div class="carousel">
+      <div class="carousel-images" id="carousel-1">
+        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"></iframe>
+        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=30821578274123979&x=0.5&y=0.5&style=photo"></iframe>
+        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=754408757181659&x=0.5&y=0.5&style=photo"></iframe>
+      </div>
+    </div>
+    <div class="carousel-controls">
+      <button class="prevBtn" data-carousel="1">‹</button>
+      <button class="nextBtn" data-carousel="1">›</button>
+    </div>
+  </div>
+
+  <h2 style="text-align:center;">Rehabilitation Sites — Row 2</h2>
+  <div class="carousel-wrapper" id="carousel-wrapper-2">
+    <div class="carousel">
+      <div class="carousel-images" id="carousel-2">
+        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"></iframe>
+        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.506073122880898&y=0.4994322317768369&style=photo"></iframe>
+      </div>
+    </div>
+    <div class="carousel-controls">
+      <button class="prevBtn" data-carousel="2">‹</button>
+      <button class="nextBtn" data-carousel="2">›</button>
+    </div>
+  </div>
+
+  <script>
+    class Carousel {
+      constructor(carouselId, wrapperId) {
+        this.carousel = document.getElementById(carouselId);
+        this.wrapper = document.getElementById(wrapperId);
+        this.totalSlides = this.carousel.children.length;
+        this.currentIndex = 0;
+
+        this.slideWidth = this.wrapper.querySelector('.carousel').offsetWidth;
+
+        window.addEventListener('resize', () => {
+          this.slideWidth = this.wrapper.querySelector('.carousel').offsetWidth;
+          this.updateSlide();
+        });
+      }
+
+      updateSlide() {
+        this.carousel.style.transform = `translateX(-${this.currentIndex * this.slideWidth}px)`;
+      }
+
+      prevSlide() {
+        this.currentIndex = (this.currentIndex - 1 + this.totalSlides) % this.totalSlides;
+        this.updateSlide();
+      }
+
+      nextSlide() {
+        this.currentIndex = (this.currentIndex + 1) % this.totalSlides;
+        this.updateSlide();
+      }
+    }
+
+    const carousel1 = new Carousel('carousel-1', 'carousel-wrapper-1');
+    const carousel2 = new Carousel('carousel-2', 'carousel-wrapper-2');
+
+    document.querySelectorAll('.carousel-controls button').forEach(button => {
+      button.addEventListener('click', () => {
+        const target = button.dataset.carousel;
+        if (button.classList.contains('prevBtn')) {
+          if (target === "1") carousel1.prevSlide();
+          else carousel2.prevSlide();
+        } else {
+          if (target === "1") carousel1.nextSlide();
+          else carousel2.nextSlide();
+        }
+      });
+    });
+
+    function addSwipeSupport(carouselInstance, wrapperId) {
+      const wrapper = document.getElementById(wrapperId);
+      let startX = 0;
+      let endX = 0;
+
+      wrapper.addEventListener('touchstart', e => {
+        startX = e.touches[0].clientX;
+      });
+      wrapper.addEventListener('touchmove', e => {
+        endX = e.touches[0].clientX;
+      });
+      wrapper.addEventListener('touchend', () => {
+        const diff = startX - endX;
+        if (Math.abs(diff) > 50) {
+          if (diff > 0) carouselInstance.nextSlide();
+          else carouselInstance.prevSlide();
+        }
+        startX = 0;
+        endX = 0;
+      });
+    }
+
+    addSwipeSupport(carousel1, 'carousel-wrapper-1');
+    addSwipeSupport(carousel2, 'carousel-wrapper-2');
+
+    carousel1.updateSlide();
+    carousel2.updateSlide();
+  </script>
+
+</body>
+</html>
 <br>
 <hr>
 <br>
