@@ -265,7 +265,7 @@ Following this milestone and everyone’s collective work so far, we are now tra
   <style>
     body {
       font-family: sans-serif;
-      margin: 20px;
+      margin: 0;
       padding: 0;
       background: #f9f9f9;
     }
