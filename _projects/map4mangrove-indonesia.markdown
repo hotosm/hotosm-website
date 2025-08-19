@@ -251,7 +251,7 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Single Carousel for Mapillary Iframes</title>
+  <title>Mapillary Iframes Carousel</title>
   <style>
     * {
       box-sizing: border-box;
@@ -292,19 +292,26 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
       justify-content: space-between;
       transform: translateY(-50%);
       pointer-events: none;
+      padding: 0 10px;
+      box-sizing: border-box;
     }
     .carousel-controls button {
       background: rgba(0, 0, 0, 0.6);
       color: white;
       border: none;
       font-size: 30px;
-      padding: 10px 18px;
+      padding: 10px 14px;
       cursor: pointer;
       pointer-events: all;
       user-select: none;
       transition: background 0.3s;
-      border-radius: 50%;
+      border-radius: 0; /* rectangle shape */
       line-height: 1;
+      min-width: 40px;
+      min-height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
     }
     .carousel-controls button:hover {
       background: rgba(0, 0, 0, 0.8);
@@ -329,7 +336,6 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
 </head>
 <body>
 
-  <h2 style="text-align:center;">Rehabilitation Sites — Virtual Tour</h2>
   <div class="carousel-wrapper" id="carousel-wrapper">
     <div class="carousel">
       <div class="carousel-images" id="carousel">
@@ -341,8 +347,8 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
       </div>
     </div>
     <div class="carousel-controls">
-      <button id="prevBtn">‹</button>
-      <button id="nextBtn">›</button>
+      <button id="prevBtn" aria-label="Previous Slide">‹</button>
+      <button id="nextBtn" aria-label="Next Slide">›</button>
     </div>
   </div>
 
@@ -405,6 +411,7 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
 
     window.addEventListener('resize', updateSlide);
 
+    // Initialize position on load
     updateSlide();
   </script>
 
