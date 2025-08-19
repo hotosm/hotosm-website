@@ -261,71 +261,65 @@ Following this milestone and everyone’s collective work so far, we are now tra
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Mapillary Static Embeds Grid</title>
+  <title>Mapillary Static Thumbnails Gallery</title>
   <style>
     body {
       font-family: sans-serif;
       margin: 20px;
       padding: 0;
+      background: #f9f9f9;
     }
-    .mapillary-grid {
+    .gallery {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 20px;
-      max-width: 100%;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+      max-width: 1200px;
       margin: 0 auto;
     }
-    .mapillary-item {
-      width: 100%;
-      aspect-ratio: 4 / 3;
-    }
-    .mapillary-item a {
-      display: block;
-      width: 100%;
-      height: 100%;
+    .gallery-item {
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+      background: white;
       cursor: pointer;
+      transition: transform 0.2s ease;
     }
-    .mapillary-item img {
+    .gallery-item:hover {
+      transform: scale(1.03);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    .gallery-item img {
       width: 100%;
-      height: 100%;
+      height: 180px;
       object-fit: cover;
       display: block;
-    }
-    @media (max-width: 768px) {
-      .mapillary-grid {
-        grid-template-columns: 1fr;
-      }
     }
   </style>
 </head>
 <body>
 
-  <div class="mapillary-grid">
-    <div class="mapillary-item">
-      <a href="https://www.mapillary.com/app/?pKey=769563162192154" target="_blank" rel="noopener noreferrer">
-        <img loading="lazy" src="https://cdn.mapillary.com/images/769563162192154/thumb-2048.jpg" alt="Mapillary image 769563162192154" />
-      </a>
-    </div>
-    <div class="mapillary-item">
-      <a href="https://www.mapillary.com/app/?pKey=30821578274123979" target="_blank" rel="noopener noreferrer">
-        <img loading="lazy" src="https://cdn.mapillary.com/images/30821578274123979/thumb-2048.jpg" alt="Mapillary image 30821578274123979" />
-      </a>
-    </div>
-    <div class="mapillary-item">
-      <a href="https://www.mapillary.com/app/?pKey=754408757181659" target="_blank" rel="noopener noreferrer">
-        <img loading="lazy" src="https://cdn.mapillary.com/images/754408757181659/thumb-2048.jpg" alt="Mapillary image 754408757181659" />
-      </a>
-    </div>
-    <div class="mapillary-item">
-      <a href="https://www.mapillary.com/app/?pKey=1438418984101265" target="_blank" rel="noopener noreferrer">
-        <img loading="lazy" src="https://cdn.mapillary.com/images/1438418984101265/thumb-2048.jpg" alt="Mapillary image 1438418984101265" />
-      </a>
-    </div>
-    <div class="mapillary-item">
-      <a href="https://www.mapillary.com/app/?pKey=719333391263051" target="_blank" rel="noopener noreferrer">
-        <img loading="lazy" src="https://cdn.mapillary.com/images/719333391263051/thumb-2048.jpg" alt="Mapillary image 719333391263051" />
-      </a>
-    </div>
+  <h1>Mapillary Static Thumbnails Gallery</h1>
+
+  <div class="gallery">
+    <a class="gallery-item" href="https://www.mapillary.com/app/?pKey=769563162192154" target="_blank" rel="noopener noreferrer" aria-label="Open Mapillary image 769563162192154">
+      <img loading="lazy" src="https://cdn.mapillary.com/images/769563162192154/thumb-2048.jpg" alt="Mapillary image 769563162192154" />
+    </a>
+
+    <a class="gallery-item" href="https://www.mapillary.com/app/?pKey=30821578274123979" target="_blank" rel="noopener noreferrer" aria-label="Open Mapillary image 30821578274123979">
+      <img loading="lazy" src="https://cdn.mapillary.com/images/30821578274123979/thumb-2048.jpg" alt="Mapillary image 30821578274123979" />
+    </a>
+
+    <a class="gallery-item" href="https://www.mapillary.com/app/?pKey=754408757181659" target="_blank" rel="noopener noreferrer" aria-label="Open Mapillary image 754408757181659">
+      <img loading="lazy" src="https://cdn.mapillary.com/images/754408757181659/thumb-2048.jpg" alt="Mapillary image 754408757181659" />
+    </a>
+
+    <a class="gallery-item" href="https://www.mapillary.com/app/?pKey=1438418984101265" target="_blank" rel="noopener noreferrer" aria-label="Open Mapillary image 1438418984101265">
+      <img loading="lazy" src="https://cdn.mapillary.com/images/1438418984101265/thumb-2048.jpg" alt="Mapillary image 1438418984101265" />
+    </a>
+
+    <a class="gallery-item" href="https://www.mapillary.com/app/?pKey=719333391263051" target="_blank" rel="noopener noreferrer" aria-label="Open Mapillary image 719333391263051">
+      <img loading="lazy" src="https://cdn.mapillary.com/images/719333391263051/thumb-2048.jpg" alt="Mapillary image 719333391263051" />
+    </a>
   </div>
 
 </body>
