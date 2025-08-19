@@ -277,7 +277,8 @@ Following this milestone and everyone’s collective work so far, we are now tra
       margin: 0 auto;
     }
     .gallery-item {
-      aspect-ratio: 4 / 3;
+      display: flex;
+      flex-direction: column;
       border-radius: 8px;
       overflow: hidden;
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
@@ -285,9 +286,22 @@ Following this milestone and everyone’s collective work so far, we are now tra
     }
     .gallery-item iframe {
       width: 100%;
-      height: 100%;
+      aspect-ratio: 4 / 3;
       border: none;
       display: block;
+    }
+    .mapillary-link {
+      padding: 8px 12px;
+      background: #f1f1f1;
+      text-align: center;
+      font-size: 14px;
+    }
+    .mapillary-link a {
+      text-decoration: none;
+      color: #007bff;
+    }
+    .mapillary-link a:hover {
+      text-decoration: underline;
     }
   </style>
 </head>
@@ -299,6 +313,9 @@ Following this milestone and everyone’s collective work so far, we are now tra
         src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"
         allowfullscreen allow="fullscreen">
       </iframe>
+      <div class="mapillary-link">
+        <a href="https://www.mapillary.com/app/?pKey=769563162192154" target="_blank">🔗 View on Mapillary</a>
+      </div>
     </div>
 
     <div class="gallery-item">
@@ -306,6 +323,9 @@ Following this milestone and everyone’s collective work so far, we are now tra
         src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=30821578274123979&x=0.5&y=0.5&style=photo"
         allowfullscreen allow="fullscreen">
       </iframe>
+      <div class="mapillary-link">
+        <a href="https://www.mapillary.com/app/?pKey=30821578274123979" target="_blank">🔗 View on Mapillary</a>
+      </div>
     </div>
 
     <div class="gallery-item">
@@ -313,6 +333,9 @@ Following this milestone and everyone’s collective work so far, we are now tra
         src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=754408757181659&x=0.5&y=0.5&style=photo"
         allowfullscreen allow="fullscreen">
       </iframe>
+      <div class="mapillary-link">
+        <a href="https://www.mapillary.com/app/?pKey=754408757181659" target="_blank">🔗 View on Mapillary</a>
+      </div>
     </div>
 
     <div class="gallery-item">
@@ -320,6 +343,9 @@ Following this milestone and everyone’s collective work so far, we are now tra
         src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"
         allowfullscreen allow="fullscreen">
       </iframe>
+      <div class="mapillary-link">
+        <a href="https://www.mapillary.com/app/?pKey=1438418984101265" target="_blank">🔗 View on Mapillary</a>
+      </div>
     </div>
 
     <div class="gallery-item">
@@ -327,13 +353,14 @@ Following this milestone and everyone’s collective work so far, we are now tra
         src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.5&y=0.5&style=photo"
         allowfullscreen allow="fullscreen">
       </iframe>
+      <div class="mapillary-link">
+        <a href="https://www.mapillary.com/app/?pKey=719333391263051" target="_blank">🔗 View on Mapillary</a>
+      </div>
     </div>
   </div>
 
 </body>
 </html>
-
-
 <br>
 <hr>
 <br>
