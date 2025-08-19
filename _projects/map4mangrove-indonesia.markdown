@@ -241,7 +241,7 @@ The data collection questionnaire was developed with SALAKA to ensure its direct
 Following this milestone and everyone’s collective work so far, we are now transforming the collected data into impactful visualization and analysis. Follow our journey and stay updated with the latest news from the project through our [social media](https://linktr.ee/openmapping_ap)!
 
 <hr>
-
+<br>
 Take a virtual tour of the rehabilitation sites on Mapillary, captured during field mapping.
 
 <style>
@@ -280,7 +280,7 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
   <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"></iframe>
   <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.506073122880898&y=0.4994322317768369&style=photo"></iframe>
 </div>
-
+<br>
 <hr>
 <br>
 **Explore photos from the project:**
