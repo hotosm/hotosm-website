@@ -234,6 +234,12 @@ This inclusive process is essential to the long-term sustainability of the monit
 
 Together, we explored, mapped, and documented five mangrove rehabilitation sites. The activities included data collection using [HOT Field Tasking Manager](https://mapper.fmtm.hotosm.org/) and [KoboCollect](https://www.kobotoolbox.org/), street-level imagery using [Mapillary](https://www.mapillary.com/), and aerial mapping using drone.
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720328324655" title="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"><img src="https://live.staticflickr.com/65535/54718045684_25c51cfe04_h.jpg" width="1600" height="1200" alt="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Following this milestone and everyone’s collective work so far, we are now transforming the collected data into impactful visualization and analysis. Follow our journey and stay updated with the latest news from the project through our [social media](https://linktr.ee/openmapping_ap)!
+
+<hr>
+
 Take a virtual tour of the rehabilitation sites on Mapillary, captured during field mapping.
 
 <style>
@@ -245,15 +251,22 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
   }
 
   .mapillary-container iframe {
-    flex: 1 1 300px;
-    max-width: 100%;
+    width: 300px;
     height: 300px;
     border: none;
   }
 
   @media (min-width: 1200px) {
     .mapillary-container iframe {
-      height: 480px;
+      width: 240px;
+      height: 240px;
+    }
+  }
+
+  @media (min-width: 1600px) {
+    .mapillary-container iframe {
+      width: 300px;
+      height: 300px;
     }
   }
 </style>
@@ -265,10 +278,6 @@ Take a virtual tour of the rehabilitation sites on Mapillary, captured during fi
   <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"></iframe>
   <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.506073122880898&y=0.4994322317768369&style=photo"></iframe>
 </div>
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hotosm/albums/72177720328324655" title="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"><img src="https://live.staticflickr.com/65535/54718045684_25c51cfe04_h.jpg" width="1600" height="1200" alt="Map4Mangrove - Field Mapping of Mangrove Sites in Panimbang and Sumur, Banten - Indonesia (2025)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-Following this milestone and everyone’s collective work so far, we are now transforming the collected data into impactful visualization and analysis. Follow our journey and stay updated with the latest news from the project through our [social media](https://linktr.ee/openmapping_ap)!
 
 <hr>
 <br>
