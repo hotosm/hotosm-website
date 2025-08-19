@@ -257,11 +257,12 @@ Following this milestone and everyone’s collective work so far, we are now tra
 <br>
 **Take a virtual tour of the rehabilitation sites on Mapillary, captured during field mapping:**
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Mapillary Static Thumbnails Gallery</title>
+  <title>Mapillary Embed Gallery</title>
   <style>
     body {
       font-family: sans-serif;
@@ -271,59 +272,69 @@ Following this milestone and everyone’s collective work so far, we are now tra
     }
     .gallery {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
       gap: 16px;
       max-width: 1200px;
       margin: 0 auto;
     }
     .gallery-item {
+      aspect-ratio: 4 / 3;
       border-radius: 8px;
       overflow: hidden;
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
       background: white;
-      cursor: pointer;
-      transition: transform 0.2s ease;
     }
-    .gallery-item:hover {
-      transform: scale(1.03);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-    }
-    .gallery-item img {
+    .gallery-item iframe {
       width: 100%;
-      height: 180px;
-      object-fit: cover;
+      height: 100%;
+      border: none;
       display: block;
     }
   </style>
 </head>
 <body>
 
-  <h1>Mapillary Static Thumbnails Gallery</h1>
-
   <div class="gallery">
-    <a class="gallery-item" href="https://www.mapillary.com/app/?pKey=769563162192154" target="_blank" rel="noopener noreferrer" aria-label="Open Mapillary image 769563162192154">
-      <img loading="lazy" src="https://cdn.mapillary.com/images/769563162192154/thumb-2048.jpg" alt="Mapillary image 769563162192154" />
-    </a>
+    <div class="gallery-item">
+      <iframe
+        src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"
+        allowfullscreen allow="fullscreen">
+      </iframe>
+    </div>
 
-    <a class="gallery-item" href="https://www.mapillary.com/app/?pKey=30821578274123979" target="_blank" rel="noopener noreferrer" aria-label="Open Mapillary image 30821578274123979">
-      <img loading="lazy" src="https://cdn.mapillary.com/images/30821578274123979/thumb-2048.jpg" alt="Mapillary image 30821578274123979" />
-    </a>
+    <div class="gallery-item">
+      <iframe
+        src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=30821578274123979&x=0.5&y=0.5&style=photo"
+        allowfullscreen allow="fullscreen">
+      </iframe>
+    </div>
 
-    <a class="gallery-item" href="https://www.mapillary.com/app/?pKey=754408757181659" target="_blank" rel="noopener noreferrer" aria-label="Open Mapillary image 754408757181659">
-      <img loading="lazy" src="https://cdn.mapillary.com/images/754408757181659/thumb-2048.jpg" alt="Mapillary image 754408757181659" />
-    </a>
+    <div class="gallery-item">
+      <iframe
+        src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=754408757181659&x=0.5&y=0.5&style=photo"
+        allowfullscreen allow="fullscreen">
+      </iframe>
+    </div>
 
-    <a class="gallery-item" href="https://www.mapillary.com/app/?pKey=1438418984101265" target="_blank" rel="noopener noreferrer" aria-label="Open Mapillary image 1438418984101265">
-      <img loading="lazy" src="https://cdn.mapillary.com/images/1438418984101265/thumb-2048.jpg" alt="Mapillary image 1438418984101265" />
-    </a>
+    <div class="gallery-item">
+      <iframe
+        src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"
+        allowfullscreen allow="fullscreen">
+      </iframe>
+    </div>
 
-    <a class="gallery-item" href="https://www.mapillary.com/app/?pKey=719333391263051" target="_blank" rel="noopener noreferrer" aria-label="Open Mapillary image 719333391263051">
-      <img loading="lazy" src="https://cdn.mapillary.com/images/719333391263051/thumb-2048.jpg" alt="Mapillary image 719333391263051" />
-    </a>
+    <div class="gallery-item">
+      <iframe
+        src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.5&y=0.5&style=photo"
+        allowfullscreen allow="fullscreen">
+      </iframe>
+    </div>
   </div>
 
 </body>
 </html>
+
+
 <br>
 <hr>
 <br>
