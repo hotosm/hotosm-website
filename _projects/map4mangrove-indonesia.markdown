@@ -279,11 +279,18 @@ Following this milestone and everyone’s collective work so far, we are now tra
       width: 100%;
       aspect-ratio: 4 / 3;
     }
+    .mapillary-item a {
+      display: block;
+      width: 100%;
+      height: 100%;
+      cursor: pointer;
+    }
     .mapillary-item iframe {
       width: 100%;
       height: 100%;
       border: none;
       display: block;
+      pointer-events: none;
     }
     @media (max-width: 768px) {
       .mapillary-grid {
@@ -296,21 +303,30 @@ Following this milestone and everyone’s collective work so far, we are now tra
 
   <div class="mapillary-grid">
     <div class="mapillary-item">
-      <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"
-allowfullscreen
-  allow="fullscreen"></iframe>
+      <a href="https://www.mapillary.com/app/?pKey=769563162192154" target="_blank">
+        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=769563162192154&x=0.5&y=0.5&style=photo"
+        allowfullscreen allow="fullscreen"></iframe>
+      </a>
     </div>
     <div class="mapillary-item">
-      <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=30821578274123979&x=0.5&y=0.5&style=photo"></iframe>
+      <a href="https://www.mapillary.com/app/?pKey=30821578274123979" target="_blank">
+        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=30821578274123979&x=0.5&y=0.5&style=photo"></iframe>
+      </a>
     </div>
     <div class="mapillary-item">
-      <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=754408757181659&x=0.5&y=0.5&style=photo"></iframe>
+      <a href="https://www.mapillary.com/app/?pKey=754408757181659" target="_blank">
+        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=754408757181659&x=0.5&y=0.5&style=photo"></iframe>
+      </a>
     </div>
     <div class="mapillary-item">
-      <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"></iframe>
+      <a href="https://www.mapillary.com/app/?pKey=1438418984101265" target="_blank">
+        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=1438418984101265&x=0.5&y=0.5&style=photo"></iframe>
+      </a>
     </div>
     <div class="mapillary-item">
-      <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.506073122880898&y=0.4994322317768369&style=photo"></iframe>
+      <a href="https://www.mapillary.com/app/?pKey=719333391263051" target="_blank">
+        <iframe src="https://www.mapillary.com/embed?map_style=Mapillary%20light&image_key=719333391263051&x=0.506073122880898&y=0.4994322317768369&style=photo"></iframe>
+      </a>
     </div>
   </div>
 
