@@ -232,6 +232,7 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
     .carousel-wrapper {
       position: relative;
       width: 100%;
+      max-width: 100%;
       margin: 40px auto 0;
       overflow: hidden;
     }
@@ -359,11 +360,13 @@ Improved geospatial insights will also aid collaboration among stakeholders, ens
     });
 
     window.addEventListener('resize', updateSlide);
-    window.addEventListener('load', updateSlide);
+
+    updateSlide();
   </script>
 
 </body>
 </html>
+ 
 <br>
 Built on the principles of open mapping, Map4Mangrove applies a **participatory approach**, where involvement of partners, stakeholders, and local communities are key throughout all of its phases.
 
