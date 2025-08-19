@@ -296,8 +296,8 @@ Considering the area was prone to disasters (including a [tsunami](https://en.wi
   <div class="carousel-wrapper">
     <div class="carousel">
       <div class="carousel-images" id="carousel">
-        <img src="/uploads/Map4Mangrove_Stakeholder-Workshop-6_2025.jpg" alt="1" />
-        <img src="/uploads/Map4Mangrove_Stakeholder-Workshop-7_2025.jpg" alt="2" />
+        <img src="/uploads/Map4Mangrove_Stakeholder-Workshop-6_2025.jpg" alt="4" />
+        <img src="/uploads/Map4Mangrove_Stakeholder-Workshop-7_2025.jpg" alt="5" />
       </div>
     </div>
 
