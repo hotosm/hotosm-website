@@ -271,7 +271,7 @@ At the end of the event, Toufik Alansar, KEHATI’s Marine Program Manager, refl
 
 Looking toward the audience, especially community representatives who have been working tirelessly to improve their local area, he added, “At the end of the day, these mangroves don’t belong to KEHATI or Asahimas. **They belong to the community.** After this project ends in 2026, we will hand over the management of the planted mangrove areas to the community groups.”
 
-“Personally, what I’m really trying to look for today are **gaps.** From the challenges shared and new insights gained, I hope we can try to come up with **solutions** to address those gaps. Let’s continue to collaborate and work together,” Toufik emphasized. 
+> “Personally, what I’m really trying to look for today are **gaps.** From the challenges shared and new insights gained, I hope we can try to come up with **solutions** to address those gaps. Let’s continue to collaborate and work together,” Toufik emphasized.
 
 <hr>
 <br>
