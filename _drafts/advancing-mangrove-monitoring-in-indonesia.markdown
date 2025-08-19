@@ -234,7 +234,7 @@ The session sparked lively discussion from the audience. Once the event entered 
 
 **Harry:** Yes, it is very possible to include a time-series feature to visualize conservation progress over the years.
 
-As for continuity, the main reason we invited everyone here today to contribute to the project—including university students and community representatives—is because we want the dashboard to be more than just a one-time thing. Our hope is that by the end of the project in October, we can hand it over to relevant parties interested in maintaining it, whether for data monitoring or adding new field data.
+As for continuity, the main reason we invited everyone here today to contribute to the project – including university students and community representatives – is because we want the dashboard to be more than just a one-time thing. Our hope is that by the end of the project in October, we can hand it over to relevant parties interested in maintaining it, whether for data monitoring or adding new field data.
 
 That’s also why during our upcoming field mapping activities, we want everyone to get involved and learn how to contribute to the dashboard. This way, **even after this project ends, the dashboard can be continued since capacity building will already be in place.**
 
