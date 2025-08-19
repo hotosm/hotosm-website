@@ -244,6 +244,8 @@ Considering the area was prone to disasters (including a [tsunami](https://en.wi
     }
     .carousel-images {
       display: flex;
+      width: calc(100vw * 2); /* 2 images */
+    }
       transition: transform 0.3s ease-in-out;
       will-change: transform;
     }
