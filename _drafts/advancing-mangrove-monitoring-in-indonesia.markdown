@@ -190,7 +190,7 @@ In this collaboration, AP Hub will work closely with KEHATI and SALAKA to suppor
 
 The main uses of the dashboard will include:
 
-1) **Progress monitoring**
+**1) Progress monitoring**
 * Visualizing the location and distribution of mangrove rehabilitation sites, including key data such as rehabilitation land area (hectares), land legality status, number of planted seedlings, and mangrove planting techniques.
 * Providing field data on mangrove species, diameter at breast height (DBH), and degradation levels to assess health, individual mangrove area characteristics, and rehabilitation effectiveness. 
 * Showcasing the village potential and socio-economic activities near and within the mangrove rehabilitation sites to help understand the overall relationship between mangroves and the surrounding communities.
@@ -198,11 +198,11 @@ The main uses of the dashboard will include:
 
 In summary, having a **centralized, open-source dashboard with reliable and consistent data** will make it easier to track mangrove loss and gain, evaluate success, and make informed management decisions.
 
-2) **Impact reporting**
+**2) Impact reporting**
 
 Showcasing and providing insights into the Blue Carbon program’s collective efforts and ecological impact since its launch in 2021. Through intuitive and engaging visualization, the dashboard shares a **data-driven narrative of rehabilitation progress and the program’s broader environmental and socio-economic outcomes.**
 
-3) **Identifying opportunities for expansion**
+**3) Identifying opportunities for expansion**
 
 Visualizing potential new mangrove rehabilitation areas using data layers from [Global Mangrove Watch](https://www.globalmangrovewatch.org/) and [OpenStreetMap](https://www.openstreetmap.org/).
 
