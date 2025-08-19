@@ -227,7 +227,7 @@ Harry also introduced some of the tools planned to be used for data collection: 
 
 At the end of the day, **community remains at the heart of the open mapping movement.** Ensuring that tools are easy to use is key to driving community involvement and reducing barriers related to digital literacy.
 
-> “Through open mapping, we hope that data collection will not only be done by us, but can also be supported by everyone here today, including community representatives who can give us clearer local insight on current rehabilitation sites,” Harry shared.
+> “Through open mapping, we hope that data collection will not only be done by us, but can also be supported by everyone here today, including community representatives who can give us clearer local insight on current rehabilitation sites.”
 
 <hr>
 <br>
