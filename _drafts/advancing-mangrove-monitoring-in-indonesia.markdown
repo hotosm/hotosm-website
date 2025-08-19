@@ -8,6 +8,7 @@ Summary Text: Effective conservation monitoring requires reliable, open spatial 
   Through the Map4Mangrove project, Open Mapping Hub - Asia Pacific partners with
   organizations engaged in mangrove rehabilitation in Indonesia to strengthen their
   monitoring efforts through open mapping.
+Feature Image: "/uploads/Map4Mangrove_Stakeholder-Workshop-1_2025.jpg"
 Is image top aligned: false
 Person:
 - Tony Liong
@@ -23,21 +24,163 @@ On 8 May 2025, [Open Mapping Hub - Asia Pacific (AP Hub)](https://www.hotosm.org
 
 ### About the Blue Carbon Program
 
-The Blue Carbon program is a joint initiative between KEHATI, SALAKA, and the [Faculty of Agriculture at UNTIRTA (Sultan Ageng Tirtayasa University)](https://faperta.untirta.ac.id/), funded by [PT Asahimas Chemical](https://asc.co.id/index.php/en/).
+The [Blue Carbon program](https://kehati.or.id/en/mangrove-blue-carbon-kehati-and-asahimas-chemical-planting-mangrove-in-pandeglang/) is a joint initiative between KEHATI, SALAKA, and the [Faculty of Agriculture at UNTIRTA (Sultan Ageng Tirtayasa University)](https://faperta.untirta.ac.id/), funded by [PT Asahimas Chemical](https://asc.co.id/index.php/en/).
 
-The program aims to plant a total of 140,000 mangroves across 14 hectares in two subdistricts—Panimbang and Sumur—along the coast of Pandeglang, Banten, Indonesia. Launched in 2021, the program brings together a range of stakeholders, including local government, the university, and community representatives.
+The program aims to plant a total of 140,000 mangroves across 14 hectares in two subdistricts, Panimbang and Sumur, along the coast of Pandeglang, Banten, Indonesia. Launched in 2021, the program brings together a range of stakeholders, including local government, the university, and community representatives.
 
-With the program now entering its fifth year, effective monitoring becomes more crucial than ever. In response to this, AP Hub launched **Map4Mangrove**—an initiative designed to support the Blue Carbon program’s monitoring through the integration of open mapping tools and approaches.
+With the program now entering its fifth year, effective monitoring becomes more crucial than ever. In response to this, AP Hub launched **[Map4Mangrove](https://www.hotosm.org/projects/map4mangrove-indonesia/)** – an initiative designed to support the Blue Carbon program’s monitoring through the integration of open mapping tools and approaches.
 
 <hr>
 
 ### How Open Mapping Can Advance Mangrove Conservation
 
-Despite increased awareness of mangroves’ ecological importance, mangrove management in Indonesia still faces significant challenges. These include limited monitoring and post-planting maintenance. Even when monitoring is in place, **data—including spatial data—are often fragmented or hard to access.**
+Despite increased awareness of mangroves’ ecological importance, mangrove management in Indonesia still faces significant challenges. These include limited monitoring and post-planting maintenance. Even when monitoring is in place, **data – including spatial data – are often fragmented or hard to access.**
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Carousel</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: sans-serif;
+    }
+    .carousel-wrapper {
+      position: relative;
+      width: 100%;
+      max-width: 100%;
+      margin: 40px auto;
+      overflow: hidden;
+    }
+    .carousel {
+      overflow: hidden;
+      width: 100%;
+    }
+    .carousel-images {
+      display: flex;
+      transition: transform 0.3s ease-in-out;
+      will-change: transform;
+    }
+    .carousel-images img {
+      width: 100vw;
+      max-width: 100%;
+      max-height: 600px;
+      object-fit: contain;
+      flex-shrink: 0;
+      display: block;
+    }
+    .carousel-controls {
+      position: absolute;
+      top: 50%;
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      transform: translateY(-50%);
+      pointer-events: none;
+    }
+    .carousel-controls button {
+      background: rgba(0, 0, 0, 0.6);
+      color: white;
+      border: none;
+      font-size: 30px;
+      padding: 10px 18px;
+      cursor: pointer;
+      pointer-events: all;
+      user-select: none;
+      transition: background 0.3s;
+      border-radius: 0;
+      min-width: 40px;
+      min-height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .carousel-controls button:hover {
+      background: rgba(0, 0, 0, 0.8);
+    }
+    @media (max-width: 600px) {
+      .carousel-controls button {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
 
+  <div class="carousel-wrapper">
+    <div class="carousel">
+      <div class="carousel-images" id="carousel">
+        <img src="/uploads/Map4Mangrove_Stakeholder-Workshop-2_2025.jpg" alt="1" />
+        <img src="/uploads/Map4Mangrove_Stakeholder-Workshop-3_2025.jpg" alt="2" />
+        <img src="/uploads/Map4Mangrove_Stakeholder-Workshop-4_2025.jpg" alt="3" />
+      </div>
+    </div>
 
+    <div class="carousel-controls">
+      <button id="prevBtn">‹</button>
+      <button id="nextBtn">›</button>
+    </div>
+  </div>
 
+  <script>
+    const carousel = document.getElementById('carousel');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
+    const totalSlides = carousel.children.length;
+
+    let currentIndex = 0;
+
+    function updateSlide() {
+      const slideWidth = carousel.children[0].offsetWidth;
+      carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
+    }
+
+    function prevSlide() {
+      currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+      updateSlide();
+    }
+
+    function nextSlide() {
+      currentIndex = (currentIndex + 1) % totalSlides;
+      updateSlide();
+    }
+
+    prevBtn.addEventListener('click', prevSlide);
+    nextBtn.addEventListener('click', nextSlide);
+
+    let startX = 0;
+    let endX = 0;
+
+    carousel.addEventListener('touchstart', e => {
+      startX = e.touches[0].clientX;
+    });
+
+    carousel.addEventListener('touchmove', e => {
+      endX = e.touches[0].clientX;
+    });
+
+    carousel.addEventListener('touchend', () => {
+      const diff = startX - endX;
+      if (Math.abs(diff) > 50) {
+        if (diff > 0) nextSlide();
+        else prevSlide();
+      }
+      startX = 0;
+      endX = 0;
+    });
+
+    window.addEventListener('resize', updateSlide);
+
+    updateSlide();
+  </script>
+
+</body>
+</html>
 
 Map4Mangrove’s project lead, [Harry Mahardhika](https://www.hotosm.org/people/harry-mahardhika-machmud/), opened his session with enthusiasm about the collaboration. Leveraging HOT and AP Hub’s expertise in mapping, the project is a great opportunity to showcase the power of open mapping to support issues beyond humanitarian and disaster response. This time, it’s **biodiversity** and **conservation.**
 
