@@ -32,7 +32,7 @@ With the program now entering its fifth year, effective monitoring becomes more 
 
 <hr>
 
-### How Open Mapping Can Advance Mangrove Conservation
+## How Open Mapping Can Advance Mangrove Conservation
 
 Despite increased awareness of mangroves’ ecological importance, mangrove management in Indonesia still faces significant challenges. These include limited monitoring and post-planting maintenance. Even when monitoring is in place, **data – including spatial data – are often fragmented or hard to access.**
 <html lang="en">
@@ -402,7 +402,7 @@ Strong interest was also shown in the tools’ broader applications to address d
 
 <hr>
 
-### Collaboration as Key to Successful Conservation Efforts
+## Collaboration as Key to Successful Conservation Efforts
 
 At the end of the event, Toufik Alansar, KEHATI’s Marine Program Manager, reflected on the Blue Carbon program’s journey over the past four years.
 
@@ -427,7 +427,7 @@ Beyond that, hearing presentations from SALAKA, who work closely with the commun
 
 <hr>
 
-### What’s Next
+## What’s Next
 
 ![Map4Mangrove_Stakeholder-Workshop-11_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-11_2025.jpg)
 
