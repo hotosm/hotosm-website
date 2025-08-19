@@ -1,5 +1,5 @@
 ---
-title: Advancing Mangrove Monitoring in Indonesia through Open Mapping and Collaboration
+title: Advancing Mangrove Monitoring in Indonesia Through Open Mapping and Collaboration
 date: 2025-08-19 18:36:00 Z
 tags:
 - Asia Pacific
