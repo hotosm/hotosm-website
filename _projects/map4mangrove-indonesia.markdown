@@ -52,9 +52,162 @@ Through the **Map4Mangrove** project, [Open Mapping Hub - Asia Pacific (AP Hub)]
 * Disaster risk assessment in the project areas
 * Socio-economic analysis
 
-![Map4Mangrove_Stakeholder-Workshop-2_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-2_2025.jpg)
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>First Carousel - Map4Mangrove</title>
+<style>
+  * {
+    box-sizing: border-box;
+    margin: 0; padding: 0;
+  }
+  body {
+    font-family: sans-serif;
+    overflow-x: hidden;
+    background: #fff;
+  }
+  .carousel-wrapper {
+    position: relative;
+    max-width: 100%;
+    width: 100%;
+    margin: 40px auto 0;
+    overflow: hidden;
+  }
+  .carousel {
+    overflow: hidden;
+    width: 100%;
+  }
+  .carousel-images {
+    display: flex;
+    transition: transform 0.3s ease-in-out;
+    will-change: transform;
+  }
+  .carousel-images img {
+    width: 100%;
+    max-height: 600px;
+    object-fit: contain;
+    flex-shrink: 0;
+    display: block;
+  }
+  .carousel-controls {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    transform: translateY(-50%);
+    pointer-events: none;
+  }
+  .carousel-controls button {
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    border: none;
+    font-size: 30px;
+    padding: 10px 18px;
+    cursor: pointer;
+    pointer-events: all;
+    user-select: none;
+    transition: background 0.3s;
+    border-radius: 0;
+    min-width: 40px;
+    min-height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .carousel-controls button:hover {
+    background: rgba(0, 0, 0, 0.8);
+  }
+  @media (max-width: 600px) {
+    .carousel-controls button {
+      display: none;
+    }
+  }
+  .caption {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 12px;
+    color: #555;
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+</head>
+<body>
 
-<div style="text-align: center; margin-top: 10px;"><span style="font-size: 12px;">The AP Hub team showcased the Map4Mangrove dashboard prototype to local partners and stakeholders during the Blue Carbon program stakeholder workshop. (May 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific</span></div>
+<div class="carousel-wrapper">
+  <div class="carousel">
+    <div class="carousel-images">
+      <img src="/uploads/Map4Mangrove_Stakeholder-Workshop-2_2025.jpg" alt="Stakeholder Workshop 1" />
+      <img src="/uploads/Map4Mangrove_Stakeholder-Workshop-5_2025.jpg" alt="Stakeholder Workshop 2" />
+    </div>
+  </div>
+
+ <div style="text-align: center; margin-top: 10px;"><span style="font-size: 12px;">The AP Hub team showcased the Map4Mangrove dashboard prototype to local partners and stakeholders during the Blue Carbon program stakeholder workshop. (May 2025) | Photo: Tony Liong / Open Mapping Hub - Asia Pacific</span></div>
+
+  <div class="carousel-controls">
+    <button class="prevBtn" aria-label="Previous Slide">‹</button>
+    <button class="nextBtn" aria-label="Next Slide">›</button>
+  </div>
+</div>
+
+<script>
+  (function(){
+    const wrapper = document.querySelector('.carousel-wrapper');
+    const carousel = wrapper.querySelector('.carousel-images');
+    const prevBtn = wrapper.querySelector('.prevBtn');
+    const nextBtn = wrapper.querySelector('.nextBtn');
+    const totalSlides = carousel.children.length;
+    let currentIndex = 0;
+
+    function updateSlide() {
+      const slideWidth = carousel.children[0].offsetWidth;
+      carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
+    }
+
+    function prevSlide() {
+      currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+      updateSlide();
+    }
+
+    function nextSlide() {
+      currentIndex = (currentIndex + 1) % totalSlides;
+      updateSlide();
+    }
+
+    prevBtn.addEventListener('click', prevSlide);
+    nextBtn.addEventListener('click', nextSlide);
+
+    let startX = 0;
+    let endX = 0;
+
+    carousel.addEventListener('touchstart', e => {
+      startX = e.touches[0].clientX;
+    });
+
+    carousel.addEventListener('touchmove', e => {
+      endX = e.touches[0].clientX;
+    });
+
+    carousel.addEventListener('touchend', () => {
+      const diff = startX - endX;
+      if (Math.abs(diff) > 50) {
+        if (diff > 0) nextSlide();
+        else prevSlide();
+      }
+      startX = 0;
+      endX = 0;
+    });
+
+    window.addEventListener('resize', updateSlide);
+    updateSlide();
+  })();
+</script>
+
+</body>
+</html>
 <br>
 A key output of the project is a centralized, interactive **digital dashboard** that visualizes critical data. This data will be used by local stakeholders, including the Pandeglang District Government, to strengthen conservation strategies.
 
