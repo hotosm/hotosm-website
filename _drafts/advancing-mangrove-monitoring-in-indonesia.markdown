@@ -235,26 +235,24 @@ Considering the area was prone to disasters (including a [tsunami](https://en.wi
     .carousel-wrapper {
       position: relative;
       width: 100%;
-      max-width: 100%;
       margin: 20px auto;
       overflow: hidden;
     }
     .carousel {
-      overflow: hidden;
       width: 100%;
+      overflow: hidden;
     }
     .carousel-images {
       display: flex;
       transition: transform 0.3s ease-in-out;
-      will-change: transform;
     }
     .carousel-images img {
-      width: 100vw;
+      width: 100%;
       max-width: 100%;
+      height: auto;
       max-height: 600px;
       object-fit: contain;
       flex-shrink: 0;
-      display: block;
     }
     .carousel-controls {
       position: absolute;
@@ -317,7 +315,7 @@ Considering the area was prone to disasters (including a [tsunami](https://en.wi
     let currentIndex = 0;
 
     function updateSlide() {
-      const slideWidth = window.innerWidth;
+      const slideWidth = carousel.children[0].getBoundingClientRect().width;
       carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
     }
 
