@@ -50,32 +50,42 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
       margin: 0;
       padding: 0;
     }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+    }
+
     body {
       font-family: sans-serif;
+      overflow-x: hidden;
     }
+
     .carousel-wrapper {
-      position: relative;
       width: 100vw;
-      max-width: 100%;
       overflow: hidden;
     }
+
     .carousel {
-      overflow: hidden;
       width: 100%;
+      overflow: hidden;
     }
+
     .carousel-images {
       display: flex;
       transition: transform 0.3s ease-in-out;
       will-change: transform;
     }
+
     .carousel-images img {
-      width: 100%;
-      max-width: 100%;
+      flex: 0 0 100%;
+      width: 100vw;
+      height: auto;
       max-height: 600px;
       object-fit: contain;
-      flex-shrink: 0;
       display: block;
     }
+
     .carousel-controls {
       position: absolute;
       top: 50%;
@@ -85,6 +95,7 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
       transform: translateY(-50%);
       pointer-events: none;
     }
+
     .carousel-controls button {
       background: rgba(0, 0, 0, 0.6);
       color: white;
@@ -95,16 +106,17 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
       pointer-events: all;
       user-select: none;
       transition: background 0.3s;
-      border-radius: 0;
       min-width: 40px;
       min-height: 40px;
       display: flex;
       align-items: center;
       justify-content: center;
     }
+
     .carousel-controls button:hover {
       background: rgba(0, 0, 0, 0.8);
     }
+
     @media (max-width: 600px) {
       .carousel-controls button {
         display: none;
@@ -138,7 +150,7 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
     let currentIndex = 0;
 
     function updateSlide() {
-      const slideWidth = carousel.children[0].offsetWidth;
+      const slideWidth = document.querySelector('.carousel').offsetWidth;
       carousel.style.transform = `translateX(-${currentIndex * slideWidth}px)`;
     }
 
@@ -177,8 +189,7 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
     });
 
     window.addEventListener('resize', updateSlide);
-
-    updateSlide();
+    window.addEventListener('load', updateSlide);
   </script>
 
 </body>
