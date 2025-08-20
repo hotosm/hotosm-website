@@ -306,6 +306,6 @@ Currently, we are preparing for capacity building in the form of training of tra
 
 <hr>
 
-<span style="font-size: 12px;">*Photos: Tony Liong / Open Mapping Hub - Asia Pacific*
+<span style="font-size: 12px;">*Photos: Tony Liong / Open Mapping Hub - Asia Pacific*</span>
 
-Explore more photos from the events [here](https://www.flickr.com/photos/hotosm/albums/72177720328260367/).</span>
+<span style="font-size: 12px;">Explore more photos from the events [here](https://www.flickr.com/photos/hotosm/albums/72177720328260367/).</span>
