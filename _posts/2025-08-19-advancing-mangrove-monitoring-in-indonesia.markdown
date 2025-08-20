@@ -43,7 +43,7 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Carousel</title>
+  <title>Full Width Carousel</title>
   <style>
     * {
       box-sizing: border-box;
@@ -51,19 +51,21 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
       padding: 0;
     }
 
-    body {
+    html, body {
+      width: 100%;
+      height: 100%;
+      overflow-x: hidden;
       font-family: sans-serif;
     }
 
     .carousel-wrapper {
-      max-width: 1000px;
-      margin: 20px auto;
+      width: 100vw;
       overflow: hidden;
       position: relative;
     }
 
     .carousel {
-      width: 100%;
+      width: 100vw;
       overflow: hidden;
     }
 
@@ -73,10 +75,10 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
     }
 
     .carousel-images img {
-      width: 100%;
-      flex: 0 0 100%;
+      width: 100vw;
       height: auto;
-      object-fit: contain;
+      object-fit: cover;
+      flex-shrink: 0;
       max-height: 600px;
       display: block;
     }
