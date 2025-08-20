@@ -210,11 +210,11 @@ In summary, having a **centralized, open-source dashboard with reliable and cons
 
 2) **Impact reporting**
 
-Showcasing and providing insights into the Blue Carbon program’s collective efforts and ecological impact since its launch in 2021. Through intuitive and engaging visualization, the dashboard shares a **data-driven narrative of rehabilitation progress and the program’s broader environmental and socio-economic outcomes.**
+* Showcasing and providing insights into the Blue Carbon program’s collective efforts and ecological impact since its launch in 2021. Through intuitive and engaging visualization, the dashboard shares a **data-driven narrative of rehabilitation progress and the program’s broader environmental and socio-economic outcomes.**
 
 3) **Identifying opportunities for expansion**
 
-Visualizing potential new mangrove rehabilitation areas using data layers from [Global Mangrove Watch](https://www.globalmangrovewatch.org/) and [OpenStreetMap](https://www.openstreetmap.org/).
+* Visualizing potential new mangrove rehabilitation areas using data layers from [Global Mangrove Watch](https://www.globalmangrovewatch.org/) and [OpenStreetMap](https://www.openstreetmap.org/).
 
 ![Map4Mangrove_Stakeholder-Workshop-5_2025.jpg](/uploads/Map4Mangrove_Stakeholder-Workshop-5_2025.jpg)
 
