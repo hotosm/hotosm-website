@@ -59,13 +59,13 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
     }
 
     .carousel-wrapper {
-      width: 100vw;
+      width: 100%;
       overflow: hidden;
       position: relative;
     }
 
     .carousel {
-      width: 100vw;
+      width: 100%;
       overflow: hidden;
     }
 
@@ -75,10 +75,10 @@ Despite increased awareness of mangroves’ ecological importance, mangrove mana
     }
 
     .carousel-images img {
-      width: 100vw;
-      height: auto;
-      object-fit: cover;
       flex-shrink: 0;
+      width: 100%;
+      height: auto;
+      object-fit: contain;
       max-height: 600px;
       display: block;
     }
