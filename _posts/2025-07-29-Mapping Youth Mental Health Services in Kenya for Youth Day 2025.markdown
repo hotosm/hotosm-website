@@ -1,5 +1,5 @@
 ---
-title: Mapping Youth Mental Health Services in Kenya for International Youth Day 2025
+title: Mapping Mental Health Services in Kenya for International Youth Day 2025
 date: 2025-07-29 13:08:00 Z
 Summary Text: 'In celebration of International Youth Day 2025 under the theme ''Youth
   Advancing Multilateral Cooperation Through Technology and Partnerships'', we would
