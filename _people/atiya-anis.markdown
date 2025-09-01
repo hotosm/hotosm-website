@@ -1,6 +1,7 @@
 ---
 title: Atiya Anis
 date: 2024-01-04 10:05:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/Atiya1.jpg
 Member Type:
   Is Staff: true
