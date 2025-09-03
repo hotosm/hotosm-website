@@ -46,6 +46,7 @@ redirect_from:
 ---
 
 Hello, I am Russell Deffner.
+
 I was introduced to the Humanitarian OpenStreetMap Team (HOT) at State of the Map 2011 and began contributing the following year. Since then, I've served in roles ranging from field coordinator to project manager and board leader. Early on, I helped establish HOT's Code of Conduct, chaired the Voting Membership, and coordinated projects such as Mapping Ulaanbaatar, Mongolia.
 
 My work has often centered on disaster mapping and capacity building. I contributed to developing HOT's activation procedures, managed the Eliminate Malaria Mapping Campaign across seven countries, and later oversaw the Facebook AI-Assisted Road Mapping project. From 2020 to 2023, I focused on strengthening local disaster response, helping expand HOT's reach through regional hubs and empowering communities to lead their own crisis mapping.
