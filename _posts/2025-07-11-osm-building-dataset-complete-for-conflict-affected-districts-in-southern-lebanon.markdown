@@ -10,6 +10,7 @@ Summary Text: 'Accurate building footprints are needed to identify the impact of
 Feature Image: "/uploads/lebanon-overview-buildings-sat-3.jpg"
 Person:
 - Claudio de los Reyes Teran
+- Jessica Pechmann
 Country:
 - Lebanon
 Project:
