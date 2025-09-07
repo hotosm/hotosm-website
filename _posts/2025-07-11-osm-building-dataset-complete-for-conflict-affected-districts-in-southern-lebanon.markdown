@@ -107,7 +107,7 @@ Humans-in-the-loop validated OSM data also produces more precise building footpr
 
 ## Fast building data immediately vs better data later
 
-While coverage of building footprints in OSM is improving constantly, there are still gaps globally, see [Analysis of OSM building data completeness using new data](https://heigit.org/analysis-of-osm-building-data-completeness-using-new-data/). When HOT launches a campaign to improve building footprints in a given area after a rapid onset crisis, it usually will not be complete enough for immediate rapid humanitarian needs. Other open automated datasets (such as from Microsoft), are used. **As crowdsourced and validated OSM is shown to outperform these datasets, it is important to update any analysis in southern Lebanon that originally used  Microsoft or other automated footprints.** 
+While coverage of building footprints in OSM is improving constantly, there are still gaps globally, see [Analysis of OSM building data completeness using new data](https://heigit.org/analysis-of-osm-building-data-completeness-using-new-data/) from HeGIT. When HOT launches a campaign to improve building footprints in a given area after a rapid onset crisis, it usually will not be complete enough for immediate rapid humanitarian needs. Other open automated datasets (such as from Microsoft), are used. **As crowdsourced and validated OSM is shown to outperform these datasets, it is important to update any analysis in southern Lebanon that originally used  Microsoft or other automated footprints.** 
 
 ## Buildings use in damage assessments
 
