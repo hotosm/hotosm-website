@@ -4,7 +4,7 @@ date: 2023-02-28 16:08:00 Z
 layout: page
 ---
 
-[![Copy of Living Strategy 2025 .pptx.jpg](https://cdn.hotosm.org/website/Living-+Strategy-2025-Cover.jpg)](https://cdn.hotosm.org/website/HOT_Living_Strategy_2025.pdf)
+[![Copy of Living Strategy 2025 .pptx.jpg](https://cdn.hotosm.org/website/Living-+Strategy-2025-Cover.jpg)](www.hotosm.org/uploads/UpdatedLivingStretegy2025.pdf)
 
 ***Check the full document [here](www.hotosm.org/uploads/UpdatedLivingStretegy2025.pdf).***
 
