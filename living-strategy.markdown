@@ -6,7 +6,7 @@ layout: page
 
 [![Copy of Living Strategy 2025 .pptx.jpg](https://cdn.hotosm.org/website/Living-+Strategy-2025-Cover.jpg)](https://cdn.hotosm.org/website/HOT_Living_Strategy_2025.pdf)
 
-***Check the full document [here](https://cdn.hotosm.org/website/HOT_Living_Strategy_2025.pdf).***
+***Check the full document [here](www.hotosm.org/uploads/UpdatedLivingStretegy2025.pdf).***
 
 As the world continues to change, grow, and shift, we know that no map will ever be fully complete or defined. As such, HOT commits to remaining agile in our approach to update, contribute to and maintain an open map of our world. This commitment will enable communities to identify their priorities, and map what they need the most, when it is needed. 
 
