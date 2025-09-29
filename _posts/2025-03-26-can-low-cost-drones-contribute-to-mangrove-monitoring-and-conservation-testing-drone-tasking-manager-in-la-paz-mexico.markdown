@@ -31,7 +31,7 @@ To change this, Drone Tasking Manager (DroneTM) has been developed as an open-so
 Ivan Gayton, Product Innovation Manager and Humanitarian Advisor at HOT, emphasizes the shift in accessibility by noting that *“previously, aerial imagery was something only large organizations could collect; today, communities can generate their own aerial data with inexpensive, safe, lightweight (therefore lightly-regulated) and accessible drones.”*
 
 ![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+usando+Drones+de+bajo+costo+y+DroneTM.jpg)
-*Image: From left to right — BSCicletos presenting the drone that will support the Guardianas del Conchalito, the workshop coordinator demonstrating the DJI Mini 2 drone, and finally, LAC Hub’s senior manager operating the drone. Credits: RollitoDeGuayaba / Wikimedia Commons, CC BY 4.0*
+*Image: From left to right — BSCicletos presenting the drone that will support the Guardianas del Conchalito, the workshop coordinator demonstrating the DJI Mini 4 Pro drone, and finally, LAC Hub’s senior manager operating the drone. Credits: RollitoDeGuayaba / Wikimedia Commons, CC BY 4.0*
 
 ## What is Drone TM and How Does It Work?
 

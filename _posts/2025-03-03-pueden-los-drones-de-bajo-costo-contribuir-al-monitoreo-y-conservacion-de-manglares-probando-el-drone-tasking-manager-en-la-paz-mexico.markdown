@@ -30,7 +30,7 @@ Para cambiar esto, se ha desarrollado Drone Tasking Manager (DroneTM) como una p
 Ivan Gayton, Gerente de Innovación de Producto y Asesor Humanitario en HOT, destaca este cambio en accesibilidad señalando que: *“Antes, las imágenes aéreas solo podían ser recolectadas por grandes organizaciones; hoy, las comunidades pueden generar sus propios datos aéreos con drones accesibles, económicos, seguros, livianos (por lo tanto, con menor regulación)”.*
 
 ![Monitoreo y Protección de Manglares usando Drones de bajo costo y DroneTM.jpg](https://cdn.hotosm.org/website/Monitoreo+y+Proteccio%CC%81n+de+Manglares+usando+Drones+de+bajo+costo+y+DroneTM.jpg)
-*Imagen: De izquierda a derecha — BCSicletos presentando el dron que apoyará a las Guardianas del Conchalito, la persona coordinadora del taller demostrando el dron DJI Mini 2 y, finalmente, la gerente senior del LAC Hub operando el dron. Créditos: RollitoDeGuayaba / Wikimedia Commons, CC BY 4.0*
+*Imagen: De izquierda a derecha — BCSicletos presentando el dron que apoyará a las Guardianas del Conchalito, la persona coordinadora del taller demostrando el dron DJI Mini 4 Pro y, finalmente, la gerente senior del LAC Hub operando el dron. Créditos: RollitoDeGuayaba / Wikimedia Commons, CC BY 4.0*
 
 ## ¿Qué es DroneTM y cómo funciona?
 
