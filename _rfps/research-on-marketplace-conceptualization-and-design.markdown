@@ -1,6 +1,10 @@
 ---
 title: Research on marketplace conceptualization and design
 date: 2025-10-13 18:51:00 Z
+Deadline Date: 2025-10-27 23:59:00 Z
+Page Contact:
+  Contact Email: fabrizio.scrollini@hotosm.org
+  Label: Submit to this email
 ---
 
 <table style="border-bottom: 1px solid black">
@@ -70,7 +74,7 @@ Once the deliverables of Phase 1 are approved, the Consultant will support HOT t
 * Identify key success factors from a social enterprise perspective
 Outline basic legal, technical, and financial considerations for piloting.
 
-### Proposed Process
+## Proposed Process
 
 We envision a collaborative and iterative approach throughout the six-month engagement period. The consultant will:
 * Participate in fortnightly meetings with the project team to share progress, insights, and emerging findings.
@@ -80,7 +84,7 @@ We envision a collaborative and iterative approach throughout the six-month enga
 * Engage key stakeholders at critical decision points throughout the process.
 * Provide regular written progress updates aligned with phase milestones.
 
-### Who will you be working with on our team?
+## Who will you be working with on our team?
 
 The consultant will report to Senior Director of Global Programs Fabrizio Scrollini and Executive Director Rebecca Firth with regular check-ins throughout the engagement.
 
@@ -91,6 +95,7 @@ The consultant will report to Senior Director of Global Programs Fabrizio Scroll
 We seek an experienced firm or professional with proven expertise in sustainability models, digital platforms, and work with civil society organizations. 
 
 1. Relevant Experience and Track Record
+
 * Demonstrated experience designing or advising on digital marketplace platforms
 * Proven work with civil society organizations, NGOs, or the humanitarian sector
 * Track record in developing sustainability and business models for social enterprises
@@ -104,7 +109,8 @@ We seek an experienced firm or professional with proven expertise in sustainabil
 * Expertise in sustainability models (financial, operational, social)
 * Knowledge of inclusive innovation and capability-building frameworks
 
-3. Methodological Approach and Work Plan 
+3. Methodological Approach and Work Plan
+
 * Quality and feasibility of the proposed research methodology
 * Realistic timeline and phasing
 * Clear articulation of how deliverables will be produced
@@ -115,7 +121,7 @@ We will receive proposals which should include background information of the con
 
 We are seeking to engage with consultancy firms that can provide expert advice within the areas in scope for the duration of an initial 3-6 months. We estimate the level of effort at 40-60 working days over this period.
 
-Please submit proposals to [fabrizio.scrollini@hotosm.org](fabrizio.scrollini@hotosm.org) by the deadline listed below. 
+Please submit proposals to [fabrizio.scrollini@hotosm.org](mailto:fabrizio.scrollini@hotosm.org) by the deadline listed below. 
 
 ## Timeline
 
