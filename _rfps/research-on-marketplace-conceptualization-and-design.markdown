@@ -94,7 +94,7 @@ The consultant will report to Senior Director of Global Programs Fabrizio Scroll
 
 We seek an experienced firm or professional with proven expertise in sustainability models, digital platforms, and work with civil society organizations. 
 
-1. Relevant Experience and Track Record
+A. Relevant Experience and Track Record
 
 * Demonstrated experience designing or advising on digital marketplace platforms
 * Proven work with civil society organizations, NGOs, or the humanitarian sector
@@ -103,13 +103,13 @@ We seek an experienced firm or professional with proven expertise in sustainabil
 * Case studies or examples of similar marketplace or platform projects
 * Understanding of development/humanitarian sector dynamics and challenges
 
-2. Technical Expertise 
+B. Technical Expertise 
 
 * Deep knowledge of digital platform economics and marketplace design
 * Expertise in sustainability models (financial, operational, social)
 * Knowledge of inclusive innovation and capability-building frameworks
 
-3. Methodological Approach and Work Plan
+C. Methodological Approach and Work Plan
 
 * Quality and feasibility of the proposed research methodology
 * Realistic timeline and phasing
