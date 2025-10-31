@@ -1,6 +1,7 @@
 ---
 title: Maureen Kinyanjui
 date: 2023-07-18 11:08:00 Z
+published: false
 Photo: https://cdn.hotosm.org/website/image+(8)-d19e43.png
 Member Type:
   Is Staff: true
