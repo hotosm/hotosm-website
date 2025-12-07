@@ -5,7 +5,18 @@
     <div class="page-body">
       {% include nav.html %}
       <div class="page-content">
+
+        {% comment %}
+        Show the Impact Areas navigation bar on all subpages inside /our-work/
+        but NOT on the main Our Work page itself.
+        {% endcomment %}
+
+        {% if page.url contains "/our-work/" and page.url != "/our-work/" %}
+          {% include impact-areas-nav.html %}
+        {% endif %}
+
         {{ content }}
+
         {% include footer.html %}
       </div>
     </div>

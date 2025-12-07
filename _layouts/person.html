@@ -40,7 +40,7 @@ layout: default
             {% assign page-content = page.content | strip_newlines %}
             {% if page-content != "" %}
               {{ content }}
-              {% else %}
+            {% else %}
               <p>{{ page.title }} is a HOT {% if page['Member Type']['Is Staff'] %}staff member{% elsif page['Member Type']['Is Board'] %}board member{% else %}voting member{% endif %}.</p>
             {% endif %}
           </div>
@@ -127,7 +127,7 @@ layout: default
               {% for group in page['Working Group'] %}
                 <li><a href="/working-groups">{{ group }}</a></li>
               {% endfor %}
-            </ui>
+            </ul>
           </div>
         {% endif %}
 
@@ -135,9 +135,27 @@ layout: default
           <div class="meta-item">
             <h5>On The Web</h5>
             <ul>
+
               {% if page['Social Media (Full URL)'].OSM %}
                 <li><a href="{{ page['Social Media (Full URL)'].OSM }}">OpenStreetMap</a></li>
               {% endif %}
+
+              {% if page['TM Username'] %}
+                <li>
+                  <a href="https://tasks.hotosm.org/users/{{ page['TM Username'] }}" target="_blank">
+                    HOT Tasking Manager
+                  </a>
+                </li>
+              {% endif %}
+
+              {% if page['MM Username'] %}
+                <li>
+                  <a href="https://www.missingmaps.org/users/#/{{ page['MM Username'] }}" target="_blank">
+                    Missing Maps Profile
+                  </a>
+                </li>
+              {% endif %}
+
               {% if page['Social Media (Full URL)'].Twitter %}
                 <li><a href="{{ page['Social Media (Full URL)'].Twitter }}">Twitter</a></li>
               {% endif %}
@@ -153,6 +171,7 @@ layout: default
               {% if page['Social Media (Full URL)'].Website %}
                 <li><a href="{{ page['Social Media (Full URL)'].Website }}">Website</a></li>
               {% endif %}
+
             </ul>
           </div>
         {% endif %}
@@ -164,7 +183,7 @@ layout: default
               {% for language in page['Languages'] %}
                 <li>{{ language }}</li>
               {% endfor %}
-            </ui>
+            </ul>
           </div>
         {% endif %}
       </div>

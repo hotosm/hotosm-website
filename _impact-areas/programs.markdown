@@ -1,12 +1,12 @@
 ---
 title: Programs
 date: 2018-02-06 13:09:00 Z
-position: 5
+position: 6
 Page Link:
   Text: Want to know more?
   Label: Download PDF Infosheet
   Link: https://drive.google.com/file/d/1ymedpWrWl66rCYW9gwHzbqCkt549_k7Z/preview
-src: https://cdn.hotosm.org/website/gender.svg
+src: https://www.hotosm.org/uploads/globe-icon.png
 summary: Equal access & participation in open mapping. Improved understanding and
   accounting of gendered experiences & issues in all impact areas.
 block-1:
@@ -56,4 +56,3 @@ block-3:
     - Example OSM data models accounting for Gender across all Impact Areas
     - Using OSM for gender related SDG indicator tracking
 ---
-
