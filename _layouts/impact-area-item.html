@@ -3,14 +3,21 @@ layout: default
 ---
 
 <div class="page container impact-area-item">
+
   <header class="page-header">
     <h1 class="red center capital">{{ page.title }}</h1>
   </header>
 
-  <div class="impact-area-embedded">
+  {% if page.url contains '/impact-areas/' %}
+    {% include impact-areas-subnav.html %}
+  {% endif %}
 
-      <h4 style="align-items: center; padding: 5% 10% 3% 10%;">{{ page['block-1']['intro2'] | markdownify }}</h4>
+  <div class="impact-area-embedded">
+      <h4 style="align-items: center; padding: 5% 10% 3% 10%;">
+        {{ page['block-1']['intro2'] | markdownify }}
+      </h4>
   </div>
+
   {% if page.title != "Programs" %}
 
   <div id="impact-projects" class="container">
@@ -23,9 +30,7 @@ layout: default
 
       {% for project in sorted-projects %}
         {% if project['Highlight'] contains page.title %}
-
           {% include blocks/project-highlight.html %}
-
         {% endif %}
       {% endfor %}
 
@@ -35,16 +40,11 @@ layout: default
     {% assign project_head_count = 0 %}
     {% for project in sorted-projects %}
       {% if project['Impact Area'] contains page.title %}
-
         {% assign project_head_count = project_head_count | plus: 1 %}
         {% if project_head_count > 3 %}
-
           <h4>More {{ page.title }} Projects</h4>
-          
           <div class="project-index-all">
-
           {% break %}
-
         {% endif %}
       {% endif %}
     {% endfor %}
@@ -52,13 +52,11 @@ layout: default
     {% assign project_count = 0 %}
     {% for project in sorted-projects %}
       {% if project['Impact Area'] contains page.title %}
-
         {% assign project_count = project_count | plus: 1 %}
         {% if project_count > 0 %}
           {% unless project_count < 0 %}
             {% include blocks/project-thumb.html %}
           {% endunless %}
-
         {% endif %}
       {% endif %}
     {% endfor %}
@@ -66,21 +64,16 @@ layout: default
     {% assign project_foot_count = 0 %}
     {% for project in sorted-projects %}
       {% if project['Impact Area'] contains page.title %}
-
         {% assign project_foot_count = project_foot_count | plus: 1 %}
         {% if project_foot_count > 3 %}
-
           </div>
-
           {% break %}
-
         {% endif %}
       {% endif %}
     {% endfor %}
 
   </div>
   {% endif %}
-
 
   {% if page.title == "Programs" %}
       <div id="impact-projects" class="container">
@@ -100,16 +93,11 @@ layout: default
         {% assign program_head_count = 0 %}
         {% for program in sorted-programs %}
           {% if program['Impact Area'] contains page.title %}
-
             {% assign program_head_count = program_head_count | plus: 1 %}
             {% if program_head_count > 3 %}
-
               <h4>More {{ page.title }} programs</h4>
-              
               <div class="project-index-all">
-
               {% break %}
-
             {% endif %}
           {% endif %}
         {% endfor %}
@@ -117,13 +105,11 @@ layout: default
         {% assign program_count = 0 %}
         {% for program in sorted-programs %}
           {% if program['Impact Area'] contains page.title %}
-
             {% assign program_count = program_count | plus: 1 %}
             {% if program_count > 0 %}
               {% unless program_count < 0 %}
                 {% include blocks/project-thumb.html %}
               {% endunless %}
-
             {% endif %}
           {% endif %}
         {% endfor %}
@@ -131,22 +117,15 @@ layout: default
         {% assign program_foot_count = 0 %}
         {% for program in sorted-programs %}
           {% if program['Impact Area'] contains page.title %}
-
             {% assign program_foot_count = program_foot_count | plus: 1 %}
             {% if program_foot_count > 3 %}
-
               </div>
-
               {% break %}
-
             {% endif %}
           {% endif %}
         {% endfor %}
 
       </div>
-{% endif %}
-
-
+  {% endif %}
 
 </div>
-  

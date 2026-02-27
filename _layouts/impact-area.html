@@ -2,117 +2,117 @@
 layout: default
 ---
 
-<div class="project-index">
-  <div class="impact-map-area">
-    <div id="map">
-        <div id="loading-map">
-            <center><p class="loader w40 h40 mb20 red-border"></p></center>
-            <span>Loading map...</span>
-          </div>
-      <center>
-        <div id="hover-country" class="center-hover-map-area"></div>
-      </center>
-      <div class="our-work-map-legend">
-        <div class="legend-item projects">
-          <p>Projects</p>
-        </div>
-      </div>
-    </div>
+<div class="page container impact-area-item">
 
-    <div class="project-index-header" id="impact-areas-select">
-      <div class="container">
-        <h1 class="boxed" id="our-work-title">{{ page.title }}</h1>
-      </div>
-    </div>
+  {% include impact-areas-subnav.html %}
+
+  <header class="page-header">
+    <h1 class="red center capital">{{ page.title }}</h1>
+  </header>
+
+  <div class="impact-area-embedded">
+      <h4 style="align-items: center; padding: 5% 10% 3% 10%;">
+        {{ page['block-1']['intro2'] | markdownify }}
+      </h4>
   </div>
 
-  <div class="container impact-desc-container">
-    <div class="impact-area-desc">
-      <span>{{ content }}<div></div></span>
-    </div>
-  </div>
-  <div class="container">
-    <div class="impact-area-item-module">
-      {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
-      {% for impact-area in sorted-impact-areas %}
-        {% include blocks/impact-area-highlight.html %}
-      {% endfor %}
-    </div>
-  </div>
+  {% if page.title != "Programs" %}
 
   <div id="impact-projects" class="container">
-
-    <h6>Highlighted Projects</h6>
+    <div class="hr-h"></div>
+    <h4>Highlighted Projects</h4>
 
     <div class="project-index-highlights">
-
-      {% assign sorted-projects = site.projects | sort:"position" %}
-
-      {% assign highlight_count = 0 %}
+      {% assign sorted-projects = site.projects | sort:"date" | reverse %}
       {% for project in sorted-projects %}
-        {% if project['Impact Area'] contains "Impact Areas" %}
-
-          {% assign highlight_count = highlight_count | plus: 1 %}
-          {% if highlight_count > 3 %}
-            {% break %}
-          {% endif %}
-
+        {% if project['Highlight'] contains page.title %}
           {% include blocks/project-highlight.html %}
-
         {% endif %}
       {% endfor %}
-
       <div class="hr-h"></div>
-
-    </div>
+    </div> 
 
     {% assign project_head_count = 0 %}
     {% for project in sorted-projects %}
-      {% if project['Impact Area'] contains "Impact Areas" %}
-
+      {% if project['Impact Area'] contains page.title %}
         {% assign project_head_count = project_head_count | plus: 1 %}
         {% if project_head_count > 3 %}
-
-          <h6>More Impact Areas Projects</h6>
+          <h4>More {{ page.title }} Projects</h4>
           <div class="project-index-all">
-
           {% break %}
-
         {% endif %}
       {% endif %}
     {% endfor %}
 
     {% assign project_count = 0 %}
     {% for project in sorted-projects %}
-      {% if project['Impact Area'] contains "Impact Areas" %}
-
+      {% if project['Impact Area'] contains page.title %}
         {% assign project_count = project_count | plus: 1 %}
-        {% if project_count > 3 %}
-          {% unless project_count < 4 %}
-            {% include blocks/project-thumb.html %}
-          {% endunless %}
-
+        {% if project_count > 0 %}
+          {% include blocks/project-thumb.html %}
         {% endif %}
       {% endif %}
     {% endfor %}
 
     {% assign project_foot_count = 0 %}
     {% for project in sorted-projects %}
-      {% if project['Impact Area'] contains "Impact Areas" %}
-
+      {% if project['Impact Area'] contains page.title %}
         {% assign project_foot_count = project_foot_count | plus: 1 %}
         {% if project_foot_count > 3 %}
-
           </div>
-
           {% break %}
-
         {% endif %}
       {% endif %}
     {% endfor %}
+  </div>
+  {% endif %}
 
-  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js'></script>
-  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css' rel='stylesheet' />
-  <script src="{{ "/js/impact-areas-map.js" | prepend: site.baseurl }}"></script>
+  {% if page.title == "Programs" %}
+      <div id="impact-projects" class="container">
+        <div class="hr-h"></div>
+        <h4>Highlighted Programs</h4>
+
+        <div class="project-index-highlights">
+          {% assign sorted_projects = site.programs | sort:"position" %}
+          {% for project in sorted_projects limit:8 %}
+            {% include blocks/program-highlight.html %}
+          {% endfor %}
+          <div class="hr-h"></div>
+        </div> 
+
+        {% assign program_head_count = 0 %}
+        {% for program in sorted-programs %}
+          {% if program['Impact Area'] contains page.title %}
+            {% assign program_head_count = program_head_count | plus: 1 %}
+            {% if program_head_count > 3 %}
+              <h4>More {{ page.title }} programs</h4>
+              <div class="project-index-all">
+              {% break %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        {% assign program_count = 0 %}
+        {% for program in sorted-programs %}
+          {% if program['Impact Area'] contains page.title %}
+            {% assign program_count = program_count | plus: 1 %}
+            {% if program_count > 0 %}
+              {% include blocks/project-thumb.html %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+
+        {% assign program_foot_count = 0 %}
+        {% for program in sorted-programs %}
+          {% if program['Impact Area'] contains page.title %}
+            {% assign program_foot_count = program_foot_count | plus: 1 %}
+            {% if program_foot_count > 3 %}
+              </div>
+              {% break %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </div>
+  {% endif %}
 
 </div>

@@ -19,7 +19,7 @@ After a week and a half of work on the current Syria activation, we have made pl
 
 <ul>
 <li><a href="http://tasks.hotosm.org/job/153">Damascus</a></li>
-<li><a href="http://tasks.hotosm.org/job/154">Aleppo</a></li>
+<li><a href="http://.hotosm.org/job/154">Aleppo</a></li>
 <li><a href="http://tasks.hotosm.org/job/155">Homs</a></li>
 </ul>
 

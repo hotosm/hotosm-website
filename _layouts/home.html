@@ -94,20 +94,6 @@
             </div>  
           </div>
         </div>
-        <!-- <div class="slide">
-          {% for home-news in page.News limit:3 %}
-                  {% for project in site.projects %}
-                  {% if home-news == project.title %}
-          <img id="slide-5" src="{{ project['Feature Image'] }}" alt="{{ project.title }}"/>
-          <div class="overlay-alt">
-            <div class="overlay-text">
-              <h3 class="home-carrousel-projects" style="background-color: white; padding: 2%;">EVENTS: <a style="color: black;" href="{{ project.url }}">{{ project['Summary Text'] }}</a></h3>
-              {% endif %}
-              {% endfor %}
-          {% endfor %}
-            </div>  
-          </div>
-        </div> -->
       </div>
 
       <div class="slider-nav">
@@ -115,7 +101,6 @@
         <a href="#slide-2" data-slide="1"></a>
         <a href="#slide-3" data-slide="2"></a>
         <a href="#slide-4" data-slide="3"></a>
-        <!-- <a href="#slide-5" data-slide="4"></a> -->
       </div>
 
       <!-- Arrows for navigation -->
@@ -126,134 +111,126 @@
 
   <script src="/js/carrousel-homepage.js"></script>
   
+  <div class="container home-stats">
+    <div class="home-stat">
+      <p class="stat-number">491K</p>
+      <p class="stat-title">Total Mappers<sup>&#9432;</sup>
+        <span class="tooltiptext">Total number of Mappers using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a>  - as of May 2024</span>
+      </p>
+    </div>
+    <div class="hr-v"></div>
+    <div class="home-stat">
+      <p class="stat-number">260M</p>
+      <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
+        <span class="tooltiptext">Total number of edits mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> - as of May 2024</span>
+      </p>
+    </div>
+    <div class="hr-v hide-sm"></div>
+    <div class="home-stat">
+      <p class="stat-number">156.4M</p>
+      <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
+        <span class="tooltiptext">Total number of buildings mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a>  - as of May 2024</span>
+      </p>
+    </div>
+    <div class="hr-v"></div>
+    <div class="home-stat">
+      <p class="stat-number">3.4M</p>
+      <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
+        <span class="tooltiptext">Total length of roads mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> - as of May 2024</span>
+      </p>
+    </div>
+  </div>
 
+  <div class="news-preview">
+    <div class="container">
 
+      <header class="module-header">
+        <h6>Updates</h6>
+      </header>
 
-        
+      <div class="news-preview-group">
 
-
-
-
-          <div class="container home-stats">
-            <div class="home-stat">
-              <p class="stat-number">491K</p>
-              <p class="stat-title">Total Mappers<sup>&#9432;</sup>
-                <span class="tooltiptext">Total number of Mappers using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a>  - as of May 2024</span>
-              </p>
+        {% for post in site.posts limit:3 %}
+          <div class="news-preview-item item-{{ forloop.index }}">
+            <div class="news-preview-image">
+              <img {% if post['Is image top aligned'] %} style="object-position: top center" {% endif %} src="{{ post['Feature Image'] }}">
             </div>
-            <div class="hr-v"></div>
-            <div class="home-stat">
-              <p class="stat-number">260M</p>
-              <p class="stat-title">Total Map Edits<sup>&#9432;</sup>
-                <span class="tooltiptext">Total number of edits mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> - as of May 2024</span>
-              </p>
-            </div>
-            <div class="hr-v hide-sm"></div>
-            <div class="home-stat">
-              <p class="stat-number">156.4M</p>
-              <p class="stat-title">Buildings Mapped<sup>&#9432;</sup>
-                <span class="tooltiptext">Total number of buildings mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a>  - as of May 2024</span>
-              </p>
-            </div>
-            <div class="hr-v"></div>
-            <div class="home-stat">
-              <p class="stat-number">3.4M</p>
-              <p class="stat-title">Roads Mapped (KM)<sup>&#9432;</sup>
-                <span class="tooltiptext">Total length of roads mapped using <a href="https://tasks.hotosm.org/" target="_blank">HOT Tasking Manager</a> - as of May 2024</span>
-              </p>
-            </div>
-          </div>
-
-          <div class="news-preview">
-            <div class="container">
-
-              <header class="module-header">
-                <h6>Updates</h6>
-              </header>
-
-              <div class="news-preview-group">
-
-                {% for post in site.posts limit:3 %}
-                  <div class="news-preview-item item-{{ forloop.index }}">
-                    <div class="news-preview-image">
-                      <img {% if post['Is image top aligned'] %} style="object-position: top center" {% endif %} src="{{ post['Feature Image'] }}">
-                    </div>
-                    <div class="news-preview-details">
-                     <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
-                     <div class="news-preview-text">
-                        <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
-                        <p>
-                          {% if post['Summary Text'] %}
-                            {{ post['Summary Text']}}
-                          {% else %}
-                            {{ post.excerpt | strip_html | truncatewords:24 }}
-                          {% endif %}
-                        </p>
-                        <p class="news-preview-meta">
-                          {% if post.Country != '' %}
-                            {% for country in post.Country %}
-                              {% if country != '' %}
-                                {% if post.Country.size <= 3 %}
-                                  {{ country }}{% unless forloop.last %},{% endunless %}
-                                {% else %}
-                                  {% assign count = post.Country.size %}
-                                  {{post.Country[0]}} and {{ count | minus:1 }} other countries
-                                  {% break %}
-                                {% endif %}
-                              {% else %}
-                                Global
-                              {% endif %}
-                            {% endfor %}
-                          {% endif %}
-                          {% if post.Person %}
-                            -{% for author in post.Person %}
-                              {{ author }}{% unless forloop.last %},{% endunless %}
-                            {% endfor %}
-                          {% endif %}
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                {% endfor %}
-
+            <div class="news-preview-details">
+             <p class="news-preview-meta">{{ post.date | date: '%e %b %Y' }}</p>
+             <div class="news-preview-text">
+                <a href="{{ post.url }}"><h4>{{ post.title }}</h4></a>
+                <p>
+                  {% if post['Summary Text'] %}
+                    {{ post['Summary Text']}}
+                  {% else %}
+                    {{ post.excerpt | strip_html | truncatewords:24 }}
+                  {% endif %}
+                </p>
+                <p class="news-preview-meta">
+                  {% if post.Country != '' %}
+                    {% for country in post.Country %}
+                      {% if country != '' %}
+                        {% if post.Country.size <= 3 %}
+                          {{ country }}{% unless forloop.last %},{% endunless %}
+                        {% else %}
+                          {% assign count = post.Country.size %}
+                          {{post.Country[0]}} and {{ count | minus:1 }} other countries
+                          {% break %}
+                        {% endif %}
+                      {% else %}
+                        Global
+                      {% endif %}
+                    {% endfor %}
+                  {% endif %}
+                  {% if post.Person %}
+                    -{% for author in post.Person %}
+                      {{ author }}{% unless forloop.last %},{% endunless %}
+                    {% endfor %}
+                  {% endif %}
+                </p>
               </div>
-
             </div>
           </div>
+        {% endfor %}
 
-          <div class="container">
+      </div>
 
-            {% include impact-areas.html %}
+    </div>
+  </div>
 
-            <div class="hr-h"></div>
+  <div class="container">
 
-            <div class="module-group two-rows">
-              <a class="module link-through light-img one" href="{{ page['Home Module 1'].URL }}">
-                <div class="module-details">
-                  <h3>{{ page['Home Module 1'].Header }}</h3>
-                  <div class="module-text"><p>{{ page['Home Module 1'].Text }}</p></div>
-                  <p class="module-cta">{{ page['Home Module 1']['Call to Action'] }}</p>
-                </div>
-                <div class="module-image">
-                  <img src="{{ page['Home Module 1'].Image }}">
-                </div>
-              </a>
-              <a class="module link-through light-img two" href="{{ page['Home Module 2'].URL }}">
-                <div class="module-details">
-                  <h3>{{ page['Home Module 2'].Header }}</h3>
-                  <div class="module-text"><p>{{ page['Home Module 2'].Text }}</p></div>
-                  <p class="module-cta"><span>{{ page['Home Module 2']['Call to Action'] }}</span></p>
-                </div>
-                <div class="module-image">
-                  <img src="{{ page['Home Module 2'].Image }}">
-                </div>
-              </a>
-              <a class="module link-through light-img three" href="{{ page['Home Module 3'].URL }}">
-                <div class="module-details">
-                  <h3>{{ page['Home Module 3'].Header }}</h3>
-                  <div class="module-text"><p>{{ page['Home Module 3'].Text }}</p></div>
-                  <p class="module-cta">{{ page['Home Module 3']['Call to Action'] }}</p>
-                </div>
+    {% include impact-areas.html %}
+
+    <div class="hr-h"></div>
+
+    <div class="module-group two-rows">
+      <a class="module link-through light-img one" href="{{ page['Home Module 1'].URL }}">
+        <div class="module-details">
+          <h3>{{ page['Home Module 1'].Header }}</h3>
+          <div class="module-text"><p>{{ page['Home Module 1'].Text }}</p></div>
+          <p class="module-cta">{{ page['Home Module 1']['Call to Action'] }}</p>
+        </div>
+        <div class="module-image">
+          <img src="{{ page['Home Module 1'].Image }}">
+        </div>
+      </a>
+      <a class="module link-through light-img two" href="{{ page['Home Module 2'].URL }}">
+        <div class="module-details">
+          <h3>{{ page['Home Module 2'].Header }}</h3>
+          <div class="module-text"><p>{{ page['Home Module 2'].Text }}</p></div>
+          <p class="module-cta"><span>{{ page['Home Module 2']['Call to Action'] }}</span></p>
+        </div>
+        <div class="module-image">
+          <img src="{{ page['Home Module 2'].Image }}">
+        </div>
+      </a>
+      <a class="module link-through light-img three" href="{{ page['Home Module 3'].URL }}">
+        <div class="module-details">
+          <h3>{{ page['Home Module 3'].Header }}</h3>
+          <div class="module-text"><p>{{ page['Home Module 3'].Text }}</p></div>
+          <p class="module-cta">{{ page['Home Module 3']['Call to Action'] }}</p>
+        </div>
                 <div class="module-image">
                   <img src="{{ page['Home Module 3'].Image }}">
                 </div>
@@ -264,7 +241,11 @@
 
             <div class="home-newsletter">
               <div class="newsletter-signup">
-                <h2>Subscribe for updates <br>& announcements</h2>
+                <h2>
+                  <a class="newsletter-header-link" href="https://hotosm.us9.list-manage.com/subscribe/post?u=5191e27b207136970f2a9ec1b&id=033588d35b&f_id=00a114e1f0">
+                    Subscribe for updates <br>& announcements
+                  </a>
+                </h2>
                 {% include newsletter-form.html %}
               </div>
               <div class="newsletter-description">

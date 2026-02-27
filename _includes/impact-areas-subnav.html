@@ -1,0 +1,26 @@
+<div class="impact-areas-subnav">
+  <ul class="impact-areas-list">
+    {% assign sorted-impact-areas = site.impact-areas | sort: 'position' %}
+    {% for impact-area in sorted-impact-areas %}
+
+      {% if impact-area.title == 'Disaster Response' %}
+        <li>
+          <a href="/disaster-services/project_activations.html"
+             class="{% if page.title == 'Disaster Response' %}active{% endif %}">
+            <img src="{{ impact-area.src }}" alt="{{ impact-area.title }}">
+            <span>{{ impact-area.title }}</span>
+          </a>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{ impact-area.url }}"
+             class="{% if page.title == impact-area.title %}active{% endif %}">
+            <img src="{{ impact-area.src }}" alt="{{ impact-area.title }}">
+            <span>{{ impact-area.title }}</span>
+          </a>
+        </li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+</div>
