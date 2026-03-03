@@ -31,3 +31,9 @@ gem 'jekyll-redirect-from'
 gem 'jekyll-sitemap'
 gem 'kramdown-parser-gfm', '~> 1.1.0'
 gem "webrick", "~> 1.8"
+
+# Required for Ruby 3.4+ compatibility
+gem "csv"
+gem "logger"
+gem "base64"
+gem "bigdecimal"
